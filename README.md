@@ -1,31 +1,37 @@
 # MYBYB
 
-**Make Your Boss Your Bitch** — an edgy, short, funny workplace-survival book. Half satire, half genuinely useful self-leadership advice, for the person stuck under an incompetent boss who wants to do something about it.
+An edgy, funny, **gift-book-sized survival guide for your first decade in the workforce** — built on one liberating secret: the bar is on the floor, and beating your beatable boss is going to be kind of fun.
 
-> Status: **consolidating.** ~60–70% drafted across 10 Google Drive files (2014–2018), now being pulled into one clean source of truth here.
+> Status: **rebooting.** The 2014–2018 idea is being fully reimagined for 2026. Direction locked; drafting the new manuscript.
+
+## Read this first
+
+👉 **[`docs/CONCEPT.md`](docs/CONCEPT.md) is the north star** — thesis, tone, audience, business model, and the chapter spine.
 
 ## Where things live
 
 | Path | What it is |
 |------|------------|
-| [`manuscript/MYBYB-master.md`](manuscript/MYBYB-master.md) | **The book.** Consolidated master manuscript (spine = May 2018 draft), voice preserved, gaps flagged with `[TODO]`. |
-| [`docs/LEXICON.md`](docs/LEXICON.md) | The proprietary vocabulary & frameworks — the reusable core of the brand. |
-| [`docs/BACKLOG.md`](docs/BACKLOG.md) | Everything left to finish, prioritized. Start here to see what's next. |
-| [`docs/DRAFT-INVENTORY.md`](docs/DRAFT-INVENTORY.md) | Map of all 10 Drive drafts and what's unique in each. |
-| [`docs/POSITIONING.md`](docs/POSITIONING.md) | Comps, audience, voice, and the multi-platform roadmap. |
+| [`docs/CONCEPT.md`](docs/CONCEPT.md) | **The reboot brief.** Current source of truth for direction. |
+| [`manuscript/reboot/`](manuscript/reboot/) | **The new book**, being drafted chapter by chapter in the reboot voice. |
+| [`docs/LEXICON.md`](docs/LEXICON.md) | Proprietary vocabulary & named frameworks — reusable brand core. |
+| [`docs/POSITIONING.md`](docs/POSITIONING.md) | Comps, audience, voice, roadmap. |
+| [`docs/BACKLOG.md`](docs/BACKLOG.md) | What's left to finish, prioritized. |
+| [`docs/DRAFT-INVENTORY.md`](docs/DRAFT-INVENTORY.md) | Map of the 10 original Drive drafts. |
+| [`manuscript/MYBYB-master.md`](manuscript/MYBYB-master.md) | The consolidated **original** (2014–2018). Now raw ore — mined for ideas, not voice. |
 
 ## The idea in one line
 
-*Ten skills to stop suffering under incompetence and start running the room.*
+*Your boss is probably faking it. That's not oppression — it's an achievable goal. Here's how to take the wheel (and have fun doing it).*
 
-## How we're working
+## Tone in one rule
 
-Ship something small first (finish the short book), then ladder into an illustrated gift book, a seminar/deck, and beyond. The **Lexicon + named frameworks** are the through-line asset across every format. See `docs/POSITIONING.md`.
+Amused confidence, never anger. The reader looks **down** at a comically beatable obstacle and laughs — never **up** at an oppressor. The bite points at incompetence, never at people.
 
 ## Immediate next steps
 
-1. Recover the **Prelude** and **"six-week plan"** framing from the older Drive drafts.
-2. Draft the missing **Chapter 4 (Leadership — Destroy all Hope)**.
-3. Reconcile the Ten Skills list with the actual chapters; write the **back matter**.
+1. React to the first rebooted chapter (`manuscript/reboot/01-...`) and lock the voice.
+2. Draft the rest of the Part I chapters.
+3. Land the edgy-now **title** + cover concept.
 
 _This repo is organizational scaffolding for a book-in-progress, not software._

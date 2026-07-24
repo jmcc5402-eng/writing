@@ -1,14 +1,17 @@
 # MYBYB — Positioning & Roadmap
 
+> **Reboot note (2026):** direction is now defined in [`CONCEPT.md`](CONCEPT.md) — treat that as the north star.
+> The sections below are retained for the roadmap/comps; the "what it is / voice / audience" have been updated to the reboot.
+
 ## What it is
 
-An edgy, short, funny workplace-survival book. Half satire, half genuinely useful management/self-leadership advice. Written for the person stuck under an incompetent boss who wants to *do something about it* — improve their situation, their team's, and (if the boss won't get on board) route around them. Read on a phone, at lunch, or "at night with a beer."
+An edgy, funny, **gift-book-sized survival guide for your first decade in the workforce.** A genuinely useful early-career toolkit wearing a gag-gift costume — built on one liberating secret: your boss is probably faking it, and that's an *achievable* obstacle, not oppression.
 
-**One-liner:** *Make Your Boss Your Bitch — ten skills to stop suffering under incompetence and start running the room.*
+**One-liner:** *Your boss is probably faking it. The bar is on the floor — here's how to take the wheel (and have fun doing it).*
 
 ## Voice
 
-Irreverent, profane-when-it-lands, confident, self-deprecating ("does the whole book suck (like this one)?"). Real frameworks under the jokes. Think *manager who's seen it all, telling you the truth over a drink.*
+**Amused confidence, never anger.** Deadpan, precise, savage about incompetence — but the reader always looks *down* at a beatable obstacle and laughs, never *up* at an oppressor. Grievance is banned (low-status, unfunny). Real frameworks under the jokes. The bite points at broken systems and fakers, never at people.
 
 ## Comps & the "I was first" note
 
