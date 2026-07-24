@@ -93,8 +93,11 @@ The project evolved across several years of drafts. These are now **locked**:
 - **[Canon decision] Family surname:** **Wilson.** (Superseded *Travers*.)
 - **[Canon decision] Home city:** **Seattle.**
 - **[Canon decision] Assignment length:** the family stays **~3 months** per
-  city. (Superseded the earlier "12 cities in one year / one month each" idea,
-  which left too little room per mystery.)
+  city *as the default*. (Superseded the earlier "12 cities in one year / one
+  month each" idea, which left too little room per mystery.) **This is flexible
+  by design:** an unusually short stay can be used as a deliberate *plot
+  constraint* in a future book — a ticking clock that forces the twins to solve
+  the case faster than usual.
 - **[Canon decision] Aunt & Uncle:** **Jenny & Jacob.** Jenny is Erin's sister.
   (An earlier draft used "Uncle James"; retired.)
 - **[Canon decision] Book 1 villain:** **Dr. Marcus Lee** (a disgraced

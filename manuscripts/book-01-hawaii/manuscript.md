@@ -41,7 +41,7 @@ An elderly woman emerged from Kekoa's house, wearing a bright floral dress. "Wel
 
 "The one with all the ancient Hawaiian artifacts?" Andrew asked, suddenly interested.
 
-"That's right. You should come visit sometime. We just opened a fascinating new exhibit…” Mrs. Kalani's invitation was cut short by Blazer's excited barking.
+"That's right. You should come visit sometime. We just opened a fascinating new exhibit…" Mrs. Kalani's invitation was cut short by Blazer's excited barking.
 
 Amanda spotted what had caught their dog's attention: strange markings carved into some rocks near their property line. "Hey, what are those symbols over there?"
 
@@ -55,11 +55,11 @@ Amanda spotted what had caught their dog's attention: strange markings carved in
 
 "No way! Each symbol meant something to them. Like this spiral here? It could represent the ocean, or maybe even eternity. My grandmother knows all about them - she gives tours at the cultural center."
 
-“Kids, time to set up your rooms!” The twins turned towards the house to see their mom calling.
+"Kids, time to set up your rooms!" The twins turned towards the house to see their mom calling.
 
-“I guess we need to head in, nice to meet you Kekoa,” Andrew said, still eyeing the drone.
+"I guess we need to head in, nice to meet you Kekoa," Andrew said, still eyeing the drone.
 
-After dragging his suitcase up the stairs, Andrew stepped into his new bedroom and immediately frowned. The space was half the size of his room back in Seattle, and the closet could barely fit his lacrosse gear. But then he noticed the window, he could see surfers dotting the ocean waves like tiny dots. “Maybe a room with a view isn’t that bad after all,” he thought to himself.
+After dragging his suitcase up the stairs, Andrew stepped into his new bedroom and immediately frowned. The space was half the size of his room back in Seattle, and the closet could barely fit his lacrosse gear. But then he noticed the window, he could see surfers dotting the ocean waves like tiny dots. "Maybe a room with a view isn't that bad after all," he thought to himself.
 
 That evening, the family gathered for dinner on the lanai. The sunset painted the sky in brilliant oranges and pinks, and the gentle sound of waves provided perfect dinner music. Their dad had fired up the grill for the first time, proudly serving hamburgers with grilled pineapple.
 
@@ -69,7 +69,7 @@ That evening, the family gathered for dinner on the lanai. The sunset painted th
 
 "Plus," their mom continued, "Mrs. Kalani mentioned that Kekoa's involved in all sorts of local activities. I bet he could show you around."
 
-Amanda picked at her coleslaw and slid the pineapple off of her hamburger. She watched Blazer make another failed attempt to catch a sand crab and said, “yeah, I guess Andrew and I will go explore tomorrow.”
+Amanda picked at her coleslaw and slid the pineapple off of her hamburger. She watched Blazer make another failed attempt to catch a sand crab and said, "yeah, I guess Andrew and I will go explore tomorrow."
 
 Her brother wasn't listening though. He was staring at the rocks with the strange carvings, now barely visible in the fading light.
 
@@ -91,13 +91,13 @@ The walk to the library took them past a shave ice stand, where Andrew and Amand
 
 "What's lilikoi?" Andrew asked, squinting at the sign.
 
-"Passion fruit," called the vendor cheerfully. "Best flavor in Hawaii! Here try a sample…”
+"Passion fruit," called the vendor cheerfully. "Best flavor in Hawaii! Here try a sample…"
 
 Licking their lips, the kids continued on. They passed two surf shops and a small farmers market where fresh pineapples were stacked in neat pyramids. Andrew stopped to watch a street performer playing a ukulele, much to his sister's annoyance.
 
 "Come on, Andrew! You walk slower than Blazer chasing his tail," Amanda teased, bouncing her soccer ball against her knee.
 
-"We wouldn’t be in such a rush if Mom and Dad gave us phones," Andrew replied, still watching the musician. "We could just text them where we are."
+"We wouldn't be in such a rush if Mom and Dad gave us phones," Andrew replied, still watching the musician. "We could just text them where we are."
 
 "Nice try." Amanda grabbed his arm. "Mom already said not until high school. Now hurry up!"
 
@@ -107,13 +107,13 @@ After checking the clock on the wall, Amanda stood up to go find Andrew. As the 
 
 "Would you two like a special tour of the cultural center?" she asked. "We just opened a new exhibit about ancient Hawaiian artifacts."
 
-The kids looked at each other, not sure what to say. “Thanks so much Mrs. Kalani, but I don’t think we have time. We need to get home for lunch. Maybe we can come back tomorrow with Kekoa.”
+The kids looked at each other, not sure what to say. "Thanks so much Mrs. Kalani, but I don't think we have time. We need to get home for lunch. Maybe we can come back tomorrow with Kekoa."
 
 The late morning sun blazed overhead as Andrew and Amanda took the hiking trail home from the cultural center. They needed to hurry - Mom did not like them to be late. Their new shortcut wound through a grove of coconut palms and past black volcanic rocks covered in moss. "Race you to the banyan tree!" Amanda called out, but Andrew wasn't listening. He had stopped in his tracks, staring at something on a large rock partially hidden by ferns.
 
 "Amanda, look at this!" he said, pushing aside the greenery.
 
-Carved into the volcanic rock were more mysterious symbols like the ones near their house. But these were different - they seemed to point in a specific direction. Amanda pulled out her notebook and quickly sketched the new markings, her eyes lighting up the way they always did when she encountered a new puzzle. Back home in Seattle, she'd spend hours solving riddles in her puzzle books or working out math problems- just for fun. Even her soccer coach said she was great at reading patterns in the opposing team's defense.
+Carved into the volcanic rock were more mysterious symbols like the ones near their house. But these were different - they seemed to point in a specific direction. Amanda pulled out her notebook and quickly sketched the new markings, her eyes lighting up the way they always did when she encountered a new puzzle. Back home in Seattle, she'd spend hours solving riddles in her puzzle books or working out math problems - just for fun. Even her soccer coach said she was great at reading patterns in the opposing team's defense.
 
 Now, studying these ancient carvings, she could feel that familiar excitement building as she noticed how these new symbols connected perfectly with the ones they'd found earlier. "Andrew," she said, "I think these symbols might be pieces of a bigger puzzle. Look how they line up with my other drawings!"
 
@@ -149,9 +149,9 @@ Amanda leaned over to look at the image, then froze. Her eyes darted between the
 
 Before she could explain, Mrs. Kalani appeared at their door. "I'm sorry, children, but I need to ask you to pack up. We have to close for the investigation." She paused, noticing Amanda's intense focus on her drawings. "Amanda, is everything alright?"
 
-Amanda looked up from her drawings, paused for a moment and said, “oh yes, we were just leaving.” As the twins walked out of the building, Amanda wondered whether she should have told Mrs. Kalani about the connection she had made.
+Amanda looked up from her drawings, paused for a moment and said, "oh yes, we were just leaving." As the twins walked out of the building, Amanda wondered whether she should have told Mrs. Kalani about the connection she had made.
 
-A little while later the twins sat cross-legged under a banyan tree near the beach, crumbs from their sandwiches sprinkled over the sketches in Amanda’s notebook. She pulled the image of the missing fishhook up on Andrew's tablet, holding it next to one of her drawings.
+A little while later the twins sat cross-legged under a banyan tree near the beach, crumbs from their sandwiches sprinkled over the sketches in Amanda's notebook. She pulled the image of the missing fishhook up on Andrew's tablet, holding it next to one of her drawings.
 
 "See?" she said, tracing the curved line of the petroglyph with her finger. "It's exactly the same shape as the fishhook. Even these tiny marks along the edge match perfectly." She bit her lip, a habit that always showed up when she was solving a particularly tricky math problem.
 
@@ -159,7 +159,7 @@ Andrew leaned in closer, his eyes widening. "You're right! But why would someone
 
 Before Amanda could answer, Andrew's tablet started buzzing. "Incoming video call from Aunt Jenny," flashed across the screen. The twins groaned - their aunt and uncle had a talent for calling at the most inconvenient moments.
 
-"Hey kiddos!" Aunt Jenny's familiar face appeared, Uncle Jacob peering over her shoulder. "How's island life treating you? I can't believe you get WIFI at the beach!" Uncle Jacob exclaimed.
+"Hey kiddos!" Aunt Jenny's familiar face appeared, Uncle Jacob peering over her shoulder. "How's island life treating you? I can't believe you get Wi-Fi at the beach!" Uncle Jacob exclaimed.
 
 As Andrew described their new house, Amanda tried to subtly slide her sketches out of view. "What's that you're working on?" Uncle Jacob asked, noticing Amanda's movement. "Looks like some kind of pattern analysis." Amanda hesitated, then held up one of her drawings. She explained about finding the petroglyphs, carefully leaving out any mention of the missing fishhook.
 
@@ -167,9 +167,9 @@ As Andrew described their new house, Amanda tried to subtly slide her sketches o
 
 Amanda's eyes lit up and she muted the tablet. "Uncle Jacob just gave me an idea," she said to Andrew. "We need to go back to those rocks - but this time, we need to look for more than just the fishhook symbol."
 
-“It was great talking to you Uncle Jacob and Aunt Jenny,” Amanda said, “you should come visit us soon!”
+"It was great talking to you Uncle Jacob and Aunt Jenny," Amanda said, "you should come visit us soon!"
 
-“It sounds like you two are busy. Maybe we can make it out there in a couple weeks after we wrap up this project in Indonesia. Love you two, bye!”
+"It sounds like you two are busy. Maybe we can make it out there in a couple weeks after we wrap up this project in Indonesia. Love you two, bye!"
 
 The kids crammed the rest of their lunch into their backpacks and headed back to the path and the petroglyphs they found earlier.
 
@@ -181,7 +181,7 @@ As Amanda backed up to get a broader view, she noticed something in the mud on t
 
 A low rumble of thunder made the twins look up from the mysterious footprints. Dark clouds were rolling in from the ocean, much faster than usual.
 
-"I’d love to follow these tracks, but Mom said that storms appear out of nowhere in Hawaii." Amanda said reluctantly, watching the sky darken.
+"I'd love to follow these tracks, but Mom said that storms appear out of nowhere in Hawaii." Amanda said reluctantly, watching the sky darken.
 
 "Maybe we can come back tomorrow with Kekoa," Andrew suggested, quickly photographing the last few symbols. The wind was picking up, scattering leaves across the petroglyphs and making Amanda's notebook pages flutter. "He might know more about these markings."
 
@@ -191,19 +191,19 @@ Just as they turned to leave, a bright flash of lightning illuminated the rocks 
 
 During their online classes the next day, neither twin could focus on their lessons. Amanda doodled petroglyphs in the margins of her math homework, trying to find more connections. Andrew remembered the new markings they saw on the rocks during the storm. When their lunch break finally arrived, they hurried to meet Kekoa in his grandmother's office at the cultural center.
 
-"Things are crazy today," Kekoa said, “Another artifact was stolen overnight! The staff is starting to panic a little bit. Nothing this exciting usually happens around here.”
+"Things are crazy today," Kekoa said, "Another artifact was stolen overnight! The staff is starting to panic a little bit. Nothing this exciting usually happens around here."
 
-The second artifact was an ancient ceremonial bowl. Amanda sat a desk and fired up her tablet to examine a picture of it. Then she noticed something startling. The missing bowl's distinctive spiral pattern perfectly matched one of the carved symbols she'd been studying from the rocks on the path. Her heart beating faster with excitement, she knew she had to show this to Andrew and Kekoa.
+The second artifact was an ancient ceremonial bowl. Amanda sat at a desk and fired up her tablet to examine a picture of it. Then she noticed something startling. The missing bowl's distinctive spiral pattern perfectly matched one of the carved symbols she'd been studying from the rocks on the path. Her heart beating faster with excitement, she knew she had to show this to Andrew and Kekoa.
 
-Kekoa was showing Andrew something out the window. "There are supposed to be all kinds of sacred sites hidden up there.” He was pointing to volcanic hills that led to the ocean. “Places where ancient Hawaiians performed ceremonies and hid important treasures." He lowered his voice. "Some people say there are still undiscovered sites in the lava tubes. We should check them out one day."
+Kekoa was showing Andrew something out the window. "There are supposed to be all kinds of sacred sites hidden up there." He was pointing to volcanic hills that led to the ocean. "Places where ancient Hawaiians performed ceremonies and hid important treasures." He lowered his voice. "Some people say there are still undiscovered sites in the lava tubes. We should check them out one day."
 
 Before Amanda could tell the boys about her discovery, she noticed an old, faded map hung partially behind a filing cabinet. The borders were decorated with symbols that looked remarkably similar to their petroglyphs.
 
 "Guys, look at this!" Amanda called out. The three friends crowded around the map, studying its intricate markings. Some of the symbols were identical to ones they'd found on the rocks.
 
-“And look at this,” Andrew said, pointing to a group of symbols. Two of the symbols were very familiar: a fish hook and a ceremonial bowl.
+"And look at this," Andrew said, pointing to a group of symbols. Two of the symbols were very familiar: a fish hook and a ceremonial bowl.
 
-Gazing at the map, Amanda’s eyes popped open. “I actually think this could be a map of the lava tubes. Look how the mountains and the ocean connect right where the entrance is located," Amanda wondered aloud. "Could this be connected to the missing artifacts?"
+Gazing at the map, Amanda's eyes popped open. "I actually think this could be a map of the lava tubes. Look how the mountains and the ocean connect right where the entrance is located," Amanda wondered aloud. "Could this be connected to the missing artifacts?"
 
 ---
 
@@ -221,7 +221,7 @@ Their dad paused, fork halfway to his mouth. "Well, I can't imagine the cultural
 
 Andrew and Amanda exchanged glances as their mom hurried to the kitchen.
 
-“Sometimes you guys are so weird,” Amanda said, standing up from the table.
+"Sometimes you guys are so weird," Amanda said, standing up from the table.
 
 She was certain now that the petroglyphs were more than just ancient carvings - they were pieces of a bigger puzzle. And somewhere in those symbols was the key to finding the missing artifacts. She caught Andrew's eye across the table, and he gave her a slight nod. They would need to investigate further, but they'd have to be careful not to worry the already stressed cultural center staff - or their parents.
 
@@ -229,7 +229,7 @@ She was certain now that the petroglyphs were more than just ancient carvings - 
 
 "Bend your knees more," Kekoa called out, watching Andrew wobble on his surfboard. They were practicing on the wet sand near the water's edge, the early morning sun warming their backs. "You need a lower center of gravity."
 
-Andrew tried adjusting his stance but stumbled sideways. He scowled and said, “I can’t believe I can’t balance on the board…and we’re not even in the water yet.”
+Andrew tried adjusting his stance but stumbled sideways. He scowled and said, "I can't believe I can't balance on the board…and we're not even in the water yet."
 
 His sister grinned from her board where she stood with perfect balance. "Maybe I'm just naturally gifted," she teased, but her mind seemed elsewhere. She kept glancing at her waterproof notebook tucked safely by their towels.
 
@@ -319,9 +319,9 @@ They scrambled down a side passage, hearts pounding. The footsteps grew louder, 
 
 They had to turn around after encountering multiple dead-ends. But finally, Amanda spotted one of her stone markers - they followed her trail back to the entrance, emerging into the late afternoon sunlight.
 
-“That was a close call!” said Kekoa, “Who do you think was in the cave?”
+"That was a close call!" said Kekoa, "Who do you think was in the cave?"
 
-“No clue, but I’m glad we didn’t find out…” Amanda said, as they started to walk home.
+"No clue, but I'm glad we didn't find out…" Amanda said, as they started to walk home.
 
 ---
 
@@ -331,7 +331,7 @@ After dinner, Andrew grabbed his lacrosse stick and followed his dad onto the la
 
 Andrew's stick wobbled as he caught the return throw. He still wasn't as good as he wanted to be. "No treasure," he grinned, trying to sound casual. "Just some old lava tubes, a few granola bar wrappers, and Amanda making little rock piles like a crazy person." He launched the ball back to his dad, proud that it didn't wobble too much.
 
-After brushing his teeth that night, Andrew poked his head into Amanda’s room, "We need to go back to those caves…tomorrow?"
+After brushing his teeth that night, Andrew poked his head into Amanda's room, "We need to go back to those caves…tomorrow?"
 
 Amanda nodded, already sketching a map for the underground tunnels from memory.
 
@@ -345,7 +345,7 @@ Amanda dribbled her soccer ball across the damp morning grass, practicing the ne
 
 The mysterious paper from the cave lay on the table between them, partially stuck to a spot of spilled peanut butter. "Look at this," Andrew pointed to the corner of the page. Through the coffee stains and dirt, they could make out a name: "Dr. M. Lee."
 
-All of a sudden, a wet, black nose popped up from under the table and started sniffing the document. “Down Blazer!” Amanda said. “This doggy loves peanut butter too much.”
+All of a sudden, a wet, black nose popped up from under the table and started sniffing the document. "Down Blazer!" Amanda said. "This doggy loves peanut butter too much."
 
 Right then, the alarm went off, signaling it was time for school to start.
 
@@ -371,7 +371,7 @@ The twins exchanged glances. Maybe Uncle Jacob could help - without knowing he w
 
 "Actually," Amanda said carefully, "we were just learning about how archaeologists document their findings. Like, if someone found something important, what's the proper way to handle it?"
 
-"Oh, that's crucial!" Uncle Jacob launched into an explanation about proper documentation, permits, and the importance of context. "You can't just remove artifacts without recording everything about where and how they were found. That's actually illegal in most places. Hey kids, are your parents around? We need to chat with them"
+"Oh, that's crucial!" Uncle Jacob launched into an explanation about proper documentation, permits, and the importance of context. "You can't just remove artifacts without recording everything about where and how they were found. That's actually illegal in most places. Hey kids, are your parents around? We need to chat with them."
 
 Andrew brought the tablet to his mom and then they hurried to Kekoa's house to share what they'd learned. They found him practicing with his drone in the backyard.
 
@@ -445,7 +445,7 @@ But the former professor had already slipped away. The only evidence of his visi
 
 "You three have some explaining to do," Mrs. Kalani said, looking at their guilty faces. "I'm calling your parents."
 
-An hour later, the group was joined by the twin’s parents in the Kalani's living room. Andrew tried to explain the evenings events, without revealing everything they knew about the petroglyphs and the lava tubes.
+An hour later, the group was joined by the twins' parents in the Kalanis' living room. Andrew tried to explain the evening's events, without revealing everything they knew about the petroglyphs and the lava tubes.
 
 "We just wanted to help solve the mystery," Amanda said quietly.
 
@@ -453,7 +453,7 @@ An hour later, the group was joined by the twin’s parents in the Kalani's livi
 
 "We're sorry," Andrew said, but his mind was racing. Dr. Lee had said 'tomorrow night.' They were running out of time.
 
-Their father stood up. "Come on, kids. We're going home.” He glanced at their mother, “though your antics were exciting, you’ll still need to be punished.”
+Their father stood up. "Come on, kids. We're going home." He glanced at their mother, "though your antics were exciting, you'll still need to be punished."
 
 As they walked home under the stars, Amanda slipped the dropped notebook page into her pocket. Despite their parents' disappointment, they couldn't stop now. Not when they were so close to solving the mystery.
 
@@ -491,9 +491,9 @@ Right before lunch, Andrew convinced their parents he needed to borrow a special
 
 Their mom looked uncertain, but their dad was distracted by another video call. "Fine, but straight there and back," he said, hurrying to his home office.
 
-On the path to the library, Blazer tugged at the leash. “Why did we bring Blaze again?” Andrew moaned.
+On the path to the library, Blazer tugged at the leash. "Why did we bring Blaze again?" Andrew moaned.
 
-“We don’t have a fenced in yard anymore, so he needs more walks,” Amanda replied. “And…I figured having the pooch would give us more time out of the house!”
+"We don't have a fenced-in yard anymore, so he needs more walks," Amanda replied. "And…I figured having the pooch would give us more time out of the house!"
 
 Outside the center, Blazer suddenly stopped and began whining, his nose pressed to the ground near the building's foundation.
 
@@ -521,7 +521,7 @@ Amanda's eyes lit up the way they always did when solving a puzzle. "That's why 
 
 Their excitement was interrupted by Andrew's tablet buzzing. A text from their mom: "Straight home after studying. No detours."
 
-"I guess being connected to WiFi isn't always a good thing," Andrew sighed, showing Amanda the message.
+"I guess being connected to Wi-Fi isn't always a good thing," Andrew sighed, showing Amanda the message.
 
 Sitting on the steps, they laid out their evidence:
 
@@ -564,7 +564,7 @@ Uncle Jacob's grinning face filled the screen, Aunt Jenny peering over his shoul
 
 "But that seems like ages ago," Amanda protested.
 
-"Now wait a minute," Uncle Jacob virtually interjected. "You're grounding them in Hawaii? With the rainy season approaching, they don’t have much time left for outdoor adventures."
+"Now wait a minute," Uncle Jacob virtually interjected. "You're grounding them in Hawaii? With the rainy season approaching, they don't have much time left for outdoor adventures."
 
 "Jacob..." their mom warned.
 
@@ -642,15 +642,15 @@ The tunnel widened, and their flashlight beams revealed a large chamber. Ancient
 
 The missing fishhook. The ceremonial bowl. The carving tool. Everything that had disappeared from the cultural center was here, positioned in a specific pattern.
 
-"Don't move." A voice came from the shadows. Dr. Lee stepped into their flashlight beams, his own light pointed at the ground. "What are you kids doing here? "
+"Don't move." A voice came from the shadows. Dr. Lee stepped into their flashlight beams, his own light pointed at the ground. "What are you kids doing here?"
 
 Blazer gave a low growl, but Amanda kept him close.
 
 "We know you stole these artifacts," Andrew said, trying to sound confident and pointing at the table.
 
-"I didn’t steal them, I’m proving a historical theory! " Dr. Lee gestured to the artifacts. "Look how perfectly they align. The university wouldn't listen, but this proof..." His eyes gleamed with an almost desperate enthusiasm.
+"I didn't steal them, I'm proving a historical theory!" Dr. Lee gestured to the artifacts. "Look how perfectly they align. The university wouldn't listen, but this proof..." His eyes gleamed with an almost desperate enthusiasm.
 
-"What are you talking about? " Amanda said firmly. "These belong to everyone. They're part of Hawaii's heritage."
+"What are you talking about?" Amanda said firmly. "These belong to everyone. They're part of Hawaii's heritage."
 
 "You don't understand," Dr. Lee began, but stopped abruptly.
 
@@ -676,9 +676,9 @@ Before anyone could react, Blazer leaped forward, placing himself between Dr. Le
 
 "I didn't know Blazer could be so scary!" Amanda whispered to Andrew.
 
-"Me neither," Andrew replied, "I guess he can chase more than crabs…”
+"Me neither," Andrew replied, "I guess he can chase more than crabs…"
 
-Dr. Lee froze with the bowl still clutched in his hands and whimpered, “stop that beast, I’m scared of dogs!”
+Dr. Lee froze with the bowl still clutched in his hands and whimpered, "stop that beast, I'm scared of dogs!"
 
 Mrs. Kalani stepped into the chamber, followed by two police officers. "Good boy, Blazer," Mrs. Kalani called out calmly. "I think it's time for Dr. Lee to put that artifact back where it belongs."
 
@@ -692,7 +692,7 @@ Mrs. Kalani chuckled and pulled out her tablet. "You didn't think your grandmoth
 
 "You tracked us?" Kekoa's eyes widened.
 
-"I put a small tracker in your hiking backpack after I noticed you three acting suspicious," she explained. "And I've been reviewing the security camera footage at the cultural center. Dr. Lee must have turned off the security cameras, but he didn’t realize we had one old backup camera." She smiled at Amanda. "Sometimes the best way to catch someone using new technology is to use old technology!"
+"I put a small tracker in your hiking backpack after I noticed you three acting suspicious," she explained. "And I've been reviewing the security camera footage at the cultural center. Dr. Lee must have turned off the security cameras, but he didn't realize we had one old backup camera." She smiled at Amanda. "Sometimes the best way to catch someone using new technology is to use old technology!"
 
 The twins and Kekoa took turns explaining their investigation - how Amanda had connected the petroglyphs to the missing artifacts, Andrew's photographs of the ancient symbols, and how they'd followed the map to this ceremonial site.
 
@@ -728,7 +728,7 @@ Their mom smiled. "Just promise us you'll come to adults for help next time?"
 
 "Although," Amanda added with a grin, "I don't think we'll find another mystery like this one anytime soon."
 
-“Let’s hope not,” their mom said, giving a side eyed glance to their dad. “We’re only here for a few more weeks.” Before anyone could respond, Blazer's head popped up, his ears alert to the sound of scuttling crabs on the beach.
+"Let's hope not," their mom said, giving a side-eyed glance to their dad. "We're only here for a few more weeks." Before anyone could respond, Blazer's head popped up, his ears alert to the sound of scuttling crabs on the beach.
 
 "Well," Andrew laughed, watching their dog bound down to the sand, "I guess some things never change!"
 
@@ -746,7 +746,7 @@ After the ceremony, Kekoa led them on one final tour of the cultural center. The
 
 "I still can't believe we actually solved it," Andrew said, running his fingers over his new bracelet.
 
-"Solved it?" Kekoa laughed. "You two did way more than that. Now everyone's talking about creating better security systems for cultural sites all over Hawaii. Plus, some of Dr. Lee’s research might actually be useful - once it's studied the right way."
+"Solved it?" Kekoa laughed. "You two did way more than that. Now everyone's talking about creating better security systems for cultural sites all over Hawaii. Plus, some of Dr. Lee's research might actually be useful - once it's studied the right way."
 
 That evening, the lanai of their beach house transformed into a farewell feast. Their dad outdid himself at the grill, cooking everything from fresh mahi-mahi to pineapple slices. The Kalanis joined them, bringing traditional dishes that Mrs. Kalani had been promising to teach them to make.
 
