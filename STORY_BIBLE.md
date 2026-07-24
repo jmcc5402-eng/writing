@@ -72,8 +72,8 @@ and it's already in your outline ("The town wakes to gold").
   **needs to be locked** (see §7).
 
 ### Grace — deuteragonist / love interest
-- *(Named **Heather** in the earliest drafts; **Grace** in the later "Final"
-  versions. Recommend standardizing on **Grace** — see §7.)*
+- ✅ **Name locked: Grace.** *(She was "Heather" in the earliest drafts; we've
+  standardized on the newer "Grace" everywhere going forward.)*
 - Nick's childhood sweetheart. Fiercely smart with a remarkable memory.
 - **Dream:** To leave for San Francisco and become a doctor — specifically to fight
   typhoid, the disease that killed her mother.
@@ -214,23 +214,37 @@ in four movements (your "Books"), each ending on a strong turn.
 
 ---
 
-## 7. Open decisions (to lock before we finish a draft)
+## 7. Decisions — locked & proposed
 
-These are the unresolved forks in your notes. Picking them now keeps every format
-consistent.
+The unresolved forks from your notes. **Locked** = settled. **Proposed** = my
+recommendation, baked into the plan but easy to change if you disagree.
 
-1. **Love interest's name: Heather or Grace?** *(Recommendation: **Grace** — it's
-   the newer choice and resonates with a redemption/Christmas story.)*
-2. **Nick's surname: Anderson or Johnson?** *(Pick one and standardize.)*
-3. **Do the Grins steal *some* or *all* of the gold — and when does the reader
-   learn which?** Your notes lean toward: reader thinks "some," reveal "all" at the
-   cove. The earthquake can trigger their escape so the plot doesn't hinge on the
-   reader knowing.
-4. **How overt is the Santa reveal?** Fully explicit in-story, or left as a wink for
-   the reader to assemble? *(Affects tone across all formats.)*
-5. **Timeframe / ticking clock.** The Grins' departure needs a hard deadline (e.g.
-   "the boat leaves in 3 days") to drive Book 3–4 tension.
-6. **How much magic?** Recommend keeping it minimal and object-based.
+1. ✅ **LOCKED — Love interest is Grace** (formerly Heather).
+2. 🟡 **LOCKED (leaning) — The Santa reveal is a *wink for the reader*.** The word
+   "Santa" is never said. The reader assembles the clues (sleigh, reindeer, gifts
+   overnight, the North Pole warp) and gets the delight of realizing it themselves.
+   *We can revisit; see the trade-offs in the note below.*
+3. 🔵 **PROPOSED — Nick's surname stays light / rarely used.** Drafts have both
+   "Anderson" and "Johnson." For a Santa origin, leaning on **"Nicholas"** (→ *Saint
+   Nicholas*) is stronger than any surname. Recommendation: use **Anderson** if a
+   surname is needed, but keep it in the background.
+4. 🔵 **PROPOSED — Gold reveal: reader thinks "some," truth is "all."** The reader
+   believes the Grins are only skimming; the full theft is revealed at the cove. The
+   **earthquake** triggers the Grins' escape, so the tension doesn't depend on the
+   reader knowing how much was stolen. *(This is your own note's preferred fix.)*
+5. 🔵 **PROPOSED — Ticking clock: "the boat leaves in 3 days."** Set the hard
+   deadline the moment the Grins decide to run, to drive Book 3–4 urgency.
+6. 🔵 **PROPOSED — Keep the magic minimal and object-based** (belt, medallion,
+   glow, sleigh, warp). Discovery, not sorcery — that's what makes the reveal land.
+
+> **On the "wink vs. explicit" reveal (the one you were unsure about):**
+> The wink is almost always the stronger, more magical choice, and it's the norm
+> for the best modern Santa-origin books — but it carries one risk worth naming:
+> if it's *too* subtle, a young reader (or a browsing parent/bookseller) might miss
+> the Santa connection entirely, which is also your biggest marketing draw. The
+> usual solution: keep the *story* a wink, but let the *title, cover, and jacket
+> copy* make the Santa promise clearly. Best of both worlds. We'll keep the wink as
+> our working choice and confirm once we draft.
 
 ---
 
@@ -267,7 +281,8 @@ an even faster **"proof" rung first** — a polished illustrated short or a stor
 
 - [x] **Confirm rights** — you wrote it all. ✅
 - [x] **Build this story bible** *(this document).*
-- [ ] **Lock the §7 decisions** (name, surname, gold reveal, tone, clock, magic).
+- [x] **Lock name (Grace) and set the reveal approach (wink).** ✅
+- [ ] **Confirm the §7 "proposed" decisions** (surname, gold reveal, clock, magic).
 - [ ] **Assemble the source material** into the repo: pull the manuscript + scene
       drafts out of Google Docs into clean, version-tracked text so nothing is lost
       and the whole story is visible in one place.
@@ -277,6 +292,55 @@ an even faster **"proof" rung first** — a polished illustrated short or a stor
 - [ ] Then climb: graphic novel → finish the novel → series.
 
 ---
+
+## 10. Comps & differentiation (know the neighborhood)
+
+"Santa origin" is a proven, beloved category — which is good news (readers want it)
+and a caution (you need to stand out). The most relevant recent works:
+
+- **_Klaus_ (2019, Netflix film).** The closest cousin. A newcomer arrives in a
+  bitter, feuding far-north town; secret gift-giving gradually heals the town and
+  gives rise to the Santa traditions. **Overlap:** secret gifts transforming a
+  cold northern community into the Santa legend. **You must know this one.**
+- **_A Boy Called Christmas_ (Matt Haig, 2015; film 2021).** A boy journeys north
+  and becomes Father Christmas. The benchmark for modern middle-grade Santa-origin.
+- **_The Autobiography of Santa Claus_ (Jeff Guinn)** and the classic
+  **_Life & Adventures of Santa Claus_ (L. Frank Baum, 1902).** Older, but proof the
+  "how Santa began" story has deep roots.
+
+**How _Young Nicholas_ is distinct (our differentiation):**
+- **Setting:** American **gold-rush Alaska**, not a generic European/arctic village.
+- **Genre engine:** a **survival-adventure + heist + romance**, not a gentle fable.
+  Nick is pushed off a cliff, learns to fly a sleigh, and foils a robbery.
+- **The hero *is* Nick** — he becomes Santa himself, rather than assisting a Santa
+  figure (as in _Klaus_).
+- **A grounded villain plot** (the annuity swindle) gives real, worldly stakes
+  under the magic.
+- **A built-in mythology** (the belt/medallion/warp) that opens a series.
+
+> **Action item:** watch _Klaus_ and read _A Boy Called Christmas_ if you haven't —
+> not to copy, but to make sure every beat of ours feels like *only ours*.
+
+## 11. Tone & voice
+
+- **Genre:** Middle-grade adventure with warmth, humor, peril, and heart. Ages ~8–12
+  for the novel; younger for the picture book.
+- **Feel:** *Frontier grit meets Christmas wonder.* Cold, hunger, and real danger
+  make the eventual warmth and giving land harder.
+- **Voice sample (your own words, lightly kept):**
+  > *"Shelter, fire, food in the cold. Shelter, food, fire in the warm."* — Nick's
+  > father's survival creed. This is the register: plain, practical, quietly wise.
+- **Golden rule:** earn the magic. The more real the cold and the swindle feel, the
+  more the flying sleigh and the overnight gold feel like grace.
+
+---
+
+## Changelog
+
+- **v0.2** — Locked Grace; set reveal to "wink" (leaning); added proposed decisions
+  (surname, gold reveal, ticking clock, magic); added Comps & Differentiation and
+  Tone & Voice.
+- **v0.1** — Initial bible assembled from the Google Drive `YoungNick` archive.
 
 *This bible is a living document — as we lock decisions and write, it gets updated
 so it's always the current truth of the story.*
