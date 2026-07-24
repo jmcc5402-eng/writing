@@ -65,10 +65,20 @@ The reader is not a victim managing upward. They're an operator who just noticed
 **Part III — Play the Decade (long game)**
 - Learn the Useful Thing, Not the Impressive Thing *(smart, not smarts)*
 - Don't Pull the Wagon Alone *(the Stagecoach)*
+- **Some Bosses You Beat. Some You Wakeboard Behind.** *(the maturity beat — gas vs. wave)*
 - Your Network Is Your Exit
 - Know Exactly When to Walk
 
 **Modern threads woven throughout:** Slack performance-theater, RTO politics, AI quietly eating your tasks (be the one who *wields* it), why "quiet quitting" is the average person's trap.
+
+## The defining nuance: Gas Pedal vs. Ride the Wave
+
+The book is not "beat your boss." It's "**read the situation, then pick the move.**" This is the frame that makes the whole thing credible instead of one-note:
+
+- **Hit the gas** when your boss is an *anchor* (a faker going nowhere): overcome, route around, outshine. — most of the book.
+- **Ride the wave** when your boss is a *boat* (competent, ambitious, climbing): amplify them on purpose, backfill them, get towed up the wake.
+
+Riding the wave is a **cold, confident bet on a winner — not bootlicking** (which is fear aimed at a loser). It always comes with an exit: the moment the wave flattens, you let go of the rope. This nuance also makes the book giftable *upward* — a decent manager can enjoy it without it being purely anti-boss.
 
 ## Reusable assets carried forward
 
