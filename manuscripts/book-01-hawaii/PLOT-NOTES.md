@@ -1,4 +1,8 @@
-# Book 1 — Plot & Continuity Notes (for author decisions)
+# Book 1 — Plot & Continuity Notes
+
+> **STATUS: §§1–4 RESOLVED** (author-approved, applied to the manuscript — see
+> CHANGELOG "Plot pass 1"). §5 intentionally left as-is. This file is kept as the
+> record of the reasoning.
 
 These are **structural** notes from the polish pass — the "organizing the plot"
 help. None have been changed in the manuscript yet, because each is a story

@@ -379,7 +379,7 @@ Andrew brought the tablet to his mom and then they hurried to Kekoa's house to s
 
 "We need to watch the cultural center," Amanda said, her detective skills kicking in. "If we can catch him in the act..."
 
-"But we have to do it soon," Andrew blurted out. "Mom and Dad just told us we're going to the Big Island next weekend for some volcano tour thing."
+"But we have to do it soon," Andrew blurted out. "Who knows how much longer Dr. Lee will keep the artifacts nearby before he ships them off somewhere we'll never find them?"
 
 They spent the rest of the afternoon planning their stake-out, drawing maps and checking the cultural center's schedule.
 
@@ -393,7 +393,7 @@ Amanda picked at her chicken, her mind on their investigation. After dinner, And
 
 Andrew lingered for a moment, then headed upstairs. He found Amanda in her room, already plotting their stake-out plans in her notebook.
 
-"We have to do it tomorrow night," he whispered. "Mom and Dad have some big meeting on the Big Island next weekend. Once we leave, who knows what could happen to the artifacts?"
+"We have to do it tomorrow night," he whispered. "Did you see Dr. Lee's posts? 'Vindication coming soon.' He's almost finished - if we wait, those artifacts could be gone for good."
 
 Amanda nodded, sketching a quick map of the cultural center. "Tomorrow night it is."
 
@@ -532,7 +532,7 @@ Sitting on the steps, they laid out their evidence:
 
 "We need to catch him in the act," Andrew said. "But how? We're totally grounded. Mom and Dad check on us like every hour."
 
-"Tonight," Amanda reminded them. "Dr. Lee said he's moving everything tonight. Other than the cultural center, the only suspicious location is the lava tubes. We need to go back there soon."
+"Tonight," Amanda reminded them. "Dr. Lee said he's shipping everything tonight - which means the artifacts have to be staged at the site right now, waiting for the pickup. If we get there this afternoon, we catch it all before the truck ever arrives. The lava tubes are the only place he'd hide them. We go the second we can."
 
 Kekoa had to head back to work, and the twins gathered their things. As they walked home with Blazer, Amanda stopped suddenly near the decorative wall. "Look," she pointed to fresh scrape marks on the stones. "Someone's been here recently."
 
@@ -646,6 +646,10 @@ The missing fishhook. The ceremonial bowl. The carving tool. Everything that had
 
 Blazer gave a low growl, but Amanda kept him close.
 
+"The petroglyphs led us straight to you," Amanda said, her voice steadier than she felt. "The same carvings you decoded - that's how you found this place, isn't it? An ancient map to the sacred site, hidden in plain sight."
+
+Dr. Lee's mouth fell open. "You... you read them too? It took me two *years*..."
+
 "We know you stole these artifacts," Andrew said, trying to sound confident and pointing at the table.
 
 "I didn't steal them, I'm proving a historical theory!" Dr. Lee gestured to the artifacts. "Look how perfectly they align. The university wouldn't listen, but this proof..." His eyes gleamed with an almost desperate enthusiasm.
@@ -703,6 +707,8 @@ Andrew's eyes lit up. "Of course! When Blazer was sniffing the paper at breakfas
 "That explains why he kept whining at that corner of the cultural center," Amanda continued. "He must have smelled Dr. Lee's trail!"
 
 Mrs. Kalani nodded thoughtfully. "That makes sense. We discovered Dr. Lee had created a small storage area beneath the cultural center. He'd been moving artifacts there first, then transferring them here to the ceremonial site. Very clever indeed."
+
+"That's how he got past our security, too," she added. "Dr. Lee consulted for the center years ago, back when he was still at the university. His old access card was never deactivated - and he knew exactly where our cameras couldn't see."
 
 "You kids did some impressive detective work," one of the police officers said, carefully wrapping the ancient fishhook in protective cloth. "But you should have come to us sooner."
 

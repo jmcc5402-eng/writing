@@ -30,7 +30,22 @@ what changed from the original Google Doc.
   - Hyphenation: "side eyed" → "side-eyed"; "fenced in yard" → "fenced-in yard"
   - Standardized "WIFI"/"WiFi" → "Wi-Fi"
 
+## Plot pass 1 (structural fixes — author-approved)
+Applied the four fixes from [`PLOT-NOTES.md`](PLOT-NOTES.md) (§§1–4):
+- **§1 Single clock:** removed the Big Island trip's role as the artifact
+  deadline; Dr. Lee's own shipment ("vindication coming soon" / "shipping
+  tonight") is now the ticking clock. *Kept* the overheard "too important for
+  video chat" kitchen conversation — it's a deliberate spy-secret seed.
+- **§2 Tightened the clock:** added a line so the daytime raid reads as *beating*
+  the night pickup, not ignoring it.
+- **§3 Key card:** Mrs. Kalani now explains (Ch 11) that Dr. Lee's old consultant
+  access card was never deactivated — answering Andrew's Ch 8 question and the
+  camera-blind-spot detail.
+- **§4 Shared clue:** Amanda now reveals at the confrontation (Ch 10) that Dr. Lee
+  decoded the *same* petroglyphs — turning the map coincidence into an earned
+  clue and giving Amanda a hero-detective beat.
+- §5 (two-stash complexity) left as-is by design; it's explained and pays off
+  Blazer's discovery.
+
 ## Not yet done
-- **Plot/continuity notes** raised in [`PLOT-NOTES.md`](PLOT-NOTES.md) — these are
-  structural and need author decisions before editing.
 - Optional: state the twins' ages on-page if desired.
