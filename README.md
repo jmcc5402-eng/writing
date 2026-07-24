@@ -1,17 +1,29 @@
-# Youngnick
+# Young Nicholas
 
-A brand new project. 🚀
+*The secret origin of Santa Claus.* 🎅
 
-This is the starting point — the structure and content are up to you.
+A frontier survival-adventure that quietly tells the story of how an ordinary
+young man in an Alaskan mining town became Santa Claus.
 
-## Getting started
+This repository is the home base for finishing the book and building it into a
+multi-platform story (picture book → graphic novel → novel → series).
 
-Nothing is set up yet, and that's on purpose. When you know what you want to
-build (a website, a script, an app, anything), the tools and files can be added
-from here.
+## Start here
 
-## Notes
+- **[STORY_BIBLE.md](STORY_BIBLE.md)** — the master document: characters, world,
+  full plot, open decisions, and the multi-platform plan. Read this first.
 
-- Add whatever ideas, plans, or to-dos you like right here in this file.
-- Everything you save and push lives at:
-  https://github.com/jmcc5402-eng/youngnick
+## Project status
+
+- ✅ Rights confirmed (original work by the author)
+- ✅ Story bible + multi-platform plan drafted
+- ⏳ Next: lock key story decisions, pull the existing manuscript in from Google
+  Docs, then draft the picture book (our first "out the door" format)
+
+## Where things live
+
+- Source material (manuscripts, outlines, notes) currently lives in the Google
+  Drive **YoungNick** folder and will be pulled into this repo as clean, tracked
+  text as we go.
+- Everything committed here is backed up at:
+  https://github.com/jmcc5402-eng/Youngnick
