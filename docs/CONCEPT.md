@@ -69,6 +69,9 @@ The reader is not a victim managing upward. They're an operator who just noticed
 - Your Network Is Your Exit
 - Know Exactly When to Walk
 
+**Closer — Build Your Own Damn Boat**
+- The final move and the book's true thesis: you are not trapped. Beat the boss, ride the boss, or stop needing one. A *door, not a manual* — permission + a nudge that it's never been cheaper to start your own thing (AI, social, ~zero startup cost), then out. No startup how-to (that's a potential spin-off, not a chapter).
+
 **Modern threads woven throughout:** Slack performance-theater, RTO politics, AI quietly eating your tasks (be the one who *wields* it), why "quiet quitting" is the average person's trap.
 
 ## The defining nuance: Gas Pedal vs. Ride the Wave
