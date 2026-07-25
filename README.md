@@ -22,6 +22,10 @@ future plots, and the go-to-market roadmap.
 | [`roadmap/`](roadmap/) | The agile go-to-market plan: kids series → graphic novel → comic → screen. |
 | [`archive/`](archive/) | Earlier drafts and superseded material, kept for reference. |
 
+**Working on this project?** [`CLAUDE.md`](CLAUDE.md) has the rules and canon
+pointers; [`STATUS.md`](STATUS.md) has current state, next actions, and open
+questions.
+
 ## Status at a glance
 
 - **Concept:** Locked ✅ — see [`concept/premise.md`](concept/premise.md)
