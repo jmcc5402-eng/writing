@@ -1,0 +1,27 @@
+# Common files and folders that should NOT be saved to git.
+# You can add more lines here later as your project grows.
+
+# Dependencies (downloaded packages)
+node_modules/
+venv/
+.venv/
+
+# Build output
+dist/
+build/
+
+# Logs
+*.log
+
+# Operating system junk
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+
+# Secrets / environment variables (keep passwords and keys out of git!)
+.env
+.env.local
+*.key
