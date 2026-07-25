@@ -1,0 +1,11 @@
+{
+  "name": "writers-room",
+  "displayName": "Writers' Room",
+  "version": "0.1.0",
+  "description": "An AI-native writers' room: specialist agents for writing, editing, critiquing, and selling books, plus a Snowflake-method outlining skill. Reads a project's story bible when present, so it works across any book.",
+  "author": {
+    "name": "jmcc5402-eng",
+    "email": "jmcc5402@gmail.com"
+  },
+  "keywords": ["writing", "editing", "fiction", "publishing", "middle-grade", "kidlit", "storycraft"]
+}
