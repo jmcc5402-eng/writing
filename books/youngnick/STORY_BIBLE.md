@@ -236,6 +236,15 @@ recommendation, baked into the plan but easy to change if you disagree.
    deadline the moment the Grins decide to run, to drive Book 3–4 urgency.
 6. 🔵 **PROPOSED — Keep the magic minimal and object-based** (belt, medallion,
    glow, sleigh, warp). Discovery, not sorcery — that's what makes the reveal land.
+7. ✅ **LOCKED (author, 2026-07-26) — The magic object is a hybrid: the compass
+   stone, found by Nick, whose markings echo his father's.** The manuscript's
+   glowing compass-inscribed stone (which the draft has and the belt-based §5
+   does not) is canon: Nick finds it himself — the magic answers his choices,
+   not his bloodline. The connection to his father is *recognition*, not
+   inheritance: its markings echo the emblems Nick remembers from his father's
+   belt. The belt may remain as a keepsake, but it unlocks nothing on its own.
+   §5's beat-level details (medallion, warp trigger) need reconciling to this —
+   [TK: rework §5 steps 1, 2, 4, and 6 around the stone].
 
 > **On the "wink vs. explicit" reveal (the one you were unsure about):**
 > The wink is almost always the stronger, more magical choice, and it's the norm
