@@ -245,6 +245,14 @@ recommendation, baked into the plan but easy to change if you disagree.
    belt. The belt may remain as a keepsake, but it unlocks nothing on its own.
    §5's beat-level details (medallion, warp trigger) need reconciling to this —
    [TK: rework §5 steps 1, 2, 4, and 6 around the stone].
+8. 🟡 **LOCKED (delegated ruling, 2026-07-26) — Audience: older all-ages
+   frontier myth, not middle-grade 8–12.** The author delegated this call to
+   the analysis run; the ruling (rationale in
+   `notes/snowflake-2026-07-26.md`): keep the adult leads, the proposal plot,
+   and the annuity swindle, and raise the prose register to match — the
+   Klaus / Baum / Guinn lane. The 2026-07-26 draft chapters are written to
+   this ruling. Easy to veto; if it stands, [TK: amend §11's "Novel
+   (middle-grade)" rung to match].
 
 > **On the "wink vs. explicit" reveal (the one you were unsure about):**
 > The wink is almost always the stronger, more magical choice, and it's the norm
