@@ -1,0 +1,15 @@
+{
+  "name": "book-studio",
+  "owner": {
+    "name": "jmcc5402-eng",
+    "email": "jmcc5402@gmail.com"
+  },
+  "description": "A reusable AI-native writers' room: specialist agents and skills for writing, editing, critiquing, and selling books. Attach to any book project.",
+  "plugins": [
+    {
+      "name": "writers-room",
+      "source": "./plugins/writers-room",
+      "description": "A standing team of specialist agents (plotting, drafting, developmental & copy editing, continuity, kid-reader critique, red-team, research, and market/pitch) plus a Snowflake-method book-outlining skill. Works across any book project."
+    }
+  ]
+}
