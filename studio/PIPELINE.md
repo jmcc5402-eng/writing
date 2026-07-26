@@ -1,7 +1,7 @@
 # Pipeline
 
 The stages a book moves through here, and what has to be true to leave each
-one. A book's README should say which stage it's in.
+one. A book's README or STATUS should say which stage it's in.
 
 ## 1. Premise
 
@@ -33,22 +33,32 @@ Write it through. Resist revising backward — leave `[TK ...]` and keep going.
 
 ## 5. Revision
 
-The four passes in [STYLE.md](STYLE.md), run separately and in order. Continuity
-comes last because earlier passes invalidate it.
+Run the passes separately and in this order — combining them is how notes get
+lost, and continuity comes last because earlier passes invalidate it:
+
+1. **Structure** — `developmental-editor`
+2. **Audience** — `kid-reader-panel`, where the book has a young reader
+3. **Line** — `line-copy-editor`
+4. **Continuity** — `continuity-keeper`
 
 *Leaves when:* no `[TK ...]` markers remain and the continuity pass is clean.
 
 ## 6. Out the door
 
-Query letter, synopsis, comps, submission list. Materials live in `studio/`,
+Query letter, synopsis, comps, submission list — `market-pitch-agent`, with
+`red-team-critic` on everything before it's sent. Materials live in `studio/`,
 since the work of pitching generalizes across books.
 
 ---
 
 ## Current state
 
-| Book | Stage |
-|---|---|
-| `youngnick` | 2 — Bible, with key decisions being locked |
-| `mybyb` | 1 — Premise, not yet written down |
-| `spytwins` | 1 — Premise, not yet written down |
+| Book | Stage | Next |
+|---|---|---|
+| `spytwins` | 6 for Book 1; 3 for Book 2 | Outline Book 2 (Japan); build the pitch package; get beta readers on Book 1 |
+| `mybyb` | 4 — Draft, reboot voice locked | React to ch. 1, draft the rest of Part I, land the title |
+| `youngnick` | 2 — Bible, key decisions being locked | Lock Nick's surname; pull the manuscript in from Drive |
+
+Spytwins is the only book far enough along to be in two stages at once — Book 1
+is finished and needs selling, Book 2 needs outlining. Its `STATUS.md` is the
+live detail.

@@ -13,8 +13,8 @@ _Living state — update this rather than appending new summaries. Last updated:
 | **Book 1 — *The Petroglyph Mystery* (Maui)** | ✅ Complete: imported, copy-edited, 4 structural plot fixes applied |
 | **Book 2 — Japan (Tokyo)** | 🧩 Starter outline only — `plots/book-02-japan.md` |
 | **Go-to-market roadmap** | ✅ Drafted — `roadmap/go-to-market.md` |
-| **Writers'-room agents** | ✅ Live in `.claude/agents/` (9 agents + outlining skill) |
-| **Reusable `book-studio` repo** | ⛔ Blocked — see below |
+| **Writers'-room agents** | ✅ Live at the workspace root, `../../.claude/agents/` (9 agents + outlining skill) |
+| **Reusable agents across books** | ✅ Done — see below |
 
 ## Book 1 detail
 
@@ -48,13 +48,14 @@ Remaining, optional: decide whether to state the twins' ages on the page.
 
 ## Blockers / notes
 
-- **`book-studio` repo:** the plan is to move the writers'-room agents into a
-  standalone repo so they're reusable across the author's other books. This session
-  could not reach that repo — GitHub access here is scoped to
-  `jmcc5402-eng/fasting-timer` and `jmcc5402-eng/spytwins` only. **To finish it:
-  start a session with `book-studio` attached as a source**, then copy
-  `.claude/agents/`, `.claude/skills/`, and the manifests in `.claude/studio/` into
-  the plugin layout described in `.claude/studio/USAGE.md`.
-- **Branch:** work is on `claude/spytwins-repo-v2z2j1`, not yet merged to `main`.
+- **Reusable agents — resolved.** The plan was a standalone `book-studio` repo so
+  the writers' room could serve the author's other books. That turned out to be
+  unnecessary: Spytwins now lives in the `writing` workspace alongside MYBYB and
+  Young Nicholas, and the agents were promoted to the workspace root, where all
+  three books already use them. No fifth repo. The plugin manifests are parked at
+  `../../studio/plugin/` for the one remaining case — publishing the team for use
+  outside this workspace.
+- **Repo:** work is merged and this book now lives at `books/spytwins/` in the
+  `writing` workspace. The standalone `Spytwins` repo is archived.
 - **Original source material** lives in the author's Google Drive folder
   `aSpyTwins`; `archive/README.md` catalogs it and the project's name history.

@@ -49,11 +49,21 @@ Don't try to perfect everything at once.
 
 ## The writers' room
 
-Specialist agents live in [`.claude/agents/`](.claude/agents/) — plot-architect,
+The nine specialist agents now live at the **workspace root**, in
+[`../../.claude/agents/`](../../.claude/agents/) — plot-architect,
 drafting-assistant, developmental-editor, line-copy-editor, continuity-keeper,
-kid-reader-panel, red-team-critic, culture-researcher, market-pitch-agent. Plus the
-`/new-book-outline` skill. Route work to the right specialist; several can run in
-parallel on the same draft.
+kid-reader-panel, red-team-critic, culture-researcher, market-pitch-agent. Plus
+the `/new-book-outline` skill. Route work to the right specialist; several can
+run in parallel on the same draft.
 
-`.claude/studio/` holds packaging to graduate this team into a standalone,
-reusable `book-studio` repo for the author's other books.
+They were promoted out of this book so all three books can use them, which is
+what the `book-studio` plan was for. That plan is done — no separate repo is
+needed. The plugin packaging is kept at [`../../studio/plugin/`](../../studio/plugin/)
+in case the team is ever published for use outside this workspace.
+
+## This book inside the workspace
+
+Spytwins used to be its own repo. Its history is intact here, but it is now a
+directory in the `writing` workspace and the old `Spytwins` repo is archived.
+See the workspace [`CLAUDE.md`](../../CLAUDE.md) for cross-book rules; where it
+disagrees with this file, **this file wins** — it is the canon for this book.
