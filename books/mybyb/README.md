@@ -12,6 +12,7 @@ An edgy, funny, **gift-book-sized survival guide for your first decade in the wo
 
 | Path | What it is |
 |------|------------|
+| [`SUPERCONCEPTS.md`](SUPERCONCEPTS.md) | The 3–4 concepts that make the book win — every chapter must value them. |
 | [`docs/CONCEPT.md`](docs/CONCEPT.md) | **The reboot brief.** Current source of truth for direction. |
 | [`manuscript/reboot/`](manuscript/reboot/) | **The new book**, being drafted chapter by chapter in the reboot voice. |
 | [`docs/LEXICON.md`](docs/LEXICON.md) | Proprietary vocabulary & named frameworks — reusable brand core. |
