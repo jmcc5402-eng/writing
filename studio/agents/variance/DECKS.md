@@ -14,6 +14,9 @@ Small, planned variety so repeated runs don't converge on the same moves.
 4. **Pair the card with the agent's banned moves** from `RECENT.md`.
 5. **Deck maintenance is an `agents:` change** like any other: add or retire
    cards through the changelog. Refresh a deck when its cards stop surprising.
+6. **Mechanical runs don't draw.** Verbatim imports, file moves, and other
+   transcription work take no card — variance exists for judgment, and
+   injecting it into transcription would be damage. Log the run with "—".
 
 ## Drafter deck — `drafting-assistant` (any persona)
 

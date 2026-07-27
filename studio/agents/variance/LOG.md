@@ -12,3 +12,5 @@ card, flag it in `../BACKLOG.md`.
 | 2026-07-27 | dream-critic (youngnick) | C6 comp-shelf read | books/youngnick/notes/dream-review.md |
 | 2026-07-27 | dream-critic (spytwins) | C4 first-timer read | books/spytwins/notes/dream-review.md |
 | 2026-07-27 | dream-critic (mybyb) | C2 bookseller read | books/mybyb/notes/dream-review.md |
+| 2026-07-27 | drive-importers ×5 (youngnick) | — mechanical, exempt | manuscript/ imports, 51 files |
+| 2026-07-27 | reconciliation-editor (youngnick) | E4 watch the seams | notes/drive-reconciliation + TODO.md |
