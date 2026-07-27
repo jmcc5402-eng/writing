@@ -16,3 +16,5 @@ card, flag it in `../BACKLOG.md`.
 | 2026-07-27 | reconciliation-editor (youngnick) | E4 watch the seams | notes/drive-reconciliation + TODO.md |
 | 2026-07-27 | drafting-assistant (spytwins ch5-8) | D2 hands and objects | drafts/2026-07-27/ |
 | 2026-07-27 | junior-literary-critic (spytwins ch5-8) | C5 last five lines | notes/ch5-8-review-2026-07-27.md |
+| 2026-07-27 | drafting-assistant (spytwins ch9-12) | D7 open mid-motion | drafts/2026-07-27/ finale |
+| 2026-07-27 | junior-literary-critic (spytwins ch9-12) | C1 pacing above all | notes/ch9-12-review-2026-07-27.md |
