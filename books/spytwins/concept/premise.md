@@ -119,6 +119,25 @@ The project evolved across several years of drafts. These are now **locked**:
 - **[Canon decision, author 2026-07-27] The ch3 trail footprints** are
   Dr. Lee's boots, first misread toward Mrs. Santos and corrected later —
   no orphaned plants.
+- **[Canon decision, author 2026-07-27] Mrs. Santos weaves the ceremony's
+  lauhala mats.** Her dawn trail walks gather the leaves; weeks of prep
+  explain every odd-hours sighting, and the red herring dissolves into the
+  blessing-ceremony clock. [CHECK: lauhala weaving details — culture-
+  researcher pass.]
+- **[Canon decision, author 2026-07-27] The ko'i (adze) trail symbol.** The
+  twins identify it from Andrew's storm photos BEFORE learning the carving
+  tool was stolen — the trail is a fair-play predictor, not a postdiction.
+  [CHECK: ko'i naming/representation — culture-researcher pass.]
+- **[Canon decision, author 2026-07-27] The climax is the twins' radio
+  trap.** In the chamber, Amanda stalls Dr. Lee with the decoding reveal
+  while Andrew, hidden, click-codes their position and guides the police
+  in; the twins' plan springs the capture. Mrs. Kalani still arrives with
+  tracker, backup footage, and the police — proof stays hers, the win is
+  theirs. Blazer holds the exit.
+- **[Process note, author 2026-07-27]** The v2 chapters replace
+  `manuscripts/book-01-hawaii/manuscript.md` only after all twelve exist
+  and the author reads the full set — one adoption pass updating the
+  manuscript, CHANGELOG, and THREADS together.
 
 ## Open questions to settle later
 

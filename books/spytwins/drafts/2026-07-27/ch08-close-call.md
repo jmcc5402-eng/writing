@@ -124,7 +124,7 @@ and folded in beside them, eyes enormous.
 
 "A key card," he whispered. "Did you see it? That's it —
 that's the inside knowledge. That's the answer to my question
-from the first day. Where the cameras point, how the sensors arm,
+from the day it was stolen. Where the cameras point, how the sensors arm,
 and now a card that opens the door.
 It was never luck. I said it was never luck."
 
@@ -274,6 +274,10 @@ Do you have any idea how dangerous that was?"
 Yes, thought Amanda. His shoes creaked on the other side
 of the case. She said nothing.
 
+"And the tubes," their dad said, quieter than their mom.
+"Marked paths only. That was the one rule that went with you.
+The litter you found tells me how marked those paths were."
+
 "We're sorry," Andrew said, and meant it,
 and his mind raced anyway, uselessly, around the same track:
 tomorrow night. Tomorrow night. Tomorrow night.
@@ -290,9 +294,9 @@ The room went a beat too quiet.
 Their dad looked at the window.
 Mrs. Kalani smoothed her skirt.
 
-"Home," their dad said, standing. "Now. Both of you.
-You're grounded — school, meals, the yard, that's the map
-of your whole world until we say otherwise."
+"Home," their dad said, standing. "Now. Both of you."
+He glanced at their mother.
+"Though your antics were exciting, you'll still need to be punished."
 
 At the door, Amanda made herself stop in front of Mrs. Kalani.
 

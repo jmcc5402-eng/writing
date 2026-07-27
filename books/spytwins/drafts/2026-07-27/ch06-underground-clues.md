@@ -58,7 +58,7 @@ a look, a tilt, a shrug, an entire committee meeting in four seconds.
 That night, passing the kitchen for a glass of water,
 Amanda heard the plan being discussed in the grown-up dialect —
 "...good for them, honestly..." "...if Kekoa's along..."
-"...you did worse at their age..." "...that is classified..."
+"...you did worse at their age..."
 — and went back up the stairs on the outsides of her feet.
 
 Saturday morning their mom looked up from her laptop and said,

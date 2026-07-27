@@ -124,7 +124,7 @@ and behind him, where he'd walked up the muddy slope,
 his boot soles had printed the ground over and over.
 Zigzag tread. Deep. Large.
 
-Amanda flipped her notebook back three days, to the page that said
+Amanda flipped her notebook back a week, to the page that said
 zigzag tread, big, half full of rainwater.
 
 "The footprints below the carvings," she said. "Look. Look."
@@ -133,7 +133,7 @@ Andrew held the notebook beside the screen, the sketch beside
 the photo, and took his time — that was his job —
 and then nodded once.
 
-"Same tread. And I said they looked too big for Mrs. Santos."
+"Same tread. And I said they looked big for Mrs. Santos."
 He let out a breath. "They were never hers.
 They were his, from standing there studying the carvings.
 For a long time. Remember how deep the heel marks were?"
