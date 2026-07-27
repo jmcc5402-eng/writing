@@ -59,6 +59,11 @@ These hold for every book here.
 7. **Decisions get recorded, not remembered.** When a story question is settled,
    write it into the book's bible and mark it locked. Open questions live there
    too, so nothing gets re-litigated from memory.
+8. **Every chapter values the super concepts.** Each book keeps a
+   `SUPERCONCEPTS.md` — the 3–4 concepts that make it win or sell. A chapter
+   need not incorporate them, but may never cheapen one; each concept carries
+   a chapter test, and editorial agents judge chapters against the file. A
+   good chapter that fails a super concept is a finding, not a pass.
 
 ## Working on a book
 
