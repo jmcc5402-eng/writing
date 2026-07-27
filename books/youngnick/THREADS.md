@@ -1,0 +1,817 @@
+# Young Nicholas — Thread Map
+
+*Continuity index, 2026-07-27. Primary text:
+`manuscript/nick-manuscript-22.md` (canon manuscript, 23,376 words, 24
+chapter headings; line numbers below are `l.###` in that file).
+`STORY_BIBLE.md` is the source of truth, including §7 decision 7 (hybrid
+compass stone, locked — the belt unlocks nothing) and §7 decision 8
+(older all-ages audience, delegated ruling). The manuscript's "Heather"
+is Grace throughout; this map says Grace everywhere and cites the page's
+spelling only where the exact wording matters. Chapters 5–24 were
+numbered on import ("Chapter X" in the source); numbers below are the
+import's and are flagged where the import swallowed a break.*
+
+*The manuscript stops mid-word ("entered the cloud. Cha", l.2392) and
+Chapter 24 is an empty heading. This map is of an unfinished book and
+reads like one: many threads end OWED because there is no ending to pay
+them. That is the finding, not a defect of the map.*
+
+Legend: INTRODUCES (first on the page) / CARRIES (present, not moved) /
+ADVANCES (moved) / PAYS OFF (a plant collects) / HANDS FWD (what the
+chapter passes on) / SERIES (Santa-myth material, see Section 3).
+"—" = empty slot. T## = story thread (Section 2), S## = series/myth
+thread (Section 3).
+
+---
+
+## SECTION 1 — CHAPTER LEDGER
+
+### Chapter 1 — the sample climb and the push (Nick; Day 0)
+- INTRODUCES: Nick (21, ten years away, logger; l.34–43); Grin Bros
+  Mining and the sample excursions (T01); the tent fragments —
+  "'....San Fran...' '........three more weeks?....' '...if just one
+  person finds out...'" (l.81–82, plant for T02); the eagle (T26,
+  l.50–52); dog sleighs on icy trails (l.95–97).
+- CARRIES: —
+- ADVANCES: —
+- PAYS OFF: —
+- HANDS FWD: the push — "It was the Grin brothers." (l.124) → ch2;
+  the sample left by the fire (l.158–159) → ch4's "positive sample";
+  Nick believed dead (T21) → everywhere.
+- SERIES: —
+- NOTE: descent near-fall (l.54–72) spends a cliff scare before the
+  ambush (structure flag, per notes). Weapon here is "a large wooden
+  log" (l.100); ch16 recalls "the metal rod" (l.1459) [CHECK].
+  Pushers on the page are the two Grins alone; bible §3 puts Duff
+  among them [TK: pushers — unreconciled, see T15].
+
+### Chapter 2 — the fall and the ledge (Nick; Day 0, evening)
+- INTRODUCES: Grace, in memory only (l.196–206); the kill-check
+  silhouette (l.148–151, T21); the father's freezing-water warning
+  (l.171–172, first father touch, T09); the childhood four — Nick,
+  Grace, the Grins, "before the Grins became killers" (l.203–206).
+- CARRIES: T01/T02 (why would they kill him? l.153–155 — unanswered by
+  design until ch16).
+- ADVANCES: survival traverse.
+- PAYS OFF: the eagle — the nest hole catches his fall (l.139–146,
+  plant l.50).
+- HANDS FWD: "A cave." (l.218) → ch5.
+- SERIES: —
+- NOTE: "For the last three years... a lumber jack" (l.201) vs ch1's
+  ten years [TK]. The balk is narrated here ("didn't have the nerve to
+  call out," l.198–199) — the romance thread's only pre-push beat
+  (T10).
+
+### Chapter 3 — Grace decides on the university (Grace; ~Day 0–1)
+- INTRODUCES: Grace on the page; Jim (widower, ex-medical student, 18
+  months in San Francisco, l.246–248); the college/doctor/typhoid dream
+  (T11, l.244–258); Grace's "amazing memory" (l.252–253, T12 — planted
+  here, never used); the annuity as Jim's savings for her (T01).
+- CARRIES: —
+- ADVANCES: T11 — "I decided, I'm going to enroll in the University"
+  (l.224–225); ferry letter to be written "tomorrow morning" (l.280).
+- PAYS OFF: —
+- HANDS FWD: the letter → ch4; tickets "by mid December" (l.283)
+  [TK: Portland here vs Seattle/San Francisco later].
+- SERIES: —
+
+### Chapter 4 — the market and the death news (Grace; days later)
+- INTRODUCES: Old Rob and the market (l.305–357); annuity mechanics —
+  Juno Bank, six drills, 75% retained, vested in five years, payout
+  next summer (l.326–339, T01); the trader-chocolate memory and
+  "Anyone can get anything, once gold is discovered" (l.294–298, T04);
+  town plight — prices, avalanche-closed pass (l.340–343, T27).
+- CARRIES: T11 (letter dropped at the store, l.288–289).
+- ADVANCES: T01/T02 — the Grins' false "positive sample" news
+  (l.308–315) pays the ch1 sample plant as cover story; T21 — the
+  death news reaches town and Grace: "Nick Johnson was killed during
+  the expedition" (l.357).
+- PAYS OFF: —
+- HANDS FWD: the flour drop and "the man she married" (l.363–366) →
+  Grace's grief (ch9) and the whole T10 engine.
+- SERIES: —
+- NOTE: surname "Johnson" here; bible §7.3 leans Anderson [TK
+  surname]. "Returned a week or two ago" (l.346) vs three weeks
+  (l.34, l.157) [CHECK].
+
+### Chapter 5 — the cave night and the glow (Nick; night of Day 0)
+- INTRODUCES: the cave (l.389–414); the red glow (l.434–462, T25);
+  THE SLEIGH — "an old sleigh. A red glowing sleigh." (l.479–480,
+  T17, S01).
+- CARRIES: T21 (hidden from any search, l.395–397).
+- ADVANCES: survival by craft — rock wall, pine-needle bed, jerky
+  ration (l.416–428).
+- PAYS OFF: —
+- HANDS FWD: the unearthed sleigh → ch7.
+- SERIES: S01 born (discovery, not sorcery — bible §5 rule holds).
+- IMPORT: chapter ends "…sleigh. C" (l.480) — swallowed break #1; the
+  discovery ended a chapter in the source.
+- NOTE: author TODO at l.384 — the wolverine at the cave mouth
+  ((...)) — pause played, animal never appears [TK].
+
+### Chapter 6 — the counting house (Grins; timeline parallel)
+- INTRODUCES: Donald and James on the page; the nightly count; the
+  New York/San Francisco escape dream (l.498–505, T02); Duff by name
+  (l.528, T15); Gerred Grin, the father (l.617 in ch8 recall; here
+  the father's shadow, l.507–526) [TK: Gerred unconfirmed in bible];
+  "the other miners treated Nick Anderson as the beloved one"
+  (l.524, ambiguous referent) [TK surname].
+- CARRIES: T01 (the take, the scale, the sacks).
+- ADVANCES: T21 — Donald's cover line: "Nick Johnson falling off that
+  cliff was the worst moment of my life. At least thats what I keep
+  repeating around town." (l.536–539); T27 — "the metal...and this
+  towns endless hope for more it" (l.544–545).
+- PAYS OFF: —
+- HANDS FWD: "ready in less than two weeks" (l.532) → the escape
+  clock (loose; §7.5's 3-day clock never appears).
+- SERIES: —
+
+### Chapter 7 — the sleigh in daylight (Nick; Day 1)
+- INTRODUCES: the sleigh described — hand brake, second lever
+  (l.585–599).
+- CARRIES: T17; hunger (last jerky gone, l.556–558).
+- ADVANCES: first ride, downhill toward the forest.
+- PAYS OFF: —
+- HANDS FWD: the runaway sled → ch8.
+- SERIES: —
+- NOTE: author TODOs l.582–583: describe the sleigh in daylight +
+  "((Include the carvings where the stones will eventually fit))" —
+  the decision-7 anchor. THE CARVINGS ARE NEVER RENDERED anywhere in
+  the canon manuscript; they exist only as this TODO until the stone
+  needs a groove in ch23 (T16, T17). The v2 draft ch3 writes them.
+
+### Chapter 8 — the sleigh flies (Nick; Day 1)
+- INTRODUCES: flight (l.694: "The sleigh was flying."); the second
+  lever as flight control (l.657–684); Gerred Grin named (l.617);
+  mother's distrust of the Grins (l.615–618).
+- CARRIES: T21 ("his only advantage... the Grins thought he was
+  dead," l.621–623).
+- ADVANCES: T17 — brake fails, jump weighed, accidental takeoff
+  (matches bible §5.3 "first by accident, nearly crashing").
+- PAYS OFF: —
+- HANDS FWD: an airborne Nick → everything after.
+- SERIES: S01 delivered in full.
+
+### Chapter 9 — FOUR SCENES MERGED (Grace / Nick / Nick / Grace)
+- IMPORT: three swallowed breaks inside this chapter — "hapter X" at
+  l.747, l.804, l.875 (breaks #2–4). Treat as four chapters.
+- Scene A (Grace at the rock, l.698–747): INTRODUCES the rock on the
+  creek (T19); ADVANCES her grief and the shame self-audit
+  (l.711–715); resolves to leave and never return; plans to withdraw
+  the savings in Juno (T11). NOTE: no carved initials on the page —
+  the bible's initials/heart beats (§6 Books 2–3) exist nowhere in
+  the manuscript (T19, OWED).
+- Scene B (flight joy, l.747–804): ADVANCES T17 — Nick learns to
+  steer, dive "like an eagle" (T26).
+- Scene C (eagle eggs and the mission, l.804–875): PAYS OFF the eagle
+  (eggs as food and trade goods, l.815–836); INTRODUCES the Inuit
+  trade plan over the closed pass (T04); ADVANCES Nick's turn — "He
+  was going to help this town, no matter what that meant" (l.871);
+  motive stated: "He returned because he loved this place" (l.864)
+  [CHECK: vs ch2's gold-question l.180; vs the bible's proposal
+  motive, never on the page — T10].
+- Scene D (chocolate morning, l.875–950): PAYS OFF the trade run —
+  chocolate on every porch (T04, S03, S04); INTRODUCES Ms. Hannigan,
+  Sweet Tooth / Sweet Pea, Jane (Grace's mother, l.889) [TK: name not
+  in bible], Mr. Bramley and his boat (l.925–936, T27), Jim's
+  birthday party plan (l.942–944 — the party itself never shown,
+  OWED small).
+- HANDS FWD: a town primed to receive anonymous gifts → ch12.
+- SERIES: S03 first delivery, S04 born.
+- NOTE: "for the three kids" (l.889) implies Grace has siblings —
+  nowhere else [TK].
+
+### Chapter 10 — the skim discovered (Nick; evening)
+- INTRODUCES: the mine office at night; the coal-for-gold swap at the
+  weigh-in (l.984–996, T01); the hidden compartment under the desk
+  (l.1007–1009).
+- CARRIES: T21 (sneaking; the town must not see him).
+- ADVANCES: T01 — Nick now believes the Grins skim ~10% (the false
+  floor under the ch16 reveal, bible §7.4 executed).
+- PAYS OFF: —
+- HANDS FWD: the key's hiding place → ch11.
+- SERIES: —
+
+### Chapter 11 — the first gold theft-back (Nick; same night)
+- INTRODUCES: Old Gus / Young Gus, the mine dog (l.1046–1068, T20 —
+  never seen again); the Robin Hood self-check (l.1074–1078).
+- CARRIES: T21.
+- ADVANCES: T03 — two bags taken off the skim, coal swapped back in
+  (l.1028–1031); explicit link to the chocolate drops (l.1080–1082).
+- PAYS OFF: —
+- HANDS FWD: gold on porches → ch12.
+- SERIES: S04.
+
+### Chapter 12 — gold on the doorstep (Grace; morning)
+- INTRODUCES: the Gus Anderson memory — the morning after the old
+  earthquake, "a dream they shared had just been dashed" (l.1092–1103,
+  T24 — never touched again) [TK: is Gus the father's given name, or
+  drift from the dog?].
+- CARRIES: T27 (Hannigan's take-the-gift wisdom, l.920–923 echoed).
+- ADVANCES: T03 — the nugget in the egg sack (l.1128–1136); the town
+  mythologizes — "fierys and angels" (l.1139–1140, S04); Grace's
+  unease: what if the Grins find out (l.1142–1146).
+- PAYS OFF: the chocolate plant (last week chocolate, this week gold,
+  l.1138–1139).
+- HANDS FWD: a town full of unexplained gold → ch20/ch22.
+- SERIES: S03 (small scale — the porch gold here is the only
+  overnight-gold scene ever dramatized; see S03 OWED).
+
+### Chapter 13 — the Grins decide to run (Grins)
+- INTRODUCES: the mine is going dry — down 5 weeks (l.1150–1153); the
+  padded totals and the $24,000 x 4 pitch (l.1178–1202); the secret
+  dock named (l.1162–1164); port Lola (l.1166).
+- CARRIES: T02.
+- ADVANCES: T02 — "It's time to wrap things up and head for the
+  mainland" (l.1158–1160).
+- PAYS OFF: —
+- HANDS FWD: an UNRESOLVED CLIFFHANGER — footsteps, "He never
+  expected to see the person standing in the doorway." (l.1202–1208,
+  T08). The visitor is never identified anywhere in the manuscript.
+- SERIES: —
+- NOTE: James Grin is twice called "Jim" here (l.1203–1205) — in a
+  book where Grace's father is Jim [CHECK]. "in the five years of the
+  program" (ch14 l.1223) vs ch4's four years [TK].
+
+### Chapter 14 — the bank letter (Grace)
+- INTRODUCES: the water-damaged Bank of Juno letter — "Funds absent
+  from account", $34.42 against a promised $3,000+ (l.1245–1251,
+  T01); the Grins' mail control recalled (l.1226–1232, T23).
+- CARRIES: T11 (the ferry tickets blocked by the empty account).
+- ADVANCES: T22/T01 — the swindle reaches its first townsperson;
+  Grace conceals it from Jim ("Papers from the university!",
+  l.1266–1267) and decides alone.
+- PAYS OFF: T12 should fire here — the letter is in the hands of the
+  girl with the amazing memory — and does not (T12 OWED).
+- HANDS FWD: "She was heading towards the mine." (l.1275–1276) →
+  the missing second act (T05). Her capture happens OFF THE PAGE.
+- SERIES: —
+- NOTE: how a real statements package evaded the Grin-carried mail is
+  never explained (T23) [CHECK]. Author TODO l.1253–1256: the man who
+  asked about the money and disappeared ((...)) — never written.
+
+### Chapter 15 — following the gold run (Nick)
+- INTRODUCES: the Donald-loves-Grace flashback — "everybody knows
+  that you're gonna marry her one day" (l.1294–1304, T10/T13 — the
+  triangle's only appearance; Donald never courts or coerces Grace on
+  the page); the Friday gold runs; the secret cove, dock, boat, and
+  vault door in the cliff (l.1317–1341, T02).
+- CARRIES: T03 (two more porch runs, l.1279–1285).
+- ADVANCES: T02 — on the boat: eight sacks of gold on top, two dozen
+  of coal beneath (l.1362–1381). The shipments themselves are fake.
+- PAYS OFF: —
+- HANDS FWD: what's really in the cliff vault → ch16.
+- SERIES: S04 (near-miss on Hannigan's porch, l.1280–1285).
+
+### Chapter 16 — ALL the gold (Nick)
+- INTRODUCES: the vault room — 10+ crates, 3–4 years of gold
+  (l.1416–1451).
+- CARRIES: —
+- ADVANCES: T21 — Nick finally understands the push (l.1444–1461).
+- PAYS OFF: T02 — the skim-vs-ALL reveal: "the Grins had stolen ALL
+  the gold from the mine" (l.1447–1448). Bible §7.4 executed exactly.
+  ALSO replays the ch1 tent fragments — but recalls whole sentences
+  ("There won't be time in San Fransisco!", l.1437–1442) that ch1
+  never gave the reader [CHECK: not a fair-play replay; the v2 draft
+  ch1 fixes the plant side].
+- HANDS FWD: "He would save the town." (l.1487–1488) → ch17; Duff
+  building on the dock (l.1475–1482).
+- SERIES: —
+
+### Chapter 17 — the failed heist and the second earthquake (Nick)
+- INTRODUCES: Dwayne (l.1504, T15 — never seen after ch17); the
+  sleigh's weight limit (l.1598–1629, T17 — the plant the caribou
+  pay); earthquake #2, the fallen oak, the cabin fire (l.1565–1637);
+  the mine cave-in seen from the air (l.1680–1687, T06).
+- CARRIES: T02 (Duff's plank bypassing the dock, l.1500–1502).
+- ADVANCES: T03 — twelve crates loaded, sleigh refuses, gold left
+  behind: the Major Setback (l.1594–1633).
+- PAYS OFF: —
+- HANDS FWD: no gold, no mine, no food → ch18's low point.
+- SERIES: —
+- IMPORT: mid-chapter "\----" seam at l.1661 (POV jumps to
+  James/Duff for the miscount beat, l.1638–1661) — probable
+  additional swallowed break beyond the counted five.
+- NOTE: "Jim Grin had arrived" (l.1560) — James called Jim again
+  [CHECK]. The Duff-peeing gag (l.1546–1558) sits inside the tensest
+  sequence (tone flag, per notes).
+
+### Chapter 18 — the caribou idea (Nick; the lowest moment)
+- INTRODUCES: the caribou (l.1703–1752, T18, S02) — encountered
+  exactly where the bible wants them (§5.5, after the lowest point);
+  the argument that earns them: "Why wouldn't caribou increase the
+  pulling power of a sleigh through the sky?" (l.1745–1747).
+- CARRIES: T03 (no plan B, l.1770–1771).
+- ADVANCES: T18 — three caribou roped, first flight (l.1752–1787).
+- PAYS OFF: T17's weight-limit plant begins collecting; Nick's
+  hauling years pay (l.1663–1665, l.1708–1711).
+- HANDS FWD: a sleigh that can lift the gold → ch19.
+- SERIES: S02 delivered.
+
+### Chapter 19 — the dock heist and Grace's escape (Nick)
+- INTRODUCES: Grace's off-page arc surfacing — she bursts from the
+  cabin armed with a crowbar, fire behind her (l.1825–1836, T05);
+  four armed men (l.1820–1823).
+- CARRIES: T21 ("Could she be part of the heist?" l.1838 — Nick
+  acting on his own missing knowledge, correctly played).
+- ADVANCES: T03 — the dolly of gold rolled onto the sleigh, the
+  snapped rope, the baker knot, escape off the water (l.1845–1928).
+- PAYS OFF: T18 (the caribou make the heist possible).
+- HANDS FWD: "Heather." (l.1933) → the rescue; the Grins now know
+  the gold is gone (l.1895–1898, l.1927–1928).
+- SERIES: S02 ("a sleigh with three reindeer," l.1866 — the word
+  reindeer used here only, l.1866/1878/1891).
+- NOTE: Nick recovers ONE dolly-crate. The vault held 10–12 crates
+  (l.1450, l.1525). See T03 OWED — the restitution arithmetic.
+
+### Chapter 20 — the town finds out (Jim / town)
+- INTRODUCES: Joe, Bill James; the statements package found in
+  Grace's room (l.1955–1981, T22/T23); the printing press
+  (l.2011–2012, T01); Duff's defection — "Donald's gone mad... I
+  thought we was just taking the gold" (l.2058–2067, T15).
+- CARRIES: T06 (the mine is gone, l.2028–2034).
+- ADVANCES: T22 — the town learns the accounts are empty; T05 — Jim
+  deduces the Grins have Grace (l.2017–2019); Jim sees her fall
+  (l.2091–2102).
+- PAYS OFF: —
+- HANDS FWD: Grace falling → ch21 (same moment, other POV).
+- SERIES: —
+- IMPORT: from "And then she fell." (l.2102) to the chapter's end
+  (l.2130) is ~350 words of RAW OUTLINE pasted into the prose —
+  including beats that exist nowhere in prose: the townsmen grab
+  James; James babbles about a flying sleigh; everyone thinks Donald
+  escaped with the money; gold on every porch the next morning.
+  None of that is written (see T14, T03, S03).
+
+### Chapter 21 — the rescue (Nick; climax)
+- INTRODUCES: the triangle ledge and the lone pine (l.2137–2141).
+- CARRIES: —
+- ADVANCES: T21 — Donald learns Nick is alive: "it's over Don, I
+  have the gold, you're going to jail" (l.2162 — Nick's only spoken
+  line to another human on the page); T13 — knife to Grace's throat,
+  the aftershock, Donald swept away by the river (l.2166–2182 —
+  death UNCONFIRMED).
+- PAYS OFF: T17+T18 — the flying catch (l.2192–2219).
+- HANDS FWD: an unconscious, rescued Grace → ch22.
+- SERIES: S02, S04 (he saves her and will not be seen).
+- NOTE: the climax is resolved by aftershock, not by Nick's arc —
+  the bible's father-wound engine (T09) has nothing to pay here.
+  Duff is present at the cliff (l.2150) and defects downhill in ch20
+  (l.2058) — sequence holds, barely [CHECK ordering on redraft].
+
+### Chapter 22 — the town wakes rich; "Nick who?" (Grace; aftermath)
+- INTRODUCES: the celebration; Jim's decision — "we'll be in Frisco"
+  (l.2239–2244, T11 payoff: he comes with her).
+- CARRIES: —
+- ADVANCES: T03 — restitution reported: crates found beside Grace at
+  the dock, statements used to divvy shares, "They were skimming off
+  the top too" (l.2254–2272); T21 — "What about Nick?" / "Nick who?"
+  (l.2274–2276); Grace half-knows: "Maybe it was a dream, but I
+  remember seeing him" (l.2278–2279).
+- PAYS OFF: T11 (the sack on the porch IS her college fund); T27
+  (Bramley's boat now affordable, implied only).
+- HANDS FWD: a town that never learns its benefactor → the wink
+  (S07).
+- SERIES: S03 (secondhand — see OWED), S04, S07.
+- NOTE: KNOWLEDGE LEAK — Jim narrates the vault's location and the
+  skim-on-top, facts no townsperson learned on the page (T22)
+  [CHECK: Duff's or James's confession could carry this; neither is
+  written].
+
+### Chapter 23 — the compass stone and the warp (Nick)
+- INTRODUCES: THE COMPASS STONE (l.2323–2345, T16) — dug from the
+  cave wall by Nick himself, glow answering its orientation; the
+  sleigh's middle groove receiving it (l.2351–2364); the ruby dream
+  (l.2298–2313, T25); the North Star lock and the cloud
+  (l.2374–2392, T07, S06).
+- CARRIES: T10 — the balk, staged at last: "Maybe he chickened out."
+  (l.2291–2295); "He wanted to find her, tell her everything, and
+  take her with him" (l.2370–2371) — wanted, never done.
+- ADVANCES: T07 — the sleigh flies itself north, accelerating.
+- PAYS OFF: the glow motif (T25) and the ch7 groove TODO — the only
+  payoff the carvings ever get, without the plant ever being written
+  (T17).
+- HANDS FWD: everything. The text stops mid-word: "the sleigh
+  entered the cloud. Cha" (l.2392).
+- SERIES: S06 begun and cut off. Decision 7's recognition beat —
+  the stone's markings echoing the father's belt emblems — is NOT on
+  this page; the inscription is read only as "a compass" (l.2339)
+  (T16 OWED).
+- IMPORT: swallowed break #5 — the mid-word stop.
+
+### Chapter 24 — [empty heading, l.2394]
+- INTRODUCES / CARRIES / ADVANCES / PAYS OFF: —
+- HANDS FWD: —
+- SERIES: —
+- Everything the ending owes is listed under OWED in Sections 2–3.
+
+---
+
+## SECTION 2 — THREAD INDEX
+
+Types: plot | character-arc | object | knowledge | motif.
+Arc notation: born → touched → pays / OWED.
+
+### Plot
+
+- **T01 — The annuity swindle** (plot)
+  Born ch4 (l.326–339) → ch6 (the count) → ch10 (the coal swap) →
+  ch13 (padded totals, fake pitch) → ch14 (the $34.42 letter) → ch20
+  (printing press, empty accounts) → pays ch22 (restitution
+  narrated). The machine itself is the draft's best-built structure.
+  OWED: the Grins face no consequence on the page (arrest exists
+  only in the ch20 pasted outline); the fate of the annuity fiction
+  vs the Juno Bank is never settled; Tim Jones (bible §4) never
+  appears [TK: does the bank exist as a real counterparty?].
+
+- **T02 — Skim-vs-ALL and the escape boat** (plot)
+  Born ch1 (tent fragments) → ch6 (New York dream, Duff's "two
+  weeks") → ch13 (decision to run, secret dock) → ch15 (coal decoys
+  on the boat) → pays ch16 (the vault: ALL the gold — §7.4 executed,
+  the book's best turn). OWED: the escape itself — the Grins never
+  actually leave, fight, or fail on the page; the boat is last seen
+  moored (ch19); §7.5's ticking clock was never installed. [CHECK:
+  ch16's replay quotes tent sentences ch1 never gave the reader —
+  fair-play repair needed; v2 draft ch1 fixes the plant side.]
+
+- **T03 — Returning the gold / the town wakes to treasure** (plot)
+  Born ch11 (two bags off the skim) → ch12 (nugget on the porch —
+  the only dramatized overnight-gold scene) → ch17 (twelve crates,
+  failed) → ch19 (ONE dolly-crate recovered) → pays ch22 (town
+  divvies "more than five years worth" from "each of the crates").
+  OWED — THE ARITHMETIC: Nick takes one rolling crate off the boat;
+  the vault held 10–12; nothing on the page moves the rest to the
+  town dock, and nobody on the page but Nick knew where the vault
+  was. The keystone image (bible §1: the town WAKES to gold) is
+  never dramatized — ch22 reports it four hours cold, and the
+  porch-gold-morning version exists only in the ch20 pasted outline.
+
+- **T04 — The chocolate drops and the Inuit trade** (plot)
+  Born ch4 (trader chocolate, Sweet Tooth, l.294–298) → ch9 scene C
+  (eagle eggs → trade over the pass) → pays ch9 scene D (chocolate
+  on every porch — the draft's purest Santa scene) → ch12 (recalled:
+  "Last week was chocolate, this week gold"). Small OWED: Jim's
+  birthday party with pooled chocolate (planted l.942–944) never
+  shown; the author's own TODOs — chocolate as a lapsed town
+  tradition Nick revives (l.883–885), the trader story Grace read in
+  school (l.303) — never written [TK both].
+
+- **T05 — Grace's captivity: the missing second act** (plot)
+  Born ch14 ("She was heading towards the mine.") → [NOTHING — five
+  chapters of her story are absent] → surfaces ch19 (crowbar, fire,
+  flight up the coast) → ch20/21 (the cliff, the fall) → pays ch21
+  (rescue). OWED: her arrival at the mine, the confrontation, the
+  capture, the days held, the decision to burn her way out — all off
+  the page; and with them the bible's Book-3 beat where DONALD
+  REVEALS NICK CAME BACK TO PROPOSE — the hinge of the whole
+  misunderstanding engine (§3, §6) — which therefore exists nowhere
+  in any prose. The single largest hole in the book.
+
+- **T06 — The mine collapse and the town's future** (plot)
+  Born ch17 (seen from the air) → ch20 (Jim at the caved-in
+  entrance). OWED: never paid. The town celebrates in ch22 with the
+  mine gone and no plan on the page; "everyone decides to go back to
+  the city" exists only in the ch20 pasted outline. What Bronston
+  does next is unwritten.
+
+- **T07 — The warp** (plot)
+  Born ch23 (stone → groove → North Star lock → the cloud). OWED:
+  the manuscript stops mid-word inside it. No arrival, no "he had no
+  idea where he was" (bible §5.6), no cost to Grace, no ch24. Note
+  the manuscript's warp mechanism (stone in SLEIGH groove + North
+  Star) differs from bible §5.6 (medallion in CAVE engraving) — the
+  stone version is canon under decision 7; §5.6 is flagged for
+  rework [TK per bible §7.7].
+
+- **T08 — The ch13 doorway visitor** (plot)
+  Born ch13 ("He never expected to see the person standing in the
+  doorway," l.1208) → never touched again. OWED/DROPPED: the
+  cliffhanger has no payer anywhere in the manuscript. Candidate
+  answer is Grace-arriving-captive (which would seed T05), but that
+  is inference, not text [TK: who is at the door?].
+
+### Character arcs
+
+- **T09 — Nick's father wound and the creed** (character-arc)
+  The bible's designed engine (§2, §3: read restraint as weakness,
+  angry the day he died, fears he inherited it, Donald needles it,
+  understanding pays the climax). ON THE PAGE: absent. The father
+  appears only as benign craft-memory — freezing-water warning
+  (ch2), "the real brains" (ch8), egg-craft and trader trips (ch9).
+  No anger, no weakness-fear, no needle, and the creed ("Shelter,
+  fire, food...") appears NOWHERE in the manuscript. The climax is
+  resolved by aftershock instead (ch21). OWED in full. (v2 draft:
+  ch1 plants it in three touches + ch3 creed catechism — exists only
+  there.)
+
+- **T10 — Nick and Grace: the romance and the misunderstanding
+  engine** (character-arc)
+  Born ch2 (memory + narrated balk) → ch4 ("the man she married") →
+  ch9 (her grief and shame) → ch15 (the triangle, flashback only) →
+  ch21 (the catch — no words) → ch22 ("Maybe it was a dream") →
+  ch23 (the balk finally staged: "Maybe he chickened out"). OWED,
+  nearly everything: NICK AND GRACE EXCHANGE ZERO WORDS in the
+  manuscript (verified); the bible's one scripted scene between them
+  — the dock misunderstanding (§3, §6 Book 3) — was never drafted;
+  the proposal motive exists only in the bible (the page says he
+  returned for love of the place, ch9 l.863–864); Donald's coercion
+  of Grace is not on the page. Whether the ending should pay this
+  with a reunion (bible §6: confession, belt returned) or with the
+  crueler vanish the prose chose is an open author decision —
+  critique rec 4 argues the prose already voted [TK: ending shape;
+  note "she returns his belt" is contaminated by T16 either way].
+
+- **T11 — Grace's dream: university, medicine, typhoid**
+  (character-arc)
+  Born ch3 (decision, mother, typhoid) → ch4 (letter posted) → ch9
+  (resolve hardens) → ch14 (blocked by the empty account) → pays
+  ch22: the fund restored AND Jim chooses to come ("after that last
+  few days, I think I'm ready to leave Alaska") — quietly the
+  completed arc his resignation (ch3) set up. Doctor-and-typhoid
+  remains a series-scale promise, properly unpaid here.
+
+- **T12 — Grace's remarkable memory** (character-arc)
+  Born ch3 (l.252–253, told twice) → never used once — not even in
+  ch14 with the bank letter in her hands, the scene built for it.
+  OWED: a plant with no payer anywhere in the manuscript.
+
+- **T13 — Donald Grin** (character-arc)
+  Born ch6 (two genuinely cold lines — the repeated-grief line and
+  hope-as-metal) → ch13 (the salesman set-pieces) → ch21 (knife,
+  aftershock, swept away). OWED: personal menace — he never needles
+  Nick, never courts Grace on the page (bible §3 says both); his
+  death is unconfirmed ("swept away by the current," l.2181–2182)
+  and the town's belief that he escaped with the money exists only
+  in the ch20 pasted outline. A villain the ending still owes a
+  fate.
+
+- **T14 — James Grin** (character-arc)
+  Born ch6 (comic, New York flyer — canon-consistent) → ch13, ch15,
+  ch17 (the miscount), ch19 (gaping at the empty dock). OWED: his
+  fate is never resolved in prose; capture-by-townsmen and the
+  flying-sleigh babble exist only in the ch20 pasted outline. He is
+  also the leak-prone brother the bible builds on ("talks too much;
+  leaks Nick's secret") — a trait with no scene [TK].
+
+- **T15 — Duff and Dwayne** (character-arc)
+  Duff: named ch6 → dock works ch15–17 → present at the cliff chase
+  ch21 (l.2150) → defects ch20 ("I didn't want to hurt anyone").
+  After his confession he vanishes; no fate. Dwayne: born ch17
+  (l.1504), gone by ch19's "two other guys" — dropped. CONFLICT
+  [TK]: bible §3 makes Duff a pusher who descends to confirm the
+  kill; the page gives the push to the two Grins alone and nobody
+  descends (ch1–2). Unreconciled either way (v2 draft keeps the
+  Grins-only version and flags it).
+
+### Objects
+
+- **T16 — Belt vs stone: the hybrid compass stone** (object)
+  CANON (bible §7 decision 7, locked): the magic object is the
+  compass stone, FOUND by Nick; recognition, not inheritance; the
+  belt is at most a keepsake and unlocks nothing. ON THE PAGE: the
+  father's belt does not exist anywhere in the manuscript (verified;
+  the only "belt" hits are "belted out" l.312 and James's key on a
+  "belt loop" l.1644) — so the manuscript is CLEAN, and the stone
+  arc is: grooves-TODO ch7 (l.583, never rendered) → stone found,
+  read as "a compass" ch23 → socketed, warp ch23. OWED: decision 7's
+  own recognition beat — the markings echoing the emblems Nick
+  REMEMBERS from his father's belt — is on no page; it needs (a) a
+  memory-plant of the belt emblems early and (b) the recognition at
+  the ch23 discovery. (v2 draft supplies (a): a keepsake belt-memory
+  flash in ch1 and half-recognized markings on the sleigh carvings
+  in ch3.) CONTAMINATION (old belt beats that must not re-enter,
+  all bible-side): §1 hook row "glow of the belt MEDALLION"; §3
+  "Carries: his late father's belt... the key to the sleigh's
+  magic"; §5 steps 1, 2, 4, 6 (medallion, cave-wall emblems matching
+  the belt, medallion glow, medallion-in-cave-engraving warp); §6
+  Book 3 "searches the Grins' house for his belt" and Grace "grabs
+  the belt"; §6 Book 4 "she returns his belt" and "sets the
+  medallion in the cave engraving". Every one is flagged for rework
+  by §7.7's [TK]; none has a counterpart in the manuscript. The
+  Grins'-house belt search (§6 Book 3) in particular has no page
+  version at all — if the belt stays a keepsake, where it physically
+  is remains open (v2 draft deliberately leaves its location
+  unstated) [TK: belt's whereabouts, if it appears at all].
+
+- **T17 — The sleigh** (object)
+  Born ch5 (glow, dig, "A red glowing sleigh.") → ch7 (daylight,
+  levers; carvings TODO unrendered) → ch8 (accidental flight) → ch9B
+  (mastery) → ch17 (the WEIGHT LIMIT — the plant that makes the
+  caribou necessary) → ch18–19 (team-drawn heist) → ch21 (the catch)
+  → ch23 (the groove takes the stone; the warp). The best-tended
+  thread in the book: every capability is discovered, tested, or
+  paid. OWED: the carvings/grooves are paid in ch23 without ever
+  being planted in prose (ch7's TODO is the plant's ghost; v2 draft
+  ch3 writes it, with an empty oval socket, (v2 draft) until adopted
+  into canon); the bible's aftermath beat — Nick slips away to HIDE
+  the sleigh (§6 Book 4) — is unwritten; where the sleigh came from
+  is a series question, properly unpaid.
+
+- **T18 — The caribou / reindeer** (object)
+  Born ch18 (after the lowest moment, exactly per bible §5.5, and
+  EARNED by argument, not luck) → ch19 (power + a fivefold speed
+  gain, l.2284–2286; called "reindeer" three times on the boat) →
+  ch21 (the rescue) → ch23 (fed apples, "the true heros"; they enter
+  the warp still harnessed). Pays throughout. OWED only at series
+  level (S02's full eight-and-names mythology).
+
+- **T19 — The rock at the creek** (object)
+  Born ch9A (l.698–704: the carved flat seat, Grace's thinking
+  place). OWED: the bible's beats on it — Nick circles their carved
+  initials (§6 Book 2), Grace sees the heart around their names on
+  her way to the mine (§6 Book 3) — exist nowhere in the manuscript;
+  no initials are on the page at all. As written the rock is planted
+  scenery whose romantic payload was never installed [TK: adopt or
+  drop the initials beats].
+
+- **T20 — Old Gus / Young Gus** (motif)
+  Born ch11 (l.1046–1068, plus the author's TODO about the Grins'
+  unkindness to the dog). Never appears again. OWED/DROPPED — a
+  one-scene charm plant with no payer (and a name-collision hazard
+  with "Gus Anderson," see T24).
+
+### Knowledge threads
+
+- **T21 — Nick presumed dead** (knowledge)
+  Who believes it, when: the Grins BELIEVE IT from the ch2
+  kill-check (silhouette, nobody descends) and SEED it — Donald's
+  rehearsed grief line, ch6. The town believes it from ch4 (Old
+  Rob's news, days after Day 0). Grace believes it ch4→ch21. Jim and
+  the town believe it through the end of the text. BROKEN: for
+  Donald at ch21 (sees Nick, hears him — then is swept away, taking
+  the knowledge with him); for Grace, half-broken ch21–22 ("Maybe it
+  was a dream"). James/Duff plausibly saw Nick at the cliff (ch21
+  "everyone searched the sky"; only Donald's recognition is on the
+  page). NEVER broken for the town — which is the wink's engine
+  ("Nick who?"). OWED: the final disposition — does Grace confirm,
+  does the town ever learn — is the unwritten ending's central
+  question. No one acts on knowledge they lack in this thread; the
+  draft plays it clean (even Nick's wrong guess about Grace, ch19,
+  is honest ignorance).
+
+- **T22 — How the town learns the swindle's shape** (knowledge)
+  Town knowledge on the page: empty accounts (ch14 Grace; ch20
+  everyone, via the statements package) + printing press (ch20) +
+  Duff's partial confession ("we was just taking the gold," ch20).
+  LEAK at ch22: Jim also knows the gold was "in a secret vault at
+  the cliffs" and that "they were skimming off the top too" —
+  facts only Nick (and the Grins) possess on the page. Someone is
+  acting on knowledge they don't have. [CHECK: a written Duff/James
+  confession scene would plug it; neither exists in prose.]
+
+- **T23 — The statements package** (knowledge)
+  Born ch14: a water-damaged, re-enveloped bundle of the whole
+  town's real bank statements reaches GRACE, of all people, despite
+  ch14 itself establishing the Grins carry and scour all mail and
+  only two real statements arrived in five years. No sender, no
+  explanation, ever. OWED [CHECK: who mailed it and why did it get
+  through? The author's own dead-inquirer TODO at l.1253–1256 gestures
+  at this machinery and was never written].
+
+- **T24 — Gus Anderson and the dashed shared dream** (knowledge)
+  Born ch12 (l.1092–1103): the morning after the OLD earthquake,
+  "Gus Anderson stood at the front door"; Jim and he talked like men
+  whose shared dream "had just been dashed"; Grace never learned
+  what it was. Never touched again. OWED — and potentially
+  load-bearing: if Gus Anderson is Nick's father (surname per §7.3
+  lean), this is the manuscript's only hint of a father-generation
+  secret (mine? sleigh? bank?) and a natural anchor for T09 and the
+  series. [TK: is the father's given name Gus, or is this drift from
+  the dog? Bible names neither.]
+
+### Motifs
+
+- **T25 — The red glow** (motif)
+  Born ch5 (grill-dream bleeding into the real glow) → ch23 (the
+  ruby dream bleeding into the stone's glow — a deliberate rhyme,
+  the draft's best structural echo) → the stone's orientation-glow
+  and the red flash through the sleigh. Feeds S05. Pays. Note under
+  decision 7 the glow belongs to sleigh and stone only — never to
+  anything Nick inherited.
+
+- **T26 — Eagles** (motif)
+  Born ch1 (the dive that comes up empty) → pays ch2 (the nest hole
+  saves his life) → ch9 (dives copied in flight; eggs as food and
+  trade capital — the economy behind the chocolate). Fully paid;
+  the manuscript's cleanest plant-payoff chain. [TK: author's own
+  ((Confirm this)) on eagle-egg lore, l.820.]
+
+- **T27 — Hope as currency** (motif)
+  Born ch4 (the town living on the annuity's promise) → ch6
+  (Donald weaponizes it: "this towns endless hope") → ch9D
+  (Bramley's boat, ten years of it) → ch12 (Hannigan's
+  take-the-good-day creed) → pays ch22 (the celebration; hope made
+  solid). Bramley's boat is implied-paid only (his refund is never
+  shown) — small OWED.
+
+- **T28 — (v2 draft) New opening texture** (motif)
+  Exists ONLY in drafts/2026-07-26/ch01–04 (unadopted): the
+  Nick–James spoken exchange at camp; the Old Rob sidewalk exchange
+  during the balk (grounding Rob's "saw him but the once"); the
+  ferry letter carried unposted through ch4 and laid down after the
+  death news; "The boat came Thursday" clock; "Mrs. Carver"
+  [TK placeholder]; Jim's "mother's people" line [TK]. Also
+  (v2 draft): the creed as catechism, the keepsake belt-memory, and
+  the sleigh carvings with the empty oval socket (see T09, T16,
+  T17). None of it is canon until adopted; if ch1–4 are adopted,
+  every one of these becomes a live plant the later chapters must
+  honor.
+
+---
+
+## SECTION 3 — SERIES / MYTH THREADS (the bible §1 promise table)
+
+One thread per tradition the story exists to explain. "On the page"
+means delivered in the canon manuscript's prose; "bible only" means
+the promise exists only in STORY_BIBLE.md. An unfinished book: three
+of seven end OWED, two more are partial. Said plainly below.
+
+- **S01 — The flying sleigh**
+  ON THE PAGE, fully: discovered ch5 (buried, glowing, dug out by a
+  starving man), first flight by accident ch8, mastery ch9B. Matches
+  bible §5.3 beat for beat. The one series-scale absence: where the
+  sleigh came from and who buried it — properly reserved for the
+  series, but the book never even asks the question aloud after ch7
+  (l.561–563 asks it once). Nothing else OWED.
+
+- **S02 — The reindeer**
+  ON THE PAGE: caribou, met after the lowest moment (ch18, exactly
+  the bible's placement), reasoned into harness, they carry the
+  heist (ch19), the rescue (ch21), and the warp (ch23). The word
+  "reindeer" surfaces three times in ch19. The tradition is earned
+  by argument — the draft's proudest invention. OWED only beyond
+  this book (the full team, the names).
+
+- **S03 — Gifts that appear overnight**
+  PARTIAL, and the biggest series-level absence. Delivered small:
+  the chocolate morning (ch9D) and the nugget on the porch (ch12)
+  are true overnight-gift scenes, dramatized, in town POV. NOT
+  delivered: the keystone — the bible calls the town waking to its
+  returned gold "the first Christmas morning" (§1) — never happens
+  on the page. Ch22 reports the restitution secondhand, hours
+  after, on a porch; the wake-to-gold-morning exists only in the
+  ch20 pasted outline. OWED: the book's reason for existing is
+  currently a summary in its father's mouth.
+
+- **S04 — Giving in secret**
+  ON THE PAGE, strongest of the seven: Nick cannot be known to be
+  alive (T21), so every gift is anonymous by necessity — chocolate
+  (ch9D), gold (ch11–12), the rescue and the gold left beside her at
+  the dock (ch21–22) — and it is PAID with the draft's best line,
+  "Nick who?" (ch22). OWED only its final shape: whether anyone
+  (Grace) ever gets to know, which is the unwritten ending's call
+  (T10, T21).
+
+- **S05 — The red suit / warm glow**
+  PARTIAL. The bible row reads "the glow of the belt medallion and
+  the sleigh" — the medallion half is DEAD under decision 7 (no
+  medallion exists; §7.7 [TK] flags the rework). What the page
+  delivers: the sleigh's red glow (ch5), the red flash through the
+  sleigh, and the compass stone's warmth-and-glow (ch23), rhymed
+  through two dreams (T25). Nothing red is ever worn. OWED: the
+  bible row needs rewriting to the stone; any suit imagery is
+  series-future [TK: amend §1 row with §5 rework].
+
+- **S06 — The North Pole (the warp)**
+  OWED — cut off mid-delivery. On the page: the stone seats in the
+  sleigh, the North Star locks the course, the flash, the cloud —
+  and the text stops mid-word ("entered the cloud. Cha", l.2392),
+  with Chapter 24 an empty heading. The bible's landing line ("One
+  thing Nick knew for certain: he had no idea where he was," §5.6)
+  and any arrival are unwritten. The words "North Pole" appear
+  nowhere in the manuscript (correct, for the wink — but currently
+  nothing appears in their place either). Note the delivered
+  trigger differs from bible §5.6 (stone-in-sleigh, not
+  medallion-in-cave) — the page's version is canon per decision 7.
+
+- **S07 — "Saint" Nicholas — quiet, repeated, uncredited good**
+  PARTIAL, trending strong. The wink discipline holds: "Santa" and
+  "Christmas" appear zero times (verified). The pattern is on the
+  page — feeds a town (ch9D), returns its stolen wages (ch11–22),
+  saves a life and leaves before thanks (ch21–23) — and "Nick who?"
+  is its thesis. OWED: the pattern has no closing note (ch24 empty);
+  the name-resonance depends on the surname decision (§7.3,
+  Johnson x4 vs Anderson x1 on the page [TK surname]); and the
+  bible's "choosing, again and again" framing wants the father
+  wound (T09) so the choosing costs something visible — currently
+  the goodness is unopposed from inside.
+
+---
+
+## Tallies
+
+Threads: 28 total — plot 8 (T01–T08), character-arc 7 (T09–T15),
+object 4 (T16–T19), knowledge 4 (T21–T24), motif 5 (T20, T25–T28).
+Series threads: 7 (S01–S07): fully on the page 2 (S01, S02); partial
+3 (S04, S05, S07); OWED at the keystone 2 (S03, S06).
+
+Biggest OWED items, in order of cost: the ending itself (T07/S06,
+ch24); Grace's second act incl. the proposal reveal (T05/T10); the
+town-wakes-to-gold keystone (T03/S03); the father wound and the
+climax it should pay (T09); the restitution arithmetic and the ch22
+knowledge leak (T03/T22); the dock misunderstanding scene, never
+drafted (T10); the stone's recognition beat (T16).
+
+*Created 2026-07-27 as a continuity index. Cited line numbers refer
+to `manuscript/nick-manuscript-22.md` at import state (2026-07-26).
+Nothing outside this file was modified.*
