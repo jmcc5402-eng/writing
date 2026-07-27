@@ -104,6 +104,21 @@ The project evolved across several years of drafts. These are now **locked**:
   archaeologist). A stray "Dr. Chen" reference in the Book 1 draft has been
   corrected. Note: "Coach Chen" — Amanda's Seattle soccer coach — is a separate,
   intentional character and remains.
+- **[Canon decision, author 2026-07-27] Book 1 public clock:** the cultural
+  center's **annual blessing ceremony**, roughly three weeks after the twins
+  arrive — stated on a placard in ch2 and restated by Mrs. Kalani in ch4.
+  Every artifact must be back in its case by ceremony day; Dr. Lee's ch8
+  shipment races it, and the ch12 ceremony is the deadline *kept*, not an
+  epilogue. [CHECK: Hawaiian name and cultural accuracy of the ceremony —
+  culture-researcher pass before publication.]
+- **[Canon decision, author 2026-07-27] Book 1 gadget (spine beat 4):** a
+  **walkie-talkie pair**, one per twin — Dad's conference gift in ch1. It
+  plugs the no-phone gap (Andrew: no phone until high school), and it must
+  do real work in the back half: the ch8 stakeout, the tubes, and the twins'
+  active beat in the capture.
+- **[Canon decision, author 2026-07-27] The ch3 trail footprints** are
+  Dr. Lee's boots, first misread toward Mrs. Santos and corrected later —
+  no orphaned plants.
 
 ## Open questions to settle later
 

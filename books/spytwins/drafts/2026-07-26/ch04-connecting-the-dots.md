@@ -82,8 +82,7 @@ She led them down the hall, past the exhibit room —
 two empty cases now, side by side —
 and Amanda heard her murmur, half to herself,
 "Two artifacts gone, and the date hasn't moved an inch.
-[TK clock restatement — Mrs. Kalani names the same fixed deadline
-stated on the Ch2 placard; Ch8's 'tomorrow night' must beat it.]
+The ceremony is in two and a half weeks.
 Ready or not."
 
 In the office, Kekoa pulled Andrew to the window

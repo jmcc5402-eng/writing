@@ -180,13 +180,18 @@ whenever he came home from a conference.
 "I missed the last three lacrosse games this spring. I'm aware.
 So when I saw this at the conference, I thought of you two."
 
-Inside the box was [TK gift gadget — the spine-beat-4 technical tool,
-arriving through Dad's gadget-guilt channel per the story engine;
-it must be used meaningfully in the back half].
+Inside the box was a pair of walkie-talkies —
+real ones, black and yellow, with belt clips and stubby antennas,
+not the toy kind that die at the end of a driveway.
+
+"Since neither of you gets a phone until high school," their dad said,
+"and since this island is somewhat larger than our backyard."
 
 "Whoa," Andrew said. "Wait — for both of us?"
 
-"To share," their dad said. "Which I'm sure will go perfectly."
+"One each," their dad said.
+"Deciding who gets which one — that part you share.
+Which I'm sure will go perfectly."
 
 Before either twin could open negotiations,
 their mom's phone lit up on the table.

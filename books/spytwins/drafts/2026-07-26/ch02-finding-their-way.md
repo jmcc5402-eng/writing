@@ -155,10 +155,13 @@ Very expensive, I'm told. The board grumbled for months."
 
 Mrs. Kalani chuckled and led them back toward the entrance,
 stopping at a placard on a wooden stand by the door.
-[TK case-scale clock — the placard and Mrs. Kalani state the fixed
-deadline here (e.g. the exhibit's final day, or the collection
-travels back to its lender on a set date). Ch4 restates it, and the
-back half's "tomorrow night" must visibly beat it.]
+It announced the center's annual blessing ceremony,
+[CHECK: Hawaiian name and cultural accuracy — culture-researcher]
+with a painted date less than three weeks away.
+"The whole town comes," Mrs. Kalani said, tapping the placard twice.
+"Every piece you saw today gets blessed that morning.
+Which means every piece you saw today
+stays exactly where it is until then. In its case. Gleaming."
 "So you two picked exactly the right month to come," she said.
 "Come back whenever you like.
 And tell your mother I said aloha."

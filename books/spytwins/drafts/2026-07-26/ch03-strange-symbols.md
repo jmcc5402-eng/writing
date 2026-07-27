@@ -221,8 +221,6 @@ half filled with rainwater.
 
 "Mrs. Santos," Amanda said immediately.
 "She was on this exact trail at seven this morning. With a bag."
-[TK optional one-beat misattribution — confirm the target and how
-the footprints resolve later; no orphaned plants.]
 
 "Or anybody with boots," Andrew said.
 "They look big for her. And a bag isn't a crime."
