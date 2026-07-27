@@ -253,6 +253,21 @@ recommendation, baked into the plan but easy to change if you disagree.
    Klaus / Baum / Guinn lane. The 2026-07-26 draft chapters are written to
    this ruling. Easy to veto; if it stands, [TK: amend §11's "Novel
    (middle-grade)" rung to match].
+9. ✅ **LOCKED (author, 2026-07-27) — The climax: everything braids at the
+   cliff.** The book's payoff is the ending where it all comes together:
+   Nick finally gets the sleigh and the reindeer to truly fly, and he saves
+   Grace from falling from the cliff. Mirror is intentional: the book opens
+   with Nick pushed off a cliff and ends with him catching Grace at one.
+   Consequence: every earlier flight stays partial, costly, or nearly
+   fatal — the first fully-answered flight is the climax. The warp (§5
+   step 6) follows the rescue as the coda. Seed material: Drive scene doc
+   "Nick 4.8 — heather outcome at cliff" [CHECK: pull and reconcile].
+10. ✅ **LOCKED (author, 2026-07-27) — The wake-to-gold morning is subtle.**
+    The town waking to its returned gold is a quiet gift along the way —
+    deliberately understated, one grain of the legend among several — NOT
+    the book's payoff. The payoff is the ending (decision 9) and the
+    incorporation of the magic. [TK: soften §1's "keystone image" framing,
+    which currently presents this scene as the book's central payoff.]
 
 > **On the "wink vs. explicit" reveal (the one you were unsure about):**
 > The wink is almost always the stronger, more magical choice, and it's the norm
