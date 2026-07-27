@@ -14,3 +14,5 @@ card, flag it in `../BACKLOG.md`.
 | 2026-07-27 | dream-critic (mybyb) | C2 bookseller read | books/mybyb/notes/dream-review.md |
 | 2026-07-27 | drive-importers ×5 (youngnick) | — mechanical, exempt | manuscript/ imports, 51 files |
 | 2026-07-27 | reconciliation-editor (youngnick) | E4 watch the seams | notes/drive-reconciliation + TODO.md |
+| 2026-07-27 | drafting-assistant (spytwins ch5-8) | D2 hands and objects | drafts/2026-07-27/ |
+| 2026-07-27 | junior-literary-critic (spytwins ch5-8) | C5 last five lines | notes/ch5-8-review-2026-07-27.md |
