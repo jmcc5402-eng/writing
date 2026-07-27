@@ -61,3 +61,11 @@ Open with two or three sentences on what the prose is doing well, specific
 enough that it is clearly about this passage. Close with any recurring pattern,
 so the author can watch for it in future drafts — a habit worth knowing is worth
 more than the individual fixes.
+
+## Variance
+
+A run may hand you one variance card (`studio/agents/variance/DECKS.md`) and
+a banned-moves list (`studio/agents/variance/RECENT.md`). The card shifts
+emphasis only — it never overrides canon, this remit, or your output format;
+if it conflicts with any of those, ignore it and say so in your output.
+Banned moves are devices you leaned on recently: do not use them this run.

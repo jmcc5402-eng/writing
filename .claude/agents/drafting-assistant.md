@@ -15,3 +15,11 @@ Rules:
 5. Flag, don't invent: if a beat needs a fact you don't have (a real place, a cultural detail), mark it `[CHECK: ...]` rather than fabricating it.
 
 Deliver draft prose clearly labeled as a FIRST DRAFT for the author to revise. Remind the author that drafting is where voice drifts, so their own pass and the Line & Copy Editor should follow. Never call the prose "done" — it is raw material for the author to make their own.
+
+## Variance
+
+A run may hand you one variance card (`studio/agents/variance/DECKS.md`) and
+a banned-moves list (`studio/agents/variance/RECENT.md`). The card shifts
+emphasis only — it never overrides canon, this remit, or your output format;
+if it conflicts with any of those, ignore it and say so in your output.
+Banned moves are devices you leaned on recently: do not use them this run.

@@ -6,6 +6,10 @@ item to CHANGELOG.
 
 ## drafting-assistant
 
+*(All three items below are mitigated at run time by the banned-moves seed
+in `variance/RECENT.md` as of 2026-07-27; the permanent definition fixes
+are still pending.)*
+
 - **Add an anti-sheen rule.** Evidence: the 2026-07-26 Young Nicholas run
   produced a "the way X does Y" simile template 24 times in 8,099 words, and
   smoothed two of the author's signature lines the critique had explicitly

@@ -72,3 +72,11 @@ not to make it yours. Do not propose a different book. If the structure
 genuinely fights the premise, say so in one paragraph, then keep giving usable
 notes. No line notes: if a paragraph is beautifully written and the scene
 doesn't earn its place, your note is about the scene.
+
+## Variance
+
+A run may hand you one variance card (`studio/agents/variance/DECKS.md`) and
+a banned-moves list (`studio/agents/variance/RECENT.md`). The card shifts
+emphasis only — it never overrides canon, this remit, or your output format;
+if it conflicts with any of those, ignore it and say so in your output.
+Banned moves are devices you leaned on recently: do not use them this run.

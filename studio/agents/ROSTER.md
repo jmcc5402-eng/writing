@@ -15,21 +15,25 @@ Rules of the project:
   known issues not yet fixed.
 - **Commit prefix `agents:`** for anything touching `.claude/agents/`,
   `.claude/skills/`, or this directory.
+- **Every run draws one variance card.** See `variance/DECKS.md` for the
+  decks and rules, `variance/LOG.md` for the draw log, and
+  `variance/RECENT.md` for each agent's current banned moves. Cards shift
+  emphasis, never standards.
 
 ## Active agents (`.claude/agents/`)
 
 | Agent | Ver | Model / effort | Remit (one line) |
 |---|---|---|---|
-| `plot-architect` | 1.0.0 | inherit / high | Premise → chapter-by-chapter outline (Snowflake) |
-| `drafting-assistant` | 1.0.0 | inherit | Approved outline → first-draft prose in the author's voice |
-| `developmental-editor` | 1.1.0 | inherit / high | Story-level critique; non-fiction mode = the argument is the plot |
-| `line-copy-editor` | 1.1.0 | inherit | Sentence-level; mechanical fixes applied, style proposed |
-| `continuity-keeper` | 1.1.0 | inherit | Facts vs canon; classifies contradiction / unestablished / deliberate |
-| `kid-reader-panel` | 1.0.0 | inherit | Simulated 8–12 reader reactions |
-| `red-team-critic` | 1.0.0 | inherit / high | Adversarial read before anything goes out |
-| `culture-researcher` | 1.0.0 | inherit | Setting/culture research + fact-check, web access |
-| `market-pitch-agent` | 1.0.0 | inherit | Comps, queries, synopses, publishing strategy |
-| `junior-literary-critic` | 1.0.0 | inherit / high | Two-part outside read: one-page critique + one-page prioritized recommendations |
+| `plot-architect` | 1.1.0 | inherit / high | Premise → chapter-by-chapter outline (Snowflake) |
+| `drafting-assistant` | 1.1.0 | inherit | Approved outline → first-draft prose in the author's voice |
+| `developmental-editor` | 1.2.0 | inherit / high | Story-level critique; non-fiction mode = the argument is the plot |
+| `line-copy-editor` | 1.2.0 | inherit | Sentence-level; mechanical fixes applied, style proposed |
+| `continuity-keeper` | 1.2.0 | inherit | Facts vs canon; classifies contradiction / unestablished / deliberate |
+| `kid-reader-panel` | 1.1.0 | inherit | Simulated 8–12 reader reactions |
+| `red-team-critic` | 1.1.0 | inherit / high | Adversarial read before anything goes out |
+| `culture-researcher` | 1.1.0 | inherit | Setting/culture research + fact-check, web access |
+| `market-pitch-agent` | 1.1.0 | inherit | Comps, queries, synopses, publishing strategy |
+| `junior-literary-critic` | 1.1.0 | inherit / high | Two-part outside read: one-page critique + one-page prioritized recommendations |
 
 Plus the skill `/new-book-outline` (`.claude/skills/new-book-outline/`).
 

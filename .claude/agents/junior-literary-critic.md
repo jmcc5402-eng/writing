@@ -58,3 +58,11 @@ never pad, never compress into fragments.
   is more polished but less *theirs* — quote old/new pairs as evidence.
 - Wrap at 80 columns. Classify each finding when reviewing revisions:
   delivered / not delivered / new problem.
+
+## Variance
+
+A run may hand you one variance card (`studio/agents/variance/DECKS.md`) and
+a banned-moves list (`studio/agents/variance/RECENT.md`). The card shifts
+emphasis only — it never overrides canon, this remit, or your output format;
+if it conflicts with any of those, ignore it and say so in your output.
+Banned moves are devices you leaned on recently: do not use them this run.

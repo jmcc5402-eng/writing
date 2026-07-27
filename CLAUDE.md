@@ -114,7 +114,10 @@ Plus the `/new-book-outline` skill.
 evidence that drove it), `BACKLOG.md` (known issues from production runs),
 and `personas/` (book-specific parameterizations of the generic agents).
 Editing an agent means bumping its version in the roster and logging the
-change — commit prefix `agents:`.
+change — commit prefix `agents:`. Every agent run draws one variance card
+(`studio/agents/variance/`): least-recently-used from that agent's deck,
+logged in `LOG.md`, passed alongside the banned moves in `RECENT.md`. Cards
+shift emphasis, never standards.
 
 Route work to the right specialist. Several can run in parallel on the same
 draft, but keep the editorial three — developmental, line, continuity —
