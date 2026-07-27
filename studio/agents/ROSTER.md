@@ -1,0 +1,60 @@
+# Agent Roster
+
+The writers' room, tracked like software. **Definitions are the source code**
+and live in `.claude/agents/` — this directory is the project around them:
+versions, changes, backlog, and the prompt library.
+
+Rules of the project:
+
+- **The definition file is canonical.** This roster records versions and
+  status; if it disagrees with the file, the file wins and the roster is stale.
+- **Every agent change gets a CHANGELOG entry and a version bump.** Patch =
+  wording/clarity, minor = new capability or rule, major = changed remit.
+- **Changes are driven by evidence.** An agent gets edited because a run showed
+  a failure or a gap — cite the run in the changelog entry. The BACKLOG holds
+  known issues not yet fixed.
+- **Commit prefix `agents:`** for anything touching `.claude/agents/`,
+  `.claude/skills/`, or this directory.
+
+## Active agents (`.claude/agents/`)
+
+| Agent | Ver | Model / effort | Remit (one line) |
+|---|---|---|---|
+| `plot-architect` | 1.0.0 | inherit / high | Premise → chapter-by-chapter outline (Snowflake) |
+| `drafting-assistant` | 1.0.0 | inherit | Approved outline → first-draft prose in the author's voice |
+| `developmental-editor` | 1.1.0 | inherit / high | Story-level critique; non-fiction mode = the argument is the plot |
+| `line-copy-editor` | 1.1.0 | inherit | Sentence-level; mechanical fixes applied, style proposed |
+| `continuity-keeper` | 1.1.0 | inherit | Facts vs canon; classifies contradiction / unestablished / deliberate |
+| `kid-reader-panel` | 1.0.0 | inherit | Simulated 8–12 reader reactions |
+| `red-team-critic` | 1.0.0 | inherit / high | Adversarial read before anything goes out |
+| `culture-researcher` | 1.0.0 | inherit | Setting/culture research + fact-check, web access |
+| `market-pitch-agent` | 1.0.0 | inherit | Comps, queries, synopses, publishing strategy |
+| `junior-literary-critic` | 1.0.0 | inherit / high | Two-part outside read: one-page critique + one-page prioritized recommendations |
+
+Plus the skill `/new-book-outline` (`.claude/skills/new-book-outline/`).
+
+## Prompt library (`personas/`)
+
+Parameterizations used to specialize generic agents for one book or one run.
+Not standalone agents — they ride on top of one.
+
+| Persona | Rides on | Proven on |
+|---|---|---|
+| `drafter-spytwins` | drafting-assistant | Book 1 ch1–4 rewrite, 2026-07-26 |
+| `drafter-mybyb` | drafting-assistant | Part I ch1–4 draft, 2026-07-26 |
+| `drafter-youngnick` | drafting-assistant | ch1–4 draft, 2026-07-26 |
+| `analyst-briefs` | (workflow analysts) | 9 analyst reports, 2026-07-26 |
+
+## Deprecated / retired
+
+| Agent | Fate |
+|---|---|
+| `continuity-checker` | Merged into `continuity-keeper` 1.1.0 (2026-07-26) |
+| `line-editor` | Merged into `line-copy-editor` 1.1.0 (2026-07-26) |
+
+## Provenance
+
+The original nine were born in the standalone Spytwins repo
+(commit `0487396`, 2026-07-25) and promoted to the workspace root on
+2026-07-26 so all three books share them. The plugin packaging for
+publishing the room outside this workspace is parked at `../plugin/`.

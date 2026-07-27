@@ -65,12 +65,14 @@ These hold for every book here.
 Stay inside the book's directory. A change should belong to exactly one book, or
 to `studio/` — not both in the same commit.
 
-Prefix commit subjects with the book name:
+Prefix commit subjects with the book name (`agents:` for changes to the
+writers' room — `.claude/agents/`, `.claude/skills/`, or `studio/agents/`):
 
 ```
 youngnick: lock Nick's surname to Anderson
 spytwins: outline Book 2 through the midpoint
 studio: add query letter template
+agents: drafting-assistant 1.1.0 — add anti-sheen rule
 ```
 
 ## Conventions
@@ -103,7 +105,16 @@ Nine specialists in `.claude/agents/`, available to every book:
 | `culture-researcher` | Authentic, non-stereotyped setting detail; fact-checking |
 | `market-pitch-agent` | Comps, query letters, synopses, publishing strategy |
 
+| `junior-literary-critic` | A two-part outside read: one-page critique + one-page recommendations |
+
 Plus the `/new-book-outline` skill.
+
+**The agents are tracked like a software project** in `studio/agents/`:
+`ROSTER.md` (versions and status), `CHANGELOG.md` (every change, with the
+evidence that drove it), `BACKLOG.md` (known issues from production runs),
+and `personas/` (book-specific parameterizations of the generic agents).
+Editing an agent means bumping its version in the roster and logging the
+change — commit prefix `agents:`.
 
 Route work to the right specialist. Several can run in parallel on the same
 draft, but keep the editorial three — developmental, line, continuity —

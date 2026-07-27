@@ -10,6 +10,8 @@ directory. If it would still be true on the next book, it lives here.
 - **[STYLE.md](STYLE.md)** — prose and formatting conventions across all books
 - **[PIPELINE.md](PIPELINE.md)** — the stages a book moves through, and what
   "done" means at each one
+- **[agents/](agents/)** — the writers' room tracked as its own project:
+  roster with versions, changelog, backlog, and the persona prompt library
 - **[plugin/](plugin/)** — packaging to publish the writers' room as a
   distributable Claude Code plugin
 
