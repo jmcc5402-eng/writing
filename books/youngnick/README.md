@@ -12,6 +12,8 @@ multi-platform story (picture book → graphic novel → novel → series).
 
 - **[STORY_BIBLE.md](STORY_BIBLE.md)** — the master document: characters, world,
   full plot, open decisions, and the multi-platform plan. Read this first.
+- **[SUPERCONCEPTS.md](SUPERCONCEPTS.md)** — the 3–4 concepts that make the
+  book win; every chapter must value them.
 
 ## Project status
 
