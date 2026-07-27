@@ -6,4 +6,6 @@ card, flag it in `../BACKLOG.md`.
 
 | Date | Agent | Card | Output |
 |---|---|---|---|
-| — | — | — | (no draws yet) |
+| 2026-07-27 | thread-indexer (spytwins) | E3 reverse-order sweep | manuscripts/book-01-hawaii/THREADS.md + series-bible/ledger.md |
+| 2026-07-27 | thread-indexer (youngnick) | E6 weight what's missing | books/youngnick/THREADS.md |
+| 2026-07-27 | thread-indexer (mybyb) | E1 repetition hunt | books/mybyb/THREADS.md |

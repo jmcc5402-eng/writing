@@ -85,6 +85,13 @@ agents: drafting-assistant 1.1.0 — add anti-sheen rule
 - **`[TK ...]` marks anything unresolved**, `[CHECK: ...]` anything needing
   verification. Both are meant to be greppable:
   `grep -rn '\[TK\|\[CHECK' books/`
+- **Thread maps track what carries over.** Each book keeps a `THREADS.md`
+  (beside the manuscript it maps): a per-chapter ledger of what each chapter
+  introduces, carries, pays off, and hands forward, plus a thread index —
+  every thread gets a greppable ID (`T##` book-local, `S##` series-level;
+  series threads live in the series bible). `OWED:` marks a plant awaiting
+  its payoff. Maps update when a chapter is *accepted*, not merely drafted;
+  drafting agents get the relevant index entries in their brief.
 
 See `studio/STYLE.md` for prose defaults and `studio/PIPELINE.md` for the stages
 a book moves through.
