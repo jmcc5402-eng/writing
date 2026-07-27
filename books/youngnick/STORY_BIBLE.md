@@ -265,7 +265,13 @@ recommendation, baked into the plan but easy to change if you disagree.
    drafted scene that already contains the catch, plus two alternate
    ending variants [TK: pick the variant — main scene / police-interrupt
    outline / the "Jim Grin holds her, evil Grin survives and sees Nick
-   fly" hook that would open the next book].
+   fly" hook that would open the next book]. **Second save (author,
+   2026-07-27):** after the mid-air catch, Grace ends up hanging from the
+   sleigh and Nick's KNOT work saves her — the 4.8 scene currently holds
+   her by grip alone; the knot save is the top rung of the planted ladder
+   (the `((Intro into Nick and Knots))` note in scene 1.4, the harness
+   knots, ch19's baker knot chosen for speed over strength). [TK:
+   mechanics of the knot save — which knot, and what it costs.]
 10. ✅ **LOCKED (author, 2026-07-27) — The wake-to-gold morning is subtle.**
     The town waking to its returned gold is a quiet gift along the way —
     deliberately understated, one grain of the legend among several — NOT
