@@ -260,8 +260,12 @@ recommendation, baked into the plan but easy to change if you disagree.
    with Nick pushed off a cliff and ends with him catching Grace at one.
    Consequence: every earlier flight stays partial, costly, or nearly
    fatal — the first fully-answered flight is the climax. The warp (§5
-   step 6) follows the rescue as the coda. Seed material: Drive scene doc
-   "Nick 4.8 — heather outcome at cliff" [CHECK: pull and reconcile].
+   step 6) follows the rescue as the coda. Seed material is now in the
+   repo: `manuscript/scenes/nick-4-8-heather-outcome-at-cliff.md` — a
+   drafted scene that already contains the catch, plus two alternate
+   ending variants [TK: pick the variant — main scene / police-interrupt
+   outline / the "Jim Grin holds her, evil Grin survives and sees Nick
+   fly" hook that would open the next book].
 10. ✅ **LOCKED (author, 2026-07-27) — The wake-to-gold morning is subtle.**
     The town waking to its returned gold is a quiet gift along the way —
     deliberately understated, one grain of the legend among several — NOT
