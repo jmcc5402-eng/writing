@@ -15,6 +15,7 @@ parents.
 
 | File | Authority on |
 |------|--------------|
+| [`SUPERCONCEPTS.md`](SUPERCONCEPTS.md) | The 3–4 concepts that make the series win — every chapter must value them |
 | [`concept/premise.md`](concept/premise.md) | Premise, the 40-book arc, tone/audience, **locked canon decisions** |
 | [`series-bible/story-engine.md`](series-bible/story-engine.md) | The reusable story engine: per-book checklist, beat structure, skills ladder, idea menus |
 | [`characters/characters.md`](characters/characters.md) | Every character's name, traits, tells, and role |
