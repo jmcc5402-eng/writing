@@ -12,6 +12,8 @@ directory. If it would still be true on the next book, it lives here.
   "done" means at each one
 - **[agents/](agents/)** — the writers' room tracked as its own project:
   roster with versions, changelog, backlog, and the persona prompt library
+- **[ideas/](ideas/)** — parked ventures worth exploring later; currently:
+  [the agentic book studio](ideas/agentic-book-studio.md)
 - **[plugin/](plugin/)** — packaging to publish the writers' room as a
   distributable Claude Code plugin
 
