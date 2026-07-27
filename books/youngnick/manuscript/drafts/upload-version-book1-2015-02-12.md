@@ -1,0 +1,816 @@
+*Imported from the Google Drive document "UPLOAD VERSION Young Nicholas Book 1
+Nick 02122015" (Drive root, last modified 2015-02-12). Verbatim text including
+typos and author notes; only Google Docs export artifacts were removed — hard
+line wrapping and paragraph indents. The document's own title page, copyright
+page, and disclaimer are retained. No wording was altered.*
+
+---
+
+# Young Nicholas
+
+by
+
+T.R. Cook
+
+Young Nicholas Copyright © 2015 by T.R. Cook. All rights reserved. No part of
+this book may be reproduced in any form without permission in writing from the
+author. Reviewers may quote brief passages in reviews.
+
+Disclaimer and FTC Notice
+
+No part of this publication may be reproduced or transmitted in any form or by
+any means , mechanical or electronic, including photocopying or recording, or by
+any information storage and retrieval system, or transmitted by email without
+permission in writing from the publisher.
+
+While all attempts have been made to verify the information provided in this
+publication, neither the author nor the publisher assumes any responsibility for
+errors, omissions, or contrary interpretations of the subject matter herein.
+
+This book is for entertainment purposes only. The views expressed are those of
+the author alone, and should not be taken as expert instruction or commands. The
+reader is responsible for his or her own actions.
+
+Adherence to all applicable laws and regulations, including international,
+federal, state, and local governing professional licensing, business practices,
+advertising, and all other aspects of doing business in the US, Canada, or any
+other jurisdiction is the sole responsibility of the purchaser or reader.
+
+Neither the author nor the publisher assumes any responsibility or liability
+whatsoever on the behalf of the purchaser or reader of these materials.
+
+Any perceived slight of any individual or organization is purely unintentional.
+
+This is a work of fiction. Names, characters, places, brands, media, and
+incidents are either the product of the author’s imagination or are used
+fictitiously.
+
+## CHAPTER 1
+
+Tonight is the night, Nick said to himself.
+
+When he returned from this expedition he would do it. He had traveled back to
+Alaska for the opportunity. If he could scale down a frozen cliff like this one,
+he should be able to drum up the courage. It wouldn't be hard. He just needed to
+be confident. If things didn't go his way, well, at least he would know rock
+bottom.
+
+Tonight was the night.
+
+Tonight he would propose to Grace.
+
+*Suddenly*, something unexpected happened.
+
+The rock holding Nick’s right foot collapsed. The image of Grace went with it.
+
+*Focus loverboy*.
+
+Sweat seeped from Nick’s hands and his upper body tensed. His right foot was
+crumbled into the frozen rock. Trying to stay calm, Nick tightened his hand
+grips, his left foot searching for it’s previous resting place. The foot found a
+divot in the mountain, it wasn't big, but it would have to do, his right foot
+was now dangling and he was supporting himself entirely via his hands.
+
+As he moved his weight back to his left foot, Nick realized his mistake. The
+hold was too thin. In an instant, his foot slipped. The momentum caused his left
+hand to lose it’s grip and his face to smack into the cliff. A searing pain shot
+through Nick’s scull, initiating at his cheek which had slammed into a freezing
+shard of icy rock.
+
+Nick’s head rang like a clock and his vision blurred. He tried to close his
+eyes, but was overcome by a wave of nausea. His head was spinning, but worse,
+his right hand slipped from the rock it held. Without thinking, Nick’s left hand
+lunged forward, but this frantic maneuver shifted his weight and he lost control
+of the rock rock he held.
+
+In an instant, Nick began to fall.
+
+The panic of falling pulsed through Nick’s entire being.
+
+Nick’s right shoulder slammed into a rough rock about four feet below that was
+jutting out of the cliff. A scorching pain seared through Nick’s arm. The impact
+changed the momentum of his fall and Nick’s upper body tilted forward and made
+contact with the rock in front of him. Nick reached out his hands, clinging for
+anything to slow his descent.
+
+Though sliding downward, Nick spotted a safety spike six feet to his right.
+Without hesitating, he kicked off a rock and lunged. His right hand seized the
+spike, but his shoulder screamed in pain and he lost his grip. With a twist of
+his upper body, Nick reached up with his left hand and caught the metal rod.
+Nick’s body swung to the right and then back to center, but this time his vice
+grip held.
+
+For a brief moment, Nick felt safe. Though dangling off a steep cliff, he
+maintained a solid grip on the safety spike.
+
+But, because his body was angling downward, his shoulder pack began to slide.
+The bag was heavy. It contained the rest of his spikes, the hand drill he had
+used, as well as the earth samples he had just collected. If he lost the bag,
+the entire journey would be for nothing. Nick felt the strap inching down his
+arm.
+
+To stop the bag from falling, Nick straightened his body by pulling up on the
+safety spike. But this spike wasn’t one of his, he wasn’t sure how old it was,
+but he knew one thing, this spike was not secure.
+
+Nick winced and spit as bits of dirt and ice crumbled onto his face. Looking
+right he spotted a sharp rock. He would need momentum to reach it. He swung to
+the left and kicked off the mountain. At that moment the spike came loose. Nick
+flailed for the new rock and grabbed it with his right hand. As the spike fell
+from his left hand, Nick toed a solid foothold.
+
+He breathed in deep and coughed out a mouthful of dirt.
+
+As the adrenaline wore off, Nick realized his shoulder was reeking with pain. He
+moved his arm in a small circle. It wasn’t broken, but probably dislocated. He
+would need one of the Grin brothers to knock it back into joint when he returned
+to the campsite.
+
+The thought of asking the Grins for help, coupled with the pending agony, made
+him wince.
+
+Nick trudged back to the mini-camp. The path was slow and wet and Nick’s
+shoulder throbbed. He thought about the fall he just took. He wouldn’t last long
+in Alaska if he kept volunteering for the riskiest jobs. But what else could he
+do? There didn’t seem to be open slots in the mine, like he had planned.
+
+When he left Alaska at fifteen, the mine was thriving. There was always work to
+be found. Now, five years later, the mine, and the little town of Bronston, felt
+more like a ghost town. The men were still pulling in gold, but the excitement
+was gone.
+
+Nick’s mind drifted to Grace. Could she really be engaged to Donald Grin?
+
+It seemed, impossible, the girl he remembered would never fall for Donald.
+Donald was cynical and greedy and she was pure as snow. Nick had asked, but
+couldn’t get a straight answer out of Donald's brother James. Tonight at camp he
+would inquire about it again, though that didn’t seem like a fun conversation.
+James recoiled like a scared racoon when Donald’s name was mentioned.
+
+Either way, when he got back to town, Nick needed to talk with Grace. Not just
+talk- go for the gold.
+
+They would live the rest of their lives together.
+
+Rounding the last bend, he saw smoke drifting out of the makeshift tent at the
+camp site. There was also a fire struggling to stay lit. Nick imagined the smell
+of hot coffee drifting up his nose.
+
+The camp stood on a ledge of the mountain Nick was descending. The ledge was
+only ten feet wide, with a steep cliff leading up to the right and a steeper
+drop-off down to the left.
+
+As Nick approached the camp he heard the river gushing against the rocks one
+hundred feet below. That sound, coupled with the view of the mountains in the
+distance, reminded him how much he loved this place. Even a throbbing shoulder
+and frozen feet couldn’t ruin a picturesque Alaskan panorama.
+
+Kneeling in front of the fire, Nick let his pack slip off his shoulder. Man that
+hurt.
+
+Snow was caked in his pants and around his belt. He shook it out and began to
+unpack. Beef jerky and coffee would ease the pain.
+
+From the tent, Nick heard the Grin brothers yelling at each other in the tent.
+Something about San Francisco...or maybe a boat that was being repaired….
+
+He shook his head and smiled, some things never changed. As kids, those two
+dreamed of the California gold rush, always bitter to be stuck in the freezing
+Yukon. The bickering hadn’t stopped.
+
+He was glad he had a brief moment alone to warm by the fire. The smell of the
+ash reminded him his father. Even in the pouring rain, his father could always
+get a fire crackling. But that was before everything changed, before the
+avalanche.
+
+A twig cracked behind Nick. Footsteps.
+
+The beef jerky snack might have to wait, Nick said to himself, pulling his hand
+out of his pocket.
+
+The footsteps turned into a run.
+
+The hair on the back of Nick’s neck came to attention. Something was wrong. He
+got up on one knee and turned his head, but it was too late.
+
+A dirty glove was swinging a wooden club - directly at Nick’s face.
+
+## CHAPTER 2
+
+It all happened so fast.
+
+Nick’s nose exploded. Blood everywhere.
+
+For a brief moment, Nick found himself on all fours, the burning fire only
+inches from his face. But then, a large frozen boot pummeled him in the stomach.
+
+There was no time.
+
+Two arms picked Nick up from behind and tossed him to the left. Snow scraped up
+Nick’s sleeves and his face planted into the ground.
+
+Nick stumbled onto all fours and realized his head was hanging over the cliff.
+He could see the froth of the river as it crashed against jagged rocks.
+
+Nick heard his attacker approaching fast.
+
+He rolled to the left. No luck.
+
+There were two of them.
+
+The Grins?
+
+Another brutal kick to the ribs sent Nick backwards.
+
+He grasped for anything to hold onto, but there was nothing.
+
+Another kick. That was all it took.
+
+Nick tumbled off the cliff’s edge towards the icy river below.
+
+Nick knew he was in trouble. He clawed the cliff trying to slow his fall, but he
+was flipping too quickly.
+
+From the corner of his eye he spied a large bush. He reached out, but his arms
+sped through the thin branches. By torquing his body, Nick changed his
+trajectory and slammed into a loose grouping of rocks.
+
+Nick ended up sliding on his bottom towards the river.
+
+He dug his heels in the ground, but he carried too much momentum.
+
+The water was now three stories below and approaching fast.
+
+Nick rolled on his stomach and clawed the dirt. He leaned to the left and saw a
+hole in the ground, it must be an eagles nest.
+
+The river was only a few feet away.
+
+As his feet slipped off the cliff, Nick plowed his arm into the eagles nest. The
+hole was deep and his arm submerged to his armpit. His body stopped with a jolt,
+pain shrieking through his already aching shoulder.
+
+The river crashed against the rocks. Foamy white topped currents splashed
+against Nick’s feet.
+
+Nick’s face was plastered in freezing snow, his arm was crammed in a deep
+burrow, and his legs were dangling off the cliff. He turned his head and spit
+out shards of ice and dirt that filled his mouth.
+
+The coffee would have to wait.
+
+Nick’s head was spinning. It felt like a church bell that was peeling twelve
+noon. The fall had stopped, but his body was still in motion, at least it seemed
+to be.
+
+He was dazed and couldn’t hear himself breath. The roar of the river encompassed
+his whole being.
+
+Once at a county festival a canon was shot a few feet away. He couldn't hear for
+ten minutes. This was worse.
+
+With his ear pressed against the ice, Nick looked down and regarded his
+situation. Though hanging by a thread, he had avoided the river. The river was
+certain death. Nick’s father had always warned that freezing water shuts down
+the heart.
+
+At that moment, a wave of fear rushed over Nick’s body. His attackers, where
+were they? He shifted his head away from the river and up the cliff.
+
+Large rocks obscured the view, but parts of the ledge’s horizon were visible,
+almost 100 feet above.
+
+Would the attackers follow him? He remained still and glared up the mountain. He
+studied the ledge for movement.
+
+Not seeing anyone, Nick pressed the side of his head against the lip of the
+embankment and tried to slow his beating heart. He would be difficult to spot
+this far down the cliff, especially with the rocks in the way. He didn’t want to
+take any chances, he would lay still.
+
+Nick considered what had just taken place. Was the camp overrun by bandits? Or
+natives? That didn’t seem likely this high in the mountains.
+
+Was it the Grins?
+
+He could think of a few reasons the Grins didn’t like him, but none that would
+result in him being shoved off a cliff to a frozen death.
+
+Were they worried he would take over the mine? Or had he asked about Grace too
+many times?
+
+It seemed odd that Donald would kill Nick because of Grace. If they were really
+engaged, as Donald had alluded, Donald would want to rub every aspect of the
+arrangement in Nick’s face. Donald beamed with pride when he had told Nick..
+
+For the moment though, Nick had bigger problems. He glanced at the river. It was
+daring him to fall in. His eyes moved to his own body. He had on good boots, as
+long as they stayed dry, and a heavy jacket. The jacket held his knife and a few
+small lengths of rope. They might come in handy soon.
+
+His pants were old, but sturdy and held up by his belt...Nick closed his eyes
+and scolded himself. He had removed his belt to shake out the snow besides the
+fire. When he got thrown down the mountain, the belt was next to his bag on the
+ground.
+
+Nick wouldn’t have cared about a normal accessory, but the belt was a gift from
+his father - right before he passed away. Nick’s father had won the belt in a
+wager with some native folks years before Nick was born, at least as the story
+was told. The belt had an Alaskan mountain range engraved on one side and the
+Northern lights engraved on the other. A deep red amulet was woven into the
+buckle. Nick often day dreamed about finding and scaling the mountain range on
+the belt. Maybe his father would be waiting at the top, roasting rabbit over a
+fire?
+
+The sound of a broken branch returned Nick to the present predicament. He looked
+up the mountain. About 30 feet up the cliff, he saw someone stumbling down the
+mountain side, it looked like Duff. He was coming to finish the job.
+
+Keeping his head low, Nick yanked his arm out of the hole.
+
+Adrenaline rushed through his body and minimized the stabbing pain that shot
+through his shoulder. Gripping the edge of the embankment, Nick slid his body
+down closer to the river.
+
+He needed to move. He was a totally exposed. Looking left and right, he searched
+for any escape route.
+
+A small ledge of rocks lined the river’s bank. To Nick’s right, the river bent
+about thirty yards away, upstream. If he could hurry, he could follow the ledge
+around the bend and wouldn’t be visible to Duff.
+
+He used a long root to balance himself as he struggled along the river’s edge.
+One loose rock and he would be in the rapids.
+
+After two steps, water splashed from the river, soaking his right leg. Being wet
+and cold were not good in Alaska.
+
+A thought occurred to Nick. Had the Grins already spotted him?
+
+There was a good chance Duff was only coming down to confirm that Nick was dead.
+
+Maybe Nick could help Duff out.
+
+He whipped his scarf from his neck. He eyed a root protruding from the bank a
+few feet down the stream, closer to where he had started. He tossed the scarf.
+It seemed to float in the air forever before wrapping around around the root.
+
+A burst of panic hit Nick as the scarf began to slip from the root, but in the
+end, it caught on a sharp limb and rested dangling in the wind.
+
+It was a simple distraction, but might do the trick. When Duff came down the
+mountain, the first thing he’d see was Nick’s scarf hanging from a root, right
+above the waters white topped peaks. Duff would have to assume that Nick was
+dumped into the water.
+
+With his diversion completed, Nick charged along the rocky ledge in the other
+direction. He didn’t risk looking back. If he was spotted, his attacker would
+pursue. And without many supplies, he wouldn’t be able to last long in a chase.
+
+## CHAPTER 3
+
+The only thing louder than the river was the shrieking pain from Nick’s feet.
+Both were soaked. With the onset of frostbite, pain comes first, then numbness,
+then nothing. Nick needed to find shelter and start a fire. Direct heat was the
+only way to get blood flowing to his toes again.
+
+At the moment, however, a fire was not in Nick’s near future. He had rounded the
+bend by tiptoeing across a thin ledge of rocks that lined the steep banks of the
+river bed. On numerous occasions water gushed over his feet, soaking his legs up
+to the knee, but he keep moving.
+
+From his current position, Nick didn’t think Duff could see him. Looking left, a
+large pile of rocks obscured Nick from Duff, who was likely searching the river
+bed for any sign of Nick. But since Duff was coming from a higher vantage, it
+wouldn’t take much effort for Duff to peek his head over the rocks, if that
+happened, Nick was a sitting duck.
+
+Nick couldn’t take any chances. He needed to put more distance between himself
+and the Grin’s henchmen. If he could climb out of this river embankment, he’d be
+able to move faster.
+
+Both of Nick’s hands gripped a thick root at the ledge of the embankment. He
+clenched his teeth and swallowed the pain billowing from his shoulder, it must
+be dislocated. He pulled himself up with his arms. His feet were worthless, they
+could barely feel the ground and rocks. He got one knee up up to the lip of the
+river and pushed hard. Pulling his knees up, he rolled to his left onto the
+small ledge. His back sunk into freezing mud, but at least he wasn’t in danger
+of drowning anymore.
+
+The ledge wasn’t wide, but easier to navigate than the rocks on the river’s
+embankment. The mountain was in front of him, too steep to climb. The only
+direction to move was to Nick’s right. Smaller boulders encompassed the ledge,
+but they were climbable.
+
+Nick started to move.
+
+Once over the first pass of boulders, Nick felt he was finally safe from the
+Grins. Now he needed to find shelter and build a fire. He gave a short sigh of
+relief as his fingers touched the pack of matches in his jacket pocket. They
+seemed dry. If he could find wood, he could get warm.
+
+Nick crested a second grouping of rocks and tried to get his bearings. The sky
+was overcast, he couldn’t locate the sun and the river was now out of site.
+Which direction was he heading?
+
+He searched for any sign of life: vegetation, caribou, birds, but saw nothing.
+This was the Alaskan mountain side at its best. Icy rivers, frozen glaciers, and
+not much more.
+
+Suddenly, Nick lost his footing. His freezing feet were a major liability during
+a rugged hike like this. His hand grazed the side of a rock, but he pushed too
+hard and over corrected. Nick’s other foot landed in a pile of snow. But the
+snow wasn’t packed and Nick’s foot kept falling. The snow reached his knee and
+then something cracked. Nick reached out for anything to grab, but his hands
+found nothing.
+
+The panic of falling overtook him. His body twisted and he started to slide into
+a frozen channel beneath the rocks. He was sliding on his back, head first, down
+an icy crevice. He couldn’t tell what was below him, he only knew he was moving
+fast.
+
+The glacial areas of Alaska were known for deep crevices. He should have been
+more aware while climbing. The crevice could be ten to a thousand feet deep.
+
+Nick twisted his body so his feet were first. He scraped his hands on the ice,
+but didn’t slow down. A flicker of a smile crossed Nicks face as he considered
+this icy slide may have been fun as a kid, but at the moment, he was terrified.
+He might smash into a boulder, or be shot off a thousand foot cliff.
+
+He glanced around as his surroundings streaked by. A wall of ice lurked to his
+left and a large boulder to his right. Squeezing between the two, a thin strip
+of cloudy sky was barely visible hundreds of feet above.
+
+In an instant, the setting changed. The ice he was sliding on abruptly ended at
+a muddy intersection. He tumbled on his side, rolling over a number of times. As
+he came to a halt, s rock gouged his ribs and Nick let out a whimper. It hurt,
+but Nick took solace in the fact that he had finally stopped moving. Hopefully
+that would the last fall of the day.
+
+Nick lay on his back looking at the sky. He didn’t want to move. His entire body
+ached. His ribs hurt and his feet were numb. He turned his head and glanced at
+his shoulder. On the bright side, it felt a little better. The fall must have
+knocked it back into joint.
+
+Struggling up on his elbows, Nick peered at the mountain, locating the icy
+ravine he had just slid down. There wasn’t much to see, just an opening. A huge
+cliff concealed the rest of the slide. Looking to his left, Nick let out a
+relieved breath: trees.
+
+A small forest was nestled in a valley between two peaks. It wasn’t very deep,
+but there were downed logs and lots of underbrush, key ingredients for shelter
+and fire
+
+The thought of a fire energized him enough to stand up. Nick was an experienced
+forester, it wouldn’t be long until his feet were warm again.
+
+## CHAPTER 4
+
+*Shelter, fire, food in the cold. Shelter, food, fire in the warm.*
+
+When Nick was a kid, his father had preached that phrase whenever they camped.
+Now, as a light rain began to fall, he was happy he followed the advice.
+
+Nick pulled on his thick socks and then his boots. His feet were finally warm.
+Twenty minutes roasting over a fire did the trick. And it was a stroke of luck
+that his boots had dried before the rain began to fall.
+
+Above his head were long branches, laying diagonally from the ground to the top
+of a fallen oak tree. Smaller twigs were placed horizontally with pine branches
+filling in the holes and adding insulation. A section at the top was left open
+to allow the fire’s smoke to escape.
+
+The small shelter wasn’t perfect, Nick had constructed much better in the past,
+but it allowed Nick to get a roof over his head before starting a fire.
+
+When the rain let up, Nick set out to complete the third step in the survival
+phrase: food. He had constructed part of a rabbit snare with the twigs he’d
+gathered and just located what appeared to be a perfect sapling to finish the
+snare.
+
+After cutting off the top six inches, he tested the small tree’s flexibility,
+ensuring it could bend down to the trap on the ground. Once the sapling was tied
+down, it would provide the needed thrust to snare the target once the bait
+trigger released.
+
+To tie the tree down, Nick would need to knot together the two lengths of rope
+he had. He considered which knot to use. The lengths were long enough, but they
+were of slightly different diameter. This minor detail was important. Only
+certain knots maintain if the ropes aren’t symmetrical.
+
+Nick loved knots. Over the last few years, he’d spent hours mastering the craft
+working as a logger in Northern California. The job required Nick to wait long
+stretches in the forest waiting for a crew to arrive. Rope was an essential
+piece of his equipment. To ward off boredom, Nick learned every knot he could.
+
+The fascination with knots began when Nick arrived in California. He had just
+turned fourteen. As they unpacked their new home, Nick found a dusty book, *The
+Book of Knots, by Tom Bowling*, crammed into the bottom of a crate. His mother
+said the book had been a gift to his father, years before Nick was born. She
+mentioned how his father spent weeks practicing, but gave up in frustration.
+
+For the next few years, the book went everywhere with Nick. It was a handy
+companion as he waited the long hours in the forest. It also helped cheer up his
+mother. She wasn’t happy about moving to California. The move was partly a
+result of his fathers death. During those first few lonely years, Nick loved
+sparking a smile on his mothers face as he dazzled her with a masterpiece of
+rope and knots. He would tie a rope into multiple knots, over thirty, and then
+with the yank of one seemingly unimportant end, whip the rope straight again.
+
+Back in the makeshift camp, Nick shook his head and smiled, remembering his mom
+in California. She didn’t love the fact he traveled back to Alaska, but she
+didn’t put up much of a fight. He was a bit surprised by this, especially since
+she had worked so hard to move them. However, she seemed to understand that
+Nick’s attraction to the gold country was about more than just money.
+
+Eyeing the rope in his hand, Nick settled on a standard foresting knot, the
+zeppelin bend. It was very strong and worked well with lengths of different
+widths. Another standard, the double constrictor, was stronger, but worked best
+with similar sized rope.
+
+Before he set the trap, Nick took a moment to practice a new trick he was
+working on: a one-handed bowline. It took three attempts, but he finally got it.
+Nick spent weeks practicing during the choppy weather of his ferry ride from
+Seattle to Juno. He would consider the skill mastered when he could get it done
+in five seconds or less.
+
+Back in the shelter, Nick mustered a make-shift bed. Pine needles weren’t very
+comfortable, but they would help to keep him warm.
+
+The growling of his stomach reminded him of the slices of jerky in his pocket.
+Of the four strips he had, he decided to eat two.
+
+Nick chewed the rough meat and gazed at the scene around him.
+
+The forest was relatively young, thin trees and underbrush. On either side,
+roughly a quarter mile apart, steep cliffs jutted out of the land. The onset of
+night brought an eruption of stars above. The tips of the Northern lights could
+be seen streaking over the peak to the north. Looking up, the tall mountains
+became a shimmering tunnel, ending at the light of the stars. The ice covered
+mountain sides glistened, mixing the white of the starlight with the shades of
+pink and green from the famed aurora borealis.
+
+As Nick drifted off to sleep, the colors reminded him of the sunsets he watched
+with Grace when they were young. They had a secret rock above a creek that
+afforded just enough view of the ocean to make it worth watching the sun
+disappear. Nick was warmed by the memory of his last evening with Grace. Nick
+and Grace were sitting on the rock and holding hands. They had never sat so
+close or talked about their dreams together. Secretly, Nick begged the sunset to
+last forever.
+
+As the sun dipped below the horizon, the earth shook. Grace grabbed Nick and
+pulled him close. He could still feel her warm breath on his lips. But that is
+when they heard the rumble of the avalanche. As sleep overtook him, Nick made
+sure he didn't think about what had happened next.
+
+Lying in the bed of pine needles, beneath the stars, Nick dreamed of how the
+day’s events *should* have unraveled. He was sledding back to the base camp at
+the bottom of the mountain. Bits of snow were catching in his mustache. It was
+cold and he couldn't wait to warm himself by the fire that the boys at camp
+always constructed. If he was lucky, there would dinner too. Maybe somebody
+brought down a moose or deer. As the sled rounded the last bend, Nick could see
+the bonfire in the distance. With a fire that big, someone must have brought
+down a big one.
+
+The glowing fire grew in size as Nick approached. The sled skied closer and
+closer. The sled didn’t slow. For a moment a wave of panic crashed through Nick.
+Why wasn't he stopping? The fire was directly ahead, but the camp was empty.
+
+Instantly, the sled disappeared and Nick found himself flying towards the
+flames.
+
+Nick’s eyes bolted open. Though the temperature was below freezing, his body was
+soaked in sweat. He stared straight ahead. He was awake, he was sure of it, but
+the bonfire from his dream still glowed in front of him. He blinked his eyes and
+shook his head. He looked again.
+
+Halfway up the westerly mountain peak was a glowing light. It glowed a dark
+amber and pulsated slowly. The ice on the mountain side reflected the deep color
+in a star-like pattern. It was beautiful.
+
+## CHAPTER 5
+
+Nick was frozen.
+
+Propped onto his elbows, he stared at the amber glow. For a few moments he gazed
+into the light without questioning its existence.
+
+He didn't blink.
+
+A list of questions flooded his head. What was it? Where was it coming from?
+Could it be a fire?
+
+It didn’t seem like it. The light was too warm, too round.
+
+Nick broke his gaze and peered into the night sky above. Was this a reflection?
+A star, the sun, the Northern Lights?
+
+Nick was aware light could be manipulated to do amazing things. He had seen
+prisms and shadow clocks, but this appeared entirely different.
+
+Suddenly, Nick became aware of his surroundings. He recalled he was lying on the
+ground under a makeshift shelter. He listened for any sign of danger.
+
+Nothing.
+
+And then, the amber glow disappeared. Nick had taken his eyes off of the
+mountain for only a brief moment, but it was gone.
+
+Nick wasn’t sure what to think. He recalled the previous days adventures:
+discussing Grace with James Grin, retrieving the soil sample from the mountain,
+being pushed off a cliff, and sliding down an icy crevice. Had he imagined this
+mysterious glow?
+
+Nothing was making sense.
+
+He decided the glow was a sign, even if it was a figment of his imagination. He
+was taught to follow his instincts. While building the fire yesterday, Nick had
+considered which direction he should trek off towards. The surrounding mountain
+peaks were tall, but not insurmountable. Neither appeared to have a clear
+advantage over the other.
+
+But now, with the glowing light, Nick had made his decision. He would climb up
+the westerly peak. If it seemed possible, he would investigate the glowing
+light, though it didn’t seem likely. The light appeared to be almost centered on
+the peak. And from the ground, Nick couldn’t identify any ledges or paths
+leading to it.
+
+Assuming the light didn’t lead to anything, he needed to get back to some level
+of civilization. He knew if he kept moving west he would hit water, and then he
+could determine the best direction to continue. Should he head back to Bronston
+or head down river to another mining town?
+
+At the moment, Nick didn’t care. If he’d learned anything over the last few
+days, it was that there is not much benefit to planning further than a few feet,
+or a few minutes, in front of him.
+
+He kicked over the shelter and put out the fire. He covered everything with
+leaves. Even though it was a long shot, the Grins might track him here and he
+didn’t want it to seem to obvious someone had spent the night.
+
+As dawn sprang the valley into action, Nick began his trek up the mountain.
+
+## CHAPTER 6
+
+Nick climbed for hours, but he was feeling good. The weather had turned nice.
+From the ledge he was trudging along he could see beautiful vistas of icy peaks
+and evergreen tips. The ground was either frozen mud, rocks, or ice, all
+appealing options for hiking. Anything is better than snow.
+
+After turning one bend, Nick startled a small group of caribou. It’s rare to see
+them this high in the mountains, but not unheard of. They are experts at finding
+patches of green to eat. Nick also stumbled upon a nest of eggs that provided an
+energy filled snack. Nick was relieved to find this surprise, tracking birds to
+their nests was a practiced skill, but not one that Nick had excelled in.
+
+By mid-day, Nick had to make a decision, up or over. He could continue up the
+mountain, hoping to cross it, and then find the river. Or he could turn
+horizontally and endeavour for the strange glowing light.
+
+A light sprinkling rain made the decision for him. The middle of the mountain
+was rocky terrain. If he didn’t find the glowing light, he would at least be
+likely to find a cave or large boulder that would afford top cover. Staying dry
+was a priority. And though his shelters were good, he told himself, nothing was
+better than a real roof.
+
+So as the rain continued to fall, Nick slushed towards the rocky center of the
+mountain. A few hours later, he found a formation of rocks that would afford
+good top-cover. Not wanting to test his good luck, Nick stopped for the night.
+
+As his small fire burned, Nick attempted to sketch out his position on the
+mountain. He calculated how big the side of the cliff was and how long he had
+been climbing. In the end, however, he remained clueless. The glowing enigma
+could be around the corner, or miles away.
+
+As he crouched by the fire, though, his question was answered. He couldn’t see
+anything directly, but further to the west and over a grouping of boulders, Nick
+saw the unmistakable light.
+
+Nick felt a rush of excitement, being so close to this strange occurrence. He
+estimated the light to be less than a few hundred yards away. He glanced up at
+the sky noting it was still overcast. That proved the glow was not a reflection.
+Without moving, he listened intently. If by off chance it was a fire, he would
+likely hear people talking, or at least some movement. Nothing.
+
+He remembered the previous night and how the emanation had disappeared and he
+lost track of where it originated from. He resolved not to let that happen
+again. With a quick stomp he flattened his fire and started moving towards the
+light.
+
+He moved carefully. If there were people, it wouldn’t help to spook them. After
+living so close to the woods most of his life, Nick was an expert at moving
+silently, understanding that one cracked twig or jittery squirrel could act as
+an alert.
+
+After a short while, a large round boulder blocked his way forward. It was about
+twice as tall as Nick, who stood a solid six feet.
+
+Nick used an adjacent tree to hop onto the boulder. This wasn’t as stealthy as
+he had planned, but he had a good grip and inched his way over the boulder,
+crawling on his stomach.
+
+Peaking over the boulder, Nick could see a snow covered hill that descended
+mildly down away from the mountain. When he pulled himself up however, he looked
+straight down and his jaw dropped.
+
+The boulder he was laying upon acted as the side wall to a cave. The opening to
+the cave was roughly five feet tall and five feet wide. There was a small
+landing at the opening to the cave, another area about five square feet.
+
+Those attributes were all very standard. What wasn’t standard was the bright red
+glow emanating from the cave.
+
+## CHAPTER 7
+
+Nick laid on his stomach for a number of minutes staring at the cave’s entrance.
+A warm reddish hue dimly lit the opening. The light was not bright, but it
+encompassed the entire area.
+
+Nick was reminded of a lighthouse on a foggy night at sea.
+
+Nick was entranced by the light, his body completely stiff. He resisted the urge
+to slide down the boulder and enter the cave. His instincts were sharp and
+reminded him there was no reason to rush. A cave like this could be the den to a
+mother polar bear or wolverine. Not the type of females he wanted to encounter.
+Less practically, now that Nick determined the glow wasn’t a fire, he had no
+idea what he would find inside.
+
+The rest of the evening was silent. Night had fallen. No bugs buzzing or birds
+singing at this hour. And the cave was silent.
+
+Nick felt his way around the boulder and found a small stone. He tossed it to
+the opposite side of the cave entrance. It landed with a crash. Nick cringed,
+tensed, and waited. Nothing happened.
+
+The cave was deserted.
+
+Feeling a rush of excitement and fear, Nick gently lowered himself to the cave
+entrance. After hugging the wall for a brief moment, he stepped up and gazed
+inside.
+
+The cave was a long tunnel about six feet wide and five feet high. The walls
+were lined with rocks and dirt. Dirty evergreen leaves lined the corners,
+indicating some wild animal had made this cave a home in the past. The air was
+still and moist and had a slight scent that was familiar to Nick.
+
+The red hue encompassed the entire area, but was dimmer than before. The light
+was dull and difficult to pinpoint where it came from. The color was a deep
+burgundy. Nick was reminded of the sequoias.
+
+He heard something behind him, he wheeled around, his heart pounding in his
+ears. For a moment he stood still, feet facing the cave, shoulders twisted to
+the darkness.
+
+Nick noticed his shadow below him, a red hue surrounding his silhouette in the
+snow. But nothing else made a move.
+
+As Nick turned to the entrance again, slight raindrops began to pelt his head
+and shoulders. He was being ushered into the strange cavern.
+
+He carefully stepped deeper into the cave. He could almost stand up straight. As
+he moved in closer, the light got larger. He still couldn’t make out what it
+was. Was something buried?
+
+He stepped slowly, barely able to see. He used the rocky wall for balance. More
+than once, Nick’s foot snagged a rock protruding from the ground. The only sound
+was the slight crunch of his feet on the floor of the cave.
+
+Outside the cave, the rain began to pour. The wind was whipping past the
+entrance.
+
+Nick glanced back often, seeing nothing but darkness.
+
+The air was cool and moist, lifeless and still. Nick pulled his coat tighter
+around his body.
+
+He continued forward, the heart of the glow getting closer. His eyes burned with
+the site of the glowing amber, they didn’t blink.
+
+Finally it was in reach.
+
+A large mound of dirt blocked the path to the cave. The red glow was coming from
+beneath the dirt.
+
+Nick had never seen anything like this. The dirt felt warm.
+
+He cautiously dug at the dirt with his hands. As he brushed the dirt and rocks
+to the ground, the glow brighted.
+
+Nick was captivated. He kept digging.
+
+His hand scraped something hard. Something out of place. It wasn’t a rock, it
+appeared to be metal or maybe something softer, like wood. He dug around the
+glowing piece in the dirt. As the dirt was cleared, the object became more
+obvious. It was a handle of some sort.
+
+Nick spent the next number of minutes digging away at the handle. He found a
+rock on the ground that helped him move the dirt and gravel faster. It didn’t
+take long to get a better idea of what this was. Below the handle was more
+glowing wood. He kept digging.
+
+It finally made sense, but it made no sense at all.
+
+In the middle of the Alaskan mountain side, glowing in the dirt of a cave, was
+an old sleigh.
+
+A red glowing sleigh.
