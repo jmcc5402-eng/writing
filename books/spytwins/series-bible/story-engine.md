@@ -163,3 +163,16 @@ Lesson learned (which twin):  __
 Long-arc seed (a spy-secret clue to plant):  __
 Next-destination hint:  __
 ```
+
+## The millimeter rule (inner change)
+
+The skills ladder governs what the twins can DO; this governs who they
+ARE. Their inner journeys (identity → essence, per
+`studio/craft/hauge.md`) complete across 10–20 books, not one. Each
+book's Hauge structure applies to the outer mystery at full strength;
+the inner needle moves at most a millimeter per book — a beat a faithful
+reader feels and a casual reader never notices. No single book delivers
+a conversion. When outlining, name the millimeter (or explicitly none);
+when editing, flag inner change that arrives too fast, not too slow.
+[TK: the twins' named series-scale arcs — see the canon decision in
+concept/premise.md.]

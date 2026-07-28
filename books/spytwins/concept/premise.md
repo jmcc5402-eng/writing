@@ -138,6 +138,15 @@ The project evolved across several years of drafts. These are now **locked**:
   `manuscripts/book-01-hawaii/manuscript.md` only after all twelve exist
   and the author reads the full set — one adoption pass updating the
   manuscript, CHANGELOG, and THREADS together.
+- **[Canon decision, author 2026-07-28] Inner change runs at series
+  scale.** The twins' identity→essence journeys complete across 10–20
+  books, not within one. Arc 1 books are deliberately formulaic — the
+  story engine is the product; each book may move the inner needle a
+  millimeter, never a conversion. Per-book Hauge structure
+  (`studio/craft/hauge.md`) applies to the outer mystery only, and
+  editorial agents flag inner change that arrives too fast, not too
+  slow. [TK: name the twins' series-scale identity→essence arcs — the
+  wound, the armor, the essence, and which arc turns each.]
 
 ## Open questions to settle later
 
