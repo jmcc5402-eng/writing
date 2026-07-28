@@ -377,6 +377,42 @@ and a caution (you need to stand out). The most relevant recent works:
 
 ---
 
+## 12. Series shape — four volumes 🟡 BRAINSTORM (author, 2026-07-28)
+
+_Captured from the author's thinking-out-loud; not locked. Terminology:
+"volumes" here, because this bible's §6 "Books 1–4" are the ACTS of
+Volume 1 — [TK: rename §6's movements to Acts to retire the collision]._
+
+- **Volume 1** — the origin (this novel). Exists.
+- **Volume 2** — a standard adventure building on Volume 1's aspects;
+  maybe hints the fight with the Grins isn't over.
+- **Volume 3** — solidifies Nick's love with Grace through some exciting
+  twist [TK: the twist].
+- **Volume 4** — the Grins return for the final battle.
+
+Maximum four. This supersedes the 40-book / 4×10 ambition in
+`manuscript/notes/book-template-notes-2025.md` [TK: confirm].
+
+**What the archive already supports:**
+- The Grin-survives hook is drafted: the `(( Other draft ))` variant in
+  `manuscript/scenes/nick-4-8-heather-outcome-at-cliff.md` has the evil
+  Grin presumed dead, surviving, and SEEING NICK FLY — "might be start of
+  next book, parallels Nicks survival." That is Volume 2's hint and
+  Volume 4's fuse, written in 2014.
+- The 2013 loose-ends sheet asks "Nicks dad… Is he currently Santa?" —
+  a series-scale anchor if wanted [TK: rule on it before Volume 2].
+
+**What this shape settles or bends (flagged, not decided):**
+- Decision 9's ending-variant [TK] now leans hard toward the
+  Grin-survives variant — Volume 4 needs Donald alive.
+- The warp's cost to Grace (the critique's biggest open question) gets a
+  series answer: Volume 3 completes the love story. The Volume 1 ending
+  can afford its ache.
+- Series pacing under `studio/craft/hauge.md`: four volumes means
+  quarter-turns, not millimeters — each volume carries a real stage of
+  Nick's identity→essence journey, roughly origin → purpose → love →
+  essence tested by the wound's own authors.
+
 ## Changelog
 
 - **v0.2** — Locked Grace; set reveal to "wink" (leaning); added proposed decisions
