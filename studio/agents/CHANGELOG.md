@@ -3,6 +3,28 @@
 Newest first. Every entry: version, what changed, and the evidence that
 drove it.
 
+## 2026-07-28 — the Hauge frame (three agents, minor bumps)
+
+Author-stated preference: Michael Hauge's framework (six stages, five
+timed turning points, the identity→essence inner journey braided with
+the outer goal, and the four devices — foreshadowing, echoing, superior
+position, ticking clock). Distilled to `studio/craft/hauge.md`; agents
+cite the file rather than carrying the framework.
+
+- **plot-architect 1.1.0 → 1.2.0.** Outlines now name both journeys
+  before beats exist and pin the turning points to their positions.
+- **developmental-editor 1.2.0 → 1.3.0.** New audit: journey braid,
+  turning-point depth, superior-position inventory, orphaned echoes.
+- **drafting-assistant 1.1.0 → 1.2.0.** Scene-level rule: internal state
+  rides in external action; superior-position beats and echoes are
+  placed effects.
+
+Evidence the frame fits: the studio was already running half of it
+unnamed — S01 (the spy wink) is superior position as a series engine,
+the knowledge-thread type in THREADS.md tracks it, the blessing-ceremony
+day ledger is a ticking clock, and OWED markers are foreshadowing
+discipline. Echoing and the timed inner/outer braid are the new imports.
+
 ## 2026-07-27 — the variance system (all agents, minor bump)
 
 All ten agents gain a standing Variance section: a run may hand them one

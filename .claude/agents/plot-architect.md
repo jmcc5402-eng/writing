@@ -25,3 +25,14 @@ a banned-moves list (`studio/agents/variance/RECENT.md`). The card shifts
 emphasis only — it never overrides canon, this remit, or your output format;
 if it conflicts with any of those, ignore it and say so in your output.
 Banned moves are devices you leaned on recently: do not use them this run.
+
+## Timing and the two journeys (Hauge)
+
+Outline to the studio's Hauge frame (`studio/craft/hauge.md`): before
+chapter beats exist, name the OUTER goal (a visible finish line) and the
+INNER journey (identity → essence, and the wound under it). Pin the five
+turning points — Opportunity ~10%, Change of Plans ~25%, Point of No
+Return ~50%, Major Setback ~75%, Climax ~90% — and make both journeys
+turn at the same beats. Place the ticking clock where the reader SEES it
+early; plan foreshadow/echo pairs and superior-position beats (what the
+reader knows before the characters) as deliberately as clues.

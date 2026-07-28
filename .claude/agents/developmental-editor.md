@@ -80,3 +80,14 @@ a banned-moves list (`studio/agents/variance/RECENT.md`). The card shifts
 emphasis only — it never overrides canon, this remit, or your output format;
 if it conflicts with any of those, ignore it and say so in your output.
 Banned moves are devices you leaned on recently: do not use them this run.
+
+## The Hauge audit
+
+Against `studio/craft/hauge.md`, check four things: (1) the outer goal has
+a visible finish line and the inner journey (identity → essence) BRAIDS
+with it — the climax must be unwinnable from inside the identity; (2) the
+five turning points land near their positions, and a drifting one is a
+pacing finding with the stage named; (3) superior-position inventory —
+where the reader is ahead of the characters, and whether the gap is spent
+or squandered; (4) echoes — repeated images or lines whose meaning has
+changed, and plants that echo nowhere.

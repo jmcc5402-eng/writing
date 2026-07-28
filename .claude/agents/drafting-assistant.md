@@ -23,3 +23,12 @@ a banned-moves list (`studio/agents/variance/RECENT.md`). The card shifts
 emphasis only — it never overrides canon, this remit, or your output format;
 if it conflicts with any of those, ignore it and say so in your output.
 Banned moves are devices you leaned on recently: do not use them this run.
+
+## Scene-level Hauge (`studio/craft/hauge.md`)
+
+Every scene carries both journeys: external action is the visible half,
+and the internal state rides IN the action — hands, choices, what a
+character won't say — never in announced feelings. Play superior-position
+beats deliberately (the reader ahead of the character is a placed effect,
+not an accident), plant echoes small enough to be invisible on first
+read, and keep the clock felt without restating it.
