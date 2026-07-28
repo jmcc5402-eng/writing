@@ -34,6 +34,7 @@ Rules of the project:
 | `culture-researcher` | 1.1.0 | inherit | Setting/culture research + fact-check, web access |
 | `market-pitch-agent` | 1.1.0 | inherit | Comps, queries, synopses, publishing strategy |
 | `junior-literary-critic` | 1.1.0 | inherit / high | Two-part outside read: one-page critique + one-page prioritized recommendations |
+| `gtm-strategist` | 1.0.0 | inherit / high | Go-to-market strategy and portfolio economics; materials stay with market-pitch-agent |
 
 Plus the skill `/new-book-outline` (`.claude/skills/new-book-outline/`).
 

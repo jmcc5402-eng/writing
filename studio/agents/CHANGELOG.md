@@ -3,6 +3,18 @@
 Newest first. Every entry: version, what changed, and the evidence that
 drove it.
 
+## 2026-07-28 — gtm-strategist 1.0.0 (new)
+
+Author-requested: a business-focused agent for go-to-market analysis —
+channel economics (KDP/Kindle, print, audio), trad-vs-self decisions,
+author-platform strategy, sequencing. Boundary set at creation to avoid
+remit overlap: market-pitch-agent makes the selling materials;
+gtm-strategist decides the machine they're used in. Realism rules baked
+in: labeled claim types (verified/estimate/author-data-needed), median
+outcomes not survivor stories, kids-market gatekeeper reality (COPPA),
+per-book strategies never averaged, every recommendation costed in
+hours-per-week.
+
 ## 2026-07-28 — the Hauge frame (three agents, minor bumps)
 
 Author-stated preference: Michael Hauge's framework (six stages, five
