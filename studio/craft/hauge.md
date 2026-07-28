@@ -60,3 +60,15 @@ event and the inner cost arriving together.
 - Non-fiction (MYBYB): the reader is the hero — identity is who they are
   on page 1, essence is who the book argues they can be; the "turning
   points" are the argument's escalations.
+
+## Series mode: the millimeter rule
+
+In an episodic series, the stages and timing spec govern each book's
+OUTER journey at full strength — but the inner journey runs at SERIES
+scale, completing across 10–20 books. Early installments are
+deliberately formulaic; the formula is the product, not a defect. One
+book may move a character's identity→essence needle a millimeter — a
+beat the faithful reader feels and the casual reader never notices —
+and no book may deliver a conversion the series hasn't earned.
+Editors: in an episodic series, flag inner change that arrives too
+FAST, not too slow.
