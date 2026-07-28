@@ -1,5 +1,17 @@
 # Spytwins — Go-to-Market Roadmap (Agile)
 
+> **[Author decision, 2026-07-28] Strategy pivot: the KU-velocity path.**
+> Spytwins goes the continuous-delivery route (the Emerson / *6th Grade
+> Ninja* model), AI-centric production at a target of one book per month:
+> **no launch until four books are done**, then a continuous cycle of
+> release and marketing — Kindle Unlimited, series velocity, parent-facing
+> channels. Traditional querying is off the table for this book; the
+> author's stated goal is work in the world on a continuous cadence, not
+> a multi-year long-shot. Operating playbook:
+> `studio/gtm/spytwins-ku-velocity-2026-07-28.md`. The format ladder below
+> still describes the long game; the 2026-07-28 GTM overview's audit of
+> this doc still applies (the webcomic rung remains COPPA-broken).
+
 _The plan for bringing Spytwins to market one small, validated increment at a
 time. The goal of each stage is to **learn something and de-risk the next
 stage** — not to bet everything up front. Formats stack: each success makes the
