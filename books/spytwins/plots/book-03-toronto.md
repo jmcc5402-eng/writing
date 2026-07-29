@@ -2,7 +2,9 @@
 
 _The Island Mystery. Author location-scouted on site 2026-07-29.
 Outline via plot-architect after Book 2. Millimeter: explicitly none;
-crossover lesson: [TK whose turn — alternates with B2]._
+crossover lesson: Amanda's (cherish the old days, still work for the
+win — the canoe-hold is already her-shaped; auditor-recommended cadence
+B1 Andrew / B2 none / B3 Amanda, author may veto)._
 
 **Q1.** The twins, mortified to be enrolled in island day camp, arrive
 in a car-free wagon-and-ferry world mid-fight over jets at the little
@@ -38,8 +40,8 @@ That's how you move around a city."; texture bank = Ward's/Algonquin
 lanes + wagons, the bulletin board (petition prop), Gibraltar Point
 lighthouse ghost (red-herring generator, campers blame the keeper),
 the hedge maze (scavenger-hunt beat), Centreville + petting farm
-(too-old comedy), the lagoons (canoe access); S05 nudge = canoe /
-open-water swimming; physical beat = the Q4 paddle-and-dash; skill =
+(too-old comedy), the lagoons (canoe access); S05 nudge = the canoe (one nudge only, per S05's rule —
+swimming arrives uninstructed, as island life); physical beat = the Q4 paddle-and-dash; skill =
 paddling + reading the harbor.
 
 **Open:** [TK friend's name; the prankster retiree's name; the fixer]

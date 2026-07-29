@@ -73,7 +73,8 @@ mastered spec-tour, "can we ship one home"); food = Dad vs fresh-grated
 wasabi (bite at his overconfidence; Mom takes double without blinking —
 wink candidate); S05 nudge = one dojo line; weather = the rainy dawns
 ARE the culprit's pattern; wow = the 5 a.m. tuna auction; crossover
-lesson = [TK: whose turn — B2 suggests Andrew's perseverance];
+lesson = NONE this book (auditor-recommended cadence: B1 Andrew /
+B2 none / B3 Amanda — every other book; author may veto);
 no-villain resolution completes the crime-type menu (B1 greed-theft,
 B2 vandalism-that-isn't).
 
