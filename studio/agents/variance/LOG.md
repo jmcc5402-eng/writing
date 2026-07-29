@@ -20,3 +20,4 @@ card, flag it in `../BACKLOG.md`.
 | 2026-07-27 | junior-literary-critic (spytwins ch9-12) | C1 pacing above all | notes/ch9-12-review-2026-07-27.md |
 | 2026-07-28 | gtm-strategist (portfolio) | A4 contrarian comp | studio/gtm/gtm-overview-2026-07-28.md |
 | 2026-07-28 | gtm-strategist (spytwins KU plan) | A1 adversary-first | studio/gtm/spytwins-ku-velocity-2026-07-28.md |
+| 2026-07-29 | engine-auditor (spytwins B1-B3) | E2 start from the weakest | notes/engine-alignment-2026-07-29.md |
