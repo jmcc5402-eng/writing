@@ -113,3 +113,28 @@ _Local to Book 1; not necessarily recurring._
   archaeologist stealing artifacts to "prove" his rejected migration theory. Not
   evil so much as desperate and misguided.
 - **Coach Chen** — Amanda's soccer coach back in Seattle (mentioned only).
+
+## Desires & fears (started 2026-07-29; ✅ = author-stated, locked)
+
+### Andrew
+- ✅ **Desires:** to play lacrosse in college like his lacrosse heroes.
+  The wall-ball practice sequels look FORWARD — the dream, the heroes,
+  the count of reps.
+- ✅ **Crossover lesson (his):** he will persevere and fight through
+  hardship to get the win — sports-taught, adventure-spent.
+- **Fears:** [TK — author to state; candidates from the page: being
+  wrong out loud; PROPOSED, not canon.]
+
+### Amanda
+- ✅ **Vulnerability:** she is still on her old team in her head. She
+  runs Coach Chen's exact warm-up in every new city, measures every
+  field against Seattle, and says "Coach Chen says—" in the present
+  tense, a year and three cities later. She would never use the word
+  homesick. (Roots: Coach Chen already canon above — "the team's best
+  left foot." Long-arc note: the day she finally says "my old coach
+  USED to say" is a paid-for beat, fifteen-odd books out — millimeter
+  rule applies.)
+- ✅ **Crossover lesson (hers):** she cherishes her old days and still
+  works hard to get the win.
+- **Desires:** [TK — author to state; "astronaut or painter" above is
+  the childhood answer, not the engine.]

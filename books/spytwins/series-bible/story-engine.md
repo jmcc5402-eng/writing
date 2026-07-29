@@ -176,3 +176,42 @@ a conversion. When outlining, name the millimeter (or explicitly none);
 when editing, flag inner change that arrives too fast, not too slow.
 [TK: the twins' named series-scale arcs — see the canon decision in
 concept/premise.md.]
+
+## The ingredients checklist (locked, author, 2026-07-29)
+
+Nineteen things every book strives to include. **Ingredients are lenses,
+not scenes**: no ingredient may demand its own scene, and the outline
+audit counts scenes-per-ingredient (stacking is the norm — a canoe dash
+can be physical beat + transport + skill payoff at once). If an outline
+needs a new scene just to check a box, the box loses.
+
+1. A mystery too small for adults (the jurisdiction trick)
+2. Three escalating incidents
+3. Red herrings, 2–4, one comic
+4. A local friend + an adult ally who holds the proof
+5. A visible public clock (a date on paper the reader can see)
+6. A weather incident that changes the plot, not decorates it
+7. A technology first (played through Andrew)
+8. Local transport mastered by the kids
+9. A skill earned on the page, planted early, paying in the climax
+10. A food scene — bite at overconfidence, never at cuisine
+11. A place-unique "wow" set piece no other city could host
+12. A running gag, exactly three touches
+13. The spy-wink budget: 2–3 deniable beats, never more
+14. An honesty beat — a bent truth with a felt cost
+15. The pets check-in (key role every few books)
+16. Next-destination hint, final chapter
+17. **Practice sequels** (scene-and-sequel, per Swain): at least one
+    beat where Andrew plays lacrosse (wall-ball, forward-looking — the
+    college dream) and Amanda works her soccer ball (backward-looking —
+    Coach Chen's voice, present tense) while they digest what happened
+    or plan what's next. Reflection rides on repetition.
+18. **A crossover lesson, every other book or so**: one of their sports
+    lessons decides an adventure beat — Andrew perseveres and fights
+    through hardship to get the win; Amanda cherishes her old days and
+    still works hard to get the win. Alternate twins; log in the ledger
+    so the cadence holds.
+19. **A physical adventure beat** (usually stacked on #9): surf, canoe,
+    climb, swim — competence, never combat. These accumulate under
+    S05 (the curriculum) toward the quietly formidable twins of the
+    later arcs. Bond-seeded, never Bond-shaped: the age band holds.

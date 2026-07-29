@@ -138,6 +138,20 @@ The project evolved across several years of drafts. These are now **locked**:
   `manuscripts/book-01-hawaii/manuscript.md` only after all twelve exist
   and the author reads the full set — one adoption pass updating the
   manuscript, CHANGELOG, and THREADS together.
+- **[Canon decision, author 2026-07-29] The 19-ingredient checklist is
+  locked** into `series-bible/story-engine.md` — lenses not scenes;
+  outlines are audited against it. Includes the practice sequels
+  (Andrew's lacrosse forward-looking, Amanda's soccer backward-looking),
+  the every-other-book crossover lesson, and the physical adventure beat.
+- **[Canon decision, author 2026-07-29] S05 — The Curriculum.** The
+  parents deniably nudge one physical skill per city (surf, dojo, canoe);
+  each is silently tradecraft-adjacent, accumulating toward Arc 4. Rules
+  and payoff in `series-bible/ledger.md` S05.
+- **[Canon decision, author 2026-07-29] Character engine entries:**
+  Andrew desires college lacrosse like his heroes and perseveres through
+  hardship for the win; Amanda still lives on her old team in her head
+  (Coach Chen, present tense) and cherishes the old days while working
+  for the win. Tables in `characters/characters.md`.
 - **[Canon decision, author 2026-07-28] Inner change runs at series
   scale.** The twins' identity→essence journeys complete across 10–20
   books, not within one. Arc 1 books are deliberately formulaic — the

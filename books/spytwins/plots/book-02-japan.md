@@ -41,3 +41,43 @@ Next-destination hint:  (TBD)
 
 _Next step: pick the core mystery + new skill, then run the Snowflake (one
 sentence → one paragraph → four paragraphs → chapter outline)._
+
+---
+
+## LOCKED PREMISE (author, 2026-07-29) — The Graffiti Mystery
+
+_Supersedes the starter scaffold above where they conflict. Full
+brainstorm record: sessions of 2026-07-28/29. Outline next via
+plot-architect (Hauge-timed; millimeter: explicitly none)._
+
+**Q1.** The twins arrive in Tokyo, befriend a kid whose family runs a
+fish-market stall, and a painted mark appears on a stall shutter —
+barely a crime to the police, an earthquake to the market.
+**Q2.** More marks — always dawn, always low — and while Amanda hunts a
+code, Andrew's photos match them to the market's old painted shutters
+in a faded photo, right before paint on their friend's hands makes HIM
+the accused.
+**Q3.** The scandalized association moves to install security cameras —
+vote at the festival — and the clues (mark height, stencil edge,
+rainy-morning timing) all point to someone small.
+**Q4.** A dawn stakeout catches a little kid painting back, panel by
+panel, the shutter art their late grandmother made before the
+renovation — and the twins turn a culprit into a commission: marks
+decoded, vote flipped, shutters repainted officially for the festival.
+
+**Banked ingredients:** skill = Andrew's chopsticks (climax: lifts the
+stencil cap from a drain grate) + Amanda's kana; subway scene = the
+decoding PLANT ("pick your color, follow the line" → the shutter marks
+in Q3); running gag = Andrew and the toilets (3 touches: defeat,
+mastered spec-tour, "can we ship one home"); food = Dad vs fresh-grated
+wasabi (bite at his overconfidence; Mom takes double without blinking —
+wink candidate); S05 nudge = one dojo line; weather = the rainy dawns
+ARE the culprit's pattern; wow = the 5 a.m. tuna auction; crossover
+lesson = [TK: whose turn — B2 suggests Andrew's perseverance];
+no-villain resolution completes the crime-type menu (B1 greed-theft,
+B2 vandalism-that-isn't).
+
+**Open:** [TK friend's name/stall type] [TK the little painter's name]
+[CHECK: Tsukiji Outer Market vs Toyosu naming; shutter-art traditions;
+koban culture; graffiti's shock-weight; lauhala-equivalent rigor — full
+culture-researcher pass before drafting]
