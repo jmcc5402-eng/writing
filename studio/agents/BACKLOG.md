@@ -48,6 +48,16 @@ are still pending.)*
   merged chapter. Add a structural pass: chapter count, numbering, and
   scene-boundary sanity against the outline/bible.
 
+## culture-researcher
+
+- **No write access — deliverables come back as chat text.** Evidence:
+  the 2026-07-30 Toronto Islands run was briefed to write its brief to
+  `notes/` but its toolset (Read/Grep/Glob/WebSearch/WebFetch) has no
+  Write; the orchestrator had to save the file for it. Either add Write
+  to the definition (matching plot-architect and market-pitch-agent) or
+  change the standing brief pattern to "return the document as your
+  final message."
+
 ## Roster-level
 
 - **Decide the fate of `red-team-critic` vs `junior-literary-critic`.**
