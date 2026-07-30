@@ -223,6 +223,8 @@ canoe bobs like a cork (inference from lagoon paddling sources).
    complex, linking 50+ towers; office workers navigate by colour-coded
    letters (https://en.wikipedia.org/wiki/Path_(Toronto)). A spy-adjacent
    gift: a whole city level the twins' parents could "run errands" in.
+   **BANKED (author, 2026-07-30):** not for B3 — saved for a future
+   Toronto return book. See `series-bible/city-bank.md`.
 2. **The CN Tower.** 553.3 m, the world's tallest freestanding structure
    for over three decades; the EdgeWalk lets harnessed visitors lean off
    a ledge 356 m up — Guinness's highest external walk on a building

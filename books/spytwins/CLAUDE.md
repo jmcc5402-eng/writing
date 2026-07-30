@@ -18,6 +18,7 @@ parents.
 | [`SUPERCONCEPTS.md`](SUPERCONCEPTS.md) | The 3–4 concepts that make the series win — every chapter must value them |
 | [`concept/premise.md`](concept/premise.md) | Premise, the 40-book arc, tone/audience, **locked canon decisions** |
 | [`series-bible/story-engine.md`](series-bible/story-engine.md) | The reusable story engine: per-book checklist, beat structure, skills ladder, idea menus |
+| [`series-bible/city-bank.md`](series-bible/city-bank.md) | Saved city nuggets for future/repeat-city books — research passes deposit here; unused ≠ lost |
 | [`characters/characters.md`](characters/characters.md) | Every character's name, traits, tells, and role |
 | [`roadmap/go-to-market.md`](roadmap/go-to-market.md) | The agile launch plan (books → graphic novel → comic → screen) |
 | [`STATUS.md`](STATUS.md) | Where the project stands right now and what's next |
