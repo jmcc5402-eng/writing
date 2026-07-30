@@ -40,7 +40,7 @@ That's how you move around a city."; texture bank = Ward's/Algonquin
 lanes + wagons, the bulletin board (petition prop), Gibraltar Point
 lighthouse ghost (red-herring generator, campers blame the keeper),
 the hedge maze (scavenger-hunt beat), Centreville + petting farm
-(too-old comedy), the lagoons (canoe access); S05 nudge = the canoe (one nudge only, per S05's rule —
+(too-old comedy), the lagoons (canoe access); S10 nudge = the canoe (one nudge only, per S10's rule —
 swimming arrives uninstructed, as island life); physical beat = the Q4 paddle-and-dash; skill =
 paddling + reading the harbor.
 

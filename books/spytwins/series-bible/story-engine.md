@@ -213,7 +213,7 @@ needs a new scene just to check a box, the box loses.
     so the cadence holds.
 19. **A physical adventure beat** (usually stacked on #9): surf, canoe,
     climb, swim — competence, never combat. These accumulate under
-    S05 (the curriculum) toward the quietly formidable twins of the
+    S10 (the curriculum) toward the quietly formidable twins of the
     later arcs. Bond-seeded, never Bond-shaped: the age band holds.
 
 ## Warnings, not walls (author, 2026-07-29)
@@ -226,7 +226,7 @@ play (no luck, no coincidence); the twins earn the win; book-specific
 safety rails (e.g. B3's airport fence-line); the author's voice.
 
 **Warnings (default, waivable):** every numeric or cadence rule in
-this file — the wink budget, the three-touch gag, one S05 nudge per
+this file — the wink budget, the three-touch gag, one S10 nudge per
 book, the crossover cadence, ingredient counts, turning-point
 percentages. These exist to prevent drift, not to forbid intent. The
 author may waive any warning per book with one recorded line in the
@@ -234,8 +234,8 @@ book's premise doc:
 
     WAIVED: <rule> — <reason> (author, <date>)
 
-Example: a future book that genuinely needs two S05 nudges takes them,
-with `WAIVED: S05 single-nudge — twin skills split across twins this
+Example: a future book that genuinely needs two S10 nudges takes them,
+with `WAIVED: S10 single-nudge — twin skills split across twins this
 book (author, 2027-…)`. An auditor finding a violation WITH a waiver
 reports it as compliant-by-waiver; a violation WITHOUT one is still a
 finding — the point is never that rules can't bend, only that bending

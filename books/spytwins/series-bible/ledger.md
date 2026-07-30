@@ -96,6 +96,20 @@ cite Book 1 chapters; T## IDs refer to that book's THREADS.md.
   ever named or used. OWED: how large a role (open question). RULES:
   classmates are the guest-talent channel; consultant-couple kids are
   a latent S01 surface — handle as deniable.
+- **S10 — The Curriculum (the parents' long con)** | knowledge/series
+  born B1 (the surf suggestion [CHECK: is the parental nudge on the
+  page in v2 ch5? — alignment pass]) → B2 planned (one dojo line) →
+  B3 planned (canoe/open-water). RULES: one parental nudge per book,
+  never two; always deniable and locally natural ("there's a dojo two
+  blocks away — it'd be rude not to"); parents never teach, never
+  watch too closely, never praise the right thing. Every nudged
+  activity is silently tradecraft-adjacent (balance, breath, falling,
+  navigation, silent movement). PAYOFF: this is the mechanism that
+  makes Arc 4's rescue writable — thirty books of skill, pre-paid on
+  the page. Reader realizes the pattern circa Book 10; the twins,
+  never (until Arc 4). Superior position at series scale.
+  (Renumbered from a duplicate "S05" on 2026-07-30 — S05 is the
+  destination chain; engine-alignment punch list item 24.)
 
 ---
 
@@ -160,16 +174,3 @@ boundary: Arc 2 (11–20) "genuinely capable" twins must be backed by
 EARNED cells above; Arc 3 (21–30) requires S04 delivering one
 signature gadget per book; Arc 4 (31–40) spends the whole ladder on
 the rescue and pays off S01/S02.
-
-- **S05 — The Curriculum (the parents' long con)** | knowledge/series
-  born B1 (the surf suggestion [CHECK: is the parental nudge on the
-  page in v2 ch5? — alignment pass]) → B2 planned (one dojo line) →
-  B3 planned (canoe/open-water). RULES: one parental nudge per book,
-  never two; always deniable and locally natural ("there's a dojo two
-  blocks away — it'd be rude not to"); parents never teach, never
-  watch too closely, never praise the right thing. Every nudged
-  activity is silently tradecraft-adjacent (balance, breath, falling,
-  navigation, silent movement). PAYOFF: this is the mechanism that
-  makes Arc 4's rescue writable — thirty books of skill, pre-paid on
-  the page. Reader realizes the pattern circa Book 10; the twins,
-  never (until Arc 4). Superior position at series scale.

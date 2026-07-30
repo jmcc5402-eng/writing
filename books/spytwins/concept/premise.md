@@ -143,10 +143,11 @@ The project evolved across several years of drafts. These are now **locked**:
   outlines are audited against it. Includes the practice sequels
   (Andrew's lacrosse forward-looking, Amanda's soccer backward-looking),
   the every-other-book crossover lesson, and the physical adventure beat.
-- **[Canon decision, author 2026-07-29] S05 — The Curriculum.** The
+- **[Canon decision, author 2026-07-29] S10 — The Curriculum.** The
   parents deniably nudge one physical skill per city (surf, dojo, canoe);
   each is silently tradecraft-adjacent, accumulating toward Arc 4. Rules
-  and payoff in `series-bible/ledger.md` S05.
+  and payoff in `series-bible/ledger.md` S10. (Renumbered from S05 on
+  2026-07-30 — S05 is the destination chain.)
 - **[Canon decision, author 2026-07-29] Character engine entries:**
   Andrew desires college lacrosse like his heroes and perseveres through
   hardship for the win; Amanda still lives on her old team in her head

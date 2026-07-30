@@ -71,7 +71,7 @@ decoding PLANT ("pick your color, follow the line" → the shutter marks
 in Q3); running gag = Andrew and the toilets (3 touches: defeat,
 mastered spec-tour, "can we ship one home"); food = Dad vs fresh-grated
 wasabi (bite at his overconfidence; Mom takes double without blinking —
-wink candidate); S05 nudge = one dojo line; weather = the rainy dawns
+wink candidate); S10 nudge = one dojo line; weather = the rainy dawns
 ARE the culprit's pattern; wow = the 5 a.m. tuna auction; crossover
 lesson = NONE this book (auditor-recommended cadence: B1 Andrew /
 B2 none / B3 Amanda — every other book; author may veto);
