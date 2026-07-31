@@ -13,6 +13,7 @@ books/
   spytwins/    Spytwins — middle-grade mystery series, 40 books planned
   youngnick/   Young Nicholas — the secret origin of Santa Claus
 studio/        Cross-book material: style, process, pitch packaging
+  series-kit/  The templates for starting a NEW series — start there
 .claude/
   agents/      The writers' room — nine specialists, usable on any book
   skills/      /new-book-outline
