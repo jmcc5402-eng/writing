@@ -23,3 +23,4 @@ card, flag it in `../BACKLOG.md`.
 | 2026-07-29 | engine-auditor (spytwins B1-B3) | E2 start from the weakest | notes/engine-alignment-2026-07-29.md |
 | 2026-07-30 | plot-architect (spytwins B2 Japan) | A2 subplot audit | plots/book-02-japan-outline.md |
 | 2026-07-30 | culture-researcher (spytwins B3 Toronto) | A3 sensory inventory | notes/toronto-research-2026-07-30.md |
+| 2026-07-30 | artifact-archaeologists ×3 (workspace study) | — inventory runs, no deck fits | studio/series-kit/ synthesis |
