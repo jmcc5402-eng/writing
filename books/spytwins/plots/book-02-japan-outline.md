@@ -1,7 +1,7 @@
 # Spytwins Book 2 — The Graffiti Mystery (Tokyo) — Chapter Outline
 
-**PROPOSED — awaiting author approval
-(plot-architect 1.2.0, 2026-07-30, variance card A2)**
+**APPROVED (author, 2026-07-30 — ratified by merging PR #1;
+plot-architect 1.2.0, variance card A2)**
 
 _Expands the LOCKED PREMISE in `plots/book-02-japan.md` (author,
 2026-07-29). The four-quarter shape and banked ingredients are honored
@@ -328,9 +328,10 @@ Amanda says the corner syllable out loud — the signature from the old
 mural — and [TK the little painter's name] finally talks: the
 backpack holds stencils traced from a late grandmother's sketchbook;
 the marks are panel keys; the plan was to repaint her shutter mural
-panel by panel, on the rainy mornings that used to be theirs [TK:
-author pick — rainy mornings as grandma's painting ritual, or simply
-the mornings the row opens late; CHECK: shutter-art traditions].
+panel by panel, on the rainy mornings that used to be theirs —
+grandma always painted on rain mornings, when the row opened late
+and nobody hurried [ruled 2026-07-30: the ritual, one line of
+backstory; CHECK: shutter-art traditions].
 The twins' answer is the book's turn: don't hide this — PROPOSE it;
 Dad and Blazer walk everyone home through the rain to get ready for
 the vote.
@@ -427,12 +428,12 @@ the twins' plan cracks the case (SC2 held).
 | 10 | Food scene — bites at overconfidence | Wasabi vs Dad, ch4 (never at the cuisine) |
 | 11 | Place-unique wow | 5 a.m. tuna auction, ch7 |
 | 12 | Running gag, exactly 3 touches | Toilets: ch1 defeat, ch5 spec-tour, ch12 "ship one home" (locked set) |
-| 13 | Spy-wink budget (2–3, never more) | **1** (Mom + wasabi, ch4) — under the 2–3 floor per the task brief; WAIVED candidate or author adds a second (see open questions) |
+| 13 | Spy-wink budget (2–3, never more) | **1** (Mom + wasabi, ch4) — compliant-by-waiver: `WAIVED` line recorded in the premise doc (author, 2026-07-30) |
 | 14 | Honesty beat — bent truth, felt cost | Friend's mark-#0 scrub-out (ch6 silence → ch8 truth → ch9 public cost) — PROPOSAL |
 | 15 | Pets check-in | Blazer ch1 (rule) + ch10–11 presence; not key this book (rotation respected). Moonbeam absent — open question, not invented |
 | 16 | Next-destination hint, final chapter | Toronto, ch12 |
 | 17 | Practice sequels (one each, Swain) | Andrew wall-ball ch6 (forward-looking); Amanda ball work ch9 (backward-looking, Coach Chen present tense) |
-| 18 | Crossover lesson (every other book) | **ABSENT — on record**: locked premise sets B2 = none (cadence B1 Andrew / B2 none / B3 Amanda). Suggest a formal `WAIVED:` line in the premise so auditors read it as compliant-by-waiver |
+| 18 | Crossover lesson (every other book) | **ABSENT — on record**: locked premise sets B2 = none (cadence B1 Andrew / B2 none / B3 Amanda). Compliant-by-waiver: `WAIVED` line recorded in the premise doc (author, 2026-07-30) |
 | 19 | Physical adventure beat (stacked) | Dawn approach + break-fall ch11, stacked on S10 dojo (ch5) — modest by design; competence, never combat |
 
 Story-engine §1 extras: family dinners ch3 (Dad grills fish — Mom's
@@ -474,31 +475,30 @@ actually-delivered gift in the series, per the ledger's honest cell).
 
 ---
 
-## Open questions for the author
+## Open questions — rulings applied (PR #1, 2026-07-30)
 
-1. **Kept open per the premise:** [TK friend's name/stall type],
+_Merging the PR ratified rulings 2–6 below (recommended options,
+recorded in the premise doc); item 1 stays open by design; item 7
+was fixed before the PR._
+
+1. **Still open (by design):** [TK friend's name/stall type],
    [TK the little painter's name]. All [CHECK] items route to the
    culture-researcher pass already flagged (market naming, shutter-art
    traditions, koban culture, graffiti shock-weight, auction logistics,
    drone rules, pet import, kana signature plausibility).
-2. **Gadget (PROPOSAL):** Dad gifts a pocket camera with interval mode
-   (ch1) — steps up from B1's walkie-talkies, powers the tech first,
-   and makes Tokyo's real drone restrictions the reason Andrew's drone
-   wish defers again (T11 stays alive for a future book). Approve?
-3. **Friend's innocent paint (PROPOSAL):** he scrubbed/overpainted an
-   earlier mark #0 on his family's shutter and hid it — this is also
-   the book's honesty beat. Approve, or supply another cause?
-4. **Lesson learned / S06 (PROPOSAL):** Amanda, ch12 — "when a message
+2. **Gadget — RULED:** Dad gifts a pocket camera with interval mode
+   (ch1); Tokyo's real drone restrictions are the reason Andrew's
+   drone wish defers again (T11 stays alive for a future book).
+3. **Friend's innocent paint — RULED:** he scrubbed/overpainted
+   mark #0 on his family's shutter and hid it; this is the book's
+   honesty beat.
+4. **Lesson learned / S06 — RULED:** Amanda, ch12 — "when a message
    won't read, ask who it's for, not what it says." Case-craft only;
-   no inner-arc movement. Approve or reword?
-5. **Wink count:** 1 (wasabi) per the brief; the engine budget floor
-   is 2. Add a second deniable beat (e.g., Mom navigating the market
-   like she's been here before — one line), or record
-   `WAIVED: wink floor — one strong wink beats two thin ones
-   (author, date)`?
-6. **Why rainy mornings (ch11):** grandma's painting-ritual memory
-   (warmer, needs one line of backstory) vs. pure logistics (shutters
-   stay down late, fewer eyes). Author pick, marked [TK] in ch11.
+   no inner-arc movement.
+5. **Wink count — RULED:** stays at 1; waiver recorded in the
+   premise doc (one strong wink beats two thin ones).
+6. **Why rainy mornings — RULED:** grandma's painting ritual, one
+   line of backstory in ch11.
 7. **Ledger housekeeping — DONE (2026-07-30):** the series ledger
    assigned S05 to both the destination chain and The Curriculum; the
    Curriculum is now **S10** across the ledger, premise, story engine,
