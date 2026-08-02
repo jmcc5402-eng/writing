@@ -198,9 +198,9 @@ needs a new scene just to check a box, the box loses.
 11. A place-unique "wow" set piece no other city could host
 12. A running gag, exactly three touches
 13. The spy-wink budget: 2–3 deniable beats, never more.
-    An interior callback to a wink already planted on the page —
-    a twin merely remembering it — spends no budget; only new
-    parent behavior on the page counts. (Author, 2026-08-02.)
+    Strict counting — callbacks count too (author, 2026-08-02:
+    when in doubt, cut the wink; reader suspicion of the parents
+    should not really begin until book 8+).
 14. An honesty beat — a bent truth with a felt cost
 15. The pets check-in (key role every few books)
 16. Next-destination hint, final chapter
