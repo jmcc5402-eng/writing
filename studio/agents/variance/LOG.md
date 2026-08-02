@@ -26,3 +26,4 @@ card, flag it in `../BACKLOG.md`.
 | 2026-07-30 | artifact-archaeologists ×3 (workspace study) | — inventory runs, no deck fits | studio/series-kit/ synthesis |
 | 2026-08-02 | culture-researcher (spytwins B2 Japan) | A5 midpoint-first | notes/japan-research-2026-08-02.md |
 | 2026-08-02 | gtm-strategist (romance college-parents) | A2 subplot audit | studio/ideas/romance-college-parents-research-2026-08-02.md |
+| 2026-08-02 | showrunner (spytwins, first board) | — exempt by design | board delivered in-session |
