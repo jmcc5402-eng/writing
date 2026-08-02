@@ -177,9 +177,9 @@ a man was crouched at a rock face with a camera,
 taking picture after picture.
 Between shots, he wrote something in a small notebook.
 
-"Tourist?" Amanda whispered.
+"A tourist?" Amanda whispered.
 
-"Of rocks?" Andrew whispered back.
+"Taking a hundred pictures of one rock?" Andrew whispered back.
 
 The man never looked their way.
 The trail bent, the ferns closed behind them, and he was gone.
