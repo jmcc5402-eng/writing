@@ -106,3 +106,9 @@ authorities: `drafts/ADOPTION-PREP-NOTES-2026-08-02.md`):
 - Author's own voice pass + line/copy edit (v2 is first-draft prose).
 - (THREADS.md and series-bible/ledger.md updated in this same
   adoption merge.)
+
+## Author read-pass edits (2026-08-02, during the adoption read)
+- ch1: Mom's line — "soccer program" → "beach soccer program"
+  (author ruling via read feedback).
+- ch1: Dad's walkie-talkie line — "that part you share" →
+  "you two get to decide" (author ruling via read feedback).
