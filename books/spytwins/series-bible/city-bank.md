@@ -49,6 +49,11 @@ research-verified — [CHECK] before use)._
 | Bullet-train first | BANKED | B2 stays inside Tokyo; a shinkansen beat wants a two-city plot |
 | Studio Ghibli-style animation studio | BANKED | Brand-gate hard; would need full fictionalization |
 | Old maps / calligraphy as clue surfaces | BANKED | B2 spent the ancient-modern texture on shutter art + kana |
+| Namiyoke-style shrine memorial mounds (sushi/shrimp/egg monuments) | earmarked B2 | echo in the fictional market's shrine; research 2026-08-02 |
+| Toyosu auction-deck monthly lottery | BANKED | apply-weeks-ahead mechanic — clock or competence beat for a future book |
+| Shatta-dori ("shutter street" = a dying arcade) | BANKED | a whole future-book setting: the market that's actually closing |
+| Katakana given names of elderly women | BANKED | era-dating clue mechanic (research 2026-08-02) |
+| "Jika" (market price — ask) signs | available to B2 | one-line texture |
 
 ## Maui / Hawaii
 
