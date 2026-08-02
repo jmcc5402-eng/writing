@@ -315,10 +315,8 @@ from the entrance tunnel,
 "since they were old enough to find things."
 
 Their parents stood in the tunnel mouth,
-flashlights in hand, faces doing worry and relief and pride
+flashlights in hand, faces showing worry and relief and pride
 all at once and in no particular order.
-"Mrs. Kalani called us from the police station," their dad said.
-"We drove straight from the client's."
 Their mom's eyes went around the chamber once —
 kids, dog, police, professor, artifacts —
 and Amanda braced for the storm.

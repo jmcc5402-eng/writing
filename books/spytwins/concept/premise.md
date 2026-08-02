@@ -165,6 +165,13 @@ The project evolved across several years of drafts. These are now **locked**:
 
 - **WAIVED: transport ingredient — B1 predates the checklist lock
   (author, 2026-08-02).**
+- **[Canon decision, author 2026-08-02] Unexplained logistics are not
+  winks.** The parents' B1 ch11 tunnel arrival stays UNEXPLAINED
+  (PR #3 ruling: "it's not a wink if nobody asks how they got
+  there"). Rule: in early books, background plot holes may stay
+  unfilled; an unexplained event spends wink budget only if the text
+  points at it — a character asks, or the narration lingers. B1's
+  winks remain ch1 / ch4 / ch11-fieldcraft.
 
 ## Open questions to settle later
 

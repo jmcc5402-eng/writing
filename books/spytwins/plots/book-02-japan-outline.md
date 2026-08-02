@@ -28,9 +28,9 @@ the shutter mural their late grandmother made before the renovation.
 ### One paragraph
 
 The Wilsons land in Tokyo, and the twins befriend a kid whose family
-runs a stall in a small neighborhood fish market Mutsumi-dori
-Shotengai (fictional, per the naming ruling; Toyosu real for ch7) — just as a
-painted mark appears on a shutter: barely a
+runs a stall in Mutsumi-dori Shotengai, a small neighborhood fish
+market (fictional, per the naming ruling; Toyosu real for ch7) —
+just as a painted mark appears on a shutter: barely a
 crime to the koban, an earthquake to the market.
 **Disaster 1:** more marks come, always dawn, always low, and paint on
 their friend's hands makes HIM the accused.
@@ -245,7 +245,7 @@ the skill is quietly real now.
 A darker theory surfaces and breathes for a night: is someone scaring
 the market INTO cameras? (red herring #3 — dissolved by the decode.)
 `PLANTS: dawn-outing precedent (earns ch10 logistics fairly); reader-`
-`only sighting of [TK painter]; sabotage-for-cameras theory / PAYS:`
+`only sighting of Rin; sabotage-for-cameras theory / PAYS:`
 `wow set piece; chopsticks touch #3 / SERIES: S03; clock tightened`
 
 ### Ch 8 — Follow the Line

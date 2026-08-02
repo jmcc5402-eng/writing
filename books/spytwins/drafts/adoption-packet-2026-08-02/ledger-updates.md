@@ -1,3 +1,8 @@
+> **RESOLVED (author, 2026-08-02, PR #3): Option B.** The arrival
+> stays unexplained and spends no wink (premise canon decision:
+> unexplained logistics are not winks). Use the B-variant cells
+> below; no waiver needed.
+
 # Ledger updates on B1 adoption — exact cell replacements
 
 _Staged 2026-08-02, per punch item 10 (engine-alignment §A). Apply to

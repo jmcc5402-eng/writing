@@ -22,8 +22,9 @@ cite Book 1 chapters; T## IDs refer to that book's THREADS.md.
   too-quick laugh — the model clue) → B1 ch7 (Big Island meeting that
   "can't happen over video") → B1 ch9 (Andrew half-connects the slip
   to the theft method) → B1 ch10–11 (parents leave for a "meeting
-  until after dinner," then appear inside the lava tube — pointedness
-  [TK: author to decide if same meeting, per critique]).
+  until after dinner," then appear inside the lava tube — stays
+  unexplained BY DESIGN, author 2026-08-02: not a wink, since the
+  text never asks; early-book plot holes may stay unfilled).
   OWED: pays off across Arc 4 (books 31–40).
   RULES: clues are small and deniable, always — enjoyable only on
   re-read (premise [Canon decision]); the twins never treat a clue as
