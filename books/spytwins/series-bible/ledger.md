@@ -18,13 +18,17 @@ Format: ID | name | type — arc so far / OWED. Book-local touchpoints
 cite Book 1 chapters; T## IDs refer to that book's THREADS.md.
 
 - **S01 — The spy secret (parents are operatives)** | plot
-  born pre-canon (premise "iceberg") → B1 ch4 (Mom's blind-spot slip +
-  too-quick laugh — the model clue) → B1 ch7 (Big Island meeting that
-  "can't happen over video") → B1 ch9 (Andrew half-connects the slip
-  to the theft method) → B1 ch10–11 (parents leave for a "meeting
-  until after dinner," then appear inside the lava tube — stays
-  unexplained BY DESIGN, author 2026-08-02: not a wink, since the
-  text never asks; early-book plot holes may stay unfilled).
+  born pre-canon (premise "iceberg") → B1 ch1 (client call that
+  "can't happen over video") → B1 ch4 (Mom's blind-spot slip +
+  too-quick laugh — the model clue) → B1 ch11 ("textbook
+  fieldcraft" / "Thrillers" — the capstone; twins wrangling Blazer,
+  zero reaction).
+  B1 WINK ACCOUNT (v2 adopted 2026-08-02): three on-page winks
+  (ch1, ch4, ch11) — at cap, compliant. ch7's "no-video" duplicate
+  neutralized and ch9's interior callback CUT on adoption (strict
+  counting). The ch11 parents-in-tunnel arrival stays unexplained by
+  design and spends nothing (premise canon: unexplained logistics
+  are not winks).
   OWED: pays off across Arc 4 (books 31–40).
   RULES: clues are small and deniable, always — enjoyable only on
   re-read (premise [Canon decision]); the twins never treat a clue as
@@ -40,25 +44,27 @@ cite Book 1 chapters; T## IDs refer to that book's THREADS.md.
   open question in premise.md and STATUS.md.
   RULES: unseen so far; do not name or show her without the author.
 - **S03 — The skills ladder** | knowledge
-  born story-engine §3 → B1: observation/pattern-reading (Amanda)
-  EARNED on the page (ch3–5, ch10); photography/evidence documentation
-  (Andrew's tablet) EARNED (ch3–6); drone piloting CLAIMED
-  ("established in Book 1 via Kekoa") but NOT earned — Andrew never
-  flies solo; ch12 asserts the skill retroactively. (v2 draft starts an
-  on-page lessons arc, ch1–4 only.)
-  OWED: reconcile the ladder with the page before Book 2 assigns a
-  step up. RULES: the skill that solves the case is set up earlier in
+  born story-engine §3 → B1 (v2 adopted 2026-08-02):
+  observation/pattern-reading (Amanda) EARNED on the page (ch3–5,
+  ch10 decode-to-his-face); photography/evidence documentation
+  (Andrew's tablet) EARNED (ch2–7); drone piloting EARNED — on-page
+  arc ch1 (30-second hover) → ch6 (52s) → ch7 (61s, figure eights
+  unlocked) → ch12 (solo flight, figure eight); radio click-code
+  signaling (Andrew's invention) EARNED ch8, tested ch10, decisive
+  ch11.
+  RULES: the skill that solves the case is set up earlier in
   the same book or an earlier book — never pulled out of nowhere
   (story-engine §3); Arc 4 spends the accumulated ladder, so this
   ledger, not the ladder, is the audit trail.
 - **S04 — Gadget-per-book (gifts from the parents' trips or Uncle
   Jacob)** | object
-  born story-engine §1 + spine beat 4 → B1: UNFULFILLED — no gadget is
-  gifted anywhere in canon; the tablet pre-exists, the drone and
-  flashlights are Kekoa's. (v2 draft: "[TK gift gadget]" opened in ch1
-  via Dad's gadget-guilt — identity and back-half job still owed.)
-  OWED: the [TK]; becomes one-signature-gadget-per-book in Arc 3
-  (books 21–30). RULES: gadgets arrive as gifts from the parents'
+  born story-engine §1 + spine beat 4 → B1 (v2 adopted 2026-08-02):
+  EXECUTED — a walkie-talkie pair, Dad's conference guilt-gift, ch1
+  (the canon channel), doing real back-half work: the ch8 stakeout
+  click codes, the ch10 tested click-beacon, the ch11 trap. First
+  fulfillment of beat 4 in series history. Carried forward: B2+
+  inherit the pair (B3's dawn radio-net depends on it).
+  OWED: one-signature-gadget-per-book begins Arc 3 (books 21–30). RULES: gadgets arrive as gifts from the parents'
   work trips or Uncle Jacob; Adam's guilt-generosity is the canon
   channel.
 - **S05 — The destination chain** | plot
@@ -69,10 +75,10 @@ cite Book 1 chapters; T## IDs refer to that book's THREADS.md.
   (premise [Canon decision]; a shorter stay is a usable plot
   constraint, not an error).
 - **S06 — The lesson-learned ledger** | character-arc
-  B1: "come to adults for help" (ch11) — imposed by the parents, not
-  earned or named by a twin; Amanda's honesty thread (B1 T10) opened
-  and left unclosed. OWED: B1's lesson properly landed, or accepted
-  as-is by the author. RULES: one lesson per book, learned by one of
+  B1 (v2 adopted 2026-08-02): EARNED — Amanda names the lesson
+  herself at the ch11 debrief ("Next time we come to the grown-ups
+  at the beginning. Not the end."), after a full unprompted
+  confession; honesty thread (B1 T10) opened ch3 and CLOSED ch11. RULES: one lesson per book, learned by one of
   the twins (premise per-book formula #4).
 - **S07 — Jenny & Jacob (the worst-moment engine)** | motif
   B1: three calls (ch3, ch7, ch10 — ch10 load-bearing: it gets the
@@ -100,8 +106,10 @@ cite Book 1 chapters; T## IDs refer to that book's THREADS.md.
   classmates are the guest-talent channel; consultant-couple kids are
   a latent S01 surface — handle as deniable.
 - **S10 — The Curriculum (the parents' long con)** | knowledge/series
-  born B1 (the surf suggestion [CHECK: is the parental nudge on the
-  page in v2 ch5? — alignment pass]) → B2 planned (one dojo line) →
+  born B1 ch1 — Mom's dinner nudge ON THE PAGE ("Kekoa teaches
+  surf lessons. You should learn while we're living on an ocean."),
+  one line, deniable, never repeated; parents never teach, watch,
+  or praise the surfing anywhere in B1 (verified 2026-08-02) → B2 planned (one dojo line) →
   B3 planned (canoe/open-water). RULES: one parental nudge per book,
   never two; always deniable and locally natural ("there's a dojo two
   blocks away — it'd be rude not to"); parents never teach, never
@@ -122,49 +130,53 @@ Cells state what is true ON THE PAGE of the canon manuscript. Where a
 book fails its own spine, the cell says so.
 
 ### Book 1 — The Petroglyph Mystery (Maui) — canon ms, 12 ch
+(v2 adopted 2026-08-02)
 
 - **Skill actually earned on the page:** Observation / pattern
-  recognition (Amanda): EARNED — sketch-match ch3, trail-decode ch5,
-  read back to Lee's face ch10. Evidence documentation (Andrew,
-  tablet): EARNED — photos ch3–6, archive research ch3, ID research
-  ch7. Drone piloting: NOT EARNED — the ladder's "established in Book
-  1" is false on the page; Andrew flies nothing until ch12 asserts
-  "quite skilled." (v2 draft ch1–4 begins an earning arc: first hover,
-  lesson schedule; case-breaker beat still unwritten.)
-- **Gadget received and from whom:** NONE. Spine beat 4 ("a technical
-  tool enters — a gift from the parents' conferences") is UNFULFILLED
-  in canon: no gift, no gadget; tablet pre-owned, drone/flashlights
-  Kekoa's. v2 draft has only "[TK gift gadget]" from Dad (ch1) —
-  a bracket, not a gadget. An honest ledger says: beat 4 has never
-  yet been executed in this series.
-- **Arc clue planted (S01):** Mom's security blind-spot slip + cover
-  laugh (ch4 — the series model); "client meeting that can't happen
-  over video," Big Island (ch7); parents' meeting timing vs. their
-  lava-tube arrival (ch10–11) — currently ambiguous, [TK: author to
-  decide whether to sharpen]. Zero winks in ch1–3 of canon (v2 draft
-  adds one: the ch1 no-video client call).
-- **Lesson learned:** "Come to adults for help" — stated by the
-  parents and promised by the twins (ch11), i.e. assigned, not earned;
-  no twin names a lesson. Amanda's honesty thread built (ch3, ch8,
-  ch10) and left unresolved. Cell honestly reads: lesson delivered by
-  adults, not learned by a twin.
-- **Next-destination hint:** Tokyo, Japan — clean, double-stated
-  (ch12), plus a concrete carry-hook (Kekoa asks for drone footage).
+  recognition (Amanda): EARNED — sketch-match ch3, trail-decode
+  ch5, read back to Lee's face ch10–11. Evidence documentation
+  (Andrew, tablet): EARNED — photos ch1–6, archive research ch5,
+  ID research ch7. Drone piloting (Andrew): EARNED — hover arc
+  ch1/ch6/ch7, solo figure-eight flight ch12. Radio click-code
+  signaling (Andrew): EARNED — invented ch8, tested ch10, wins
+  the capture ch11.
+- **Gadget received and from whom:** Walkie-talkie pair — Dad's
+  conference guilt-gift, ch1 (spine beat 4 EXECUTED; see S04).
+- **Arc clue planted (S01):** ch1 no-video client call; ch4
+  blind-spot slip + cover laugh (the series model); ch11
+  "textbook fieldcraft"/"Thrillers" capstone. Three winks — at
+  cap. The ch9 interior callback was CUT on adoption (strict
+  counting); the ch11 parents' arrival stays unexplained by
+  design — not a wink.
+- **Lesson learned:** Amanda — honesty: names it herself at the
+  ch11 debrief after the full confession ("come to the grown-ups
+  at the beginning"). Earned, not imposed (T10 closed).
+- **Crossover lesson (ingredient 18):** Andrew — wall-ball
+  perseverance decides the ch11 beacon vigil. Cadence starts at
+  B1; next: B2 none, B3 Amanda (canoe-hold), odd books
+  thereafter, twins alternating.
+- **S10 nudge:** surfing — Mom, ch1, one line, deniable
+  (compliant; see S10).
 - **Local transport (ingredient 8):** N/A — WAIVED, B1 predates
   the 2026-07-29 checklist lock (author, 2026-08-02). The kids
   walk; surfing is sport, not transport. First transport audit:
   B2 (subway banked in the locked premise).
+- **Next-destination hint:** Tokyo, Japan — stated twice (ch12
+  feast announcement + Kekoa's footage deal), with the deniable
+  "Tokyo expansion"/"major development" echo of ch7.
 
 ### Book 2 — Japan (Tokyo) — stub from `plots/book-02-japan.md`
 
-- **Skill actually earned on the page:** [TK — outline lists
-  candidates: time-lapse/night imaging, basic hacking, urban GPS
-  orienteering. Must be a step up from Book 1's ACTUAL earned skills
-  (patterns + documentation), not from the ladder's unearned drone
-  claim — unless Book 2 earns the drone properly.]
-- **Gadget received and from whom:** [TK — outline says "a step up
-  from Book 1's tablet/drone." Note Book 1 delivered no gadget; if the
-  v2 draft's [TK gift gadget] merges, Book 2 steps up from that.]
+- **Skill actually earned on the page:** [planned per the approved
+  outline: Andrew's chopsticks (climax) + Amanda's kana. B2 steps up
+  from B1's earned set: patterns + documentation + drone +
+  click-codes.]
+- **Gadget received and from whom:** [planned: pocket camera with
+  interval mode — Dad, ch1, ruled 2026-08-02. B1 delivered the
+  walkie-talkie pair; the pair itself carries forward (S04
+  continuity).]
+- **Crossover lesson:** none in B2 (cadence holds — B1 Andrew,
+  B3 Amanda). Log stays "none" deliberately.
 - **Arc clue planted:** [TK — outline directive: "one more small,
   deniable clue" (e.g. a no-video client meeting; Mom knowing
   something oddly specific). Rules in S01 apply.]
