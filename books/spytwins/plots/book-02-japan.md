@@ -119,3 +119,19 @@ B2 none / B3 Amanda) (author, 2026-07-30).
   to kids, and can say "if a shop owner files, I can act — nobody
   will file"; camera-vote grief is about a row that would be
   watching its own, never about technology being newfangled.
+
+**Naming ruling (author, 2026-08-02 — ratified by merging the naming
+PR; full options memo: `notes/b2-naming-options-2026-08-02.md`):**
+- Friend = **Kenta Hamada**, family fresh-fish stall (twins say
+  Kenta; market aunties "Ken-chan"; the koban officer "Hamada-kun").
+  His dawn ice-raking job puts him near the mark sites with zero
+  contrivance; mark #0 was on HIS family's shutter.
+- The little painter = **Rin Ogawa** (girl, 8).
+- The grandmother = **Fumi Ogawa** (born ~1946; registered katakana
+  Fumi, signed her panels in hiragana ふ — "the brush's script").
+  Amanda's ch11 read-aloud: "fu."
+- The market = **Mutsumi-dori Shotengai** ("Harmony Street") —
+  fictional; the friend glosses the name once, ch12, before the
+  vote flips.
+- Standing rule: no market kid may carry the mark's opening
+  syllable (Fu-), or the corner-mark clue appears to point at them.
