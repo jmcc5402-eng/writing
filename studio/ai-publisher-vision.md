@@ -2,8 +2,8 @@
 
 **Status:** working vision doc, drafted 2026-08-02 for conversations with
 a small publisher exploring an AI-driven workforce. Prior-art research
-is folded in at the end. This describes a company that does not exist
-yet; everything here is a design proposal, not a report.
+(web, 2026-08-02) is folded in at §10. This describes a company that
+does not exist yet; everything here is a design proposal, not a report.
 
 **The one-line pitch:** a publishing house that runs book production the
 way good software teams run software — agents do the volume, named
@@ -165,6 +165,18 @@ wouldn't predict — and the honest backstop that the producer's
 acceptance read exists precisely to catch a book that is competent and
 dead.
 
+**What the evidence says (see §10 sources):** at excerpt length, the
+question is already settled — a 2025/26 study found general readers
+*preferred* AI prose imitating award-winning styles (experts didn't,
+until models were fine-tuned on an author's corpus, which flipped even
+the experts). At novel length there is no clean pass yet: the
+consistent finding is that AI-heavy books can capture sales rank but
+show weaker retention and re-read rates, and reader communities now
+actively pattern-match for AI tells. Which localizes the problem
+exactly where this design puts the humans: whole-book coherence,
+earned emotion, and series loyalty — the acceptance read and the
+load-bearing scenes.
+
 **Calibrated claim:** for genre fiction with strong conventions
 (romance, mystery, thriller, middle-grade adventure), this pipeline
 can reliably produce books indistinguishable from a competent
@@ -213,24 +225,45 @@ review, for the same reasons.
 Transparency here isn't just ethics branding — it's structurally
 necessary, for two reasons the research (§10) makes concrete.
 
-**Copyright requires demonstrated human authorship.** Under current US
-Copyright Office guidance, purely AI-generated text is not
-copyrightable; protection attaches to human creative contribution —
-selection, arrangement, revision, and creative control that shapes the
-output. A house whose humans genuinely drive concept, bible, outline,
-load-bearing scenes, and every merge — *and can prove it from the git
-history* — has a defensible copyright position and an audit trail most
-publishers couldn't produce. The SDLC isn't just efficient; it's the
-evidence. [CHECK: exact protectability boundaries are still being
-litigated; counsel review needed before launch, and the registration
-strategy (registering the human-authored expression and compilation)
-needs a specialist.]
+**Copyright requires demonstrated human authorship — and the position
+is thinner than comfortable.** Under the US Copyright Office's Part 2
+report (Jan 2025, still governing), purely AI-generated text is not
+copyrightable and prompts alone — however detailed — do not confer
+authorship. In a mixed work, only the human contributions are
+protected: human-written passages, substantial human revision, and the
+selection/arrangement of AI material (a thin, compilation-style
+claim). Stated plainly for any pitch: an AI-drafted, human-revised
+novel has *partial, untested* copyright protection, and a pirate who
+strips and republishes the raw AI prose sits in a genuine gray zone.
+Mitigations: heavier human line-work raises the protected share
+(bottleneck 4 is a legal asset, not just a quality one); series-brand
+trademark; registration with full disclosure and the git-history
+evidence trail — the producer edit logs are exactly the documentation
+the Office looks for. The SDLC isn't just efficient; it's the
+evidence. The Office itself is institutionally unstable (the Register's
+firing/reinstatement litigation ran into mid-2026), so build to
+survive the *strict* reading. [CHECK: counsel review before launch; a
+registration test case on book one, fully documented, is the fastest
+de-risking move available.]
 
-**Retail disclosure already applies.** Amazon KDP requires disclosing
-AI-generated content at publication (its AI-generated vs. AI-assisted
-distinction matters and should be tracked per-book from the repo, not
-reconstructed later). The house standard should exceed platform
-minimums everywhere, so policy changes never threaten the catalog.
+**Retail disclosure already applies — and it's Amazon-internal.** KDP
+has required declaring AI-generated content since Sept 2023; under its
+taxonomy (AI-generated vs. AI-assisted, where even heavily-edited AI
+text counts as "generated"), this house's books are squarely
+**AI-generated and must be declared on every title**. That declaration
+is internal to Amazon and not shown to shoppers — so the public
+provenance page is voluntary and on top, which is the point. Amazon
+accepts disclosed AI-generated fiction; the friction is the *wide*
+stack: Kobo prohibits content "generated primarily by automated tools
+that lacks genuine human effort" and is building AI detection,
+Draft2Digital draws a similar line, and IngramSpark (print/bookstore
+reach) is tightening [CHECK: Ingram's current policy, secondhand only].
+A curated human-supervised list arguably passes these tests, but
+that's their call: **plan Amazon-first economics; treat wide as upside
+contingent on direct policy conversations with Kobo and Ingram before
+launch.** Track the per-book AI/human mix from the repo as it happens,
+never reconstructed later, and exceed platform minimums everywhere so
+policy changes never threaten the catalog.
 
 The public artifact: a **provenance page** in every book and on the
 site — named producer; what agents did (research, drafting, editorial
@@ -297,10 +330,79 @@ publisher's job is to defend the checkpoints from the cadence.
 
 ## 10. Prior art — does this exist? (researched 2026-08-02)
 
-[TK: research agent findings to be folded in — existing AI-first
-publishers and their track records, KDP policy detail, copyright
-position, reader-sentiment data, tooling landscape, and where the
-white space actually is.]
+**Short answer: no. The transparent, curated, human-in-the-loop
+version does not exist yet.** Every current player is one of three
+things this company deliberately isn't:
+
+- **Spines** (~$22.5M raised) — an *author-pays* AI services platform
+  ($1,200–5,000 per author) that announced 8,000 books for 2025 and
+  drew industry-wide condemnation. The backlash triggers were
+  volume-as-mission and charging authors — a curated 12-book/year
+  list where the publisher bears cost is positioned against both.
+  Still operating (voice-clone audiobooks, translation); whether it
+  hit its volume target is unverified.
+- **Inkitt / Galatea** ($117M+ raised) — the closest proof the
+  *economics* work: AI-assisted editing, A/B-tested plot rewrites,
+  AI-ghostwritten sequels in romance/romantasy, claims of a new $1M
+  ebook every four weeks (Bloomberg, May 2025). But it is the
+  anti-transparent version — readers generally aren't told what's
+  AI-written. It validates demand while leaving the trust position
+  wide open.
+- **The KDP/KU gray market** — anonymous AI floods that Amazon has
+  been fighting since 2023; a 2026 working paper suggests AI-heavy
+  books now hold a large share of top-sales slots in exposed genres
+  [CHECK: paper unverified, read before citing].
+
+Nobody credible is doing SDLC-style, version-controlled, review-gated
+multi-agent book production with named humans at checkpoints — the
+closest real-world analog the research found is, literally, the
+workflow in this repo. The pipeline design is itself differentiating
+IP, and (per §7) its audit trail doubles as the copyright evidence.
+
+**Why the white space exists — the uncomfortable version:** everyone
+monetizing AI books today profits from *hiding* the AI (KU farms,
+Galatea) or from selling services to authors (Spines); transparency
+breaks both models. And disclosure currently carries a real tax:
+studies find disclosed AI authorship erodes perceived trust — though
+the penalty *shrinks when human effort is visible*, which is this
+company's entire design thesis. There is no verified case yet of a
+publicly-disclosed, mostly-AI genre novel selling well on its own
+transparency. That absence is the opportunity and the warning in one
+fact.
+
+**Climate to plan around:** the Authors Guild's "Human Authored"
+certification (5,000+ titles by early 2026) institutionalizes the
+counter-label this house will be defined against. SFWA made any LLM
+drafting or rewriting a Nebula disqualifier, so award ecosystems are
+closed — price that in and market direct-to-reader. The cautionary
+case is *Shy Girl* (Hachette, 2026): a novel pulled after AI-pattern
+accusations — the scandal was **concealment**, not use, which is the
+strongest single argument for transparency-by-design. The lone
+positive precedent (Rie Kudan's Akutagawa win with ~5% disclosed
+ChatGPT text) is thin and not a comp for "mostly AI-written."
+
+**Top risks, ranked (from the due-diligence pass):**
+
+1. Copyright thinness — catalog asset value rests on documented human
+   contribution and an untested compilation claim (§7).
+2. Distribution ceiling — Amazon-with-disclosure works; Kobo/D2D/
+   Ingram may refuse, locking in Amazon dependence.
+3. The disclosure tax with no proven counter-case — year one is a bet
+   that quality plus honesty beats the penalty before capital runs out.
+4. Institutional hostility — no awards, an organized counter-label, a
+   trade press primed for pile-ons.
+5. Novel-length quality — evidence supports excerpt parity, not
+   90k-word parity; a mid book three converts every reviewer into
+   "I told you so."
+6. Information sludge — this niche's public "data" is substantially
+   AI-generated SEO content, including at least one likely-fabricated
+   success story; every pitch-deck stat needs a primary source.
+
+**Fastest de-risking moves:** (a) direct policy conversations with
+Kobo and Ingram before launch; (b) a fully-documented copyright
+registration test case on book one; (c) commission one methodologically
+sound reader study on disclosed-AI genre fiction — none exists, so the
+study itself becomes citable, ownable marketing.
 
 ## 11. Open questions
 
