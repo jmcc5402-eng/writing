@@ -147,7 +147,10 @@ e.g. `[spytwins][OUTLINE] Book 2 Japan — 12 chapters, 2 flags`
   apply immediately. The author's two consoles: the GitHub mobile
   app for 1-minute types (read the body, tap Merge), and the
   `/triage` skill in any session for the queue and for walking
-  through big PRs (OUTLINE, ADOPTION) conversationally.
+  through big PRs (OUTLINE, ADOPTION) conversationally. Reading
+  assignments ship with a rendered reading page and audio; the
+  studio's audio voice is Kokoro "heart" (author-picked,
+  2026-08-02).
 - **Phase 2 (the while-you-sleep vision):** scheduled Routines run
   per-book sessions overnight (this environment already supports
   scheduled triggers and PR-activity subscriptions). Each nightly
