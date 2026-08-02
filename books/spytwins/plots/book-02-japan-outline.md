@@ -28,8 +28,8 @@ the shutter mural their late grandmother made before the renovation.
 ### One paragraph
 
 The Wilsons land in Tokyo, and the twins befriend a kid whose family
-runs a stall in a small neighborhood fish market [TK market name —
-fictional, per ruling 2026-08-02; Toyosu real for ch7] — just as a
+runs a stall in a small neighborhood fish market Mutsumi-dori
+Shotengai (fictional, per the naming ruling; Toyosu real for ch7) — just as a
 painted mark appears on a shutter: barely a
 crime to the koban, an earthquake to the market.
 **Disaster 1:** more marks come, always dawn, always low, and paint on
@@ -127,9 +127,9 @@ renovation," someone says.
 `ch1 rule; T11 carry (Kekoa footage promise, no-drone workaround)`
 
 ### Ch 2 — The Shutter Row
-Morning at the market — [TK market name], a small covered
-neighborhood fish market (fictional, per ruling 2026-08-02):
-the twins meet [TK friend's name/stall type], a kid
+Morning at Mutsumi-dori Shotengai, the small covered neighborhood
+fish market (fictional, per the naming ruling): the twins meet
+Kenta Hamada, whose family runs the fresh-fish stall — a kid
 their age working the family stall, who walks them down the row —
 including a faded photo pinned inside the stall of the market "in the
 old days" (glimpsed, not studied).
@@ -143,8 +143,8 @@ row erupts, the koban officer strolls over, writes one line in a log,
 and shrugs: too small a crime to chase (the jurisdiction trick).
 The friend's stricken face is the Opportunity — the case lands in the
 twins' laps.
-`PLANTS: festival clock (date on paper); faded photo; [TK little`
-`painter] first sighting; mark #1 (low — unremarked); koban log /`
+`PLANTS: festival clock (date on paper); faded photo; Rin's`
+`first sighting; mark #1 (low — unremarked); koban log /`
 `PAYS: — / SERIES: S03 (Amanda's pattern-eye flickers awake)`
 
 ### Ch 3 — Pick Your Color
@@ -329,7 +329,7 @@ fingers — lifts the cap out and holds it up, offering, not accusing
 (skill 9 pays at the locked beat; the gesture flips the moment from
 capture to trust).
 Amanda says the corner syllable out loud — the signature from the old
-mural — and [TK the little painter's name] finally talks: the
+mural — and Rin Ogawa finally talks: the
 backpack holds stencils traced from a late grandmother's sketchbook;
 the marks are panel keys; the plan was to repaint her shutter mural
 panel by panel, on the rainy mornings that used to be theirs —
@@ -352,7 +352,7 @@ Amanda walks the room through the decode — marks laid over the faded
 photo, panel by panel — while Andrew runs the evidence (timestamps,
 weather, the koban log) and the friend, cleared and vouching, does what
 the twins can't: speaks to these adults as one of their own.
-[TK the little painter's name] holds up the sketchbook, and the room
+Rin holds up the sketchbook, and the room
 turns — the culprit becomes a commission: cameras voted down, the
 mural voted BACK, first panel painted officially at the festival with
 the whole row watching [CHECK: koban culture — how the logged incidents
@@ -393,7 +393,7 @@ Andrew's first thought is whether drones are legal THERE.
 | Paint on friend's hands (fair-but-wrong) | ch6 | ch8 mark #0 truth; ch9 cost |
 | Delivery man + Blazer (comic herring) | ch4 | ch10 closed |
 | Sabotage-for-cameras theory (herring) | ch7 | ch8 dissolved by decode |
-| [TK painter] sightings | ch2; ch7 (reader-only) | ch11 reveal is FAIR |
+| Rin sightings | ch2; ch7 (reader-only) | ch11 reveal is FAIR |
 | Walkie-talkies (B1 canon gadget) | B1 ch1 | ch10–11 stakeout net |
 | Kekoa's footage request | B1 ch12 | ch12 sent |
 
@@ -423,7 +423,7 @@ the twins' plan cracks the case (SC2 held).
 | 1 | Mystery too small for adults | ch2–3 (koban shrug; log-but-no-chase) |
 | 2 | Three escalating incidents | ch2, ch4, ch6 (+ ch8's mark #0 deepens, fairly) |
 | 3 | Red herrings 2–4, one comic | 3: friend's hands (ch6→8); delivery man, comic (ch4→10); sabotage theory (ch7→8) |
-| 4 | Local friend + adult ally holding proof | [TK friend] + koban officer (log, ch3→9) |
+| 4 | Local friend + adult ally holding proof | Kenta + koban officer (log, ch3→9) |
 | 5 | Visible public clock | Festival poster with date, ch2; vote attached ch7 |
 | 6 | Weather changes the plot | Rainy dawns ARE the pattern (ch5→8); one-dawn-left forecast forces the climax (ch9) |
 | 7 | Technology first (Andrew) | Interval camera + timestamp/weather cross-index (ch4→8) |
@@ -485,8 +485,9 @@ _Merging the PR ratified rulings 2–6 below (recommended options,
 recorded in the premise doc); item 1 stays open by design; item 7
 was fixed before the PR._
 
-1. **Still open (by design):** [TK friend's name/stall type],
-   [TK the little painter's name]. All [CHECK] items route to the
+1. **Names — RESOLVED (PR #2 merged, 2026-08-02):** Kenta Hamada,
+   Rin Ogawa, Fumi Ogawa (mark ふ), Mutsumi-dori Shotengai. Remaining
+   [CHECK] items route to the
    culture-researcher pass already flagged (market naming, shutter-art
    traditions, koban culture, graffiti shock-weight, auction logistics,
    drone rules, pet import, kana signature plausibility).

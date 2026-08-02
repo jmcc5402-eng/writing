@@ -78,7 +78,7 @@ B2 none / B3 Amanda — every other book; author may veto);
 no-villain resolution completes the crime-type menu (B1 greed-theft,
 B2 vandalism-that-isn't).
 
-**Open:** [TK friend's name/stall type] [TK the little painter's name]
+**Open:** (names resolved 2026-08-02 — see Naming ruling below)
 [CHECK: Tsukiji Outer Market vs Toyosu naming; shutter-art traditions;
 koban culture; graffiti's shock-weight; lauhala-equivalent rigor — full
 culture-researcher pass before drafting]
