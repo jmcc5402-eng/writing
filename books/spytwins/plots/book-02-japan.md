@@ -82,3 +82,15 @@ B2 vandalism-that-isn't).
 [CHECK: Tsukiji Outer Market vs Toyosu naming; shutter-art traditions;
 koban culture; graffiti's shock-weight; lauhala-equivalent rigor — full
 culture-researcher pass before drafting]
+
+**Rulings (author, 2026-07-30 — ratified by merging PR #1):**
+gadget = Dad's pocket camera with interval mode, ch1 (drone wish
+defers; T11 alive); honesty beat = the friend scrubbed mark #0 and
+hid it; S06 lesson (Amanda, ch12) = "when a message won't read, ask
+who it's for, not what it says"; rainy mornings = grandma's painting
+ritual (one backstory line, ch11).
+
+WAIVED: wink floor (2) — one strong wink beats two thin ones this
+book (author, 2026-07-30).
+WAIVED: crossover-lesson cadence — B2 = none by design (B1 Andrew /
+B2 none / B3 Amanda) (author, 2026-07-30).
