@@ -2292,12 +2292,7 @@ where a chat window hid behind the periodic table.
 Andrew read the last messages twice.
 Someone really knows what they're doing.
 Someone who knew where every camera pointed
-and how to make all of them sleep at once —
-and from a dinner two weeks old his mom's voice drifted up,
-most basic security systems have predictable blind spots,
-and he shook it off,
-because moms hear radio commercials,
-and thieves have key cards.
+and how to make all of them sleep at once.
 
 He was leaning over to show Amanda the chat
 when her teacher's voice came crackling out of her laptop.

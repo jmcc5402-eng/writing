@@ -197,7 +197,10 @@ needs a new scene just to check a box, the box loses.
 10. A food scene — bite at overconfidence, never at cuisine
 11. A place-unique "wow" set piece no other city could host
 12. A running gag, exactly three touches
-13. The spy-wink budget: 2–3 deniable beats, never more
+13. The spy-wink budget: 2–3 deniable beats, never more.
+    Strict counting — callbacks count too (author, 2026-08-02:
+    when in doubt, cut the wink; reader suspicion of the parents
+    should not really begin until book 8+).
 14. An honesty beat — a bent truth with a felt cost
 15. The pets check-in (key role every few books)
 16. Next-destination hint, final chapter
