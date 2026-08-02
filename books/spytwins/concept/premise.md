@@ -173,3 +173,10 @@ _Not blocking, but worth deciding as we go:_
   how big a role do they play across the series?
 - Does the agency (and the parents' boss, "the woman they always mention") get a
   name and a face, and when?
+- **[Author brainstorm, 2026-08-02] Languages.** Later in the series
+  the twins start LEARNING LANGUAGES — spy-adjacent skill, opens
+  topics, activities, and conflicts; a natural evolution of the S10
+  curriculum (would the parents nudge it, or would the twins want it
+  themselves?). B2 already plants the earliest seeds: Amanda's kana
+  and the friend's English-correction beats. Open: when it starts,
+  which twin leads, whether it becomes an S-thread.

@@ -94,3 +94,28 @@ WAIVED: wink floor (2) — one strong wink beats two thin ones this
 book (author, 2026-07-30).
 WAIVED: crossover-lesson cadence — B2 = none by design (B1 Andrew /
 B2 none / B3 Amanda) (author, 2026-07-30).
+
+**Rulings (author, 2026-08-02 — culture-pass flags, all A):**
+- Market = FICTIONAL small neighborhood fish market, [TK market
+  name], shitamachi-flavored, shotengai scale; Toyosu stays real for
+  the ch7 tuna auction (behind glass). Never "shutter street"
+  (shatta-dori = a dying arcade).
+- Paint kit = grandma's own brushes and tins with traced stencils —
+  quieter dawns, no kid buying spray; the cap Andrew lifts from the
+  grate was HERS (why the little painter freezes).
+- Blazer arrival = one deniable line: the relocation company files
+  pet paperwork months ahead for every assignment. Not a clue; wink
+  budget stays spent on the wasabi.
+- Friend's English = school English, still learning ("we learn
+  English in school now — I'm still learning"). PLUS a light
+  correction micro-thread, a few lines total across the book: once
+  the twins correct him and realize it sounded a little mean; once
+  they don't and realize they probably should have helped. No
+  touch-count formality — thrown in lightly.
+- Season = June (tsuyu): the rainy-dawn pattern is statistically
+  honest; school schedules apply to the friend and little painter.
+- Drafting directives from the same pass (accuracy, not new canon):
+  koban officer reads dates from his own notes, never hands records
+  to kids, and can say "if a shop owner files, I can act — nobody
+  will file"; camera-vote grief is about a row that would be
+  watching its own, never about technology being newfangled.

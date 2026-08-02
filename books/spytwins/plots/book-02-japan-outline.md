@@ -28,8 +28,9 @@ the shutter mural their late grandmother made before the renovation.
 ### One paragraph
 
 The Wilsons land in Tokyo, and the twins befriend a kid whose family
-runs a stall in the outer fish market [CHECK: Tsukiji Outer Market vs
-Toyosu naming] — just as a painted mark appears on a shutter: barely a
+runs a stall in a small neighborhood fish market [TK market name —
+fictional, per ruling 2026-08-02; Toyosu real for ch7] — just as a
+painted mark appears on a shutter: barely a
 crime to the koban, an earthquake to the market.
 **Disaster 1:** more marks come, always dawn, always low, and paint on
 their friend's hands makes HIM the accused.
@@ -107,8 +108,9 @@ non-reaction (ch4) is the S01 wink the twins never clock.
 The family lands in Tokyo and the twins trade an island for a canyon of
 neon — the apartment is a fraction of the Maui house, and Blazer (part
 Lab, part Shepherd, nose that can smell a treat three houses away)
-claims most of it [CHECK: Japan pet-import/quarantine logistics — one
-arrival line, not a scene].
+claims most of it (one deniable arrival line per ruling 2026-08-02:
+the relocation company files pet paperwork months ahead, every
+assignment — not a clue).
 Dad, guilt-generous as ever, gifts Andrew a pocket camera with an
 interval/time-lapse mode — "for Kekoa's Tokyo footage," since drones,
 Andrew learns to his disgust, are effectively off the table in the city
@@ -125,8 +127,9 @@ renovation," someone says.
 `ch1 rule; T11 carry (Kekoa footage promise, no-drone workaround)`
 
 ### Ch 2 — The Shutter Row
-Morning at the outer fish market [CHECK: Tsukiji Outer Market vs
-Toyosu naming]: the twins meet [TK friend's name/stall type], a kid
+Morning at the market — [TK market name], a small covered
+neighborhood fish market (fictional, per ruling 2026-08-02):
+the twins meet [TK friend's name/stall type], a kid
 their age working the family stall, who walks them down the row —
 including a faded photo pinned inside the stall of the market "in the
 old days" (glimpsed, not studied).
@@ -316,9 +319,10 @@ tapes up a stencil.
 ### Ch 11 — Panel by Panel (CLIMAX)
 The quiet approach: Amanda's foot skids on a wet crate and the dojo
 class saves the morning — slap, roll, up, SILENT (break-fall paid).
-The kid startles anyway; the stencil cap skitters across the pavement
-and drops through a drain grate — and the kid freezes, stricken, like
-the cap matters more than being caught.
+The kid startles anyway; a paint-tin cap — from the grandmother's own
+brushes and tins, per ruling 2026-08-02 — skitters across the pavement
+and drops through a drain grate — and the kid freezes, stricken,
+because the cap was HERS: the object matters more than being caught.
 Andrew kneels at the grate, takes out the chopsticks he's carried for
 weeks, and — steady, exact, the whole book's practice in his
 fingers — lifts the cap out and holds it up, offering, not accusing
