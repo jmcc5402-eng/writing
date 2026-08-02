@@ -163,6 +163,9 @@ The project evolved across several years of drafts. These are now **locked**:
   slow. [TK: name the twins' series-scale identity→essence arcs — the
   wound, the armor, the essence, and which arc turns each.]
 
+- **WAIVED: transport ingredient — B1 predates the checklist lock
+  (author, 2026-08-02).**
+
 ## Open questions to settle later
 
 _Not blocking, but worth deciding as we go:_
