@@ -147,6 +147,10 @@ book fails its own spine, the cell says so.
   adults, not learned by a twin.
 - **Next-destination hint:** Tokyo, Japan — clean, double-stated
   (ch12), plus a concrete carry-hook (Kekoa asks for drone footage).
+- **Local transport (ingredient 8):** N/A — WAIVED, B1 predates
+  the 2026-07-29 checklist lock (author, 2026-08-02). The kids
+  walk; surfing is sport, not transport. First transport audit:
+  B2 (subway banked in the locked premise).
 
 ### Book 2 — Japan (Tokyo) — stub from `plots/book-02-japan.md`
 
