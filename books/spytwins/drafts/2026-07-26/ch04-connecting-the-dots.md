@@ -62,6 +62,8 @@ Side wall. Third window. Stones fitted different. Blazer alert.
 "He smells something under there."
 
 "Treats?" Kekoa said hopefully.
+"Somebody buried treats. Or dropped a musubi back here once.
+Dogs remember these things. I'd remember."
 
 "He can smell a treat from three houses away," Andrew said,
 "but he doesn't dig for treats that aren't there.
@@ -140,6 +142,10 @@ watching the three of them gathered around the old map.
 
 "That old thing has hung there since before my time," she said,
 pleasantly enough.
+"The police spent all morning asking me about locks
+and alarms and key lists.
+Nobody asks an old map anything."
+She shifted the folders in her arms.
 "Lunch is over, I believe. School."
 
 Walking home, with Blazer finally crab-tired and trotting nicely,

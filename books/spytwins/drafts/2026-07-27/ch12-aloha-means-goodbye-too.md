@@ -176,6 +176,15 @@ to teach them all month, and a bowl of poi
 that the twins approached like scientists
 and finished like locals, mostly.
 
+"Basically locals now," Andrew announced —
+one whole ride had done wonders —
+and reached past the platter to take his mahi-mahi
+straight off the grill's edge, from the piece still hissing.
+The whole table got to hear him learn better.
+"Hot," he explained, around a mouthful of air,
+while Kekoa handed him a water glass without comment
+and Amanda counted out loud to see how long the lesson took.
+
 "To think," their mom said, passing the poi,
 "when we took this assignment,
 I actually worried you two would be bored here."

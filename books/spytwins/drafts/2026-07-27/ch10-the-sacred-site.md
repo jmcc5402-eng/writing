@@ -10,9 +10,9 @@ in from the grill and the whole kitchen smelled like almost-yes.
 
 "You're still grounded after the cultural center incident."
 
-"That was two days ago," Amanda said.
+"That was last night," Amanda said.
 
-"Yes," their mom said. "Exactly. It was two days ago."
+"Yes," their mom said. "Exactly. It was last night."
 
 Their dad set down the platter.
 "Also, your mother and I have a meeting with the client

@@ -30,7 +30,7 @@ watching their dog sprawl in a patch of sunlight
 streaming through the window.
 
 "Better not," their mom said.
-"He's still too excited about those crabs.
+"He's still learning every smell on this beach.
 Maybe once he settles down."
 
 The walk toward the library took them past a shave ice stand,

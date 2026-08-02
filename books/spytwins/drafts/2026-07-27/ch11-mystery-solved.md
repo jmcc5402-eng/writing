@@ -102,6 +102,9 @@ Andrew flattened himself deeper into the rock pocket
 and started sending steady now, a pulse, two clicks and a rest,
 two clicks and a rest, a lighthouse made of static —
 guiding not by moving, just by refusing to stop.
+Wall-ball logic, he told himself, and kept the rhythm.
+Nobody asks how your arm feels at rep ninety.
+You don't stop counting. You throw the next one.
 
 Somewhere down the mountain of stone, at a black fork,
 somebody was holding a radio into one tunnel mouth and then another,
@@ -172,7 +175,7 @@ so I'd hold it really carefully and really still."
 "I didn't know Blazer could be so scary," Amanda whispered.
 
 "Me neither," Andrew whispered back.
-"I guess he can chase more than crabs."
+"I guess he had that in him the whole time."
 
 Then the chamber filled with light.
 
@@ -242,7 +245,8 @@ is never the way to prove you were right about anything."
 Mrs. Kalani pulled out her tablet.
 "You didn't think your grandmother was too old for technology,
 did you?" On the screen, a map, and on the map, a blinking dot,
-sitting exactly where everyone was standing.
+stopped dead at the mouth of the lava tube —
+the last place its little signal could still reach the sky.
 
 "You tracked us?" Kekoa's eyes went wide.
 
@@ -252,7 +256,8 @@ in the middle of my museum in your socks," she said.
 "I spent this morning going through camera footage,
 and I was standing in the police station showing them what I found
 when your message said hiking
-and my little dot walked straight off the marked trails.
+and my little dot walked straight off the marked trails
+and went quiet at a hole in the hillside.
 The officers were kind enough to drive fast."
 
 "Footage?" Andrew said. "But the cameras were dark.

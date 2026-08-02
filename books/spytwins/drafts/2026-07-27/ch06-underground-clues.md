@@ -258,9 +258,18 @@ which Andrew logged, out loud, for the record.
 
 ---
 
-After dinner, Andrew grabbed his lacrosse stick
-and followed his dad onto the lawn,
-where the grass had gone gold at the edges with sunset.
+After dinner, Andrew took his lacrosse stick out
+to the side of the garage, where a bare stretch of wall
+had been promoted to practice partner on their second day.
+Throw, thock, catch. Throw, thock, catch.
+He counted under his breath.
+The college players in his highlight videos
+did a hundred wall-ball reps a day, every day —
+that was the whole secret, they said, and someday,
+on some field with real bleachers, he planned to prove they were right.
+He was on thirty-four when his dad came across the lawn
+with his own stick, where the grass had gone gold
+at the edges with sunset.
 
 "So how was exploring?" his dad asked, making a perfect catch
 behind his back, because he was incapable of not showing off.

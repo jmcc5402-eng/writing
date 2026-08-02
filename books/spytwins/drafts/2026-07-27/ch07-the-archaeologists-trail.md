@@ -281,13 +281,14 @@ had a gravity that loud ones didn't.
 
 "Are you sure about this meeting on the Big Island?" his dad said.
 
-"The client insisted," his mom said. "It's too important
-to discuss over video. Something about a major development."
+"The client insisted," his mom said. "A full day,
+everyone in the same room. Something about a major development."
 
 A cabinet closed. Water ran.
 
 Andrew stood on the bottom stair a moment longer.
-Too important for video. Big clients are strange, buddy.
+A whole day on another island, for one meeting.
+Big clients are strange, buddy.
 Weird job, he filed, under the other times it had felt
 like a weird job — then took the stairs two at a time.
 

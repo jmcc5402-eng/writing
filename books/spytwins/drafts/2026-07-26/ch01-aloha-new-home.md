@@ -169,8 +169,9 @@ passing the bowl of tropical fruit salad.
 but she was smiling.
 "Anyway — there's a great soccer program
 at the community center, Amanda.
-And Mrs. Kalani says Kekoa's involved
-in all sorts of local activities."
+And Mrs. Kalani says Kekoa teaches surf lessons.
+You should learn while we're living on an ocean.
+It seems a waste not to."
 
 "Speaking of activities."
 Their dad reached under his chair
@@ -207,7 +208,8 @@ flipping a burger that did not need flipping.
 "Who wants more pineapple?"
 
 Amanda slid the pineapple off her hamburger
-and watched Blazer make another failed attempt at a sand crab.
+and listened to Blazer patrol the dark edge of the yard,
+ears up at every small scratching sound from the sand.
 "Once we're finally unpacked," she said,
 "Andrew and I are exploring this whole neighborhood. Every block."
 

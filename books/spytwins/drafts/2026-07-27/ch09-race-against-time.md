@@ -4,6 +4,10 @@ The soccer ball hit the fence, came back low and spinning,
 and Amanda trapped it dead under one sneaker.
 
 Ten touches, look up, shoot. Again.
+Coach Chen says eyes up on the tenth touch —
+says, not said, because in Amanda's head
+the Warriors were still running Tuesday drills
+on a wet Seattle field, and she was still on the roster.
 Drills were on the approved list.
 Almost nothing else was.
 
@@ -182,6 +186,10 @@ The old storeroom hides whatever he takes,
 and the sealed entrance lets him carry it out at night
 without touching a single door that anybody watches."
 He let out a breath. "It was never magic. It was homework."
+
+Kekoa put his head in his hands.
+"And I voted treats. A secret door to the old storerooms,
+and I stood right next to it and voted buried musubi."
 
 Andrew's tablet buzzed. Their mom:
 Straight home after studying. No detours.
