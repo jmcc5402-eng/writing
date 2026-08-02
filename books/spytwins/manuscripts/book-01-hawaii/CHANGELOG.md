@@ -112,3 +112,7 @@ authorities: `drafts/ADOPTION-PREP-NOTES-2026-08-02.md`):
   (author ruling via read feedback).
 - ch1: Dad's walkie-talkie line — "that part you share" →
   "you two get to decide" (author ruling via read feedback).
+- ch2: the whispered exchange at the rock face clarified — "Tourist?" /
+  "Of rocks?" read as a typo to the author; now "A tourist?" / "Taking
+  a hundred pictures of one rock?" (same beat: Andrew's skepticism
+  plants the unnamed photographer).
