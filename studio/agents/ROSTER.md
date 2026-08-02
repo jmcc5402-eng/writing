@@ -36,7 +36,9 @@ Rules of the project:
 | `junior-literary-critic` | 1.1.0 | inherit / high | Two-part outside read: one-page critique + one-page prioritized recommendations |
 | `gtm-strategist` | 1.0.0 | inherit / high | Go-to-market strategy and portfolio economics; materials stay with market-pitch-agent |
 
-Plus the skill `/new-book-outline` (`.claude/skills/new-book-outline/`).
+Plus the skills `/new-book-outline` (`.claude/skills/new-book-outline/`)
+and `/triage` 1.0.0 (`.claude/skills/triage/` — the author's PR queue
+console; see `studio/PR-WORKFLOW.md`).
 
 ## Prompt library (`personas/`)
 

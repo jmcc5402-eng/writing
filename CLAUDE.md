@@ -16,7 +16,7 @@ studio/        Cross-book material: style, process, pitch packaging
   series-kit/  The templates for starting a NEW series — start there
 .claude/
   agents/      The writers' room — nine specialists, usable on any book
-  skills/      /new-book-outline
+  skills/      /new-book-outline, /triage
 ```
 
 This is the only home for this work. The books used to live in separate repos
@@ -120,7 +120,8 @@ Nine specialists in `.claude/agents/`, available to every book:
 
 | `junior-literary-critic` | A two-part outside read: one-page critique + one-page recommendations |
 
-Plus the `/new-book-outline` skill.
+Plus two skills: `/new-book-outline` and `/triage` (the author's PR
+queue console — see `studio/PR-WORKFLOW.md`).
 
 **The agents are tracked like a software project** in `studio/agents/`:
 `ROSTER.md` (versions and status), `CHANGELOG.md` (every change, with the

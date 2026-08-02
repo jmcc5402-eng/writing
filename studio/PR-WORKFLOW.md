@@ -118,7 +118,10 @@ e.g. `[spytwins][OUTLINE] Book 2 Japan — 12 chapters, 2 flags`
 - **Phase 1 (now, no new infrastructure):** work continues in
   sessions; every author gate becomes a PR on a short-lived branch
   instead of an in-chat question. The ten types and title format
-  apply immediately.
+  apply immediately. The author's two consoles: the GitHub mobile
+  app for 1-minute types (read the body, tap Merge), and the
+  `/triage` skill in any session for the queue and for walking
+  through big PRs (OUTLINE, ADOPTION) conversationally.
 - **Phase 2 (the while-you-sleep vision):** scheduled Routines run
   per-book sessions overnight (this environment already supports
   scheduled triggers and PR-activity subscriptions). Each nightly

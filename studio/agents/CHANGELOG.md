@@ -3,6 +3,17 @@
 Newest first. Every entry: version, what changed, and the evidence that
 drove it.
 
+## 2026-07-30 — /triage skill 1.0.0 (new)
+
+Author-requested, implementing `studio/PR-WORKFLOW.md` (the author-as-
+engineering-director model): a session-side console for the PR queue.
+Lists open PRs sorted by type priority (RULE/DECISION first; ADOPTION/
+AUTHOR-INPUT labeled schedule-don't-squeeze), walks through any PR
+conversationally, merges or posts rulings only on explicit per-PR
+instruction. Guardrails: never merge own work, walls never waived in
+triage, one book per PR. Companion to the GitHub mobile app, which
+remains the recommended path for the 1-minute PR types.
+
 ## 2026-07-28 — gtm-strategist 1.0.0 (new)
 
 Author-requested: a business-focused agent for go-to-market analysis —
