@@ -31,13 +31,25 @@ rule 7 ("decisions get recorded, not remembered") made mechanical:
    answers with "split this." (Evidence: PR #1, 2026-08-02 —
    an outline approval bundled five rulings and the author couldn't
    tell what they were approving.)
-5. **Show the passage.** If a decision touches prose — a line, a
-   beat, a scene — the PR body QUOTES the passage in question, so
-   the author decides from the body alone without opening a diff.
-   AUTHOR-INPUT PRs include the stub plus the paragraphs around it,
-   in the body. A body must be decidable in under a minute; options
-   are one-liners. If the author has to go find the context, the PR
-   is malformed.
+5. **Show the passage — the BOOK's lines, not just rule text.** If a
+   decision touches prose — a line, a beat, a scene — the PR body
+   QUOTES the affected manuscript lines, so the author decides from
+   the body alone without opening a diff. This applies to RULE PRs
+   too: a rule change quotes both the rule AND the book passage(s) it
+   governs (author, 2026-08-02 — the wink-accounting PR quoted the
+   rule but never showed the ch9 lines it would cut; that was
+   malformed). AUTHOR-INPUT PRs include the stub plus the paragraphs
+   around it. A body must be decidable in under a minute; options are
+   one-liners. If the author has to go find the context, the PR is
+   malformed.
+6. **If it's the author's action, it's a PR** (author, 2026-08-02).
+   Anything assigned to the author — a read, a listen, a passage to
+   write, a decision — exists as a PR, never only as a chat message
+   or a mental note. The open-PR queue IS the author's to-do list.
+   Reading/writing tasks ship as the PR whose merge concludes them
+   (an adoption read IS the adoption PR, with the reading copy and
+   audio linked in the body), so finishing the task and recording
+   the outcome stay one motion.
 
 ## The PR taxonomy — ten types
 
