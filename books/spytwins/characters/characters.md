@@ -114,6 +114,28 @@ _Local to Book 1; not necessarily recurring._
   evil so much as desperate and misguided.
 - **Coach Chen** — Amanda's soccer coach back in Seattle (mentioned only).
 
+## Book-2 guest cast (Tokyo)
+
+_Local to Book 2; not necessarily recurring. Named per the ratified
+slate in `plots/book-02-japan.md` (options memo:
+`notes/b2-naming-options-2026-08-02.md`)._
+
+- **Kenta Hamada** — the twins' friend, 11–12; his family runs the
+  fresh-fish stall on Mutsumi-dori. Dawn job: raking the crushed ice
+  flat before the fish go out — his hands are always cold when they
+  shake. Market aunties call him Ken-chan; the koban officer,
+  Hamada-kun. Learning English at school ("I'm still learning").
+- **Rin Ogawa** — the little painter, 8; Fumi Ogawa's grandchild.
+  Answers in single words until trust lands, then won't stop
+  narrating every color Grandma ever mixed.
+- **Fumi Ogawa** — the late muralist (born ~1946). Painted the row's
+  shutter mural, erased in the renovation; signed each panel with a
+  small hiragana ふ. Painted on rainy mornings, when the row opened
+  late and nobody hurried.
+- **The koban officer** — kind, procedural, constrained by the
+  complaint-required law (see `notes/japan-research-2026-08-02.md`).
+  [TK name — only if the book ever needs one.]
+
 ## Desires & fears (started 2026-07-29; ✅ = author-stated, locked)
 
 ### Andrew
