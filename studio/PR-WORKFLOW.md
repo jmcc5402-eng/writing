@@ -23,9 +23,21 @@ rule 7 ("decisions get recorded, not remembered") made mechanical:
    bookkeeping step, nothing to remember.
 3. **Request-changes comments become rulings.** The agent applies
    them, pushes, and the thread is the audit trail.
-4. **One PR = one decision.** Small, single-topic diffs the author
-   can judge from a phone in under two minutes. Bundling decisions
-   into one PR is a process bug.
+4. **One PR = one decision — enforced hard.** Small, single-topic
+   diffs the author can judge from a phone in under two minutes.
+   An OUTLINE PR approves the outline as drafted, nothing else;
+   every open ruling inside it ships as its OWN DECISION PR whose
+   diff is just that ruling. Bundling is a process bug the author
+   answers with "split this." (Evidence: PR #1, 2026-08-02 —
+   an outline approval bundled five rulings and the author couldn't
+   tell what they were approving.)
+5. **Show the passage.** If a decision touches prose — a line, a
+   beat, a scene — the PR body QUOTES the passage in question, so
+   the author decides from the body alone without opening a diff.
+   AUTHOR-INPUT PRs include the stub plus the paragraphs around it,
+   in the body. A body must be decidable in under a minute; options
+   are one-liners. If the author has to go find the context, the PR
+   is malformed.
 
 ## The PR taxonomy — ten types
 
@@ -53,8 +65,10 @@ e.g. `[spytwins][OUTLINE] Book 2 Japan — 12 chapters, 2 flags`
 
     Type: <TYPE>          Blocked work: <what waits on this>
     Ask: <one sentence>
+    Passage: <the quoted lines this decision touches, when prose is
+             involved — the author decides from the body alone>
     Context: <max 3 lines>
-    Options: A (recommended, applied in this diff) / B / C
+    Options: A (recommended, applied in this diff) / B / C — one line each
     Deadline pressure: <none | date + why>
 
 ## Triage rules for the author
