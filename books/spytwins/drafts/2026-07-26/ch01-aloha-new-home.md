@@ -167,7 +167,7 @@ passing the bowl of tropical fruit salad.
 
 "It's called the same three meats you make in Seattle," their mom said,
 but she was smiling.
-"Anyway — there's a great soccer program
+"Anyway — there's a great beach soccer program
 at the community center, Amanda.
 And Mrs. Kalani says Kekoa teaches surf lessons.
 You should learn while we're living on an ocean.
@@ -191,7 +191,7 @@ not the toy kind that die at the end of a driveway.
 "Whoa," Andrew said. "Wait — for both of us?"
 
 "One each," their dad said.
-"Deciding who gets which one — that part you share.
+"Deciding who gets which one — you two get to decide.
 Which I'm sure will go perfectly."
 
 Before either twin could open negotiations,
