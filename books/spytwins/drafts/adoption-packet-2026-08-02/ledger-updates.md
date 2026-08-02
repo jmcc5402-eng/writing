@@ -1,3 +1,8 @@
+> **RESOLVED (author, 2026-08-02, PR #5): Option B — strict
+> counting; the ch9 callback is CUT from the v2 text. B1 winks:
+> ch1 / ch4 / ch11-fieldcraft. Series dial recorded in the
+> premise: reader suspicion starts ~book 8+.**
+
 > **RESOLVED (author, 2026-08-02, PR #3): Option B.** The arrival
 > stays unexplained and spends no wink (premise canon decision:
 > unexplained logistics are not winks). Use the B-variant cells

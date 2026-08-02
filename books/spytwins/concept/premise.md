@@ -172,6 +172,11 @@ The project evolved across several years of drafts. These are now **locked**:
   unfilled; an unexplained event spends wink budget only if the text
   points at it — a character asks, or the narration lingers. B1's
   winks remain ch1 / ch4 / ch11-fieldcraft.
+- **[Canon decision, author 2026-08-02] The suspicion dial: book 8+.**
+  Readers should not REALLY start wondering about the parents until
+  around book 8. Wink accounting stays strict (callbacks count); when
+  a beat doesn't buy enough, cut it — B1's ch9 recall of Mom's
+  blind-spot line is CUT from the v2 text under this ruling.
 
 ## Open questions to settle later
 

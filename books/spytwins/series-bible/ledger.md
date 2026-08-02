@@ -29,7 +29,9 @@ cite Book 1 chapters; T## IDs refer to that book's THREADS.md.
   RULES: clues are small and deniable, always — enjoyable only on
   re-read (premise [Canon decision]); the twins never treat a clue as
   more than "Sometimes you guys are so weird"; the twins do not piece
-  it together until late in the series. Whether they learn ANYTHING
+  it together until late in the series. Suspicion dial (author,
+  2026-08-02): READERS should not really wonder until ~book 8+ —
+  budget strictly, cut marginal winks. Whether the twins learn ANYTHING
   before Arc 4 is an OPEN question (premise.md / STATUS.md) — no book
   may quietly settle it.
 - **S02 — The agency and "the woman" (the parents' boss)** | knowledge
