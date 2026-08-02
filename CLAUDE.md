@@ -15,7 +15,7 @@ books/
 studio/        Cross-book material: style, process, pitch packaging
   series-kit/  The templates for starting a NEW series — start there
 .claude/
-  agents/      The writers' room — nine specialists, usable on any book
+  agents/      The writers' room — twelve specialists, usable on any book
   skills/      /new-book-outline, /triage
 ```
 
@@ -104,7 +104,7 @@ a book moves through.
 
 ## The writers' room
 
-Nine specialists in `.claude/agents/`, available to every book:
+Twelve specialists in `.claude/agents/`, available to every book:
 
 | Agent | Use it for |
 |---|---|
@@ -119,6 +119,7 @@ Nine specialists in `.claude/agents/`, available to every book:
 | `market-pitch-agent` | Comps, query letters, synopses, publishing strategy |
 
 | `junior-literary-critic` | A two-part outside read: one-page critique + one-page recommendations |
+| `showrunner` | The program manager: surveys every book, ranks next jobs, preps briefs and PRs |
 
 Plus two skills: `/new-book-outline` and `/triage` (the author's PR
 queue console — see `studio/PR-WORKFLOW.md`).

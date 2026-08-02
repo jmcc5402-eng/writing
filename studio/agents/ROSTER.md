@@ -35,6 +35,7 @@ Rules of the project:
 | `market-pitch-agent` | 1.1.0 | inherit | Comps, queries, synopses, publishing strategy |
 | `junior-literary-critic` | 1.1.0 | inherit / high | Two-part outside read: one-page critique + one-page prioritized recommendations |
 | `gtm-strategist` | 1.0.0 | inherit / high | Go-to-market strategy and portfolio economics; materials stay with market-pitch-agent |
+| `showrunner` | 1.0.0 | inherit / high | Program manager: computes every book's state from files, ranks next jobs, preps briefs and typed PRs; never writes, decides, or merges |
 
 Plus the skills `/new-book-outline` (`.claude/skills/new-book-outline/`)
 and `/triage` 1.0.0 (`.claude/skills/triage/` — the author's PR queue

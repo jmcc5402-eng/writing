@@ -3,6 +3,22 @@
 Newest first. Every entry: version, what changed, and the evidence that
 drove it.
 
+## 2026-07-30 — showrunner 1.0.0 (new)
+
+Author-requested: a proactive lead-writer/program-manager agent that
+surveys every book and recommends/kicks off the next job. Fills the
+vacancy the 2026-07-30 artifact study documented: the acceptance/
+kickoff step was the only pipeline stage with no owning agent, and
+the stale STATUS.md proved stored status boards rot — so the
+showrunner's first rule is compute-state-from-files, store nothing.
+Remit boundaries: ranks and preps (briefs for dispatchable jobs,
+typed PR specs for author gates per PR-WORKFLOW.md); never writes
+prose, never decides canon, never merges. Variance-EXEMPT by design:
+scheduling judgment must be stable run-to-run; a lens card would
+churn priorities between mornings. Ties rotate deterministically
+(release-train date, then alphabetical). Phase 2 slot: the nightly
+Routine driver.
+
 ## 2026-07-30 — /triage skill 1.0.0 (new)
 
 Author-requested, implementing `studio/PR-WORKFLOW.md` (the author-as-
