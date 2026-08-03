@@ -29,3 +29,4 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-02 | showrunner (spytwins, first board) | — exempt by design | board delivered in-session |
 | 2026-08-02 | drafting-assistant (spytwins B1 adoption prep) | D1 sound-forward | drafts/adoption-packet-2026-08-02/ |
 | 2026-08-02 | culture-researcher (spytwins B2 naming slate) | A4 contrarian comp | notes/b2-naming-options-2026-08-02.md |
+| 2026-08-02 | culture-researcher (spytwins B1 Hawaii pass) | A1 adversary-first | notes/hawaii-culture-pass-2026-08-02.md |
