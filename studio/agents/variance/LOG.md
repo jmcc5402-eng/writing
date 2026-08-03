@@ -32,4 +32,5 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-02 | culture-researcher (spytwins B1 Hawaii pass) | A1 adversary-first | notes/hawaii-culture-pass-2026-08-02.md |
 | 2026-08-03 | line-copy-editor (spytwins B1 culture fixes) | E5 dialogue mechanics first | adoption branch manuscript + CHANGELOG |
 | 2026-08-03 | continuity-keeper (spytwins B1 staging sweep) | E3 reverse-order sweep | report in-session |
-| 2026-08-03 | developmental-editor (spytwins B1 Hauge timing) | E6 weight what's missing | report in-session |
+| 2026-08-03 | developmental-editor (spytwins B1 Hauge timing) | E6 weight what's missing | notes/b1-timing-audit-2026-08-03.md |
+| 2026-08-03 | line-copy-editor (spytwins B1 staging fixes) | E1 template hunt | adoption branch manuscript + CHANGELOG |
