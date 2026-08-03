@@ -2,14 +2,12 @@
 SPYTWINS — BOOK 1
 Title: The Petroglyph Mystery
 Setting: Maui, Hawaii
-Status: v2 ADOPTION CANDIDATE (12 chapters), staged 2026-08-02.
-Assembled from drafts/2026-07-26 (ch1-4) and drafts/2026-07-27
-(ch5-12) with the engine-alignment punch-list §A fixes applied
-(see drafts/ADOPTION-PREP-NOTES-2026-08-02.md). On author merge this
-file replaces manuscripts/book-01-hawaii/manuscript.md, together with
-the CHANGELOG entry and THREADS update staged beside it.
-PENDING: PR-3 (ch11 parents' arrival — Option B text currently in
-place); culture-researcher pass on all flagged [CHECK] items.
+Status: v2 ADOPTION CANDIDATE (12 chapters), staged 2026-08-02;
+author read-pass edits ch1-2 and the Hawaii culture-pass fixes
+applied 2026-08-03 (see CHANGELOG and
+notes/hawaii-culture-pass-2026-08-02.md). All PR #3-#5 rulings
+resolved in. No [CHECK] markers remain. OPEN: series orthography
+policy (culture-pass flag 5); the author's own voice pass.
 -->
 
 # The Petroglyph Mystery
@@ -138,7 +136,9 @@ strange markings carved into the rocks.
 
 "Those old petroglyphs?" Kekoa shrugged.
 "They've always been there.
-Nobody pays much attention to them anymore."
+Most people walk right past them.
+My grandmother says the rocks can wait;
+they've got more patience than people."
 
 "What's a petroglyph?" Amanda asked,
 squinting at the strange marks on the volcanic rock.
@@ -147,13 +147,20 @@ already starting to sketch the curved lines.
 
 "It's like ancient Hawaiian graffiti," Kekoa explained with a grin.
 "Except way more important.
+Ki'i pōhaku, we call them. Images in stone.
 Our ancestors carved these symbols into rocks
 to tell stories or mark special places."
 
 "So these aren't just random scratches?"
-Amanda traced her finger along one of the deeper grooves.
+Amanda reached out to trace one of the deeper grooves.
 
-"No way! Each symbol meant something to them.
+"Eyes, not fingers," Kekoa said. "Skin wears them away.
+My grandmother's rule."
+
+Amanda pulled her hand back and sketched the groove instead.
+
+"No way are they random," Kekoa went on.
+"Each symbol meant something to them.
 Like this spiral here — the big loose one, like a wave?
 It could represent the ocean, or maybe even eternity.
 My grandmother knows all about them —
@@ -394,7 +401,6 @@ Very expensive, I'm told. The board grumbled for months."
 Mrs. Kalani chuckled and led them back toward the entrance,
 stopping at a placard on a wooden stand by the door.
 It announced the center's annual blessing ceremony,
-[CHECK: Hawaiian name and cultural accuracy — culture-researcher]
 with a painted date less than three weeks away.
 "The whole town comes," Mrs. Kalani said, tapping the placard twice.
 "Every piece you saw today gets blessed that morning.
@@ -655,7 +661,7 @@ The twins crammed the rest of their lunch into their backpacks
 and headed for the trail.
 
 "Hold the tape steady," Amanda said, sketching quickly.
-Andrew pinned his end of the measuring tape against the rock
+Andrew held his end of the tape a careful inch off the rock
 and took photos from every angle he could manage one-handed.
 
 "Forty-two inches from the fishhook to the spiral," Amanda read off,
@@ -816,13 +822,17 @@ two empty cases now, side by side —
 and Amanda heard her murmur, half to herself,
 "Two artifacts gone, and the date hasn't moved an inch.
 The ceremony is in two and a half weeks.
-Ready or not."
+Ready or not.
+We have blessed the collection every year
+since the center opened. My mother stood on these mats."
 
 In the office, Kekoa pulled Andrew to the window
 and pointed at the volcanic hills rising toward the clouds.
 "There are supposed to be sacred sites hidden all up there.
 Places where ancient Hawaiians performed ceremonies
-and hid important treasures." He lowered his voice.
+and kept things that mattered —
+and some places you don't go into at all. Ever."
+He lowered his voice.
 "Some people say there are still undiscovered sites
 in the lava tubes. Whole tunnels nobody's mapped."
 
@@ -943,7 +953,7 @@ noticing Andrew and Amanda staring at her.
 "I, uh, just heard a commercial about it on the radio.
 You know, one of those home security ads. Fascinating stuff."
 She stood up suddenly, gathering plates.
-"Who wants dessert? I bought coconut pie!"
+"Who wants dessert? I bought haupia pie!"
 
 Andrew and Amanda exchanged glances
 as their mom hurried into the kitchen.
@@ -1062,7 +1072,8 @@ The sea turtle looked at Andrew.
 Andrew, flat on his board, looked at the sea turtle.
 
 "Honu," Kekoa called over. "Green sea turtle.
-Don't touch — it's the law, and also she'll judge you."
+Don't touch, don't follow — give her ten feet.
+It's the law, and also she'll judge you."
 
 "She's already judging me," Andrew said.
 The honu sank away under the glassy water without a ripple,
@@ -1118,9 +1129,13 @@ and propped it up as a light.
 
 "I downloaded a reference guide last night," he said,
 scrolling with one careful finger.
-"University of Hawaii digital archive. Petroglyph field survey.
-Look — this spiral form marks a sacred place.
-And these straight lines under a symbol show direction of travel."
+"A digital archive of old island field surveys.
+The survey says nobody knows most of the meanings for sure.
+But the one team that mapped this district
+guessed the spiral marks a sacred place,
+and the lines show direction of travel.
+And spirals are almost never found in Hawaii.
+This hillside is special."
 
 Amanda flipped pages fast: the loose spiral by their house,
 the tight notched spiral on the trail,
@@ -1139,8 +1154,12 @@ the guide on one side,
 his storm photo of the vine-hidden upper symbols on the other.
 The photo was blurry and rain-spotted, but one frame had come out
 sharp enough to argue with.
-"There's a third symbol up there we never identified.
-This one — like a blade on a handle."
+
+"First lightning I've seen all year," Kekoa said,
+peering at the photo. "The mountain wanted you to look up."
+
+"There's a third symbol up there we never identified," Andrew said.
+"This one — like a blade on a handle."
 He turned the tablet so the guide filled the screen.
 "The guide has it. It's a ko'i. A stone adze.
 A carving tool."
@@ -1405,9 +1424,11 @@ because brushing one against your neck in the dark
 was an experience nobody needed twice.
 Their footsteps came back to them a half-second late.
 Every ten steps or so,
-Amanda knelt and built a little tower of three stones —
-big, medium, small, always in that order —
-setting each one down with two fingers like she was placing a bet.
+Amanda knelt and clipped three clothespins to a rock edge
+or a root, each one flagged with a square of the reflective
+tape Kekoa banded his flashlights with —
+big square, medium, small, always in that order —
+setting each one with two fingers like she was placing a bet.
 
 "Breadcrumbs," Kekoa said, checking his phone. "Smart. No bars
 in here, by the way. Zero. We are officially in the old world."
@@ -1492,13 +1513,16 @@ I'm just — briefly unconvinced about directions."
 "We're not lost," Amanda said.
 
 She dropped to a crouch, ran her light low along the floor,
-and there it was, at the junction ahead:
-three stones. Big, medium, small.
+and there it was, at the junction ahead,
+throwing her beam straight back at her:
+three tape flags. Big, medium, small.
 
 "That way."
 
-Tower by tower, her breadcrumbs walked them backward
-through the dark — every pile exactly where her hands had left it —
+Marker by marker, her breadcrumbs walked them backward
+through the dark — every pin exactly where her hands had left it,
+and every pin unclipped and pocketed as they passed,
+because you leave the mountain the way you found it —
 until gray light bloomed ahead
 and they came up blinking into the late afternoon,
 ferns catching at their arms, the sun impossibly ordinary.
@@ -1535,10 +1559,10 @@ behind his back, because he was incapable of not showing off.
 
 Andrew's stick wobbled on the return catch, but the ball stayed in.
 "No treasure. Some old lava tubes near the trail.
-Granola bar wrappers. And Amanda making little rock piles
+Granola bar wrappers. And Amanda clipping little tape markers
 about every ten feet, like a very organized squirrel."
 
-"Rock piles." His dad sent the next throw higher.
+"Tape markers." His dad sent the next throw higher.
 
 "So we couldn't get lost." Andrew tracked it, moved his feet,
 and the catch landed soft and clean, barely a wobble.
@@ -1563,7 +1587,7 @@ That night, teeth brushed, Andrew poked his head
 into Amanda's room. She was sitting cross-legged on her bed,
 drawing in the notebook by lamplight —
 the tunnels, from memory, fork by fork,
-her three-stone towers marked as tiny triangles.
+her tape flags marked as tiny triangles.
 
 "We need to go back," he said. "Tomorrow?"
 
@@ -1666,8 +1690,8 @@ and his hand came up and smoothed his cowlick, once.
 "Reading them," Amanda said. "First."
 
 They read the article in whispers.
-"'Dr. Lee claimed to have evidence of an unknown ancient
-migration pattern,'" Amanda read,
+"'Dr. Lee claimed to have evidence that this district
+was settled centuries earlier than accepted,'" Amanda read,
 "'but the university called his methods
 unorthodox and unsupported.'"
 She clicked through. "Look — he spent years cataloguing
@@ -1769,8 +1793,9 @@ The canvas bag hung flat and empty on a nail by the door.
 
 "Lauhala," Kekoa said quietly. "She weaves the mats and fans
 for the blessing ceremony. Every year, since forever.
-She gathers the leaves up the trail at dawn —
-before the sun gets to them.
+She gathers the fallen leaves along the lower trail at dawn —
+she says the best ones go fast, and the afternoon rain
+spoils the rest.
 My grandmother says nobody else's weaving
 even gets to sit on the same table."
 
@@ -1782,7 +1807,8 @@ Mrs. Santos's hands never stopped, but her chin came up,
 and she looked straight at them
 with the same flat expression as her window.
 
-"The mats take three weeks," she said. "The ceremony won't wait
+"The new mats take three weeks. The leaves took a year,"
+she said. "The ceremony won't wait
 for anybody. Neither will I." Her eyes went back to her work.
 "You'll get your mat to stand on, same as the whole town."
 
@@ -2565,8 +2591,8 @@ Their mom started setting out plates.
 
 "Now wait a minute," Uncle Jacob said.
 "You're grounding them in Hawaii?
-The rainy season's coming. They don't have much time left
-for outdoor adventures."
+You've only got two months left on that island.
+Best hiking weather of the year is right now."
 
 "Jacob," their mom warned.
 
@@ -2932,7 +2958,8 @@ under the lantern, eight feet away, gleaming and stolen.
 "The alignment," Dr. Lee said, turning to the slab,
 "is the proof itself. Look. Hook, bowl, adze —
 spaced exactly as the chamber wall shows them.
-This site confirms a migration the university swears never happened.
+This site proves the district was settled centuries
+before the university says anyone was here.
 When the world sees this arrangement, photographed in situ—"
 
 "In the place it belongs," Amanda said.
@@ -3009,11 +3036,12 @@ his back settling toward the entrance tunnel.
 which carving convinced you first."
 
 "This one." He raised the lantern to the stone, glowing.
-"The double-hulled canoe. See the sail? The old texts insist—"
+"The double-hulled canoe. See the sail? Everyone insists—"
 
 Blazer stood up, nose aimed at the entrance, tail low and still.
 
-"—the old texts insist the crossing was impossible, but—"
+"—everyone insists this district was settled three centuries
+later, but the carvings prove voyagers were here—"
 Dr. Lee stopped. He had seen the dog.
 He turned.
 
@@ -3101,6 +3129,9 @@ Mrs. Kalani said to Andrew. "In my day we called that impossible."
 "It's just line of sight," Andrew said, going red.
 "Well. Line of tube."
 
+"Next time," Mrs. Kalani said, "you knock first.
+Even on a mountain."
+
 One officer read Dr. Lee his rights, gently,
 while the other crouched over the slab,
 wrapping the fishhook in soft protective cloth
@@ -3109,13 +3140,19 @@ which may have been why he started talking.
 
 "I just wanted them to listen," he said, head in his hands.
 "The university dismissed my research without reading it.
-Without measuring anything. These artifacts prove the migration —
-the alignment proves it—"
+Without measuring anything. These artifacts prove the settlement
+date — the alignment proves it—"
 
 "Your research might even have merit, Dr. Lee,"
 Mrs. Kalani said quietly.
 "But stealing what belongs to everyone
 is never the way to prove you were right about anything."
+
+She looked up at the carved walls for a long moment.
+"A place of records. Voyages, names, seasons —
+carved where they would keep.
+Not a burial place; those we would never speak of like this,
+and never enter."
 
 "How did you even find us?" Kekoa asked his grandmother.
 "I only told you banyan tree and follow the clicks."
@@ -3332,9 +3369,11 @@ Underfoot, everywhere, lay the pale woven mats,
 their edges tight and perfect,
 and across the room Mrs. Santos stood beside her stack of spares
 with her chin up,
-watching six hundred feet stand on three weeks of her work.
+watching six hundred feet stand on sixty years of her work.
 
-An elder blessed the artifacts and the hall and the people in it,
+A kahu — Kekoa whispered that it meant
+something between minister and guide —
+blessed the artifacts and the hall and the people in it,
 and though the twins couldn't follow every word,
 they could follow the silence around the words,
 which was the kind that made even Blazer,
@@ -3345,6 +3384,10 @@ In the center of the room, under the soft spotlights,
 stood the display cases.
 
 The bone fishhook. The ceremonial bowl. The ko'i.
+
+The kahu moved down the row of cases as he chanted,
+dipping a ti leaf into a koa bowl of salt water
+and scattering bright drops over each one as he passed.
 
 Amanda had heard the promise on her second Saturday on Maui,
 standing in this room while Mrs. Kalani tapped the placard twice.
@@ -3375,6 +3418,11 @@ finding the twins in the crowd with one hand,
 to solve old mysteries."
 
 The twins were pulled up front, burning red the entire way.
+
+"And my grandson," Mrs. Kalani said, "who ran."
+
+The crowd passed Kekoa up front too, still filming,
+filming mostly his own feet by the end of it.
 Mrs. Kalani draped a lei over each of their necks,
 and then held up two woven bracelets,
 worked through with tiny dark symbols —
@@ -3382,8 +3430,9 @@ a loose spiral, a tight notched spiral, a little leaning line —
 the very shapes they had measured in the rain.
 
 "In old Hawaii," she said, fastening the first bracelet
-around Amanda's wrist, "young people were often the ones
-who carried important messages between villages.
+around Amanda's wrist, "the kūkini — the swift runners —
+carried messages between villages.
+They were chosen young, for sharp eyes and fast feet.
 They saw things others missed."
 She fastened Andrew's. "Just as these two did."
 

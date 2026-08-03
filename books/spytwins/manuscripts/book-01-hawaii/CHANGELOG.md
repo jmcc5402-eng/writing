@@ -116,3 +116,78 @@ authorities: `drafts/ADOPTION-PREP-NOTES-2026-08-02.md`):
   "Of rocks?" read as a typo to the author; now "A tourist?" / "Taking
   a hundred pictures of one rock?" (same beat: Andrew's skepticism
   plants the unnamed photographer).
+
+## Culture-pass fixes (2026-08-03) — applied to the adoption text
+Applied per `notes/hawaii-culture-pass-2026-08-02.md`. All passages
+located by quoted text (the note's line numbers refer to the packet
+copy). Line/copy pass only — no plot, structure, or canon changes.
+- **Honu (pass §5):** ch5 — Kekoa's line extended to model the full
+  rule: "Don't touch, don't follow — give her ten feet."
+- **Lauhala (§2, ×3):** ch7 — gathering line now fallen leaves along
+  the lower trail (dawn kept, reason corrected); "The mats take three
+  weeks" → "The new mats take three weeks. The leaves took a year.";
+  ch12 — "three weeks of her work" → "sixty years of her work."
+- **Weather clock (§6):** ch10 — Uncle Jacob's backwards rainy-season
+  line → "You've only got two months left on that island. Best hiking
+  weather of the year is right now."
+- **Lightning rarity (§6):** ch5 cave — Kekoa's acknowledgment added
+  at the storm-photo beat ("First lightning I've seen all year. The
+  mountain wanted you to look up."); Andrew's following line gained a
+  said-tag to keep speakers clear.
+- **Ki'i pōhaku (§4):** ch1 — Kekoa names the term once in the
+  petroglyph intro: "Ki'i pōhaku, we call them. Images in stone."
+- **No-touch ×2 (§4):** ch1 — Amanda's finger-trace cut; Kekoa's
+  "Eyes, not fingers" correction added and Amanda sketches instead
+  (his "No way!" reply reworded to "No way are they random," with a
+  tag, so the exchange still tracks); ch3 — measuring tape now "held
+  ... a careful inch off the rock."
+- **"Nobody pays attention" (§4):** ch1 — → "Most people walk right
+  past them. My grandmother says the rocks can wait; they've got more
+  patience than people." ("Graffiti" line kept, with its correction,
+  per the pass.)
+- **Survey source (§4):** ch5 — UH attribution fictionalized to "a
+  digital archive of old island field surveys"; meanings-unknown
+  hedge and spiral-rarity line added to Andrew's speech ("Hawaii"
+  spelled per current manuscript style — see orthography note).
+- **Kūkini (§7):** ch12 — messenger line replaced with the kūkini
+  version ("the swift runners... chosen young, for sharp eyes and
+  fast feet").
+- **Records-place (§4):** ch11 — Mrs. Kalani's line added after her
+  rebuke of Dr. Lee: "A place of records... Not a burial place; those
+  we would never speak of like this, and never enter."
+- **Treasure-cave line (§4):** ch4 — Kekoa's "hid important
+  treasures" → "kept things that mattered — and some places you don't
+  go into at all. Ever."
+- **Knock-first (§4):** ch11 — Mrs. Kalani, after the beacon praise:
+  "Next time, you knock first. Even on a mountain."
+- **Ceremony (§1):** ch12 — "An elder" → a kahu, with Kekoa's
+  whispered gloss; pī kai beat added (ti leaf, salt water, koa bowl,
+  moving past the cases); ch4 — Mrs. Kalani roots the tradition
+  locally ("We have blessed the collection every year since the
+  center opened. My mother stood on these mats."); ch2 — placard
+  [CHECK] deleted; the placard stays plain "annual blessing ceremony,"
+  no Hawaiian coinage.
+- **Haupia (§6):** ch4 — "coconut pie" → "haupia pie."
+- ⚠ **Breadcrumb swap (flag 2, applied per recommendation):**
+  Amanda's three-stone towers → clothespin markers flagged with
+  squares of Kekoa's reflective tape, big-medium-small as flag sizes,
+  collected on the way out ("leave the mountain the way you found
+  it"); ch6 payoff lines, the dad wall-ball scene ("Rock piles." →
+  "Tape markers."), and the map-drawing line updated mechanically.
+  Comment to revert if the rock-tower beat should stand.
+- ⚠ **Dr. Lee's theory narrowed (flag 3, applied per
+  recommendation):** migration-denied / voyaging-impossible claims →
+  a district-settlement-date claim, in four dialogue spots (ch7
+  article quote; ch11 alignment speech; ch11 canoe-wall "old texts
+  insist the crossing was impossible"; ch11 arrest-scene "prove the
+  migration"). Kekoa's ch5 master-navigators line untouched. Plot
+  mechanics unchanged. Comment to revert.
+- ⚠ **Third lei (flag 4, applied per recommendation):** ch12 — Mrs.
+  Kalani pulls Kekoa up too ("And my grandson, who ran"); lei count
+  now three, twins' bracelets unchanged. Comment to revert.
+- **Open decision (flag 5):** series orthography is NOT settled and
+  nothing was normalized — every existing spelling stands (ko'i,
+  ki'i, lilikoi, lanai, Hawaii, straight apostrophes). New lines use
+  the pass's terms with straight apostrophes (ki'i pōhaku, kūkini)
+  and the manuscript's current "Hawaii," pending the series-wide
+  ruling.
