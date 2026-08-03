@@ -251,3 +251,8 @@ Friday→Saturday weather drift, Hawaiian orthography.
     fork — before he arrives out of the tunnel at a dead run.
 19. ch12: one clause added — Kekoa brought the drone over for the
     occasion — before he picks up his controller.
+- ch9 author read-pass edits (2026-08-03): camera line made plain
+  ("go dark at the same time"); the pillows guilt-callback now names
+  Mrs. Kalani so the ch8 plant connects at listening distance; the
+  CLOSED sign explicitly placed on the cultural center's doors
+  (route line had made it read as the library's).

@@ -2294,8 +2294,9 @@ and whispered into the dark.
 A pause. Then, very quietly, through the wall:
 "I'm here. Over."
 
-"I keep thinking about the pillows.
-The extra ones she stacked on the pull-out couch. Over."
+"I keep thinking about Mrs. Kalani.
+How she stacked those extra pillows for us,
+like it was a real sleepover. Over."
 
 A longer pause.
 
@@ -2347,7 +2348,7 @@ where a chat window hid behind the periodic table.
 Andrew read the last messages twice.
 Someone really knows what they're doing.
 Someone who knew where every camera pointed
-and how to make all of them sleep at once.
+and how to make every camera go dark at the same time.
 
 He was leaning over to show Amanda the chat
 when her teacher's voice came crackling out of her laptop.
@@ -2378,8 +2379,8 @@ And take Blazer — he's been dramatic since breakfast."
 Blazer was through the door before the leash was.
 
 They took the center way to the library.
-The police tape was gone from the doors,
-but the hand-lettered CLOSED sign still hung there,
+At the cultural center, the police tape was gone from the doors,
+but the hand-lettered CLOSED sign still hung,
 one shade paler than it had been on Monday.
 
 Blazer trotted past the entrance without a glance —
