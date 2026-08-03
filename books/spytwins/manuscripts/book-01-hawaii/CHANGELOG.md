@@ -194,3 +194,60 @@ copy). Line/copy pass only — no plot, structure, or canon changes.
 - ch1: the five-family-dinners rule added to the lanai dinner (author
   ruling, 2026-08-03) — a standing ch1 fixture from now on; the kids
   enforce it, Andrew keeps the tally.
+
+## Staging fixes (2026-08-03) — scene-continuity sweep applied
+Applied per `notes/b1-staging-sweep-2026-08-03.md` (continuity-keeper
+scene-staging sweep). All passages located by quoted text — the note's
+line numbers refer to a pre-five-dinners snapshot. Surgical wording
+fixes and minimal transit beats only; no plot, canon, or voice changes.
+Items deliberately left alone per the sweep: parents' unexplained
+tunnel arrival, eight-vs-nine-days banter, "three empty cases,"
+Friday→Saturday weather drift, Hawaiian orthography.
+1. ch11: "Kekoa's radio still held out in front of her" → "the radio"
+   (it's Amanda's, lent in ch10).
+2. ch10: propagation test now bracketed — Amanda flips Kekoa her radio
+   for the test ("clipped it to his belt") and he hands it back after —
+   so the junction handoff ("pressed it into Kekoa's hands") stays the
+   first real handoff.
+3. ch10/ch11: vow arithmetic — "lasted four hours" → "lasted half an
+   hour"; "promised myself that morning" → "at lunch" (vow is
+   end-of-lunch).
+4. ch9: "It rained Sunday" → "It rained Saturday" (ch6: Saturday
+   showers, Sunday bright).
+5. ch9: "Eleven minutes of lunch break left" → "A few minutes" (the
+   errand count didn't add up).
+6. ch7: "at the yard next door" → "at the yard beyond theirs" (street
+   order: Santos | Wilsons | Kekoa).
+7. ch7: "Fifty-eight seconds yesterday" → "last try" (Sunday had no
+   drone session).
+8. ch11: Andrew's bowl claim "over five hundred years old" → "as old
+   as the fishhook, maybe older" (only the fishhook's age is
+   established; comparative hedge fits his data-checking voice).
+9. ch3: locked-front-door plant — arrival beat added ("the front door
+   was still locked, and Mrs. Kalani came around from her desk with
+   her ring of keys to let them in"), so Andrew's deduction is planted
+   and fair.
+10. ch1: crossing beat added, porch → Kekoa's yard, before the
+    controller reaches Andrew's hands.
+11. ch1: approach beat added — Amanda goes over to the property-line
+    rocks before the sketch/no-touch exchange.
+12. ch3: lunch → carvings transit expanded to a two-beat walk (short
+    climb from the banyan up to the gulch, tape out on arrival) so the
+    move is audible on audio.
+13. ch8: ten-quiet-minutes walk added from Kekoa's down the road to
+    the center before the garden gate.
+14. ch6: breadcrumb markers staged at tunnel prep — Kekoa surrenders
+    his reflective-tape roll, clothespins already in Amanda's pack;
+    the use-time line trimmed to "Kekoa's reflective tape" to avoid
+    explaining the roll twice.
+15. ch5: Andrew's tablet (zipped into its dry bag) added to the beach
+    inventory line, so it can light the cave later.
+16. ch2: Amanda parks her soccer ball by the library door — it no
+    longer ghost-follows her through the museum and trail.
+17. ch9: "The way to the library ran past the cultural center" →
+    "They took the center way to the library" (keeps ch2's different
+    route consistent).
+18. ch11: one clause added — the officers parked Kekoa at the last
+    fork — before he arrives out of the tunnel at a dead run.
+19. ch12: one clause added — Kekoa brought the drone over for the
+    occasion — before he picks up his controller.

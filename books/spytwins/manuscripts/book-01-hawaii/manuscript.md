@@ -64,6 +64,9 @@ A teenage boy was flying it from the neighboring yard.
 The boy grinned and brought it down into a low, steady hover.
 "It's a Mavic 4 Pro. I'm Kekoa. You guys just moved in?"
 
+Bags abandoned on the porch, the twins drifted across
+the strip of grass between the yards, Blazer towing Amanda ahead.
+
 "Only for three months," Amanda replied.
 "I'm Amanda, and that's my twin brother Andrew.
 Oh — and this is Blazer," she added
@@ -139,6 +142,8 @@ strange markings carved into the rocks.
 Most people walk right past them.
 My grandmother says the rocks can wait;
 they've got more patience than people."
+
+Amanda went over for a closer look, Andrew on her heels.
 
 "What's a petroglyph?" Amanda asked,
 squinting at the strange marks on the volcanic rock.
@@ -340,7 +345,8 @@ he said, still watching the musician.
 "Nice try." Amanda grabbed his arm.
 "Mom already said not until high school. Now hurry up."
 
-At the local library, Andrew discovered an entire shelf
+At the local library, Amanda parked her soccer ball by the door.
+Andrew discovered an entire shelf
 dedicated to Hawaiian mythology and technology
 and vanished into it.
 Amanda slumped in a chair near the bulletin board,
@@ -517,7 +523,9 @@ and walked past them without one word.
 "No idea." Amanda wrote it in her notebook anyway:
 Mrs. Santos. Trail. 7 a.m. Bag. Wouldn't say hi.
 
-At the cultural center, Mrs. Kalani looked up from her desk,
+At the cultural center, the front door was still locked,
+and Mrs. Kalani came around from her desk with her ring of keys
+to let them in,
 her bright floral dress matching the cheerful orchids
 on the windowsill.
 
@@ -667,8 +675,12 @@ Love you two — bye!"
 
 The twins crammed the rest of their lunch into their backpacks
 and headed for the trail.
+From the banyan it was a short, steady climb,
+the beach sounds dropping away behind them,
+until the gulch opened up around the carved rocks.
+Amanda had the measuring tape out before her backpack hit the ground.
 
-"Hold the tape steady," Amanda said, sketching quickly.
+"Hold the tape steady," she said, sketching quickly.
 Andrew held his end of the tape a careful inch off the rock
 and took photos from every angle he could manage one-handed.
 
@@ -998,7 +1010,8 @@ with his heel, side by side, and pointed at them like a general.
 "Boards," he said. "Sand ones first. Nobody drowns on a sand board."
 
 The real boards lay up by the towels,
-next to Amanda's waterproof notebook
+next to Amanda's waterproof notebook,
+Andrew's tablet zipped into its dry bag,
 and the two walkie-talkies clipped together in Andrew's sneaker,
 where he had decided sand could not get into them.
 The early sun was already warm on their backs,
@@ -1421,6 +1434,11 @@ She thumbed hers; his crackled softly on his belt. "On."
 
 "Then let's be not-sure inside."
 
+Amanda held out a palm,
+and Kekoa surrendered the roll of reflective tape
+he banded his flashlights with;
+the clothespins were already waiting in her pack.
+
 The flashlight beams found smooth walls that glistened,
 a floor of ropey stone, the ceiling low and then suddenly high.
 The air changed ten steps in — cool, mineral, faintly damp,
@@ -1433,8 +1451,8 @@ was an experience nobody needed twice.
 Their footsteps came back to them a half-second late.
 Every ten steps or so,
 Amanda knelt and clipped three clothespins to a rock edge
-or a root, each one flagged with a square of the reflective
-tape Kekoa banded his flashlights with —
+or a root, each one flagged with a square of Kekoa's
+reflective tape —
 big square, medium, small, always in that order —
 setting each one with two fingers like she was placing a bet.
 
@@ -1762,7 +1780,7 @@ either of them had ever traveled through history.
 They found Kekoa in his backyard with the drone up,
 flying slow, patient circles around the clothesline.
 
-"Fifty-eight seconds yesterday," he reported, eyes on the sky.
+"Fifty-eight seconds last try," he reported, eyes on the sky.
 "Your brother's two seconds from figure eights. Here —"
 He handed Andrew the controller. "Fly and talk."
 
@@ -1788,7 +1806,7 @@ Nobody cheered, but Kekoa tapped the controller twice,
 which meant sixty-one seconds, which meant figure eights.
 
 They walked out front, planning in low voices —
-and slowed, all three of them, at the yard next door.
+and slowed, all three of them, at the yard beyond theirs.
 
 Mrs. Santos was on her porch.
 
@@ -1969,6 +1987,9 @@ that's the click. I tested it through my bedroom wall."
 
 "Of course you did," Amanda said, and clipped the radio
 inside her jacket, where her heartbeat could keep it company.
+
+Ten quiet minutes down the road took them to the center,
+nobody wasting a whisper on the way.
 
 The sun was going down as they slipped through the garden gate.
 The cultural center sat dark beyond the hedge,
@@ -2356,7 +2377,7 @@ And take Blazer — he's been dramatic since breakfast."
 
 Blazer was through the door before the leash was.
 
-The way to the library ran past the cultural center.
+They took the center way to the library.
 The police tape was gone from the doors,
 but the hand-lettered CLOSED sign still hung there,
 one shade paler than it had been on Monday.
@@ -2508,7 +2529,7 @@ in one long, heavy drag toward the trees.
 
 "Fresh," Andrew said, crouching.
 "Scraped stone doesn't stay pale outside. Rain darkens it.
-It rained Sunday. This happened after."
+It rained Saturday. This happened after."
 
 "Last night," Amanda said.
 "Everything else is already in place.
@@ -2532,7 +2553,7 @@ They ran the rest of the way home, Blazer delighted,
 the reference book slamming around in Andrew's backpack
 like a drum keeping time.
 Their parents' rental car sat in the driveway.
-Eleven minutes of lunch break left,
+A few minutes of lunch break left,
 and one afternoon left after that.
 
 At the bottom of the porch steps Andrew slowed.
@@ -2640,7 +2661,7 @@ They would be hiking. They would be with Kekoa.
 Mrs. Kalani would know where they were going —
 more or less. Roughly. In the largest possible sense.
 
-The vow on the porch had lasted four hours.
+The vow on the porch had lasted half an hour.
 
 I will pay for this later, Amanda promised herself instead,
 and it felt like the only promise left that she could keep.
@@ -2725,7 +2746,9 @@ that Andrew stopped and held up a hand.
 
 "Kekoa. Stay at the fork a second. I want to check something."
 
-Kekoa dropped back forty steps, around nothing at all —
+Amanda flipped Kekoa her radio for the test,
+and he clipped it to his belt.
+He dropped back forty steps, around nothing at all —
 one clean, straight barrel of stone between them.
 Andrew clicked his talk button twice.
 From Kekoa's belt, Amanda's radio answered instantly:
@@ -2748,7 +2771,8 @@ but straight down an open tube, it carries. Like shouting down a pipe."
 "Because last time it mattered," Andrew said.
 "And because I like knowing which tools work before I need them."
 
-They walked on. The tunnel forked, and forked again,
+Kekoa handed Amanda's radio back, and they walked on.
+The tunnel forked, and forked again,
 the carvings choosing for them each time.
 And then Blazer stopped.
 
@@ -3083,7 +3107,7 @@ I'm scared of dogs!"
 
 "He's not a beast," said Andrew, walking out of the dark
 with his radio still in his hand. "He's a very good boy.
-And that bowl is over five hundred years old,
+And that bowl is as old as the fishhook, maybe older,
 so I'd hold it really carefully and really still."
 
 "I didn't know Blazer could be so scary," Amanda whispered.
@@ -3098,7 +3122,7 @@ and stopped at the sight of a thin man
 hugging a bowl in front of a growling dog.
 Mrs. Kalani came in behind them,
 in her cardigan and her hiking shoes,
-Kekoa's radio still held out in front of her like a compass.
+the radio still held out in front of her like a compass.
 
 She took in the whole chamber in one long look —
 the walls, the slab, the twins, the bowl in Dr. Lee's arms —
@@ -3123,7 +3147,8 @@ so that she sat down on a rock somewhat ahead of schedule.
 
 The next hour happened in pieces.
 
-Kekoa arrived out of the tunnel at a dead run
+The officers had parked Kekoa at the last fork until it was over.
+He arrived out of the tunnel at a dead run
 and did not stop until he had hugged both twins and the dog.
 "It worked, it worked, the clicks worked —
 Tutu held the radio into every tunnel like a seashell,
@@ -3288,8 +3313,8 @@ I crossed my fingers under the table.
 I knew the hike wasn't the hike you meant.
 I picked words that were true
 and built something not-true out of them,
-and I did it on purpose, and I'd promised myself that morning
-I wouldn't, and I did it anyway."
+and I did it on purpose, and I'd promised myself,
+minutes before, that I wouldn't. And I did it anyway."
 
 The words came out heavier than she expected,
 and then she was lighter by exactly that much.
@@ -3593,7 +3618,8 @@ which had turned out to be a thing a person could do.
 
 Two more months here. And then an ocean. And then —
 
-As the sun dropped, Kekoa stood and picked up his controller.
+Kekoa had brought the drone over for the occasion.
+As the sun dropped, he stood and picked up his controller.
 "One last flight before dark?" he said — and then, instead
 of raising the drone, he held the controller out to Andrew.
 
