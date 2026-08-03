@@ -219,6 +219,19 @@ needs a new scene just to check a box, the box loses.
     S10 (the curriculum) toward the quietly formidable twins of the
     later arcs. Bond-seeded, never Bond-shaped: the age band holds.
 
+## Hawaiian orthography (series policy, author, 2026-08-03)
+
+For all books touching Hawaiʻi (B1 and any return): **ʻokina marked,
+no kahakō** — the trade-publishing compromise (culture-pass flag 5,
+option B): ko'i, ki'i pohaku, liliko'i, kukini, lanai, Hawaii, kahu,
+honu. Hawaiian words are NOT italicized (Hawaiian is an official
+language of the state; UH style). The ʻokina is rendered with the
+manuscript's existing apostrophe character. Applied as a mechanical
+sweep at the first line/copy pass after B1 adoption; new prose follows
+it immediately. (Alternative considered: full diacritics per UH style
+— most respectful, heavier for 8–12 readers and US keyboards; author
+may upgrade series-wide later, one sweep.)
+
 ## Warnings, not walls (author, 2026-07-29)
 
 Two tiers of rule, and auditors must report them differently.
