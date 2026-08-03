@@ -3,6 +3,17 @@
 Newest first. Every entry: version, what changed, and the evidence that
 drove it.
 
+## 2026-08-03 — continuity-keeper 1.2.0 → 1.3.0
+
+New standing check: scene staging — where each scene is and whether
+every movement inside it obeys the page (teleports, scene-interior
+drift, who's-present drift, in-scene object staging). Evidence: the
+author, listening to B1 ch3–4 audio, sensed an unmarked beach→
+petroglyph-rocks jump and asked "do we have checks on setting,
+specifically within a scene?" — the remit covered cross-chapter
+geography but not scene-interior staging. First production run: the
+2026-08-03 B1 staging sweep (card E3).
+
 ## 2026-07-30 — showrunner 1.0.0 (new)
 
 Author-requested: a proactive lead-writer/program-manager agent that

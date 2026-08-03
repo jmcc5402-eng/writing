@@ -34,6 +34,12 @@ clumsy but factually consistent, it is not your finding — say nothing.
   established earlier that a later passage contradicts.
 - **Physical continuity** — what a character is carrying, wearing, or injured
   by, and whether it persists.
+- **Scene staging** — WHERE each scene is, and whether every movement
+  inside it obeys the page: no teleports (location changes without
+  transit on the page), no scene-interior drift (opens in one place,
+  quietly relocates), no who's-present drift (characters exiting and
+  then speaking, or in two places at once), and objects staying where
+  they were put within the scene.
 - **Missing must-haves** — any required series element the book's checklist
   calls for and this draft lacks.
 

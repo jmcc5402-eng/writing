@@ -28,7 +28,7 @@ Rules of the project:
 | `drafting-assistant` | 1.2.0 | inherit | Approved outline → first-draft prose in the author's voice |
 | `developmental-editor` | 1.3.0 | inherit / high | Story-level critique; non-fiction mode = the argument is the plot |
 | `line-copy-editor` | 1.2.0 | inherit | Sentence-level; mechanical fixes applied, style proposed |
-| `continuity-keeper` | 1.2.0 | inherit | Facts vs canon; classifies contradiction / unestablished / deliberate |
+| `continuity-keeper` | 1.3.0 | inherit | Facts vs canon + scene staging; classifies contradiction / unestablished / deliberate |
 | `kid-reader-panel` | 1.1.0 | inherit | Simulated 8–12 reader reactions |
 | `red-team-critic` | 1.1.0 | inherit / high | Adversarial read before anything goes out |
 | `culture-researcher` | 1.1.0 | inherit | Setting/culture research + fact-check, web access |
