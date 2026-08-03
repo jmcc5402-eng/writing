@@ -442,6 +442,7 @@ the twins' plan cracks the case (SC2 held).
 | 17 | Practice sequels (one each, Swain) | Andrew wall-ball ch6 (forward-looking); Amanda ball work ch9 (backward-looking, Coach Chen present tense) |
 | 18 | Crossover lesson (every other book) | **ABSENT — on record**: locked premise sets B2 = none (cadence B1 Andrew / B2 none / B3 Amanda). Compliant-by-waiver: `WAIVED` line recorded in the premise doc (author, 2026-07-30) |
 | 19 | Physical adventure beat (stacked) | Dawn approach + break-fall ch11, stacked on S10 dojo (ch5) — modest by design; competence, never combat |
+| 20 | Field-trip chapter | DESIGNATED: the ch7 Toyosu tuna-auction dawn (author, 2026-08-03) — clock duty already built in; one impurity accepted (reader-only Rin glimpse). Full-strength trips start B3 |
 
 Story-engine §1 extras: family dinners ch3 (Dad grills fish — Mom's
 canon gag paid) + ch4 market meal; J&J worst-moment call ch8 (one —

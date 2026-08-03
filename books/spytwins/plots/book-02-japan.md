@@ -140,8 +140,7 @@ PR; full options memo: `notes/b2-naming-options-2026-08-02.md`):**
 **Kyoto by shinkansen**, two days — cashes the city bank's banked
 bullet-train nugget; ancient-Kyoto counterweight to the market;
 the camera-vote clock keeps ticking while they're gone.
-OPEN: how it enters the approved outline — (a) add a Kyoto chapter
-(outline revision, 12→13 chapters, needs re-audit) or (b) designate
-the existing ch7 tuna-auction dawn as this book's field trip
-(cheapest; one impurity — the reader-only Rin glimpse stays).
-[TK: author picks a or b before drafting.]
+RULED (author, 2026-08-03): option (b) — the existing ch7
+tuna-auction dawn IS this book's field trip (one accepted impurity:
+the reader-only Rin glimpse). Kyoto stays banked for a Japan-return
+book; the real full-strength trip starts B3.

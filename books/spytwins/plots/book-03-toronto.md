@@ -50,9 +50,10 @@ paddling + reading the harbor.
 the no-jets campaign is real Toronto history — culture/legal pass]
 [TK: author's on-site sensory notes — pending dictation]
 
-**Field trip (ingredient 20, author 2026-08-03):** candidates =
-the Niagara Escarpment / Blue Mountain hike ("the mountains" to an
-Ontario kid; ~2h; fictionalize resort branding) or the two-day
-Montreal train trip (bigger clock bite; French-language texture —
-pairs with the series language-learning brainstorm). Pick at
-outline time; culture pass verifies.
+**Field trip (ingredient 20): LOCKED = NIAGARA FALLS (author,
+2026-08-03 — "so much to describe").** The trip bites the clock
+mid-investigation (off the island for it); concentrated-wonder
+chapter: the mist heard before seen, the rumble, the scale.
+[CHECK: Niagara logistics + which-side/attraction naming —
+fictionalize commercial branding per the gate; culture pass at
+outline time.] Montreal and the Escarpment return to the idea pool.

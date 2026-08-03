@@ -236,9 +236,9 @@ needs a new scene just to check a box, the box loses.
     may collide with something that happened while they were gone;
     (d) destinations come from the city bank at outline time,
     verified by the culture pass. B1: WAIVED (pre-dates the rule).
-    B2 candidate: Kyoto by shinkansen (cashes the banked bullet-train
-    nugget). B3 candidates: Niagara Escarpment/Blue Mountain hike or
-    the two-day Montreal train trip.
+    B2: DESIGNATED — the ch7 Toyosu tuna-auction dawn (Kyoto stays
+    banked for a Japan return). B3: LOCKED — Niagara Falls. Full
+    strength from B3 onward.
 
 ## Hawaiian orthography (series policy, author, 2026-08-03)
 
