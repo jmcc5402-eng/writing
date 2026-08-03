@@ -191,3 +191,6 @@ copy). Line/copy pass only — no plot, structure, or canon changes.
   the pass's terms with straight apostrophes (ki'i pōhaku, kūkini)
   and the manuscript's current "Hawaii," pending the series-wide
   ruling.
+- ch1: the five-family-dinners rule added to the lanai dinner (author
+  ruling, 2026-08-03) — a standing ch1 fixture from now on; the kids
+  enforce it, Andrew keeps the tally.

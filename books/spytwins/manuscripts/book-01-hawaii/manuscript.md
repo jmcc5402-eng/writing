@@ -193,6 +193,14 @@ passing the bowl of tropical fruit salad.
 
 "It's called the same three meats you make in Seattle," their mom said,
 but she was smiling.
+"And remember the rule. Same as every city:
+five family dinners a week. Minimum. However the project goes."
+
+"That's our rule for YOU," Amanda said. "Andrew keeps the tally."
+
+"Somebody has to," Andrew said. "March was a four-dinner month.
+I have records."
+
 "Anyway — there's a great beach soccer program
 at the community center, Amanda.
 And Mrs. Kalani says Kekoa teaches surf lessons.
