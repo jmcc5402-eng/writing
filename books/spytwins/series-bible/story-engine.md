@@ -235,7 +235,14 @@ needs a new scene just to check a box, the box loses.
     its concentrated home; (c) OPTIONAL, never required: the return
     may collide with something that happened while they were gone;
     (d) destinations come from the city bank at outline time,
-    verified by the culture pass. B1: WAIVED (pre-dates the rule).
+    verified by the culture pass; (e) WHOLE KIDS (author,
+    2026-08-03): on the trip the twins get genuinely absorbed in
+    something new — a fact, a craft, a food, a view — and neither
+    checks clues nor steers talk back to the case. Nobody reads as
+    obsessive; obsession is the villains' trait, and letting the
+    case wait a day is part of what separates the twins from the
+    people they catch. Editors flag any field-trip scene where a
+    twin works the mystery. B1: WAIVED (pre-dates the rule).
     B2: DESIGNATED — the ch7 Toyosu tuna-auction dawn (Kyoto stays
     banked for a Japan return). B3: LOCKED — Niagara Falls. Full
     strength from B3 onward.

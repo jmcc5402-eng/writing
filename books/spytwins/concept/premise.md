@@ -169,7 +169,10 @@ The project evolved across several years of drafts. These are now **locked**:
   (ingredient 20).** One excursion chapter per book — plot-blind,
   never purpose-blind; bites the clock; carries the educational
   payload and the book's B-life; placed ~55–70%. The checklist's one
-  explicit scene-exception. Full rules in the story engine.
+  explicit scene-exception. AND a characterization rule: the twins
+  get genuinely absorbed in the new thing — neither reads as
+  obsessive; obsession belongs to the villains. Full rules in the
+  story engine.
 - **WAIVED: field-trip chapter — B1 pre-dates the rule (author,
   2026-08-03).**
 - **[Canon decision, author 2026-08-03] Chapter-1 standing rules.**
