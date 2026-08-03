@@ -135,3 +135,13 @@ PR; full options memo: `notes/b2-naming-options-2026-08-02.md`):**
   vote flips.
 - Standing rule: no market kid may carry the mark's opening
   syllable (Fu-), or the corner-mark clue appears to point at them.
+
+**Field trip (ingredient 20, author 2026-08-03):** candidate =
+**Kyoto by shinkansen**, two days — cashes the city bank's banked
+bullet-train nugget; ancient-Kyoto counterweight to the market;
+the camera-vote clock keeps ticking while they're gone.
+OPEN: how it enters the approved outline — (a) add a Kyoto chapter
+(outline revision, 12→13 chapters, needs re-audit) or (b) designate
+the existing ch7 tuna-auction dawn as this book's field trip
+(cheapest; one impurity — the reader-only Rin glimpse stays).
+[TK: author picks a or b before drafting.]

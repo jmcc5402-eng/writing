@@ -165,6 +165,13 @@ The project evolved across several years of drafts. These are now **locked**:
 
 - **WAIVED: transport ingredient — B1 predates the checklist lock
   (author, 2026-08-02).**
+- **[Canon decision, author 2026-08-03] The field-trip chapter
+  (ingredient 20).** One excursion chapter per book — plot-blind,
+  never purpose-blind; bites the clock; carries the educational
+  payload and the book's B-life; placed ~55–70%. The checklist's one
+  explicit scene-exception. Full rules in the story engine.
+- **WAIVED: field-trip chapter — B1 pre-dates the rule (author,
+  2026-08-03).**
 - **[Canon decision, author 2026-08-03] Chapter-1 standing rules.**
   Every book's ch1 states the standing family rules alongside the dog
   description: the roam boundary (city-appropriate) and the

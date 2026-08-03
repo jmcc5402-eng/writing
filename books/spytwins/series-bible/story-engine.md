@@ -223,6 +223,22 @@ needs a new scene just to check a box, the box loses.
     climb, swim — competence, never combat. These accumulate under
     S10 (the curriculum) toward the quietly formidable twins of the
     later arcs. Bond-seeded, never Bond-shaped: the age band holds.
+20. **The field-trip chapter** (author, 2026-08-03) — the checklist's
+    ONE explicit scene-exception: this ingredient IS a chapter, on
+    purpose and on the record. One real excursion per book (a famous
+    place away from the mystery's home turf), placed in the 55–70%
+    zone. Rules: (a) it BITES THE CLOCK — the trip costs the twins
+    days they can't spare, announced in advance so dread rides along;
+    (b) it is PLOT-BLIND, never purpose-blind — no clues, no case
+    work, but it carries the book's B-life (gags, practice sequels,
+    S10 nudges, food beats, wonder) and the educational payload gets
+    its concentrated home; (c) OPTIONAL, never required: the return
+    may collide with something that happened while they were gone;
+    (d) destinations come from the city bank at outline time,
+    verified by the culture pass. B1: WAIVED (pre-dates the rule).
+    B2 candidate: Kyoto by shinkansen (cashes the banked bullet-train
+    nugget). B3 candidates: Niagara Escarpment/Blue Mountain hike or
+    the two-day Montreal train trip.
 
 ## Hawaiian orthography (series policy, author, 2026-08-03)
 

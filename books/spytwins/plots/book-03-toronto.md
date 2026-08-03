@@ -49,3 +49,10 @@ paddling + reading the harbor.
 [CHECK: fictionalize airline/airport details and bike-share branding;
 the no-jets campaign is real Toronto history — culture/legal pass]
 [TK: author's on-site sensory notes — pending dictation]
+
+**Field trip (ingredient 20, author 2026-08-03):** candidates =
+the Niagara Escarpment / Blue Mountain hike ("the mountains" to an
+Ontario kid; ~2h; fictionalize resort branding) or the two-day
+Montreal train trip (bigger clock bite; French-language texture —
+pairs with the series language-learning brainstorm). Pick at
+outline time; culture pass verifies.

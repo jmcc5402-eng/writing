@@ -46,7 +46,7 @@ research-verified — [CHECK] before use)._
 |---|---|---|
 | Robotics expo / robot restaurants | BANKED | Strong kid-wow; B2 went fish market instead |
 | A shrine festival mystery | BANKED | B2 uses the market's own festival; a shrine matsuri is a different, bigger canvas |
-| Bullet-train first | BANKED | B2 stays inside Tokyo; a shinkansen beat wants a two-city plot |
+| Bullet-train first | earmarked B2 (field trip) | Kyoto shinkansen candidate per ingredient 20 (2026-08-03) |
 | Studio Ghibli-style animation studio | BANKED | Brand-gate hard; would need full fictionalization |
 | Old maps / calligraphy as clue surfaces | BANKED | B2 spent the ancient-modern texture on shutter art + kana |
 | Namiyoke-style shrine memorial mounds (sushi/shrimp/egg monuments) | earmarked B2 | echo in the fictional market's shrine; research 2026-08-02 |
