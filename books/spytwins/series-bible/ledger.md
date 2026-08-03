@@ -83,7 +83,11 @@ cite Book 1 chapters; T## IDs refer to that book's THREADS.md.
   (ch10). OWED: the ch3 "visit in a couple weeks" promise [CHECK:
   running gag or loose thread — author call, B1 E9]. RULES: at least
   one call per book, always at the worst possible moment; Jacob's
-  worldliness stays deniable (a quiet S01 seed).
+  worldliness stays deniable (a quiet S01 seed). Timing-audit note
+  (2026-08-03): B1's ch10 layover call is the third ring, INVERTED —
+  it frees the twins instead of interrupting them; if J&J are ever
+  ruled agency-adjacent, it retro-reads as a superior-position
+  deposit. Keep the device's 3-ring shape per book.
 - **S08 — The pets (Blazer key-feature rotation; Moonbeam debt)** |
   motif
   B1: Blazer described in ch1 as required; KEY feature delivered (the
