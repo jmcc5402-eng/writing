@@ -117,7 +117,10 @@ Andrew learns to his disgust, are effectively off the table in the city
 [CHECK: Tokyo drone rules, kid-accurate].
 First dinner out: Andrew is soundly defeated by chopsticks (Amanda
 keeps score) and then by the apartment's control-panel toilet
-(gag touch 1: defeat).
+(gag touch 1: defeat); the standing rules get restated for Tokyo —
+the new roam boundary (the neighborhood plus the market street) and
+the five-dinners rule, Andrew's tally surviving the ocean crossing
+(ch1 fixture per the 2026-08-03 canon decision).
 Evening walk: the neighborhood's covered market street, shutters rolled
 down in a long row — one stretch freshly repainted plain gray, "the
 renovation," someone says.

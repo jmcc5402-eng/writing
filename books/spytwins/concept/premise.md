@@ -165,6 +165,12 @@ The project evolved across several years of drafts. These are now **locked**:
 
 - **WAIVED: transport ingredient — B1 predates the checklist lock
   (author, 2026-08-02).**
+- **[Canon decision, author 2026-08-03] Chapter-1 standing rules.**
+  Every book's ch1 states the standing family rules alongside the dog
+  description: the roam boundary (city-appropriate) and the
+  five-family-dinners-a-week minimum. The dinner rule belongs to the
+  KIDS — they enforce it against their busy parents; Andrew keeps the
+  tally ("March was a four-dinner month. I have records.").
 - **[Canon decision, author 2026-08-02] Unexplained logistics are not
   winks.** The parents' B1 ch11 tunnel arrival stays UNEXPLAINED
   (PR #3 ruling: "it's not a wink if nobody asks how they got

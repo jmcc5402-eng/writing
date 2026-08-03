@@ -26,6 +26,11 @@ consistent from book to book.)
       another skill they're working on.
 - [ ] **A pet mention** — Blazer the dog and/or Moonbeam the cat.
 - [ ] **Describe the dog in Chapter 1.** (Blazer is basically a series mascot.)
+- [ ] **Chapter 1 states the standing family rules** (author, 2026-08-03):
+      the roam boundary for the new city (B1: six blocks) and the
+      **five-family-dinners-a-week minimum** — a rule the KIDS enforce
+      against their busy parents (Andrew keeps the tally). Restate both
+      every book; they're fixtures like the dog description.
 - [ ] **Every few books, the pets are a KEY feature** of the plot (e.g. in Book
       1, Blazer's nose cracks the case).
 - [ ] **A signature gadget** — increasingly important; becomes one-per-book in
