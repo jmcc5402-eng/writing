@@ -35,7 +35,9 @@ and Rin's off-page habits are structural proposals, not canon._
   sketchbook order; stage two, repaint the panels themselves. Every
   mark sits low because her reach is low.
 - **The order.** The mural's scene began at the Hamada fresh-fish
-  stall's end of the row, so panel one is the Hamada shutter. Mark #0
+  stall — mid-row, per the locked roster; the sketchbook's first page
+  is that shutter — so panel one is the Hamada shutter, and the
+  panels run one direction down the row from it. Mark #0
   (panel one) vanished within a day — Rin believes the rain took it,
   or that someone hated it; she does not know Kenta scrubbed it. She
   pressed on down the row (panels two, three, four) and worked up the
@@ -45,6 +47,10 @@ and Rin's off-page habits are structural proposals, not canon._
   row opened late and nobody hurried (ruled 2026-07-30, one line of
   backstory, ch11). Rin keeps the ritual, and the ritual is also
   cover: a rain dawn is the only time the arcade is truly empty.
+  Her window is the half hour BEFORE first light; the row's dawn
+  work — Kenta's ice-raking included — starts when the fish truck
+  arrives around six, after she is long gone. D-10 is the one
+  morning Kenta came in early, ahead of the truck.
 - **What mark #0 was.** The season's first proper rainy dawn, six
   days before the Wilsons landed ("D-minus-6" — three weeks before
   the ch8 confession, matching the outline's "weeks ago"). Panel
@@ -70,6 +76,7 @@ and Rin's off-page habits are structural proposals, not canon._
 | Day | Dawn weather | Rin (off-page) | On the page |
 |---|---|---|---|
 | D-minus-6 | rain (first tsuyu dawn) | mark #0: panel 1, Hamada | ch8 confession |
+| D-minus-5–D-0 | dry dawns (tsuyu stuttering in) | waiting; nerve | — |
 | D-01 Sat | dry, muggy | tracing stencils | ch1 arrival |
 | D-02 Sun | dawn rain, clears | mark #1 (panel 2); lingers | ch2 |
 | D-03–05 | dry dawns; humid | waiting | ch3 |
@@ -78,7 +85,7 @@ and Rin's off-page habits are structural proposals, not canon._
 | D-10 Mon | dawn rain | mark #4 = panel 1 redone | ch6 |
 | D-11–12 | dry | waiting | ch7 (notice) |
 | D-13 Thu | drizzle threat, never rains | poncho walk, a bust | ch7 glimpse |
-| D-14–21 | dry dawns; pm showers D-17, D-19 | tracing panel 5; waiting | ch8–9 gap |
+| D-14–21 | dry dawns; pm showers D-15, D-17, D-19 | tracing panel 5; waiting | ch8–9 gap |
 | D-22 Sat | dawn rain — last before festival | panel 5 key; caught | ch10–11 |
 | D-23 Sun | clear, washed | first panel, officially | ch12 |
 
@@ -89,6 +96,13 @@ the research note). Kenta and Rin are in school on weekdays; every
 mark dawn is hours before the school day starts, and D-22 is a
 Saturday.
 
+**Staging rule for every mark scene (binding on drafting briefs):** a
+marked stall keeps its shutter DOWN in embarrassment that day — which
+is the only time a mark on a roll-shutter is visible at all — so
+every measuring, photographing, and gawking scene plays against a
+lowered shutter, and each discovery happens as a shutter rises at the
+rain-late opening.
+
 ---
 
 ## Chapters
@@ -97,7 +111,7 @@ Saturday.
 
 STATE IN: day D-01(Sat) / muggy tsuyu overcast / midday landing,
 evening walk / who-knows: nobody knows anything; Rin off-page, four
-of her marks still unpainted, #0 already scrubbed away weeks ago /
+of her marks still unpainted, #0 already scrubbed away days ago /
 objects: packing boxes (B1 walkie-talkies inside), Dad's conference
 bag, Blazer's travel crate.
 
@@ -110,7 +124,9 @@ files pet forms months ahead, every assignment (ruled — not a clue).
 The standing rules get restated for the new city: the roam boundary
 is the neighborhood plus the market street, and the
 five-family-dinners-a-week minimum goes up on the fridge in Andrew's
-handwriting, the tally having survived the ocean crossing.
+handwriting, the tally having survived the ocean crossing (Andrew's
+rule: weeks run Saturday to Friday, anchored to arrival day; lunches
+do not count, and never have).
 
 Dad, guilt-generous as ever, produces the conference gift. A pocket
 camera with an interval and time-lapse mode, "for Kekoa's Tokyo
@@ -125,7 +141,8 @@ defeated by chopsticks while Amanda keeps score out loud, and then
 defeated again by the apartment building's control-panel toilet
 (gag touch 1). On the evening walk they find the covered market
 street, shutters rolled down in one long row for the night — and one
-stretch of the row is freshly painted plain gray, flat and blank.
+stretch of the row is painted plain gray, flat and blank, still
+looking new against its weathered neighbors.
 "The renovation," someone passing says, as if that explains it.
 
 The out-state is a family unpacked to the first-box level and two
@@ -187,12 +204,14 @@ up with date; photo still pinned in the stall.
 
 ### Ch 3 — Pick Your Color
 
-STATE IN: day D-03(Mon) / dry, humid / ward-office errand in the
+STATE IN: day D-03(Mon) / dry, humid / residence-card errand in the
 morning, market afternoon / delta: Kenta at school until afternoon;
 row still buzzing about mark #1 / objects: new transit cards; kana
 workbook bought today.
 
-A family errand drags the twins across the city, and the subway
+The family's residence-card errand [CHECK: family residence-
+registration logistics — culture pass] drags the twins across the
+city, and the subway
 swallows them whole — the system map is a bowl of noodles until
 Amanda cracks it. "Don't read every station. Pick your color, follow
 the line." It plays as a pure transport victory, her first win over
@@ -213,9 +232,10 @@ try a class" — and never mentions it again (S10 nudge, spent).
 Amanda starts a kana workbook so the market's handwritten signs will
 stop being wallpaper; Andrew opens a photo folder and names it
 EVIDENCE, then renames it MARKET. At dinner Dad grills fish for
-once, and Mom is so pleased it's almost suspicious (canon gag paid,
-not a wink). Afterward the twins shake on it: find the mark-maker
-before the festival.
+once, and Mom's delight is complete (canon gag paid, not a wink —
+drafting note: the prose must never narrate her pleasure as
+"suspicious"; the wink budget lives in ch4). Afterward the twins
+shake on it: find the mark-maker before the festival.
 
 The Change of Plans is on the record between them, and the goal is
 locked with tools chosen — her pattern-eye and kana, his camera and
@@ -245,20 +265,24 @@ standing between them and the scene), so they arrive to find the
 marks already scrubbed at one stall and defiantly left at the other,
 and Amanda starts sketching before her bag is off her shoulder.
 
-Lunch at the market with the parents turns into theater. Dad
+Lunch at the market with the parents turns into theater (a lunch —
+it goes in nobody's tally). Dad
 declares fresh-grated wasabi "basically mild," takes a proud dab, and
 pays for it in full view of three stall owners; Mom takes a double
 helping without blinking, and nobody remarks on it (the S01 wink —
 one this book, spent here). Andrew's chopsticks hold up under
-pressure for the first time, which he pretends not to notice. Then
+pressure for the first time, which he pretends not to notice. Then,
+from his post at the arcade mouth [CHECK: dogs in a shotengai —
+leash/carry norms; he waits at the entrance, not among the stalls],
 Blazer erupts at a delivery man whose cart smells gloriously of fish,
 and the twins' hearts race for exactly nothing (comic red herring,
 first touch).
 
 The afternoon work session is where the chapter turns. Andrew
 photographs every mark with timestamps and starts the evidence log;
-Amanda attacks the marks as a code and her week of kana gets her
-exactly nowhere — except a tiny repeated syllable tucked in each
+Amanda attacks the marks as a code and her three days of kana get her
+exactly nowhere against a code that is not words — except a tiny
+repeated syllable tucked in each
 mark's corner, which she copies and cannot explain. Then she stands
 her own frame against a shutter and sees what nobody else has:
 every mark sits LOW, below her shoulder, all at the same height.
@@ -279,7 +303,8 @@ SERIES: S01 wink #1 of 1 (Mom + wasabi, locked position); S03
 (Andrew: documentation discipline).
 STATE OUT: D-06(Thu) night, clear / twins hold: height + corner
 syllable + timestamps / row alarmed; koban log: three entries /
-notebook logged; chopsticks in Andrew's pocket; tally 3/5.
+notebook logged; chopsticks in Andrew's pocket; tally on track
+(Andrew's records).
 
 ### Ch 5 — Falling Practice
 
@@ -305,7 +330,9 @@ toilet — "heated seat. HEATED. SEAT." (gag touch 2) — while the
 class-hours obstacle quietly stands: their mornings belong to school,
 and the marks belong to dawn.
 
-The turn is a list of timestamps against a weather app. Every mark
+The turn is a list of dates against a weather app — his photo
+timestamps for the marks he shot, the koban officer's read-aloud
+entries for the ones before the camera. Every mark
 morning lines up with rain at dawn, and Andrew goes very still,
 because patterns this clean are usually wrong. He wants one more
 data point before he'll say it out loud, and he hates that wanting
@@ -323,12 +350,12 @@ PAYS: dojo nudge becomes a scene (S10 bead, stacked).
 SERIES: S10 curriculum; toilets(2).
 STATE OUT: D-08(Sat) night, shower passed / twins hold: height +
 stencil + soft rain pattern / row quiet two days / camera log
-current; tally 4/5.
+current; tally on track (week two began D-08).
 
 ### Ch 6 — Paint on His Hands
 
-STATE IN: day D-10(Mon) / rain at dawn / Kenta raking ice at first
-light; Rin has redone panel one — the mark lands on the HAMADA
+STATE IN: day D-10(Mon) / rain at dawn / Kenta raking ice early,
+ahead of the six-o'clock fish truck (the one morning he beats it); Rin has redone panel one — the mark lands on the HAMADA
 shutter / deltas: twins asleep, then summoned by the row's noise
 before class / objects: rag and thinner at the Hamada stall.
 
@@ -357,7 +384,10 @@ children choose the wrong side.
 The sequel belongs to Andrew and a back wall. Wall-ball, counting
 reps toward the college dream, until the anger burns down to a
 decision: work the evidence, not the gossip. Height, stencils,
-rain — none of it cares whose hands had paint on them. He tells
+rain — none of it cares whose hands had paint on them. And this
+morning WAS the evidence: rain at dawn, mark by daylight — the one
+more data point he wanted, hardening the soft pattern into a chart
+he would show a stranger. He tells
 Amanda the plan through the window and she adds it to the notebook
 under a heading: WHAT THE MARKS KNOW.
 
@@ -408,7 +438,7 @@ That evening a darker theory surfaces and breathes: what if someone
 is scaring the market INTO cameras — a mark-maker who profits from
 fear? It fits the dates so badly that Amanda writes it down anyway,
 which is how you treat a theory you're afraid of (red herring #3,
-alive for one night). The clock is tightened, the trip is spent, and
+alive for a night or two). The clock is tightened, the trip is spent, and
 tomorrow their mornings belong to school again.
 
 PLANTS: dawn-outing precedent (earns ch10 logistics fairly);
@@ -530,8 +560,9 @@ over the kitchen table, evidence first, ask second (the parenting
 moment doing plot work). The deal lands clean: Dad and Blazer anchor
 the end of the row at a distance, the twins run the observation
 point, and the B1 walkie-talkies come out of the packing box for the
-net. The PLAN is entirely the twins'; the adults are the perimeter
-(age band held).
+net. Mom holds HOME — breakfast promised for after, the phone line
+open, the named fallback if anything goes sideways. The PLAN is
+entirely the twins'; the adults are the perimeter (age band held).
 
 Around them, the market is putting on its festival face a day early.
 Lanterns strung the length of the arcade, the row scrubbed proud,
@@ -599,8 +630,9 @@ The twins' answer is the book's turn: don't hide this — PROPOSE it.
 Marks decoded, sketchbook in hand, a restoration the row can vote
 FOR instead of a vandal to vote against. Dad and Blazer walk
 everyone home through the rain, and the day ahead is for getting
-ready — because the vote is tomorrow, and now they have something
-to say.
+ready — Kenta and Mom get the whole story at the kitchen table by
+noon, and the presentation is built and rehearsed by all of them —
+because the vote is tomorrow, and now they have something to say.
 
 PLANTS: — .
 PAYS: chopsticks (climax, locked); break-fall (ch5); stencil edges
@@ -718,3 +750,11 @@ Compliant: 3 recurring, under the cap; no confusable names.
    ch10's lantern-hanging happens the night of D-21 — one night before
    the eve proper. Written as festival-weekend prep (real festivals
    dress early); flagged in case the author wants the label adjusted.
+4. **Season vs Book 1's last line (continuity gate K1 — needs an
+   author ruling before ch1 drafts).** B1 ch12 has Mom announce Tokyo
+   "when this assignment wraps at the end of the summer," but B2's
+   ruled season is June tsuyu — and the rain calendar is load-bearing,
+   so the season can't quietly move. Cheapest fix: one line in B1's
+   next line pass ("when this assignment wraps this spring");
+   alternative: re-rule B2 to the September akisame front and re-run
+   this calendar. The June ruling stands until the author picks.
