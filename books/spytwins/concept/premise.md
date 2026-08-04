@@ -148,6 +148,16 @@ The project evolved across several years of drafts. These are now **locked**:
   version — Kekoa runs down the mountain, Andrew's clicks guide the
   searchers in — is retired; author: "We don't need Kekoa to run for
   help AND the tracker. Let's just do the tracker.")
+- **[Canon decision, author 2026-08-04] The adult parallel solve.**
+  In B1, an adult (Mrs. Kalani) independently solves the case with
+  grown-up competence — tracker, footage, police — on her own track,
+  converging with the twins only at the capture. Author: it "brings a
+  little bit of balance; in the end the twins are still just kids.
+  They did solve it, but an adult solved it too. I think for book one
+  that's good." Neither solve may make the other unnecessary. [TK:
+  whether this becomes a series dial — adults solving in parallel in
+  early books, the twins gradually outpacing them as the arcs
+  advance — is an open design question for the story engine.]
 - **[Canon decision, author 2026-08-04] Why the kids never call the
   police (B1).** Cross-town middle schoolers spent the summer
   prank-calling in "sea monsters," so the police say "kids" in the
