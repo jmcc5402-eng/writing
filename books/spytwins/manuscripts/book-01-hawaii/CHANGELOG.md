@@ -389,3 +389,9 @@ Four fixes: "Ki'i pōhaku" → "Ki'i pohaku" (ch1); "lilikoi" ×2 →
 "liliko'i" (ch2 shave-ice sign and Andrew's question); "kūkini" →
 "kukini" (ch12 bracelet speech). Everything else already complied
 (ko'i, ki'i, kahu, honu, lauhala, lanai, Hawaii, Kahului, koa, poi).
+
+## Tennis-ball payoff (2026-08-04, author PR)
+Amanda's ch10 "tennis ball... for emergencies" was staged and never
+used (staging-sweep finding). Paid off at the ch11 mountain exit:
+Blazer fetches on the trailhead grass — "For emergencies," she said.
+"This counted." (Alternative was cutting the plant.)
