@@ -68,6 +68,13 @@ warnings tier — suggest a WAIVED line or a fix, never silently drop._
 _One line per B-item: what its placement DOES for the A-plot or a
 series thread. Pure decoration gets flagged as first-cut._
 
+## Location roster
+
+_Every recurring setting: NAME — one-line identity — position
+relative to the others. Fewer than 5 recurring; 2–3 is best.
+Single-visit sites named but uncounted. No two confusable names
+(proven the hard way: two "center"s cost three post-draft edits)._
+
 ## Open questions for the author
 
 _Numbered, PROPOSAL-tagged, only genuine decisions._

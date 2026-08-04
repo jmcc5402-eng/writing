@@ -3,6 +3,16 @@
 Newest first. Every entry: version, what changed, and the evidence that
 drove it.
 
+## 2026-08-04 — plot-architect 1.2.0 → 1.3.0
+
+Outlines now include a LOCATION ROSTER — every recurring setting
+named, one-line identity, relative positions; <5 recurring (2–3
+best), single-visit sites named but uncounted, no confusable names.
+Evidence: the author, mid-adoption-read, confused the B1 cultural
+center with the one-mention community center and with a "museum"
+narration alias; the fix cost three edits post-draft that a roster
+would have prevented at outline time.
+
 ## 2026-08-03 — continuity-keeper 1.2.0 → 1.3.0
 
 New standing check: scene staging — where each scene is and whether
