@@ -319,3 +319,44 @@ shipment tomorrow night). All passages located by quoted text.
   the generic weekend "a museum" (in ch7's dinner scene — the ruling
   cites it as ch6) and the two "small museums and cultural centers"
   article quotes (real, off-island places).
+
+## Author read-pass — ch10/ch11 rulings (2026-08-04)
+Applied directly from the author's chat rulings on the PR #6 read.
+
+- **Colon sweep (all chapters).** Removed every colon-into-paragraph-
+  break ("weird colons") — six instances: ch7 the Dr. M. Lee name
+  reveal; ch8 "barely moved his lips:"; ch10 the lantern/artifacts
+  reveal and "the only words the mountain allowed:"; ch11 "the sound
+  his whole plan balanced on:"; ch12 "over his glass:". Each rewritten
+  to end the sentence cleanly before the break.
+- **Climax restructure (author ruling): the tracker alone brings the
+  police; nobody runs for help.** Kekoa no longer runs down the
+  mountain — he takes the dark fork at the last junction to prove the
+  chamber has no secret escape, finds it loops to the chamber's far
+  side, and posts up in it ("Then it's a back door, and I'm the
+  lock."). New capture choreography: Dr. Lee's truck alarm ends the
+  stall — he grabs the bowl and bolts; Kekoa blocks the back door,
+  Blazer plants in the entrance mouth ("One door was a boy. One door
+  was a dog."), and THEN the police arrive, brought only by
+  Mrs. Kalani's backpack tracker. Ch10 huddle rewritten to set the
+  plan (five-o'clock lateness as the fallback, click protocol between
+  Andrew and Kekoa, quiet-patches rule); ch11 beacon section
+  rewritten (Andrew holds the click-thread to Kekoa, deduces the
+  back door when the answer arrives "from the wrong side, through
+  the chamber itself"); aftermath rewritten (Kekoa's "It loops!"
+  babble, Mrs. Kalani's tablet with the blue dot replacing the
+  radio-compass, "who held the door" in ch12).
+- **Fair-play support for the police navigation:** Amanda re-clips her
+  clothespin flags at every fork on the way in (clothespins "had
+  never left" her pack; "Coming back for them"), and Mrs. Kalani
+  confirms the officers followed them ("At every junction, three
+  little flags were pointing the way").
+- **Police plot-hole plant (author ruling).** Why the kids never just
+  called the police: cross-town middle schoolers have spent the
+  summer prank-calling in "sea monsters," so the police say kids "in
+  the exact voice people use for mosquitoes." Planted in ch3 (twins
+  overhear the officers), echoed in the ch9 text thread ("after a
+  summer of sea-monster calls... aren't exactly star witnesses"),
+  paid in the ch10 huddle ("We'd still be on hold when the truck
+  left") and at the officer's "should have come to us sooner"
+  ("Amanda thought about sea monsters, and said nothing").

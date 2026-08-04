@@ -562,6 +562,19 @@ their blue uniforms stark against the center's warm wooden walls,
 and Mrs. Kalani led them toward her office —
 she had her ring of keys out before they even asked.
 
+The younger officer stopped in the hallway
+to answer his radio, listened,
+and let his whole posture go tired.
+"Tell them we know," he said. "Tell them we drove out there
+Tuesday. And Thursday." He clicked off.
+"The middle schoolers across town," he told his partner,
+"have spent the whole summer calling in sea monsters.
+Today the sea monster took a canoe."
+
+"Kids," the other officer said,
+in the exact voice people use for mosquitoes,
+and the office door shut behind them.
+
 "We saw it Saturday," Amanda whispered. "Yesterday.
 It was right there, gleaming under the lights."
 
@@ -598,7 +611,9 @@ Here it was.
 Tell her, Amanda thought.
 Tell her the stolen fishhook is carved into a rock
 half a mile from here.
-But it sounded crazy, and the police were right down the hall,
+But it sounded crazy,
+and the police were right down the hall —
+the ones who said kids the way other people said mosquitoes —
 and what if she was wrong?
 
 "Oh — yes," Amanda said. "We were just leaving."
@@ -1658,7 +1673,7 @@ faint pen strokes showed at the ripped corner.
 "Look," he said. "Bottom edge. There was a name there."
 
 Through the stains they could make out the top halves
-of small careful letters, and then, suddenly, whole:
+of small careful letters, and then, suddenly, the whole name.
 
 Dr. M. Lee.
 
@@ -2247,7 +2262,7 @@ their parents' flashlight bobbing ahead,
 nobody talking.
 
 Andrew fell into step beside his sister, and under the sound
-of four sets of footsteps he barely moved his lips:
+of four sets of footsteps he barely moved his lips.
 
 "Tomorrow night. That's our last chance."
 
@@ -2334,7 +2349,8 @@ where a chat window hid behind the periodic table.
 
     Kekoa: Grandma told them everything. They said a name
     on a greasy paper isn't proof, and a key card
-    could be anybody's, and three kids who snuck into
+    could be anybody's, and after a summer of
+    sea-monster calls, three kids who snuck into
     a building at night aren't exactly star witnesses.
 
     Kekoa: Direct quote: "We are making inquiries."
@@ -2692,6 +2708,8 @@ Blazer solved the question of whether Blazer was coming
 by refusing to consider any alternative,
 towing Andrew down the driveway like a parade float.
 Amanda zipped a tennis ball into her backpack for emergencies.
+The clothespins and their squares of reflective tape
+had never left it.
 
 As they passed the house next door,
 Mrs. Santos looked up from the half-woven mat on her lap,
@@ -2741,6 +2759,12 @@ she was going to make right when this was over.
 
 At the branch, the petroglyphs said what they had said for centuries.
 Right side. Inward. Up.
+
+Amanda knelt and clipped three clothespins to a rock edge —
+big flag, medium, small.
+She would do it again at every fork they passed.
+"Coming back for them," she said, to nobody who had asked.
+Leave the mountain the way you found it — eventually.
 
 It was on the long straight run past the branch
 that Andrew stopped and held up a hand.
@@ -2803,41 +2827,65 @@ that isn't on anybody's map, and it's all gone.
 The fishhook, the bowl, the ko'i. Gone for good."
 
 "So nobody spooks him," Andrew whispered.
-"We need grown-ups. Police. His hour is up —
-but they have to get here before the truck does,
-and they have to get through a maze in the dark to do it."
+"And nobody runs for help, either. Do the math with me.
+Forty minutes down to the banyan tree before there's a single bar.
+Then it's a kid, on a phone, telling the police
+there's a professor in a secret cave full of treasure —
+after a whole summer of sea-monster calls.
+We'd still be on hold when the truck left."
 
-"My phone's a brick in here," Kekoa whispered. "No bars since the ferns."
+"My phone's a brick in here anyway," Kekoa whispered.
+"No bars since the ferns."
 
-"Outside it isn't." Amanda unclipped her radio —
+"We told your grandmother five o'clock," Amanda breathed.
+"That's the plan. It's been the plan since lunch —
+we just didn't know it.
+At five, we're late. Late means grown-ups.
+The only job in the world is that he and that duffel
+are still in this mountain when they come."
+
+"Keep him here. Keep him calm," Andrew whispered.
+"Cover every door."
+He tipped his head back toward the junction.
+"Which is the part I don't like.
+That fork behind us — one side goes to the glow.
+Where does the other side go?
+If those two tubes meet up somewhere behind that chamber,
+then he has a back door,
+and the first wrong sound sends him through it
+with everything in a bag."
+
+Amanda looked at Kekoa. Kekoa looked at the dark fork.
+
+"So I go be sure," he said. "No secret exits."
+
+Amanda unclipped her radio —
 the one with the tape marked A —
-and pressed it into Kekoa's hands.
-"So you run. Banyan tree, daylight, bars.
-You call your grandmother and you tell her everything —
-Dr. Lee, the chamber, the truck tonight. She'll bring the police."
+and pressed it into his hands.
+"Volume all the way down. Ear against the speaker."
 
-"And then bring them to us," Andrew said,
-"because they will get lost, and here's how they won't.
-The second you're back inside the entrance, click twice.
-From then on I'm your beacon —
-I'll click two every little while, steady, from up here.
-At every fork, hold the radio into each tunnel mouth.
-Whichever way my clicks come through loudest —
-that's the tube. The rock kills everything else."
+"Channel eight," Andrew said. "The channel we are always on.
+I click twice, every little while — that's still okay.
+You click twice back — still okay from you.
+Three clicks, from anybody, means it's gone wrong,
+and everybody gets loud and stays loud.
+Straight tube carries, corners eat the signal — you saw it.
+So there will be quiet patches. Don't panic in them.
+Neither will I."
 
-"Follow the loudest clicks," Kekoa repeated. "Like Marco Polo."
+"Walk it quiet as inventory night," Amanda said.
+"If it dead-ends, come back to Andrew.
+If it comes out anywhere near that chamber—"
 
-"Quieter than Marco Polo," Andrew said. "But yes.
-And if you ever hear three clicks — that's it's gone wrong.
-Get the grown-ups moving faster."
+"Then it's a back door," Kekoa whispered, "and I'm the lock."
 
-Kekoa looked at the radio, then at the twins.
-"And what are you two doing while I'm running?"
+He looked at the radio, then at the twins.
+"And what are you two doing while I'm being a lock?"
 
 Amanda glanced around the corner of the pocket,
 toward the warm glow and the muttering dark.
 
-"He needs to still be here when they come," she said.
+"He needs to still be here when the grown-ups come," she said.
 "So I'm going to walk in there and keep him talking."
 
 "No," Andrew said instantly. "Absolutely—"
@@ -2864,11 +2912,8 @@ you yell, and I make more noise than he has ever heard in his life."
 Amanda put out her fist. Two more fists landed on it, then a paw,
 which was luck, but they counted it.
 
-"Say which channel we're on," she whispered to her brother.
-
-"Channel eight," Andrew said. "The channel we are always on."
-
-Kekoa went down the mountain like water finding a drain.
+Kekoa slipped into the dark fork
+and was part of it in three steps.
 
 ---
 
@@ -2882,12 +2927,11 @@ with carvings finer and denser than any they had found outside.
 Canoes with sails. Rows of paddlers. Long chains of symbols
 wrapping the stone like sentences.
 And in the middle of the floor, on a broad slab of flat rock,
-lit by a battery lantern:
+lit by a battery lantern, lay everything they had been hunting
+since the morning the case stood empty.
 
-the bone fishhook,
-the ceremonial bowl,
-the ko'i,
-arranged in a careful line, spaced and squared,
+The bone fishhook. The ceremonial bowl. The ko'i.
+Arranged in a careful line, spaced and squared,
 with a folded packing duffel waiting by the wall.
 
 "Don't move."
@@ -2929,9 +2973,9 @@ and told him the truth.
 Far back in the black of the last junction,
 pressed into a pocket of cold rock,
 Andrew's thumb found the talk button
-and began to say the only words the mountain allowed:
+and began to say the only words the mountain allowed.
 
-click, click.
+Click, click.
 
 Still okay. Still okay.
 
@@ -2953,10 +2997,15 @@ A pale root hung an inch from his ear, waiting for him to forget it.
 He kept his radio pressed to that ear, volume rolled to a whisper,
 and listened with everything he had left over.
 
-From the chamber, around one curve of stone,
-came the sound his whole plan balanced on:
+Nothing yet from the dark fork.
+Which meant nothing, he told himself.
+Corners eat the signal. He's just past a corner.
+He counted to twenty and threw the next one.
 
-his sister's voice, asking questions.
+From the chamber, around one curve of stone,
+came the sound his whole plan balanced on.
+
+His sister's voice, asking questions.
 
 "—but how did you know the trail even started at the shoreline?"
 
@@ -3032,82 +3081,109 @@ click, click —
 
 an answer.
 
-They were inside.
+But it came from the wrong side.
+Not down the black fork where Kekoa had gone —
+from ahead. From the glow. From under his sister's voice,
+the long way around, through the chamber itself.
+
+Andrew worked it out the way he worked out everything,
+one careful step at a time, and then all at once.
+The dark fork went somewhere after all.
+Somewhere was the far side of that chamber.
+
+A back door.
+
+And their friend was standing in it, holding it shut.
 
 ---
 
 Andrew flattened himself deeper into the rock pocket
-and started sending steady now, a pulse, two clicks and a rest,
-two clicks and a rest, a lighthouse made of static —
-guiding not by moving, just by refusing to stop.
+and kept the thread going, a pulse, two clicks and a rest,
+two clicks and a rest — and each time, faint and level,
+two clicks back.
 Wall-ball logic, he told himself, and kept the rhythm.
 Nobody asks how your arm feels at rep ninety.
 You don't stop counting. You throw the next one.
 
-Somewhere down the mountain of stone, at a black fork,
-somebody was holding a radio into one tunnel mouth and then another,
-hunting the direction where his little bursts of static
-came through loudest.
-He would learn the picture of it later —
-Mrs. Kalani in her cardigan holding the radio out like a seashell,
-listening for the ocean in each dark doorway,
-two police officers behind her with their lights cupped red,
-Kekoa whispering left, no, wait — Tutu, the OTHER left.
+He was a boy in the dark with one thumb,
+holding two doors of a mountain at once —
+his sister's voice on one side of him, steady, working,
+his friend's little bursts of static on the other.
+As long as both kept coming, the plan was alive.
 
-What Andrew knew in the moment was simpler:
-each answering click landed closer,
-fork by fork by fork,
-like footsteps made out of static.
+Somewhere down the hillside, five o'clock
+was walking toward Tutu's kitchen,
+and lateness — good, useful lateness — was on its way.
 
-In the chamber, Blazer's ears went up.
+In the chamber, a phone buzzed —
+a dry double buzz from inside Dr. Lee's jacket,
+the sound of an alarm somebody had set weeks ago.
 
-Amanda saw it and moved without letting herself think —
-two steps sideways, so Dr. Lee turned with her,
-his back settling toward the entrance tunnel.
+He went still. The color drained out of his voice
+as fast as it had poured in.
 
-"Show me the wall," she said. "The paddlers. Show me
-which carving convinced you first."
+"That's the truck," he said, mostly to himself. "It's time."
 
-"This one." He raised the lantern to the stone, glowing.
-"The double-hulled canoe. See the sail? Everyone insists—"
+He turned toward the duffel by the wall.
 
-Blazer stood up, nose aimed at the entrance, tail low and still.
+"Wait," Amanda said. "The paddlers.
+You haven't shown me which carving convinced you first.
+The double-hulled canoe — you said everyone insists—"
 
-"—everyone insists this district was settled three centuries
-later, but the carvings prove voyagers were here—"
-Dr. Lee stopped. He had seen the dog.
-He turned.
+And he almost did. She watched him almost do it —
+watched the hunger lean him back toward the wall
+for one whole second.
 
-Light was moving in the entrance tunnel.
-More than one light.
+Then he straightened up slowly, and looked at her,
+and something older and colder came back into his face.
 
-For one full second, nobody in the chamber breathed.
+"You're keeping me talking," he said.
+"Why are you keeping me talking?"
 
-"No," Dr. Lee whispered. "No, no — not yet—"
-He spun in a circle like a man in a burning house,
-and grabbed the ceremonial bowl off the slab,
-hugging it to his chest with both arms.
-"No one will ever believe me now!"
+For the first time since she had walked into the chamber,
+Amanda could not find a true thing to say fast enough.
 
-He bolted for the dark side tunnel at the chamber's far end.
+That was all the answer he needed.
+
+He grabbed the ceremonial bowl off the slab,
+hugging it to his chest with both arms —
+"I'm sorry. Nobody was ever going to listen anyway" —
+and he bolted for the dark side tunnel
+at the chamber's far end.
+
+And stopped.
+
+There was a light in it.
+
+A flashlight, held low and steady at somebody's chest,
+and above the light, not moving an inch, Kekoa —
+planted in the middle of the tunnel mouth
+like a boy who had grown there.
+
+"This one's not secret," Kekoa said. "I checked."
+
+Dr. Lee spun toward the entrance tunnel.
 
 Amanda let go of the leash.
 
 She didn't sic him. She didn't say a word.
 She just opened her hand, and eighty pounds of part Lab,
 part German Shepherd crossed the chamber like a thrown ball
-and arrived in the mouth of the side tunnel first,
+and arrived in the mouth of the entrance tunnel first,
 turned, planted, and became an entirely different dog.
 
 Head low. Hackles up. A growl out of the bottom of the mountain.
 
 Dr. Lee stopped so fast his shoes squealed on the stone.
+One door was a boy. One door was a dog.
+The whole mountain had run out of exits.
 
 "Call it off," he quavered, hugging the bowl. "Stop that beast —
 I'm scared of dogs!"
 
-"He's not a beast," said Andrew, walking out of the dark
-with his radio still in his hand. "He's a very good boy.
+"He's not a beast," said Andrew, stepping into the lantern light
+past his own dog's shoulder, radio still in his hand.
+"He's a very good boy.
 And that bowl is as old as the fishhook, maybe older,
 so I'd hold it really carefully and really still."
 
@@ -3118,12 +3194,15 @@ so I'd hold it really carefully and really still."
 
 Then the chamber filled with light.
 
-Two police officers came in first, low and quick,
-and stopped at the sight of a thin man
-hugging a bowl in front of a growling dog.
+Two police officers came in first, low and quick —
+Amanda gathered the leash, and Blazer stepped aside,
+handing them the doorway like a shift change —
+and they stopped at the sight of a thin man
+hugging a bowl in the middle of the chamber.
 Mrs. Kalani came in behind them,
 in her cardigan and her hiking shoes,
-the radio still held out in front of her like a compass.
+her tablet still glowing in one hand,
+a little blue dot burning steady in the middle of the screen.
 
 She took in the whole chamber in one long look —
 the walls, the slab, the twins, the bowl in Dr. Lee's arms —
@@ -3133,7 +3212,8 @@ move across her face and settle.
 "Good boy, Blazer," Mrs. Kalani said calmly.
 "Dr. Lee. I think it's time to put that back where it belongs."
 
-Dr. Lee looked at the exit. Blazer disagreed in advance.
+Dr. Lee looked at the exits, both of them.
+Both of them were full.
 
 Slowly, carefully, like a man setting down the last two years
 of his life, he placed the bowl back on the slab.
@@ -3148,17 +3228,26 @@ so that she sat down on a rock somewhat ahead of schedule.
 
 The next hour happened in pieces.
 
-The officers had parked Kekoa at the last fork until it was over.
-He arrived out of the tunnel at a dead run
+Kekoa held his tunnel mouth until an officer
+formally relieved him of it,
+then crossed the chamber at a dead run
 and did not stop until he had hugged both twins and the dog.
-"It worked, it worked, the clicks worked —
-Tutu held the radio into every tunnel like a seashell,
-and your clicks got louder and louder, and the officers kept saying
-this is highly irregular, and Tutu kept saying so is my grandson,
-keep walking—"
+"It loops! The dark fork goes up and around and comes out
+right there — I walked the whole thing with one hand on the wall,
+and then there was light ahead and it was YOUR voice,
+and I stood in that doorway being a lock for about six years —
+and the clicks kept coming the whole time,
+still okay, still okay—"
 
-"You talked us up a mountain without saying one word,"
-Mrs. Kalani said to Andrew. "In my day we called that impossible."
+"Eleven minutes," Andrew said.
+
+"For about eleven years—"
+
+"You held a door of a mountain shut with a flashlight,"
+Mrs. Kalani said to her grandson.
+Then, to Andrew, whose radio was still in his hand:
+"And you kept two rooms of the dark company at once.
+In my day we called all of that impossible."
 
 "It's just line of sight," Andrew said, going red.
 "Well. Line of tube."
@@ -3189,7 +3278,7 @@ Not a burial place; those we would never speak of like this,
 and never enter."
 
 "How did you even find us?" Kekoa asked his grandmother.
-"I only told you banyan tree and follow the clicks."
+"All I texted you was hiking."
 
 Mrs. Kalani pulled out her tablet.
 "You didn't think your grandmother was too old for technology,
@@ -3208,6 +3297,18 @@ when your message said hiking
 and my little dot walked straight off the marked trails
 and went quiet at a hole in the hillside.
 The officers were kind enough to drive fast."
+
+"The tube forks," Andrew said. "In the dark. How did you pick?"
+
+"We didn't have to." Mrs. Kalani nodded across the chamber
+at Amanda. "At every junction, three little flags
+were pointing the way. Big, medium, small.
+Very tidy work."
+
+"I was coming back for them," Amanda said. "That's the rule.
+You leave the mountain the way you found it."
+She looked around the carved chamber.
+"The mountain got busy."
 
 "Footage?" Andrew said. "But the cameras were dark.
 Eight to nine, every theft night. That hour is a hole."
@@ -3258,6 +3359,8 @@ But he was learning the scent that was on it. Dr. Lee's."
 "You kids did some impressive detective work,"
 said the officer with the fishhook, standing up.
 "But you should have come to us sooner."
+
+Amanda thought about sea monsters, and said nothing.
 
 "I have been saying exactly that," said their mother's voice
 from the entrance tunnel,
@@ -3370,7 +3473,7 @@ at the beginning. Not the end."
 Down on the sand, something scuttled. Blazer's head shot up,
 and both twins got busy holding his collar and laughing,
 which is why neither of them was listening
-when their dad said, quietly, over his glass:
+when their dad said, quietly, over his glass.
 
 "Steady beacon, silence discipline, a fallback signal.
 That's textbook fieldcraft. You'd be surprised how many
@@ -3453,7 +3556,7 @@ to solve old mysteries."
 
 The twins were pulled up front, burning red the entire way.
 
-"And my grandson," Mrs. Kalani said, "who ran."
+"And my grandson," Mrs. Kalani said, "who held the door."
 
 The crowd passed Kekoa up front too, still filming,
 filming mostly his own feet by the end of it.
