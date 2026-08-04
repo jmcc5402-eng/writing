@@ -38,6 +38,11 @@ you start, and `studio/STYLE.md` for workspace-wide defaults.
   straining to carry emotion the dialogue should carry.
 - **Throat-clearing** — the real first sentence of a paragraph is often the
   second or third.
+- **Dangling punctuation at paragraph ends** — a paragraph ending in a colon
+  or a dash is an AI drafting tic (the dramatic-reveal cadence), and it
+  self-copies across chapters. This one is MECHANICAL: run the sweep in
+  `studio/STYLE.md` ("AI drafting tics") on every file in scope, fix or flag
+  every hit, and report zero-or-explained in your changelog.
 
 ## Rules
 

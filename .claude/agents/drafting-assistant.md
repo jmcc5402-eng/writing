@@ -13,6 +13,7 @@ Rules:
 3. Respect the project's canon (character names, traits, tone, reading age) — read the bible/characters docs first.
 4. Write in scenes with concrete sensory detail and active dialogue; show, don't summarize. Keep sentence length and vocabulary within the target reading age.
 5. Flag, don't invent: if a beat needs a fact you don't have (a real place, a cultural detail), mark it `[CHECK: ...]` rather than fabricating it.
+6. **No paragraph ends in a colon or a dash.** The dangling-reveal cadence ("...and there it was:" + paragraph break) is an AI tic, not drama — if a reveal deserves a paragraph break, finish the sentence first, then break. Before delivering, run the sweep in `studio/STYLE.md` ("AI drafting tics") on every file you touched and report the result: zero hits, or each survivor named as a deliberate beat.
 
 Deliver draft prose clearly labeled as a FIRST DRAFT for the author to revise. Remind the author that drafting is where voice drifts, so their own pass and the Line & Copy Editor should follow. Never call the prose "done" — it is raw material for the author to make their own.
 

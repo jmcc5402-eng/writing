@@ -3,6 +3,19 @@
 Newest first. Every entry: version, what changed, and the evidence that
 drove it.
 
+## 2026-08-04 — drafting-assistant 1.2.0 → 1.3.0, line-copy-editor 1.2.0 → 1.3.0
+
+New shared rule: **no paragraph ends in a colon or a dash**, plus a
+mandatory mechanical sweep (`studio/STYLE.md`, "AI drafting tics") —
+drafting-assistant runs it before delivering (rule 6); line-copy-editor
+treats it as a COPY EDIT-mode mechanical check and reports
+zero-or-explained. Evidence: on the B1 adoption read the author caught
+six dangling colons and six dangling dashes across twelve chapters
+("weird colons," "weird long dashes") that no editorial pass had
+flagged — the dangling-reveal cadence is an AI tic that self-copies
+through voice-matching, so prevention has to be mechanical, not
+stylistic judgment.
+
 ## 2026-08-04 — plot-architect 1.2.0 → 1.3.0
 
 Outlines now include a LOCATION ROSTER — every recurring setting
