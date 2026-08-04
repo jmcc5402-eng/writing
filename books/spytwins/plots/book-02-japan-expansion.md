@@ -355,7 +355,8 @@ current; tally on track (week two began D-08).
 ### Ch 6 — Paint on His Hands
 
 STATE IN: day D-10(Mon) / rain at dawn / Kenta raking ice early,
-ahead of the six-o'clock fish truck (the one morning he beats it); Rin has redone panel one — the mark lands on the HAMADA
+ahead of the six-o'clock fish truck (the one morning he beats it);
+Rin has redone panel one — the mark lands on the HAMADA
 shutter / deltas: twins asleep, then summoned by the row's noise
 before class / objects: rag and thinner at the Hamada stall.
 
