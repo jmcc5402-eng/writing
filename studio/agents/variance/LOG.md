@@ -36,3 +36,4 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-03 | line-copy-editor (spytwins B1 staging fixes) | E1 template hunt | adoption branch manuscript + CHANGELOG |
 | 2026-08-04 | line-copy-editor (spytwins B1 clock compression) | E4 watch transitions | adoption branch manuscript + CHANGELOG |
 | 2026-08-04 | plot-architect (spytwins B2 4-para expansion) | A1 antagonist-first (read as culprit-first: structure from Rin's plan outward) | plots/book-02-japan-expansion.md |
+| 2026-08-04 | continuity-keeper (spytwins B2 expansion gate) | E2 start from the weakest chapter | plots/book-02-japan-expansion.md review |
