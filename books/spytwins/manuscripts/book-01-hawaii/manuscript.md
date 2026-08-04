@@ -152,7 +152,7 @@ already starting to sketch the curved lines.
 
 "It's like ancient Hawaiian graffiti," Kekoa explained with a grin.
 "Except way more important.
-Ki'i pōhaku, we call them. Images in stone.
+Ki'i pohaku, we call them. Images in stone.
 Our ancestors carved these symbols into rocks
 to tell stories or mark special places."
 
@@ -297,9 +297,9 @@ where the twins stopped to read the hand-painted menu board.
 "'Like fresh fallen snow drizzled with tropical flavors,'"
 Amanda read aloud.
 "'Try our Volcanic Special —
-strawberry and lilikoi with sweet cream on top.'"
+strawberry and liliko'i with sweet cream on top.'"
 
-"What's lilikoi?" Andrew asked, squinting at the sign.
+"What's liliko'i?" Andrew asked, squinting at the sign.
 
 "Passion fruit," called the vendor cheerfully.
 "Best flavor in Hawaii! Here, try a sample."
@@ -3567,7 +3567,7 @@ a loose spiral, a tight notched spiral, a little leaning line —
 the very shapes they had measured in the rain.
 
 "In old Hawaii," she said, fastening the first bracelet
-around Amanda's wrist, "the kūkini — the swift runners —
+around Amanda's wrist, "the kukini — the swift runners —
 carried messages between villages.
 They were chosen young, for sharp eyes and fast feet.
 They saw things others missed."

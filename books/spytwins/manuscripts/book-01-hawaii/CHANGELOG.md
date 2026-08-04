@@ -380,3 +380,12 @@ Applied directly from the author's chat rulings on the PR #6 read.
   from an ocean full of it." / Dad: "Burgers first, fish later."),
   ch10-11 serve teriyaki chicken, and the ch12 mahi-mahi is Dad
   finally choosing fish, which is why Mom stops dead. No change made.
+
+## Orthography sweep (2026-08-04) — post-adoption, per series policy
+The mechanical sweep the policy scheduled "at the first line/copy pass
+after B1 adoption" (story-engine, "Hawaiian orthography", option B via
+PR #7: ʻokina marked as plain apostrophe, no kahakō, no italics).
+Four fixes: "Ki'i pōhaku" → "Ki'i pohaku" (ch1); "lilikoi" ×2 →
+"liliko'i" (ch2 shave-ice sign and Andrew's question); "kūkini" →
+"kukini" (ch12 bracelet speech). Everything else already complied
+(ko'i, ki'i, kahu, honu, lauhala, lanai, Hawaii, Kahului, koa, poi).
