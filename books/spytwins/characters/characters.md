@@ -106,9 +106,14 @@ _Local to Book 1; not necessarily recurring._
 
 - **Kekoa** — teenage neighbor; drone pilot; teaches the twins to surf. The
   twins' local guide and third member of the crew.
-- **Mrs. Kalani** — Kekoa's grandmother; works at the cultural center; expert in
-  Hawaiian petroglyphs and culture. Sharper than she lets on (she tracks the kids
-  and reviews security footage to save the day).
+- **Mrs. Kalani** — Kekoa's grandmother; the cultural center's
+  curator-director — the person who runs the small, largely
+  volunteer-staffed center (keys, tours, the board, the collection);
+  she also volunteers an evening shift a week at the hospital (the ch8
+  "hospital shift"). Kekoa's "runs a gift shop" is teen deadpan, kept.
+  Expert in Hawaiian petroglyphs and culture. Sharper than she lets on
+  (she tracks the kids and reviews security footage to save the day).
+  [Locked by author PR, 2026-08-04.]
 - **Dr. Marcus Lee** — the villain; a disgraced former University of Hawaii
   archaeologist stealing artifacts to "prove" his rejected migration theory. Not
   evil so much as desperate and misguided.
