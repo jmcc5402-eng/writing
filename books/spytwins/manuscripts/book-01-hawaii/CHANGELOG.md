@@ -360,3 +360,23 @@ Applied directly from the author's chat rulings on the PR #6 read.
   paid in the ch10 huddle ("We'd still be on hold when the truck
   left") and at the officer's "should have come to us sooner"
   ("Amanda thought about sea monsters, and said nothing").
+
+## Author read-pass — ch12 rulings (2026-08-04)
+- **Kahu sentence split in three** (was one nine-line sentence): the
+  blessing, the silence, and the Blazer joke each get their own.
+- **Kekoa's credit line updated for the new climax** — "a guy with a
+  phone who can really run" (he no longer runs) is now "And a human
+  door," Kekoa said. "Fine. It was all of us." — with "They all
+  laughed." added after, per the author's make-it-happier ruling.
+- **Dash sweep, ch12 (author: "weird long dashes").** Three
+  dash-into-paragraph-break instances fixed: the grill list now ends
+  "plus chicken, plus pineapple." before Mom's "Fish" line; "And then
+  an ocean. And then —" completed as "And then the rest of the
+  world."; the book's final lines joined into one flowing sentence
+  ("...all at the same time — / which, Amanda decided, was exactly
+  the right amount of true.").
+- **Fish continuity check (author question): clean.** No fish meal
+  occurs earlier — ch1 plants it (Mom: "Fish. We live twenty steps
+  from an ocean full of it." / Dad: "Burgers first, fish later."),
+  ch10-11 serve teriyaki chicken, and the ch12 mahi-mahi is Dad
+  finally choosing fish, which is why Mom stops dead. No change made.

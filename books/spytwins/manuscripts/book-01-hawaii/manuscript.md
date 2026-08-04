@@ -3510,10 +3510,10 @@ watching six hundred feet stand on sixty years of her work.
 
 A kahu — Kekoa whispered that it meant
 something between minister and guide —
-blessed the artifacts and the hall and the people in it,
-and though the twins couldn't follow every word,
-they could follow the silence around the words,
-which was the kind that made even Blazer,
+blessed the artifacts and the hall and the people in it.
+The twins couldn't follow every word,
+but they could follow the silence around the words.
+It was the kind of silence that made even Blazer,
 tied in the shade outside with a bowl of water,
 decide not to bark at anything for a while.
 
@@ -3623,8 +3623,9 @@ since you two first walked in here," Kekoa said.
 
 "And a radio," Amanda said.
 
-"And a guy with a phone who can really run," Kekoa said.
-"Fine. It was all of us."
+"And a human door," Kekoa said. "Fine. It was all of us."
+
+They all laughed.
 
 ---
 
@@ -3667,7 +3668,7 @@ That evening, the lanai turned into a feast.
 
 Their dad stood at the grill in a cloud of glorious smoke,
 turning fresh mahi-mahi he had bought that morning,
-plus chicken, plus pineapple, plus —
+plus chicken, plus pineapple.
 
 "Fish," their mom said, stopping dead with the fruit salad.
 "On our grill. Fish that you chose."
@@ -3720,7 +3721,8 @@ and Andrew asking four questions at once,
 and she sat quietly inside the noise, holding both feelings,
 which had turned out to be a thing a person could do.
 
-Two more months here. And then an ocean. And then —
+Two more months here. And then an ocean.
+And then the rest of the world.
 
 Kekoa had brought the drone over for the occasion.
 As the sun dropped, he stood and picked up his controller.
@@ -3816,5 +3818,4 @@ for two kids who had learned to read the writing on the rocks.
 
 Hello and goodbye and love and see you,
 all in one word, all at the same time —
-
 which, Amanda decided, was exactly the right amount of true.
