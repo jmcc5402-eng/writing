@@ -105,8 +105,13 @@ The project evolved across several years of drafts. These are now **locked**:
   corrected. Note: "Coach Chen" — Amanda's Seattle soccer coach — is a separate,
   intentional character and remains.
 - **[Canon decision, author 2026-07-27] Book 1 public clock:** the cultural
-  center's **annual blessing ceremony**, roughly three weeks after the twins
-  arrive — stated on a placard in ch2 and restated by Mrs. Kalani in ch4.
+  center's **annual blessing ceremony**, exactly three weeks (day 21)
+  after the twins arrive — stated on a placard in ch2 and restated by
+  Mrs. Kalani in ch4 ("twelve days. Ready or not."). Compressed from
+  day 27 by author ruling 2026-08-04 so the blessing lands THREE DAYS
+  after the capture — the finale plays under clock pressure, and the
+  countdown rule for future books is: the gap between climax and the
+  kept deadline stays small (days, not weeks).
   Every artifact must be back in its case by ceremony day; Dr. Lee's ch8
   shipment races it, and the ch12 ceremony is the deadline *kept*, not an
   epilogue. [CHECK: Hawaiian name and cultural accuracy of the ceremony —
@@ -175,6 +180,14 @@ The project evolved across several years of drafts. These are now **locked**:
   story engine.
 - **WAIVED: field-trip chapter — B1 pre-dates the rule (author,
   2026-08-03).**
+- **[Canon decision, author 2026-08-04] Two public buildings.** B1's
+  town has exactly two buildings the kids frequent: the CULTURAL
+  CENTER (artifacts, Mrs. Kalani) and the LIBRARY (reading, the
+  soccer sign-up), a few blocks apart. No community center, no third
+  venue; narration never calls the center a "museum" (Mrs. Kalani's
+  spoken "my museum" is voice and stays). Series rule of thumb: keep
+  each book's kid-geography to a handful of distinct, distinctly
+  NAMED places.
 - **[Canon decision, author 2026-08-03] Chapter-1 standing rules.**
   Every book's ch1 states the standing family rules alongside the dog
   description: the roam boundary (city-appropriate) and the

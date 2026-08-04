@@ -34,3 +34,4 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-03 | continuity-keeper (spytwins B1 staging sweep) | E3 reverse-order sweep | report in-session |
 | 2026-08-03 | developmental-editor (spytwins B1 Hauge timing) | E6 weight what's missing | notes/b1-timing-audit-2026-08-03.md |
 | 2026-08-03 | line-copy-editor (spytwins B1 staging fixes) | E1 template hunt | adoption branch manuscript + CHANGELOG |
+| 2026-08-04 | line-copy-editor (spytwins B1 clock compression) | E4 watch transitions | adoption branch manuscript + CHANGELOG |
