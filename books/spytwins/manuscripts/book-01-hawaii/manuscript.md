@@ -2,8 +2,12 @@
 SPYTWINS — BOOK 1
 Title: The Petroglyph Mystery
 Setting: Maui, Hawaii
-Status: Complete draft (12 chapters). Cleaned + continuity-fixed from "Hawaii - Full text v6".
-Source of record: this file. See CHANGELOG.md in this folder for edit history.
+Status: v2 ADOPTION CANDIDATE (12 chapters), staged 2026-08-02;
+author read-pass edits ch1-2 and the Hawaii culture-pass fixes
+applied 2026-08-03 (see CHANGELOG and
+notes/hawaii-culture-pass-2026-08-02.md). All PR #3-#5 rulings
+resolved in. No [CHECK] markers remain. OPEN: series orthography
+policy (culture-pass flag 5); the author's own voice pass.
 -->
 
 # The Petroglyph Mystery
@@ -13,779 +17,3805 @@ Source of record: this file. See CHANGELOG.md in this folder for edit history.
 
 ## Chapter 1: Aloha, New Home
 
-The hot Hawaiian sun beat down as Andrew and Amanda Wilson dragged their rolling suitcases up the sidewalk toward their temporary home. Their dog Blazer strained at his leash, barking excitedly at sand crabs scuttling across the path.
+The first thing Blazer did on Maui was declare war on a sand crab.
 
-"Blazer, heel!" Amanda called, though she knew it was useless. The part Lab, part German Shepherd was too excited by all the new sights and smells of Maui.
+The hot Hawaiian sun beat down as Andrew and Amanda Wilson
+dragged their rolling suitcases up the sidewalk toward their temporary home,
+and their dog hit the end of his leash so hard
+that Amanda nearly sat down on the pavement.
 
-"This is it, kids," their dad Adam announced, gesturing to a light blue two-story house with a wraparound porch. Palm trees swayed gently in the breeze, and the sound of waves could be heard from the beach just beyond their backyard.
+"Blazer, heel!" she called, though she knew it was useless.
+The part Lab, part German Shepherd was too excited
+by all the new sights and smells of Maui,
+and the crab had already vanished down a hole in the sand,
+which Blazer clearly took personally.
 
-"It's so... different," Andrew said, comparing it to their brick house back in Seattle.
+"This is it, kids," their dad Adam announced,
+gesturing to a light blue two-story house with a wraparound porch.
+Palm trees swayed gently in the breeze,
+and the sound of waves drifted up from the beach just beyond the backyard.
 
-Their mom Erin's phone buzzed for the third time in five minutes. "Sorry, kids. Just one more email," she said, fingers flying across her screen.
+"It's so... different," Andrew said,
+thinking of their brick house back in Seattle.
 
-"Mom!" Amanda interrupted. "You promised no work until we're settled."
+Their mom Erin's phone buzzed for the third time in five minutes.
+"Sorry, kids. Just one more email," she said,
+fingers flying across her screen.
 
-"You're right, you're right." Erin tucked her phone away. "Three months will fly by, and this consulting project is a great opportunity for your father and me."
+"Mom!" Amanda said. "You promised. No work until we're settled."
 
-As they lugged their bags onto the porch, a drone whirred overhead, catching Andrew's attention. A teenage boy controlled it from the neighboring yard.
+"You're right, you're right." Erin tucked her phone away.
+"Three months will fly by, and this consulting project
+is a great opportunity for your father and me."
+
+In the window of the house on the other side of theirs, a curtain moved.
+A woman stood very still behind the glass — watching, not waving.
+Amanda waved anyway.
+The curtain dropped back into place.
+
+"Friendly neighborhood," she said.
+
+As they lugged their bags onto the porch, a drone whirred overhead,
+and Andrew's whole face changed.
+A teenage boy was flying it from the neighboring yard.
 
 "Cool drone!" Andrew called out. "What model is it?"
 
-The boy grinned and guided the drone to a gentle landing. "It's a Mavic 4 Pro. I'm Kekoa. You guys just moved in?"
+The boy grinned and brought it down into a low, steady hover.
+"It's a Mavic 4 Pro. I'm Kekoa. You guys just moved in?"
 
-"Only for three months," Amanda replied, watching Blazer chase another crab. "I'm Amanda, and that's my twin brother Andrew."
+Bags abandoned on the porch, the twins drifted across
+the strip of grass between the yards, Blazer towing Amanda ahead.
 
-"Oh, and this is Blazer," Amanda added when their dog started sniffing around Kekoa's feet. "He's part Lab, part German Shepherd. Dad says he got the Lab's love of water and the Shepherd's nose - he can smell a treat from three houses away."
+"Only for three months," Amanda replied.
+"I'm Amanda, and that's my twin brother Andrew.
+Oh — and this is Blazer," she added
+when their dog started sniffing around Kekoa's feet.
+"He's part Lab, part German Shepherd.
+Dad says he got the Lab's love of water and the Shepherd's nose —
+he can smell a treat from three houses away."
 
-An elderly woman emerged from Kekoa's house, wearing a bright floral dress. "Welcome to the neighborhood! I'm Mrs. Kalani, Kekoa's grandmother. I work at the cultural center down the road."
+"Who lives over there?" Andrew asked, nodding at the window.
 
-"The one with all the ancient Hawaiian artifacts?" Andrew asked, suddenly interested.
+"Mrs. Santos. She's always at that window," Kekoa said.
+"She sees everything on this street. Everything."
+He looked from Andrew's face to the controller and back.
+"You want a turn?"
 
-"That's right. You should come visit sometime. We just opened a fascinating new exhibit…" Mrs. Kalani's invitation was cut short by Blazer's excited barking.
+Andrew's hand went up and smoothed down his cowlick,
+which is what his hands did when he was nervous.
+"Seriously? What if I crash it?"
 
-Amanda spotted what had caught their dog's attention: strange markings carved into some rocks near their property line. "Hey, what are those symbols over there?"
+"You won't get the chance."
+Kekoa set the controller in Andrew's hands
+and kept his own fingers hovering an inch away.
+"Left stick, up and down. Small moves. Tiny moves. Okay — she's yours."
 
-"Those old petroglyphs?" Kekoa shrugged. "They've always been there. Nobody pays much attention to them anymore."
+For thirty glorious seconds, Andrew flew.
 
-"What's a petroglyph?" Amanda asked, squinting at the strange marks on the volcanic rock. She pulled out her notebook, already starting to sketch the curved lines.
+Mostly, the drone flew Andrew.
+It wobbled left, dipped right,
+drifted toward a palm tree like it held a grudge,
+and dropped a whole foot when he breathed wrong.
+Blazer barked at it the entire time, bouncing on his front paws.
 
-"It's like ancient Hawaiian graffiti," Kekoa explained with a grin. "Except way more important. Our ancestors carved these symbols into rocks to tell stories or mark special places."
+"Palm tree — palm tree—"
+Kekoa's hand closed over the controller,
+and the drone slid back to the middle of the yard,
+steady as a dinner plate.
+"Not bad for a first hover. Seriously. Most people park it in the ocean."
 
-"So these aren't just random scratches?" Amanda traced her finger along one of the deeper grooves.
+"That was thirty seconds?" Andrew said. "It felt like five."
 
-"No way! Each symbol meant something to them. Like this spiral here? It could represent the ocean, or maybe even eternity. My grandmother knows all about them - she gives tours at the cultural center."
+"That's how it gets you." Kekoa landed the drone in the grass.
+"Tell you what — I teach surf lessons most mornings,
+but Wednesdays I'm free.
+Come by and I'll teach you for real.
+Standing lessons. No couch pilots."
 
-"Kids, time to set up your rooms!" The twins turned towards the house to see their mom calling.
+Before Andrew could say yes to all of it,
+an elderly woman came out of Kekoa's house,
+wearing a bright floral dress.
 
-"I guess we need to head in, nice to meet you Kekoa," Andrew said, still eyeing the drone.
+"Welcome to the neighborhood!
+I'm Mrs. Kalani, Kekoa's grandmother.
+I work at the cultural center down the road."
 
-After dragging his suitcase up the stairs, Andrew stepped into his new bedroom and immediately frowned. The space was half the size of his room back in Seattle, and the closet could barely fit his lacrosse gear. But then he noticed the window, he could see surfers dotting the ocean waves like tiny dots. "Maybe a room with a view isn't that bad after all," he thought to himself.
+"The one with all the ancient Hawaiian artifacts?" Andrew asked,
+suddenly even more interested.
 
-That evening, the family gathered for dinner on the lanai. The sunset painted the sky in brilliant oranges and pinks, and the gentle sound of waves provided perfect dinner music. Their dad had fired up the grill for the first time, proudly serving hamburgers with grilled pineapple.
+"That's right. You should come visit sometime.
+We just opened a fascinating new exhibit—"
 
-"You kids are going to love it here," their mom said, passing the bowl of tropical fruit salad. "There's snorkeling, hiking, and I heard there's a great soccer program at the community center, Amanda."
+Mrs. Kalani's invitation was cut short by Blazer,
+who had quit bouncing at the drone
+and started barking at the ground near the property line instead —
+low, serious barking,
+his nose jammed against a jumble of black volcanic rock.
 
-"And Andrew, wait until you see the technology museum," their dad added, grinning. "They have an entire exhibit on ancient Hawaiian navigation techniques. Pretty amazing how they used the stars to sail across the Pacific."
+Amanda spotted what had caught their dog's attention:
+strange markings carved into the rocks.
+"Hey — what are those symbols over there?"
 
-"Plus," their mom continued, "Mrs. Kalani mentioned that Kekoa's involved in all sorts of local activities. I bet he could show you around."
+"Those old petroglyphs?" Kekoa shrugged.
+"They've always been there.
+Most people walk right past them.
+My grandmother says the rocks can wait;
+they've got more patience than people."
 
-Amanda picked at her coleslaw and slid the pineapple off of her hamburger. She watched Blazer make another failed attempt to catch a sand crab and said, "yeah, I guess Andrew and I will go explore tomorrow."
+Amanda went over for a closer look, Andrew on her heels.
 
-Her brother wasn't listening though. He was staring at the rocks with the strange carvings, now barely visible in the fading light.
+"What's a petroglyph?" Amanda asked,
+squinting at the strange marks on the volcanic rock.
+She pulled out her notebook,
+already starting to sketch the curved lines.
+
+"It's like ancient Hawaiian graffiti," Kekoa explained with a grin.
+"Except way more important.
+Ki'i pōhaku, we call them. Images in stone.
+Our ancestors carved these symbols into rocks
+to tell stories or mark special places."
+
+"So these aren't just random scratches?"
+Amanda reached out to trace one of the deeper grooves.
+
+"Eyes, not fingers," Kekoa said. "Skin wears them away.
+My grandmother's rule."
+
+Amanda pulled her hand back and sketched the groove instead.
+
+"No way are they random," Kekoa went on.
+"Each symbol meant something to them.
+Like this spiral here — the big loose one, like a wave?
+It could represent the ocean, or maybe even eternity.
+My grandmother knows all about them —
+she gives tours at the cultural center."
+
+Andrew crouched beside his sister,
+propped his tablet on his knee,
+and started taking pictures — close-ups and wide shots.
+If Amanda was going to sketch them,
+somebody should have the real thing to check her against.
+
+"Kids! Time to set up your rooms!" their mom called from the porch.
+
+Andrew's new bedroom was half the size of his room back in Seattle,
+and the closet could barely fit his lacrosse gear.
+But then he noticed the window:
+surfers dotted the ocean waves like tiny specks.
+Maybe a room with a view wasn't so bad after all.
+
+That evening, the family gathered for dinner on the lanai.
+The sunset painted the sky in brilliant oranges and pinks,
+and their dad had fired up the grill for the first time,
+proudly serving hamburgers topped with grilled pineapple.
+
+"You know what would also grill beautifully?" their mom said,
+passing the bowl of tropical fruit salad.
+"Fish. We live twenty steps from an ocean full of it."
+
+"Burgers first, fish later," their dad said. "It's called settling in."
+
+"It's called the same three meats you make in Seattle," their mom said,
+but she was smiling.
+"And remember the rule. Same as every city:
+five family dinners a week. Minimum. However the project goes."
+
+"That's our rule for YOU," Amanda said. "Andrew keeps the tally."
+
+"Somebody has to," Andrew said. "March was a four-dinner month.
+I have records."
+
+"Anyway — there's a great beach soccer program here —
+I saw the sign-up sheet at the library, Amanda.
+And Mrs. Kalani says Kekoa teaches surf lessons.
+You should learn while we're living on an ocean.
+It seems a waste not to."
+
+"Speaking of activities."
+Their dad reached under his chair
+and set a box beside Andrew's plate,
+wearing the guilty-generous look he got
+whenever he came home from a conference.
+"I missed the last three lacrosse games this spring. I'm aware.
+So when I saw this at the conference, I thought of you two."
+
+Inside the box was a pair of walkie-talkies —
+real ones, black and yellow, with belt clips and stubby antennas,
+not the toy kind that die at the end of a driveway.
+
+"Since neither of you gets a phone until high school," their dad said,
+"and since this island is somewhat larger than our backyard."
+
+"Whoa," Andrew said. "Wait — for both of us?"
+
+"One each," their dad said.
+"Deciding who gets which one — you two get to decide.
+Which I'm sure will go perfectly."
+
+Before either twin could open negotiations,
+their mom's phone lit up on the table.
+She looked at the screen and stood, all in one motion.
+
+"It's the client. Sorry — this is the one that can't happen over video."
+She was already halfway to the kitchen door.
+
+"Why can't it happen over video?" Andrew asked.
+
+"Big clients are strange, buddy," their dad said,
+flipping a burger that did not need flipping.
+"Who wants more pineapple?"
+
+Amanda slid the pineapple off her hamburger
+and listened to Blazer patrol the dark edge of the yard,
+ears up at every small scratching sound from the sand.
+"Once we're finally unpacked," she said,
+"Andrew and I are exploring this whole neighborhood. Every block."
+
+Her brother wasn't listening, though.
+He was staring at the rocks with the strange carvings,
+now barely visible in the fading light.
 
 ## Chapter 2: Finding Their Way
 
-Breakfast dishes clattered in the sink as Andrew and Amanda rushed to get ready for their first real day of exploring. The twins had spent most of their first week unpacking boxes and setting up their rooms, but today was different. Dad had finally given them permission to explore the neighborhood on their own.
+The last moving box got flattened on a Saturday morning,
+and Amanda stomped it flat herself, just to make it official.
 
-"Stay within six blocks," their father called from his makeshift office in the dining room. "And be home by lunch!"
+"A whole week of unpacking," she said. "That should be illegal."
 
-Amanda tucked her worn soccer ball under her arm, hoping to find a good spot to practice. Andrew clutched his tablet, already plotting their route to the nearest electronics store where he'd spotted some cool drones in the window.
+"Tell you what," their dad said
+from his makeshift office in the dining room.
+"You two have earned a morning off.
+Stay within six blocks, and be home by lunch."
 
-"Can we take Blazer?" Andrew asked, watching their dog sprawl in a patch of sunlight streaming through the window.
+The twins looked at each other. "By ourselves?" Andrew asked.
 
-"Better not," their mom answered, looking up from her laptop. "He's still too excited about those crabs. Maybe once he settles down."
+"By yourselves. The library's three blocks away. Plenty of adventure."
 
-The walk to the library took them past a shave ice stand, where Andrew and Amanda stopped to read the hand-painted menu board.
+"If you see Mrs. Kalani, tell her I said hello," their mom added
+from behind her laptop.
+"I ran into her at the farmers market Thursday
+and we talked for half an hour.
+Mostly about you two, actually —
+she wanted to hear all about Amanda's puzzle books."
 
-"'Like fresh fallen snow drizzled with tropical flavors,'" Amanda read aloud. "'Try our Volcanic Special - strawberry and lilikoi with sweet cream on top.'"
+Amanda paused with her soccer ball halfway under her arm. "Why?"
+
+"Because I bragged. It's a mother's job."
+
+"Can we take Blazer?" Andrew asked,
+watching their dog sprawl in a patch of sunlight
+streaming through the window.
+
+"Better not," their mom said.
+"He's still learning every smell on this beach.
+Maybe once he settles down."
+
+The walk toward the library took them past a shave ice stand,
+where the twins stopped to read the hand-painted menu board.
+
+"'Like fresh fallen snow drizzled with tropical flavors,'"
+Amanda read aloud.
+"'Try our Volcanic Special —
+strawberry and lilikoi with sweet cream on top.'"
 
 "What's lilikoi?" Andrew asked, squinting at the sign.
 
-"Passion fruit," called the vendor cheerfully. "Best flavor in Hawaii! Here try a sample…"
+"Passion fruit," called the vendor cheerfully.
+"Best flavor in Hawaii! Here, try a sample."
 
-Licking their lips, the kids continued on. They passed two surf shops and a small farmers market where fresh pineapples were stacked in neat pyramids. Andrew stopped to watch a street performer playing a ukulele, much to his sister's annoyance.
+Licking their lips, the twins continued on,
+past a small farmers market
+where fresh pineapples were stacked in neat pyramids,
+and past two surf shops.
+Outside the second one, they slowed to watch the surfers offshore,
+popping up on their boards like it was nothing.
 
-"Come on, Andrew! You walk slower than Blazer chasing his tail," Amanda teased, bouncing her soccer ball against her knee.
+"Kekoa said he'd teach us that too," Amanda said. "I can't wait."
 
-"We wouldn't be in such a rush if Mom and Dad gave us phones," Andrew replied, still watching the musician. "We could just text them where we are."
+"You have to go from lying down to standing in one motion,"
+Andrew said, quieter.
+"In about one second. On water."
+He watched a surfer glide down the face of a wave.
+"I trip on flat, dry land."
 
-"Nice try." Amanda grabbed his arm. "Mom already said not until high school. Now hurry up!"
+"You'll figure it out. You always figure stuff out eventually."
 
-At the local library, just three blocks away, Andrew discovered an entire shelf dedicated to Hawaiian mythology and technology. Meanwhile, Amanda slumped in a nearby chair, fidgeting with her friendship bracelet while looking at the library's bulletin board. A flyer for youth soccer caught her eye, making her think of her team back in Seattle. She missed sprinting down the sideline and crossing the ball with her powerful left foot. Coach Chen always said she had the best left-footed shot on the team. Last season, she'd scored seven goals, helping the Warriors win their division.
+"Thanks for the 'eventually.'"
 
-After checking the clock on the wall, Amanda stood up to go find Andrew. As the two walked out of the building Mrs. Kalani appeared in the doorway, waving them over with a warm smile.
+At the electronics store, Andrew stopped dead in front of the window.
 
-"Would you two like a special tour of the cultural center?" she asked. "We just opened a new exhibit about ancient Hawaiian artifacts."
+"Forty-nine dollars," he said. "For one spare drone battery.
+The battery, Amanda. Not even the drone."
 
-The kids looked at each other, not sure what to say. "Thanks so much Mrs. Kalani, but I don't think we have time. We need to get home for lunch. Maybe we can come back tomorrow with Kekoa."
+"You don't have a drone."
 
-The late morning sun blazed overhead as Andrew and Amanda took the hiking trail home from the cultural center. They needed to hurry - Mom did not like them to be late. Their new shortcut wound through a grove of coconut palms and past black volcanic rocks covered in moss. "Race you to the banyan tree!" Amanda called out, but Andrew wasn't listening. He had stopped in his tracks, staring at something on a large rock partially hidden by ferns.
+"I have a lesson on Wednesday. Lessons lead to drones."
+He pressed a finger to the glass, doing allowance math.
 
-"Amanda, look at this!" he said, pushing aside the greenery.
+"Come on, Andrew! You walk slower than Blazer chasing his tail,"
+Amanda teased, bouncing her soccer ball off her knee.
+Down the block a street performer was playing a ukulele,
+and Andrew slowed down for that, too.
 
-Carved into the volcanic rock were more mysterious symbols like the ones near their house. But these were different - they seemed to point in a specific direction. Amanda pulled out her notebook and quickly sketched the new markings, her eyes lighting up the way they always did when she encountered a new puzzle. Back home in Seattle, she'd spend hours solving riddles in her puzzle books or working out math problems - just for fun. Even her soccer coach said she was great at reading patterns in the opposing team's defense.
+"We wouldn't be in such a rush if Mom and Dad gave us phones,"
+he said, still watching the musician.
+"We could just text them where we are."
 
-Now, studying these ancient carvings, she could feel that familiar excitement building as she noticed how these new symbols connected perfectly with the ones they'd found earlier. "Andrew," she said, "I think these symbols might be pieces of a bigger puzzle. Look how they line up with my other drawings!"
+"Nice try." Amanda grabbed his arm.
+"Mom already said not until high school. Now hurry up."
+
+At the local library, Amanda parked her soccer ball by the door.
+Andrew discovered an entire shelf
+dedicated to Hawaiian mythology and technology
+and vanished into it.
+Amanda slumped in a chair near the bulletin board,
+fidgeting with her friendship bracelet.
+A flyer for youth soccer caught her eye,
+and missing her team back in Seattle hit her all at once —
+sprinting down the sideline,
+crossing the ball with her powerful left foot,
+Coach Chen saying it was the best left-footed shot on the Warriors.
+She copied the sign-up number into her notebook. Just in case.
+
+They were on their way out when Mrs. Kalani appeared in the doorway,
+a stack of flyers in her arms and a warm smile on her face.
+
+"Well, if it isn't the Wilson twins! I was just dropping these off."
+She held up the flyers.
+"Would you two like a special tour of the cultural center?
+The new exhibit is finally open, and Saturdays are quiet."
+
+Amanda checked the wall clock, then her brother's face.
+"We have until lunch," she said. "We're in. Let's go."
+
+"Is the fishhook part of the new exhibit?" Andrew asked
+as they fell in beside her.
+"The center's website says it's over five hundred years old.
+Is that a real number, or a website number?"
+
+Mrs. Kalani laughed. "A real number. Come and meet it."
+
+The cultural center smelled like old wood and flowers.
+Mrs. Kalani walked them through the main hall
+to a display case in the center of the room,
+where a soft spotlight fell on a delicately carved bone fishhook.
+
+"Our prize," she said quietly.
+"Carved from bone. Used by ancient Hawaiian chiefs.
+Look at the tiny marks along the edge —
+every one made by hand,
+by someone whose name nobody will ever know."
+
+Amanda's notebook was out before she knew she had reached for it.
+The fishhook gleamed under the display lights,
+and she sketched fast — the curve, the barb,
+the little notches along the edge.
+
+Beside it sat a wide ceremonial bowl, dark and smooth,
+with a tight, notched spiral carved around its rim.
+
+"They keep each other company," Mrs. Kalani said.
+"The hook and the bowl. They were found in the same district."
+
+Andrew was looking at something else —
+up in the corner of the room, where a small red light blinked.
+"Is that a camera?"
+
+"Cameras, motion sensors, the works," Mrs. Kalani said,
+in the voice of someone who has answered that question
+on a hundred tours.
+"Outside consultants set it all up years ago.
+Very expensive, I'm told. The board grumbled for months."
+
+"Years ago?" Andrew said. "Do the sensors still get updates, or—"
+
+"Andrew," Amanda said. "Not everything is a gadget interview."
+
+Mrs. Kalani chuckled and led them back toward the entrance,
+stopping at a placard on a wooden stand by the door.
+It announced the center's annual blessing ceremony,
+with a painted date two weeks away.
+"The whole town comes," Mrs. Kalani said, tapping the placard twice.
+"Every piece you saw today gets blessed that morning.
+Which means every piece you saw today
+stays exactly where it is until then. In its case. Gleaming."
+"So you two picked exactly the right month to come," she said.
+"Come back whenever you like.
+And tell your mother I said aloha."
+
+The twins took the hiking-trail shortcut home,
+because their mom did not like them to be late for lunch.
+The trail wound through a grove of coconut palms
+and past black volcanic rocks covered in moss.
+
+They were halfway to the banyan tree when Amanda slowed.
+Off the trail, maybe thirty yards up the slope,
+a man was crouched at a rock face with a camera,
+taking picture after picture.
+Between shots, he wrote something in a small notebook.
+
+"A tourist?" Amanda whispered.
+
+"Taking a hundred pictures of one rock?" Andrew whispered back.
+
+The man never looked their way.
+The trail bent, the ferns closed behind them, and he was gone.
+
+"Race you to the banyan tree!" Amanda called out —
+but Andrew wasn't listening.
+He had stopped in his tracks,
+staring at a large rock partially hidden by ferns.
+
+"Amanda. Look at this."
+
+Carved into the volcanic rock were more mysterious symbols,
+like the ones near their house —
+but these seemed to point in a specific direction.
+Amanda's notebook was out in a second, pencil flying.
+
+"It's the same spiral as the one by our house," she announced.
+"Same carver, one big design. I knew those rocks weren't random—"
+
+"Hold on." Andrew pulled up his photos from their first day
+and held the tablet next to the rock.
+"Look again. Ours is a loose, open spiral, like a wave.
+This one is tighter, and it has notches — one, two, three.
+And these straight lines underneath?
+There's nothing like them at our house.
+They lean uphill. All of them."
+
+Amanda looked from the tablet to the rock and back.
+Then she grinned — and it wasn't a defeated grin.
+
+"Okay. That's better than what I said," she admitted.
+"Different symbols, same style, pointing somewhere.
+That's not one carving, Andrew — that's pieces of a bigger puzzle.
+Your photos, my sketches — look how they line up.
+Like someone stretched a message across the whole hillside."
+
+"A message for who?" Andrew said.
+
+Neither of them had an answer.
+They ran the rest of the way home and made it — barely — by lunch.
+
+And far behind them on the trail,
+faint as a bird, a camera clicked.
 
 ## Chapter 3: Strange Symbols
 
-Kekoa gave the twins an apologetic wave as they passed his house the next morning.
+On Sunday morning, Amanda raided the kitchen junk drawer
+and came up holding Dad's measuring tape like a trophy.
 
-"I can't join you guys today," he called out. "Got two beginner surf lessons to teach, but maybe later?"
+"For the trail carvings," she said,
+zipping it into her backpack
+with her notebook and two peanut butter sandwiches.
+"Real detectives measure things.
+If the symbols are a message, the spacing might matter."
 
-The twins were disappointed, but the mystery of the petroglyphs couldn't wait. Andrew and his dad did some internet research the night before and Andrew was interested in diving deeper into the symbols that morning.
+"Research room first," Andrew said.
+"Mrs. Kalani said it's where the university students work.
+If anybody has a book on what the symbols mean, it's in there."
 
-The sun had barely cleared the palm trees when Andrew and Amanda arrived at the cultural center. Mrs. Kalani looked up from her desk, her bright floral dress matching the cheerful orchids on the windowsill. "You're here early!" She smiled, pulling two visitor badges from her drawer. "I've set up a table for you in the research room. It's usually just for university students, but..." she winked at Amanda, "from talking with your mother yesterday, I hear you're quite good with patterns."
+Kekoa gave them an apologetic wave as they passed his yard,
+a surfboard under each arm.
+"Can't come today — got two beginner lessons to teach.
+Wednesday's still on, Andrew! The wind's supposed to drop!"
 
-The research room smelled like old books and coffee. Amanda spread her notebooks across the wooden table, carefully arranging her petroglyph sketches in rows. She had spent hours copying the strange symbols, trying different angles to capture every detail. Andrew sat opposite her, his tablet propped up against a stack of archaeology books, scrolling through the cultural center's digital archives.
+"Wednesday!" Andrew called back,
+and only slightly walked into a mailbox.
 
-"Look at this," he whispered, turning his tablet to show his sister. "Some of these symbols look like the ones we found on the path, but they're from across the island." He zoomed in on a particular image. "And they were carved over five hundred years ago!"
+The sun had barely cleared the palm trees
+when they reached the trailhead —
+and nearly ran into Mrs. Santos.
 
-Amanda was about to respond when a commotion in the hallway caught their attention. Through the glass door, they could see several staff members hurrying past, their faces tight with worry. Something was wrong.
+She was coming down the trail with a canvas bag over one shoulder,
+moving quickly.
+When she saw the twins, she stopped,
+pressed the bag close against her side,
+and walked past them without one word.
 
----
+"Good morning to you too," Amanda said to the empty trail.
 
-"Everyone, please remain calm." Mrs. Kalani's voice shook slightly as she addressed the small crowd gathering in the main hall. "The ancient fishhook display case was found empty this morning. The police are on their way, and we need to temporarily close the center."
+"That was the window lady. Mrs. Santos," Andrew said, looking back.
+"What's she doing up here at seven in the morning?"
 
-Amanda and Andrew exchanged glances across their research table. The missing artifact was one of the cultural center's prize possessions - a delicately carved bone fishhook that had been used by ancient Hawaiian chiefs. They had seen it just yesterday, gleaming under the display lights.
+"No idea." Amanda wrote it in her notebook anyway:
+Mrs. Santos. Trail. 7 a.m. Bag. Wouldn't say hi.
 
-Through the research room's glass door, they watched as two police officers arrived, their blue uniforms stark against the center's warm wooden walls. Mrs. Kalani led them to her office, her usually cheerful face drawn with concern. Other staff members huddled in small groups, whispering and pointing toward the empty display case.
+At the cultural center, the front door was still locked,
+and Mrs. Kalani came around from her desk with her ring of keys
+to let them in,
+her bright floral dress matching the cheerful orchids
+on the windowsill.
 
-"I don't get it," Andrew said. "The security system here is really good. Kekoa told me they even have motion sensors."
+"You're here early!" She slid a clipboard across the desk.
+"Sign in, please — names and time. New rule since the exhibit opened.
+I've set up a table for you in the research room.
+It's usually just for university students, but —"
+she winked at Amanda —
+"your mother tells me you're quite good with patterns."
 
-He pulled up the cultural center's website on his tablet and found a picture of the missing fishhook. "Look how detailed it is - all those little marks and patterns carved into the bone."
+She was leading them down the hallway,
+past the main exhibit room,
+when she stopped so suddenly that Amanda bumped into her.
 
-Amanda leaned over to look at the image, then froze. Her eyes darted between the picture on Andrew's tablet and her sketches of the petroglyphs. "Andrew," she whispered, her finger hovering over one of her drawings. "I think I just found something important."
+Through the doorway, in the center of the room,
+the display case stood open and empty.
+The spotlight still shone down on the little stand
+where the bone fishhook had been.
+The ceremonial bowl sat in the next case over, alone.
 
-Before she could explain, Mrs. Kalani appeared at their door. "I'm sorry, children, but I need to ask you to pack up. We have to close for the investigation." She paused, noticing Amanda's intense focus on her drawings. "Amanda, is everything alright?"
+Mrs. Kalani didn't scream. Somehow that was worse.
+Her face went still and gray, like a photograph of herself,
+and she put one hand against the doorframe to steady herself.
 
-Amanda looked up from her drawings, paused for a moment and said, "oh yes, we were just leaving." As the twins walked out of the building, Amanda wondered whether she should have told Mrs. Kalani about the connection she had made.
+"Call the police," she said to the volunteer at the front desk,
+in a voice the twins had never heard from her.
+"Nobody touches anything."
 
-A little while later the twins sat cross-legged under a banyan tree near the beach, crumbs from their sandwiches sprinkled over the sketches in Amanda's notebook. She pulled the image of the missing fishhook up on Andrew's tablet, holding it next to one of her drawings.
+The next hour was a blur
+that the twins watched from the research room doorway.
+Staff members hurried past with tight faces.
+Two police officers arrived,
+their blue uniforms stark against the center's warm wooden walls,
+and Mrs. Kalani led them toward her office —
+she had her ring of keys out before they even asked.
 
-"See?" she said, tracing the curved line of the petroglyph with her finger. "It's exactly the same shape as the fishhook. Even these tiny marks along the edge match perfectly." She bit her lip, a habit that always showed up when she was solving a particularly tricky math problem.
+The younger officer stopped in the hallway
+to answer his radio, listened,
+and let his whole posture go tired.
+"Tell them we know," he said. "Tell them we drove out there
+Tuesday. And Thursday." He clicked off.
+"The middle schoolers across town," he told his partner,
+"have spent the whole summer calling in sea monsters.
+Today the sea monster took a canoe."
 
-Andrew leaned in closer, his eyes widening. "You're right! But why would someone carve the exact pattern of the fishhook into those rocks along the path? And how old are these carvings anyway?"
+"Kids," the other officer said,
+in the exact voice people use for mosquitoes,
+and the office door shut behind them.
 
-Before Amanda could answer, Andrew's tablet started buzzing. "Incoming video call from Aunt Jenny," flashed across the screen. The twins groaned - their aunt and uncle had a talent for calling at the most inconvenient moments.
+"We saw it Saturday," Amanda whispered. "Yesterday.
+It was right there, gleaming under the lights."
 
-"Hey kiddos!" Aunt Jenny's familiar face appeared, Uncle Jacob peering over her shoulder. "How's island life treating you? I can't believe you get Wi-Fi at the beach!" Uncle Jacob exclaimed.
+Andrew wasn't looking at the empty case. He was looking up.
+"The camera's still in the corner," he said slowly.
+"And the little red light on the motion sensor is still blinking.
+The system's on. It was probably on all night."
 
-As Andrew described their new house, Amanda tried to subtly slide her sketches out of view. "What's that you're working on?" Uncle Jacob asked, noticing Amanda's movement. "Looks like some kind of pattern analysis." Amanda hesitated, then held up one of her drawings. She explained about finding the petroglyphs, carefully leaving out any mention of the missing fishhook.
+"So?"
 
-"Fascinating!" Uncle Jacob exclaimed. "You know, ancient Hawaiians often used repeated patterns to tell stories or mark important locations. Sometimes the same symbol would show up in different places, like pieces of a map..."
+"So nothing's broken."
+His hand went up and smoothed his cowlick, once, twice.
+"There's no glass on the floor.
+The front door was locked when we got here —
+Mrs. Kalani unlocked it for us, remember?
+If the sensors were armed and no alarm went off,
+then whoever took the fishhook didn't sneak past the security.
+They knew it.
+Where the cameras point. How the sensors work. Maybe the codes."
 
-Amanda's eyes lit up and she muted the tablet. "Uncle Jacob just gave me an idea," she said to Andrew. "We need to go back to those rocks - but this time, we need to look for more than just the fishhook symbol."
+Amanda stared at her brother. "Inside knowledge."
 
-"It was great talking to you Uncle Jacob and Aunt Jenny," Amanda said, "you should come visit us soon!"
+"I'm just saying it's not luck," Andrew said.
+"Nobody is that lucky."
 
-"It sounds like you two are busy. Maybe we can make it out there in a couple weeks after we wrap up this project in Indonesia. Love you two, bye!"
+Mrs. Kalani appeared at the research room door,
+and both twins jumped.
+"I'm sorry, children. We have to close for the investigation."
+Her eyes found the notebook hugged against Amanda's chest,
+the fishhook sketch facing out.
+"Amanda — is everything all right?"
 
-The kids crammed the rest of their lunch into their backpacks and headed back to the path and the petroglyphs they found earlier.
+Here it was.
+Tell her, Amanda thought.
+Tell her the stolen fishhook is carved into a rock
+half a mile from here.
+But it sounded crazy,
+and the police were right down the hall —
+the ones who said kids the way other people said mosquitoes —
+and what if she was wrong?
 
----
+"Oh — yes," Amanda said. "We were just leaving."
 
-"Hold the measuring tape steady," Amanda whispered, sketching quickly in her notebook. Andrew snapped photos with his tablet, trying different angles to capture the carved symbols. "Look at this one," he said, pointing to a spiral design. "Doesn't it look just like that big bowl in the display case next to where the fishhook was?"
+It wasn't a lie, exactly. They were just leaving.
+But the not-telling followed her out the door
+and sat in her stomach like a swallowed ice cube.
 
-As Amanda backed up to get a broader view, she noticed something in the mud on the ground. "Andrew," she called softly, "Look at these footsteps, I think someone else has been studying these petroglyphs too."
+A little while later, the twins sat cross-legged
+under the banyan tree near the beach,
+sandwich crumbs sprinkling over the open notebook.
+Amanda held her sketch of the trail carving
+next to Andrew's tablet,
+where he had pulled up his photo of the same rock.
 
-A low rumble of thunder made the twins look up from the mysterious footprints. Dark clouds were rolling in from the ocean, much faster than usual.
+"See it?" she said, tracing the curved line with her finger.
+"That carving is the fishhook. Not close — exact.
+The curve, the barb,
+even these tiny marks along the edge
+match what we saw in the case."
+She bit her lip,
+the way she did when a problem turned out to have teeth.
+"That carving has been there for hundreds of years.
+And out of everything in that whole center,
+the fishhook is what got stolen."
 
-"I'd love to follow these tracks, but Mom said that storms appear out of nowhere in Hawaii." Amanda said reluctantly, watching the sky darken.
+"Okay, but why would—" Andrew began.
 
-"Maybe we can come back tomorrow with Kekoa," Andrew suggested, quickly photographing the last few symbols. The wind was picking up, scattering leaves across the petroglyphs and making Amanda's notebook pages flutter. "He might know more about these markings."
+The tablet buzzed in his hands.
+Incoming video call: Aunt Jenny.
 
-Just as they turned to leave, a bright flash of lightning illuminated the rocks at a strange angle. Amanda gasped and grabbed her brother's arm. In that brief moment of bright light, they had seen more symbols, higher up on the rocks, partially hidden by vines. But before they could investigate further, fat raindrops began to fall. The kids looked at each other and ran home.
+The twins groaned.
+Their aunt and uncle had a talent
+for calling at the worst possible moment.
+
+"Hey, kiddos!" Aunt Jenny's face filled the screen.
+"How's island life treating you?"
+
+Uncle Jacob leaned in over her shoulder.
+"I can't believe you two get Wi-Fi at the beach."
+
+As Andrew described the new house,
+Amanda tried to slide her sketches out of view —
+which is exactly how Uncle Jacob spotted them.
+
+"What's that you're working on?
+Looks like some kind of pattern analysis."
+
+Amanda hesitated, then held up one of her drawings.
+She explained about finding the petroglyphs,
+carefully leaving out any mention of a missing fishhook.
+
+"Fascinating!" Uncle Jacob said.
+"You know, ancient Hawaiians often used repeated patterns
+to tell stories or mark important locations.
+Sometimes the same symbol shows up in different places —
+like pieces of a map."
+
+Amanda tapped the mute button,
+and Aunt Jenny's voice cut off mid-sentence,
+her mouth still moving cheerfully on the screen.
+"A map," Amanda said.
+"Andrew, we've been reading the symbols one at a time.
+We need to go back and look at all of them together —
+spacing, direction, everything."
+
+She tapped the sound back on.
+"Uncle Jacob, you're a genius. You should come visit us!"
+
+"We'll try!" Uncle Jacob said.
+"Maybe in a couple weeks,
+after we wrap up this project in Indonesia.
+Love you two — bye!"
+
+The twins crammed the rest of their lunch into their backpacks
+and headed for the trail.
+From the banyan it was a short, steady climb,
+the beach sounds dropping away behind them,
+until the gulch opened up around the carved rocks.
+Amanda had the measuring tape out before her backpack hit the ground.
+
+"Hold the tape steady," she said, sketching quickly.
+Andrew held his end of the tape a careful inch off the rock
+and took photos from every angle he could manage one-handed.
+
+"Forty-two inches from the fishhook to the spiral," Amanda read off,
+writing it down.
+"And every line under the symbols leans the same way. Uphill."
+
+"Look at this one." Andrew pointed to the tight, notched spiral.
+"Doesn't it look just like the big ceremonial bowl —
+the one in the case right next to where the fishhook was?
+It's not like the spiral at our house.
+That one's loose, like a wave.
+This one matches the pattern on the bowl's rim.
+I've got both in my photos. I can prove it at home."
+
+"So the fishhook is carved up here, and the bowl is carved up here,"
+Amanda said slowly, "and the fishhook is already gone."
+She didn't finish the thought. She didn't have to.
+
+As she backed up to get a broader view,
+her sneaker slid in the mud — and she looked down.
+
+"Andrew. Footprints."
+
+Pressed into the soft ground below the rock face
+was a line of prints — big ones, with a zigzag tread,
+half filled with rainwater.
+
+"Mrs. Santos," Amanda said immediately.
+"She was on this exact trail at seven this morning. With a bag."
+
+"Or anybody with boots," Andrew said.
+"They look big for her. And a bag isn't a crime."
+He crouched lower.
+"But somebody stood right here for a long time —
+look how deep the heel marks sink.
+Somebody else has been studying these petroglyphs too."
+
+A low rumble of thunder rolled in off the ocean.
+Dark clouds were coming, much faster than usual.
+
+"Mom said storms show up out of nowhere here," Amanda said,
+reluctantly, watching the sky turn the color of a bruise.
+
+"One more minute."
+Andrew worked his way down the rock face,
+photographing the last of the symbols.
+The wind picked up, scattering leaves across the petroglyphs
+and flapping Amanda's notebook pages.
+Across the gulch, something moved —
+the man with the camera, standing in the trees,
+his lens aimed at the rocks.
+Amanda blinked, and the trees were only trees again.
+
+"Andrew, that photographer guy is—"
+
+Lightning split the sky,
+and for half a second the whole rock face lit up white.
+Amanda grabbed her brother's arm.
+
+Higher on the rocks, above where anyone would think to look,
+half buried under vines, were more symbols.
+A whole second row of them.
+
+"Tell me you saw that," she breathed.
+
+"Saw it."
+Andrew was already aiming the tablet upward, vines and all.
+He shot once, twice, three times
+as the first fat raindrops smacked the rocks around them.
+"Got them. I hope."
+
+Then the sky opened up, and the twins ran for home.
 
 ## Chapter 4: Connecting the Dots
 
-During their online classes the next day, neither twin could focus on their lessons. Amanda doodled petroglyphs in the margins of her math homework, trying to find more connections. Andrew remembered the new markings they saw on the rocks during the storm. When their lunch break finally arrived, they hurried to meet Kekoa in his grandmother's office at the cultural center.
+On Monday morning, Blazer sat by the front door
+with his leash in his mouth,
+aiming his most tragic eyes at anyone who walked past.
 
-"Things are crazy today," Kekoa said, "Another artifact was stolen overnight! The staff is starting to panic a little bit. Nothing this exciting usually happens around here."
+Neither twin could focus on their online classes anyway.
+Amanda doodled petroglyphs in the margins of her math homework.
+Andrew kept flipping to his storm photos of the upper symbols —
+blurry, rain-spotted, but real —
+and flipping back before his teacher could notice.
+When their lunch break finally arrived,
+their mom looked at the dog, then at the twins.
 
-The second artifact was an ancient ceremonial bowl. Amanda sat at a desk and fired up her tablet to examine a picture of it. Then she noticed something startling. The missing bowl's distinctive spiral pattern perfectly matched one of the carved symbols she'd been studying from the rocks on the path. Her heart beating faster with excitement, she knew she had to show this to Andrew and Kekoa.
+"Take him. He's been dramatic since breakfast.
+Straight there and back."
 
-Kekoa was showing Andrew something out the window. "There are supposed to be all kinds of sacred sites hidden up there." He was pointing to volcanic hills that led to the ocean. "Places where ancient Hawaiians performed ceremonies and hid important treasures." He lowered his voice. "Some people say there are still undiscovered sites in the lava tubes. We should check them out one day."
+They headed for the cultural center to find Kekoa,
+Blazer towing them the whole way like a sled team of one.
 
-Before Amanda could tell the boys about her discovery, she noticed an old, faded map hung partially behind a filing cabinet. The borders were decorated with symbols that looked remarkably similar to their petroglyphs.
+But before they even reached the entrance, they saw it:
+a police car parked out front,
+and a hand-lettered sign on the doors —
+CLOSED FOR INVESTIGATION.
 
-"Guys, look at this!" Amanda called out. The three friends crowded around the map, studying its intricate markings. Some of the symbols were identical to ones they'd found on the rocks.
+Kekoa came around the side of the building
+carrying a cardboard box, and his face said everything first.
 
-"And look at this," Andrew said, pointing to a group of symbols. Two of the symbols were very familiar: a fish hook and a ceremonial bowl.
+"It happened again," he said. "Last night.
+The ceremonial bowl this time.
+The police have been here all morning,
+and the staff is starting to panic.
+Nothing like this ever happens around here."
 
-Gazing at the map, Amanda's eyes popped open. "I actually think this could be a map of the lava tubes. Look how the mountains and the ocean connect right where the entrance is located," Amanda wondered aloud. "Could this be connected to the missing artifacts?"
+"The bowl," Amanda repeated. "The one right next to—"
 
----
+"Next to where the fishhook was. Yeah."
 
-That evening, during a family dinner of grilled mahi-mahi on the lanai, Amanda could barely concentrate on her food. While their dad talked about his consulting project, Amanda quietly sketched more patterns in her notebook under the table. The pieces were starting to fit together - the petroglyphs, the missing artifacts, the old map, and Kekoa's stories about sacred sites.
+They were cutting along the side of the building
+toward the back door when Blazer stopped so hard
+the leash twanged like a guitar string.
 
-As they finished their grilled mahi-mahi, Andrew looked up from his plate. "Hey, Mom, Dad, isn't it weird that someone could steal artifacts from the cultural center? Kekoa told us they just installed motion sensors and security cameras."
+He pressed his nose to the ground
+at the base of the wall beneath one of the side windows
+and whined —
+then began pawing at a patch of earth
+beside the decorative rock wall.
 
-Their dad paused, fork halfway to his mouth. "Well, I can't imagine the cultural center bought top-of-the-line equipment. Budget constraints and all that. Even the best systems can have weak spots if they're not set up properly."
+"Come on, Blazer." Andrew tugged at the leash.
+The dog would not budge.
 
-"Plus," their mom added, "most basic security systems have predictable blind spots, and if you know exactly where the camera angles create dead zones you could..." She stopped abruptly, noticing Andrew and Amanda staring at her.
+Andrew knelt down and brushed some fallen leaves aside.
+"Wait. Look at this.
+The whole wall is rough lava rock,
+but these stones are different.
+Flat edges. Tight seams. They're fitted together —
+like a puzzle somebody finished and didn't want noticed."
 
-"Mom," Amanda said slowly, "how do you know so much about security systems?"
+"Or like a door somebody closed," Amanda said.
+She wrote it in her notebook:
+Side wall. Third window. Stones fitted different. Blazer alert.
+"He smells something under there."
 
-"Oh!" Their mom laughed, a bit too quickly. "I, uh, just heard a commercial about it on the radio. You know, one of those home security ads. Fascinating stuff." She stood up suddenly, gathering plates. "Who wants dessert? I bought coconut pie!"
+"Treats?" Kekoa said hopefully.
+"Somebody buried treats. Or dropped a musubi back here once.
+Dogs remember these things. I'd remember."
 
-Andrew and Amanda exchanged glances as their mom hurried to the kitchen.
+"He can smell a treat from three houses away," Andrew said,
+"but he doesn't dig for treats that aren't there.
+Something's been through this spot."
 
-"Sometimes you guys are so weird," Amanda said, standing up from the table.
+Mrs. Kalani met them at the back door,
+and for a second Amanda was sure she would send them home.
+There were shadows under her eyes
+that hadn't been there on Saturday.
 
-She was certain now that the petroglyphs were more than just ancient carvings - they were pieces of a bigger puzzle. And somewhere in those symbols was the key to finding the missing artifacts. She caught Andrew's eye across the table, and he gave her a slight nod. They would need to investigate further, but they'd have to be careful not to worry the already stressed cultural center staff - or their parents.
+"The center is closed," she said.
+Then she sighed and held the door open wider.
+"But Kekoa is helping me with the packing lists,
+and honestly, I'd rather have you three where I can see you.
+My office. Touch nothing. Blazer stays on his leash."
+
+She led them down the hall, past the exhibit room —
+two empty cases now, side by side —
+and Amanda heard her murmur, half to herself,
+"Two artifacts gone, and the date hasn't moved an inch.
+The ceremony is in twelve days.
+Ready or not.
+We have blessed the collection every year
+since the center opened. My mother stood on these mats."
+
+In the office, Kekoa pulled Andrew to the window
+and pointed at the volcanic hills rising toward the clouds.
+"There are supposed to be sacred sites hidden all up there.
+Places where ancient Hawaiians performed ceremonies
+and kept things that mattered —
+and some places you don't go into at all. Ever."
+He lowered his voice.
+"Some people say there are still undiscovered sites
+in the lava tubes. Whole tunnels nobody's mapped."
+
+Amanda was only half listening —
+because behind the filing cabinet,
+she had spotted an old, faded map hanging on the wall,
+its borders decorated with carved-looking symbols.
+
+"Guys. Look at this."
+
+The three of them crowded around it.
+Andrew got there first,
+and his finger went straight to two symbols in the border.
+
+"That's the fishhook," he said. "And that's the bowl —
+the tight spiral with the notches,
+same as the bowl's rim, same as the trail carving.
+They're both on this map.
+Both of the stolen artifacts are on this map."
+
+"A map of what, though?" Kekoa asked.
+"That's not the island. The shape's all wrong."
+
+Amanda set Andrew's tablet on the desk beside the map
+and pulled up his storm photos —
+the second row of symbols, half hidden under vines,
+caught in the lightning flash.
+Blurry. But enough.
+
+"It's not the island," she said slowly.
+"Andrew, your storm photos — look.
+The double lines over the upper symbols are on this map too,
+running along these long, snaky shapes.
+Kekoa, you just said it — lava tubes. Tunnels that branch."
+Her finger traced one snaking line
+to where the mountains met the sea.
+"I think this is a map of the lava tubes.
+And the carvings on the trail are pieces of the same map,
+spread across the rocks.
+Which means the stolen artifacts—"
+
+"—are connected to wherever this leads," Andrew finished.
+
+Nobody had heard Mrs. Kalani come back down the hall.
+She was simply there in the doorway,
+a stack of folders in her arms,
+watching the three of them gathered around the old map.
+
+"That old thing has hung there since before my time," she said,
+pleasantly enough.
+"The police spent all morning asking me about locks
+and alarms and key lists.
+Nobody asks an old map anything."
+She shifted the folders in her arms.
+"Lunch is over, I believe. School."
+
+Walking home, with Blazer finally crab-tired and trotting nicely,
+Amanda flipped her notebook to a clean page
+and wrote SUSPECTS across the top,
+which made Andrew check over both shoulders.
+
+"One: Mrs. Santos," Amanda said.
+"On the trail at seven a.m. with a mystery bag.
+Watches everything on this street. Won't say good morning."
+
+"Being grumpy isn't a crime," Andrew said. "But okay. One."
+
+"Two: the camera man.
+Twice now we've seen him photographing the carvings
+and writing in that little notebook.
+We don't know his name. We don't even really know his face."
+
+"Three," Andrew said, and hesitated.
+"Not a person. A question.
+Whoever is doing this knew the security system —
+where the cameras point, how the sensors arm.
+So who would know that?
+The consultants who installed it were years ago.
+Somebody kept that knowledge all this time."
+
+Amanda wrote: 3. Somebody who knows the system. WHO?
+
+"Three suspects, two thefts," she said, closing the notebook,
+"and one deadline. We need to move faster."
+
+That evening, during a family dinner of grilled mahi-mahi
+on the lanai, Amanda could barely concentrate on her food.
+While their dad talked about his consulting project,
+she quietly sketched patterns in her notebook under the table.
+The pieces were starting to fit together —
+the petroglyphs, the missing artifacts, the old map,
+and Kekoa's stories about sacred sites.
+
+As they finished their mahi-mahi, Andrew looked up from his plate.
+"Hey, Mom, Dad — isn't it weird
+that someone could steal artifacts from the cultural center?
+They have motion sensors and security cameras.
+We saw them on the tour."
+
+Their dad paused, fork halfway to his mouth.
+"Well, I can't imagine the cultural center
+bought top-of-the-line equipment.
+Budget constraints and all that.
+Even the best systems can have weak spots
+if they're not set up properly."
+
+"Plus," their mom added,
+"most basic security systems have predictable blind spots,
+and if you know exactly where the camera angles
+create dead zones, you could..."
+She stopped abruptly,
+noticing Andrew and Amanda staring at her.
+
+"Mom," Amanda said slowly,
+"how do you know so much about security systems?"
+
+"Oh!" Their mom laughed, a bit too quickly.
+"I, uh, just heard a commercial about it on the radio.
+You know, one of those home security ads. Fascinating stuff."
+She stood up suddenly, gathering plates.
+"Who wants dessert? I bought haupia pie!"
+
+Andrew and Amanda exchanged glances
+as their mom hurried into the kitchen.
+
+"Sometimes you guys are so weird," Amanda called after her.
+
+"So," their dad said, cutting the pie when it arrived,
+"drone lesson Wednesday?"
+
+"If the wind drops," Andrew said.
+"Kekoa says if I can hold a hover for a full minute,
+I graduate to figure eights."
+
+Amanda barely heard them.
+She was certain now that the petroglyphs
+were more than just ancient carvings —
+they were pieces of a bigger puzzle,
+and somewhere in those symbols
+was the key to finding the missing artifacts.
+She caught Andrew's eye across the table,
+and he gave her a slight nod.
+They would have to investigate carefully —
+without worrying the stressed cultural center staff,
+or their parents.
+
+And the date on the placard by the center's front door
+was getting closer every single day.
 
 ## Chapter 5: The Ancient Map
 
-"Bend your knees more," Kekoa called out, watching Andrew wobble on his surfboard. They were practicing on the wet sand near the water's edge, the early morning sun warming their backs. "You need a lower center of gravity."
+On Wednesday morning, Kekoa drew two surfboards in the wet sand
+with his heel, side by side, and pointed at them like a general.
 
-Andrew tried adjusting his stance but stumbled sideways. He scowled and said, "I can't believe I can't balance on the board…and we're not even in the water yet."
+"Boards," he said. "Sand ones first. Nobody drowns on a sand board."
 
-His sister grinned from her board where she stood with perfect balance. "Maybe I'm just naturally gifted," she teased, but her mind seemed elsewhere. She kept glancing at her waterproof notebook tucked safely by their towels.
+The real boards lay up by the towels,
+next to Amanda's waterproof notebook,
+Andrew's tablet zipped into its dry bag,
+and the two walkie-talkies clipped together in Andrew's sneaker,
+where he had decided sand could not get into them.
+The early sun was already warm on their backs,
+and the waves were small, glassy, and patient.
 
-"One more time," Kekoa demonstrated the pop-up move. "From lying down to standing in one smooth motion."
+"Surf first," Kekoa said. "If the wind drops after, we fly the drone.
+That was the deal."
 
-While Andrew practiced, Amanda grabbed her notebook. "Hey, look at this," she said, flipping it open. "I was up late studying these petroglyphs, and I noticed something. See how this curve matches the shoreline?"
+"The wind will drop," Andrew said. "I checked three forecasts."
 
-"Amanda," Andrew groaned, "we're supposed to be learning to surf!"
+"Board," Kekoa said, pointing at the sand again.
 
-"But this is important! I think these symbols might be pointing somewhere."
+They lay down on their sand boards, and Kekoa demonstrated —
+palms flat, one smooth push, feet landing sideways and sure.
+"From lying down to standing in one smooth motion," he said.
+"That's the whole sport. Everything else is decoration."
 
-Kekoa looked interested. "Like directions? My grandmother always says ancient Hawaiians were master navigators."
+"See?" Andrew muttered to his sister. "One motion. One second.
+I told you. On water."
 
-"Exactly!" Amanda's eyes lit up. "And look at this symbol here-"
+"You trip on flat, dry land," Amanda agreed cheerfully. "You told me."
 
-"Less talking, more surfing," Kekoa interrupted with a laugh. "The waves are perfect right now. You can be a detective later."
+Amanda went first.
+Palms, push, pop — she was up, knees bent, arms out,
+standing on a drawing of a surfboard like she had grown there.
 
-They waded into the water with their boards. Amanda caught on quickly, managing to stand up on her first small wave while Kekoa cheered. Andrew mostly swallowed seawater, but he kept trying.
+"Okay," Kekoa said. "That's annoying. Andrew."
 
-Between attempts, Amanda couldn't help sharing more theories. "The symbols follow a pattern," she called out, paddling back from a successful ride. "Each one seems to point to the next."
+Andrew got his palms flat. He pushed. He got one foot under himself,
+and the other foot voted for a different plan,
+and he sat down hard on Hawaii.
 
-Dark clouds began rolling in from the horizon, and the wind picked up. The waves grew choppier.
+"Bend your knees more," Kekoa called. "Lower center of gravity."
 
-"Time to call it," Kekoa said, watching the sky. "Storm's coming in fast."
+Andrew tried again and stumbled sideways off the sand drawing.
+He scowled at the board that was not even a board.
+"I can't believe I can't balance on it," he said,
+"and we're not even in the water yet."
 
-"We could wait it out in that cave," Amanda suggested quickly, pointing to an opening in the rocks. "And maybe look at my notes while we wait?"
+"Maybe I'm just naturally gifted," Amanda said,
+but her eyes had drifted up the beach to her towel,
+where the corner of the waterproof notebook was flapping.
+She jogged up, weighted it with a rock,
+and jogged back down with it anyway.
 
-They grabbed their boards and towels, racing to the cave as the first heavy drops fell. Inside, they propped the surfboards against the wall and huddled near the entrance, watching sheets of rain turn the beach hazy.
+"Hey — look at this. I was up late with the petroglyphs, and —
+see how this curve matches the shoreline?"
 
-"Now can I show you what I found?" Amanda pulled out her notebook while Andrew used his tablet as a light. "See how these symbols create a path? Each one leads to another location."
+"Amanda," Andrew groaned from the sand. "We're supposed to be surfing."
 
-Kekoa peered at her drawings. "You might be right. These marks look like ancient navigation symbols. My grandmother has books about them at the cultural center."
+"But this is important. I think the symbols are pointing somewhere."
 
-"I downloaded one last night," Andrew said, pulling up a reference guide on his tablet. "Look, this spiral means 'sacred place' and these lines show direction."
+Kekoa leaned over the page, dripping shadow across it.
+"Like directions? My grandmother always says
+ancient Hawaiians were master navigators.
+No compasses, no maps — they read everything.
+Stars, waves, birds." He straightened up.
+"And you can read it to me later,
+because right now the waves are perfect. Detective later. Surf now."
 
-"It's not just a map," Amanda exclaimed, "it's a trail!"
+The water was warmer than the morning air.
+Amanda caught on fast — of course she did —
+and on her first real wave she popped up and rode it,
+short and wobbly and shrieking with joy,
+all the way into the shallows,
+while Kekoa whooped and slapped the water.
 
-They waited out the worst of the storm, then made a dash for home. Later that afternoon, they learned another artifact had disappeared from the cultural center - this time, an ancient carving tool.
+Andrew mostly drank the Pacific Ocean.
 
-Back in her room, Amanda spread her damp notebook pages across the floor. She worked quickly, connecting the symbol locations on her makeshift map while her hair dripped onto the papers.
+He drank it lying down, he drank it halfway up,
+and once he managed to drink it while somehow spinning,
+which Kekoa said he had never seen before and wanted to discuss.
 
-"Andrew!" she called. "Come look at this!"
+But he kept paddling back out.
 
-Her brother appeared in the doorway, still wrapped in a towel from his shower. "What did you find?"
+On his sixth trip out, something surfaced an arm's length away —
+a smooth dark head, ancient eyes, entirely unimpressed.
+The sea turtle looked at Andrew.
+Andrew, flat on his board, looked at the sea turtle.
 
-Amanda pointed to her completed pattern. All the symbols led in a clear direction - toward the mountains rising behind their house.
+"Honu," Kekoa called over. "Green sea turtle.
+Don't touch, don't follow — give her ten feet.
+It's the law, and also she'll judge you."
 
-"Whatever these symbols are leading to," she said softly, "it's up there."
+"She's already judging me," Andrew said.
+The honu sank away under the glassy water without a ripple,
+better at everything than he was, and somehow it helped.
+On his ninth try — he was counting — he got both feet on the board
+and stood for one entire breath,
+long enough to see the beach tilt up at him in surprise,
+before the nose dug in and the ocean closed over his head again.
 
-Andrew stared at the map, then out his window at the mist-covered peaks. "So what do we do now?"
+He came up coughing. Kekoa was holding both fists in the air.
 
-"We need to explore those trails," Amanda said, already reaching for her hiking boots. "But first, we need to convince Mom and Dad to let us go."
+"That was standing!" Kekoa shouted. "One one-thousand! It counts!"
 
-The rain had stopped, but thunder still rumbled in the distance. The mountains looked dark and mysterious against the stormy sky, keeping their secrets for now. But Amanda had a feeling they were getting closer to solving this mystery - if only their parents would give them permission to investigate.
+"It counts," Andrew gasped, and grinned,
+and dragged the board around for number ten.
+
+Between waves, Amanda paddled up beside him, sat up on her board,
+and pushed her wet hair off her face.
+"The symbols follow a pattern," she said,
+as if the conversation had never stopped.
+"Each one points to the next one. I'm almost sure."
+
+"You're conclusion-first again," Andrew said. "Almost sure isn't sure."
+
+"That's why I keep you around."
+
+That was when the horizon went the color of a nickel.
+
+The wind arrived first, flattening the wave tops,
+and the dark clouds came in behind it,
+rolling downhill off the ocean in a hurry.
+
+"Time to call it," Kekoa said, watching the sky. "Storm's coming fast."
+
+"So much for the drone," Andrew said. "The forecasts all lied."
+
+"Welcome to Maui. We'll fly Friday." Kekoa pointed down the beach
+to a black opening in the rocks above the tide line.
+"Come on — we can wait out the worst of it in there."
+
+They grabbed boards and towels and ran,
+and the first fat drops chased them the last ten steps.
+Inside, the cave was cool and dry and smelled like salt and old stone.
+They propped the surfboards against the wall
+and sat in the entrance, watching sheets of rain erase the beach.
+
+"Now can I show you?" Amanda said.
+
+She spread the notebook on her knees.
+Andrew wiped his hands twice on his towel —
+the tablet did not get wet hands, that was policy —
+and propped it up as a light.
+
+"I downloaded a reference guide last night," he said,
+scrolling with one careful finger.
+"A digital archive of old island field surveys.
+The survey says nobody knows most of the meanings for sure.
+But the one team that mapped this district
+guessed the spiral marks a sacred place,
+and the lines show direction of travel.
+And spirals are almost never found in Hawaii.
+This hillside is special."
+
+Amanda flipped pages fast: the loose spiral by their house,
+the tight notched spiral on the trail,
+the lines that leaned uphill, all of them, always uphill.
+
+"So a symbol says what," she said, "and the lines say which way.
+Andrew — every set of lines we've measured points to the next carving.
+House to trail. Trail to the upper rocks."
+She looked up. "It's not just a map. It's a trail.
+You follow it one carving at a time."
+
+"Like a scavenger hunt," Kekoa said, "except a thousand years old."
+
+"Wait." Andrew had gone still, scrolling between two images —
+the guide on one side,
+his storm photo of the vine-hidden upper symbols on the other.
+The photo was blurry and rain-spotted, but one frame had come out
+sharp enough to argue with.
+
+"First lightning I've seen all year," Kekoa said,
+peering at the photo. "The mountain wanted you to look up."
+
+"There's a third symbol up there we never identified," Andrew said.
+"This one — like a blade on a handle."
+He turned the tablet so the guide filled the screen.
+"The guide has it. It's a ko'i. A stone adze.
+A carving tool."
+
+For a second the only sound was rain.
+
+"Fishhook," Amanda said slowly, laying her finger on each word
+as if pressing them into the page.
+"Bowl. Carving tool.
+The fishhook is carved on the trail, and it's gone.
+The bowl is carved on the trail, and it's gone."
+
+"And the carving tool is carved on the trail," Andrew said, "and —"
+
+He didn't finish it. Neither of them wanted to.
+
+The rain slackened to a drizzle,
+and they made a dash for home under a dripping sky,
+boards under their arms, nobody racing anybody.
+
+---
+
+The knock came late that afternoon, while the twins were setting
+the table and the grill smell was drifting in from the lanai.
+Kekoa stood on the porch with his hood up and his face wrong.
+
+"My grandmother just called from the center," he said.
+"There's been another one. Last night, they think.
+An ancient carving tool — a ko'i —
+from the workroom cabinet, off the exhibit floor.
+She's been there with the police since noon.
+She had to read them the catalog card over the empty drawer."
+
+Amanda's hand found Andrew's arm and gripped it.
+
+"The center's been closed since Monday," Andrew said, very quietly.
+"Locked. Police in and out all day. Cameras on.
+And it didn't matter. It didn't even slow them down."
+
+"Kekoa," Amanda said. "The third symbol. From the cave. Today.
+We named it this morning and it was already gone."
+
+Kekoa looked from one twin to the other. "Named what?"
+
+"Fishhook. Bowl. Ko'i." Amanda held up three fingers, one at a time.
+"They're not just stealing from the center.
+They're stealing the trail. Every artifact carved on those rocks."
+
+"Which means whoever it is can read the petroglyphs," Andrew said.
+"Same as us. Better than us. They read them first."
+
+Kekoa blew out a long breath and pulled his hood back.
+"Tutu's counting days out loud now. Ten until the blessing.
+She says a ceremony with three empty cases
+isn't a ceremony. It's an apology."
+
+"Then we've got ten days to make sure it isn't one," Amanda said.
+
+---
+
+That evening, Amanda spread her damp notebook pages across
+her bedroom floor in a big uneven fan and knelt in the middle,
+hair still dripping from the shower onto the paper.
+House spiral here. Trail carvings here. Upper symbols here.
+She crawled from page to page on her hands and knees,
+turning each one until its direction lines agreed with its neighbors,
+weighting the curly corners with whatever her desk offered —
+an eraser, a shell, the tape dispenser, one hiking sock —
+until the whole hillside lay reassembled on her floor.
+
+Ten days, she thought, and set the last page down.
+Somewhere in town, Mrs. Kalani was counting the same days
+over three empty cases.
+
+Then she sat back on her heels, reached over to her desk,
+and took down the walkie-talkie with the strip of tape marked A.
+
+"Andrew. Come in, Andrew." She let go of the button.
+
+Through the wall, one room away, she heard the crackle
+of her own voice arriving. There was a pause.
+
+"You could just knock," the radio said. "Over."
+
+"This is faster. Come look at this. Over."
+
+"You have to say which channel we're on. That's protocol. Over."
+
+"Channel eight, the channel we are always on. Amanda out."
+
+Andrew appeared in her doorway wrapped in a towel,
+radio still in his hand, and stopped.
+
+The pages made one shape now.
+Every carving, every arrow of leaning lines, every spiral,
+marching in a crooked but unmistakable line across her floor —
+away from the ocean, past the trail, past the upper rocks,
+toward the window.
+
+Toward the mountains rising green and dark behind their house.
+
+"Whatever the trail leads to," Amanda said softly, "it's up there."
+
+Andrew looked from the floor to the window,
+where the last storm clouds were snagged on the peaks,
+and rubbed the towel corner between two fingers.
+
+"So how do we get Mom and Dad to say yes?"
+
+Amanda was already pulling her hiking boots out of the closet.
+She set them by the door, side by side, toes pointed out,
+like they were first in line.
+
+"Politely," she said. "At first."
 
 ## Chapter 6: Underground Clues
 
-It took Andrew and Amanda three days to convince their parents to let them explore the hiking trails alone. "Stay on the marked paths," their mother insisted, barely looking up from her laptop. "And be back before dark!"
+On Thursday, Amanda set the dinner table without being asked,
+folded the napkins into triangles,
+and put the good salt in the middle where Dad liked it.
 
-The twins had carefully copied the symbols from Mrs. Kalani's old map into Amanda's notebook. Now, comparing them to the petroglyphs near their house, they could see how the carved lines pointed toward the mountains.
+Her parents looked at the table, then at each other.
 
-"Look at this," Amanda said, tracing her finger along a series of curved marks. "These symbols keep leading up."
+"What do you want?" their mom said.
 
-Kekoa met them at the trail entrance, carrying a backpack full of water bottles and flashlights. "My grandmother told me about these lava tubes," he explained. "They're like natural tunnels formed by ancient volcanic flows. Some of them go deep into the mountain."
+"We want to hike the mountain trails," Amanda said. "Saturday.
+Just up behind the house. There are marked paths and everything."
 
-The afternoon sun was hot as they climbed the trail, following Amanda's sketched directions. Blazer had tried to follow them from home, but Andrew had convinced him to stay by promising extra treats later.
+"Alone?" Their mom was already shaking her head. "Kids get lost
+on those trails. Tourists get lost on those trails.
+Search parties get lost looking for the tourists."
 
-"There!" Andrew pointed to a dark opening partially hidden by ferns. More petroglyphs marked the rocks around the entrance. Amanda quickly sketched them while Kekoa pulled out the flashlights.
+"We wouldn't be tourists," Amanda said. "We live here."
 
-"Are we sure about this?" Amanda asked, peering into the darkness. She wasn't usually nervous, but something about the black tunnel made her bite her lip - her telltale sign of uncertainty.
+"For three months," their dad said, "which rounds to tourist. No."
 
-The beam of their flashlights revealed smooth walls that glistened with moisture. Amanda carefully marked their path with small piles of stones, using her pattern recognition skills to create a trail they could follow back.
+"But—"
 
-"Look!" Andrew's flashlight beam caught something that didn't belong in an ancient lava tube - a modern water bottle.
+"Your mother said kids get lost," their dad said,
+spearing a green bean. "I'm agreeing with her. It's called strategy."
 
-"And here," Kekoa whispered, pointing to some granola bar wrappers. "Someone's been here recently."
+Amanda opened her mouth, and under the table
+Andrew stepped on her foot, which meant not yet.
 
-Amanda's flashlight revealed something else - a torn piece of paper with handwritten notes about archaeological sites. Her hands trembled with excitement as she carefully folded it and tucked it into her pocket.
+On Friday, Andrew came downstairs carrying three sheets of paper,
+stapled, with a title: TRAIL PLAN — WILSON EXPEDITION, DRAFT 2.
 
-Suddenly, they heard footsteps echoing through the tunnel. A voice bounced off the walls, too distant to make out the words but definitely getting closer.
+"Page one is the route," he said, laying it beside Mom's laptop.
+"Marked trails only, highlighted. Page two is the checklist.
+Water, snacks, flashlights, first-aid kit, whistle.
+Page three is communications."
+He set the two walkie-talkies on the table with a small clack,
+side by side, antennas up.
+"We carry both radios. If we're ever more than shouting distance
+apart, we're on channel eight.
+And we take Kekoa. He's older, he's hiked it a hundred times,
+and he has a phone."
 
-"Quick!" Kekoa hissed, "This way!"
+Their mom scrolled page two with one finger, eyebrows up.
+"You budgeted two band-aids per person."
 
-They scrambled down a side passage, hearts pounding. The footsteps grew louder, then began to fade. After what felt like hours but was probably only minutes, they dared to move again.
+"Blisters," Andrew said. "Statistically likely."
 
-"We need to get out of here," Amanda whispered. "But which way is out?"
+"Draft two," their dad said, from the doorway. "What was draft one?"
 
-They had to turn around after encountering multiple dead-ends. But finally, Amanda spotted one of her stone markers - they followed her trail back to the entrance, emerging into the late afternoon sunlight.
+"Draft one had the drone in it. Kekoa said add the drone later."
 
-"That was a close call!" said Kekoa, "Who do you think was in the cave?"
+Their parents did the silent-conversation thing over their heads —
+a look, a tilt, a shrug, an entire committee meeting in four seconds.
 
-"No clue, but I'm glad we didn't find out…" Amanda said, as they started to walk home.
+"We'll think about it," their mom said.
+
+That night, passing the kitchen for a glass of water,
+Amanda heard the plan being discussed in the grown-up dialect —
+"...good for them, honestly..." "...if Kekoa's along..."
+"...you did worse at their age..."
+— and went back up the stairs on the outsides of her feet.
+
+Saturday morning their mom looked up from her laptop and said,
+"Marked paths only. Kekoa goes with you. Radios on.
+Back before dark — and I mean before, not technically before."
+
+"Deal," the twins said together, before she could add amendments.
+
+"Tomorrow," their dad called from the lanai. "Church of the grill
+comes first today. Also it's supposed to rain."
+
+It rained. Andrew spent the afternoon at Kekoa's between showers
+and came home damp and glowing:
+fifty-two seconds of steady hover on the drone,
+eight seconds short of graduating to figure eights.
+
+Amanda spent it copying every symbol from her floor-map
+into the notebook in trail order, small and exact,
+with the direction lines drawn under each one.
+
+Neither twin said the thing they both knew:
+Mom had said marked paths,
+and the carvings did not care about marked paths.
+Amanda inked the last spiral and did not look at it too hard.
 
 ---
 
-After dinner, Andrew grabbed his lacrosse stick and followed his dad onto the lawn.
+Sunday came up bright and hot.
+Blazer sat in the doorway with his leash in his mouth, hopeful.
 
-"So, how was exploring today?" his dad asked, making a perfect catch. "Find any pirate treasure?"
+"Not this time, buddy." Andrew knelt and paid the toll —
+two treats up front, one smuggled into the fur under his collar
+for later, which was their arrangement.
+Blazer took the bribe but made him feel bad about it.
 
-Andrew's stick wobbled as he caught the return throw. He still wasn't as good as he wanted to be. "No treasure," he grinned, trying to sound casual. "Just some old lava tubes, a few granola bar wrappers, and Amanda making little rock piles like a crazy person." He launched the ball back to his dad, proud that it didn't wobble too much.
+Kekoa met them at the trailhead with a backpack
+of water bottles and flashlights,
+and one radio riding on each twin's belt, clipped and checked.
 
-After brushing his teeth that night, Andrew poked his head into Amanda's room, "We need to go back to those caves…tomorrow?"
+"My grandmother told me about these lava tubes," he said
+as they climbed. "Natural tunnels — old lava flows.
+The outside cools and hardens, the inside keeps flowing,
+and when it drains out, you get a pipe big enough to walk in.
+Some of them run deep into the mountain. Nobody's mapped them all."
 
-Amanda nodded, already sketching a map for the underground tunnels from memory.
+The trail bent, the shade of the palms gave way to scrub and fern,
+and the mountain got serious about being a mountain.
+Heat shimmered off the black rock;
+somewhere below them the ocean flattened out into a blue floor.
+Amanda navigated with the notebook open on her palm —
+carving to carving, direction lines to landmark,
+her finger keeping their place on the page like a bookmark —
+until Andrew stopped and pointed.
+
+"There."
+
+A dark opening in the hillside, half hidden by ferns,
+breathing cool air down at them.
+Around it, carved into the rock, were more petroglyphs —
+the tight notched spiral, and beneath it lines that led inward.
+
+"Sacred place," Andrew said quietly. "That's what the guide said
+the spiral marks. This is a front door."
+
+Amanda sketched the entrance symbols fast,
+then stood a long moment at the mouth of the tunnel,
+looking at where the sunlight quit.
+She bit her lip.
+
+"Are we sure about this?"
+
+"No," Andrew said. "Radios on?"
+
+She thumbed hers; his crackled softly on his belt. "On."
+
+"Then let's be not-sure inside."
+
+Amanda held out a palm,
+and Kekoa surrendered the roll of reflective tape
+he banded his flashlights with;
+the clothespins were already waiting in her pack.
+
+The flashlight beams found smooth walls that glistened,
+a floor of ropey stone, the ceiling low and then suddenly high.
+The air changed ten steps in — cool, mineral, faintly damp,
+like the inside of a clay pot.
+In places, fine pale roots hung down through cracks
+in the ceiling, feeling for the floor,
+and Andrew ducked under them with great formality,
+because brushing one against your neck in the dark
+was an experience nobody needed twice.
+Their footsteps came back to them a half-second late.
+Every ten steps or so,
+Amanda knelt and clipped three clothespins to a rock edge
+or a root, each one flagged with a square of Kekoa's
+reflective tape —
+big square, medium, small, always in that order —
+setting each one with two fingers like she was placing a bet.
+
+"Breadcrumbs," Kekoa said, checking his phone. "Smart. No bars
+in here, by the way. Zero. We are officially in the old world."
+
+"Look." Andrew's beam had caught something that did not belong
+in the old world:
+a plastic water bottle, cap on, a quarter full.
+
+"And here." Kekoa crouched by the wall. "Granola bar wrappers.
+Two — no, three. Someone's been in here, and not a thousand years ago."
+
+"Recently," Andrew said, turning the bottle with one finger
+without picking it up. "There's still water in it.
+Litterbugs don't hike this far in. Whoever it was
+came here to work."
+
+It was Amanda's light that found the paper.
+
+It lay against the base of the wall where a draft had pinned it —
+torn along one edge, dirty, smudged dark in one corner,
+covered in cramped, hurried handwriting.
+She picked it up with both hands. They were not quite steady.
+
+"Notes," she whispered. "Measurements. Site names.
+Andrew — these are notes about archaeological sites."
+
+"Whose?"
+
+"It's torn. The name part's gone. But—"
+
+And that was when they heard the footsteps.
+
+They came from deeper in, where the tunnel curved away into black —
+slow, unhurried, scraping steps,
+and under them a voice, too far to make words,
+close enough to be a voice.
+
+Getting closer.
+
+Amanda folded the paper into her pocket in one motion.
+Ahead, past the curve of the wall, she had been scouting
+the mouth of a side passage — she was ten steps out front,
+her light already around the bend.
+
+Andrew grabbed his radio and pressed the call button.
+
+Nothing. Not even static — just a soft, dead hiss,
+his whisper going into the rock and staying there.
+Basalt did not care about channel eight.
+
+"Amanda!" It came out as the loudest whisper of his life.
+
+Her light swung back. She had heard his feet, not the radio —
+he was already running, Kekoa behind him, flashlights jittering,
+and she waved them past her into the side passage,
+counting them by touch — one, two —
+and ducked in last.
+
+They flattened against the cold wall in the dark, lights off.
+The footsteps grew louder. The voice resolved almost into words —
+a man's voice, low, talking to itself or to a phone
+that couldn't have had bars either.
+Louder. Level with them.
+
+Amanda found Andrew's wrist in the dark and held it.
+
+Then the steps were past, and fading, deeper toward the entrance —
+or toward what they hoped was not the entrance —
+and after a while there was only the sound
+of three kids remembering to breathe.
+
+"Move," Kekoa breathed. "Away from him. Quietly."
+
+The side passage forked. Then forked again.
+The third dead end looked exactly like the second one,
+and the darkness had begun to press in ways that had weight,
+and Kekoa's phone still said NO SERVICE in tiny stubborn letters.
+
+"We're turned around," he admitted. "Okay. Okay. I'm not lost.
+I'm just — briefly unconvinced about directions."
+
+"We're not lost," Amanda said.
+
+She dropped to a crouch, ran her light low along the floor,
+and there it was, at the junction ahead,
+throwing her beam straight back at her:
+three tape flags. Big, medium, small.
+
+"That way."
+
+Marker by marker, her breadcrumbs walked them backward
+through the dark — every pin exactly where her hands had left it,
+and every pin unclipped and pocketed as they passed,
+because you leave the mountain the way you found it —
+until gray light bloomed ahead
+and they came up blinking into the late afternoon,
+ferns catching at their arms, the sun impossibly ordinary.
+
+Nobody said anything until they reached the marked trail.
+
+"That was a close call," Kekoa said finally.
+"Who do you think was down there?"
+
+"No clue," Amanda said. "And I'm glad we didn't find out."
+She patted her pocket, where the torn paper was. "Yet."
+
+They were home twenty minutes before before-dark,
+which Andrew logged, out loud, for the record.
+
+---
+
+After dinner, Andrew took his lacrosse stick out
+to the side of the garage, where a bare stretch of wall
+had been promoted to practice partner on their second day.
+Throw, thock, catch. Throw, thock, catch.
+He counted under his breath.
+The college players in his highlight videos
+did a hundred wall-ball reps a day, every day —
+that was the whole secret, they said, and someday,
+on some field with real bleachers, he planned to prove they were right.
+He was on thirty-four when his dad came across the lawn
+with his own stick, where the grass had gone gold
+at the edges with sunset.
+
+"So how was exploring?" his dad asked, making a perfect catch
+behind his back, because he was incapable of not showing off.
+"Find any pirate treasure?"
+
+Andrew's stick wobbled on the return catch, but the ball stayed in.
+"No treasure. Some old lava tubes near the trail.
+Granola bar wrappers. And Amanda clipping little tape markers
+about every ten feet, like a very organized squirrel."
+
+"Tape markers." His dad sent the next throw higher.
+
+"So we couldn't get lost." Andrew tracked it, moved his feet,
+and the catch landed soft and clean, barely a wobble.
+He fired it back, proud of the whip in it. "It worked, too."
+
+His dad caught it and stood there a second,
+spinning the stick slowly in his hands.
+
+"Marked paths the whole time?"
+
+The ball, the lawn, and Andrew's stomach all hung in the air.
+
+"We could always see the trail," Andrew said,
+which had been true for at least some values of see.
+
+"Mm," his dad said, and threw the ball, and let it go —
+though later Andrew would try to remember
+whether the mm had sounded like a man believing something
+or a man filing it away.
+
+That night, teeth brushed, Andrew poked his head
+into Amanda's room. She was sitting cross-legged on her bed,
+drawing in the notebook by lamplight —
+the tunnels, from memory, fork by fork,
+her tape flags marked as tiny triangles.
+
+"We need to go back," he said. "Tomorrow?"
+
+Amanda didn't look up. She drew the side passage where they'd hidden,
+and beside it, small and neat, a question mark.
+
+"Tomorrow," she said, "we find out whose paper this is."
 
 ## Chapter 7: The Archaeologist's Trail
 
-Amanda dribbled her soccer ball across the damp morning grass, practicing the new move she'd seen in a World Cup highlight video. The sun had barely risen, but she couldn't sleep - not with the mysterious paper from the lava tubes sitting on her desk. She tried another scissor move with the ball, stumbling slightly.
+Amanda dribbled her soccer ball across the damp morning grass,
+trying the scissor move from the World Cup highlight
+she'd watched eleven times.
+The sun was barely up, but she couldn't sleep —
+not with the torn paper from the lava tube sitting on her desk
+all night, saying nothing.
+She swung her left foot around the ball and stumbled.
 
-"You're leaning too far back," Andrew called from the lanai, where he was spreading peanut butter on his toast. "That's why you keep losing balance."
+"You're leaning too far back," Andrew called from the lanai,
+where he was spreading peanut butter on his toast.
+"That's why you keep losing it at the end."
 
-"Since when are you a soccer expert?" Amanda shot back, but she adjusted her stance anyway. The next attempt was smoother. She was about to try again when she noticed Andrew waving her over urgently.
+"Since when are you a soccer expert?"
 
-The mysterious paper from the cave lay on the table between them, partially stuck to a spot of spilled peanut butter. "Look at this," Andrew pointed to the corner of the page. Through the coffee stains and dirt, they could make out a name: "Dr. M. Lee."
+"Since I got really interested in balance," Andrew said,
+with the dignity of a man who had stood on a surfboard
+for one entire second.
 
-All of a sudden, a wet, black nose popped up from under the table and started sniffing the document. "Down Blazer!" Amanda said. "This doggy loves peanut butter too much."
+Amanda adjusted anyway. The next one was smoother —
+plant, swing, snap — and the ball came out of the scissor
+still glued to her foot.
+She was lining up another when Andrew started waving her over,
+urgently, toast in hand.
 
-Right then, the alarm went off, signaling it was time for school to start.
+The torn paper lay on the table between the plates,
+one corner stuck to a smear of spilled peanut butter.
+Andrew peeled it free, carefully, and the grease had done
+something the dirt hadn't:
+where the smudge went see-through,
+faint pen strokes showed at the ripped corner.
+
+"Look," he said. "Bottom edge. There was a name there."
+
+Through the stains they could make out the top halves
+of small careful letters, and then, suddenly, the whole name.
+
+Dr. M. Lee.
+
+"Doctor," Amanda said. "The notes, the measurements —
+Andrew, this is somebody's job."
+
+A wet black nose rose over the edge of the table
+and pointed itself at the paper like a compass needle.
+
+"Down, Blazer!" Amanda lifted the paper out of range.
+"This doggy loves peanut butter too much."
+
+Blazer sat, radiating injury, and did not stop
+staring at the paper.
+
+Right then the alarm went off inside — school.
 
 ---
 
-During their first online class break, the twins hunched over their tablets, searching for information. Amanda was supposed to be finishing her math worksheet, but this felt more important.
+The twins spent all of first period being physically present.
 
-"Found him!" Andrew whispered. "Dr. Marcus Lee, former professor of archaeology at the University of Hawaii." He turned his tablet to show Amanda a news article from six months ago: "Professor's Controversial Theory Leads to Dismissal."
+At the break, they hunched over the tablet
+at the kitchen counter, heads together.
+Amanda was supposed to be finishing a math worksheet.
+The worksheet was not competitive.
 
-"According to this," Amanda read quietly, "Dr. Lee claimed to have evidence of an unknown ancient migration pattern, but the university said his methods were 'unorthodox and unsupported.'" She clicked through more articles. "Look - all the artifacts that went missing? They're exactly the kind of evidence he said he needed to prove his theory!"
+"Found him," Andrew whispered. "Dr. Marcus Lee.
+Former professor of archaeology, University of Hawaii."
+He turned the tablet. A news article, six months old:
+PROFESSOR'S CONTROVERSIAL THEORY LEADS TO DISMISSAL.
+Under the headline was a photograph —
+a man at a podium, mid-sentence, jabbing the air.
 
-Their research was interrupted by their mom calling from her home office. "Kids! Your history assignments were due yesterday. No more exploring until they're done!"
+Amanda grabbed Andrew's wrist so hard he nearly dropped the toast
+he was still somehow eating.
 
-Working quickly through lunch, they finished their assignments while continuing to search for information about Dr. Lee. Amanda discovered his social media accounts, filled with cryptic posts about "vindication coming soon" and "truth hidden in plain sight." Some of his photos looked familiar - they were taken near their neighborhood, close to the lava tubes.
+"That's him."
 
-"Hey, look who's calling," Andrew pointed to his tablet screen. Their aunt and uncle's familiar faces popped up on a video chat.
+"That's Dr. Lee, yeah, it says—"
 
-"How's island life?" Aunt Jenny asked brightly. "Jacob, honey, they look tanner already!"
+"No. Andrew. That's him.
+The camera man. The trail. Twice.
+The one who photographs rocks and writes in the little notebook."
+She pulled the tablet closer, and the longer she looked
+the more the podium man and the trail man
+became one man. "Same jaw. Same way of leaning forward.
+I'd know him anywhere. He walked right past us."
 
-Uncle Jacob leaned closer to the camera. "What's that you're reading about archaeology? I did some dig site documentation work in Peru last year..."
+Andrew looked from the photo to his sister and back,
+and his hand came up and smoothed his cowlick, once.
 
-The twins exchanged glances. Maybe Uncle Jacob could help - without knowing he was helping.
+"Then he's been on that trail since before the first theft," he said.
+"Photographing the carvings. Studying them."
 
-"Actually," Amanda said carefully, "we were just learning about how archaeologists document their findings. Like, if someone found something important, what's the proper way to handle it?"
+"Reading them," Amanda said. "First."
 
-"Oh, that's crucial!" Uncle Jacob launched into an explanation about proper documentation, permits, and the importance of context. "You can't just remove artifacts without recording everything about where and how they were found. That's actually illegal in most places. Hey kids, are your parents around? We need to chat with them."
+They read the article in whispers.
+"'Dr. Lee claimed to have evidence that this district
+was settled centuries earlier than accepted,'" Amanda read,
+"'but the university called his methods
+unorthodox and unsupported.'"
+She clicked through. "Look — he spent years cataloguing
+artifact collections at small museums and cultural centers
+across the islands. And then — here —
+all the artifacts that have gone missing?
+A bone fishhook, a ceremonial bowl, a ko'i.
+They're exactly the kind of evidence
+he said would prove his theory."
 
-Andrew brought the tablet to his mom and then they hurried to Kekoa's house to share what they'd learned. They found him practicing with his drone in the backyard.
+"So he got laughed at," Andrew said slowly,
+"and now he's collecting the proof himself.
+Motive." He pulled up another tab. "And look at this."
 
-"So this Dr. Lee might be stealing artifacts to prove his theory?" Kekoa asked, landing his drone carefully. "That's pretty serious. What should we do?"
+Dr. Lee's social media was public, and it was a diary.
+Cryptic posts, weeks of them:
+Vindication coming soon.
+The truth is hidden in plain sight.
+They'll all see.
+Some of the photos looked familiar —
+rock faces near their neighborhood, the trail, the hillside
+above the lava tubes.
 
-"We need to watch the cultural center," Amanda said, her detective skills kicking in. "If we can catch him in the act..."
+And one photo stopped Amanda cold.
 
-"But we have to do it soon," Andrew blurted out. "Who knows how much longer Dr. Lee will keep the artifacts nearby before he ships them off somewhere we'll never find them?"
+Dr. Lee, kneeling at a petroglyph panel, caught mid-note —
+and behind him, where he'd walked up the muddy slope,
+his boot soles had printed the ground over and over.
+Zigzag tread. Deep. Large.
 
-They spent the rest of the afternoon planning their stake-out, drawing maps and checking the cultural center's schedule.
+Amanda flipped her notebook back a week, to the page that said
+zigzag tread, big, half full of rainwater.
 
-At dinner that night, while their dad grilled his famous teriyaki chicken, their mom talked excitedly about the weekend trip. "The helicopter tour of the volcanoes is supposed to be amazing," their mom said, passing the rice. "And there's a great museum we can visit..."
+"The footprints below the carvings," she said. "Look. Look."
 
-Amanda picked at her chicken, her mind on their investigation. After dinner, Andrew paused on his way upstairs when he heard his parents talking in the kitchen.
+Andrew held the notebook beside the screen, the sketch beside
+the photo, and took his time — that was his job —
+and then nodded once.
 
-"Are you sure about this meeting on the Big Island?" his dad asked quietly.
+"Same tread. And I said they looked big for Mrs. Santos."
+He let out a breath. "They were never hers.
+They were his, from standing there studying the carvings.
+For a long time. Remember how deep the heel marks were?"
 
-"The client insisted," his mom replied. "They said it's too important to discuss over video chat. Something about a major development in the project."
+Amanda drew a line through one entry on the SUSPECTS page.
+Not Mrs. Santos's footprints, she wrote. His.
 
-Andrew lingered for a moment, then headed upstairs. He found Amanda in her room, already plotting their stake-out plans in her notebook.
+"She's still on the list, though," she said. "Trail. Seven a.m.
+Mystery bag. Wouldn't say hi."
 
-"We have to do it tomorrow night," he whispered. "Did you see Dr. Lee's posts? 'Vindication coming soon.' He's almost finished - if we wait, those artifacts could be gone for good."
+"Kids!" their mom called from her office.
+"Your history assignments were due yesterday!
+No more staring at that tablet until they're done!"
 
-Amanda nodded, sketching a quick map of the cultural center. "Tomorrow night it is."
+They did the assignments. It was possibly the fastest
+either of them had ever traveled through history.
+
+---
+
+They found Kekoa in his backyard with the drone up,
+flying slow, patient circles around the clothesline.
+
+"Fifty-eight seconds last try," he reported, eyes on the sky.
+"Your brother's two seconds from figure eights. Here —"
+He handed Andrew the controller. "Fly and talk."
+
+The drone dipped an inch when it changed hands, then steadied.
+Andrew fed it into a wide, careful lap while Amanda laid it all out:
+the name on the paper, the article, the theory, the posts,
+the boots.
+
+Kekoa whistled. "So this Dr. Lee is stealing artifacts
+to prove his theory. That's — actually really sad. And really bad.
+What do we do?"
+
+"We watch the cultural center," Amanda said. "If we can catch him—"
+
+"We have to do it soon," Andrew said, not looking away
+from the drone. "'Vindication coming soon.'
+He's nearly done. If he ships those artifacts off somewhere,
+they're gone for good — and the blessing is in five days.
+Your tutu said it herself. Three empty cases isn't a ceremony."
+
+The drone settled onto the grass, soft as a sigh.
+Nobody cheered, but Kekoa tapped the controller twice,
+which meant sixty-one seconds, which meant figure eights.
+
+They walked out front, planning in low voices —
+and slowed, all three of them, at the yard beyond theirs.
+
+Mrs. Santos was on her porch.
+
+She sat surrounded by green: buckets of long leaves,
+bundles of them tied with string, drying racks of pale strips,
+and across her lap a half-woven mat,
+her hands moving through it fast and certain,
+over, under, over, under, without her ever once looking down.
+The canvas bag hung flat and empty on a nail by the door.
+
+"Lauhala," Kekoa said quietly. "She weaves the mats and fans
+for the blessing ceremony. Every year, since forever.
+She gathers the fallen leaves along the lower trail at dawn —
+she says the best ones go fast, and the afternoon rain
+spoils the rest.
+My grandmother says nobody else's weaving
+even gets to sit on the same table."
+
+Amanda looked at the buckets. The bag. The trail. Seven a.m.
+
+"That's what she was carrying," she said. "Leaves."
+
+Mrs. Santos's hands never stopped, but her chin came up,
+and she looked straight at them
+with the same flat expression as her window.
+
+"The new mats take three weeks. The leaves took a year,"
+she said. "The ceremony won't wait
+for anybody. Neither will I." Her eyes went back to her work.
+"You'll get your mat to stand on, same as the whole town."
+
+They walked on. Half a block later Amanda stopped,
+opened the notebook against Andrew's shoulder blade,
+and crossed Mrs. Santos off the suspect list entirely —
+one clean line, and then, after a second, wrote underneath:
+Ask her how she does that without looking.
+
+"So the list is one name long," Andrew said.
+"And a question. 'Somebody who knows the security system.'"
+
+"Maybe it's the same name," Amanda said. "That's what we find out."
+
+---
+
+The video call caught them at the worst possible moment,
+which was how they knew who it was before they looked.
+
+They had the stake-out half planned on Amanda's floor —
+her sketch-map of the cultural center, the garden, the entrances —
+when the tablet lit up: AUNT JENNY.
+
+"How's island life?" Aunt Jenny beamed. "Jacob, honey, look —
+they're tanner already!"
+
+Uncle Jacob's face crowded in beside hers.
+"What's all that paper? Wait — is that archaeology?
+I did dig-site documentation in Peru last year, you know."
+
+The twins traded a glance. Maybe Uncle Jacob could help —
+without knowing he was helping.
+
+"Actually," Amanda said, very casually,
+"we were learning how archaeologists document their findings.
+Like — if someone found something important,
+what's the proper way to handle it?"
+
+"Oh, that's crucial!" And he was off:
+context, permits, site grids, photographs from fixed points,
+never move an object before it's recorded.
+"You can't just take artifacts, even to study them.
+Without the documentation, the context — it's not evidence anymore.
+It's just — stuff. That's why it's illegal almost everywhere.
+Hey, are your parents around? We need to grab them a minute."
+
+Andrew carried the tablet toward Mom's office,
+and Amanda sat very still in the middle of her maps.
+
+It's not evidence anymore. It's just stuff.
+
+Dr. Lee had spent his whole life learning that rule.
+He knew better than anyone what breaking it would cost —
+and he was breaking it anyway.
+Which meant he wasn't collecting proof for a journal.
+
+He was past listening. To anybody.
+
+---
+
+At dinner their dad grilled teriyaki chicken,
+and their mom talked about the weekend —
+a helicopter tour of the volcanoes, a museum —
+while Amanda arranged her rice into contour lines
+and thought about garden hedges with a view of the side entrance.
+
+After dinner, on his way upstairs, Andrew stopped.
+His parents' voices were low in the kitchen, and low voices
+had a gravity that loud ones didn't.
+
+"Are you sure about this meeting on the Big Island?" his dad said.
+
+"The client insisted," his mom said. "A full day,
+everyone in the same room. Something about a major development."
+
+A cabinet closed. Water ran.
+
+Andrew stood on the bottom stair a moment longer.
+A whole day on another island, for one meeting.
+Big clients are strange, buddy.
+Weird job, he filed, under the other times it had felt
+like a weird job — then took the stairs two at a time.
+
+Amanda was cross-legged on her floor,
+drawing a neat X behind the ti plants on her map,
+where three kids could sit in the dark and watch a door.
+
+"Tomorrow night," Andrew said from the doorway. "Sleepover
+at Kekoa's. It's even true. Mostly."
+
+Amanda's pencil paused on the word mostly.
+Then she wrote TOMORROW NIGHT across the top of the map,
+and underlined it twice.
 
 ## Chapter 8: Close Call
 
-"Are you sure your parents are okay with this sleepover?" Mrs. Kalani asked, setting out extra pillows in Kekoa's living room.
+Mrs. Kalani was setting out pillows.
 
-"We asked them this morning," Amanda said, trying to sound casual. She hated not telling the whole truth, but technically, their parents had agreed to the sleepover. They just didn't know about the stake-out part.
+She moved around Kekoa's living room plumping them,
+stacking two extra on the pull-out couch,
+squaring the corners of a folded blanket with both hands.
 
-As soon as Mrs. Kalani left for her volunteer shift at the hospital, the three friends grabbed their backpacks. The sun was setting as they made their way through the garden to a hiding spot behind some large ti plants, giving them a clear view of the center's side entrance.
+"Are you sure your parents are okay with this sleepover?"
 
-"Remember," Kekoa whispered, "if my grandmother catches us, I'm grounded until college."
+"We asked them this morning," Amanda said,
+trying to sound like someone with nothing in her backpack
+but pajamas.
 
-Andrew checked his watch for the tenth time. "It's already 8:30. Maybe Dr. Lee isn't coming tonight."
+It was true. They had asked, and their parents had said yes,
+and every word of that was real.
+It just wasn't all of the words.
+The rest of the words sat in Amanda's stomach
+where the swallowed-ice-cube feeling lived,
+and got heavier every time Mrs. Kalani plumped a pillow for them.
 
-"Shhh!" Amanda pointed to a figure approaching the entrance. Even in the dim light, they recognized Dr. Lee from his social media photos. He glanced around before using a key card to enter the building.
+"There's mango bread in the kitchen," Mrs. Kalani said,
+gathering her cardigan and her keys.
+"Kekoa knows the rules. I'll be back from my hospital shift
+by eleven." At the door she paused,
+and for a moment she looked very tired,
+and older than her floral dress.
+"Lock up behind me. These days I lock everything."
 
-"He has a key card?" Andrew whispered. "How did he get that?"
+The door clicked. The car backed out.
 
-They waited a few minutes before creeping to the door. Through the window, they could see Dr. Lee's flashlight beam moving through the Hawaiian artifacts section.
+Nobody moved for a ten-count — Andrew counted it —
+and then three backpacks came out from behind the couch.
 
-"The door's still unlocked," Kekoa whispered, pushing it open slowly.
+"Rules," Kekoa said grimly, pulling on a dark hoodie.
+"For the record, if my grandmother catches us,
+I'm grounded until college."
 
-Inside, they stayed low, moving from display case to display case. Dr. Lee was photographing artifacts and making notes in a small notebook, muttering to himself.
+"Then let's not get caught," Amanda said. "Andrew. Radios."
 
-Amanda's heart pounded as they crept closer, trying to hear what he was saying. Suddenly, his flashlight beam swept toward them. They ducked behind a large tiki statue just in time.
+Andrew already had both out, volume dialed almost to nothing.
+He handed Amanda hers, the one with the tape marked A,
+and held up three fingers.
 
-The kids held their breath. After what felt like forever, they heard his footsteps moving away. They followed at a safe distance, watching him examine more displays.
+"Codes. Listen, because we can't repeat them out loud out there.
+One click means freeze — stop moving, stop talking.
+Two clicks means someone's coming — get down and stay down.
+Three clicks means it's gone wrong. Leave everything.
+Meet at the plumeria tree behind the garden."
 
-"He's heading toward the storage room," Kekoa whispered.
+"What if we need words?" Kekoa said.
 
-But as they turned the corner, Dr. Lee was gone. The hallway was empty.
+"Whisper, once, close to the mic. But clicks are quieter.
+The button makes a little breath of static on the other end —
+that's the click. I tested it through my bedroom wall."
 
-"Where did he-" Andrew started to say.
+"Of course you did," Amanda said, and clipped the radio
+inside her jacket, where her heartbeat could keep it company.
 
-"Behind you!" Amanda hissed.
+Ten quiet minutes down the road took them to the center,
+nobody wasting a whisper on the way.
 
-They dove behind a massive display case as Dr. Lee reappeared, talking on his phone. From their hiding spot, they could hear his conversation.
+The sun was going down as they slipped through the garden gate.
+The cultural center sat dark beyond the hedge,
+one security light burning over the side entrance,
+moths making a small snowstorm around it.
 
-"Yes, tomorrow night... The final pieces... I've arranged the shipping... No, no one suspects..." His voice faded as he walked toward the exit.
+The plan was Amanda's, and it had posts.
+Kekoa and Amanda folded themselves in behind the big ti plants,
+with a clean view of the side door.
+Andrew went twenty yards farther on, alone,
+around the corner of the garden wall to the mock-orange hedge,
+where a gap the size of a lacrosse ball looked out
+on the parking lot and the street beyond.
 
-"We have to call your grandmother," Amanda told Kekoa. "He's planning to take more artifacts tomorrow!"
+Being the lookout had sounded better in daylight.
+The wall at his back was still day-warm,
+but the dark between the streetlights kept suggesting things,
+and his free hand found his cowlick and worked at it
+while the other held the radio against his ear.
 
-Kekoa nodded reluctantly and pulled out his phone.
+Somewhere a gecko chirped. The ocean breathed in and out.
 
-Mrs. Kalani arrived within minutes, turning on the lights and calling out, "Dr. Lee? Are you in here?"
+8:14. Nothing.
 
-But the former professor had already slipped away. The only evidence of his visit was a dropped notebook page covered in his messy handwriting.
+8:22. A cat crossed the parking lot with somewhere to be.
 
-"You three have some explaining to do," Mrs. Kalani said, looking at their guilty faces. "I'm calling your parents."
+8:29 —
 
-An hour later, the group was joined by the twins' parents in the Kalanis' living room. Andrew tried to explain the evening's events, without revealing everything they knew about the petroglyphs and the lava tubes.
+Headlights swung off the road.
+
+A gray sedan rolled into the lot, too slow, lights dying
+before it even stopped, and backed — backed — into the space
+nearest the exit.
+
+Andrew pressed the call button twice.
+Click. Click.
+
+Behind the ti plants, Amanda felt the two small breaths of static
+arrive against her ear, and her whole body went flat and cold.
+She pulled Kekoa down by the sleeve.
+
+Footsteps on gravel. Unhurried. Getting louder.
+
+The man passed the ti plants close enough
+that they could hear him breathing —
+and stopped in the pool of the security light,
+and there he was.
+The man from the podium photo. The man from the trail.
+Older than the photo, thinner, shirt wrinkled,
+a canvas satchel across his chest.
+
+Dr. Marcus Lee glanced around once — right over their leaves —
+then held something small and flat to the panel by the door.
+
+The lock made a soft, obedient beep, and the door swung open.
+
+Amanda's breath caught. A key card.
+Not a crowbar, not a broken window. A key card,
+for a locked building, after hours,
+as if the center itself thought he belonged there.
+
+The door sighed shut behind him.
+
+A moment later Andrew came low around the corner
+and folded in beside them, eyes enormous.
+
+"A key card," he whispered. "Did you see it? That's it —
+that's the inside knowledge. That's the answer to my question
+from the day it was stolen. Where the cameras point, how the sensors arm,
+and now a card that opens the door.
+It was never luck. I said it was never luck."
+
+"Then let's find out what the card is doing here," Amanda said.
+
+The door was still unlocked. Kekoa eased it open,
+a slice of dark, then wide enough for one kid at a time.
+
+Inside, the center at night was a different country.
+The display cases threw long shadows in the red glow
+of the exit signs, and away across the hall
+a flashlight beam floated through the Hawaiian artifacts section,
+dipping and pausing like a hunting thing.
+
+Amanda's thumb found the volume dial on her radio
+and rolled it, click, all the way to off. Andrew saw,
+and did the same, and reached over and did Kekoa's phone too —
+holding the power button until the screen died completely.
+In here, one stray sound could not be allowed to exist.
+
+They moved case to case, low, in stocking feet —
+shoes off at the door had been Kekoa's idea,
+carried by hand, laces looped over their wrists.
+
+Dr. Lee stood at an empty display case — the fishhook's case —
+photographing it, of all things,
+and writing in the small notebook by flashlight,
+muttering. Words floated back to them in pieces:
+"...original placement... they'll have to see it... complete..."
+
+Amanda's heart was so loud she was sure it counted as talking.
+
+They crept closer, along the wall behind a carved outrigger,
+close enough that the muttering almost became sentences —
+and the flashlight beam swung around toward them.
+
+They dropped behind the biggest thing in the room,
+a tall wooden ki'i near the wall,
+and the beam passed over their heads,
+lighting up the dust in the air where they had just been.
+
+Nobody breathed. The light held — held —
+then swung away, and the footsteps moved off, unhurried,
+toward the corridor that led to the storage rooms.
+
+"He's heading for the storeroom hallway," Kekoa mouthed.
+
+But when they reached the corner, the corridor was empty.
+A door somewhere had opened and closed without sound.
+The whole building was suddenly very quiet.
+
+"Where did he—" Andrew started.
+
+"Behind you!" Amanda's whisper cracked down the middle.
+
+They dove behind a long display case as light bloomed
+in the doorway they'd just come through —
+and Dr. Lee walked back into the hall, phone to his ear,
+close, closer, stopping on the other side of their case,
+so near that Amanda could hear both sides of his breathing
+and none of the other voice.
+
+"Yes, tomorrow night," Dr. Lee said.
+
+Amanda's fingers closed around Andrew's arm.
+
+"The final pieces... no, everything else is already in place.
+I've arranged the shipping. A container, out of Kahului —
+by the time anyone thinks to look, it will be off-island."
+A pause. His shoes creaked. "No. No one suspects.
+The police are looking for a thief."
+Something almost like a laugh, with nothing funny in it.
+"I'm not stealing them. I'm putting them back where they belong.
+After tomorrow night, it won't matter what the university thinks.
+The site proves everything."
+
+The footsteps moved away toward the side door.
+Paper rustled; something fluttered to the floor in the dark.
+The door beeped, opened, fell shut.
+
+Through the window they watched the gray sedan pull out,
+lights off until the road.
+
+Then the hall was theirs, and the fear finally arrived —
+late, all at once, straight to the knees.
+
+"Tomorrow night," Kekoa whispered. "He said tomorrow night.
+The blessing is in four days and he's shipping them
+out of Kahului tomorrow night."
+
+"We have to call your grandmother," Amanda said. "Right now.
+Not the police first, not our parents first — her.
+It's her center. He's planning to finish this."
+
+Kekoa turned his phone back on. It took nine years to boot.
+
+While he murmured into it, hunched, one hand over his mouth,
+Amanda crossed the dark hall to where the paper had fallen —
+a single notebook page, dropped, covered edge to edge
+in cramped, hurried handwriting.
+She held it up in the red exit-sign light next to the memory
+of the torn greasy note from the tubes.
+Same slant. Same crowded little letters. Same hand.
+
+She slipped it into her pocket, and this time her hands
+were perfectly steady.
+
+Mrs. Kalani arrived faster than should have been possible,
+in her cardigan, flipping on banks of lights like accusations.
+
+"Dr. Lee?" she called into the bright empty hall. "Are you here?"
+
+But the former professor was long gone,
+and what she found instead was three kids
+standing in the middle of her museum in their socks,
+shoes dangling from their hands,
+looking exactly as guilty as they were.
+
+Mrs. Kalani stood very still for a moment.
+Her eyes went from face to face
+and took attendance twice.
+
+"You three," she said at last,
+in a voice that was quiet in the worst way,
+"have some explaining to do. I'm calling your parents."
+
+---
+
+An hour later, the twins' parents sat on Mrs. Kalani's couch
+next to the stack of extra pillows,
+which nobody had moved, and which Amanda could not stop seeing.
+
+Andrew explained — most of it.
+The trail, the litter in the tubes, the torn note, the research,
+Dr. Lee's key card. He kept his sentences short and factual
+and did not once look at his sister.
+Kekoa sat by his grandmother with the expression of a boy
+doing long division on exactly how grounded he was.
 
 "We just wanted to help solve the mystery," Amanda said quietly.
 
-"By sneaking around a building at night?" their mother asked. "Do you have any idea how dangerous that was?"
+"By sneaking around a locked building at night?"
+Their mother's voice didn't rise at all, which was worse.
+"Alone. In the dark. With a stranger in the building.
+Do you have any idea how dangerous that was?"
 
-"We're sorry," Andrew said, but his mind was racing. Dr. Lee had said 'tomorrow night.' They were running out of time.
+Yes, thought Amanda. His shoes creaked on the other side
+of the case. She said nothing.
 
-Their father stood up. "Come on, kids. We're going home." He glanced at their mother, "though your antics were exciting, you'll still need to be punished."
+"And the tubes," their dad said, quieter than their mom.
+"Marked paths only. That was the one rule that went with you.
+The litter you found tells me how marked those paths were."
 
-As they walked home under the stars, Amanda slipped the dropped notebook page into her pocket. Despite their parents' disappointment, they couldn't stop now. Not when they were so close to solving the mystery.
+"We're sorry," Andrew said, and meant it,
+and his mind raced anyway, uselessly, around the same track:
+tomorrow night. Tomorrow night. Tomorrow night.
 
-"Tomorrow night," Andrew whispered when their parents weren't listening. "That's our last chance."
+"And the worst part," their mom said, and stopped.
+She looked at Mrs. Kalani, at the pillows,
+then back at the twins, and something in her face
+was more tired than angry.
+"You told us a sleepover. And it was — technically — a sleepover.
+You bent the truth into the exact shape you needed
+to walk through it. Where does a kid even learn that?"
 
-Amanda nodded, already trying to figure out how they could possibly investigate while being grounded.
+The room went a beat too quiet.
+Their dad looked at the window.
+Mrs. Kalani smoothed her skirt.
+
+"Home," their dad said, standing. "Now. Both of you."
+He glanced at their mother.
+"Though your antics were exciting, you'll still need to be punished."
+
+At the door, Amanda made herself stop in front of Mrs. Kalani.
+
+"The blessing is in four days," Amanda said. "We were trying —"
+The sentence ran out of road. "I'm sorry we lied to you."
+
+Mrs. Kalani looked down at her for a long moment,
+and something moved behind her eyes, quick, and was put away.
+
+"So am I," she said gently. "Go home, Amanda."
+
+They walked home under more stars than Seattle had ever owned,
+their parents' flashlight bobbing ahead,
+nobody talking.
+
+Andrew fell into step beside his sister, and under the sound
+of four sets of footsteps he barely moved his lips.
+
+"Tomorrow night. That's our last chance."
+
+Amanda didn't answer.
+One day, one locked-down yard,
+and a container leaving Kahului with the trail's whole treasure in it.
+Her hand found the folded page in her pocket
+and held on.
 
 ## Chapter 9: Race Against Time
 
-Being grounded wasn't as bad as Amanda expected - at least their parents still let them practice soccer and lacrosse in the yard. What their parents didn't know was that Amanda used her breaks between drills to work on the petroglyph map. And Andrew used his lacrosse gear bag to smuggle their investigation notes back and forth to Kekoa.
+The soccer ball hit the fence, came back low and spinning,
+and Amanda trapped it dead under one sneaker.
 
-"Only essential activities until your judgment improves," their mom had said, barely looking up from another work email. Their dad had nodded in agreement, adding "And no more sneaking around at night!"
+Ten touches, look up, shoot. Again.
+Coach Chen says eyes up on the tenth touch —
+says, not said, because in Amanda's head
+the Warriors were still running Tuesday drills
+on a wet Seattle field, and she was still on the roster.
+Drills were on the approved list.
+Almost nothing else was.
 
-But Dr. Lee's words echoed in Amanda's head: "Tomorrow night... The final pieces... I've arranged the shipping..." They couldn't just sit back and watch the artifacts disappear forever.
+"Only essential activities until your judgment improves,"
+their mom had said at breakfast, not looking up from her laptop,
+in the flat, even voice she had been using since the night before.
+Their dad had added, "And no more sneaking around at night,"
+which did not need saying, and he had said it anyway.
 
-During their morning online classes, Andrew kept his science textbook propped up in front of his tablet, hiding the chat window where he messaged Kekoa:
+Between drills Amanda knelt on the grass over her open notebook,
+where the whole trail lay copied out in her smallest handwriting,
+and tried to think about symbols
+instead of the sentence that kept playing over the top of them.
+You bent the truth into the exact shape you needed.
 
-Andrew: Did the security cameras get anything? Maybe Dr. Lee on video?
+She stood up and hit the next ball
+hard enough to rattle the fence boards.
 
-Kekoa: Nope. Grandma says cameras mysteriously stopped working from 8-9pm
+The night before, after lights-out,
+she had pressed the talk button on her radio
+and whispered into the dark.
 
-Andrew: Just those hours??
+"Andrew. Over."
 
-Kekoa: Exactly when stuff went missing. Someone really knows what they're doing
+A pause. Then, very quietly, through the wall:
+"I'm here. Over."
 
-Andrew: Our mom was talking about security cameras having blind spots...
+"I keep thinking about Mrs. Kalani.
+How she stacked those extra pillows for us,
+like it was a real sleepover. Over."
 
-Kekoa: GTG - grandma calling me. Meet later?
+A longer pause.
 
-Andrew started to show the text conversation to Amanda, but the two were interrupted when her teacher's voice came crackling over her computer, "Amanda, would you like to share your solution to problem six?"
+"Me too," the radio said. "Over and out."
+
+It was Wednesday. The wind had finally dropped.
+Somewhere over the fence it was a perfect morning to fly a drone,
+and nobody was going to mention it.
 
 ---
 
-Right before lunch, Andrew convinced their parents he needed to borrow a special book from the cultural center library. "My science grade could use a boost," he said, "And Mrs. Kalani already said she has a book that would be perfect for me to borrow."
+Morning classes happened to other people.
 
-Their mom looked uncertain, but their dad was distracted by another video call. "Fine, but straight there and back," he said, hurrying to his home office.
+Amanda sat through math with her camera on
+and her mind halfway up a mountain.
+One room away, Andrew propped his science textbook
+in front of his tablet,
+where a chat window hid behind the periodic table.
 
-On the path to the library, Blazer tugged at the leash. "Why did we bring Blaze again?" Andrew moaned.
+    Andrew: Did the center's cameras get anything? Is Dr. Lee on video?
 
-"We don't have a fenced-in yard anymore, so he needs more walks," Amanda replied. "And…I figured having the pooch would give us more time out of the house!"
+    Kekoa: Nope. Grandma says the cameras stopped working
+    from 8 to 9. EVERY theft night. Same hour.
 
-Outside the center, Blazer suddenly stopped and began whining, his nose pressed to the ground near the building's foundation.
+    Andrew: Just that one hour??
 
-"Come on, Blazer," Andrew tugged at his leash, but the dog wouldn't budge. He pawed at a patch of earth beside a decorative rock wall, right under one of the cultural center's side windows.
+    Kekoa: Exactly when stuff went missing.
+    Someone really knows what they're doing.
 
-"He's done this before," Amanda said to Andrew. "Remember last week? He kept trying to get to this same spot."
+    Andrew: We got there at 8:30 last night. So we're not
+    on camera either. Nobody is. That hour is a hole.
 
-Andrew knelt down to examine the area. Brushing aside some fallen leaves, he noticed something odd about the stone pattern. "Look at this," he whispered. "These rocks aren't like the others. They're fitted together differently."
+    Andrew: Did the police at least go get him?
+    We TOLD everyone about Dr. Lee. The card. The call.
 
-Amanda pulled out her notebook and quickly recorded the location. Could this be connected to how Dr. Lee was moving the artifacts? A hidden entrance? She added it to their growing collection of clues.
+    Kekoa: Grandma told them everything. They said a name
+    on a greasy paper isn't proof, and a key card
+    could be anybody's, and after a summer of
+    sea-monster calls, three kids who snuck into
+    a building at night aren't exactly star witnesses.
 
-Their time was running out. Whatever Dr. Lee had planned for that night, they had to stop it. But how could they investigate while grounded?
+    Kekoa: Direct quote: "We are making inquiries."
+
+    Andrew: The shipment is TONIGHT.
+
+    Kekoa: I know. Grandma knows. She got very quiet
+    and then very busy. GTG, she's calling me.
+    Library steps at 12? I come bearing books.
+
+Andrew read the last messages twice.
+Someone really knows what they're doing.
+Someone who knew where every camera pointed
+and how to make every camera go dark at the same time.
+
+He was leaning over to show Amanda the chat
+when her teacher's voice came crackling out of her laptop.
+"Amanda, would you like to share your solution to problem six?"
+
+Amanda would not have liked to.
+
+She did it anyway. It was, technically, mostly right,
+and she winced at herself for even thinking the word technically.
 
 ---
 
-Amanda and Andrew waited with Blazer on the library's front steps. Kekoa jogged up, carrying a thick book under his arm.
+The lunch break was thirty-five minutes long,
+and Andrew spent the first two of them being extremely responsible.
 
-"Here's the reference book my grandmother said you needed for your 'extra credit,'" Kekoa said with a grin, handing it to Andrew. "And I've got something else to tell you. I just heard something interesting. My grandmother was talking to one of the older volunteers about how the original cultural center had underground storage rooms."
+"Mrs. Kalani has a book that would be perfect for my science project,"
+he said. "Kekoa's bringing it to the library steps at noon.
+My grade could honestly use the boost.
+There and back is twenty-five minutes. I timed the route."
 
-"Underground rooms?" Andrew leaned forward. "What happened to them?"
+Their mom studied him with her arms folded.
+Their dad was already half turned toward his office,
+where a video call was asking for him by his first name.
 
-"They were sealed off years ago when they built the new wing," Kekoa explained. "Most people don't even know about them anymore."
+"Straight there," their mom said at last. "Straight back.
+And take Blazer — he's been dramatic since breakfast."
 
-Amanda's eyes lit up the way they always did when solving a puzzle. "That's why the stones that Blazer sniffed looked different! It's not just decorative - it's covering an old entrance!"
+Blazer was through the door before the leash was.
 
-Their excitement was interrupted by Andrew's tablet buzzing. A text from their mom: "Straight home after studying. No detours."
+They took the center way to the library.
+At the cultural center, the police tape was gone from the doors,
+but the hand-lettered CLOSED sign still hung,
+one shade paler than it had been on Monday.
 
-"I guess being connected to Wi-Fi isn't always a good thing," Andrew sighed, showing Amanda the message.
+Blazer trotted past the entrance without a glance —
+then hit the end of the leash so hard
+that Andrew's arm cracked out straight like a flag.
 
-Sitting on the steps, they laid out their evidence:
+Nose down. Pulling. Around the side of the building,
+along the wall, to the earth beneath the third window,
+where the decorative border of rocks ran neat and low —
+and there he planted himself, whining,
+one front paw working at the ground.
 
-  - Amanda's drawings showing how the petroglyphs were related
-  - Dr. Lee sneaking around the cultural center
-  - The items they found in the lava tubes
-  - And now, the hidden entrance Blazer had discovered
+"He's done this before," Amanda said. "Remember last week?
+Same spot. The exact same spot."
 
-"We need to catch him in the act," Andrew said. "But how? We're totally grounded. Mom and Dad check on us like every hour."
+Andrew knelt and brushed the fallen leaves aside.
+The stones beneath the window still sat wrong —
+flat edges, tight seams,
+fitted together like a puzzle somebody had finished
+in the middle of a wall of rough lava jumble.
 
-"Tonight," Amanda reminded them. "Dr. Lee said he's shipping everything tonight - which means the artifacts have to be staged at the site right now, waiting for the pickup. If we get there this afternoon, we catch it all before the truck ever arrives. The lava tubes are the only place he'd hide them. We go the second we can."
+"Last week I thought, weird stones," he said slowly.
+"Now I'm asking the better question.
+What's on the other side of them?"
 
-Kekoa had to head back to work, and the twins gathered their things. As they walked home with Blazer, Amanda stopped suddenly near the decorative wall. "Look," she pointed to fresh scrape marks on the stones. "Someone's been here recently."
+Amanda already had the notebook out.
+Same wall. Same stones. Blazer has never once been wrong.
+
+---
+
+Kekoa was waiting on the library steps
+with a thick book under one arm
+and news trying to escape from his face.
+
+"Here's the reference book my grandmother said you needed
+for your 'extra credit,'" he said,
+loud enough for the librarian watering the pots by the door.
+Then he sat down on the step and dropped his voice.
+"And listen. This morning one of the old volunteers
+had coffee with Grandma at our house,
+and she said the original cultural center
+had underground storage rooms.
+They sealed them off years ago when the new wing went up.
+Most people don't even know they're down there anymore."
+
+Amanda sat down slowly beside him.
+
+"Sealed rooms under the building," she said.
+"Andrew — the stones. That's not decoration. That's a door.
+An old way down that the whole town forgot —
+everyone except somebody who worked there years ago."
+
+"So that's the entire trick," Andrew said,
+counting it off on his fingers.
+"The key card opens the building.
+The cameras sleep from 8 to 9.
+The old storeroom hides whatever he takes,
+and the sealed entrance lets him carry it out at night
+without touching a single door that anybody watches."
+He let out a breath. "It was never magic. It was homework."
+
+Kekoa put his head in his hands.
+"And I voted treats. A secret door to the old storerooms,
+and I stood right next to it and voted buried musubi."
+
+Andrew's tablet buzzed. Their mom:
+Straight home after studying. No detours.
+
+"I guess being connected to Wi-Fi isn't always a good thing,"
+Andrew sighed, tilting the screen so the others could see.
+
+"Then we work fast." Amanda spread the case out on the step
+like a picnic nobody could eat:
+her sketches of the trail,
+the tunnel map drawn from memory,
+the SUSPECTS page with its one name left standing,
+and the notebook page Dr. Lee had dropped in the dark hall,
+smoothed flat under her palm.
+
+She had read its cramped handwriting ten times.
+Site names. Measurements.
+But it was the bottom of the page she kept coming back to:
+a hurried little drawing — one long flat shape,
+three small shapes spaced along it, arrows, tiny numbers.
+
+"Andrew. What does that look like to you?"
+
+Andrew took his time, because that was his whole job.
+
+"Distances between objects," he said finally. "Positions.
+It's a layout. Three things arranged on one flat surface —
+and it matters to him exactly where each one sits."
+He looked up. "Three things."
+
+"Fishhook. Bowl. Ko'i." Amanda's finger came down on the drawing.
+"And last night he said everything else is already in place.
+In place. Not in boxes. Not in a storeroom. Placed."
+She was talking faster now, conclusion-first, the old way,
+but this time the evidence was sitting right there under her hand.
+"He isn't hiding the artifacts anymore, Andrew. He's staging them.
+Arranged at the site, exactly where his theory says they belong,
+so it's all perfect before the truck comes tonight.
+Which means right now, this exact minute,
+every missing artifact is up that mountain in the carved chamber.
+Waiting."
+
+"And if we get up there this afternoon," Andrew said quietly,
+"we beat the truck.
+We don't have to catch a shipment on a dark road.
+We just have to be standing next to the proof —
+with grown-ups already on the way."
+
+Kekoa looked from one twin to the other.
+
+"The blessing is in three days," he said.
+"Grandma crossed another number off the kitchen calendar
+this morning and didn't say one word about it.
+Which was worse than when she says things."
+
+"Three days," Amanda said,
+"and it could all be back in its cases by tomorrow, if—"
+She stopped on the if.
+
+"You're grounded," Kekoa said. "I know. I'm something worse.
+I'm trusted to know better."
+He picked at the reflective tape on his flashlight.
+"And something's up with Grandma, too.
+She's been down in the records room since breakfast
+with a cardboard box of dusty old tapes.
+I asked what they were and she said, quote, 'old friends,'
+and smiled in a way I did not care for.
+My grandmother is being extremely mysterious
+for a person who runs a gift shop."
+
+---
+
+They took the same route home, because Blazer insisted,
+and because Amanda wanted one more look at the wall.
+
+Now that they knew what the stones were,
+they saw what they had walked right past an hour ago.
+
+Along the top seam of the fitted stones ran fresh scrape marks,
+pale as chalk against the weathered gray rock,
+and below them the earth was pressed flat
+in one long, heavy drag toward the trees.
+
+"Fresh," Andrew said, crouching.
+"Scraped stone doesn't stay pale outside. Rain darkens it.
+It rained Saturday. This happened after."
+
+"Last night," Amanda said.
+"Everything else is already in place.
+He wasn't bragging, he was finishing.
+The storeroom under there is already empty."
+She stood up, and the mountain over the rooftops
+looked suddenly very tall and very far away.
+"We're not early, Andrew. We're almost late."
 
 "We're running out of time," Andrew said.
 
-They hurried home, minds racing. Their parents had promised to check on them every hour tonight. Somehow, they had to figure out a way to stop Dr. Lee before the artifacts disappeared forever.
+Turning onto their own street, they passed Mrs. Santos's porch,
+where the drying racks stood nearly empty now
+and the finished mats rose in a pale, perfect stack
+taller than the railing.
+Three days early, and her part of the ceremony was ready.
+Everyone on this street kept their promises, Amanda thought,
+and made herself walk faster.
 
-Amanda bit her lip, deep in thought. "Maybe," she said slowly, "being grounded is exactly what we need..."
+They ran the rest of the way home, Blazer delighted,
+the reference book slamming around in Andrew's backpack
+like a drum keeping time.
+Their parents' rental car sat in the driveway.
+A few minutes of lunch break left,
+and one afternoon left after that.
+
+At the bottom of the porch steps Andrew slowed.
+
+"How do two grounded kids get up a mountain by three o'clock?"
+
+"We ask," Amanda said. "Politely."
+
+And whatever story gets us up that mountain,
+she promised herself, her hand on the door,
+it will be true when we tell it. All of the words.
+
+She was wrong about that, too.
 
 ## Chapter 10: The Sacred Site
 
-Amanda and Andrew tried to look casual as they set their backpacks down by the kitchen counter. The "reference book" from the cultural center felt like it was burning a hole in Andrew's bag. Their dad was at the grill again, and the smell of teriyaki chicken filled the air.
+"Absolutely not," their mom said.
 
-"Perfect timing, kids," their mom called from her laptop at the dining table. "Lunch is almost ready. Did you get what you needed from Mrs. Kalani?"
+The ask had been Andrew's, and it had been careful —
+could we maybe go hiking with Kekoa this afternoon,
+he knows all the safe trails —
+slipped in while their dad carried the teriyaki chicken
+in from the grill and the whole kitchen smelled like almost-yes.
 
-"Yeah, just some boring research stuff," Andrew said, trying to smooth down his cowlick. Amanda shot him a look - he always played with his hair when he was nervous.
+"You're still grounded after the cultural center incident."
 
-Their dad came in from the lanai, carrying a plate of grilled chicken. "Well, your mom and I have some news. We have an important meeting with the client this afternoon. Probably won't be back until after dinner."
+"That was last night," Amanda said.
 
-Amanda was about to speak when their mom's tablet started buzzing. "Oh, it's your aunt and uncle!"
+"Yes," their mom said. "Exactly. It was last night."
 
-Uncle Jacob's grinning face filled the screen, Aunt Jenny peering over his shoulder. "How's our favorite family in paradise?"
+Their dad set down the platter.
+"Also, your mother and I have a meeting with the client
+this afternoon. We leave at two,
+and we probably won't be back until after dinner —
+so today of all days, I want to know exactly where you—"
 
-"We're the only family you know in paradise," Amanda said with a grin.
+The tablet on the counter started buzzing.
 
-"Mom, Dad," Andrew started carefully, "since you'll be gone all afternoon, could we maybe go hiking with Kekoa? He knows all the safe trails and-"
+Their mom glanced at it and closed her eyes for one long moment,
+out of respect for the universe's sense of timing.
+"It's your aunt and uncle."
 
-"Absolutely not," their mom interrupted, setting out plates. "You're still grounded after that cultural center incident."
+Uncle Jacob's grinning face filled the screen the second she answered,
+Aunt Jenny peering over his shoulder,
+a wall of airport behind them.
 
-"But that seems like ages ago," Amanda protested.
+"How's our favorite family in paradise?"
 
-"Now wait a minute," Uncle Jacob virtually interjected. "You're grounding them in Hawaii? With the rainy season approaching, they don't have much time left for outdoor adventures."
+"We're the only family you know in paradise," Amanda said.
 
-"Jacob..." their mom warned.
+"Where even are you?" Andrew asked.
+"You said you were coming to visit weeks ago."
 
-"Erin, he's right," Aunt Jenny chimed in. "Remember when we were kids in Colorado? All those summer hikes? That's where we learned the most - out in nature."
+"And we meant it!" Uncle Jacob said. "We're in transit.
+Layovers are when we remember everyone we love."
 
-Their dad flipped another piece of chicken and sighed. "They do have a point, honey."
+"Jakarta," Aunt Jenny said. "Probably."
+
+Their mom started setting out plates.
+"You've caught us at a bad moment — we're negotiating."
+
+"The kids want to go hiking," their dad said,
+"and they are currently, let's say, between privileges."
+
+"Now wait a minute," Uncle Jacob said.
+"You're grounding them in Hawaii?
+You've only got two months left on that island.
+Best hiking weather of the year is right now."
+
+"Jacob," their mom warned.
+
+"Erin, he's right," Aunt Jenny chimed in.
+"Remember when we were kids in Colorado? All those summer hikes?
+That's where we learned the most — out in nature."
+
+Their dad forked a piece of chicken onto Amanda's plate and sighed.
+"They do have a point, honey."
 
 "Please?" the twins said in unison.
 
-Their mom looked from the tablet screen to her children's hopeful faces. "Fine. But there are rules. Back by five o'clock. Stay on marked trails. And Kekoa's grandmother needs to know where you're going."
+Their mom looked from the tablet
+to her children's carefully hopeful faces,
+and Amanda watched her be outnumbered by her own family
+across six thousand miles.
 
-"And take Blazer with you," their dad added. "That dog needs the exercise - he's been chasing crabs all morning."
+"Fine. But there are rules.
+Back by five o'clock. Kekoa goes with you.
+Mrs. Kalani needs to know where you're going.
+And you stay on the marked trails."
 
-Under the table, Amanda crossed her fingers. They hadn't technically lied - they would be hiking. Just not exactly where their parents thought.
+"And take Blazer," their dad added.
+"That dog's been chasing crabs all morning.
+He needs a job."
 
-"Thanks Uncle Jacob!" Andrew called to the tablet. "Thanks Aunt Jenny!"
+Under the table, Amanda crossed her fingers.
 
-"Anytime, kiddo," Uncle Jacob winked. "Just bring us back some cool rocks or something."
+She caught herself doing it, and that was the new part —
+watching her own hands bend the truth, eyes open,
+and choosing it anyway,
+because the trail's whole treasure was leaving on a truck tonight,
+and three days from now the town would stand in front of empty cases.
 
-Amanda caught Andrew's eye across the table. If everything went according to plan, they'd be bringing back much more than rocks.
+They hadn't technically lied.
+They would be hiking. They would be with Kekoa.
+Mrs. Kalani would know where they were going —
+more or less. Roughly. In the largest possible sense.
 
-"Now eat your lunch," their mom said, already turning back to her laptop. "Your father and I need to leave in twenty minutes."
+The vow on the porch had lasted half an hour.
+
+I will pay for this later, Amanda promised herself instead,
+and it felt like the only promise left that she could keep.
+All at once. Every word.
+
+"Just bring us back some cool rocks or something," Uncle Jacob said,
+and winked, and was gone.
 
 ---
 
-The twins waited on their front porch until their parents' rental car disappeared around the corner. Amanda clutched her notebook while Andrew double-checked the battery on his tablet.
+The twins waited on the front porch
+until their parents' rental car disappeared around the corner.
 
-"Ready?" Kekoa jogged up their driveway, carrying a worn backpack. "I brought water, some granola bars, and an extra first-aid kit from my grandmother's hiking supplies."
+Kekoa was already jogging up the driveway,
+his worn backpack over one shoulder.
+"Water, granola bars, flashlights,
+and an extra first-aid kit from my grandmother's hiking supplies,"
+he reported. "And I did the rule."
+He held up his phone: a sent message to Tutu.
+Taking the twins hiking. Back by 5.
 
-"We've got everything from the map," Amanda said, opening her notebook to show the decoded petroglyphs. "The last symbol points to an entrance near the big banyan tree."
+Amanda looked at the word hiking sitting there on the screen,
+being technically true with all its might,
+and said nothing.
 
-"Shhh!" Andrew hissed. "Not so loud. Mrs. Santos next door is always watching from her window."
+Blazer solved the question of whether Blazer was coming
+by refusing to consider any alternative,
+towing Andrew down the driveway like a parade float.
+Amanda zipped a tennis ball into her backpack for emergencies.
+The clothespins and their squares of reflective tape
+had never left it.
 
-They tried to look casual as they started down the path toward the hiking trail. Blazer, who had been napping in the shade, suddenly perked up and trotted after them.
+As they passed the house next door,
+Mrs. Santos looked up from the half-woven mat on her lap,
+her hands still moving through the leaves without her.
 
-"No, Blazer, stay!" Amanda commanded in a loud whisper.
+Amanda raised one hand. A wave, or maybe a salute.
 
-But Blazer wouldn't listen. He wagged his tail and kept following, probably thinking they were heading to his favorite crab-hunting beach.
+Mrs. Santos nodded — a real nod, a whole inch —
+and went back to her weaving.
 
-"Maybe we should let him come," Andrew suggested, checking his tablet one more time. "He might actually help us - you know how good his nose is."
+"Three days," Kekoa said quietly. "Everybody's counting."
 
-Kekoa nodded. "Plus, if anyone asks, we can say we're just walking the dog."
+The trail took them up past the banyan tree,
+past the carved rocks with their leaning lines,
+out of the palms and into the scrub,
+the afternoon sun laying itself flat and heavy
+across the black hillside.
+Nobody raced anybody.
+By the time they reached the ferns,
+the ocean below had gone from a floor to a map.
 
-Amanda sighed and dug a tennis ball from her pocket. "Fine, but if he gets us caught..."
+The entrance to the lava tube looked smaller than they remembered.
+It breathed its cool breath down at them, patient,
+the tight notched spiral carved beside it,
+the lines beneath pointing in.
+
+Kekoa handed out the flashlights —
+he had banded each one with reflective tape
+"so we can find them if we drop them" —
+and Amanda stood one long moment where the sunlight quit,
+exactly as she had the first time.
+
+Then she thumbed her radio. Andrew's crackled softly on his belt.
+
+"On," he said.
+
+"On," she said. "Let's go be sure."
+
+Ten steps in, the air changed — cool, mineral, damp clay.
+Their beams slid along the glassy walls.
+Andrew's light found a granola bar wrapper almost immediately,
+then another, bright as litter on the moon.
+
+"For a scientist, Dr. Lee sure is messy," Amanda muttered,
+and added the wrappers to the mental list of things
+she was going to make right when this was over.
+
+At the branch, the petroglyphs said what they had said for centuries.
+Right side. Inward. Up.
+
+Amanda knelt and clipped three clothespins to a rock edge —
+big flag, medium, small.
+She would do it again at every fork they passed.
+"Coming back for them," she said, to nobody who had asked.
+Leave the mountain the way you found it — eventually.
+
+It was on the long straight run past the branch
+that Andrew stopped and held up a hand.
+
+"Kekoa. Stay at the fork a second. I want to check something."
+
+Amanda flipped Kekoa her radio for the test,
+and he clipped it to his belt.
+He dropped back forty steps, around nothing at all —
+one clean, straight barrel of stone between them.
+Andrew clicked his talk button twice.
+From Kekoa's belt, Amanda's radio answered instantly:
+two crisp little breaths of static.
+
+"Now step around the corner into the branch," Andrew called softly.
+
+Kekoa did. Andrew clicked again.
+
+Nothing. Dead hiss.
+
+"That's what happened to us last time," Andrew said,
+mostly to himself, cowlick getting smoothed flat.
+"It wasn't the radios. It's the rock.
+Basalt eats the signal sideways —
+but straight down an open tube, it carries. Like shouting down a pipe."
+
+"Why are you testing that now?" Kekoa asked, rejoining them.
+
+"Because last time it mattered," Andrew said.
+"And because I like knowing which tools work before I need them."
+
+Kekoa handed Amanda's radio back, and they walked on.
+The tunnel forked, and forked again,
+the carvings choosing for them each time.
+And then Blazer stopped.
+
+Nose up. Ears forward. His whole body one pointed arrow.
+
+Far ahead, past the last junction,
+the darkness was the wrong color —
+a faint, warm glow bleeding around the curve of the wall.
+And under the drip of water, a voice.
+Too far away for words.
+Close enough to recognize.
+
+They had heard that voice mutter to itself
+across the dark exhibit hall.
+
+Amanda got them back to the junction with two hand signals.
+They folded into the side pocket where the shadows were deepest,
+three heads and a dog nose in a tight circle,
+and had the most important meeting of their lives
+in whispers smaller than the water drips.
+
+"He's in the chamber," Amanda breathed. "With everything.
+The truck comes tonight. If anything spooks him —
+if he hears one wrong sound —
+he packs that duffel and disappears down a tunnel
+that isn't on anybody's map, and it's all gone.
+The fishhook, the bowl, the ko'i. Gone for good."
+
+"So nobody spooks him," Andrew whispered.
+"And nobody runs for help, either. Do the math with me.
+Forty minutes down to the banyan tree before there's a single bar.
+Then it's a kid, on a phone, telling the police
+there's a professor in a secret cave full of treasure —
+after a whole summer of sea-monster calls.
+We'd still be on hold when the truck left."
+
+"My phone's a brick in here anyway," Kekoa whispered.
+"No bars since the ferns."
+
+"We told your grandmother five o'clock," Amanda breathed.
+"That's the plan. It's been the plan since lunch —
+we just didn't know it.
+At five, we're late. Late means grown-ups.
+The only job in the world is that he and that duffel
+are still in this mountain when they come."
+
+"Keep him here. Keep him calm," Andrew whispered.
+"Cover every door."
+He tipped his head back toward the junction.
+"Which is the part I don't like.
+That fork behind us — one side goes to the glow.
+Where does the other side go?
+If those two tubes meet up somewhere behind that chamber,
+then he has a back door,
+and the first wrong sound sends him through it
+with everything in a bag."
+
+Amanda looked at Kekoa. Kekoa looked at the dark fork.
+
+"So I go be sure," he said. "No secret exits."
+
+Amanda unclipped her radio —
+the one with the tape marked A —
+and pressed it into his hands.
+"Volume all the way down. Ear against the speaker."
+
+"Channel eight," Andrew said. "The channel we are always on.
+I click twice, every little while — that's still okay.
+You click twice back — still okay from you.
+Three clicks, from anybody, means it's gone wrong,
+and everybody gets loud and stays loud.
+Straight tube carries, corners eat the signal — you saw it.
+So there will be quiet patches. Don't panic in them.
+Neither will I."
+
+"Walk it quiet as inventory night," Amanda said.
+"If it dead-ends, come back to Andrew.
+If it comes out anywhere near that chamber—"
+
+"Then it's a back door," Kekoa whispered, "and I'm the lock."
+
+He looked at the radio, then at the twins.
+"And what are you two doing while I'm being a lock?"
+
+Amanda glanced around the corner of the pocket,
+toward the warm glow and the muttering dark.
+
+"He needs to still be here when the grown-ups come," she said.
+"So I'm going to walk in there and keep him talking."
+
+"No," Andrew said instantly. "Absolutely—"
+He stopped, because his own plan needed her,
+and they both knew it, and he hated all of it.
+"This plan has my sister in it," he whispered,
+like a defect he'd found in the blueprints.
+
+"Every plan has somebody in it," Amanda whispered back.
+"And it has to be me. Think, Andrew.
+He's spent two years reading those rocks
+and the whole world called him a liar.
+Then a kid walks in who read them too?
+He won't chase me out. He couldn't if he tried.
+I'm the only audience he's ever had."
+
+"You'll have Blazer," Kekoa whispered. "Nobody in the history
+of the world has worried about a kid walking a big dog."
+
+"And you'll have me," Andrew said. "Right here in the dark.
+Fifteen feet away. The whole time. If it goes wrong —
+you yell, and I make more noise than he has ever heard in his life."
+
+Amanda put out her fist. Two more fists landed on it, then a paw,
+which was luck, but they counted it.
+
+Kekoa slipped into the dark fork
+and was part of it in three steps.
 
 ---
 
-The entrance to the lava tubes looked smaller than they remembered. Dark volcanic rock stretched up both sides, with vines partially hiding the opening. Blazer sniffed the ground near the entrance, his tail lowered.
+Amanda walked into the chamber as if it were somebody's kitchen —
+Blazer's leash loose in one hand, flashlight swinging easy,
+her heart going like a whole drum line.
 
-"According to the map," Amanda said, holding her notebook next to Andrew's photo of the petroglyphs, "we need to follow the right tunnel when it branches."
+The chamber opened around her, taller than her flashlight beam,
+and the walls were covered — covered —
+with carvings finer and denser than any they had found outside.
+Canoes with sails. Rows of paddlers. Long chains of symbols
+wrapping the stone like sentences.
+And in the middle of the floor, on a broad slab of flat rock,
+lit by a battery lantern, lay everything they had been hunting
+since the morning the case stood empty.
 
-Kekoa pulled out three flashlights, handing one to each twin. "These are better than phone lights. And I marked them with reflective tape so we can find them if we drop them."
+The bone fishhook. The ceremonial bowl. The ko'i.
+Arranged in a careful line, spaced and squared,
+with a folded packing duffel waiting by the wall.
 
-Andrew switched his light on, shining it into the darkness. The beam caught something glinting on the tunnel floor. "Look - more granola bar wrappers. Dr. Lee must have been here recently."
+"Don't move."
 
-"For a scientist, Dr. Lee sure is messy," Amanda muttered, remembering to pick up the trash when this was all over. "Blazer, come," she called softly. The dog hesitated at the entrance, then stayed close to her leg as they entered the tunnel.
+Dr. Marcus Lee stepped out of the shadows at the chamber's edge,
+his own flashlight pointed at the ground.
+Up close he looked older than the podium photo —
+thinner, wrinkled, a man run mostly out of everything.
 
-The temperature dropped as soon as they stepped inside. Their footsteps echoed slightly, and the beam of their flashlights caught moisture glistening on the walls. Amanda kept one hand on the rough wall, counting the symbols they'd discovered earlier.
+Blazer's growl started low, like far thunder.
+Amanda kept the leash short and her voice steady.
 
-"Three more curves before the branch," she whispered, checking her notes.
+"You're the man from the trail," she said. "The photographer."
 
-Blazer suddenly stopped, his ears perking up. Everyone froze.
+"What are you doing here?" His eyes went from her to the entrance
+and back. "How did you possibly—"
 
-"Did you hear something?" Kekoa asked, his voice barely audible.
+"The petroglyphs led us straight to you," Amanda said.
+"The same carvings you decoded. That's how you found this place,
+isn't it? An ancient map to a sacred site, hidden in plain sight.
+The spiral for the sacred place. The lines for the direction.
+The fishhook, the bowl, the ko'i, carved right into the trail."
 
-They stood completely still, listening. Water dripped somewhere in the darkness. After a long moment, Blazer relaxed and they continued forward.
+Dr. Lee's flashlight sagged. His mouth opened, then shut.
 
-"There's the branch," Andrew pointed his light at the split in the tunnel. "Right side, just like the petroglyphs showed."
+"You—" His voice came out cracked. "You read them too?
+It took me two years."
 
-As they turned right, Blazer's nose went to the ground. He started walking faster, pulling slightly at his leash.
+And there it was — what she had bet everything on.
+Not anger. Hunger.
+The look of a man who had been talking into the dark for two years
+and just heard something answer.
 
-"He's got a scent," Amanda said. "Something's up ahead."
+Amanda planted her feet like it was a corner kick,
+and told him the truth.
 
-The tunnel widened, and their flashlight beams revealed a large chamber. Ancient carvings covered the walls, more detailed than any they'd seen before. But what made them gasp wasn't the carvings - it was the collection of artifacts arranged carefully on a makeshift table of flat rocks.
+"It took us eighteen days," she said. "Show me how you started."
 
-The missing fishhook. The ceremonial bowl. The carving tool. Everything that had disappeared from the cultural center was here, positioned in a specific pattern.
+Far back in the black of the last junction,
+pressed into a pocket of cold rock,
+Andrew's thumb found the talk button
+and began to say the only words the mountain allowed.
 
-"Don't move." A voice came from the shadows. Dr. Lee stepped into their flashlight beams, his own light pointed at the ground. "What are you kids doing here?"
+Click, click.
 
-Blazer gave a low growl, but Amanda kept him close.
-
-"The petroglyphs led us straight to you," Amanda said, her voice steadier than she felt. "The same carvings you decoded - that's how you found this place, isn't it? An ancient map to the sacred site, hidden in plain sight."
-
-Dr. Lee's mouth fell open. "You... you read them too? It took me two *years*..."
-
-"We know you stole these artifacts," Andrew said, trying to sound confident and pointing at the table.
-
-"I didn't steal them, I'm proving a historical theory!" Dr. Lee gestured to the artifacts. "Look how perfectly they align. The university wouldn't listen, but this proof..." His eyes gleamed with an almost desperate enthusiasm.
-
-"What are you talking about?" Amanda said firmly. "These belong to everyone. They're part of Hawaii's heritage."
-
-"You don't understand," Dr. Lee began, but stopped abruptly.
-
-Blazer's ears perked up again. This time, they all heard it - footsteps echoing from the tunnel. Multiple footsteps.
-
-"Please," Dr. Lee whispered, looking frantically for another exit. "My life's work..."
-
-The kids exchanged quick glances. They had to make a decision, fast. The footsteps were getting closer, and flashlight beams began to dance on the tunnel walls.
-
-Blazer barked once, the sound echoing through the chamber.
-
-"Dr. Lee," Amanda said quickly, "the right thing to do-"
-
-Before she could finish, multiple beams of light flooded the chamber, and several voices called out at once.
-
-Flashlights illuminated the cave chamber, their beams crossing like searchlights. Dr. Lee looked frantically between the approaching lights and the stolen artifacts arranged on the stone table.
-
-"No one will ever believe me now!" he shouted, grabbing a small ceremonial bowl and darting toward a dark tunnel.
+Still okay. Still okay.
 
 ## Chapter 11: Mystery Solved
 
-Before anyone could react, Blazer leaped forward, placing himself between Dr. Lee and the exit. The usually friendly dog let out a deep, threatening growl, his hackles raised.
+Click, click.
 
-"I didn't know Blazer could be so scary!" Amanda whispered to Andrew.
+In the dark of the last junction, Andrew counted his own heartbeat,
+got to twenty, and pressed the button again.
 
-"Me neither," Andrew replied, "I guess he can chase more than crabs…"
+Click, click.
 
-Dr. Lee froze with the bowl still clutched in his hands and whimpered, "stop that beast, I'm scared of dogs!"
+On their first day on Maui, thirty seconds of flying a drone
+had felt like five.
+A minute alone in the dark of a lava tube, he was learning,
+worked in the other direction entirely.
+The cold came up through his sneakers.
+A pale root hung an inch from his ear, waiting for him to forget it.
+He kept his radio pressed to that ear, volume rolled to a whisper,
+and listened with everything he had left over.
 
-Mrs. Kalani stepped into the chamber, followed by two police officers. "Good boy, Blazer," Mrs. Kalani called out calmly. "I think it's time for Dr. Lee to put that artifact back where it belongs."
+Nothing yet from the dark fork.
+Which meant nothing, he told himself.
+Corners eat the signal. He's just past a corner.
+He counted to twenty and threw the next one.
 
-Blazer maintained his protective stance until Dr. Lee slowly placed the bowl back on the rock table. The moment Dr. Lee stepped away, Blazer's tail started wagging.
+From the chamber, around one curve of stone,
+came the sound his whole plan balanced on.
 
-"Now he's back to our regular silly dog," Amanda said, patting Blazer's head while the police moved in to secure the scene.
+His sister's voice, asking questions.
 
-"How did you find us?" Kekoa asked his grandmother, who was already helping the police catalogue the recovered artifacts.
+"—but how did you know the trail even started at the shoreline?"
 
-Mrs. Kalani chuckled and pulled out her tablet. "You didn't think your grandmother was too old for technology, did you?" She turned the screen toward them, showing a tracking app with a blinking dot in their exact location.
+"Because the oldest carvings face the sea!" Dr. Lee's voice
+had changed completely. It had color in it now, and speed.
+"Everyone assumes the panels are separate — decorations, graffiti.
+Nobody asks why the direction lines agree.
+Two hundred years of scholars walked past that hillside,
+and none of them ever measured the spacing—"
 
-"You tracked us?" Kekoa's eyes widened.
+"We measured it," Amanda said. "Forty-two inches, hook to spiral."
 
-"I put a small tracker in your hiking backpack after I noticed you three acting suspicious," she explained. "And I've been reviewing the security camera footage at the cultural center. Dr. Lee must have turned off the security cameras, but he didn't realize we had one old backup camera." She smiled at Amanda. "Sometimes the best way to catch someone using new technology is to use old technology!"
+A silence, the specific silence of a man being handed
+the one gift he had wanted his entire life.
 
-The twins and Kekoa took turns explaining their investigation - how Amanda had connected the petroglyphs to the missing artifacts, Andrew's photographs of the ancient symbols, and how they'd followed the map to this ceremonial site.
+"You measured," he said. "With what?"
 
-"Actually," Amanda said excitedly, "Blazer helped us more than we realized!" She turned to Andrew. "Remember that paper with peanut butter on it? The one with Dr. Lee's name?"
+"My dad's tape from the junk drawer."
 
-Andrew's eyes lit up. "Of course! When Blazer was sniffing the paper at breakfast - he wasn't just after the peanut butter, he was learning Dr. Lee's scent!"
+In the chamber, Amanda watched him laugh —
+a rusty, unpracticed sound —
+and watched him drift one more step away from the duffel by the wall.
+That was the job. Keep the man near the talking
+and away from the packing.
+She hadn't lied once. She hadn't needed to.
+All he wanted in the world was a witness,
+and all she had to do was be one.
 
-"That explains why he kept whining at that corner of the cultural center," Amanda continued. "He must have smelled Dr. Lee's trail!"
+It would have been easy, if the artifacts hadn't been sitting there
+under the lantern, eight feet away, gleaming and stolen.
 
-Mrs. Kalani nodded thoughtfully. "That makes sense. We discovered Dr. Lee had created a small storage area beneath the cultural center. He'd been moving artifacts there first, then transferring them here to the ceremonial site. Very clever indeed."
+"The alignment," Dr. Lee said, turning to the slab,
+"is the proof itself. Look. Hook, bowl, adze —
+spaced exactly as the chamber wall shows them.
+This site proves the district was settled centuries
+before the university says anyone was here.
+When the world sees this arrangement, photographed in situ—"
 
-"That's how he got past our security, too," she added. "Dr. Lee consulted for the center years ago, back when he was still at the university. His old access card was never deactivated - and he knew exactly where our cameras couldn't see."
+"In the place it belongs," Amanda said.
 
-"You kids did some impressive detective work," one of the police officers said, carefully wrapping the ancient fishhook in protective cloth. "But you should have come to us sooner."
+"Yes!"
 
-"I've been saying the same thing," called their mom's voice from the tunnel entrance. The twins turned to see both their parents arriving, faces mixed with worry and relief.
+"Behind glass, in the cultural center, with the whole town around it,"
+Amanda said. "That's also a place it belongs."
 
-"We're fine," Amanda started to say, but her mom held up her hand.
+Dr. Lee's face flickered — something guilty crossing it fast,
+like a fish under a boat.
 
-"We'll talk about this later," she said, though her expression had softened seeing all the recovered artifacts.
+"You sound like the board," he muttered. "Like the department.
+You don't understand. Nobody would listen."
 
-Dr. Lee sat on a rock, head in his hands while an officer read him his rights. "I just wanted them to listen," he said quietly. "The university dismissed my research without even considering the evidence. These artifacts prove my theory about ancient migration patterns!"
+"I'm listening," Amanda said. "I'm literally a kid
+who walked up a mountain to listen."
 
-"Your research might have merit, Dr. Lee," Mrs. Kalani said, "but stealing priceless cultural artifacts is never the right way to prove a point." She turned to the children. "Which is something I hope you all understand now too. Next time, maybe we can solve the mystery together instead of me having to play spy grandmother!"
+He looked at her a long moment.
 
-Later that night, back at home, the twins sat with their parents on the lanai. The ocean breeze carried the sweet smell of plumeria, and Blazer dozed at their feet, probably dreaming about his moment of heroism.
+"Who else knows?" he asked, suddenly quiet. "About the trail.
+About the reading. Who else can do what you did?"
 
-"We're proud of your detective work," their dad said, "but also worried about the risks you took."
+The truth. Only ever the truth in here.
 
-"We know," Andrew replied. "But we had to stop him from shipping away all those artifacts."
+"My brother reads them with me," Amanda said.
+"I leap. He checks. He's the careful one."
 
-Their mom smiled. "Just promise us you'll come to adults for help next time?"
+Fifteen feet into the dark, the careful one
+held his breath and pressed the button.
+
+Click, click.
+
+And this time, against his ear, soft as a moth landing —
+
+click, click —
+
+an answer.
+
+But it came from the wrong side.
+Not down the black fork where Kekoa had gone —
+from ahead. From the glow. From under his sister's voice,
+the long way around, through the chamber itself.
+
+Andrew worked it out the way he worked out everything,
+one careful step at a time, and then all at once.
+The dark fork went somewhere after all.
+Somewhere was the far side of that chamber.
+
+A back door.
+
+And their friend was standing in it, holding it shut.
+
+---
+
+Andrew flattened himself deeper into the rock pocket
+and kept the thread going, a pulse, two clicks and a rest,
+two clicks and a rest — and each time, faint and level,
+two clicks back.
+Wall-ball logic, he told himself, and kept the rhythm.
+Nobody asks how your arm feels at rep ninety.
+You don't stop counting. You throw the next one.
+
+He was a boy in the dark with one thumb,
+holding two doors of a mountain at once —
+his sister's voice on one side of him, steady, working,
+his friend's little bursts of static on the other.
+As long as both kept coming, the plan was alive.
+
+Somewhere down the hillside, five o'clock
+was walking toward Tutu's kitchen,
+and lateness — good, useful lateness — was on its way.
+
+In the chamber, a phone buzzed —
+a dry double buzz from inside Dr. Lee's jacket,
+the sound of an alarm somebody had set weeks ago.
+
+He went still. The color drained out of his voice
+as fast as it had poured in.
+
+"That's the truck," he said, mostly to himself. "It's time."
+
+He turned toward the duffel by the wall.
+
+"Wait," Amanda said. "The paddlers.
+You haven't shown me which carving convinced you first.
+The double-hulled canoe — you said everyone insists—"
+
+And he almost did. She watched him almost do it —
+watched the hunger lean him back toward the wall
+for one whole second.
+
+Then he straightened up slowly, and looked at her,
+and something older and colder came back into his face.
+
+"You're keeping me talking," he said.
+"Why are you keeping me talking?"
+
+For the first time since she had walked into the chamber,
+Amanda could not find a true thing to say fast enough.
+
+That was all the answer he needed.
+
+He grabbed the ceremonial bowl off the slab,
+hugging it to his chest with both arms —
+"I'm sorry. Nobody was ever going to listen anyway" —
+and he bolted for the dark side tunnel
+at the chamber's far end.
+
+And stopped.
+
+There was a light in it.
+
+A flashlight, held low and steady at somebody's chest,
+and above the light, not moving an inch, Kekoa —
+planted in the middle of the tunnel mouth
+like a boy who had grown there.
+
+"This one's not secret," Kekoa said. "I checked."
+
+Dr. Lee spun toward the entrance tunnel.
+
+Amanda let go of the leash.
+
+She didn't sic him. She didn't say a word.
+She just opened her hand, and eighty pounds of part Lab,
+part German Shepherd crossed the chamber like a thrown ball
+and arrived in the mouth of the entrance tunnel first,
+turned, planted, and became an entirely different dog.
+
+Head low. Hackles up. A growl out of the bottom of the mountain.
+
+Dr. Lee stopped so fast his shoes squealed on the stone.
+One door was a boy. One door was a dog.
+The whole mountain had run out of exits.
+
+"Call it off," he quavered, hugging the bowl. "Stop that beast —
+I'm scared of dogs!"
+
+"He's not a beast," said Andrew, stepping into the lantern light
+past his own dog's shoulder, radio still in his hand.
+"He's a very good boy.
+And that bowl is as old as the fishhook, maybe older,
+so I'd hold it really carefully and really still."
+
+"I didn't know Blazer could be so scary," Amanda whispered.
+
+"Me neither," Andrew whispered back.
+"I guess he had that in him the whole time."
+
+Then the chamber filled with light.
+
+Two police officers came in first, low and quick —
+Amanda gathered the leash, and Blazer stepped aside,
+handing them the doorway like a shift change —
+and they stopped at the sight of a thin man
+hugging a bowl in the middle of the chamber.
+Mrs. Kalani came in behind them,
+in her cardigan and her hiking shoes,
+her tablet still glowing in one hand,
+a little blue dot burning steady in the middle of the screen.
+
+She took in the whole chamber in one long look —
+the walls, the slab, the twins, the bowl in Dr. Lee's arms —
+and Amanda watched thirty years of something
+move across her face and settle.
+
+"Good boy, Blazer," Mrs. Kalani said calmly.
+"Dr. Lee. I think it's time to put that back where it belongs."
+
+Dr. Lee looked at the exits, both of them.
+Both of them were full.
+
+Slowly, carefully, like a man setting down the last two years
+of his life, he placed the bowl back on the slab.
+
+The moment he stepped away, Blazer's tail started wagging.
+
+"And now he's back to our regular silly dog," Amanda said,
+her knees choosing this exact moment to notice everything,
+so that she sat down on a rock somewhat ahead of schedule.
+
+---
+
+The next hour happened in pieces.
+
+Kekoa held his tunnel mouth until an officer
+formally relieved him of it,
+then crossed the chamber at a dead run
+and did not stop until he had hugged both twins and the dog.
+"It loops! The dark fork goes up and around and comes out
+right there — I walked the whole thing with one hand on the wall,
+and then there was light ahead and it was YOUR voice,
+and I stood in that doorway being a lock for about six years —
+and the clicks kept coming the whole time,
+still okay, still okay—"
+
+"Eleven minutes," Andrew said.
+
+"For about eleven years—"
+
+"You held a door of a mountain shut with a flashlight,"
+Mrs. Kalani said to her grandson.
+Then, to Andrew, whose radio was still in his hand:
+"And you kept two rooms of the dark company at once.
+In my day we called all of that impossible."
+
+"It's just line of sight," Andrew said, going red.
+"Well. Line of tube."
+
+"Next time," Mrs. Kalani said, "you knock first.
+Even on a mountain."
+
+One officer read Dr. Lee his rights, gently,
+while the other crouched over the slab,
+wrapping the fishhook in soft protective cloth
+with more care than anyone had touched Dr. Lee in years,
+which may have been why he started talking.
+
+"I just wanted them to listen," he said, head in his hands.
+"The university dismissed my research without reading it.
+Without measuring anything. These artifacts prove the settlement
+date — the alignment proves it—"
+
+"Your research might even have merit, Dr. Lee,"
+Mrs. Kalani said quietly.
+"But stealing what belongs to everyone
+is never the way to prove you were right about anything."
+
+She looked up at the carved walls for a long moment.
+"A place of records. Voyages, names, seasons —
+carved where they would keep.
+Not a burial place; those we would never speak of like this,
+and never enter."
+
+"How did you even find us?" Kekoa asked his grandmother.
+"All I texted you was hiking."
+
+Mrs. Kalani pulled out her tablet.
+"You didn't think your grandmother was too old for technology,
+did you?" On the screen, a map, and on the map, a blinking dot,
+stopped dead at the mouth of the lava tube —
+the last place its little signal could still reach the sky.
+
+"You tracked us?" Kekoa's eyes went wide.
+
+"I put a small tracker in your hiking backpack
+after the night I found all three of you
+in the middle of my museum in your socks," she said.
+"I spent this morning going through camera footage,
+and I was standing in the police station showing them what I found
+when your message said hiking
+and my little dot walked straight off the marked trails
+and went quiet at a hole in the hillside.
+The officers were kind enough to drive fast."
+
+"The tube forks," Andrew said. "In the dark. How did you pick?"
+
+"We didn't have to." Mrs. Kalani nodded across the chamber
+at Amanda. "At every junction, three little flags
+were pointing the way. Big, medium, small.
+Very tidy work."
+
+"I was coming back for them," Amanda said. "That's the rule.
+You leave the mountain the way you found it."
+She looked around the carved chamber.
+"The mountain got busy."
+
+"Footage?" Andrew said. "But the cameras were dark.
+Eight to nine, every theft night. That hour is a hole."
+
+"The new cameras were dark," Mrs. Kalani said,
+and allowed herself one small smile.
+"Dr. Lee shut down the system he knew.
+But the board never throws anything away,
+and there is one old backup camera above the loading door
+that has been recording onto tapes since before you were born.
+Sometimes the best way to catch someone using new technology
+is to use old technology."
+
+"Then the key card," Andrew said slowly, the last pieces
+clicking like radio static. "The article said he spent years
+cataloguing collections at small museums and cultural centers
+across the islands. One of them was yours.
+He worked there. That's the inside knowledge —
+that's been the answer since the first morning.
+His old card still worked, didn't it?"
+
+"Consulted for us years ago," Mrs. Kalani said, nodding,
+"back when he was still at the university.
+His access card was never deactivated.
+And he knew exactly where our cameras couldn't see."
+
+"And the storerooms," Amanda said. "The sealed ones,
+under the building. He was staging everything down there first —
+that's why the stones under the third window are fitted different,
+that's the old entrance, that's what Blazer kept smelling—"
+
+"Wait." Kekoa looked at the dog,
+who was accepting his fame with enormous dignity.
+"How did Blazer know Dr. Lee's smell in the first place?"
+
+The twins looked at each other.
+
+"The paper," they said together.
+
+"The note from the tubes," Amanda said. "At breakfast —
+it was stuck to the peanut butter, and Blazer would not stop
+pointing his whole face at it—"
+
+"He wasn't after the peanut butter," Andrew said. "I mean.
+He was some percent after the peanut butter.
+But he was learning the scent that was on it. Dr. Lee's."
+
+"You kids did some impressive detective work,"
+said the officer with the fishhook, standing up.
+"But you should have come to us sooner."
+
+Amanda thought about sea monsters, and said nothing.
+
+"I have been saying exactly that," said their mother's voice
+from the entrance tunnel,
+"since they were old enough to find things."
+
+Their parents stood in the tunnel mouth,
+flashlights in hand, faces showing worry and relief and pride
+all at once and in no particular order.
+Their mom's eyes went around the chamber once —
+kids, dog, police, professor, artifacts —
+and Amanda braced for the storm.
+
+"We'll talk at home," was all she said.
+But her hand, when it landed on Amanda's shoulder,
+stayed there the whole way out.
+
+Amanda left the chamber last but one.
+At the entrance she stopped, went back,
+and collected the granola bar wrappers and the water bottle
+off the tunnel floor into her backpack.
+
+"Evidence?" the second officer asked.
+
+"Litter," Amanda said. "I made a promise about it."
+
+They came out of the mountain into a low golden evening,
+the ocean laid out flat and shining all the way to the sky.
+Somewhere below, a truck was going to arrive at an empty road
+tonight, and wait, and give up.
+
+Three days, Amanda thought. In their cases. Gleaming.
+
+---
+
+The lanai, that night, smelled like plumeria and leftover teriyaki.
+
+Blazer lay in the middle of everything, twitching in his sleep,
+almost certainly reliving his moment of heroism.
+The twins sat side by side on the steps,
+and their parents sat in the two big chairs,
+and for a while nobody started.
+
+Amanda went first.
+
+"I want to tell it all the way through," she said. "Every part.
+Including the parts where you'll want to say something."
+
+And she did. From the beginning —
+the sketch she didn't show Mrs. Kalani
+the morning the fishhook vanished,
+the sleepover that was technically a sleepover,
+and today: "When you said yes at lunch,
+I crossed my fingers under the table.
+I knew the hike wasn't the hike you meant.
+I picked words that were true
+and built something not-true out of them,
+and I did it on purpose, and I'd promised myself,
+minutes before, that I wouldn't. And I did it anyway."
+
+The words came out heavier than she expected,
+and then she was lighter by exactly that much.
+
+Their mom didn't say anything for a moment.
+
+"Thank you," she finally said. "For all of the words."
+
+"My turn," Andrew said, and took a breath.
+"Dad. That first Sunday in the tubes —
+when you asked if we stayed on the marked paths,
+and I said we could always see the trail?
+That was me picking words too. We left the paths.
+I knew what I was doing when I said it.
+It was a lie with a good haircut."
+
+Their dad nodded slowly.
+
+"I know, buddy. I've known since the lawn."
+
+Andrew's head came up. "You knew?"
+
+"You wobble when you fib," his dad said. "Everybody does,
+somewhere. I was waiting to see how long the walk
+from technically true to true would take you."
+He looked out at the dark ocean. "Three days. That's not bad.
+Took me until college."
+
+"Adam," their mom said.
+
+"Well, it did."
+
+"Here's what happens now," their mom said.
+"You're grounded until the blessing. Truly grounded.
+And we are proud of you — the thinking, the courage,
+the loyalty, all of it. Both things are true at once.
+That's allowed."
+
+"We know something now too," Amanda said.
+"The mystery was never the dangerous part.
+Doing it alone was.
+If I'd shown Mrs. Kalani my sketch on the very first morning,
+she'd have believed us ten days ago —
+she believed us tonight with way less proof."
+She pulled her knees up. "Next time we come to the grown-ups
+at the beginning. Not the end."
+
+"Just promise us," their mom said.
 
 "Promise," the twins said in unison.
 
-"Although," Amanda added with a grin, "I don't think we'll find another mystery like this one anytime soon."
+Down on the sand, something scuttled. Blazer's head shot up,
+and both twins got busy holding his collar and laughing,
+which is why neither of them was listening
+when their dad said, quietly, over his glass.
 
-"Let's hope not," their mom said, giving a side-eyed glance to their dad. "We're only here for a few more weeks." Before anyone could respond, Blazer's head popped up, his ears alert to the sound of scuttling crabs on the beach.
+"Steady beacon, silence discipline, a fallback signal.
+That's textbook fieldcraft. You'd be surprised how many
+professionals forget the fallback."
 
-"Well," Andrew laughed, watching their dog bound down to the sand, "I guess some things never change!"
+"Thrillers," their mom said, not looking up.
+
+"So many thrillers," their dad agreed.
+
+The moon put a road on the ocean.
+Amanda leaned against her brother's shoulder and took inventory:
+artifacts safe, truck beaten, town three days from a real ceremony,
+every question answered, every word — finally — true.
+
+Somewhere between the crossed fingers and now,
+the swallowed ice cube had melted clean away,
+and she hadn't even noticed it going.
 
 ## Chapter 12: Aloha Means Goodbye Too
 
-The morning sun streamed through the cultural center's windows as Amanda and Andrew stood before a crowd of familiar faces. Lei draped around their necks, they listened as a Hawaiian elder blessed the recovered artifacts and the people who helped return them.
+The lauhala mats smelled like a green field after rain,
+and Amanda was standing on one in her bare feet
+when the blessing began.
 
-"These young detectives," Mrs. Kalani announced, "showed us that sometimes it takes fresh eyes to solve old mysteries." She presented each twin with a traditional friendship bracelet, woven with symbols that matched some of the petroglyphs they'd studied so carefully.
+Three days had gone by — slow at first, then all at once —
+and now the cultural center's main hall was full of the whole town,
+wall to wall, shoulder to shoulder,
+everybody's slippers left in a cheerful mountain by the door.
+Underfoot, everywhere, lay the pale woven mats,
+their edges tight and perfect,
+and across the room Mrs. Santos stood beside her stack of spares
+with her chin up,
+watching six hundred feet stand on sixty years of her work.
 
-"In ancient Hawaii," she continued, "young people were often the ones who carried important messages between villages. They saw things others missed, just as Amanda and Andrew did." The twins blushed as the crowd applauded.
+A kahu — Kekoa whispered that it meant
+something between minister and guide —
+blessed the artifacts and the hall and the people in it.
+The twins couldn't follow every word,
+but they could follow the silence around the words.
+It was the kind of silence that made even Blazer,
+tied in the shade outside with a bowl of water,
+decide not to bark at anything for a while.
 
-Their parents beamed from the front row. For once, both phones remained tucked away in pockets, work calls forgotten.
+In the center of the room, under the soft spotlights,
+stood the display cases.
 
-After the ceremony, Kekoa led them on one final tour of the cultural center. The ancient fishhook and ceremonial bowl gleamed in their restored display cases. "Hard to believe it was just three months ago when you first walked in here," he said, adjusting his drone carrying case.
+The bone fishhook. The ceremonial bowl. The ko'i.
 
-"I still can't believe we actually solved it," Andrew said, running his fingers over his new bracelet.
+The kahu moved down the row of cases as he chanted,
+dipping a ti leaf into a koa bowl of salt water
+and scattering bright drops over each one as he passed.
 
-"Solved it?" Kekoa laughed. "You two did way more than that. Now everyone's talking about creating better security systems for cultural sites all over Hawaii. Plus, some of Dr. Lee's research might actually be useful - once it's studied the right way."
+Amanda had heard the promise on her second Saturday on Maui,
+standing in this room while Mrs. Kalani tapped the placard twice.
+Every piece you saw today stays exactly where it is until then.
+In its case. Gleaming.
 
-That evening, the lanai of their beach house transformed into a farewell feast. Their dad outdid himself at the grill, cooking everything from fresh mahi-mahi to pineapple slices. The Kalanis joined them, bringing traditional dishes that Mrs. Kalani had been promising to teach them to make.
+In their cases. Gleaming. Deadline kept.
 
-"To think," their mom said, passing a bowl of poi, "when we first got this consulting assignment, I worried you kids would be bored here."
+Beside her, Andrew leaned over and whispered,
+"Two days to spare."
 
-"Bored?" Amanda grinned. "With ancient maps, secret caves, and a mystery to solve?"
+"Three," Amanda whispered back. "The truck came at night. Ask
+the police."
 
-"Don't forget the crabs," Andrew added, watching Blazer lounging peacefully on the deck. Their dog had finally made peace with the local wildlife, preferring to observe rather than chase.
+"You're both going to count it out loud forever, aren't you,"
+Kekoa whispered from Amanda's other side,
+holding his phone up over the crowd to film the cases
+for the center's page.
 
-As the sun began to set, casting orange and pink streaks across the ocean, Kekoa pulled out his drone. "One last flight?" he asked Andrew, who had become quite skilled at piloting over the past months.
+"Forever," the twins whispered together.
 
-Together they launched the drone, capturing aerial footage of their neighborhood, the cultural center, and the volcanic rocks where they'd first spotted the mysterious petroglyphs. The camera even caught a rainbow arching over the mountains.
+After the blessing, Mrs. Kalani stepped up beside the cases,
+and the room went quiet for her, easily, out of long habit.
 
-"If you get a drone, you'll have to send me footage of Tokyo," Kekoa said as they landed the drone. They had just learned their parents' next consulting job would take them to Japan.
+"These young detectives," she announced,
+finding the twins in the crowd with one hand,
+"showed us that sometimes it takes fresh eyes
+to solve old mysteries."
 
-"Maybe we'll solve a mystery there too," Amanda said, though her voice held a touch of sadness. She'd miss this place more than she expected.
+The twins were pulled up front, burning red the entire way.
 
-Mrs. Kalani seemed to sense her thoughts. "You know what Aloha means?" she asked, sitting beside Amanda.
+"And my grandson," Mrs. Kalani said, "who held the door."
 
-"Goodbye?" Amanda replied.
+The crowd passed Kekoa up front too, still filming,
+filming mostly his own feet by the end of it.
+Mrs. Kalani draped a lei over each of their necks,
+and then held up two woven bracelets,
+worked through with tiny dark symbols —
+a loose spiral, a tight notched spiral, a little leaning line —
+the very shapes they had measured in the rain.
 
-"That's one meaning. But Aloha also means hello. It means love, and peace, and a connection that stays with you even when you're far away. The ancient Hawaiians used these islands as navigation points to explore the vast Pacific. But they always knew how to find their way home - and how to return to the special places they'd discovered."
+"In old Hawaii," she said, fastening the first bracelet
+around Amanda's wrist, "the kūkini — the swift runners —
+carried messages between villages.
+They were chosen young, for sharp eyes and fast feet.
+They saw things others missed."
+She fastened Andrew's. "Just as these two did."
 
-Later that night, after the Kalanis had left and their parents were cleaning up the kitchen, the twins stood at the edge of their yard. The moon illuminated the petroglyphs they'd studied so carefully.
+The applause was enormous and the twins survived it, barely.
 
-"We should take one last picture," Andrew said, pulling out his camera.
+Afterward, while the hall milled and hummed,
+Amanda worked her way over to the stack of spare mats.
+
+"Mrs. Santos," she said. "I have a question in my notebook
+I've been saving for you."
+
+Mrs. Santos looked down at her, flat as her window.
+
+"How do you weave like that without ever looking at your hands?"
+
+Something happened at the corner of Mrs. Santos's mouth.
+It was small, but it was definitely an event.
+
+"Sixty years," she said. "The hands learn to see.
+Same as you and your patterns, girl. I watch my street.
+You watch your rocks." She straightened a mat with one foot.
+"Practice."
+
+"They're beautiful," Amanda said. "The whole town is standing
+on something beautiful and most of them don't even know it."
+
+"The mats know it," said Mrs. Santos. "That's enough."
+
+---
+
+Kekoa gave them the tour afterward, official as a docent,
+past the security desk — where there was a new sign-in system
+and, taped to the monitor, a list of camera angles
+with one corner labeled in Mrs. Kalani's handwriting: old faithful.
+
+"Everyone's talking about better security now," Kekoa said,
+"for cultural sites all over the islands.
+And the elders are deciding how the chamber gets protected —
+studied properly, with the community deciding what happens.
+Some of Dr. Lee's research might actually turn out useful,
+now that people are checking it the right way."
+
+They stopped in front of the three cases and just stood there
+a while, warming themselves at it like a fire.
+
+"Hard to believe it's been less than a month
+since you two first walked in here," Kekoa said.
+"I still can't believe you actually solved it."
+
+"We had a dog," Andrew said.
+
+"And a radio," Amanda said.
+
+"And a human door," Kekoa said. "Fine. It was all of us."
+
+They all laughed.
+
+---
+
+There was one hour of afternoon left before the feast,
+and Kekoa declared it a surf hour, on the grounds
+that the grounding had officially expired at the blessing
+and the waves were small, glassy, and patient.
+
+Amanda popped up on her second wave and rode it in, shrieking.
+
+Andrew paddled out, and waited, and chose,
+and when the wave lifted him he put his palms flat,
+pushed the whole ocean down and away,
+and stood.
+
+One second. Two. Three.
+
+The nose stayed up. His knees remembered the sand boards,
+the lacrosse footwork, the fifty-two-second hover,
+every wobble he had ever ridden out —
+and the beach came toward him slow and bright and unbelievable
+until the wave gave out in the shallows
+and he stepped off, standing, into ankle-deep water.
+
+The scream from the lineup was Amanda.
+The whooping was Kekoa.
+The smooth dark head that surfaced beyond the break,
+ancient-eyed and unimpressed,
+was possibly, Andrew felt, one percent impressed.
+
+"That was a ride!" Kekoa shouted. "A whole entire ride!"
+
+"I know," Andrew said, and sat down in the shallows
+because his legs were done being brave,
+and grinned at the sky.
+
+---
+
+That evening, the lanai turned into a feast.
+
+Their dad stood at the grill in a cloud of glorious smoke,
+turning fresh mahi-mahi he had bought that morning,
+plus chicken, plus pineapple.
+
+"Fish," their mom said, stopping dead with the fruit salad.
+"On our grill. Fish that you chose."
+
+"It's called adapting," their dad said, with dignity.
+
+"It took him three weeks," their mom told Mrs. Kalani,
+"and one blessing ceremony."
+
+The Kalanis had brought dishes Mrs. Kalani had been promising
+to teach them all month, and a bowl of poi
+that the twins approached like scientists
+and finished like locals, mostly.
+
+"Basically locals now," Andrew announced —
+one whole ride had done wonders —
+and reached past the platter to take his mahi-mahi
+straight off the grill's edge, from the piece still hissing.
+The whole table got to hear him learn better.
+"Hot," he explained, around a mouthful of air,
+while Kekoa handed him a water glass without comment
+and Amanda counted out loud to see how long the lesson took.
+
+"To think," their mom said, passing the poi,
+"when we took this assignment,
+I actually worried you two would be bored here."
+
+"Bored?" Amanda grinned. "With ancient maps, secret tunnels,
+and a mystery to solve?"
+
+"Don't forget the crabs," Andrew said.
+
+Everyone looked at Blazer, sprawled like a rug at the top
+of the beach stairs, watching two sand crabs
+conduct their business not ten feet away.
+His tail thumped once. He stayed exactly where he was.
+Peace, at last, had terms both sides could live with.
+
+"We're taking that helicopter tour Saturday," their dad said.
+"The volcano one we kept not taking. It's booked. It's happening."
+
+"And," their mom said, and paused until she had the table,
+"we have news. The client signed the Tokyo expansion this week.
+When this assignment wraps at the end of the summer —
+Japan. All four of us. Well." She looked at Blazer. "Five."
+
+The table went loud. Somewhere in the middle of it,
+Amanda heard Kekoa saying Tokyo is the drone capital of Earth
+and Andrew asking four questions at once,
+and she sat quietly inside the noise, holding both feelings,
+which had turned out to be a thing a person could do.
+
+Two more months here. And then an ocean.
+And then the rest of the world.
+
+Kekoa had brought the drone over for the occasion.
+As the sun dropped, he stood and picked up his controller.
+"One last flight before dark?" he said — and then, instead
+of raising the drone, he held the controller out to Andrew.
+
+"She's yours," he said. "All yours this time. You earned it."
+
+Andrew took the controller with both hands,
+careful as he was with everything that mattered.
+The drone rose off the grass steady as a dinner plate,
+and this time it did exactly what he told it —
+a clean climbing turn out over the sand,
+one wide figure eight against the orange sky,
+then the long lap the whole family watched
+on the controller screen:
+the beach, the rooftops, the cultural center small and gold
+in the last light,
+the dark green mountain with its secrets put back,
+and the little black rocks at the property line
+where the whole thing had started.
+
+The drone's camera even caught a rainbow,
+hanging offshore in the spray like it had been booked in advance.
+
+Andrew brought her home and set her down on the grass
+soft as a landing bird, and Kekoa applauded the pilot,
+and the pilot bowed.
+
+"When you get to Tokyo," Kekoa said, "you have to send me footage.
+That's the deal. Pilots trade footage."
+
+"Deal," Andrew said.
+
+"Maybe we'll solve a mystery there too," Amanda said,
+and heard the strange ache in her own voice as she said it.
+
+Mrs. Kalani lowered herself into the chair beside her.
+
+"You leave in two months," she said. "Why the long face tonight?"
+
+"I don't know." Amanda turned the woven bracelet on her wrist.
+"Today was perfect. And it still felt like —
+like the goodbye already started. Is that weird?"
+
+"Do you know what aloha means?" Mrs. Kalani asked.
+
+"Goodbye," Amanda said. "And hello. It's on every sign in town."
+
+"Both at once. Always both." Mrs. Kalani looked out at the water.
+"It also means love. And peace,
+and a connection that stays with you even when you're far away.
+The old navigators sailed from these islands
+across the widest ocean on Earth,
+farther than anyone believed a canoe could go.
+Every voyage began with a goodbye.
+But they always knew how to find their way home —
+and how to return to the places they had discovered."
+She patted Amanda's hand.
+"You've been saying aloha since the day you got here, Amanda.
+You just didn't know you'd started."
+
+---
+
+Later that night, after the Kalanis had gone home
+and the dishes were being argued about in the kitchen,
+the twins walked out to the edge of the yard,
+where the moon was up
+and the petroglyphs lay quiet in their jumble of black rock.
+
+The loose spiral. The wave. The very first carving
+Blazer had ever barked at,
+back when it was only a strange mark on a strange rock
+in a strange new place.
+
+"We should take a picture," Andrew said, pulling out his tablet.
 
 "For evidence?" Amanda teased.
 
 "For memories," he replied.
 
-As Andrew set up the shot, Blazer wandered over and sat between them, his tail thumping contentedly against the warm ground. The flash briefly illuminated the ancient carvings - symbols that had led them on an unforgettable adventure and taught them more than they'd ever expected to learn.
+Blazer wandered over and sat down between them, leaning,
+his tail thumping the warm ground,
+and the tablet's flash lit the ancient carvings white
+for half a second — the spiral, the twins, the dog,
+all of it caught and kept.
 
-Tomorrow they would finish packing. There would be goodbye hugs, promises to video chat, and one last look at the Hawaiian sunrise. But tonight, standing together under the stars, they simply let the peace of their island home wash over them like gentle waves on the shore.
+Two more months of mornings here, Amanda thought.
+Then Tokyo, and whatever was waiting there
+for two kids who had learned to read the writing on the rocks.
 
-"Aloha," Amanda whispered to the petroglyphs, understanding now that it wasn't really goodbye at all. It was just until next time.
+"Aloha," she whispered to the petroglyphs.
+
+Hello and goodbye and love and see you,
+all in one word, all at the same time —
+which, Amanda decided, was exactly the right amount of true.
