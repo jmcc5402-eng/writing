@@ -256,3 +256,66 @@ Friday→Saturday weather drift, Hawaiian orthography.
   Mrs. Kalani so the ch8 plant connects at listening distance; the
   CLOSED sign explicitly placed on the cultural center's doors
   (route line had made it read as the library's).
+
+## Clock compression + two-buildings rule (2026-08-04, author read-pass rulings)
+**New canon: the blessing ceremony is DAY 21** — exactly three weeks
+after arrival (day 0), which makes the placard's "roughly three
+weeks" exactly true, and **three days after the capture (day 18)**.
+The event timeline did not move (arrival D0, tour D7, thefts
+D8/D9/D11, tubes Sunday D15, stakeout Tuesday D17, capture Wednesday
+D18); the endgame now carries double pressure (ceremony in ~4 days +
+shipment tomorrow night). All passages located by quoted text.
+- ch2 placard (D7): "less than three weeks away" → "two weeks away."
+- ch4 (D9) — ⚠ **author-canon line, number phrase only, shape kept:**
+  "The ceremony is in two and a half weeks. Ready or not." → "The
+  ceremony is in twelve days. Ready or not."
+- ch5 (D11): "Sixteen until the blessing" → "Ten"; "sixteen days to
+  make sure it isn't one" → "ten days"; "Sixteen days, she thought"
+  → "Ten days" (ruling's map listed one hit; all three are the same
+  countdown).
+- ch7 (D16): "the blessing is in eleven days" → "five days."
+- ch8 (D17): both "The blessing is in ten days" lines → "four days,"
+  including the two-clock line ("...and he's shipping them out of
+  Kahului tomorrow night").
+- ch9–11 (D18): ceremony-countdown "nine days" → "three days" —
+  **seven occurrences found, not the four on the ruling's map**, all
+  the same clock: Kekoa at the library steps; Amanda's reply; Mrs.
+  Santos's mats ("Nine days early" → "Three days early"); "nine days
+  from now ... empty cases" (ch10); "Nine days," Kekoa said —
+  "Everybody's counting" (ch10); "Nine days, Amanda thought. In their
+  cases. Gleaming." (ch11); Amanda's lanai inventory "town nine days
+  from a real ceremony" (ch11).
+- ch12 twin banter: "Eight days to spare." / "Nine," ... → "Two days
+  to spare." / "Three," ... (rest of the exchange untouched).
+- ch12 opening: "Nine days had gone by" → "Three days had gone by"
+  (elapsed-gap texture; "slow at first, then all at once" still reads
+  at three days).
+- ch12 sweep re-derivation: Mom's feast line "It took him one month"
+  → "It took him three weeks" (arrival→ceremony is now exactly three
+  weeks; refers to Dad's ch1 "burgers first, fish later").
+- Left alone, verified true under the new map: lauhala lines ("The
+  new mats take three weeks. The leaves took a year." ch7; "sixty
+  years of her work" ch12); all stay-length refs ("three months,"
+  "two months left," "two more months," "end of the summer"); ch10
+  "It took us eighteen days" (arrival→capture, D0→D18); ch11 "she'd
+  have believed us ten days ago" (first morning D8→D18); ch11 Dad's
+  "Three days. That's not bad." (tubes fib D15→confession D18 —
+  unchanged, but note it now echoes the new "three days" countdown
+  twice elsewhere in ch11); ch12 "less than a month since you two
+  first walked in here" (first center visit D7→D21 = two weeks —
+  still true; per the ruling this is neither arrival→ceremony nor
+  stay-length, so left); ch12 "promising to teach them all month"
+  (loose idiom, not clock arithmetic); ch2 "A whole week of
+  unpacking" (D0→D7); ch10 "coming to visit weeks ago" (Jacob's
+  visit, unrelated clock).
+- ch1 two-buildings rule: Mom's dinner line → "there's a great beach
+  soccer program here — / I saw the sign-up sheet at the library,
+  Amanda." (community center removed; matches ch2, where Amanda finds
+  the flyer at the library — town now has exactly two public
+  buildings kids visit: cultural center and library).
+- ch10: "across a dark museum hall" → "across the dark exhibit hall."
+  Left as voice per the ruling: Mrs. Kalani's spoken "my museum"
+  (ch11) and the "her museum" possessive in ch8 narration; also left
+  the generic weekend "a museum" (in ch7's dinner scene — the ruling
+  cites it as ch6) and the two "small museums and cultural centers"
+  article quotes (real, off-island places).

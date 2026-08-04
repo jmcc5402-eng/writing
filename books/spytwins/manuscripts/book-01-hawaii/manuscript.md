@@ -206,8 +206,8 @@ five family dinners a week. Minimum. However the project goes."
 "Somebody has to," Andrew said. "March was a four-dinner month.
 I have records."
 
-"Anyway — there's a great beach soccer program
-at the community center, Amanda.
+"Anyway — there's a great beach soccer program here —
+I saw the sign-up sheet at the library, Amanda.
 And Mrs. Kalani says Kekoa teaches surf lessons.
 You should learn while we're living on an ocean.
 It seems a waste not to."
@@ -415,7 +415,7 @@ Very expensive, I'm told. The board grumbled for months."
 Mrs. Kalani chuckled and led them back toward the entrance,
 stopping at a placard on a wooden stand by the door.
 It announced the center's annual blessing ceremony,
-with a painted date less than three weeks away.
+with a painted date two weeks away.
 "The whole town comes," Mrs. Kalani said, tapping the placard twice.
 "Every piece you saw today gets blessed that morning.
 Which means every piece you saw today
@@ -841,7 +841,7 @@ She led them down the hall, past the exhibit room —
 two empty cases now, side by side —
 and Amanda heard her murmur, half to herself,
 "Two artifacts gone, and the date hasn't moved an inch.
-The ceremony is in two and a half weeks.
+The ceremony is in twelve days.
 Ready or not.
 We have blessed the collection every year
 since the center opened. My mother stood on these mats."
@@ -1233,11 +1233,11 @@ They're stealing the trail. Every artifact carved on those rocks."
 "Same as us. Better than us. They read them first."
 
 Kekoa blew out a long breath and pulled his hood back.
-"Tutu's counting days out loud now. Sixteen until the blessing.
+"Tutu's counting days out loud now. Ten until the blessing.
 She says a ceremony with three empty cases
 isn't a ceremony. It's an apology."
 
-"Then we've got sixteen days to make sure it isn't one," Amanda said.
+"Then we've got ten days to make sure it isn't one," Amanda said.
 
 ---
 
@@ -1251,7 +1251,7 @@ weighting the curly corners with whatever her desk offered —
 an eraser, a shell, the tape dispenser, one hiking sock —
 until the whole hillside lay reassembled on her floor.
 
-Sixteen days, she thought, and set the last page down.
+Ten days, she thought, and set the last page down.
 Somewhere in town, Mrs. Kalani was counting the same days
 over three empty cases.
 
@@ -1798,7 +1798,7 @@ What do we do?"
 "We have to do it soon," Andrew said, not looking away
 from the drone. "'Vindication coming soon.'
 He's nearly done. If he ships those artifacts off somewhere,
-they're gone for good — and the blessing is in eleven days.
+they're gone for good — and the blessing is in five days.
 Your tutu said it herself. Three empty cases isn't a ceremony."
 
 The drone settled onto the grass, soft as a sigh.
@@ -2146,7 +2146,7 @@ Then the hall was theirs, and the fear finally arrived —
 late, all at once, straight to the knees.
 
 "Tomorrow night," Kekoa whispered. "He said tomorrow night.
-The blessing is in ten days and he's shipping them
+The blessing is in four days and he's shipping them
 out of Kahului tomorrow night."
 
 "We have to call your grandmother," Amanda said. "Right now.
@@ -2234,7 +2234,7 @@ He glanced at their mother.
 
 At the door, Amanda made herself stop in front of Mrs. Kalani.
 
-"The blessing is in ten days," Amanda said. "We were trying —"
+"The blessing is in four days," Amanda said. "We were trying —"
 The sentence ran out of road. "I'm sorry we lied to you."
 
 Mrs. Kalani looked down at her for a long moment,
@@ -2495,12 +2495,12 @@ with grown-ups already on the way."
 
 Kekoa looked from one twin to the other.
 
-"The blessing is in nine days," he said.
+"The blessing is in three days," he said.
 "Grandma crossed another number off the kitchen calendar
 this morning and didn't say one word about it.
 Which was worse than when she says things."
 
-"Nine days," Amanda said,
+"Three days," Amanda said,
 "and it could all be back in its cases by tomorrow, if—"
 She stopped on the if.
 
@@ -2546,7 +2546,7 @@ Turning onto their own street, they passed Mrs. Santos's porch,
 where the drying racks stood nearly empty now
 and the finished mats rose in a pale, perfect stack
 taller than the railing.
-Nine days early, and her part of the ceremony was ready.
+Three days early, and her part of the ceremony was ready.
 Everyone on this street kept their promises, Amanda thought,
 and made herself walk faster.
 
@@ -2655,7 +2655,7 @@ She caught herself doing it, and that was the new part —
 watching her own hands bend the truth, eyes open,
 and choosing it anyway,
 because the trail's whole treasure was leaving on a truck tonight,
-and nine days from now the town would stand in front of empty cases.
+and three days from now the town would stand in front of empty cases.
 
 They hadn't technically lied.
 They would be hiking. They would be with Kekoa.
@@ -2702,7 +2702,7 @@ Amanda raised one hand. A wave, or maybe a salute.
 Mrs. Santos nodded — a real nod, a whole inch —
 and went back to her weaving.
 
-"Nine days," Kekoa said quietly. "Everybody's counting."
+"Three days," Kekoa said quietly. "Everybody's counting."
 
 The trail took them up past the banyan tree,
 past the carved rocks with their leaning lines,
@@ -2787,7 +2787,7 @@ Too far away for words.
 Close enough to recognize.
 
 They had heard that voice mutter to itself
-across a dark museum hall.
+across the dark exhibit hall.
 
 Amanda got them back to the junction with two hand signals.
 They folded into the side pocket where the shadows were deepest,
@@ -3288,7 +3288,7 @@ the ocean laid out flat and shining all the way to the sky.
 Somewhere below, a truck was going to arrive at an empty road
 tonight, and wait, and give up.
 
-Nine days, Amanda thought. In their cases. Gleaming.
+Three days, Amanda thought. In their cases. Gleaming.
 
 ---
 
@@ -3382,7 +3382,7 @@ professionals forget the fallback."
 
 The moon put a road on the ocean.
 Amanda leaned against her brother's shoulder and took inventory:
-artifacts safe, truck beaten, town nine days from a real ceremony,
+artifacts safe, truck beaten, town three days from a real ceremony,
 every question answered, every word — finally — true.
 
 Somewhere between the crossed fingers and now,
@@ -3395,7 +3395,7 @@ The lauhala mats smelled like a green field after rain,
 and Amanda was standing on one in her bare feet
 when the blessing began.
 
-Nine days had gone by — slow at first, then all at once —
+Three days had gone by — slow at first, then all at once —
 and now the cultural center's main hall was full of the whole town,
 wall to wall, shoulder to shoulder,
 everybody's slippers left in a cheerful mountain by the door.
@@ -3431,9 +3431,9 @@ In its case. Gleaming.
 In their cases. Gleaming. Deadline kept.
 
 Beside her, Andrew leaned over and whispered,
-"Eight days to spare."
+"Two days to spare."
 
-"Nine," Amanda whispered back. "The truck came at night. Ask
+"Three," Amanda whispered back. "The truck came at night. Ask
 the police."
 
 "You're both going to count it out loud forever, aren't you,"
@@ -3571,7 +3571,7 @@ plus chicken, plus pineapple, plus —
 
 "It's called adapting," their dad said, with dignity.
 
-"It took him one month," their mom told Mrs. Kalani,
+"It took him three weeks," their mom told Mrs. Kalani,
 "and one blessing ceremony."
 
 The Kalanis had brought dishes Mrs. Kalani had been promising
