@@ -133,12 +133,30 @@ The project evolved across several years of drafts. These are now **locked**:
   twins identify it from Andrew's storm photos BEFORE learning the carving
   tool was stolen — the trail is a fair-play predictor, not a postdiction.
   [CHECK: ko'i naming/representation — culture-researcher pass.]
-- **[Canon decision, author 2026-07-27] The climax is the twins' radio
-  trap.** In the chamber, Amanda stalls Dr. Lee with the decoding reveal
-  while Andrew, hidden, click-codes their position and guides the police
-  in; the twins' plan springs the capture. Mrs. Kalani still arrives with
-  tracker, backup footage, and the police — proof stays hers, the win is
-  theirs. Blazer holds the exit.
+- **[Canon decision, author 2026-07-27; superseded in part by author
+  ruling 2026-08-04] The climax is the twins' two-door trap.** Amanda
+  stalls Dr. Lee with the decoding reveal. Nobody runs for help:
+  Kekoa takes the dark fork at the last junction to prove the chamber
+  has no secret escape, finds it loops to the chamber's far side, and
+  holds that back door; Andrew, hidden, runs the click-thread between
+  his sister's voice and Kekoa's answers. When Lee's truck alarm ends
+  the stall and he bolts, Kekoa blocks one exit and Blazer plants in
+  the other — and only THEN do the police arrive, brought solely by
+  Mrs. Kalani's backpack tracker (planted after sock-night) and led
+  through the forks by Amanda's clothespin flags. Proof stays hers
+  (tracker + backup footage), the win is theirs. (The 2026-07-27
+  version — Kekoa runs down the mountain, Andrew's clicks guide the
+  searchers in — is retired; author: "We don't need Kekoa to run for
+  help AND the tracker. Let's just do the tracker.")
+- **[Canon decision, author 2026-08-04] Why the kids never call the
+  police (B1).** Cross-town middle schoolers spent the summer
+  prank-calling in "sea monsters," so the police say "kids" in the
+  voice people use for mosquitoes. Planted in ch3 (overheard
+  officers), echoed in ch9 ("after a summer of sea-monster
+  calls... aren't exactly star witnesses"), paid in the ch10 huddle
+  and at the officer's "should have come to us sooner." Keeps Mom's
+  end-of-book "come to the grown-ups at the beginning" lesson honest:
+  the kids had a real reason, and it still wasn't the right call.
 - **[Process note, author 2026-07-27]** The v2 chapters replace
   `manuscripts/book-01-hawaii/manuscript.md` only after all twelve exist
   and the author reads the full set — one adoption pass updating the
