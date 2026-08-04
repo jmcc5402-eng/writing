@@ -512,3 +512,15 @@ was fixed before the PR._
    assigned S05 to both the destination chain and The Curriculum; the
    Curriculum is now **S10** across the ledger, premise, story engine,
    and both premise docs. This outline's SERIES lines use S10.
+
+## Location roster (per the 2026-08-04 rule)
+
+Recurring (3): **HOME** — the small apartment (control-panel toilet,
+tally on the fridge); **MUTSUMI-DORI SHOTENGAI** — the covered market
+row, the book's stage (Kenta's stall mid-row, the koban at the street
+end, the renovated gray stretch); **THE KOBAN** — the corner police
+box at the market's mouth (desk, bicycle, memo pad).
+Single-visit (named, not counted): the dojo (ch3 nudge, ch5 class),
+Toyosu Market (ch7 field trip, behind glass), the subway (ch3
+transit-as-plant). School is online, at HOME.
+Compliant: 3 recurring, under the cap; no confusable names.

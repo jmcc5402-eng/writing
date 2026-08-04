@@ -185,9 +185,10 @@ The project evolved across several years of drafts. These are now **locked**:
   CENTER (artifacts, Mrs. Kalani) and the LIBRARY (reading, the
   soccer sign-up), a few blocks apart. No community center, no third
   venue; narration never calls the center a "museum" (Mrs. Kalani's
-  spoken "my museum" is voice and stays). Series rule of thumb: keep
-  each book's kid-geography to a handful of distinct, distinctly
-  NAMED places.
+  spoken "my museum" is voice and stays). Series RULE (formalized
+  2026-08-04): every book defines its location roster at outline
+  time — named, one-line identity, relative positions; fewer than 5
+  recurring locations, 2–3 best; no confusable names.
 - **[Canon decision, author 2026-08-03] Chapter-1 standing rules.**
   Every book's ch1 states the standing family rules alongside the dog
   description: the roam boundary (city-appropriate) and the

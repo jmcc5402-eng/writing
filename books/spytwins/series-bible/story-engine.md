@@ -12,6 +12,14 @@ Every book should contain **all** of these. (They're what make the series feel
 consistent from book to book.)
 
 - [ ] **Location details** — a real sense of the new city/culture/geography.
+- [ ] **The location roster** (author, 2026-08-04): every book DEFINES
+      its recurring kid-locations up front — each one NAMED, given a
+      one-line identity, and placed relative to the others. Fewer
+      than 5 recurring locations; 2–3 is best (numeric cap = warnings
+      tier). Single-visit sites (a field trip, one dojo class) don't
+      count against the cap but still get named. No two locations may
+      carry confusable names (the B1 lesson: cultural center vs
+      community center).
 - [ ] **A light secondary plot** — something small running underneath the mystery.
 - [ ] **2–3 atmospherics** — see the menu in §4.
 - [ ] **A lesson learned** by one of the twins.
