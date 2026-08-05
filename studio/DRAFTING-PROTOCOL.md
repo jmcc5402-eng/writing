@@ -89,7 +89,11 @@ battery, from cheapest to richest:
    words, dangling punctuation, wink counter.
 2. Continuity gate (always): full canon review, numbered findings.
    Proven: B2 rung 3 caught a cross-book season contradiction (K1)
-   and a shutters-physics hole (K6) on six pages.
+   and a shutters-physics hole (K6) on six pages. Severity tiers:
+   in-book timeline/state findings BLOCK; cross-book calendar and
+   season findings are WARNING-tier only — the series floats
+   (author, 2026-08-05: "not necessarily perfectly chronological") —
+   flag, propose a cheap patch, never block drafting.
 3. Round-trip re-derivation (rungs 3+): a fresh agent that has never
    seen rung N-1 reverse-engineers it from rung N; the diff against
    the real rung N-1 is drift the forward reader can't see.
