@@ -14,8 +14,9 @@ critique and chapters review, `SUPERCONCEPTS.md`, and the dream review.
   their plants become canon. → chapters-review (e1); THREADS T28
 - **Surname:** lock Anderson (or keep it off the page). Johnson x4+ on
   the page; Old Rob's line waits on it. → bible §7.3; RECON delta 3
-- **Pushers/kill-check:** the two Grins alone (m22, v2) or Duff
-  descending (2015 line, bible §3). → RECON delta 11; THREADS T15
+- ~~**Pushers/kill-check**~~ RULED 2026-08-05 (bible §3 Duff): the
+  two Grins alone; nobody descends. Was: or Duff descending (2015
+  line). → RECON delta 11; THREADS T15
 - **Ending shape:** the vanish ("Nick who?", prose's vote) or the
   confession (childrens-v1, nick-ideas, snowflake ch26) — and pick the
   4.8 climax variant. → critique rec 4; bible §7.9 [TK]; RECON delta 15
