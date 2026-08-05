@@ -105,7 +105,11 @@ video — a recurring seed of the secret.
 _Local to Book 1; not necessarily recurring._
 
 - **Kekoa** — teenage neighbor; drone pilot; teaches the twins to surf. The
-  twins' local guide and third member of the crew.
+  twins' local guide and third member of the crew. **Book 1 is his
+  summer break** — Maui schools are out, which is why his weekday
+  mornings are free; the twins' online school runs its own year-round
+  calendar, which is why THEY still have first period while he
+  doesn't. [Locked by author PR, 2026-08-04.]
 - **Mrs. Kalani** — Kekoa's grandmother; the cultural center's
   curator-director — the person who runs the small, largely
   volunteer-staffed center (keys, tours, the board, the collection);
