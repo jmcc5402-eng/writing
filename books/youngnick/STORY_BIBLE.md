@@ -224,10 +224,15 @@ recommendation, baked into the plan but easy to change if you disagree.
    "Santa" is never said. The reader assembles the clues (sleigh, reindeer, gifts
    overnight, the North Pole warp) and gets the delight of realizing it themselves.
    *We can revisit; see the trade-offs in the note below.*
-3. 🔵 **PROPOSED — Nick's surname stays light / rarely used.** Drafts have both
-   "Anderson" and "Johnson." For a Santa origin, leaning on **"Nicholas"** (→ *Saint
-   Nicholas*) is stronger than any surname. Recommendation: use **Anderson** if a
-   surname is needed, but keep it in the background.
+3. ✅ **LOCKED (author PR, 2026-08-05) — No surname on the page,
+   ever.** Drafts had both "Anderson" (×1) and "Johnson" (×4); the
+   ruling retires both. For a Santa origin, **"Nicholas"** (→ *Saint
+   Nicholas*) is the only name that matters, and an absent surname
+   quietly serves the myth — legends don't have last names. Prose
+   renders him Nick / Nicholas / "his father's son"; Old Rob's ch4
+   line rewords to need no surname; the [TK surname] placeholder
+   retires. If a future scene truly cannot avoid one (a legal
+   document, a ledger), that scene comes back here as its own PR.
 4. 🔵 **PROPOSED — Gold reveal: reader thinks "some," truth is "all."** The reader
    believes the Grins are only skimming; the full theft is revealed at the cove. The
    **earthquake** triggers the Grins' escape, so the tension doesn't depend on the
