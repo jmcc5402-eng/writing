@@ -40,7 +40,7 @@ Bent, at the moment, was no setback at all.
 
 Better still was what the cave did not do.
 It could not be seen from above —
-he'd come down nearly on top of it without seeing it —
+he'd crossed within feet of it without seeing it —
 and he doubted it showed from either side.
 If the Grins ever came looking, and they wouldn't,
 they could stand on the ledge above
@@ -95,6 +95,7 @@ and stacked them across the entrance,
 biggest at the bottom, faces fitted,
 chinking the gaps with smaller stone,
 a dry wall a foot high, then two, then waist-high,
+his bad shoulder billing him for every stone above the second course,
 until the wind stopped reaching in to feel around.
 The quiet that came then was worth the twenty minutes alone.
 Outside, the sleet kept ticking against the mountain.
@@ -165,7 +166,7 @@ and went to find out what the mountain kept in its back room.
 He stepped deeper in.
 The ceiling here let him almost straighten —
 five and a half feet, he judged,
-about seven inches short of the six his frame wanted.
+half a foot short of the six his frame wanted.
 He kept one hand on the rock wall to his right
 and slid his feet instead of stepping,
 and even so a snag of rock caught his boot twice

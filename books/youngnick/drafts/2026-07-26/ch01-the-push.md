@@ -6,7 +6,7 @@ Mountain goats might have tried,
 but honestly, what reason would a goat have to come up this far?
 Nick had a reason: gold.
 
-The ground sample in his pack would tell Grin Bros Mining
+The ground sample in his pack would tell Grin Bros. Mining
 whether this side of the mountain was worth the cost of working it.
 The method wasn't perfect,
 but it had called the ground right for years running,
@@ -134,8 +134,8 @@ The dogs were loose, digging themselves burrows for the night,
 turning three times and screwing themselves down into the snow
 with their noses under their tails,
 which surprised him —
-he had hurried down hoping the party would push on
-to the mountain base camp before dark.
+he had hurried down hoping the party would push
+on to the lower camp before dark.
 Evening was the time to travel:
 the sleighs ran fast on the icy trails after sundown,
 and morning always brought fresh snow to bog the dogs.

@@ -243,7 +243,7 @@ and the top of the tree hasn't heard about it yet."
 
 Rob laughed at that until he coughed.
 
-And that was when the market door across the street opened
+And that was when the feedstore door across the street opened
 and Grace came out of it with a basket on her arm.
 
 Ten years, and he'd have known her at twice the distance —

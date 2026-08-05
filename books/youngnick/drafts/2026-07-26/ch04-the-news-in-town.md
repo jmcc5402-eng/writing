@@ -104,7 +104,7 @@ You don't stop in the middle."
 "I haven't needed it for the last four years.
 I'll be fine if I never see it."
 He tapped the porch rail once, done with the subject.
-"Tomorrow morning, write your letter to the cruise line
+"Tomorrow morning, write your letter to the steamship line
 and reserve your fare."
 
 The line company could take its payment
@@ -200,7 +200,7 @@ Last time a sample read that clear,
 we pulled better than eighteen pounds
 out of that mountain in the next six months."
 
-"The whole town's gone ape," Rob said.
+"The whole town's gone mad for it," Rob said.
 "They can't hardly wait to get up there
 and start the machinery."
 
@@ -223,7 +223,7 @@ She slowed by the dry goods and did not hurry.
 
 "—a tragedy is what it is," one of them said, low.
 "And the boy hadn't hardly been back a month.
-I never saw him but the once
+Rob says he saw him but the once
 before they went off on the expedition."
 
 "Strong young fella, too. His father all over again."
@@ -246,7 +246,7 @@ which had nothing in it either.
 "I don't mean to be the bearer of bad news," Old Rob began,
 and stopped, and pushed at the counter dust with one thumb.
 "And you might not even remember him.
-But Nick [TK surname] was killed during the expedition."
+But Nick — the boy that went south — was killed during the expedition."
 
 The store went on standing around her.
 Somewhere behind her the stove ticked.
