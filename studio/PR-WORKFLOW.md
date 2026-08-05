@@ -180,3 +180,36 @@ team like software; PRs are how software teams actually ask their
 director for a call. Nothing about the philosophy changes — only the
 latency of author involvement, which stops being "whenever the author
 is in a session" and becomes "whenever the author has two minutes."
+
+## Rule 7 — the MINOR lane (author, 2026-08-05)
+
+The author's ruling: "create an agent that chooses to merge the minor
+PRs... for those small ones I only get a daily summary so I can
+revert if needed but trusting most of them." This deliberately amends
+the agents-never-merge wall for ONE narrow lane:
+
+- **Typing:** eligible PRs are opened as `[book][MINOR] ...` — the
+  opener's explicit declaration. A PR not typed MINOR at creation is
+  never auto-merged, full stop.
+- **Eligibility (ALL must hold, verified twice — by the opener at
+  creation and by the merging shift before merging):** one decision;
+  recommended option applied in the diff; body quotes the book's
+  lines. It touches NO manuscript prose beyond mechanical fixes of a
+  few lines, NO reversal of any LOCKED canon, NO SUPERCONCEPTS, NO
+  series rules, NO outline/premise/adoption/agent-charter material,
+  and nothing the author has flagged in chat or VISION.md.
+  Qualifying examples: tertiary-character micro-facts, era-idiom
+  swaps, geography micro-details, institution-name picks,
+  bookkeeping folds. When in doubt, it is not minor — leaving it for
+  the author costs one click; a wrong merge costs trust.
+- **Who merges:** the nightly showrunner shift, as its own checklist
+  step — so every MINOR PR naturally sits in the queue most of a day
+  first, and the author can always beat the bot to it.
+- **The daily summary:** the morning nudge carries a "MERGED FOR
+  YOU" section — one line per auto-merge, PR number and the decision
+  taken. Revert protocol: the author says "revert #N" anywhere; the
+  merge commit is reverted the same day, the decision reopens as a
+  fresh PR marked NOT-minor.
+- **The kill switch:** the author saying "hold minors" (chat or
+  VISION.md) suspends the lane until lifted; the lane also
+  self-suspends for a night if any revert was requested that day.

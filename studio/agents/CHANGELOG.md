@@ -3,6 +3,17 @@
 Newest first. Every entry: version, what changed, and the evidence that
 drove it.
 
+## 2026-08-05 — showrunner 2.0.0 → 2.1.0 (the MINOR merge lane)
+
+Author ruling amends the agents-never-merge wall for one narrow
+lane: PRs typed `[book][MINOR]` at creation may be merged by the
+nightly shift after double verification (opener declares, merger
+re-verifies), reported next morning under MERGED FOR YOU with a
+"revert #N" handle; any doubt disqualifies; "hold minors" or a
+same-day revert suspends the lane. Full rails in PR-WORKFLOW rule 7.
+Evidence: the author — "for those small ones I only get a daily
+summary so I can revert if needed but trusting most of them."
+
 ## 2026-08-05 — showrunner 1.0.0 → 2.0.0 (major: remit change)
 
 Author-directed promotion: "act as if it's a young ambitious,
