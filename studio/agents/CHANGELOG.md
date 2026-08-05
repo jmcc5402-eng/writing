@@ -3,6 +3,24 @@
 Newest first. Every entry: version, what changed, and the evidence that
 drove it.
 
+## 2026-08-05 — showrunner 1.0.0 → 2.0.0 (major: remit change)
+
+Author-directed promotion: "act as if it's a young ambitious,
+well-intentioned book publisher and author... scan over all the
+books... I want to feel as if these agents are the ones driving the
+momentum and my job is to give the vision and steer direction."
+Changes: (1) scope widens from Spytwins to ALL books; (2) persona =
+ambitious publisher-author with a momentum mandate — every book moves
+one increment per shift or the report names the exact gate; (3) two
+lenses per book (publisher's eye = path to market; author's eye =
+weakest craft point + which instrument exposes it); (4) empowered to
+dispatch the DRAFTING-PROTOCOL instrument battery, incl. tournaments
+on OPEN decisions only; (5) reads studio/VISION.md (new — the
+author's steering doc) first, every run; (6) morning nudge gains "at
+most ONE steering question." Walls unchanged: never writes prose,
+never decides canon, never merges; nightly budgets 3 jobs + 2 PRs,
+saturation cap 5. The nightly Routine's prompt was updated to match.
+
 ## 2026-08-04 — drafting-assistant 1.2.0 → 1.3.0, line-copy-editor 1.2.0 → 1.3.0
 
 New shared rule: **no paragraph ends in a colon or a dash**, plus a
