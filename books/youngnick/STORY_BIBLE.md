@@ -258,6 +258,17 @@ recommendation, baked into the plan but easy to change if you disagree.
    Klaus / Baum / Guinn lane. The 2026-07-26 draft chapters are written to
    this ruling. Easy to veto; if it stands, [TK: amend §11's "Novel
    (middle-grade)" rung to match].
+8b. ✅ **LOCKED (author PR, 2026-08-05) — Book 1 lineage: the v2 trunk
+   cold open (RECON §4, option 1).** The book opens as a straight
+   wilderness thriller; no proposal frame; the reader assembles the
+   Santa layer themselves (consistent with decision 2). The 2015
+   proposal frame is MINED, not adopted. The opening tournament
+   (`notes/opening-tournament-2026-08-05.md`) confirmed this lineage
+   under fresh pressure (30/35 vs 20 for the frame) and its three
+   grafts are approved candidates for the ch1 revision pass: the
+   mid-fall breath of flight-that-isn't, Grace's engagement needle at
+   the fire, and James's almost-warning. Unblocks ch5+, THREADS
+   adoption, and the v2 gate's N1.
 9. ✅ **LOCKED (author, 2026-07-27) — The climax: everything braids at the
    cliff.** The book's payoff is the ending where it all comes together:
    Nick finally gets the sleigh and the reindeer to truly fly, and he saves
