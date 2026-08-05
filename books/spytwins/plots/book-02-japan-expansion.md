@@ -3,8 +3,8 @@
 **RATIFIED — author merge, PR #11, 2026-08-04.** (plot-architect
 1.3.0, variance card A1; continuity gate PASS —
 `notes/b2-expansion-gate-2026-08-04.md`; flags 1–3 ratified by the
-merge; flag 4 / gate finding K1 — the season — OPEN, decided by its
-own PR.)
+merge; flag 4 / gate finding K1 — the season — resolved by the
+season PR of 2026-08-04.)
 
 _Snowflake step 3: four paragraphs per chapter, expanding the APPROVED
 outline in `plots/book-02-japan-outline.md` (author, 2026-07-30). The
@@ -14,7 +14,9 @@ here; nothing below overrides them. Variance card A1 (culprit-first)
 adds the "Rin's calendar" hidden-spine section and shapes each chapter
 as the twins' arc intersecting it — emphasis only, no canon changes.
 Days are numbered D-01 (arrival, a Saturday) through D-23 (festival).
-Season: June, tsuyu (ruled 2026-08-02). Density: DEEP (the panel-key
+Season: mid-September, the akisame autumn-rain front (re-ruled by
+author PR 2026-08-04, superseding June/tsuyu — resolves gate finding
+K1). Density: DEEP (the panel-key
 decode), declared per the mystery-density dial. Inner journey: none
 this book (millimeter rule, locked)._
 
@@ -71,15 +73,16 @@ and Rin's off-page habits are structural proposals, not canon._
 - **Her clock and her blind spot.** Rin runs on the rainy season,
   not the vote; she has half-heard camera talk in the row and does
   not connect it to herself. The twins race a date on a poster; Rin
-  races the end of tsuyu. [TK — whether Fumi died before or after
+  races the end of the autumn rain front. [TK — whether Fumi died
+  before or after
   last year's renovation; affects Rin's grief timeline, not plot.]
 
 ### The rain calendar (load-bearing; all mark events obey it)
 
 | Day | Dawn weather | Rin (off-page) | On the page |
 |---|---|---|---|
-| D-minus-6 | rain (first tsuyu dawn) | mark #0: panel 1, Hamada | ch8 confession |
-| D-minus-5–D-0 | dry dawns (tsuyu stuttering in) | waiting; nerve | — |
+| D-minus-6 | rain (first akisame dawn) | mark #0: panel 1, Hamada | ch8 confession |
+| D-minus-5–D-0 | dry dawns (the front stuttering in) | waiting; nerve | — |
 | D-01 Sat | dry, muggy | tracing stencils | ch1 arrival |
 | D-02 Sun | dawn rain, clears | mark #1 (panel 2); lingers | ch2 |
 | D-03–05 | dry dawns; humid | waiting | ch3 |
@@ -93,7 +96,8 @@ and Rin's off-page habits are structural proposals, not canon._
 | D-23 Sun | clear, washed | first panel, officially | ch12 |
 
 The festival poster (ch2) carries the D-23 date on the page
-[TK exact June calendar date — the poster must show it]. Toyosu runs
+[TK exact September calendar date — the poster must show it]. Toyosu
+runs
 on D-13, a Thursday (closed Sundays and Wednesdays — checked against
 the research note). Kenta and Rin are in school on weekdays; every
 mark dawn is hours before the school day starts, and D-22 is a
@@ -112,7 +116,8 @@ rain-late opening.
 
 ### Ch 1 — Smaller Sky
 
-STATE IN: day D-01(Sat) / muggy tsuyu overcast / midday landing,
+STATE IN: day D-01(Sat) / muggy overcast, the autumn rain front due /
+midday landing,
 evening walk / who-knows: nobody knows anything; Rin off-page, four
 of her marks still unpainted, #0 already scrubbed away days ago /
 objects: packing boxes (B1 walkie-talkies inside), Dad's conference
@@ -181,7 +186,8 @@ Two small things register without meaning anything yet. A quiet
 little kid hangs at the row's far end, watching everything and
 saying nothing, and the twins note her the way you note a cat. And
 the festival poster goes up on an arcade pillar with the DATE printed
-large [TK exact June date] — the market's biggest day, three weeks
+large [TK exact September date] — the market's biggest day, three
+weeks
 out, the visible clock now on the page.
 
 Then the shout. A painted mark on the shutter of the stall beside
@@ -754,11 +760,12 @@ Compliant: 3 recurring, under the cap; no confusable names.
    ch10's lantern-hanging happens the night of D-21 — one night before
    the eve proper. Written as festival-weekend prep (real festivals
    dress early); flagged in case the author wants the label adjusted.
-4. **Season vs Book 1's last line (continuity gate K1 — needs an
-   author ruling before ch1 drafts).** B1 ch12 has Mom announce Tokyo
-   "when this assignment wraps at the end of the summer," but B2's
-   ruled season is June tsuyu — and the rain calendar is load-bearing,
-   so the season can't quietly move. Cheapest fix: one line in B1's
-   next line pass ("when this assignment wraps this spring");
-   alternative: re-rule B2 to the September akisame front and re-run
-   this calendar. The June ruling stands until the author picks.
+4. **Season vs Book 1's last line (continuity gate K1) — RESOLVED by
+   the season PR (author, 2026-08-04): B2 = mid-September, akisame.**
+   B1 ch12's "when this assignment wraps at the end of the summer"
+   stands untouched; B1 stays Kekoa's summer break (its own PR); the
+   Wilsons land in Tokyo as the autumn rain front arrives. The rain
+   calendar's structure (D-numbering, rain days, weekdays) is
+   unchanged — only the month label moved. Festival = an autumn
+   festival (aki matsuri season) [CHECK: aki matsuri texture —
+   culture pass].
