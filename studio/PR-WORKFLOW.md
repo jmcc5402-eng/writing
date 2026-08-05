@@ -50,6 +50,14 @@ rule 7 ("decisions get recorded, not remembered") made mechanical:
    (an adoption read IS the adoption PR, with the reading copy and
    audio linked in the body), so finishing the task and recording
    the outcome stay one motion.
+   **Corollary (author, 2026-08-05): a decision parked in a note,
+   TODO, or "open questions" list is QUEUE DEBT, not a decision
+   channel.** Instrument reports and sketches may surface questions,
+   but every genuine author decision they raise must be extracted
+   into its own bite-size PR — sequenced under the 5–7 budget, most
+   load-bearing first — by whoever filed the report (or the
+   showrunner on its next shift). Notes carry the evidence; PRs
+   carry the decisions.
 
 ## The PR taxonomy — ten types
 
