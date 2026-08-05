@@ -38,3 +38,5 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-04 | plot-architect (spytwins B2 4-para expansion) | A1 antagonist-first (read as culprit-first: structure from Rin's plan outward) | plots/book-02-japan-expansion.md |
 | 2026-08-04 | continuity-keeper (spytwins B2 expansion gate) | E2 start from the weakest chapter | plots/book-02-japan-expansion.md review |
 | 2026-08-04 | kid-reader-panel (spytwins B2 expansion read) | C2 bookseller shelf placement | rung-3 gate battery |
+| 2026-08-05 | continuity-keeper (youngnick v2 ch1-4 vs bible) | E5 dialogue mechanics first | youngnick gate sample |
+| 2026-08-05 | plot-architect (youngnick books 2-4 sketch) | A3 sensory inventory | youngnick series sketch |
