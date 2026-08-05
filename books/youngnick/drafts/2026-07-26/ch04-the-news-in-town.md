@@ -11,7 +11,7 @@ taking the last of the light like it was owed him.
 "I ran out of patience." Grace came up the steps
 and stood in front of his chair,
 and found that her hands had gone and folded themselves
-the way they did when she had rehearsed a thing too long.
+as they did when she had rehearsed a thing too long.
 "I decided," she said. "I'm going to enroll in the university."
 
 Jim closed his eyes and leaned back and smiled,
@@ -62,7 +62,7 @@ and then correct my order."
 
 "My order was wrong," he agreed. "Eighteen months of medicine
 in San Francisco and the bones still beat me."
-He said it lightly, the way he always said it,
+He said it lightly, as he always said it,
 eighteen months of school traded for a shovel and a boat north,
 a whole life folded into a joke by long practice.
 
@@ -85,7 +85,7 @@ That I want badly."
 So have you. You've carried the boxes."
 
 "And it has fed us for twenty-five years," he said,
-gently, closing it the way he closed things,
+gently, closing it as he closed things,
 not with a door but with a curtain.
 "Write your mother's people when you're settled.
 She'd want them knowing a doctor was coming up
@@ -277,8 +277,8 @@ the way you hear about weather in another town.
 Why had he not come to find her?
 
 She would have — she would have wanted —
-
 The sack of flour slipped out of her hand.
+
 It burst at her feet,
 and a white cloud rolled up to her knees
 and hung there, settling on her boots,

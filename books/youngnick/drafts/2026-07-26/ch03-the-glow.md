@@ -11,7 +11,7 @@ resting on a collection of rocks
 about six feet from the opening.
 The cave mouth stood to his left;
 to his right the ground fell away steep and sudden
-to the river, which had not stopped inviting him down.
+to the river, which was still daring him to fall.
 He almost hopped straight inside, glad to be done —
 and his instincts grabbed him by the collar and stopped him.
 No reason to rush now.
@@ -117,9 +117,8 @@ and he kept them on.
 
 He was lying down before he remembered the jerky.
 Four strips in an inside pocket, fire-warmed once, long cold.
-The hunger arrived all at once, the way it does
-when the body decides the emergency is over
-and submits its bill.
+The hunger arrived all at once,
+now that the body had decided the emergency was over.
 He ate two strips, slowly, making each one last,
 and put the other two back.
 The arithmetic on those two strips was short and unfriendly,
@@ -135,8 +134,7 @@ and the base camp was ahead of him,
 and he could smell meat on the outdoor grill.
 The red glow of the grill grew bigger as he came on,
 red and warm and sure of itself,
-and he leaned toward it the way you lean toward a door
-that is about to be opened for you.
+and he leaned toward it.
 
 He woke.
 
@@ -173,9 +171,9 @@ and even so a snag of rock caught his boot twice
 and nearly laid him out.
 The glow grew as he came on,
 larger and no brighter, red as banked coals,
-until he stood in front of the thing that was making it:
+until he stood in front of the thing that was making it.
 
-a mound of dirt, blocking the passage,
+A mound of dirt blocked the passage,
 higher than his waist,
 and the light was coming from underneath it.
 
@@ -221,8 +219,7 @@ and the digging went faster.
 Below the handle, glowing through its skin of dust,
 was wood — dark red, smooth, sound as the day it was cut,
 and the light was coming from inside it,
-from the wood itself,
-the way lamplight comes through a curtain.
+from the wood itself.
 He kept digging.
 
 A long edge came clear under his hands —
@@ -242,8 +239,7 @@ It was deeper than the others, and simpler —
 an oval socket the size of his palm,
 its edges worn smooth as a river stone,
 shaped to hold something that was not there.
-The carvings flowed toward it from both sides
-the way a current flows toward the deep part of the channel.
+The carvings flowed toward it from both sides.
 
 Nick went still with his fingers resting in the grooves.
 
@@ -259,7 +255,7 @@ it could keep one till morning.
 
 He dug until his arms gave out,
 and by then there was no more mistaking it.
-It finally made sense, and it made no sense at all.
+It finally made sense, but it made no sense at all.
 
 In the middle of the Alaskan mountainside,
 buried under the dirt floor of a hidden cave,

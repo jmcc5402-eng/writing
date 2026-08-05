@@ -10,8 +10,7 @@ The ground sample in his pack would tell Grin Bros. Mining
 whether this side of the mountain was worth the cost of working it.
 The method wasn't perfect,
 but it had called the ground right for years running,
-and the company had learned to lean on it
-the way a man leans on a rail he has tested twice.
+and the company had learned to lean on it.
 
 He scaled the last few rocks below the summit
 and reached into his pack for his equipment,
@@ -45,7 +44,7 @@ to pack a handful of tin containers with earth,
 working bare-fingered because the trowel demanded it,
 warming his hand in his armpit between tins,
 tamping each one and sealing it against the wet.
-Six containers, six depths, the way the Grins wanted it.
+Six containers, six depths, as the Grins wanted it.
 What anybody could read out of six tins of dirt
 was past his understanding,
 but the reading had come up riches before,
@@ -86,7 +85,7 @@ a row of emblems worked into it,
 shapes he had traced with a finger as a boy
 until he could draw them in the dirt from memory.
 His father had worn it every day of his life.
-Nick let the thought go the way he had learned to,
+Nick let the thought go as he had learned to,
 quick, before it could open any further,
 and started down.
 
@@ -111,8 +110,7 @@ The quiet of that no-sound stayed with him a few steps.
 Deep places did that to him.
 The morning the earthquake came, ten years ago,
 he had been angry at his father —
-angry the way only an eleven-year-old can manage,
-over old man Grin, over the way his father took it,
+over old man Grin, over how his father took it,
 quiet, every time, never once standing square to the man.
 Nick had been angry all that day,
 and by dark his father was gone,
@@ -222,7 +220,7 @@ One of the dogs lifted its head to watch him eat,
 decided he wasn't going to share, and went back to its burrow.
 The light went from yellow to gray.
 The river, somewhere below the cliff at the camp's edge,
-kept up its noise the way it had all week,
+kept up its noise as it had all week,
 a sound you stopped hearing until you stopped hearing anything else.
 
 Footsteps came up behind him, fast on the frozen ground.

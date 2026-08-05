@@ -220,8 +220,7 @@ not out loud, not even in his own head.
 A few days ago he had come into town for provisions,
 and Old Rob had been out front of the general store,
 sweeping snow off the boards like snow could be discouraged.
-Rob had squinted at him the way you squint
-at a page of small print.
+Rob had squinted at him.
 
 "I know that face," Rob said. "Don't tell me. I'll get it."
 
@@ -247,7 +246,7 @@ And that was when the feedstore door across the street opened
 and Grace came out of it with a basket on her arm.
 
 Ten years, and he'd have known her at twice the distance —
-known the walk, known the way she pushed her hair
+known the walk, known how she pushed her hair
 off her forehead with the back of her wrist,
 known her in the dark, probably, by the shape of the air.
 She stopped on the walk to settle the basket.
