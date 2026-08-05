@@ -7,13 +7,14 @@ critique and chapters review, `SUPERCONCEPTS.md`, and the dream review.
 
 ## Decide
 
-- ★ **The Book 1 lineage:** stay on the v2/trunk opening and mine the
+- ~~★ **The Book 1 lineage**~~ RULED 2026-08-05 (bible §7.8b): v2
+  trunk; frame mined. Was: stay on the v2/trunk opening and mine the
   2015 proposal-frame line, or adopt its frame (reader knows from line
   one). Unblocks ch5+, THREADS adoption, all Write items. → RECON §4
 - **Adopt v2 ch1–4 into the manuscript** (after the de-sheen pass) so
   their plants become canon. → chapters-review (e1); THREADS T28
-- **Surname:** lock Anderson (or keep it off the page). Johnson x4+ on
-  the page; Old Rob's line waits on it. → bible §7.3; RECON delta 3
+- ~~**Surname**~~ RULED 2026-08-05 (bible §7.3): no surname on the
+  page, ever; Rob's line rewords. → bible §7.3; RECON delta 3
 - ~~**Pushers/kill-check**~~ RULED 2026-08-05 (bible §3 Duff): the
   two Grins alone; nobody descends. Was: or Duff descending (2015
   line). → RECON delta 11; THREADS T15

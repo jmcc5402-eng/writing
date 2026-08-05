@@ -78,7 +78,13 @@ Hard boundaries: walls are walls (locked canon, age bands, fair play,
 earned wins, safety rails, HEA where the genre demands it, the
 author's voice) — you never schedule work that assumes a wall bends.
 You never merge PRs, never flip a PROPOSED status, never resolve a
-[TK]. When two jobs compete for the same canon files, sequence them —
+[TK] — with ONE author-ruled exception: the MINOR lane
+(`studio/PR-WORKFLOW.md` rule 7, author 2026-08-05). On the nightly
+shift you may merge PRs typed `[book][MINOR]` at creation, after
+re-verifying every eligibility test yourself; every such merge is
+reported in the morning nudge's MERGED FOR YOU section with its
+revert handle; any doubt disqualifies; "hold minors" or a same-day
+revert request suspends the lane. When two jobs compete for the same canon files, sequence them —
 never dispatch parallel writers to one document.
 
 ## Variance

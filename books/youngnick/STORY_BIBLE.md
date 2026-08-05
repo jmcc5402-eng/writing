@@ -229,10 +229,15 @@ recommendation, baked into the plan but easy to change if you disagree.
    "Santa" is never said. The reader assembles the clues (sleigh, reindeer, gifts
    overnight, the North Pole warp) and gets the delight of realizing it themselves.
    *We can revisit; see the trade-offs in the note below.*
-3. 🔵 **PROPOSED — Nick's surname stays light / rarely used.** Drafts have both
-   "Anderson" and "Johnson." For a Santa origin, leaning on **"Nicholas"** (→ *Saint
-   Nicholas*) is stronger than any surname. Recommendation: use **Anderson** if a
-   surname is needed, but keep it in the background.
+3. ✅ **LOCKED (author PR, 2026-08-05) — No surname on the page,
+   ever.** Drafts had both "Anderson" (×1) and "Johnson" (×4); the
+   ruling retires both. For a Santa origin, **"Nicholas"** (→ *Saint
+   Nicholas*) is the only name that matters, and an absent surname
+   quietly serves the myth — legends don't have last names. Prose
+   renders him Nick / Nicholas / "his father's son"; Old Rob's ch4
+   line rewords to need no surname; the [TK surname] placeholder
+   retires. If a future scene truly cannot avoid one (a legal
+   document, a ledger), that scene comes back here as its own PR.
 4. 🔵 **PROPOSED — Gold reveal: reader thinks "some," truth is "all."** The reader
    believes the Grins are only skimming; the full theft is revealed at the cove. The
    **earthquake** triggers the Grins' escape, so the tension doesn't depend on the
@@ -258,6 +263,17 @@ recommendation, baked into the plan but easy to change if you disagree.
    Klaus / Baum / Guinn lane. The 2026-07-26 draft chapters are written to
    this ruling. Easy to veto; if it stands, [TK: amend §11's "Novel
    (middle-grade)" rung to match].
+8b. ✅ **LOCKED (author PR, 2026-08-05) — Book 1 lineage: the v2 trunk
+   cold open (RECON §4, option 1).** The book opens as a straight
+   wilderness thriller; no proposal frame; the reader assembles the
+   Santa layer themselves (consistent with decision 2). The 2015
+   proposal frame is MINED, not adopted. The opening tournament
+   (`notes/opening-tournament-2026-08-05.md`) confirmed this lineage
+   under fresh pressure (30/35 vs 20 for the frame) and its three
+   grafts are approved candidates for the ch1 revision pass: the
+   mid-fall breath of flight-that-isn't, Grace's engagement needle at
+   the fire, and James's almost-warning. Unblocks ch5+, THREADS
+   adoption, and the v2 gate's N1.
 9. ✅ **LOCKED (author, 2026-07-27) — The climax: everything braids at the
    cliff.** The book's payoff is the ending where it all comes together:
    Nick finally gets the sleigh and the reindeer to truly fly, and he saves
