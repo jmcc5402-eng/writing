@@ -98,8 +98,13 @@ and it's already in your outline ("The town wakes to gold").
   glamour. Talks too much (leaks Nick's secret to Don). Follows Don's lead.
 
 ### Duff — the henchman
-- The Grins' muscle. One of the men who pushes Nick off the cliff and later comes
-  down to confirm the kill. Physical threat in the climax.
+- The Grins' muscle. Physical threat in the climax.
+- ✅ **RULED (author PR, 2026-08-05): the push is the two Grin
+  brothers alone, and nobody descends to confirm the kill** ("There
+  was no way down to start" — v2 ch2; the m22 trunk agrees). Duff's
+  old descend-and-check role (the 2015 line) is retired; he stays
+  the Grins' town muscle and the climax threat. Resolves RECON
+  delta 11 / THREADS T15 / v2 gate finding N2.
 
 ### Jim — Grace's father
 - Widowed miner. Once studied medicine in San Francisco before chasing the gold
