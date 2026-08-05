@@ -11,7 +11,7 @@ _Living state — update this rather than appending new summaries. Last updated:
 | **Series bible / story engine** | ✅ Locked — `series-bible/story-engine.md` |
 | **Character canon** | ✅ Locked — `characters/characters.md` |
 | **Book 1 — *The Petroglyph Mystery* (Maui)** | ✅ **ADOPTED** (v2 canon, PR #6 merged 2026-08-04) — author calls it 95% edited; final polish batched until Books 1–3 exist |
-| **Book 2 — Japan (Tokyo)** | ✅ Outline APPROVED (`plots/book-02-japan-outline.md`, names locked) — drafting awaits the author's explicit "draft" |
+| **Book 2 — Japan (Tokyo)** | ✅ Rung 3 FROZEN (four-para expansion ratified, PR #11 + continuity gate PASS) — season PR + rung-4 briefs next; prose awaits the author's explicit "draft" |
 | **Go-to-market roadmap** | ✅ Drafted — `roadmap/go-to-market.md` |
 | **Writers'-room agents** | ✅ Live at the workspace root, `../../.claude/agents/` (9 agents + outlining skill) |
 | **Reusable agents across books** | ✅ Done — see below |

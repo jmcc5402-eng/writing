@@ -1,7 +1,10 @@
 # Spytwins Book 2 — The Graffiti Mystery (Tokyo) — Four-Paragraph Expansion
 
-**PROPOSED — awaiting author approval (plot-architect 1.3.0, 2026-08-04,
-variance card A1)**
+**RATIFIED — author merge, PR #11, 2026-08-04.** (plot-architect
+1.3.0, variance card A1; continuity gate PASS —
+`notes/b2-expansion-gate-2026-08-04.md`; flags 1–3 ratified by the
+merge; flag 4 / gate finding K1 — the season — OPEN, decided by its
+own PR.)
 
 _Snowflake step 3: four paragraphs per chapter, expanding the APPROVED
 outline in `plots/book-02-japan-outline.md` (author, 2026-07-30). The
