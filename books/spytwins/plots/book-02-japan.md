@@ -112,8 +112,14 @@ B2 none / B3 Amanda) (author, 2026-07-30).
   the twins correct him and realize it sounded a little mean; once
   they don't and realize they probably should have helped. No
   touch-count formality — thrown in lightly.
-- Season = June (tsuyu): the rainy-dawn pattern is statistically
-  honest; school schedules apply to the friend and little painter.
+- Season = mid-September into October, the akisame autumn-rain
+  front (re-ruled by author PR 2026-08-04, superseding June/tsuyu):
+  the rainy-dawn pattern stays statistically honest, school
+  schedules still apply to the friend and little painter, autumn
+  festival season (aki matsuri) is real and rich — and the timeline
+  now reconciles with B1 canon: the Wilsons leave Maui "at the end
+  of the summer" (B1 ch12) after Kekoa's summer-break book, and
+  land in Tokyo as the akisame arrives.
 - Drafting directives from the same pass (accuracy, not new canon):
   koban officer reads dates from his own notes, never hands records
   to kids, and can say "if a shop owner files, I can act — nobody

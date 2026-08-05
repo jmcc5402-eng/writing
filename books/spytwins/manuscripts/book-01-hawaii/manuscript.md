@@ -3388,6 +3388,12 @@ off the tunnel floor into her backpack.
 
 They came out of the mountain into a low golden evening,
 the ocean laid out flat and shining all the way to the sky.
+
+On the grass by the trailhead, Amanda unzipped her backpack
+and threw the tennis ball as far as she could.
+Blazer brought it back like it was the fourth artifact.
+
+"For emergencies," she said. "This counted."
 Somewhere below, a truck was going to arrive at an empty road
 tonight, and wait, and give up.
 

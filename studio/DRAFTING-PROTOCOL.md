@@ -1,0 +1,112 @@
+# The Drafting Protocol (programmatic drafting)
+
+**PROPOSED 2026-08-04 — stages 1–2 of the ladder are author-decided
+(the four-paragraph expansion and the whole-book continuity gate);
+the rest becomes locked when the author blesses it.**
+
+The premise: drafting errors are cheapest at the level where they're
+introduced. So the book descends a ladder of representations, and
+every rung gets checked BEFORE the next expansion — continuity is
+verified on 6 pages before it can infect 90.
+
+## The ladder (each rung gated before the next)
+
+| Rung | Artifact | Gate |
+|---|---|---|
+| 1 | One sentence → one paragraph → four quarters | author approval (premise) |
+| 2 | 2–3 sentences per chapter + fair-play table | author approval (outline PR) |
+| 3 | **Four paragraphs per chapter** + world-state chain | **whole-book continuity review** |
+| 4 | Per-chapter beat brief (fact manifest + thread I/O) | mechanical checks |
+| 5 | First-draft prose, one chapter per run | review stack + linters |
+| 6 | Accepted chapter | THREADS/ledger updated |
+
+## The instruments
+
+1. **World-state chain.** Every chapter carries `STATE IN` /
+   `STATE OUT` lines — day + weekday, weather, time anchors, who
+   knows what, where every plot object physically is. Chapter N's
+   OUT must equal chapter N+1's IN; the chain is diffable and a
+   reviewer checks the seams, not the vibes. (B1's timing audit did
+   this retroactively; the protocol does it prospectively.)
+2. **Fact manifests.** A chapter's drafting brief enumerates the ONLY
+   facts the drafter may use — names, distances, prices, dates,
+   object locations — pulled from canon docs. A fact not in the
+   manifest may not appear in prose except as `[TK ...]`. Drafters
+   flag, never invent.
+3. **Blind drafting.** Prose runs get the brief, the voice sample,
+   and the relevant thread-index entries — NOT the neighboring
+   chapters. This kills tic-copying (the mechanism behind the
+   colon/dash epidemic): a tic can't propagate through a manuscript
+   the drafter never reads. Voice consistency comes from the fixed
+   sample; transitions get stitched in a dedicated seam pass.
+4. **The fair-play table is an executable spec.** Every clue row
+   claims its plant chapter and its payoff chapter; after drafting,
+   each claim is verified against the page by grep + read. A clue
+   that moved chapters is a finding, not a footnote.
+5. **Mechanical linters after every run** (anything greppable gets
+   grepped, never proofread): locked-name check; dangling
+   colon/dash sweep; banned-moves echo scan; timeline linter (every
+   day/weekday/countdown word against the state chain); wink counter
+   (S01 budget); reading-band spot check.
+6. **Fixed review stack, fixed order.** Continuity → developmental →
+   line, each producing NUMBERED findings; author rulings answer
+   findings by number; revisions cite the ruling IDs. Traceability
+   is what made the B1 revision auditable.
+7. **Acceptance is a state change.** THREADS.md and the series
+   ledger update only when a chapter is accepted — never on draft.
+
+## Why "uncreative" is right
+
+The creativity budget is spent at rungs 1–2 (premise, outline,
+voice) and inside sentences at rung 5. Everything between is
+logistics, and logistics is where continuity errors live. A
+programmatic middle doesn't flatten the book — it protects the two
+ends where the book actually lives.
+
+## The rung contract (standardized 2026-08-04)
+
+Why the ladder works at all: **the cost of a plot hole grows with the
+word count it's embedded in.** A timeline hole costs a line at rung 1,
+a paragraph at rung 3, a rewrite at rung 5. Every rung therefore runs
+the same contract:
+
+    expand → gate battery → author ratifies → FREEZE
+
+A frozen rung is canon for every rung below it; a hole found later is
+fixed at the rung that introduced it and re-derived downward
+(backpropagation) — never patched downstream.
+
+**Depth is bounded by decisions, not effort.** A new rung is justified
+only if it forces decisions the rung above didn't (who knows what,
+where objects sit, what day it rains). Past that point, recursion adds
+words that feel like rigor. Six rungs is the working ceiling.
+
+**Width is where AI compute goes.** A human plotter writes each rung
+once and can't afford an editor per rung. We can. The per-rung gate
+battery, from cheapest to richest:
+
+1. Mechanical linters (always): state-chain diff, names, timeline
+   words, dangling punctuation, wink counter.
+2. Continuity gate (always): full canon review, numbered findings.
+   Proven: B2 rung 3 caught a cross-book season contradiction (K1)
+   and a shutters-physics hole (K6) on six pages. Severity tiers:
+   in-book timeline/state findings BLOCK; cross-book calendar and
+   season findings are WARNING-tier only — the series floats
+   (author, 2026-08-05: "not necessarily perfectly chronological") —
+   flag, propose a cheap patch, never block drafting.
+3. Round-trip re-derivation (rungs 3+): a fresh agent that has never
+   seen rung N-1 reverse-engineers it from rung N; the diff against
+   the real rung N-1 is drift the forward reader can't see.
+4. Reader simulation (rungs 3+): kid-reader-panel on the expansion —
+   boredom, confusion, and guessed-the-ending checks before prose
+   exists.
+5. Adversarial pass (before author ratify): red-team the fair play
+   and the stakes at the current rung.
+6. Variant tournament (highest-value chapters only): N expansions
+   from different angles, judge panel scores against SUPERCONCEPTS,
+   winner takes the rung with the runners-up's best beats grafted in.
+
+**Simulate, don't prosify.** Anything that is really data — timelines,
+weather, object locations, who-knows-what — lives as a table checked
+like a program (B2's rain calendar), and prose refers to it rather
+than restating it.

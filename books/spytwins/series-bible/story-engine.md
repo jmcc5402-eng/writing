@@ -292,3 +292,54 @@ book (author, 2027-…)`. An auditor finding a violation WITH a waiver
 reports it as compliant-by-waiver; a violation WITHOUT one is still a
 finding — the point is never that rules can't bend, only that bending
 is on purpose and on the record.
+
+## The mystery-density dial (author, 2026-08-04)
+
+Book 1 ran DEEP: the crime carried layers of intrinsic detail —
+artifact provenance, a decodable symbol system, a mapped trail — and
+that density is what funded a full explanation movement in ch11.
+The author's ruling: **future books must not NEED that density.**
+
+- Every outline declares its density at outline time, next to the
+  location roster:
+  - **DEEP** — the mystery's subject matter carries its own body of
+    detail (a code, a provenance chain, a technical system); supports
+    a B1-style explanation movement in the climax chapter. (B1: deep.
+    B2: deep — the panel-key decode.)
+  - **MEDIUM** — a clean mystery whose solution explains itself in a
+    scene, not a chapter; the freed pages go to character, setting,
+    and the B-story.
+- Mix them across the series — "some with lots of detail and some
+  with just a medium amount" (author). Two DEEPs back-to-back is
+  fine; three in a row is a flag.
+- Never pad a MEDIUM mystery with fake depth to match B1, and never
+  judge a MEDIUM book as thin against B1's ch11 — the explanation
+  beat scales to the material, and the editorial agents judge it
+  against the declared dial, not against Book 1.
+
+## The Book 1 reference build (architecture)
+
+B1 as adopted is the series' proof text. The chapter-function map —
+what each chapter DOES — is the shape future books roughly match
+(the checklist stays lenses, not scenes; this is the load order):
+
+| Ch | Function |
+|----|----------|
+| 1 | Arrival; cast + rules fixture (dog, roam boundary, five dinners); the hook glimpsed |
+| 2 | The venue + the world; clue vocabulary begins; the public clock planted ON the page |
+| 3 | The crime lands close; authority declines (kids dismissed); the twins privately engage |
+| 4 | Investigation opens: suspects, first deduction (inside knowledge), the map |
+| 5 | Field expedition #1: physical adventure, evidence of the intruder, tools planted |
+| 6 | Deeper + closer: close call, decode progress, first reversal |
+| 7 | The villain gets a name (paper trail, not luck) |
+| 8 | Stakeout/overhear: villain's plan + private clock revealed; go to the trusted adult |
+| 9 | Setback: authority "makes inquiries," access lost, the two clocks fuse into a race |
+| 10 | The final expedition: discovery, the kids' trap plan, roles assigned |
+| 11 | Climax (kids' plan + adult parallel solve converge) + explanation + family reckoning |
+| 12 | Deadline KEPT on the page; rewards; feast; goodbye; next-city hook |
+
+Spine rules proven by B1: every climax capability is practiced on the
+page first; two clocks (public deadline + villain's private one) hand
+off; the explanation load sits in ch11 only at DEEP density; the
+honesty thread resolves at the family, not the police; ch12 is the
+deadline kept, never an epilogue.

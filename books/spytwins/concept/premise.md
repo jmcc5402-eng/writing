@@ -236,6 +236,26 @@ The project evolved across several years of drafts. These are now **locked**:
   a beat doesn't buy enough, cut it — B1's ch9 recall of Mom's
   blind-spot line is CUT from the v2 text under this ruling.
 
+- **[Canon decision, author 2026-08-05] The series floats —
+  cross-book chronology is soft.** B2 sits later in the same year as
+  B1 (September akisame, ruled via the season PR), but months and
+  seasons are never a hard blocker between books: the author's
+  ruling — "the series is not necessarily perfectly chronological."
+  This is the long-kids'-series tradition (the twins stay ~11 across
+  forty books; forty three-month assignments cannot fit real
+  calendars, and readers never ask). Operating rules:
+  - WITHIN a book, the timeline stays hard — state chains, day
+    numbering, rain calendars are load-bearing and gate-blocking.
+  - BETWEEN books, calendar/season mismatches are WARNING-tier
+    findings: the continuity gate still flags them and proposes a
+    cheap patch (K1 got one), but they never block drafting and
+    never force a re-rule on their own.
+  - Drafting hygiene keeps the float cheap: no on-page years, season
+    references stay inside their own book, and cross-book time
+    references stay vague ("last spring" only when load-bearing).
+  - The destination chain stays ordered (S05) even when the calendar
+    quietly resets.
+
 ## Open questions to settle later
 
 _Not blocking, but worth deciding as we go:_

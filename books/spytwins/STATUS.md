@@ -1,7 +1,7 @@
 # Project Status
 
 _Living state — update this rather than appending new summaries. Last updated:
-2026-07-25._
+2026-08-04._
 
 ## Where things stand
 
@@ -10,15 +10,25 @@ _Living state — update this rather than appending new summaries. Last updated:
 | **Concept & 40-book arc** | ✅ Locked — `concept/premise.md` |
 | **Series bible / story engine** | ✅ Locked — `series-bible/story-engine.md` |
 | **Character canon** | ✅ Locked — `characters/characters.md` |
-| **Book 1 — *The Petroglyph Mystery* (Maui)** | ✅ Complete: imported, copy-edited, 4 structural plot fixes applied |
-| **Book 2 — Japan (Tokyo)** | 🧩 Starter outline only — `plots/book-02-japan.md` |
+| **Book 1 — *The Petroglyph Mystery* (Maui)** | ✅ **ADOPTED** (v2 canon, PR #6 merged 2026-08-04) — author calls it 95% edited; final polish batched until Books 1–3 exist |
+| **Book 2 — Japan (Tokyo)** | ✅ Rung 3 FROZEN (four-para expansion ratified, PR #11 + continuity gate PASS) — season PR + rung-4 briefs next; prose awaits the author's explicit "draft" |
 | **Go-to-market roadmap** | ✅ Drafted — `roadmap/go-to-market.md` |
 | **Writers'-room agents** | ✅ Live at the workspace root, `../../.claude/agents/` (9 agents + outlining skill) |
 | **Reusable agents across books** | ✅ Done — see below |
 
 ## Book 1 detail
 
-A complete 12-chapter manuscript at `manuscripts/book-01-hawaii/manuscript.md`.
+The v2 rewrite is CANON as of 2026-08-04 (adoption PR #6): twelve
+chapters read and ruled on by the author line by line, with the
+two-door climax, the day-21 clock, the culture-pass fixes, and the
+post-adoption orthography sweep all in. **Program plan (author,
+2026-08-04): Book 1 is done for now at ~95% edited; the remaining
+polish happens in one batch once Books 1–3 are written; publishing
+begins when four books exist (per `roadmap/go-to-market.md`).**
+Open micro-decisions ride as PRs #8–#10 (Kalani job, Kekoa season,
+tennis ball). Pre-publication: Native Hawaiian sensitivity reader.
+
+Original import notes: a complete 12-chapter manuscript at `manuscripts/book-01-hawaii/manuscript.md`.
 Work done: cleaned from the Google Docs export, chapter headings normalized,
 continuity bug fixed (villain was called "Dr. Chen" in two places — now "Dr. Lee"
 throughout; note "Coach Chen" is a *different*, intentional character), a full
