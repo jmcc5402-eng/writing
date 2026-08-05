@@ -443,3 +443,30 @@ Maximum four. This supersedes the 40-book / 4×10 ambition in
 
 *This bible is a living document — as we lock decisions and write, it gets updated
 so it's always the current truth of the story.*
+
+## 13. Adopted-prose canon ledger (started 2026-08-05)
+
+_Facts the adopted v2 chapters establish on the page — canon the
+moment the adoption PR merges; drafting briefs may rely on them._
+
+**From ch1–4 (adoption PR, 2026-08-05):**
+- James Grin's tell: he laughs at everything; the morning of the
+  push, he didn't laugh.
+- Old Rob runs the general store and keeps the mail book.
+- Journey canon: barge Seattle→Juno (Nick turned twenty-one aboard,
+  bottom deck), then the mail boat up the channel to Bronston; the
+  supply/mail boat calls Thursdays; the expedition site is three
+  days' walk from town; Bronston lies downstream of the mountain.
+- Camp geography: a bench between the mountain's foot and a
+  ~100-foot cliff over the river; six sample tins at six depths is
+  the Grin Bros. method.
+- The father-wound plants: the creed as trapline catechism; the
+  belt-memory (a row of emblems traced as a boy — the decision-7
+  recognition plant); Nick's anger the day of the earthquake.
+- The sleigh carvings include an empty palm-sized oval socket
+  (decision 7's groove, first time in prose).
+- Grace/Jim texture: Grace mends for Mrs. Jones [TK relation to Tim
+  Jones]; bones-of-the-hand quizzes at six; the bear-trap line was
+  her mother's; Jim's "fed us for twenty-five years"; Jim's
+  birthday is Thursday next; the snow-well rescue memory.
+- Nick stands six feet.

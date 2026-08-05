@@ -38,3 +38,11 @@ the author ruled lineage (#13), pushers (#14), and surname (#15):
 - Dangling colon/dash sweep after editing: zero hits.
 - Four stylistic proposals NOT applied — riding as micro-decisions
   on the adoption PR.
+
+## 2026-08-05 — ADOPTION: v2 ch1–4 become the manuscript's opening
+
+`manuscript/manuscript-v2.md` created from the four gated, patched,
+de-sheened chapters — the rewrite's source of record. The legacy
+trunk (`nick-manuscript-22.md`) stays as reference for ch5+ mining,
+no longer edited. Bible §13 opens the adopted-prose canon ledger.
+Adopted by the author's merge of the adoption PR.
