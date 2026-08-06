@@ -12,3 +12,5 @@ card, flag it in `../BACKLOG.md`.
 | 2026-07-27 | dream-critic (youngnick) | C6 comp-shelf read | books/youngnick/notes/dream-review.md |
 | 2026-07-27 | dream-critic (spytwins) | C4 first-timer read | books/spytwins/notes/dream-review.md |
 | 2026-07-27 | dream-critic (mybyb) | C2 bookseller read | books/mybyb/notes/dream-review.md |
+| 2026-08-06 | plot-architect (campus series) | A1 antagonist-first | books/campus-series/BRAINSTORM.md |
+| 2026-08-06 | culture-researcher (campus series) | A3 sensory inventory | books/campus-series/BRAINSTORM.md |
