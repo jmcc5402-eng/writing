@@ -25,6 +25,16 @@ author's to-do list; merges are decisions; nothing waits on memory.
   method. Detail density varies by design. The series floats —
   cross-book chronology never blocks.
 
+## How the author's attention works (author, 2026-08-06)
+
+High-level concepts, arcs, and technical plotting decisions are easy
+to work on in short windows — 30 minutes can move an N+2 plot. Deep
+prose-creative focus is rarer and can't be scheduled. So the queue
+should ALWAYS offer at least one high-level/plotting gate (an arc
+ruling, an N+2 quarters approval, a series decision) alongside any
+deep-read item — whatever window opens, there is momentum work that
+fits it. Never let the queue become all deep-reads.
+
 ## What "good" looks like each morning
 
 Every book moved one visible increment overnight, or the nudge names
