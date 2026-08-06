@@ -369,7 +369,13 @@ preserved: one building → one college → the program's identity → the
 program's existence. Students appear only in aggregate and as
 artifacts throughout.
 
-## 3. The parent-board promotion
+## 3. The parent-board engine
+
+> **Scope note (locked standard 3, added after this run):** the town
+> is the theme and the spine; the boards are one town institution
+> among several. Everything below stands, but scaled as one engine
+> alongside the diner, the inn, the pub, the paper, and the gala —
+> not as the series' organizing device.
 
 1. **Admin rights as plot currency.** When the leads are the parents,
    moderator seats are political offices. Boyd must capture Marisol's
@@ -423,7 +429,7 @@ artifacts throughout.
 | S08 the toddy | fine | Unchanged |
 | S09 Veritas returns | fine | Ed-tech pivot lands in 4.1's sponsor — already adult |
 | S10 director's second chance | needs-tweak | Fold her resolution into 4.2's B-story margins, or keep deliberately minor — decide |
-| S11 The Board | needs-rework (upward) | Promoted to spine thread; plant 1.1 admin war → astroturf 1.3–1.4 → listserv siege 2.3 → transatlantic chat 3.x → fan account 4.1 → burner unmasked + archive pays S05 at 4.4 |
+| S11 The Board | needs-rework (upward) | Promoted to a major thread — subordinate to the town theme (locked standard 3): plant 1.1 admin war → astroturf 1.3–1.4 → listserv siege 2.3 → transatlantic chat 3.x → fan account 4.1 → burner unmasked + archive pays S05 at 4.4 |
 | Mega-theme 1 (cozy is earned) | fine | Community now includes the cast |
 | Mega-theme 2 (built to leave) | needs-tweak | Transience vocabulary regrown from adult sources: contracts, visas, tenure clocks, leases, the empty nest |
 | Mega-theme 3 (load-bearing obstacles) | fine | Easier with adults; keep the test verbatim |
@@ -462,3 +468,14 @@ artifacts throughout.
 - [ ] Steam register at this life stage — same mid ceiling, adult
       vocabulary; write it into the steam definition rather than
       improvise
+- [ ] **Name the towns before the colleges** (locked standard 3: each
+      set's identity is its town). Hollis Falls exists; the SEC,
+      London, and California towns need names, maps, and non-campus
+      economies as prominent as the schools'
+- [ ] **Build each town's chorus beyond the boards** — the diner
+      counter, the pub regulars, the market vendors, the booster
+      gala circuit: recurring town voices that are not parents and
+      not online
+- [ ] **Town-institution census per set** — the standard-21 chapter
+      test needs each bible to list its town's rooms (who owns them,
+      what they smell like, what they're worth) before outlining

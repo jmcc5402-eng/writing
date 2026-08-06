@@ -15,6 +15,13 @@ Last updated 2026-08-06.
    plot on the page. The cast is the adult world of the college town.
 2. **Target reader: 35–45.** Leads, stakes, humor, and life-stage
    texture are written for this reader, not for the New Adult shelf.
+3. **The college town is the theme — not the student/parent dynamic.**
+   The series is about the towns themselves: the whole ecosystem of
+   adults who make a college town run — owners, staff, faculty,
+   coaches, townies, alumni, and parents as one slice among them.
+   The parent boards are one town institution and one thread of town
+   life, not the premise or the spine. Each set's identity is its
+   town, not its student body. (Author, 2026-08-06.)
 
 ## The offstage-student mechanic (proposed)
 
@@ -93,6 +100,14 @@ A testable rule, so every chapter can be checked against it:
 19. **Canon docs before drafting.** Bible, THREADS.md, SUPERCONCEPTS.md
     per the workspace process; decisions recorded, not remembered.
 20. **Pen name firewalled** from the middle-grade titles. [TK: name]
+21. **Superconcept candidate — "the town is the character."** Every
+    book shows the town *working* — its economy, rituals, seasons,
+    and rooms — beyond the campus gates and beyond the parent
+    boards. *Chapter test:* could this scene happen in any town? If
+    yes, it hasn't earned this one. Second test: does the chapter
+    touch at least one town institution that is not the college and
+    not a chat room (the diner, the inn, the pub, the paper, the
+    sugarhouse, the surf shop, the market)?
 
 ## Implications of the pivot (flags, not fixes)
 
@@ -101,11 +116,13 @@ A testable rule, so every chapter can be checked against it:
   with adult couples. The container, set-antagonist structure,
   mega-themes, S## thread mechanics, setting research, and the
   parent-group engine all survive.
-- **The parent-group engine is promoted from garnish to core.** The
-  chat rooms stop being a Greek chorus about the leads and become the
-  leads' own arena — the parents, coaches, staff, and town adults ARE
-  the cast. The comedy of the boards is now self-recognition comedy
-  for the exact target reader.
+- **The parent-group engine is promoted from garnish to a major
+  engine — but subordinate to the town (locked 3).** The chat rooms
+  become an arena the leads inhabit rather than a chorus about
+  students, and the comedy is self-recognition comedy for the target
+  reader. But the board is one town institution among several; the
+  diner counter, the pub, the inn, the gala, and the market carry
+  equal weight as the town's rooms.
 - **Adult-cast candidates per world** (sketch, not canon): SEC — the
   coach, the athletic trainer, the booster's CFO, the BBQ owner, the
   compliance officer, the parent-group admin mom; New England — the
