@@ -14,3 +14,4 @@ card, flag it in `../BACKLOG.md`.
 | 2026-07-27 | dream-critic (mybyb) | C2 bookseller read | books/mybyb/notes/dream-review.md |
 | 2026-08-06 | plot-architect (campus series) | A1 antagonist-first | books/campus-series/BRAINSTORM.md |
 | 2026-08-06 | culture-researcher (campus series) | A3 sensory inventory | books/campus-series/BRAINSTORM.md |
+| 2026-08-06 | plot-architect (campus series, adult-cast regen) | A2 subplot audit | books/campus-series/ADULT-CAST-IDEAS.md |
