@@ -415,7 +415,86 @@ texture contrasts hardest with the other three)
       ledgers as outlines are approved
 - [ ] Box-set and reader-magnet plan per set (Scenario C mechanics)
 
-## 10. Confidence flags
+## 10. The parent-group engine (added 2026-08-06)
+
+Author's concept: the online ecosystem of college-parent groups — the
+university "Parents & Families" Facebook groups, athlete-parent boards,
+team GroupMes, recruiting forums where parents lurk while strangers
+grade their kids. A comedy engine, a gossip engine, and (used
+carefully) a plot engine. Ways in:
+
+**Format idea — the Greek chorus.** Interstitial parent-group posts
+between or opening chapters: the group commenting on events the reader
+just watched, wildly misreading them. The modern town-gossip chorus,
+epistolary and cheap to write. Also a packaging differentiator:
+"told partly in unhinged parent-group posts" is a marketable hook, and
+the romance readership demographic *includes these parents* — the
+humor must be recognition, never contempt. Lovingly unhinged.
+
+**Comedy set pieces (all drawn from real behavior):**
+- Flight-tracker parents following the team charter; a delayed plane
+  spawning a 400-comment thread
+- The mom in the group asking why her son "hasn't eaten in three days"
+  (dining hall closed for cleaning)
+- Life360 fallout: a mother watching her daughter's dot sit at the
+  team captain's house at 2 a.m. — the leads outed to a parent before
+  they've defined the relationship themselves
+- A parent joining a class group chat pretending to be a student
+- Rush moms with binders; a hired "recruitment consultant"
+- The meal train that becomes a surveillance network
+- A burner account in the parent group with suspiciously good inside
+  information — identity mystery (candidate payoff: the archivist, or
+  the trustee lurking)
+
+**Plot-load-bearing uses (per the no-wallpaper rule):**
+- Set 1: Boyd astroturfs the parent group to build support for the
+  stadium expansion — the save-the-House campaign has to win the moms;
+  the parent board is a battlefield, not a backdrop
+- 1.2 gold: the coach's daughter dating the walk-on kicker *while the
+  athlete-parent board campaigns to have him cut* — and the coach
+  reads the board's verdicts on himself
+- The group's decade-deep photo archive feeds the evidence stack
+  (S05): a blurry 2009 tailgate photo proves who knew what
+- "The Quad" zine (S06) in screenshot warfare with the parent group —
+  students post parents, parents post students
+- The relationship-reveal mechanic: a parent's tailgate photo does
+  what the town dance did in older romances
+
+**Per-set variation (keeps 16 books fresh):**
+- **Set 1 — maximal.** The mega Facebook group plus athlete boards;
+  parents physically present every game day; chandelier-tent energy.
+- **Set 2 — intimate.** One listserv where every parent knows every
+  kid by name; parents' weekend books out the Lantern Inn; the
+  village-gossip physics extended one generation up.
+- **Set 3 — long-distance farce.** The American parents' group chat
+  helicoptering across an ocean and five time zones ("she hasn't
+  answered in NINE hours" — she's at the pub); UK flatmates baffled by
+  the entire concept; the surprise-visit episode. The comedy of
+  absence and contrast.
+- **Set 4 — the content economy.** 4.1's volleyball star's mother runs
+  her fan account and NIL brand — the parent group as *publicist*;
+  sharenting conflict; private-group parents vs. comment-section
+  parents.
+
+**Carry-through candidates:** one parent recurring across sets — the
+kicker's mother bridges Sets 1–2 naturally (two kids in the series) —
+as the parent-group fixer who becomes an ally of the program. Or fold
+it into S03: managing parent groups is part of the coordinator's job
+description, a constituency she works at every campus.
+
+**Thread candidate — S11, "The Board."** Plant 1.1 (the group exists,
+comic interstitials begin); carry: the astroturf fight (1.3–1.4), the
+listserv (Set 2), the time-zone chat (Set 3), the fan account (Set 4);
+OWED → the burner account identified + the archive's photo evidence
+pays into S05 at the hearing.
+
+**Mega-theme fit:** parents are where theme 4 lives ("every love story
+finishes an older one") — the group is the elders' stage, and at least
+one parent-group regular should get their own quiet arc. Also feeds
+theme 1: the meal train, the caravan, the moms who show up — cozy is
+earned by community, and the community includes the parents.
+
+## 11. Confidence flags
 
 Setting rituals and structural facts above are documented (sources in
 the researcher's run: Grove dress code, Mountain Day mechanics, UK
