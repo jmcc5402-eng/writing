@@ -1,5 +1,14 @@
 # Campus Series — Brainstorm
 
+> **PIVOT NOTE (2026-08-06, after this doc was written):** the author
+> locked two constraints in `STANDARDS.md` — **no students as active
+> characters** (discussed, never on stage) and **target reader 35–45**.
+> The couple grid in §3 predates this and is invalidated as written:
+> all sixteen couples were students. The container, set antagonists,
+> mega-themes, thread mechanics, setting research, and the parent-group
+> engine (§10) survive; the grid needs regeneration with adult couples.
+> See STANDARDS.md "Implications" for the adult-cast direction.
+
 **Working title:** [TK — series name undecided; placeholders throughout]
 **Status:** brainstorm only. Nothing here is canon. Every name — schools,
 towns, people, the series title itself — is a placeholder to make options
