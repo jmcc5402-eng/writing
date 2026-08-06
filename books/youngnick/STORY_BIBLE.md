@@ -293,6 +293,20 @@ recommendation, baked into the plan but easy to change if you disagree.
    (the `((Intro into Nick and Knots))` note in scene 1.4, the harness
    knots, ch19's baker knot chosen for speed over strength). [TK:
    mechanics of the knot save — which knot, and what it costs.]
+9b. ✅ **LOCKED (author PR, 2026-08-06) — The ending shape: the
+   VANISH.** The town never learns Nick lived or that the gifts were
+   his — the book closes on "Nick who?", exactly as the trunk prose
+   wrote it. No confession scene (the childrens-v1 / snowflake-ch26
+   confession line is retired). Grace alone holds the whole truth —
+   the rescue, the proposal, the belt returned — and keeps it, which
+   is what turns her into the legend's first keeper and leaves the
+   town with a miracle instead of a man. Serves SC5 (the gift with no
+   giver stays giver-less), decision 2 (the reader-wink), and the
+   myth itself: a Santa who is thanked in person stops being Santa.
+   §6 Book 4's aftermath line amends to match: the love confession
+   and belt return happen AWAY from town eyes, before the warp.
+   Follow-up decision (its own PR): which 4.8 climax VARIANT — main
+   scene / police-interrupt / "a Grin survives and sees Nick fly."
 10. ✅ **LOCKED (author, 2026-07-27) — The wake-to-gold morning is subtle.**
     The town waking to its returned gold is a quiet gift along the way —
     deliberately understated, one grain of the legend among several — NOT
