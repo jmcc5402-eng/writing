@@ -15,3 +15,4 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-06 | plot-architect (campus series) | A1 antagonist-first | books/campus-series/BRAINSTORM.md |
 | 2026-08-06 | culture-researcher (campus series) | A3 sensory inventory | books/campus-series/BRAINSTORM.md |
 | 2026-08-06 | plot-architect (campus series, adult-cast regen) | A2 subplot audit | books/campus-series/ADULT-CAST-IDEAS.md |
+| 2026-08-06 | developmental-editor (campus series, alignment audit) | E6 weight what's missing | books/campus-series/notes/alignment-audit.md |
