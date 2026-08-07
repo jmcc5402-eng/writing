@@ -62,3 +62,40 @@ since the work of pitching generalizes across books.
 Spytwins is the only book far enough along to be in two stages at once — Book 1
 is finished and needs selling, Book 2 needs outlining. Its `STATUS.md` is the
 live detail.
+
+## The Stagger (author rule, PROPOSED 2026-08-06)
+
+How far ahead future books run while the current one ships. Lead is
+measured in RUNGS (the drafting-protocol ladder), never in prose —
+plans age well, prose written ahead ages badly (every canon change
+in the current book invalidates it retroactively).
+
+**Series gates:**
+- **S1 — before any prose:** the series spine exists on paper:
+  premise, the mega-arc shape, the 3–4 super concepts, and the
+  repeatable engine.
+- **S2 — before book 1 ships:** the series bible locks the primary
+  long-arc conflicts and their intended resolution shape, plus the
+  thread ledger and book 2's required hand-forwards.
+
+**The book stagger (N+1/N+2 rule).** While book N is in prose:
+- N+1 holds rung 2–3 (approved outline; gated expansion before N
+  ships — so N's final changes flow into N+1 while they cost a
+  paragraph, and N's last-chapter hook is written against a
+  verified next book).
+- N+2 holds rung 1 (premise + four quarters).
+- N+3 is at least NAMED in the destination chain.
+- Promotion trigger: when book N is accepted, everyone shifts up a
+  rung.
+
+**The one hard line:** no prose for book N+1 until book N is
+accepted. Rungs spend agent time; prose spends the author's
+reading/ruling bandwidth — the resource that ships books. Waivable
+only by explicit author call (a WAIVED line).
+
+**Staleness rule:** a future-book rung older than the current
+book's latest canon is re-gated before use.
+
+**Momentum clause:** when the current book is blocked on an author
+gate, the showrunner's dispatchable jobs preferentially advance
+future-book rungs — momentum never competes with shipping.
