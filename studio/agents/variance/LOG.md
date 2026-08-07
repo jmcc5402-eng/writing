@@ -45,3 +45,7 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-07 | utility judge (youngnick 4.8 climax variants) | — | notes/climax-variant-judging-2026-08-07.md |
 | 2026-08-07 | utility compiler (spytwins B2 rung-4 briefs) | — | plots/book-02-briefs.md |
 | 2026-08-07 | showrunner (nightly shift, in-session) | — | this shift |
+| 2026-08-06 | plot-architect (campus series brainstorm) | A1 antagonist-first | books/campus-series/BRAINSTORM.md |
+| 2026-08-06 | culture-researcher (campus series settings) | A3 sensory inventory | books/campus-series/BRAINSTORM.md |
+| 2026-08-06 | plot-architect (campus series, adult-cast regen) | A2 subplot audit | books/campus-series/ADULT-CAST-IDEAS.md |
+| 2026-08-06 | developmental-editor (campus series, alignment audit) | E6 weight what's missing | books/campus-series/notes/alignment-audit.md |
