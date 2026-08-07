@@ -217,7 +217,7 @@ fictionalize commercial branding; culture pass at rung 2.]
 
 ## Location roster (draft, per the 2026-08-04 rule)
 
-Recurring (3, under the cap, no confusable names):
+Three recurring locations — under the cap, no confusable names.
 
 - **HOME** — the rented island cottage on the Ward's lanes; wagon
   in the yard, tally on the fridge; five minutes' walk from the
@@ -259,11 +259,11 @@ maze (one camp scavenger hunt), Centreville and the petting farm
 **Stakes ladder:** camp embarrassment → a friend's grandmother
 accused → the island's vote poisoned by forgery → cleared with
 hours to spare. **Earned, not lucky:** the one-dawn window is
-deduced from the timetable and the forecastless boat schedule, not
-stumbled into; every climax capability (canoe, radio net, dock
-ledger) is practiced on the page first; adults hold the proof and
-the vote, the twins' plan cracks the case (SC2). **Dangling:** B4
-hook [TK] is the only intended open end.
+deduced from the timetable and the dock-count ledger, not stumbled
+into; every climax capability (canoe, radio net, dock ledger) is
+practiced on the page first; adults hold the proof and the vote,
+the twins' plan cracks the case (SC2). **Dangling:** B4 hook [TK]
+is the only intended open end.
 
 ## Series ledger line
 
