@@ -41,3 +41,7 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-05 | continuity-keeper (youngnick v2 ch1-4 vs bible) | E5 dialogue mechanics first | youngnick gate sample |
 | 2026-08-05 | plot-architect (youngnick books 2-4 sketch) | A3 sensory inventory | youngnick series sketch |
 | 2026-08-05 | line-copy-editor (youngnick v2 de-sheen pass) | E3 work in reverse order | drafts/2026-07-26 ch1-4 |
+| 2026-08-06 | plot-architect (campus series brainstorm) | A1 antagonist-first | books/campus-series/BRAINSTORM.md |
+| 2026-08-06 | culture-researcher (campus series settings) | A3 sensory inventory | books/campus-series/BRAINSTORM.md |
+| 2026-08-06 | plot-architect (campus series, adult-cast regen) | A2 subplot audit | books/campus-series/ADULT-CAST-IDEAS.md |
+| 2026-08-06 | developmental-editor (campus series, alignment audit) | E6 weight what's missing | books/campus-series/notes/alignment-audit.md |
