@@ -49,3 +49,7 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-06 | culture-researcher (campus series settings) | A3 sensory inventory | books/campus-series/BRAINSTORM.md |
 | 2026-08-06 | plot-architect (campus series, adult-cast regen) | A2 subplot audit | books/campus-series/ADULT-CAST-IDEAS.md |
 | 2026-08-06 | developmental-editor (campus series, alignment audit) | E6 weight what's missing | books/campus-series/notes/alignment-audit.md |
+| 2026-08-08 | utility bookkeeper (youngnick THREADS fold-in) | — | THREADS.md adoption fold |
+| 2026-08-08 | utility compiler (youngnick ch5 brief) | — | plots/ch5-brief.md |
+| 2026-08-08 | junior-literary-critic (mybyb keep-warm read) | C3 dialogue-only first pass | notes/ outside read |
+| 2026-08-08 | showrunner (nightly shift, in-session) | — | this shift |
