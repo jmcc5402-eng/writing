@@ -1,6 +1,6 @@
 # Young Nicholas — Books 2–4, Snowflake Rungs 1–2
 
-PROPOSED — rung 1–2 sketch awaiting author approval
+RATIFIED as the working series shape — author merge of the ratification PR, 2026-08-07. (Was: PROPOSED — rung 1–2 sketch awaiting author approval) Open questions inside remain PROPOSAL-tagged; each graduates via its own PR.
 (plot-architect 1.3.0, 2026-08-05, variance card A3)
 
 Per the rung contract (`studio/DRAFTING-PROTOCOL.md`): this is the
