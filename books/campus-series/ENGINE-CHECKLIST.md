@@ -42,3 +42,35 @@ plus this series' own machinery.
 
 Heat placement per the locked ladder ([TK: steam definition]) rides
 on the outline spine, not this table.
+
+## The emotional register (author-approved 2026-08-08)
+
+The angst dial, formalized. Every book keeps its dark-moment beat —
+the register varies **amplitude, not presence** — and the HEA walls
+are untouched at every level.
+
+- **Per-quartet cadence, declared at premise time:** fall bright and
+  banter-forward (~4/10); **winter is the heavy one** (~9/10 — grief,
+  loss, the deepest wound; the season carries it); spring mid-weight
+  (~6, the natural slot for an on-page emergency); summer warm and
+  communal (~5, happy tears, the set's resolution). The cadence
+  RESETS each quartet — a wave, not a ramp.
+- **Heavy books are signaled in packaging** — the blurb whispers
+  "tissues." Tonal ambush, not darkness, is what earns one-stars.
+- **False-alarm setpiece:** max one per quartet, never twice in the
+  same shape. The fear must change someone irreversibly while it
+  lasts (what's revealed stays revealed); the escape must be earned
+  or paid in another currency — never pure evaporation (hard rule 5
+  applies to dread too).
+- **The culprit bench:** each quartet may plant ONE redeemable
+  wrongdoer whose book comes ~2 books later. Harm capped: survivable;
+  never kids, never sexual, never animals, never infidelity-for-
+  sympathy. Amends run as witnessed background cameos (deeds, not
+  apologies) across the gap; the victim rules on forgiveness ON THE
+  PAGE, and the earlier book is never retconned softer; the town's
+  re-acceptance is part of the HEA. One active redemption arc at a
+  time.
+- **Register walls (never crossed at any angst level):** no dead
+  leads, no broken couples at the end, no serious harm to offstage
+  kids (the scare-that-resolves-safe is the ceiling, used sparingly),
+  and never the dog.
