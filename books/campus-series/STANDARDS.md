@@ -8,6 +8,13 @@ Last updated 2026-08-06.
 
 ---
 
+**Author note (2026-08-08):** ship four at a time — the quartet is
+the unit of work and of launch; sixteen is long-term vision, not a
+plan of record. And every rule below is negotiable by PR: rules
+exist to protect the books, not to veto great ideas — when an idea
+collides with a rule, open the PR and argue it; only the genre walls
+(HEA, consent, safety rules R1–R2) are non-negotiable.
+
 ## Locked (author, 2026-08-06)
 
 1. **No students as active characters.** Students may be discussed,
