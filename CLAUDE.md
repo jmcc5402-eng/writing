@@ -81,6 +81,26 @@ studio: add query letter template
 agents: drafting-assistant 1.1.0 — add anti-sheen rule
 ```
 
+## Working in sessions (multi-thread discipline)
+
+Multiple threads work this repo in parallel — one series per thread.
+Threads are disposable; the repo is the brain. Anything not committed
+doesn't exist to other threads.
+
+- **Sync at the start of every work stint** — a fresh session AND any
+  return to an idle thread: `git fetch origin main`, review what moved
+  (`git log --oneline HEAD..origin/main`), and re-read any changed
+  canon or studio docs before acting. Main moves while threads sleep;
+  working from a stale view is how two threads invented the same
+  romance series twice (see D01, 2026-08-08).
+- **Decisions leave the thread fast.** A ruling that exists only in a
+  conversation is invisible to every other thread — commit it, or PR
+  it, the same day.
+- **Cross-series material belongs to `studio/`.** Shared universe
+  furniture (invented platforms, invented shows, crossover cameos)
+  lives in `studio/SHARED-CANON.md` — PR-governed; no single series
+  may quietly redefine it.
+
 ## Conventions
 
 - **Prose is Markdown.** Manuscripts, bibles, outlines, notes — all `.md`.
