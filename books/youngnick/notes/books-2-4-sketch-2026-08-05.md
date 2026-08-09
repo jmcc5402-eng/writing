@@ -3,6 +3,10 @@
 RATIFIED as the working series shape — author merge of the ratification PR, 2026-08-07. (Was: PROPOSED — rung 1–2 sketch awaiting author approval) Open questions inside remain PROPOSAL-tagged; each graduates via its own PR.
 (plot-architect 1.3.0, 2026-08-05, variance card A3)
 
+Prose restyled to the write-for-a-stranger standard (plot-architect
+1.4.0, 2026-08-08, card A5) — content unchanged from the 2026-08-05
+sketch.
+
 Per the rung contract (`studio/DRAFTING-PROTOCOL.md`): this is the
 rung-1 material (one sentence, one paragraph, four quarters) for each
 of the next three books, plus the series-level ledger the rung-2
@@ -70,80 +74,139 @@ arrives as plot necessity, in an Alaskan's vocabulary.
 
 ## One sentence
 
-When the warp strands Nick, the sleigh, and three caribou at an
-unmapped station at the top of the world with a cracked runner and
-twelve days of feed [TK exact counts], Nick must rebuild the sleigh
-with a dead man's tools and fly home before the feed and the last of
-the sun run out — and discover that someone kept this station, and
-this work, long before him.
+Stranded at the top of the world with a broken sleigh, three hungry
+caribou, and twelve days of feed between him and the winter-long
+dark, a young man his whole town believes is dead must rebuild his
+one way home with a dead stranger's tools, in a hidden workshop
+whose tally-wall says someone did this work, unthanked, long before
+him.
 
 ## One paragraph
 
-The warp ends in a hard landing on an ice shelf under a ridge that
-glows faintly along a seam — a cavern station of cold forges,
-benches, seasoned wood, and a tally-wall counting years of unthanked
-work; the sleigh's runner is cracked, the compass stone dark, and
-Nick's survival ledger (feed, food, daylight) starts counting on
-page one. (D1, ~25%) Getting home stops being a ride and becomes a
-build: no forage grows here, the caribou are eating the sleigh's
-cargo, and the stone will not wake — outer goal locks, rebuild and
-fly out before dark-season. (D2, ~50%) A three-day storm calves the
-shelf and cuts the caribou off from the last lichen flats; saving
-them costs Nick the station's stock of seasoned runner-wood, and he
-commits — moves everything into the deep chamber, no overland way
-back, home now only by flight. (D3, ~75%, his own progress
-backfires) His improvised runner survives the test flight but his
-"improvement" — re-cutting the stone's socket to brace the new
-frame — kills the stone's orientation-glow entirely: full dark, a
-flightless sleigh, an empty feed sack. Resolution shape: craft and
-recognition, not luck — the tally-wall's markings teach him what the
-socket's maker knew about setting the stone to the sky; on the first
-clear night of the polar dark he re-seats it by the North Star and
-flies home the long way under the aurora, to a Bronston where Grace
-has sailed and a reader who knows, as Nick does not, that Donald
-Grin is alive and has seen a man fly.
+The town of Bronston woke one morning to find its stolen gold
+returned in the night — and the young man who returned it dead, as
+far as anyone knows. Nick is not dead. He is farther from home than
+any map goes: the magic that spirited him away has ended in a hard
+landing on an ice shelf at the top of the world, beneath a ridge
+that glows faintly along one seam. Behind that seam waits the
+impossible — a cavern workshop of cold forges, worn benches,
+seasoned wood, and a wall of tally marks counting the years of some
+vanished keeper's unthanked work. Nick's own count is shorter. The
+sleigh's runner is cracked, the stone that steers it has gone dark,
+three caribou are eating through the last sack of feed, and the sun
+is days from setting for the winter. Getting home stops being a ride
+and becomes a build. When a storm cuts his animals off from their
+last grazing, saving them costs him the workshop's only stock of
+seasoned runner-wood; when his one clever improvement kills the
+guiding stone outright, it strands him flightless in the true dark
+with nothing left to read but a dead man's wall — and what the wall
+teaches him is worth the whole journey. On the first clear night of
+the polar winter, Nick seats the stone by the North Star and flies
+home the long way under the aurora, to a town that will never know
+his name, a girl who has sailed for San Francisco half sure she
+dreamed him, and a reader who knows what Nick does not: the man who
+once pushed him off a cliff and left him for dead washed ashore
+alive, and he saw a sleigh cross the stars.
 
 ## Four quarters
 
-**Q1 (Opportunity ~10%, Change of Plans ~25%).** Landing, triage,
-the ledger scratched into the sleigh rail — feed and daylight,
-counted on the page by chapter two. Nick finds the station: forges,
-benches, harness fittings, unfinished small work whose purpose he
-does not name, and the tally-wall. Interleaved Grace chapters in
-Bronston, one line per Book 1 ending branch — vanish branch: she
-sails for San Francisco half-believing, leaving a letter under the
-heart at the rock; confession branch: she sails on a promised date,
-and Nick's tally races her calendar. The quarter turns when the
-runner and the dark stone make "walk out or fly out" into "build or
-die," and the outer goal locks.
+**Q1 (Opportunity ~10%, Change of Plans ~25%).** The landing nearly
+kills him. Nick crawls from the tangle of harness and cargo onto ice
+that answers no map, counts what he has — three caribou, a crate of
+food, one sack of feed — and scratches the first hard arithmetic of
+his life into the sleigh rail, days of feed against days of
+remaining sun. Then he follows a faint glow to a seam in the ridge
+and walks into a dead man's workshop: forges cold but ready, benches
+worn smooth by decades of hands, small unfinished work whose purpose
+he cannot bring himself to name, and a wall of tally marks counting
+years of labor nobody ever thanked. Far to the south, in the little
+mining town of Bronston, Grace — rescued from a cliff by a man
+everyone tells her is dead, half sure she dreamed him — boards a
+ship for San Francisco and the medical training she has wanted all
+her life, leaving a letter tucked under the heart carved into their
+childhood rock. Nick tries every way out. The cracked runner will
+not hold a mile; the stone that steers the sleigh will not wake; and
+there is no walking home from the top of the world. By the quarter's
+turn the choice has stopped being walk out or fly out. It is build
+or die.
 
-**Q2 (Point of No Return ~50%).** The build, taught by a dead man's
-shop: SC3 material — steam-bending, scarf joints, the knots that
-sling a runner true [TK which crafts, drafter's manifest]. Somewhere
-in these chapters, one short Donald scene — beached, alive, frostbit,
-remembering a sleigh crossing the stars (the 2014 "(( Other draft ))"
-hook, played early so the reader holds superior position for two
-books). The storm, the calving, the choice to spend the seasoned
-wood on the caribou; Nick moves into the deep chamber. No way back.
+**Q2 (Point of No Return ~50%).** The dead man's shop begins to
+teach him. Steam rises off bending wood; half-finished pieces left
+on the bench show Nick the joints their maker trusted; harness hung
+forty years on its peg still remembers the knots that sling a runner
+true. A new runner takes shape under hands trained by a logger
+father and a childhood of making do. Then, on a beach a thousand
+miles from anywhere Nick will think to look, a ruined man wakes up
+alive. Donald Grin — the smiling mine owner who stole his own town's
+gold, pushed Nick off a cliff to bury the secret, and was swept to
+sea for it — lies frostbitten above the tide line, breathing, and
+remembering with perfect clarity the one thing he saw that no one
+would believe: a sleigh crossing the stars. Nick knows none of this.
+What Nick knows is the storm — three days of it, calving the shelf
+and stranding his caribou beyond the break, cut off from the last
+lichen on this coast. He can save them, but only by spending the
+station's single irreplaceable treasure, its stock of seasoned
+runner-wood. He spends it. He moves everything he owns into the deep
+chamber, and when the sky clears there is no longer any road home
+that does not go by air.
 
-**Q3 (Major Setback ~75%).** Test flights, each partial or nearly
-fatal (the Book 1 discipline holds — no clean flight before the
-climax). The socket re-cut; the stone dies; the sun goes under. All
-is lost in the true dark: Nick alone at the top of the world with
-his own cleverness to blame, reading the tally-wall by sleigh-glow —
-the keeper before him worked years here, unthanked, and quit no
-count early. The father's quiet endurance, rhymed without a word.
+**Q3 (Major Setback ~75%).** Every test flight buys a lesson and
+charges for it — a skip, a stall, a landing that grinds the new
+runner raw — and each attempt burns feed and daylight the rail
+ledger cannot spare. So Nick does what clever men do at the edge of
+ruin: he improves. He re-cuts the ancient socket that seats the
+guiding stone, bracing it to fit his rebuilt frame, and the stone's
+faint glow goes out like a pinched wick. Days later the sun goes
+under for the winter. Alone in the true dark with an empty feed
+sack, a flightless sleigh, and no one to blame but his own
+cleverness, Nick reads the tally-wall by the sleigh's dim red light.
+The keeper before him worked this station for years — unpaid,
+unthanked, unknown — and never once quit a count early. Nick's
+father lived exactly that way, and Nick spent his boyhood mistaking
+the patience for weakness. He sits in the dark at the top of the
+world and begins, at last, to understand what it cost.
 
-**Q4 (Climax ~90%, aftermath).** Essence step: Nick stops improving
-and starts listening — restores the socket to the maker's line,
-seats the stone by the North Star, and flies out under the aurora
-with the caribou hauling on faith and the last feed gone: the one
-whole, answered flight of the book. Home: Bronston under snow, the
-rock, the letter or the missed date (branch). He returns quietly to
-the station's purpose — the resupply runs that Book 3 depends on —
-and the book closes on the hint (§12's own device): smoke on a far
-beach, or a trader's story of a ruined man asking about lights that
-move. The reader knows the name. Nick does not.
+**Q4 (Climax ~90%, aftermath).** The answer was on the wall all
+along. Nick stops improving and starts listening — he restores the
+socket to its maker's original line, waits out the weather, and on
+the first clear night of the polar winter he seats the stone by the
+North Star, the one fixed light in the sky, and feels it warm
+through his mitt for the first time since he broke it. The flight
+home is the one whole, answered flight of the book: the caribou
+hauling on faith, the last of the feed gone, the aurora moving like
+water overhead. Bronston lies asleep under snow when he crosses it.
+At the rock by the creek he finds Grace's letter under the carved
+heart and reads it alone in the cold. He does not stay. The far
+station has a purpose now — his — and he spends the rest of the
+winter flying quiet resupply runs to stock it, work that will matter
+more than he can yet guess. The book closes on a hint the reader can
+place and Nick cannot. Smoke on a far beach. A trader's story about
+a ruined man who keeps asking after lights that move in the night
+sky. The reader knows the name. Nick does not.
+
+## Snowflake apparatus (unbraided from the prose above; unchanged)
+
+- One-paragraph beat map: D1 ~25% — the station found, the survival
+  ledger opening on page one. D2 ~50% — the outer goal locks:
+  rebuild and fly out before dark-season. D3 ~75% — his own progress
+  backfires: the seasoned wood spent, the socket re-cut, the stone
+  dead. Resolution shape: craft and recognition, not luck.
+- One-sentence counts ("twelve days of feed") remain [TK exact
+  counts].
+- Q1 ending-branch note: the prose follows the VANISH branch — §7
+  decision 9b locked it (author PR, 2026-08-06), after this sketch's
+  date. Confession-branch alternate, preserved per open question 2:
+  Grace sails on a promised date, and Nick's tally races her
+  calendar.
+- Q2 craft manifest: SC3 material — steam-bending, scarf joints, the
+  knots that sling a runner true [TK which crafts, drafter's
+  manifest]. The Donald scene is the 2014 "(( Other draft ))" hook,
+  played early so the reader holds superior position for two books.
+- Q3 discipline: the Book 1 rule holds — no clean flight before the
+  climax; the father's quiet endurance rhymed without a word (T09
+  kept warm, not re-litigated).
+- Q4 plants: the resupply runs Book 3 depends on; the closing hint
+  is §12's own device.
 
 ## Clock and density
 
@@ -204,83 +267,137 @@ boat, the rock at the creek.
 
 ## One sentence
 
-When typhoid — the fever that killed Grace's mother — breaks out in
-icebound Bronston with the pass closed and no doctor nearer than the
-sea, Nick must fill every need on Grace's list unseen, night after
-night, before the sickness outruns the town's supplies — and
-discover that the outbreak flows from the Grins' drowned workings,
-and that his secret is lighter carried by two.
+When typhoid — the fever that killed her mother — breaks out in
+icebound Bronston with the pass snowed shut and no doctor nearer
+than the sea, Grace fights it in the open with a chalkboard of names
+while Nick answers her list from the dark sky, doorstep by doorstep,
+night after night, until the sickness is traced to an old crime
+still leaking under the town — and the secret he has carried alone
+becomes a secret carried by two.
 
 ## One paragraph
 
-Grace comes north on the last boat before freeze-up — trained now,
-the nearest thing to a doctor Bronston will get — and takes the
-meeting hall: a chalkboard of names, fever-days, and needs, updated
-daily before the whole town, while Nick flies her list by night,
-doorstep by doorstep, from the station's stores. (D1, ~25%) The
-fever is named typhoid, the water is suspect, the town starts
-blaming wells and neighbors; Nick's outer goal locks — keep every
-name on the list supplied, unseen, until the source is found. (D2,
-~50%) Grace catches him at a doorstep at last — the misunderstanding
-engine finally runs backward: instead of misreading each other they
-must trust completely and lie to everyone else, and she cannot
-unknow it. (D3, ~75%, their own progress backfires) The night
-deliveries themselves turn poisonous: a witness swears something
-flies in the dark, doorstep gifts get blamed for carrying the fever
-house to house, doors are barred against the very help keeping the
-sick alive, and Grace — seen out at night — is accused of consorting
-with whatever it is; the sickest are cut off just as the chalkboard
-peaks. Resolution shape: her mind and his hands, no luck — Grace
-rebuilds from memory (T12 paid at last) who drew water where and
-when, and the map converges on the spring below the Grins' quake-
-flooded workings; in one night of rope, timber, and cold-water work
-Nick seals and diverts the seep, the fever breaks with the proof on
-the chalkboard, the town wakes to clean water and the last of the
-supplies as a quiet gift — and at the rock, inside the carved heart,
-the proposal Book 1 owed finally lands, while what they found inside
-the workings says someone wintered there, counting.
+Grace comes north on the last boat before freeze-up, trained in San
+Francisco's wards and the nearest thing to a doctor Bronston will
+ever get, and the town's fight goes up on a chalkboard in the
+meeting hall — every name, every fever-day, every need, rewritten
+daily in front of everyone. What nobody sees is how the needs are
+met. Night after night Nick flies her list doorstep by doorstep from
+his far station's stores, unseen and unthanked, exactly as he means
+to be. Then the fever gets its true name — typhoid, the disease that
+killed Grace's mother — the water turns suspect, the town starts
+blaming wells and neighbors, and Nick's work hardens into an
+impossible promise: keep every name on that list alive until the
+source is found. The night Grace finally catches him on a doorstep,
+everything changes; the two of them, who once lost each other to a
+misunderstanding, must now trust each other completely and lie to
+everyone else, and she cannot unknow what she saw. Worse, the help
+itself turns poisonous. A witness swears something flies in the
+dark; the doorstep gifts are blamed for carrying the fever house to
+house; doors are barred against the only help keeping the sick
+alive; and Grace, seen out at night, is accused of consorting with
+whatever it is — just as the chalkboard peaks. What breaks the fever
+is her mind and his hands, not luck. Grace rebuilds from pure memory
+a whole winter of who drew water where, and her map converges on the
+spring below the quake-flooded workings of the swindlers who once
+bled this town — the old crime, still poisoning it. One night of
+rope, timber, and cold-water work seals the seep; the town wakes to
+clean water and the last of the supplies as a quiet gift; and at the
+rock where two children once carved their names, a long-owed
+question is finally asked inside a carved heart. But deep in the
+drowned workings, Grace and Nick saw something that should not have
+been there. A dry corner. A cold fire. A tally of weeks, and a
+claim-stake cut fresh and dated. Someone alive has been counting
+too.
 
 ## Four quarters
 
-**Q1 (Opportunity ~10%, Change of Plans ~25%).** The last boat;
-Grace and the chalkboard; the first deaths; Nick's night route
-built on the page (station stores, cave relay, town rooftops). The
-clock is public from chapter one — names and fever-days in chalk,
-growing. Turn: typhoid named, water suspected, the list becomes the
-town's spine and Nick's marching orders. Grains planted as plot
-necessity: children start leaving notes out at night asking for
-what the sick need (letters); Grace, hearing only wind when he
-passes, ties a single harness bell so she alone will know him from
-the dark (bells) — PROPOSAL, both.
+**Q1 (Opportunity ~10%, Change of Plans ~25%).** The last boat of
+the year brings Grace home, and the first deaths follow before the
+ice locks the harbor behind her. She takes the meeting hall and
+starts the chalkboard — names, fever-days, needs — because a town
+that can see its sickness plainly is a town that cannot lie to
+itself about it. Nick builds his answer in the same weeks: a night
+route from the far station's stores, through the mountain cave, over
+the rooftops of Bronston, down to doorstep after doorstep before
+dawn. Children begin leaving notes out at night, asking for what the
+sick in their houses need. Grace, who hears nothing but wind on the
+nights the doorsteps fill, ties out a single harness bell, so that
+she — alone in town — will know the passing of whatever brings the
+gifts. The quarter turns when the fever is named typhoid and the
+water goes under suspicion. From that day the list is the town's
+spine, and Nick's marching orders.
 
-**Q2 (Point of No Return ~50%).** Parallel nights: her ward-work
-and water samples, his doorsteps and near-misses, the reader
-holding both halves. Donald stays off the page; the reader's
-superior position from Book 2 hums under every scene at the old
-workings. The catch: a dying child, a delivery that cannot wait for
-cover of full dark, and Grace face to face with the dream she half
-remembered from the cliff. She keeps the secret with him — two
-keepers now, no way back for either.
+**Q2 (Point of No Return ~50%).** Two night shifts, side by side.
+Hers is the ward in the meeting hall, water samples, the terrible
+tidiness of chalk; his is doorsteps, rooftops, and near-misses — a
+lamp lit a moment too early, a dog that should have barked and did
+not. The reader holds both halves, and knows from the book before
+that a third pair of eyes is out there somewhere in the dark. The
+catch comes the way it had to come: a child is dying, the delivery
+cannot wait for full dark, and Grace opens a door in time to stand
+face to face with the dream she half remembered from a cliff — the
+dead man she loves, holding exactly what her list asked for. She
+does not scream, and she does not tell. From that night there are
+two keepers of the secret, trusting each other completely and lying
+to everyone else, and no way back for either of them.
 
-**Q3 (Major Setback ~75%).** The backfire: witness stories, barred
-doors, burned gifts, Grace accused; the chalkboard peaks; the pass
-is still weeks closed. All is lost with the help intact and
-refused — the book's argument that giving is not enough, being
-believed matters too, which Book 4 will weaponize. At bottom, Grace
-does the John-Snow work by pure memory before the meeting hall,
-reciting a winter of water-drawing the town knows she could not
-have written down — credibility earned on the page.
+**Q3 (Major Setback ~75%).** Then the help turns on them. A witness
+swears to something flying in the dark, and the story spreads faster
+than the fever; the doorstep gifts are blamed for carrying sickness
+house to house; families bar their doors and burn what they find on
+the step; and the sickest are cut off from the only supply line
+keeping them alive, just as the chalkboard reaches its peak. Grace,
+seen out at night once too often, is accused of consorting with
+whatever it is. The pass is still weeks from opening. This is the
+book's bottom, and its argument — giving is not enough; being
+believed matters too. At the low point Grace stands before the
+meeting hall and does the impossible from pure memory, reciting a
+whole winter of the town's water-drawing — who drew from which well
+and spring, household by household, week by week — a record the
+whole room knows she could never have written down. They check her
+twice. She is right twice. Credibility, earned on the page, at the
+hour it is worth more than medicine.
 
-**Q4 (Climax ~90%, aftermath).** The source: the Grins' flooded
-workings bleeding into the spring since the Book 1 earthquake — the
-old crime still poisoning the town (PROPOSAL, the §12 [TK twist];
-alternates in open question 4). The one-night engineering climax,
-Grace flying with him for the first time — the book's withheld
-payoff, the two of them in the same sky. The fever breaks; clean
-water; the quiet gift morning, understated per decision 10's
-precedent. The proposal at the rock. Last beat: what they saw in
-the workings — a dry corner, a cold fire, a tally of weeks — and a
-dated claim-stake fresh-cut. Someone alive has been counting too.
+**Q4 (Climax ~90%, aftermath).** Her map of memory converges on one
+spring — the spring below the flooded workings the Grin brothers
+left behind, drowned by the earthquake the year the town got its
+gold back. The old crime is still down there, leaking into the water
+the sick drink. The cure is one night long: rope, timber, and
+cold-water work in the dark, Nick's rigging and Grace's plan — and
+Grace in the sleigh beside him, flying at last, the one payoff this
+book has withheld to the end, the two of them in the same sky. The
+seep is sealed and diverted. The fever breaks with the proof written
+on the chalkboard for everyone to read, and the town wakes to clean
+water and the last of the supplies as a quiet gift it will never
+trace. At the rock by the creek, inside the heart he carved around
+their names years ago, Nick finally asks, and Grace answers. The
+last beat belongs to the workings, and to what the two of them saw
+down there: a dry corner, a cold fire, a tally of weeks scratched on
+stone, and a claim-stake cut fresh and dated. Someone alive has
+wintered close, and he has been counting.
+
+## Snowflake apparatus (unbraided from the prose above; unchanged)
+
+- One-paragraph beat map: D1 ~25% — the chalkboard up, the night
+  list flying. D2 ~50% — typhoid named, water suspect, the outer
+  goal locks: keep every name supplied, unseen, until the source is
+  found. D3 ~75% — their own progress backfires: the deliveries
+  themselves turn poisonous. Resolution shape: her mind and his
+  hands, no luck.
+- Q1 grains, both PROPOSAL: the children's notes (letters) and the
+  single harness bell (bells), each planted as plague logistics.
+- Q2: Donald stays off the page; the reader's superior position from
+  Book 2 hums under every scene at the old workings. Grace becomes
+  co-keeper.
+- Q3: the memory-map recitation is the John-Snow beat, done from
+  pure recall — T12 paid at last; the "being believed" argument is
+  what Book 4 weaponizes.
+- Q4 source: the Grins' quake-flooded workings — PROPOSAL, the §12
+  [TK twist]; alternates in open question 4. The quiet-gift morning
+  stays understated per decision 10's precedent. T11 (the typhoid
+  doctor dream) pays across the whole spine; T19 (the heart at the
+  rock) pays at the proposal.
 
 ## Clock and density
 
@@ -343,93 +460,125 @@ proposal), the pass summit, the last boat's dock.
 
 ## One sentence
 
-When Donald Grin comes back lawful — hired men, a syndicate, and a
-mining claim on the mountain that seals at midwinter — Nick must
-beat the man who murdered him without ever being seen to exist, and
-discover that his father's restraint, not his own flight, is the
-strength that ends the war.
+When the man who murdered him comes back lawful — hired men, a
+syndicate behind him, and a mining claim on the mountain that seals
+at midwinter — Nick must beat him without ever being seen to exist,
+and the weapon that finally ends the war is the one he spent his
+boyhood despising: his father's restraint.
 
 ## One paragraph
 
-Donald returns smiling, paper where the gun used to be: a filed
-claim covering the mountain — cave, cliff, rock and all — with a
-contest window that closes at midwinter, posted on the assay office
-door in chapter one; contesting it truthfully means Nick surfacing,
-which is the one thing Nick cannot do. (D1, ~25%) The claim is
-revealed as aimed, not greedy — Donald knows what flies and where
-it sleeps, James and hired men start walking the sample trails, and
-the outer goal locks: break the claim and Donald's hold before
-midwinter, unseen. (D2, ~50%) Donald's men take the cave; in one
-desperate night Nick moves sleigh, stores, and stock to the far
-station — and is seen doing it, giving Donald the testimony he
-wanted more than the ground. (D3, ~75%, their own progress
-backfires) Three books of quiet gifts become the weapon: Donald
-pins the annuity theft on "the night thief" the whole town has
-half-seen for years, the legend Nick built turns on him, warrants
-go out, Grace is named accomplice, and the town — twice burned —
-half believes; all is lost with the claim sealing and Nick's whole
-record inverted. Resolution shape: earned witness, not force —
-Duff's and James's testimony (the leak-prone brother finally
-talking for the right side), Grace reciting the false books from
-memory before the town, and, at the cliff where it all started,
-Donald falling and Nick catching him — unmasked to Donald alone,
-saving the man who pushed him, which breaks Donald as no fight
-could; the claim dies with his fraud exposed, the town still never
-learns its benefactor's name, and on the longest night of the year
-the first full-team, full-town delivery flies while Bronston
-sleeps.
+Donald Grin comes back from the dead the way Nick never could: in
+public, smiling, with paper where the gun used to be. The claim he
+posts on the assay office door covers the mountain entire — cave,
+cliff, and rock — and its contest window closes at midwinter; any
+man who challenges it truthfully must stand up and say who he is,
+which is the one thing Nick cannot do. Because the claim is not
+greed. It is aim. Donald knows something flies out of that mountain,
+and his hired men walk the trails until they take the cave — and in
+one desperate night Nick moves sleigh, stores, and stock north to
+the far station, and is seen doing it, handing Donald the testimony
+he wanted more than the ground. Then the masterstroke: Donald pins
+his own old theft on "the night thief" the town has half-seen for
+years, and years of quiet gifts turn into evidence against their
+giver. Warrants go out. Grace is named accomplice. The town, twice
+burned, half believes — and the window is closing on everything Nick
+ever gave being remembered as everything he stole. What saves them
+is witness, not force: Duff, the Grins' old muscle, who knew both
+crimes and finally talks; James, Donald's own brother, corroborating
+at last for the right side; Grace, before the gathered town,
+reciting the Grins' false books from memory, page and line. And on
+the cliff where the whole war began, Donald falls — and Nick,
+unmasked to his murderer alone, catches him. Saving the man who
+pushed him breaks Donald as no fight could. The claim dies with his
+fraud; the town never does learn its benefactor's name; and on the
+longest night of the year, while Bronston sleeps, a full team of
+eight takes the sky for the first time and serves every doorstep in
+town before turning north for good.
 
 ## Four quarters
 
-**Q1 (Opportunity ~10%, Change of Plans ~25%).** The wedding, small
-and early (PROPOSAL — placement, open question 6), so Donald
-arrives at a life worth wrecking. The steamer; the smiling return;
-the notice on the assay office door with its date — the clock
-public in chapter one. James back too, dimmer and louder; Duff
-still in town, changed since his Book 1 defection. Turn: Donald's
-private line to no one, or to James, showing the reader the claim
-is a trap for a flying man — the wound's author, armed with the
-truth.
+**Q1 (Opportunity ~10%, Change of Plans ~25%).** It opens with a
+wedding — small, quiet, early — so that when the steamer rounds the
+point, Donald Grin arrives at a life worth wrecking. He comes ashore
+smiling, lawful, moneyed, trailing hired men in city serge, and
+nails a notice to the assay office door: a filed mining claim on the
+mountain — cave, cliff, rock, and all — with a contest deadline
+printed on its face. James Grin comes with him, the younger brother,
+dimmer and louder than ever, still talking too much; and Duff is
+already in town — the Grins' old muscle, who walked away from them
+years ago and has been a quieter man since. The town reads the
+notice as greed. The reader learns better. In a private moment,
+Donald shows his hand — the claim is a trap, staked square across
+the haunts of a flying man he alone knows is alive.
 
-**Q2 (Point of No Return ~50%).** Cat and mouse on the mountain:
-hired men on the trails, near-discoveries, Nick gathering and
-gentling wild caribou at the station toward a full team of eight
-(S02's series debt, craft-forward — the knots, the harness math of
-eight animals [TK names, if any; see open question 9]). The cave
-falls; the one-night evacuation; the witness. Both journeys turn
-together — Nick has traded his last hiding place on the mountain
-for the station, and the fight is now for the town's belief, not
-his concealment.
+**Q2 (Point of No Return ~50%).** Cat and mouse on the mountain.
+Hired men walk the sample trails by day; Nick threads them by night,
+and every trip is a coin flipped. At the far station he is building
+the other half of his answer, gathering wild caribou and gentling
+them to harness, learning the knots and the math of driving eight
+animals as one — patient, teachable work, the kind he was raised
+for. Then the cave falls to Donald's men, and Nick spends one
+desperate night moving everything he has — sleigh, stores, stock —
+north to the station. He saves it all, and he loses the thing that
+mattered most: someone sees him do it. Both journeys turn on the
+same beat. Nick has traded his last hiding place on the mountain for
+a refuge at the top of the world, and the fight is no longer for his
+concealment. It is for the town's belief.
 
-**Q3 (Major Setback ~75%).** Donald's masterstroke inverts the
-series: the night thief story, the warrants, Grace accused —
-identity's answer (stay hidden, wait it out) fails on the page,
-because hiddenness is exactly what makes the lie stick. The
-all-is-lost beat belongs to the father wound: Nick at the station
-tally-wall with his father's belt (keepsake only, per decision 7 —
-it unlocks nothing, it only remembers), understanding at last what
-restraint at the right moment costs and buys. Duff comes north —
-the one man who knew both crimes — and chooses.
+**Q3 (Major Setback ~75%).** Donald's masterstroke turns the whole
+story inside out. The old annuity theft — his own crime — is pinned
+on "the night thief," the something-that-flies half the town has
+glimpsed and none of it can explain, and the legend Nick spent years
+building becomes the evidence against him. Warrants go out. Grace is
+named accomplice. Staying hidden, the answer that has saved Nick
+every time before, fails on the page — hiddenness is exactly what
+makes the lie stick. The all-is-lost beat belongs to the old wound:
+Nick at the station's tally-wall with his father's belt in his hands
+— a keepsake that opens nothing and never did, that only remembers —
+understanding at last what restraint at the right moment costs, and
+what it buys. And Duff comes north through the winter, the one man
+alive who knew both crimes, to make his choice.
 
 **Q4 (Climax ~90%, aftermath).** Midwinter. The town gathered, the
-window closing; Grace stands and recites the Grins' false
-statements from memory, page and line (T12's echo, unanswerable);
-Duff and James corroborate — testimony Donald cannot buy back.
-Donald breaks for the cliff route to his steamer through the storm;
-the confrontation lands where the series began, and the essence
-test is one choice long: Donald falls, and Nick — unmasked to him
-alone — catches him. Quiet courage answers loud power; the war ends
-because its author is saved by the man he murdered. Law takes
-Donald [TK on-page fate — arrest per the 4.7 outline lineage].
-Aftermath, branch to the Book 1 ending shape in one line each —
-vanish branch: the town never learns, "Nick who?" said one last
-time by someone Grace loves, and the secret stays a two-keeper
-trust; confession branch: a chosen few know and choose silence,
-which is its own gift. Final image, both branches: the longest
-night, the full team of eight, Grace beside him in the red-wool
-hooded coat she made against the cold, every doorstep in Bronston
-served in one flight, the town's lights going out under them as
-they turn north for good.
+contest window hours from sealing. Grace stands and recites the
+Grins' false statements from memory before them all, page and line,
+unanswerable; Duff and James corroborate her — testimony Donald
+cannot buy back. Donald breaks for the cliff route to his steamer
+through the storm, and the confrontation lands where the war began.
+The final test is one choice long: Donald falls, and Nick — unmasked
+to him alone — catches him. Quiet courage answers loud power; the
+war ends because its author is saved by the man he murdered, and
+that breaks Donald as no fight could. The law takes him. The claim
+dies with his fraud exposed, and the town never learns its
+benefactor's name — "Nick who?" said one last time, by someone Grace
+loves, while the secret stays a two-keeper trust. Final image: the
+longest night of the year, the full team of eight in harness at
+last, Grace beside him in the red-wool hooded coat she made against
+the cold, every doorstep in Bronston served in one flight, and the
+town's lights going out beneath them as they turn north for good.
+
+## Snowflake apparatus (unbraided from the prose above; unchanged)
+
+- One-paragraph beat map: D1 ~25% — the claim revealed as aimed, the
+  outer goal locks: break the claim and Donald's hold before
+  midwinter, unseen. D2 ~50% — the cave lost, the evacuation seen.
+  D3 ~75% — their own progress backfires: the night-thief inversion.
+  Resolution shape: earned witness, not force.
+- Q1 wedding placement is PROPOSAL — open question 6. Donald's
+  private reveal: a line to no one, or to James — staging open.
+- Q2 team craft: the knots and the harness math of eight animals —
+  S02's series debt, craft-forward [TK names, if any; see open
+  question 9].
+- Q3 hard guard restated: decision 7 stays law — the belt is
+  keepsake only and unlocks nothing; nothing in the finale may make
+  the magic hereditary.
+- Q4: Donald's on-page fate [TK on-page fate — arrest per the 4.7
+  outline lineage]. The aftermath prose follows the VANISH branch
+  (§7 decision 9b, locked 2026-08-06, after this sketch's date);
+  confession-branch alternate preserved per open question 2: a
+  chosen few know and choose silence, which is its own gift. The
+  final image is identical in both branches.
 
 ## Clock and density
 
