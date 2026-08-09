@@ -11,10 +11,25 @@ spelling only where the exact wording matters. Chapters 5–24 were
 numbered on import ("Chapter X" in the source); numbers below are the
 import's and are flagged where the import swallowed a break.*
 
-*The manuscript stops mid-word ("entered the cloud. Cha", l.2392) and
-Chapter 24 is an empty heading. This map is of an unfinished book and
-reads like one: many threads end OWED because there is no ending to pay
-them. That is the finding, not a defect of the map.*
+*Adoption fold, 2026-08-08 — v2 ch1–4 accepted via PR #16
+(merged 2026-08-06; gate `notes/v2-gate-2026-08-05.md`, patches and
+de-sheen applied per `CHANGELOG.md`). Chapters 1–4 below now map
+`manuscript/manuscript-v2.md` — cited `v2 l.###` — the source of
+record for the opening; the legacy trunk `nick-manuscript-22.md`
+(cited `l.###`) remains the reference for ch5–24, mined but no longer
+edited. Rulings this fold records: §7.3 (no surname on the page,
+ever), §7.7 decision 7 (compass stone; belt unlocks nothing), §7.8b
+(the v2 cold-open lineage; the 2015 frame mined, not adopted), §7.9b
+(the ending is the VANISH), and bible §3 Duff (the push is the two
+Grins alone; nobody descends). The §7.9 climax VARIANT — "9c" — is
+PR #27, still OPEN as of this fold; climax-dependent threads below
+say so and decide nothing.*
+
+*The trunk manuscript stops mid-word ("entered the cloud. Cha",
+l.2392) and Chapter 24 is an empty heading. This map is of an
+unfinished book and reads like one: many threads end OWED because
+there is no ending to pay them. That is the finding, not a defect of
+the map.*
 
 Legend: INTRODUCES (first on the page) / CARRIES (present, not moved) /
 ADVANCES (moved) / PAYS OFF (a plant collects) / HANDS FWD (what the
@@ -26,73 +41,155 @@ thread (Section 3).
 
 ## SECTION 1 — CHAPTER LEDGER
 
-### Chapter 1 — the sample climb and the push (Nick; Day 0)
-- INTRODUCES: Nick (21, ten years away, logger; l.34–43); Grin Bros
-  Mining and the sample excursions (T01); the tent fragments —
-  "'....San Fran...' '........three more weeks?....' '...if just one
-  person finds out...'" (l.81–82, plant for T02); the eagle (T26,
-  l.50–52); dog sleighs on icy trails (l.95–97).
+### Chapter 1 — The Push (Nick; Day 0) — ADOPTED (v2, PR #16)
+- INTRODUCES: Nick — left Bronston at eleven, ten years logging in
+  Northern California, twenty-one last month aboard the barge
+  Seattle→Juno, back three weeks (v2 l.35–44; the gate's verbatim
+  fact 1); Grin Bros. Mining and the sample excursions (T01); the
+  six-tins-at-six-depths method (v2 l.54–62, see T28 OWED); the
+  creed as working arithmetic — first father touch (T09, v2
+  l.63–76); the eagle's empty dive (T26, v2 l.81–88); the
+  belt-memory — the row of emblems traced as a boy, decision-7
+  recognition plant (a) (T16, v2 l.90–101); the earthquake-morning
+  anger, never set down (T09, v2 l.120–129); camp geography — the
+  bench, the ~100-foot cliff over the river (§13 canon, v2
+  l.135–139, l.272–274); the tent argument in fragments the reader
+  now actually receives — "—won't be time in San Francisco!" /
+  "...New York..." "...the bank..." "...three more weeks?..." /
+  "...if just one person finds out..." (T02 plant, fair-play
+  repaired, v2 l.161–169); James's tell — laughs at everything;
+  didn't laugh (v2 l.194–213, §13 canon); the push (v2 l.237–289).
 - CARRIES: —
 - ADVANCES: —
 - PAYS OFF: —
-- HANDS FWD: the push — "It was the Grin brothers." (l.124) → ch2;
-  the sample left by the fire (l.158–159) → ch4's "positive sample";
-  Nick believed dead (T21) → everywhere.
+- HANDS FWD: "It was the Grin brothers." (v2 l.289) → ch2; the
+  sample case set out by the fire ring, "neat as an offering" (v2
+  l.215–218, l.417–418) → ch4's "positive sample" cover; Nick
+  believed dead (T21) → everywhere.
 - SERIES: —
-- NOTE: descent near-fall (l.54–72) spends a cliff scare before the
-  ambush (structure flag, per notes). Weapon here is "a large wooden
-  log" (l.100); ch16 recalls "the metal rod" (l.1459) [CHECK].
-  Pushers on the page are the two Grins alone; bible §3 puts Duff
-  among them [TK: pushers — unreconciled, see T15].
+- NOTE: the push is the two Grin brothers alone — RULED (bible §3
+  Duff, PR #14); the old [TK: pushers] is retired (see T15). The
+  descent near-fall is now one small beat whose no-sound crevice
+  plants the drop (v2 l.103–118) — the trunk's spent-scare flag is
+  addressed. Weapon is "a large wooden log" (v2 l.240–241); the
+  trunk ch16 "metal rod" recall [CHECK] now belongs to the ch16
+  rebuild, not here. §7.8b's three tournament grafts (the mid-fall
+  breath, Grace's engagement needle at the fire, James's
+  almost-warning) are approved candidates for a later revision
+  pass, NOT in the adopted text [CHECK: the adopted James exchange
+  (v2 l.181–213) may already carry the almost-warning's function —
+  graft or skip is an open call].
 
-### Chapter 2 — the fall and the ledge (Nick; Day 0, evening)
-- INTRODUCES: Grace, in memory only (l.196–206); the kill-check
-  silhouette (l.148–151, T21); the father's freezing-water warning
-  (l.171–172, first father touch, T09); the childhood four — Nick,
-  Grace, the Grins, "before the Grins became killers" (l.203–206).
-- CARRIES: T01/T02 (why would they kill him? l.153–155 — unanswered by
-  design until ch16).
-- ADVANCES: survival traverse.
-- PAYS OFF: the eagle — the nest hole catches his fall (l.139–146,
-  plant l.50).
-- HANDS FWD: "A cave." (l.218) → ch5.
+### Chapter 2 — The Ledge (Nick; Day 0, evening) — ADOPTED (v2)
+- INTRODUCES: the kill-check silhouette — nobody descends, "There
+  was no way down to start" (T21, v2 l.341–393; the §3 ruling's own
+  cited line); the father's freezing-water warning, the hand
+  heavier than the words (T09, v2 l.452–465); the Old Rob sidewalk
+  exchange — Rob sweeping the general-store boards, "the boy that
+  went south," the redwoods (v2 l.510–533; Rob = general store, §13
+  canon); THE BALK, staged in prose at last — Grace out of the
+  feedstore, her name in his mouth, nothing said (T10, v2
+  l.535–561); the childhood four, "before the Grins became killers"
+  (v2 l.563–567).
+- CARRIES: T01/T02 — why would they kill him? the day turned over,
+  "the shape of an answer" left standing (v2 l.405–436; unanswered
+  by design until the vault).
+- ADVANCES: survival traverse, rightward and rising.
+- PAYS OFF: the eagle — the nest hole stops his fall (T26, v2
+  l.316–331; plant v2 l.81–88). Plant and payoff now both live in
+  adopted prose.
+- HANDS FWD: "A cave." (v2 l.592) → ch3; Rob's single sighting of
+  Nick → ch4's "saw him but the once" (gate N8 attribution).
 - SERIES: —
-- NOTE: "For the last three years... a lumber jack" (l.201) vs ch1's
-  ten years [TK]. The balk is narrated here ("didn't have the nerve to
-  call out," l.198–199) — the romance thread's only pre-push beat
-  (T10).
+- NOTE: the trunk's narrated balk (old l.198–199) is upgraded to a
+  played scene; the adopted text chose the SILENT version [CHECK:
+  TODO's "balk upgrade" Decide item offered silent vs played failed
+  conversation — adoption delivered silent; retire the item or
+  re-open it deliberately, not by drift]. The old three-years vs
+  ten-years [TK] (trunk l.201) is gone with the replaced text;
+  ten-year math is exact throughout (gate: checked and clean).
 
-### Chapter 3 — Grace decides on the university (Grace; ~Day 0–1)
-- INTRODUCES: Grace on the page; Jim (widower, ex-medical student, 18
-  months in San Francisco, l.246–248); the college/doctor/typhoid dream
-  (T11, l.244–258); Grace's "amazing memory" (l.252–253, T12 — planted
-  here, never used); the annuity as Jim's savings for her (T01).
-- CARRIES: —
-- ADVANCES: T11 — "I decided, I'm going to enroll in the University"
-  (l.224–225); ferry letter to be written "tomorrow morning" (l.280).
+### Chapter 3 — The Glow (Nick; night of Day 0) — ADOPTED (v2)
+- INTRODUCES: the cave, invisible from above and from either side
+  (v2 l.594–641); the creed as trapline catechism — second creed
+  touch, verbatim (T09, v2 l.663–681); the red glow and the
+  grill-dream that bleeds into it (T25, v2 l.723–746); the dig; the
+  SLEIGH'S CARVINGS, in prose at last — loops and lines, every cut
+  meant (T17; trunk ch7's TODO finally has a written plant, v2
+  l.817–835); the EMPTY OVAL SOCKET, palm-sized, worn smooth, and
+  the half-known shapes he cannot place — recognition plant (b)
+  (T16, v2 l.829–847); "A red glowing sleigh." (v2 l.858).
+- CARRIES: T21 (the hiding place vetted — the Grins could "look
+  straight past his front door," v2 l.634–641); the ch2 shoulder,
+  "billing him for every stone above the second course" (v2 l.691,
+  gate N10 — the injury now costs).
+- ADVANCES: survival by craft — rock wall, pine-needle bed, the
+  two-strip jerky arithmetic (v2 l.683–721).
 - PAYS OFF: —
-- HANDS FWD: the letter → ch4; tickets "by mid December" (l.283)
-  [TK: Portland here vs Seattle/San Francisco later].
-- SERIES: —
+- HANDS FWD: the buried, carved, socketed sleigh → the trunk's ch7+
+  material (daylight, levers, flight), to be rebuilt on this plant.
+- SERIES: S01 born (discovery, not sorcery — bible §5 rule holds).
+- NOTE: Nick stands six feet, established by the ceiling (v2
+  l.758–760, gate N5 → §13 canon). The wolverine TODO is carried
+  inline as [TK] (v2 l.615–617) — pause played, animal unresolved
+  by design. Decision-7 compliance verified at gate: no medallion,
+  no inheritance, the socket empty.
 
-### Chapter 4 — the market and the death news (Grace; days later)
-- INTRODUCES: Old Rob and the market (l.305–357); annuity mechanics —
-  Juno Bank, six drills, 75% retained, vested in five years, payout
-  next summer (l.326–339, T01); the trader-chocolate memory and
-  "Anyone can get anything, once gold is discovered" (l.294–298, T04);
-  town plight — prices, avalanche-closed pass (l.340–343, T27).
-- CARRIES: T11 (letter dropped at the store, l.288–289).
-- ADVANCES: T01/T02 — the Grins' false "positive sample" news
-  (l.308–315) pays the ch1 sample plant as cover story; T21 — the
-  death news reaches town and Grace: "Nick Johnson was killed during
-  the expedition" (l.357).
-- PAYS OFF: —
-- HANDS FWD: the flour drop and "the man she married" (l.363–366) →
-  Grace's grief (ch9) and the whole T10 engine.
+### Chapter 4 — The News in Town (Grace; days later) — ADOPTED (v2)
+- INTRODUCES: Grace and Jim on the page — the porch decision
+  replaces the trunk's separate ch3 scene (T11, v2 l.862–910);
+  Mrs. Jones, whom Grace mends for (v2 l.862, see T28 OWED); the
+  typhoid vow — "I'm going south to become a doctor" (T11, v2
+  l.899–910); the bear-trap memory, her mother's line, with the
+  bones-of-the-hand quizzes at six (T12, v2 l.914–923); Jim's
+  eighteen months of medicine in San Francisco (v2 l.922–926);
+  "it has fed us for twenty-five years" (v2 l.946, §13 canon —
+  first hard town-age number, gate N14); "your mother's people"
+  (v2 l.949–953, [TK] carried inline); Jim's birthday Thursday
+  next and the cake foolishness (v2 l.1022–1024, see T28 OWED);
+  Mrs. Carver (v2 l.1009–1020, [TK placeholder] carried inline);
+  the trader-chocolate memory and "Anyone can get anything, once
+  gold is discovered" (T04, v2 l.1025–1038; school-story [TK]
+  carried inline); town plight — Rob's shelves, the
+  avalanche-closed pass, hope by the pound (T27, v2 l.985–999);
+  annuity mechanics — three parts of every four at the Juno Bank,
+  payout next summer (T01, v2 l.1066–1075).
+- CARRIES: T11 — the steamship-line letter written and carried
+  UNPOSTED against her ribs (v2 l.961–978, l.1001); T19 — "the
+  flat rock at the creek with the seat worn smooth," first
+  appearance, in her flood of memory (v2 l.1122); T10 — the
+  snow-well rescue he never told on her for (v2 l.1124–1126).
+- ADVANCES: T01/T02 — the stove men's false "positive sample" talk
+  (v2 l.1046–1064) pays the ch1 sample-case plant as cover story;
+  T21 — the death news reaches Grace at Rob's counter, no surname
+  spoken: "Nick — the boy that went south — was killed during the
+  expedition" (v2 l.1105–1108, §7.3 honored); T12 — the trap
+  turned for the first time: "how much of what was in the trap was
+  Nick" (v2 l.1127–1129).
+- PAYS OFF: Rob's single sighting — "Rob says he saw him but the
+  once" (v2 l.1085–1086; plant v2 ch2, gate N8 — the line is
+  Rob's own).
+- HANDS FWD: the burst flour sack and "the man she married" (v2
+  l.1139–1152) → the grief and the whole T10 engine; the letter
+  laid down AFTER the death news — "This goes out on the next
+  boat" (v2 l.1166–1179) — the dream now carries the grief; "The
+  boat came Thursday." (v2 l.1181–1182) → T28 OWED, plot-clock
+  candidate.
 - SERIES: —
-- NOTE: surname "Johnson" here; bible §7.3 leans Anderson [TK
-  surname]. "Returned a week or two ago" (l.346) vs three weeks
-  (l.34, l.157) [CHECK].
+- NOTE: no surname anywhere — §7.3 RULED; the old Johnson/Anderson
+  [TK surname] retires from this chapter. Tickets to Portland vs
+  the later Seattle/San Francisco route is carried inline as [TK]
+  (v2 l.972–975). The mine-going-dry murmur (v2 l.986–989)
+  pre-plants the trunk ch13 decision — keep; stage ch13 as
+  confirmation (gate N19). Bible §6's Grace beats
+  (creek/letter/feedstore) still read pre-adoption [CHECK: §6 not
+  yet amended as of this fold — gate N11's amendment is owed
+  bible-side, not here].
+
+*(Chapters 5–24 below are the LEGACY TRUNK ledger —
+`nick-manuscript-22.md`, mined for the rewrite but no longer edited.
+Trunk ch5's content is adopted as v2 ch3; trunk ch3–4 are merged
+into v2 ch4. Their entries are retained for trunk line refs.)*
 
 ### Chapter 5 — the cave night and the glow (Nick; night of Day 0)
 - INTRODUCES: the cave (l.389–414); the red glow (l.434–462, T25);
@@ -136,9 +233,10 @@ thread (Section 3).
 - SERIES: —
 - NOTE: author TODOs l.582–583: describe the sleigh in daylight +
   "((Include the carvings where the stones will eventually fit))" —
-  the decision-7 anchor. THE CARVINGS ARE NEVER RENDERED anywhere in
-  the canon manuscript; they exist only as this TODO until the stone
-  needs a groove in ch23 (T16, T17). The v2 draft ch3 writes them.
+  the decision-7 anchor. In the trunk the carvings were never
+  rendered; v2 ch3 (ADOPTED) now writes them, with the empty oval
+  socket (v2 l.817–847) — the plant is canon prose, and this
+  chapter's daylight rebuild collects it rather than re-plants it.
 
 ### Chapter 8 — the sleigh flies (Nick; Day 1)
 - INTRODUCES: flight (l.694: "The sleigh was flying."); the second
@@ -428,11 +526,15 @@ Arc notation: born → touched → pays / OWED.
   Born ch1 (tent fragments) → ch6 (New York dream, Duff's "two
   weeks") → ch13 (decision to run, secret dock) → ch15 (coal decoys
   on the boat) → pays ch16 (the vault: ALL the gold — §7.4 executed,
-  the book's best turn). OWED: the escape itself — the Grins never
-  actually leave, fight, or fail on the page; the boat is last seen
-  moored (ch19); §7.5's ticking clock was never installed. [CHECK:
-  ch16's replay quotes tent sentences ch1 never gave the reader —
-  fair-play repair needed; v2 draft ch1 fixes the plant side.]
+  the book's best turn). PLANT SIDE REPAIRED (fold, 2026-08-08):
+  v2 ch1 (ADOPTED) gives the reader the fragments themselves —
+  San Francisco, New York, the bank, three more weeks, "if just one
+  person finds out" (v2 l.161–169). OWED: the escape itself — the
+  Grins never actually leave, fight, or fail on the page; the boat
+  is last seen moored (ch19); §7.5's ticking clock was never
+  installed. [CHECK: the trunk ch16 replay quotes sentences the old
+  ch1 never gave — the ch16 rebuild must quote only what v2 ch1
+  planted.]
 
 - **T03 — Returning the gold / the town wakes to treasure** (plot)
   Born ch11 (two bags off the skim) → ch12 (nugget on the porch —
@@ -498,42 +600,57 @@ Arc notation: born → touched → pays / OWED.
   understanding pays the climax). ON THE PAGE: absent. The father
   appears only as benign craft-memory — freezing-water warning
   (ch2), "the real brains" (ch8), egg-craft and trader trips (ch9).
-  No anger, no weakness-fear, no needle, and the creed ("Shelter,
-  fire, food...") appears NOWHERE in the manuscript. The climax is
-  resolved by aftershock instead (ch21). OWED in full. (v2 draft:
-  ch1 plants it in three touches + ch3 creed catechism — exists only
-  there.)
+  No anger, no weakness-fear, no needle in the trunk, and the trunk
+  never held the creed. PLANTS NOW CANON (fold, 2026-08-08): v2
+  ch1–3 (ADOPTED) install the wound — the creed as working
+  arithmetic (v2 ch1), the belt-memory let go "before it could open
+  any further" (v2 ch1), the earthquake-morning anger with no place
+  to set it down (v2 ch1), the freezing-water hand (v2 ch2), the
+  creed catechism verbatim (v2 ch3). The climax that must pay them
+  is still OWED: the trunk resolves by aftershock (ch21), and the
+  rebuild is the §7.9c climax-variant decision — PR #27, OPEN as of
+  this fold (the 2026-08-07 judging note scores the Grin-survives
+  build 35–21–12, PROPOSED only, decides nothing).
 
 - **T10 — Nick and Grace: the romance and the misunderstanding
   engine** (character-arc)
-  Born ch2 (memory + narrated balk) → ch4 ("the man she married") →
-  ch9 (her grief and shame) → ch15 (the triangle, flashback only) →
-  ch21 (the catch — no words) → ch22 ("Maybe it was a dream") →
-  ch23 (the balk finally staged: "Maybe he chickened out"). OWED,
-  nearly everything: NICK AND GRACE EXCHANGE ZERO WORDS in the
-  manuscript (verified); the bible's one scripted scene between them
-  — the dock misunderstanding (§3, §6 Book 3) — was never drafted;
-  the proposal motive exists only in the bible (the page says he
-  returned for love of the place, ch9 l.863–864); Donald's coercion
-  of Grace is not on the page. Whether the ending should pay this
-  with a reunion (bible §6: confession, belt returned) or with the
-  crueler vanish the prose chose is an open author decision —
-  critique rec 4 argues the prose already voted [TK: ending shape;
-  note "she returns his belt" is contaminated by T16 either way].
+  Born v2 ch2 (ADOPTED — the balk STAGED in prose: Grace out of the
+  feedstore, her name in his mouth, nothing said, Rob the witness,
+  v2 l.535–561) → v2 ch4 (the snow-well memory; the burst flour
+  sack; "the man she married," v2 l.1124–1152) → ch9 trunk (her
+  grief and shame) → ch15 (the triangle, flashback only) → ch21
+  (the catch — no words) → ch22 ("Maybe it was a dream") → ch23
+  (the trunk's balk recall: "Maybe he chickened out"). ENDING SHAPE
+  RULED (§7.9b, PR #17): the VANISH — the town never learns; Grace
+  alone comes to hold the whole truth; the confession and the belt
+  return happen away from town eyes, before the warp. OWED, still
+  nearly everything in prose: NICK AND GRACE EXCHANGE ZERO WORDS in
+  any adopted or trunk chapter (verified); the dock
+  misunderstanding (§3, §6 Book 3) was never drafted; the proposal
+  motive exists only in the bible; Donald's coercion of Grace is
+  not on the page. [CHECK: §7.9b's "belt returned" presumes the
+  belt physically on the page — T16 leaves its whereabouts [TK];
+  reconcile when the ending is drafted.]
 
 - **T11 — Grace's dream: university, medicine, typhoid**
   (character-arc)
-  Born ch3 (decision, mother, typhoid) → ch4 (letter posted) → ch9
-  (resolve hardens) → ch14 (blocked by the empty account) → pays
+  Born v2 ch4 (ADOPTED — the porch decision, the typhoid vow, the
+  letter carried unposted and laid down after the death news:
+  "This goes out on the next boat," v2 l.862–910, l.1166–1179) →
+  ch9 (resolve hardens) → ch14 (blocked by the empty account) → pays
   ch22: the fund restored AND Jim chooses to come ("after that last
   few days, I think I'm ready to leave Alaska") — quietly the
   completed arc his resignation (ch3) set up. Doctor-and-typhoid
   remains a series-scale promise, properly unpaid here.
 
 - **T12 — Grace's remarkable memory** (character-arc)
-  Born ch3 (l.252–253, told twice) → never used once — not even in
-  ch14 with the bank letter in her hands, the scene built for it.
-  OWED: a plant with no payer anywhere in the manuscript.
+  Born v2 ch4 (ADOPTED — the plant upgraded: her mother's "memory
+  like a bear trap" line plus the bones-of-the-hand quizzes, v2
+  l.914–923; and turned once, on Nick: "how much of what was in
+  the trap was Nick," v2 l.1127–1129). OWED: the functional payoff
+  — the memory solving something — is still nowhere; trunk ch14,
+  with the bank letter in her hands, remains the scene built for
+  it and still doesn't fire.
 
 - **T13 — Donald Grin** (character-arc)
   Born ch6 (two genuinely cold lines — the repeated-grief line and
@@ -543,7 +660,9 @@ Arc notation: born → touched → pays / OWED.
   death is unconfirmed ("swept away by the current," l.2181–2182)
   and the town's belief that he escaped with the money exists only
   in the ch20 pasted outline. A villain the ending still owes a
-  fate.
+  fate — and the fate now rides the §7.9c climax-variant decision:
+  PR #27, OPEN as of the 2026-08-08 fold (the judging note's
+  Grin-survives build is PROPOSED, not canon).
 
 - **T14 — James Grin** (character-arc)
   Born ch6 (comic, New York flyer — canon-consistent) → ch13, ch15,
@@ -557,11 +676,14 @@ Arc notation: born → touched → pays / OWED.
   Duff: named ch6 → dock works ch15–17 → present at the cliff chase
   ch21 (l.2150) → defects ch20 ("I didn't want to hurt anyone").
   After his confession he vanishes; no fate. Dwayne: born ch17
-  (l.1504), gone by ch19's "two other guys" — dropped. CONFLICT
-  [TK]: bible §3 makes Duff a pusher who descends to confirm the
-  kill; the page gives the push to the two Grins alone and nobody
-  descends (ch1–2). Unreconciled either way (v2 draft keeps the
-  Grins-only version and flags it).
+  (l.1504), gone by ch19's "two other guys" — dropped. PUSHERS
+  RESOLVED (bible §3 Duff ruling, PR #14, 2026-08-05): the push is
+  the two Grin brothers alone, and nobody descends to confirm the
+  kill; Duff's 2015 descend-and-check role is retired — he stays
+  the Grins' town muscle and the climax threat. The adopted v2
+  ch1–2 text is the ruling's own citation ("There was no way down
+  to start"). Still OWED as before: Duff's post-confession fate,
+  and Dwayne's drop.
 
 ### Objects
 
@@ -572,14 +694,16 @@ Arc notation: born → touched → pays / OWED.
   father's belt does not exist anywhere in the manuscript (verified;
   the only "belt" hits are "belted out" l.312 and James's key on a
   "belt loop" l.1644) — so the manuscript is CLEAN, and the stone
-  arc is: grooves-TODO ch7 (l.583, never rendered) → stone found,
-  read as "a compass" ch23 → socketed, warp ch23. OWED: decision 7's
-  own recognition beat — the markings echoing the emblems Nick
-  REMEMBERS from his father's belt — is on no page; it needs (a) a
-  memory-plant of the belt emblems early and (b) the recognition at
-  the ch23 discovery. (v2 draft supplies (a): a keepsake belt-memory
-  flash in ch1 and half-recognized markings on the sleigh carvings
-  in ch3.) CONTAMINATION (old belt beats that must not re-enter,
+  arc is: grooves-TODO ch7 (l.583, never rendered in the trunk) →
+  stone found, read as "a compass" ch23 → socketed, warp ch23.
+  PLANTS NOW CANON (fold, 2026-08-08): v2 ch1 (ADOPTED) writes the
+  keepsake belt-memory — the row of emblems traced as a boy (v2
+  l.90–101) — and v2 ch3 writes the carvings, the half-known
+  shapes, and the EMPTY OVAL SOCKET, palm-sized, worn smooth (v2
+  l.817–847). OWED narrows to the recognition beat itself — the
+  stone's markings answering the remembered emblems at the ch23
+  discovery, which is on no page yet. CONTAMINATION (old belt
+  beats that must not re-enter,
   all bible-side): §1 hook row "glow of the belt MEDALLION"; §3
   "Carries: his late father's belt... the key to the sleigh's
   magic"; §5 steps 1, 2, 4, 6 (medallion, cave-wall emblems matching
@@ -590,8 +714,10 @@ Arc notation: born → touched → pays / OWED.
   by §7.7's [TK]; none has a counterpart in the manuscript. The
   Grins'-house belt search (§6 Book 3) in particular has no page
   version at all — if the belt stays a keepsake, where it physically
-  is remains open (v2 draft deliberately leaves its location
-  unstated) [TK: belt's whereabouts, if it appears at all].
+  is remains open (the adopted v2 text deliberately leaves its
+  location unstated) [TK: belt's whereabouts, if it appears at
+  all]. §7.9b's "belt returned" leans on this [TK] — see T10
+  [CHECK].
 
 - **T17 — The sleigh** (object)
   Born ch5 (glow, dig, "A red glowing sleigh.") → ch7 (daylight,
@@ -600,12 +726,13 @@ Arc notation: born → touched → pays / OWED.
   caribou necessary) → ch18–19 (team-drawn heist) → ch21 (the catch)
   → ch23 (the groove takes the stone; the warp). The best-tended
   thread in the book: every capability is discovered, tested, or
-  paid. OWED: the carvings/grooves are paid in ch23 without ever
-  being planted in prose (ch7's TODO is the plant's ghost; v2 draft
-  ch3 writes it, with an empty oval socket, (v2 draft) until adopted
-  into canon); the bible's aftermath beat — Nick slips away to HIDE
-  the sleigh (§6 Book 4) — is unwritten; where the sleigh came from
-  is a series question, properly unpaid.
+  paid. PLANT DELIVERED (fold, 2026-08-08): the carvings and the
+  empty oval socket are now written and canon (v2 ch3, ADOPTED, v2
+  l.817–847) — the trunk ch23 payoff must be rebuilt to collect
+  THIS plant, and ch7's daylight TODO becomes a recall, not a
+  first rendering. Still OWED: the bible's aftermath beat — Nick
+  slips away to HIDE the sleigh (§6 Book 4) — is unwritten; where
+  the sleigh came from is a series question, properly unpaid.
 
 - **T18 — The caribou / reindeer** (object)
   Born ch18 (after the lowest moment, exactly per bible §5.5, and
@@ -616,8 +743,10 @@ Arc notation: born → touched → pays / OWED.
   level (S02's full eight-and-names mythology).
 
 - **T19 — The rock at the creek** (object)
-  Born ch9A (l.698–704: the carved flat seat, Grace's thinking
-  place). OWED: the bible's beats on it — Nick circles their carved
+  Born v2 ch4 (ADOPTED — "the flat rock at the creek with the seat
+  worn smooth," in Grace's memory-flood, v2 l.1122) → ch9A trunk
+  (l.698–704: the carved flat seat, Grace's thinking place). OWED:
+  the bible's beats on it — Nick circles their carved
   initials (§6 Book 2), Grace sees the heart around their names on
   her way to the mine (§6 Book 3) — exist nowhere in the manuscript;
   no initials are on the page at all. As written the rock is planted
@@ -643,9 +772,14 @@ Arc notation: born → touched → pays / OWED.
   was a dream"). James/Duff plausibly saw Nick at the cliff (ch21
   "everyone searched the sky"; only Donald's recognition is on the
   page). NEVER broken for the town — which is the wink's engine
-  ("Nick who?"). OWED: the final disposition — does Grace confirm,
-  does the town ever learn — is the unwritten ending's central
-  question. No one acts on knowledge they lack in this thread; the
+  ("Nick who?"). DISPOSITION RULED (§7.9b, PR #17): the town NEVER
+  learns; Grace alone comes to hold the whole truth and keeps it.
+  What remains OWED is the prose that delivers it — the ending is
+  unwritten, and HOW her half-knowledge becomes whole is the §7.9c
+  rebuild's problem (PR #27, open as of the 2026-08-08 fold). The
+  adopted v2 ch2/ch4 restate the beliefs cleanly: the kill-check
+  silhouette with nobody descending; the news at Rob's counter, no
+  surname. No one acts on knowledge they lack in this thread; the
   draft plays it clean (even Nick's wrong guess about Grace, ch19,
   is honest ignorance).
 
@@ -690,32 +824,53 @@ Arc notation: born → touched → pays / OWED.
   anything Nick inherited.
 
 - **T26 — Eagles** (motif)
-  Born ch1 (the dive that comes up empty) → pays ch2 (the nest hole
-  saves his life) → ch9 (dives copied in flight; eggs as food and
-  trade capital — the economy behind the chocolate). Fully paid;
-  the manuscript's cleanest plant-payoff chain. [TK: author's own
-  ((Confirm this)) on eagle-egg lore, l.820.]
+  Born v2 ch1 (ADOPTED — the dive that comes up empty, "Some days
+  it goes like that," v2 l.81–88) → pays v2 ch2 (the nest hole
+  stops his fall, v2 l.316–331) → ch9 trunk (dives copied in
+  flight; eggs as food and trade capital — the economy behind the
+  chocolate). Fully paid; the book's cleanest plant-payoff chain,
+  and its first two links now live entirely in adopted prose (gate:
+  "eagle plant T26" checked and clean). [TK: author's own
+  ((Confirm this)) on eagle-egg lore, trunk l.820, persists for the
+  ch9 rebuild.]
 
 - **T27 — Hope as currency** (motif)
-  Born ch4 (the town living on the annuity's promise) → ch6
+  Born v2 ch4 (ADOPTED — "Hope was the one thing on the shelves
+  that hadn't gone up in price, and the town bought it by the
+  pound," v2 l.997–999; the annuity's promise) → ch6
   (Donald weaponizes it: "this towns endless hope") → ch9D
   (Bramley's boat, ten years of it) → ch12 (Hannigan's
   take-the-good-day creed) → pays ch22 (the celebration; hope made
   solid). Bramley's boat is implied-paid only (his refund is never
   shown) — small OWED.
 
-- **T28 — (v2 draft) New opening texture** (motif)
-  Exists ONLY in drafts/2026-07-26/ch01–04 (unadopted): the
-  Nick–James spoken exchange at camp; the Old Rob sidewalk exchange
-  during the balk (grounding Rob's "saw him but the once"); the
-  ferry letter carried unposted through ch4 and laid down after the
-  death news; "The boat came Thursday" clock; "Mrs. Carver"
-  [TK placeholder]; Jim's "mother's people" line [TK]. Also
-  (v2 draft): the creed as catechism, the keepsake belt-memory, and
-  the sleigh carvings with the empty oval socket (see T09, T16,
-  T17). None of it is canon until adopted; if ch1–4 are adopted,
-  every one of these becomes a live plant the later chapters must
-  honor.
+- **T28 — Adopted opening texture (v2 ch1–4)** (motif)
+  ADOPTED via PR #16 (merged 2026-08-06; folded into this map
+  2026-08-08). Everything this thread held provisionally is now
+  canon prose and every plant is LIVE — later chapters must honor
+  them. Folded into the ch1–4 ledger above and into T02/T09/T10/
+  T16/T17/T26; the §13 facts (James's tell, Rob = general store +
+  mail book, journey canon, camp geography, Nick six feet) are
+  recorded there. What remains HERE is the new OWED the adopted
+  text creates (per bible §13 and the gate's new-canon list):
+  - OWED: "The boat came Thursday." (v2 l.1181–1182) — a standing
+    weekly clock, candidate for §7.5's ticking-clock role [CHECK:
+    candidate only — §7.5 is still PROPOSED, not ruled].
+  - OWED: Jim's birthday Thursday next, and the flour bought to be
+    foolish with (v2 l.1022–1024) — a dated small promise the next
+    Grace chapter must honor or break on purpose (the trunk's ch9D
+    party plant is its cousin; neither is paid anywhere).
+  - OWED: Mrs. Jones, whom Grace mends for (v2 l.862) — [TK:
+    relation to Tim Jones of bible §4, or a collision] (gate N13).
+  - OWED: the six-tins-at-six-depths method and the sample case
+    left "neat as an offering" (v2 l.54–62, l.215–218, l.417–418)
+    — spent once as ch4's cover story, but the tins themselves
+    have no further payer [CHECK: does anything later collect
+    them — evidence, the false reading, anything — or is the
+    cover story their whole job?].
+  Carried [TK]s, unresolved by design: "Mrs. Carver" placeholder;
+  "your mother's people"; the wolverine; tickets to Portland vs
+  the later route; the traders' school-story.
 
 ---
 
@@ -758,9 +913,11 @@ of seven end OWED, two more are partial. Said plainly below.
   alive (T21), so every gift is anonymous by necessity — chocolate
   (ch9D), gold (ch11–12), the rescue and the gold left beside her at
   the dock (ch21–22) — and it is PAID with the draft's best line,
-  "Nick who?" (ch22). OWED only its final shape: whether anyone
-  (Grace) ever gets to know, which is the unwritten ending's call
-  (T10, T21).
+  "Nick who?" (ch22). Final shape RULED (§7.9b, PR #17): the
+  VANISH — the town never learns, Grace alone holds the whole
+  truth and keeps it, becoming the legend's first keeper. OWED now
+  only the prose: the ending that delivers the ruling is unwritten
+  (T10, T21; the §7.9c variant PR #27 is open).
 
 - **S05 — The red suit / warm glow**
   PARTIAL. The bible row reads "the glow of the belt medallion and
@@ -789,12 +946,14 @@ of seven end OWED, two more are partial. Said plainly below.
   "Christmas" appear zero times (verified). The pattern is on the
   page — feeds a town (ch9D), returns its stolen wages (ch11–22),
   saves a life and leaves before thanks (ch21–23) — and "Nick who?"
-  is its thesis. OWED: the pattern has no closing note (ch24 empty);
-  the name-resonance depends on the surname decision (§7.3,
-  Johnson x4 vs Anderson x1 on the page [TK surname]); and the
-  bible's "choosing, again and again" framing wants the father
-  wound (T09) so the choosing costs something visible — currently
-  the goodness is unopposed from inside.
+  is its thesis. OWED: the pattern has no closing note (ch24
+  empty). The name-resonance is RULED (§7.3, PR #15): no surname
+  on the page, ever — "Nicholas" is the only name that matters,
+  and the adopted v2 ch4 delivers the death news surname-free.
+  The bible's "choosing, again and again" framing wants the father
+  wound (T09) so the choosing costs something visible — the wound
+  is now PLANTED in adopted prose (v2 ch1–3); the climax that
+  makes it cost is still owed (§7.9c, PR #27 open).
 
 ---
 
@@ -812,6 +971,9 @@ climax it should pay (T09); the restitution arithmetic and the ch22
 knowledge leak (T03/T22); the dock misunderstanding scene, never
 drafted (T10); the stone's recognition beat (T16).
 
-*Created 2026-07-27 as a continuity index. Cited line numbers refer
-to `manuscript/nick-manuscript-22.md` at import state (2026-07-26).
-Nothing outside this file was modified.*
+*Created 2026-07-27 as a continuity index. Adoption fold 2026-08-08
+(v2 ch1–4 accepted via PR #16). Citations: `v2 l.###` refers to
+`manuscript/manuscript-v2.md` (adopted opening, source of record);
+bare `l.###` refers to `manuscript/nick-manuscript-22.md` at import
+state (2026-07-26), the legacy trunk. Nothing outside this file was
+modified.*
