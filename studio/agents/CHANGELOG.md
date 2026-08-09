@@ -3,6 +3,18 @@
 Newest first. Every entry: version, what changed, and the evidence that
 drove it.
 
+## 2026-08-08 — plot-architect 1.3.0 → 1.4.0 (write for a stranger)
+
+New rule: snowflake prose is jacket copy — one-sentences and
+one-paragraphs must hook a reader who has never heard of the book;
+quarters read as miniature stories; technical apparatus lives in
+labeled blocks below the prose. Evidence: the author on the Nick
+Books 2-4 sketch (PR #26 read): "You're writing it as if I already
+know the plot... the one paragraph should almost read like the back
+cover... each paragraph should read almost like a short story. Right
+now it almost reads like shorthand." Also recorded in
+DRAFTING-PROTOCOL as a rung 1-3 standard for all generators.
+
 ## 2026-08-05 — showrunner 2.0.0 → 2.1.0 (the MINOR merge lane)
 
 Author ruling amends the agents-never-merge wall for one narrow
