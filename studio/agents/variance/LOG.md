@@ -53,3 +53,4 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-08 | utility compiler (youngnick ch5 brief) | — | plots/ch5-brief.md |
 | 2026-08-08 | junior-literary-critic (mybyb keep-warm read) | C3 dialogue-only first pass | notes/ outside read |
 | 2026-08-08 | showrunner (nightly shift, in-session) | — | this shift |
+| 2026-08-08 | plot-architect (nick B2-4 sketch jacket-copy rewrite) | A5 midpoint-first | sketch rewrite on PR #26 branch |

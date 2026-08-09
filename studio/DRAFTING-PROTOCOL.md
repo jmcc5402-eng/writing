@@ -110,3 +110,17 @@ battery, from cheapest to richest:
 weather, object locations, who-knows-what — lives as a table checked
 like a program (B2's rain calendar), and prose refers to it rather
 than restating it.
+
+## Snowflake prose is written for a stranger (author, 2026-08-08)
+
+Rung 1–3 artifacts are the first place a book must sell itself —
+including to the Director. The one-sentence and one-paragraph must
+work as JACKET COPY: a reader who has never heard of the book should
+be hooked by them. Each quarter (and each chapter entry at rung 3)
+reads as a compelling miniature story with momentum and stakes —
+never a beat inventory, never insider shorthand that assumes the
+reader already knows the plot. Technical apparatus (PLANTS/PAYS,
+ledger lines, clocks, density declarations, state chains) stays in
+its labeled blocks BELOW the prose. Evidence: the author on the Nick
+Books 2–4 sketch — "you're writing as if I already know the plot...
+it should almost read like the back cover."
