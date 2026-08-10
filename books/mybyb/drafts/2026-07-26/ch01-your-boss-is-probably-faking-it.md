@@ -100,9 +100,6 @@ They're only wrong about the amount.
 It's free — and that's the other secret in this book,
 the one that gets a chapter of its own.
 
-[CHECK: retargeted 90% line above — final copy needs author approval
-before it replaces the manuscript version; log in CHANGELOG.md]
-
 Competence, in a room full of fakers, is a **vacuum.**
 The problems your boss is performing-around are sitting right there.
 Unclaimed.
