@@ -55,3 +55,4 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-08 | showrunner (nightly shift, in-session) | — | this shift |
 | 2026-08-08 | plot-architect (nick B2-4 sketch jacket-copy rewrite) | A5 midpoint-first | sketch rewrite on PR #26 branch |
 | 2026-08-08 | plot-architect (campus series, alignment sweep) | A5 midpoint-first | books/campus-series/notes/plot-sweep-2026-08-08.md |
+| 2026-08-09 | plot-architect (youngnick B2 full rewrite — goal, creature, braid) | A2 subplot audit | plots/book-02-premise.md |
