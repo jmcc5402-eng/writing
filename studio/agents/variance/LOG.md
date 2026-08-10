@@ -56,3 +56,7 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-08 | plot-architect (nick B2-4 sketch jacket-copy rewrite) | A5 midpoint-first | sketch rewrite on PR #26 branch |
 | 2026-08-08 | plot-architect (campus series, alignment sweep) | A5 midpoint-first | books/campus-series/notes/plot-sweep-2026-08-08.md |
 | 2026-08-09 | plot-architect (youngnick B2 full rewrite — goal, creature, braid) | A2 subplot audit | plots/book-02-premise.md |
+| 2026-08-10 | plot-architect (spytwins B3 Toronto restyle) | A3 sensory inventory | plots/book-03-toronto-premise.md |
+| 2026-08-10 | red-team-critic (youngnick B2 premise, pre-ratify) | C4 first-timer read | PR #33 adversarial pass |
+| 2026-08-10 | utility compiler (mybyb Part I adoption prep) | — | branch prepped, not opened |
+| 2026-08-10 | showrunner (nightly shift, in-session) | — | this shift |
