@@ -89,3 +89,22 @@ deleted.
   the newsroom's own activation PR merges — so if that PR is
   unmerged, no newsroom nightly agent exists yet. That is a gate,
   not a bug.
+
+## Hazard: parallel agents share ONE working tree
+
+Background agents run in the same checkout as the orchestrator. An
+agent that runs `git checkout` / `git checkout -b` moves HEAD and the
+working tree **for everyone**, and work can appear to vanish
+mid-sequence. Observed 2026-08-10: an orchestrator commit chain
+reported success while a concurrent agent was creating a branch, and
+the file was never actually recorded — `git log --all -- <path>`
+returned nothing.
+
+Rules that follow:
+- **Never dispatch two agents that both change branches.** Prefer
+  briefs that only read and return text, or that edit files in place
+  on the current branch.
+- **Agents that need a branch get it prepared for them** by the
+  orchestrator, one at a time.
+- **Verify, don't trust the exit code:** after any commit that matters,
+  confirm with `git log --oneline -- <path>` before reporting it done.
