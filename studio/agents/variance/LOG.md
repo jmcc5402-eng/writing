@@ -64,3 +64,6 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-11 | red-team-critic (spytwins B3 premise, pre-PR) | C6 comp-shelf read | notes/b3-redteam-2026-08-11.md |
 | 2026-08-11 | developmental-editor (youngnick T10 — the mute leads) | E6 weight what's missing | notes/nick-grace-dialogue-2026-08-11.md |
 | 2026-08-11 | showrunner (nightly shift, in-session) | — | this shift |
+| 2026-08-11 | drafting-assistant (youngnick ch5 blind competition, run A) | D3 short-declarative | drafts/2026-08-11/ch5-candidate-A.md |
+| 2026-08-11 | drafting-assistant (youngnick ch5 blind competition, run B) | D4 minor-character competence | drafts/2026-08-11/ch5-candidate-B.md |
+| 2026-08-11 | drafting-assistant (youngnick ch5 blind competition, run C) | D5 weather as texture | drafts/2026-08-11/ch5-candidate-C.md |
