@@ -336,6 +336,26 @@ recommendation, baked into the plan but easy to change if you disagree.
     the book's payoff. The payoff is the ending (decision 9) and the
     incorporation of the magic. [TK: soften §1's "keystone image" framing,
     which currently presents this scene as the book's central payoff.]
+11. ✅ **LOCKED (author, 2026-08-11) — The far station (Book 2): a
+    kept workshop, wreck-supplied; the keeper unnamed, his fate
+    unstated.** A man kept the station before Nick; its cedar and
+    iron came off a ship that never went home (the keeper's salvage);
+    no body is ever found, and the page never says what ended the
+    keeper's visits — Nick presumes, the book doesn't confirm. Nick
+    surpasses rather than inherits: everything Santa-shaped about
+    the place is something he does to it. The landing is causal, not
+    luck: the sleigh went home. Full build: `plots/book-02-premise.md`,
+    THE STATION RULING block.
+    **MAYBE (spoiler-grade, NOT canon): the keeper may one day be
+    revealed as Nick's father** — candidate late-Book-2-or-later
+    reveal. Do not plant toward it; do not foreclose it. The
+    fate-unstated rule above is the guardrail; the only permitted
+    seed is Book 1's existing one (the belt's emblems match the
+    sleigh cave). Ruling on this maybe is its own future PR.
+    **Book 1 stays SILENT on the father's body (author, 2026-08-11):**
+    no grave scene, no "never found" line, in either direction —
+    silence is the only state that preserves both versions of the
+    maybe without telegraphing a twist.
 
 > **On the "wink vs. explicit" reveal (the one you were unsure about):**
 > The wink is almost always the stronger, more magical choice, and it's the norm
