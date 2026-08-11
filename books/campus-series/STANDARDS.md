@@ -8,6 +8,13 @@ Last updated 2026-08-06.
 
 ---
 
+**Author note (2026-08-08):** ship four at a time — the quartet is
+the unit of work and of launch; sixteen is long-term vision, not a
+plan of record. And every rule below is negotiable by PR: rules
+exist to protect the books, not to veto great ideas — when an idea
+collides with a rule, open the PR and argue it; only the genre walls
+(HEA, consent, safety rules R1–R2) are non-negotiable.
+
 ## Locked (author, 2026-08-06)
 
 1. **No students as active characters.** Students may be discussed,
@@ -75,14 +82,60 @@ A testable rule, so every chapter can be checked against it:
 11. **POV: dual, alternating.** [TK: first vs. third person — the
     35–45 contemporary shelf supports both; decide once]
 
+### Safety rules — Rules v1, absorbed from the college-parents
+### research (2026-08-02 memo, `studio/ideas/`)
+
+The author stated four base rules in an earlier thread; the research
+memo assessed them and proposed five additions. The four are
+author-stated (lock-equivalent, restated here); the five additions
+are PROPOSED. Together they supersede this doc's earlier, weaker
+instructor-student line and answer the alignment audit's
+student-definition and adult-power-ceiling open questions.
+
+- **R1 (author).** No student is a romantic or sexual participant,
+  object, or focalized character — anywhere in the series. (Widened
+  per the memo to cover gaze and POV, not just involvement.)
+- **R2 (author).** The romantic cast is the whole adult ecosystem of
+  the college town — owners, staff, faculty, coaches, trainers,
+  medical and program staff, journalists, townies, alumni, and
+  parents alike. No occupation is privileged and none is off-limits;
+  the only cast exclusion is R1 (never a student). Where a lead's job
+  could give them evaluative, academic, or custodial power over the
+  *other* lead's kid — a professor who could teach them, a coach who
+  could roster them — that power is written out on the page (see R3).
+- **R3 (proposed).** No lead holds evaluative, custodial, or
+  financial power over the other lead's kid: no coach-of-the-kid,
+  professor-of-the-kid, advisor, RA supervisor, aid officer, or
+  admissions decider.
+- **R4 (proposed).** Money and influence never touch a kid's
+  outcomes in service of the romance — no donor leverage, no booster
+  favors, no admissions or playing-time subplots resolved by the
+  couple's power.
+- **R5 (author).** The leads' kids appear only via texts, posts, and
+  calls — never on-page as scene participants. (This doc's offstage
+  mechanic is the enforcement of R5 + R1.)
+- **R6 (author).** Colleges are fictional — invented mascots,
+  rivalries, geography; no real-school skins — and the invented
+  school culture is built as first-class worldbuilding, not generic
+  wallpaper.
+- **R7 (proposed).** The parent message board runs on an invented
+  platform; all posts invented, written in the documented register,
+  never lifted or near-paraphrased from real posts or identifiable
+  people. [TK: platform name — canon decision]
+- **R8 (proposed).** On-page party geography is adults-only;
+  students at mixed events (tailgates, move-in) are background and
+  logistics only.
+- **R9 (proposed).** Metadata bright line: categories and keywords
+  say later-in-life / seasoned / second-chance; "college" appears in
+  blurb and hook copy only; covers unambiguously read
+  both-leads-adult.
+
 ### Content lines (reader-trust rules for this shelf)
 
 12. **No cheating between leads, and infidelity is never romantic.**
     Exes and divorces exist; affairs are backstory or antagonist
     material, not the romance.
-13. **No instructor–student or any adult–student romance, full stop.**
-    Mostly mooted by the no-students rule; stated anyway because the
-    setting makes readers check.
+13. **Adult–student romance: banned outright by R1–R2 above.**
 14. **Grief and divorce are handled with weight,** not as quirky
     setup. This readership has lived them.
 15. **Alcohol is dinner-party, porch, and pub** — adult texture, not
