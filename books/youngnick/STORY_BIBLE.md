@@ -352,6 +352,10 @@ recommendation, baked into the plan but easy to change if you disagree.
     fate-unstated rule above is the guardrail; the only permitted
     seed is Book 1's existing one (the belt's emblems match the
     sleigh cave). Ruling on this maybe is its own future PR.
+    **Book 1 stays SILENT on the father's body (author, 2026-08-11):**
+    no grave scene, no "never found" line, in either direction —
+    silence is the only state that preserves both versions of the
+    maybe without telegraphing a twist.
 
 > **On the "wink vs. explicit" reveal (the one you were unsure about):**
 > The wink is almost always the stronger, more magical choice, and it's the norm
