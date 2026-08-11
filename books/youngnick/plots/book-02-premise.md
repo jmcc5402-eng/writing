@@ -22,10 +22,10 @@ carried as `[TK ...]`.
 (`notes/b2-redteam-2026-08-10.md`) returned revision 1 with a verdict
 of SEND BACK, one revision pass. This file applies F1, F4, F5, F6, F7,
 F8, F9, F11, F13, F15, F16 and F17, in the order that pass prescribed.
-It does **not** answer F2/F3 — what the far station actually is — which
-is the author's ruling. The revision is written so it survives any of
-the three rulings, and the STATION FORK block below names every passage
-that changes under each. F10, F14 and F19 are also left open and
+F2/F3 — what the far station actually is — was the author's ruling
+and is now RULED (2026-08-11): a kept workshop, wreck-supplied, the
+keeper unnamed and his fate unstated. See THE STATION RULING block,
+which also settles F10's inheritance. F14 and F19 remain open and
 flagged.
 
 Variance card A1 (antagonist-first) is applied literally.
@@ -289,7 +289,7 @@ It is a route.
 The thing walks a long circuit of an empty country and calls at every
 place where hands have changed something, and it takes what has lately
 been changed, and it comes back sooner where there is more of it.
-Which means the dead man was killing himself with his own diligence,
+Which means the man before him was feeding it with his own diligence,
 and so is Nick, and it also means the interval is not a fact.
 It is a dial, and Nick's hands are on it.
 
@@ -426,14 +426,18 @@ has a man's hands on it, which is the entire climax.
 
 **Why it has never killed him (F8).** It does not hunt men.
 It has no use for him at all.
-The dead man did not die of teeth.
-He died because a thing that takes hafts, runners, mends, latches and
-rendered fat took him down to nothing over a season, and the harder he
-worked to replace what was gone the sooner it came back for the
+If the country ended the man before him, it did not end him with
+teeth.
+A thing that takes hafts, runners, mends, latches and rendered fat
+took his stores down to nothing over a season, and the harder a man
+works to replace what is gone the sooner it comes back for the
 replacement, and up here a man who cannot work does not last the
 winter.
+That is Nick's reading, and the worst one. The marks simply stop
+mid-count; what actually became of the keeper the page never says
+(station ruling, point 3 — the door stays open on purpose).
 The wall's shortening gaps are that spiral, cut in stone, in the
-victim's own hand, in front of Nick from chapter two.
+man's own hand, in front of Nick from chapter two.
 
 **What it never does.** It is never explained, never named by the
 narration, never given a motive, and never given a name a reader can
@@ -621,10 +625,12 @@ will eventually have to stand in front of again; contact with the
 country's wild herds [TK how much, if any, this book wants — the team
 of eight is Book 4's debt].
 
-**LOCKS (Santa mythos).** THE WORKSHOP — earned entirely as repair
-necessity and never named for what the reader knows it is.
-**The wording of this lock depends on the author's station ruling and is
-restated in the STATION FORK block below rather than settled here.**
+**LOCKS (Santa mythos).** THE WORKSHOP — a shop at the top of the
+world that a man kept before Nick, and that Nick **makes his own**,
+earned entirely as repair necessity and never named for what the
+reader knows it is. The keeper came first; the workshop the reader is
+thinking of is the one Nick builds out of what he left. (Station
+ruling applied — see THE STATION RULING block below.)
 One further grain, deepening S04 rather than adding a tradition: the
 first thing Nick ever gives away to something that cannot thank him is
 the thing that has been trying to ruin him, and he gives it in the form
@@ -727,43 +733,47 @@ port where he hears the story.
   water moving overhead, the harness creaking, and one animal a long
   way off in the dark with its head down, working.
 
-## THE STATION FORK — the author's ruling (F2 + F3)
+## THE STATION RULING — RULED (author, 2026-08-11)
 
-**Not decided here.** The adversarial pass raised two linked
-objections, and they are one ruling.
-F2: the station demotes Nick from originator to successor, because a
-man already kept a workshop at the top of the world and Nick moved in.
-F3: the station is the series' largest coincidence, and its cedar,
-iron and forges have no stated origin in a country with no road, no
-trees and no harbor.
+**The station is a kept workshop, and a wrecked ship is where its
+materials came from.** Ruled on the F2 + F3 fork — a hybrid of (a)
+and (b):
 
-The three rulings on the table are **(a) a kept workshop**, **(b) a
-wreck or depot cache**, and **(c) an empty shelter**.
-This revision is written to survive all three by keeping the fixed
-facts abstract in the prose.
-What is fixed: there is shelter; there is some worked material; a man
-was here and is not here now; there is a wall of marks; the material is
-finite and Nick spends it to the last piece.
-What is variable: how furnished the place is, and where the material
-came from.
+1. **A man kept this place before Nick.** The bench, the wall of
+   marks, the worked timber — a keeper's. **No detail about who he
+   was:** no name, no history, no lineage on the page in this book.
+2. **The materials came off a ship that never went home.** The
+   cedar, the iron, the stocked shelves — wreck salvage, hauled and
+   worked by the keeper. One origin supplies the wood, the iron, and
+   the isolation (the supply line ended when the ship did). Evidence
+   on the page stays glancing — ship-drilled bolt holes in a bench
+   plank, a deck beam's scarf, sailcloth in the chinking [TK pick
+   one or two; a line each, never a scene].
+3. **The keeper's fate is never stated.** No body, ever (open
+   question 5 hardens from PROPOSAL to part of this ruling). His
+   marks stop mid-count; Nick reads the worst into it; the page
+   neither confirms nor denies. Where these docs say "the dead
+   man," that is Nick's presumption, not book fact.
+4. **The landing is causal, not luck (F3).** The sleigh went home —
+   the warp returned it to its own station. One line on the page,
+   and the coincidence dies.
+5. **Priority (F2), answered:** Nick is the successor to a keeper
+   but the founder of the workshop the reader is thinking of —
+   everything Santa-shaped about the place is something Nick does
+   to it, and he surpasses the man before him: he does what that
+   man never dared, stops defending the work and offers it.
 
-| Passage | (a) kept workshop | (b) wreck or cache | (c) empty shelter |
-|---|---|---|---|
-| Q1, "shelter, and iron, and worked timber, and a bench somebody kept" | keep as written | "a ship's iron, deck timber, and a bench somebody knocked together out of it" | "shelter, a little iron, and nothing else — the timber is the sleigh's own cargo box and what he can salvage" |
-| Q4, "the last good timber in the place" | the dead man's own bench | a deck beam | the door Nick hung himself, which makes the cost his own work twice over |
-| The wall of marks | the keeper cut it | a survivor cut it | somebody cut it and it is the only thing left of him |
-| SERIES LEDGER "LOCKS — THE WORKSHOP" | needs rewording; under (a) the priority problem is real and the lock should read *Nick makes it his* rather than *a shop kept by one man* | clean; the shop is Nick's, built out of a dead expedition's materials | cleanest for SC1; the workshop is Nick's from the first plank |
-| The landing's coincidence (F3) | needs a stated reason the stone put him within walking distance [TK] | a compass keyed to worked iron, or to the wreck, makes the landing causal at one line's cost | needs the same [TK]; the shelter is a bare accident of geology |
-| The cedar problem | unsolved; needs a supply route, and a supply route collapses the isolation | solved outright; the wreck brought the wood, the iron and the man | solved by having almost none, which makes the book harder and better |
-| Book 3's stocked station and Book 4's home (F10) | inherits fully furnished | inherits salvage plus whatever Nick has added | inherits only what Nick has built, which is the strongest series arc and the largest rewrite |
+**MAYBE, socked away (spoiler-grade; author, 2026-08-11):** the
+keeper may one day be revealed as **Nick's father** — a candidate
+late-Book-2-or-later reveal. Not canon. Do not plant toward it; do
+not foreclose it. Point 3 above is the guardrail that keeps it
+alive (a keeper confirmed dead at the station forecloses Dad, who
+died in the Bronston earthquake). The only permitted seed is the
+one Book 1 already carries: the belt's emblems match the sleigh
+cave. Recorded in bible §7.11.
 
-Two notes the ruling should carry.
-First, the one defense of the current draft worth preserving under any
-ruling is that Nick **surpasses** the man before him — he does what
-that man never dared, which is to stop defending his work and offer it.
-Second, whatever the ruling, the wood must have a stated origin,
-because the climax's cost structure depends on the material being
-finite and countable.
+F10 downstream: Book 3 inherits a kept station plus wreck salvage
+plus whatever Nick has added; Book 4's herds unchanged.
 
 ## WHAT THIS REVISION ANSWERS
 
@@ -814,13 +824,12 @@ All PROPOSAL-tagged. Nothing decided silently.
    the rung contract: in that scene Grace names the sailing and Nick
    says he will be there. **This is a hard dependency on an unratified
    PR and a blocker on ratifying this one.**
-4. **The far station.** See the STATION FORK block. The bible asks for
-   a ruling before Volume 2 (§12; the 2013 "is he currently Santa?"
-   sheet and T24's dashed shared dream are the same fork). This
-   revision takes no position beyond noting that whatever the ruling,
-   the material must have an origin and Nick must surpass rather than
-   inherit.
-5. **What Nick finds of the man before him.** PROPOSAL: no body, ever.
+4. ~~**The far station.**~~ RULED (author, 2026-08-11): kept
+   workshop, wreck-supplied, keeper unnamed, fate unstated — see THE
+   STATION RULING block. The 2013 "is he currently Santa?" sheet and
+   T24's dashed shared dream fold into the MAYBE recorded there.
+5. **What Nick finds of the man before him.** RULED with the station
+   ruling (2026-08-11): no body, ever.
    The stopped count, the unfinished small work, the latch broken from
    the outside, and — in the watching-bed above the door, at the 50%
    turn — one man-made object that has no business being up there [TK

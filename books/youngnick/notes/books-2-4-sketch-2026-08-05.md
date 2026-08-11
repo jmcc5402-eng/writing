@@ -1,6 +1,6 @@
 # Young Nicholas — Books 2–4, Snowflake Rungs 1–2
 
-RATIFIED as the working series shape — author merge of the ratification PR, 2026-08-07. (Was: PROPOSED — rung 1–2 sketch awaiting author approval) Open questions inside remain PROPOSAL-tagged; each graduates via its own PR.
+RATIFIED as the working series shape — author merge of the ratification PR (#26), 2026-08-11. (Was: PROPOSED — rung 1–2 sketch awaiting author approval) Open questions inside remain PROPOSAL-tagged; each graduates via its own PR.
 (plot-architect 1.3.0, 2026-08-05, variance card A3)
 
 Prose restyled to the write-for-a-stranger standard (plot-architect
