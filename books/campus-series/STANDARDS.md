@@ -95,13 +95,18 @@ student-definition and adult-power-ceiling open questions.
 - **R1 (author).** No student is a romantic or sexual participant,
   object, or focalized character — anywhere in the series. (Widened
   per the memo to cover gaze and POV, not just involvement.)
-- **R2 (author + memo gap b).** Any professor romance is
-  professor-with-parent only; the professor never teaches, grades,
-  advises, or could plausibly encounter either lead's kid
-  academically — stated on the page.
+- **R2 (author).** The romantic cast is the whole adult ecosystem of
+  the college town — owners, staff, faculty, coaches, trainers,
+  medical and program staff, journalists, townies, alumni, and
+  parents alike. No occupation is privileged and none is off-limits;
+  the only cast exclusion is R1 (never a student). Where a lead's job
+  could give them evaluative, academic, or custodial power over the
+  *other* lead's kid — a professor who could teach them, a coach who
+  could roster them — that power is written out on the page (see R3).
 - **R3 (proposed).** No lead holds evaluative, custodial, or
   financial power over the other lead's kid: no coach-of-the-kid,
-  advisor, RA supervisor, aid officer, or admissions decider.
+  professor-of-the-kid, advisor, RA supervisor, aid officer, or
+  admissions decider.
 - **R4 (proposed).** Money and influence never touch a kid's
   outcomes in service of the romance — no donor leverage, no booster
   favors, no admissions or playing-time subplots resolved by the
