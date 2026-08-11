@@ -60,3 +60,7 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-10 | red-team-critic (youngnick B2 premise, pre-ratify) | C4 first-timer read | PR #33 adversarial pass |
 | 2026-08-10 | utility compiler (mybyb Part I adoption prep) | — | branch prepped, not opened |
 | 2026-08-10 | showrunner (nightly shift, in-session) | — | this shift |
+| 2026-08-11 | plot-architect (youngnick B2 revision F1+F4) | A1 antagonist-first | scratchpad revision, orchestrator commits |
+| 2026-08-11 | red-team-critic (spytwins B3 premise, pre-PR) | C6 comp-shelf read | notes/b3-redteam-2026-08-11.md |
+| 2026-08-11 | developmental-editor (youngnick T10 — the mute leads) | E6 weight what's missing | notes/nick-grace-dialogue-2026-08-11.md |
+| 2026-08-11 | showrunner (nightly shift, in-session) | — | this shift |
