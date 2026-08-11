@@ -18,9 +18,9 @@ critique and chapters review, `SUPERCONCEPTS.md`, and the dream review.
 - ~~**Pushers/kill-check**~~ RULED 2026-08-05 (bible §3 Duff): the
   two Grins alone; nobody descends. Was: or Duff descending (2015
   line). → RECON delta 11; THREADS T15
-- ~~**Ending shape**~~ RULED 2026-08-06 (bible §7.9b): the VANISH —
-  "Nick who?"; Grace alone keeps the truth. Still open, its own PR:
-  the 4.8 climax variant. → critique rec 4; RECON delta 15
+- ~~**Ending shape**~~ RULED 2026-08-06 (bible §7.9b): the VANISH.
+  ~~4.8 climax variant~~ RULED 2026-08-11 (bible §7.9c): the
+  Grin-survives build; aftershock retired. → RECON delta 15
 - **Balk upgrade in ch2:** silent (drafted) or played failed
   conversation. → DRAFT-NOTES q1; snowflake beat 10
 - **Wake-to-gold re-scope:** confirm ch12 (scene 3.2) as the decision-10

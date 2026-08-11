@@ -284,9 +284,7 @@ recommendation, baked into the plan but easy to change if you disagree.
    step 6) follows the rescue as the coda. Seed material is now in the
    repo: `manuscript/scenes/nick-4-8-heather-outcome-at-cliff.md` — a
    drafted scene that already contains the catch, plus two alternate
-   ending variants [TK: pick the variant — main scene / police-interrupt
-   outline / the "Jim Grin holds her, evil Grin survives and sees Nick
-   fly" hook that would open the next book]. **Second save (author,
+   ending variants (variant RULED — see 9c). **Second save (author,
    2026-07-27):** after the mid-air catch, Grace ends up hanging from the
    sleigh and Nick's KNOT work saves her — the 4.8 scene currently holds
    her by grip alone; the knot save is the top rung of the planted ladder
@@ -307,6 +305,31 @@ recommendation, baked into the plan but easy to change if you disagree.
    and belt return happen AWAY from town eyes, before the warp.
    Follow-up decision (its own PR): which 4.8 climax VARIANT — main
    scene / police-interrupt / "a Grin survives and sees Nick fly."
+   → RULED: see 9c.
+9c. ✅ **LOCKED (author PR #27; judged 2026-08-07, ratified
+   2026-08-11) — The 4.8 climax variant: the GRIN-SURVIVES build** —
+   the `(( Other draft ))` ending shape on the main scene's drafted
+   spine. The mid-air catch onto the sleigh skis and the cliff-scrape
+   climb stay as drafted in scene 4.8; the aftershock resolution is
+   RETIRED (no-luck rule) — Donald's fall is self-authored: Nick,
+   restraint over revenge, throws him the tied line, and Donald
+   refuses it to lunge for the gold. The town presumes Donald dead;
+   he alone survives downriver, having seen a dead man fly — a
+   witness who cannot speak without confessing and would not be
+   believed if he did (per 4.7's James arrest: "a flying sleigh took
+   the gold," dismissed). This does not breach 9b's vanish — it
+   armors it: the town never learns, Grace alone holds the whole
+   truth; Donald holds one impossible fragment. The police-interrupt
+   outline is MINED, not adopted — distant police sounds (planted by
+   4.7's town-learns sequence, not coincidence) scatter the henchmen
+   before the rescue. The grip-only hold upgrades to the knot save
+   per decision 9's second-save rider [TK: mechanics of the knot
+   save — which knot, and what it costs — still open]. Donald's
+   waking mirrors Nick's ch1–2 survival and is Volume 2's hint and
+   Volume 4's fuse (§12). Scoreboard 35–21–12:
+   `notes/climax-variant-judging-2026-08-07.md`. [CHECK: the
+   `(( Other draft ))` names "Jim Grin" — read as James Grin;
+   confirm.]
 10. ✅ **LOCKED (author, 2026-07-27) — The wake-to-gold morning is subtle.**
     The town waking to its returned gold is a quiet gift along the way —
     deliberately understated, one grain of the legend among several — NOT
