@@ -4,7 +4,7 @@ Series-level constraints and standards. **Locked** items are author
 decisions — canon, per hard rule 7. **Proposed** items are drafted for
 approval and are not canon until the author locks them.
 
-Last updated 2026-08-06.
+Last updated 2026-08-11.
 
 ---
 
@@ -161,6 +161,27 @@ student-definition and adult-power-ceiling open questions.
     touch at least one town institution that is not the college and
     not a chat room (the diner, the inn, the pub, the paper, the
     sugarhouse, the surf shop, the market)?
+22. **Quartet severability (proposed 2026-08-11).** Each quartet
+    lands complete for a reader who stops there: the set antagonist
+    beaten on the page, all four HEAs delivered, and every dangling
+    series thread reading as *texture* (an unexplained letter, one
+    odd line in a deed, two strangers arguing at a party) — never as
+    a *promise* (no cliffhanger, no debt a set-only reader can feel
+    as unpaid). S## OWED markers stay in the ledgers; this standard
+    governs what the reader feels, not what the ledger tracks.
+    *Set test:* would a reader who will never open the next set
+    finish this one satisfied — and notice the series plants only on
+    reread?
+23. **Set 1 first-pick; plants pay local rent (proposed
+    2026-08-11).** Books 1–4 are never made worse to protect books
+    5–16. The sixteen-book contracts — the no-repeat trope grid,
+    S## payoff slots, reserved finale moves — are warnings for
+    Set 1, not walls: if a Set 1 outline wants a move reserved for a
+    later book, Set 1 takes it and the future adapts. And no Set 1
+    scene exists only to serve a later set — every series plant must
+    also advance its own book's A- or B-story. (See
+    `notes/set-one-first-2026-08-11.md` for the severability
+    interface that replaces finale-first sequencing.)
 
 ## Implications of the pivot (flags, not fixes)
 
