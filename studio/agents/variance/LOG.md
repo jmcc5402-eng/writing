@@ -67,3 +67,4 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-11 | drafting-assistant (youngnick ch5 blind competition, run A) | D3 short-declarative | drafts/2026-08-11/ch5-candidate-A.md |
 | 2026-08-11 | drafting-assistant (youngnick ch5 blind competition, run B) | D4 minor-character competence | drafts/2026-08-11/ch5-candidate-B.md |
 | 2026-08-11 | drafting-assistant (youngnick ch5 blind competition, run C) | D5 weather as texture | drafts/2026-08-11/ch5-candidate-C.md |
+| 2026-08-11 | utility judge (youngnick ch5 blind competition) | — | notes/ch5-competition-judging-2026-08-11.md |
