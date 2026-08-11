@@ -2,10 +2,6 @@
 
 *Part II — Take the Wheel*
 
-[TK: part label — CONCEPT.md seats this chapter as the Part II opener;
-author may relabel it into Part I. The 1-2-3-4 sequence is binding
-either way; the label is cosmetic.]
-
 Three chapters, three excuses gone.
 You can't believe the person above you earned the space above you.
 You can't believe the scoreboard counts what you do.

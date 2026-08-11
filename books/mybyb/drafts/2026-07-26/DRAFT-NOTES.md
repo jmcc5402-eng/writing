@@ -1,11 +1,18 @@
 # Draft notes — Part I chapters 1–4 (2026-07-26)
 
 First-draft pass by the ghostwriter, built to the binding brief in
-`notes/snowflake-2026-07-26.md`. Nothing outside this folder was
-touched; the manuscript copy of ch01 in `manuscript/reboot/` is
-unchanged and still authoritative until the author approves this
-rebuild. Word counts (body + interstitial): ch01 ~1,240; ch02 ~1,290;
-ch03 ~1,210; ch04 ~1,230.
+`notes/snowflake-2026-07-26.md`. Word counts (body + interstitial):
+ch01 ~1,240; ch02 ~1,290; ch03 ~1,210; ch04 ~1,230.
+
+> **Status: RATIFIED 2026-08-10** — the author's eight Part I rulings
+> are recorded below and in `CHANGELOG.md`. These four files are the
+> accepted Part I text. Two mechanical jobs ride separately and are not
+> in this ruling: the **revision pass** (executes rulings 4 and 5 plus
+> the handoff/pull-quote/wait-beat fixes) and the **promotion** of
+> D-01–04 into `manuscript/reboot/`, retiring the old
+> `reboot/01`, with the `THREADS.md` update that acceptance triggers.
+> Until the promotion lands, `manuscript/reboot/01` is the file on
+> disk but no longer the ruling text.
 
 ## Ch01 — what was kept, verbatim or near-verbatim
 
@@ -30,9 +37,9 @@ ch03 ~1,210; ch04 ~1,230.
    this in the group chat." New copy follows the shape proposed in
    the lexicon analysis §3 (scared, mispricing the cost — never
    complainers) and plants the standing-out tax ("It's free — and
-   that's the other secret in this book"). Marked with an inline
-   [CHECK] because final copy needs author approval and a
-   CHANGELOG.md entry when it lands in the manuscript.
+   that's the other secret in this book"). Carried an inline CHECK
+   flag pending author approval; approved as drafted 2026-08-10
+   (ruling 1) and logged in `CHANGELOG.md`.
 2. **Peter Principle quotable form landed, attributed** (lexicon
    analyst Ruling 3 / snowflake Edit 2): "You rise to your highest
    level of incompetence." now appears once, credited to Laurence
@@ -149,39 +156,79 @@ ch03 ~1,210; ch04 ~1,230.
 
 ## Every [TK] / [CHECK] in these drafts
 
-- ch01 inline — [CHECK: retargeted 90% line — final copy needs author
-  approval before it replaces the manuscript version; log in
-  CHANGELOG.md].
-- ch04 inline — [TK: part label — Part II opener vs. Part I closer;
-  sequence binding, label cosmetic].
+Closed by the 2026-08-10 rulings (brackets dropped so the greps stay
+clean):
+
+- ch01 inline CHECK, the retargeted 90% line → ruling 1, approved as
+  drafted; flag removed from the chapter.
+- ch04 inline TK, the part label → ruling 3, Part II opener; flag
+  removed from the chapter.
+- Notes-level TK, record the tax co-thesis in CONCEPT.md → ruling 7,
+  landed.
+- Notes-level TK, record the Bell Curve "scared, not wrong" reframe in
+  LEXICON.md → ruling 8, landed.
+
+Still open:
+
+- [TK: branded name for the Cheap Power feature — boxes keep the
+  placeholder header "CHEAP POWER" per ruling 6; the LEXICON row for
+  the feature rides with the lexicon-rows job.]
 - Notes-level (carried from the snowflake, author actions, not
   drafter calls):
-  - [TK: record the tax co-thesis in CONCEPT.md (hook + engine +
-    read), per house rule 7.]
-  - [TK: record the Bell Curve "scared, not wrong" reframe in
-    LEXICON.md's Difference Bell Curve row — ch04 above drafts on
-    that reframe; the LEXICON row still carries the old "90% wrong"
-    wording.]
-  - [TK: branded name + LEXICON row for the Cheap Power feature —
-    boxes here use the placeholder header "CHEAP POWER".]
   - [CHECK: Peter Principle attribution as rendered in ch01
     ("A professor called Laurence Peter... published it as satire")
     — factually standard, but verify phrasing before print.]
   - [CHECK: wakeboard chapter slot, file 09 vs. spine position 11 —
     carried from the snowflake, unaffected by these drafts.]
 
-## Questions only the author can answer
+## The Part I rulings (LOCKED 2026-08-10)
 
-1. Approve (or redline) the ch01 group-chat retarget copy — the one
-   blocking edit. Everything in ch03–04 assumes it lands.
-2. Named menu or descriptive menu at the end of ch04 (see ch04 notes
-   — reserved-lexicon rule vs. snowflake close directive)?
-3. Part label for ch04, and whether the running heads say Part I
-   ends at ch03 or ch04.
-4. Does "Bring a calculator" (ch01 handoff) read as your voice, or
-   too cute? It's the newest seam in the rebuilt chapter.
-5. The Escher beat in ch02 and the wine-critic beat in ch01 are the
-   two jokes most likely to be "ghostwriter flavor" rather than
-   yours — flagging them for keep/kill.
-6. Cheap Power branding: keep "CHEAP POWER" as the box header, or
-   hold headers until the [TK] branded name lands?
+Questions 1–6 below were the author-only calls; 7–8 were the two
+standing draft-vs-canon conflicts. All eight are now settled. House
+rule 7: recorded, not remembered.
+
+1. **Ch01 group-chat retarget — APPROVED as drafted.** The retargeted
+   copy (draft ch01, "the 90% who saw / exactly what you just saw —
+   and took it back to the group chat, / because standing out feels
+   expensive… It's free") stands as final. The inline CHECK flag is
+   retired. Ch03's quiet-quitting framing and all of ch04 are built on
+   this fear frame; approving it unblocks them.
+2. **Ch04 closing menu — DESCRIPTIVE, not named.** The
+   reserved-lexicon single-home debut rule wins over the snowflake's
+   close directive; Grenade / Olympic Rings / BIU / CFC each debut in
+   their own Part II chapter. Recorded in `docs/LEXICON.md`
+   ("Reserved lexicon"). The named menu remains a four-line swap if
+   the author reverses.
+3. **Ch04 part label — PART II OPENER.** Running heads say Part I ends
+   at ch03. CONCEPT.md's spine already seats the Bell Curve chapter in
+   Part II and canon wins; the 1→2→3→4 sequence was binding either
+   way. The inline TK flag is retired.
+4. **"Bring a calculator" — CUT as ch01's last line** (author's voice
+   call; ruled to the keep-warm read's recommendation). Ch01 ends on
+   "The final boss has a health bar. Aim for it."; the scoreboard
+   handoff is capped at two lines and moved above that close. Reason:
+   the trailer-voice ending ran 4/4 chapters, and fifteen lines of
+   tease after the health bar is a mic-drop regression. Executed by
+   the revision pass, not by this ruling.
+5. **Seam jokes — KILL Escher (ch02), KEEP the wine critic (ch01)**
+   (author's voice call; ruled to the keep-warm read's dissent). The
+   wine critic is an office-adjacent status joke inside the book's own
+   register; Escher is reference-humor from a different shelf.
+   Executed by the revision pass.
+6. **Cheap Power box header — KEEP the placeholder "CHEAP POWER."**
+   The recurring header ships now so the feature reads as a feature and
+   the next six boxes can be written; the branded-name TK still stands
+   (carried in the open list below) and swaps in as one
+   find-and-replace when it lands. Recorded in `docs/LEXICON.md`.
+7. **Tax co-thesis recorded in `docs/CONCEPT.md`** — hook (faking it) +
+   engine (the tax) + read (gas vs. wave), per the snowflake's DECIDED
+   ruling and house rule 7. Closes the first canon lag.
+8. **`docs/LEXICON.md` Difference Bell Curve row rewritten to "scared,
+   not wrong"** — "not a ranking of ability… a heat map of fear."
+   Closes the live draft-vs-canon conflict: ch04 drafts on the reframe
+   while the row still carried the old "90% wrong" wording.
+
+Not decided here, on purpose: the **title** (its own author window),
+the **Cheap Power branded name**, and the **lexicon rows** owed for the
+tax, "Nobody's auditing," Cheap Power, walk-into-the-vacuum, and
+counterfeit/ledger.

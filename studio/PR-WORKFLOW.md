@@ -213,3 +213,16 @@ the agents-never-merge wall for ONE narrow lane:
 - **The kill switch:** the author saying "hold minors" (chat or
   VISION.md) suspends the lane until lifted; the lane also
   self-suspends for a night if any revert was requested that day.
+
+## Rule 8 — the reading-page rule (author, 2026-08-08)
+
+The author reads on a phone; GitHub renders prose badly there.
+**Any author read longer than ~a page ships with a reading page**: a
+black-on-white, single-theme HTML page generated from the committed
+text (`studio/tools/reading-page.py`), published as a private
+artifact, linked in the PR body under a "📱 Reading page" line, and
+stamped with the commit it was built from. Rebuild and republish to
+the SAME artifact URL whenever the branch's text changes. The PR
+diff remains the single source of truth — the page is a lens, never
+a fork; rulings still happen as PR comments/merges. Short decision
+PRs whose body quotes everything needed are exempt.

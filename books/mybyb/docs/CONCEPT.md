@@ -15,6 +15,23 @@ A gift-book-sized, gleefully funny survival guide for your first decade in the w
 
 The reader is not a victim managing upward. They're an operator who just noticed the final boss has a health bar.
 
+### The co-thesis: the standing-out tax *(LOCKED 2026-08-10)*
+
+The book runs on two theses, and they do different jobs. **The hook is
+"your boss is probably faking it"** — the acquisition thesis, the line
+that sells the book off a table and gets it read aloud in ten seconds.
+**The engine is the standing-out tax:** *the fear of standing out is a
+tax the average pay every single day, and you can just… not pay it.*
+That's the retention thesis — the only idea in the book that spans all
+three Parts and the closer, and the one the reader can act on Monday
+morning. Every move in Part II is the same purchase repeated: stop
+paying the tax, pick the free power up off the floor. **The read —
+gas pedal vs. ride the wave — is what the tax does *not* decide.** The
+tax tells you to move; it never tells you which direction, and Part III
+is where reading the situation takes over from simply refusing to pay.
+Planted in ch. 1 ("It's free — and that's the other secret in this
+book"), cashed as ch. 4's thesis.
+
 ## Tone — the single most important thing
 
 **Amused confidence, not anger.** The comedy engine is *status*: the reader looks **down** at a comically beatable obstacle and laughs, never **up** at an oppressor.

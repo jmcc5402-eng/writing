@@ -43,9 +43,36 @@ These are quotable, merch-able, and social-ready. Treat them as assets.
 | **The Stagecoach** (aka The Race Horse) | Teamwork: everyone pulling in different directions works harder but moves the wagon slower. | Drafted (Ch. 3) |
 | **The Olympic Rings** | Meetings: move everyone's "ring" (solution) until they align. | Drafted (Ch. 6) |
 | **Tangible vs. Intangible Problems** | Problem solving: break the intangible into tangible parts. | Drafted (Ch. 2) |
-| **The Difference Bell Curve** | Change: 90% of what you see people do is the wrong move; do the opposite. | Drafted (Ch. 10) |
+| **The Difference Bell Curve** | Change: the fat middle is **not a ranking of ability — it's a heat map of fear.** The 90% aren't wrong or lazy; they priced a danger that doesn't exist. So the visible consensus move is usually the scared move, not the smart one — do the opposite. | Reframed "scared, not wrong" — LOCKED 2026-08-10; drafted v2 ch04 |
 | **The Compass (Up/Down, Left/Right)** | Communication flows that let NR into the workplace. | Drafted (Ch. 8) |
 | **Things vs. Hope** | Two crutches bosses lean on instead of solving problems. | Drafted (Ch. 1) |
+
+> **Why the Bell Curve was rewritten (2026-08-10).** The inherited
+> framing — master text: "the lower 25% are crappy performers," "90% of
+> the actions you see people taking are likely the WRONG action" —
+> pointed the bite at coworkers, which trips the guardrail (the bite
+> points at incompetence and systems, never people). Same math, target
+> moved from people to fear. The v2 ch04 draft was already built on the
+> reframe; this row now matches the manuscript instead of contradicting
+> it.
+
+## Reserved lexicon — where a name is allowed to debut
+
+*(LOCKED 2026-08-10, with rulings 2 and 6 of the Part I adoption.)*
+
+- **Single-home debuts.** A named framework is introduced in exactly one
+  chapter — its home — and only gestured at elsewhere. Reserved for
+  their own homes in Part II: **Volunteer for the Grenade**, **The
+  Olympic Rings**, **BIU (Bump It Up)**, **CFC**. Earlier chapters
+  describe the move in plain language rather than naming it. This is why
+  ch. 4's closing menu is **descriptive, not named** — the menu prices
+  Part II without spending its vocabulary.
+- **Cheap Power** — the recurring boxed interstitial (zero-cost, deadpan,
+  doable Monday; one image, one turn, one line out — never a list). The
+  running box header stays the placeholder **"CHEAP POWER"** so the
+  feature reads as a feature and more boxes can be written now;
+  `[TK: branded name for the Cheap Power feature]` still stands and
+  swaps in as a single find-and-replace across every box when it lands.
 
 ## The Six Competencies
 

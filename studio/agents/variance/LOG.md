@@ -49,3 +49,14 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-06 | culture-researcher (campus series settings) | A3 sensory inventory | books/campus-series/BRAINSTORM.md |
 | 2026-08-06 | plot-architect (campus series, adult-cast regen) | A2 subplot audit | books/campus-series/ADULT-CAST-IDEAS.md |
 | 2026-08-06 | developmental-editor (campus series, alignment audit) | E6 weight what's missing | books/campus-series/notes/alignment-audit.md |
+| 2026-08-08 | utility bookkeeper (youngnick THREADS fold-in) | — | THREADS.md adoption fold |
+| 2026-08-08 | utility compiler (youngnick ch5 brief) | — | plots/ch5-brief.md |
+| 2026-08-08 | junior-literary-critic (mybyb keep-warm read) | C3 dialogue-only first pass | notes/ outside read |
+| 2026-08-08 | showrunner (nightly shift, in-session) | — | this shift |
+| 2026-08-08 | plot-architect (nick B2-4 sketch jacket-copy rewrite) | A5 midpoint-first | sketch rewrite on PR #26 branch |
+| 2026-08-08 | plot-architect (campus series, alignment sweep) | A5 midpoint-first | books/campus-series/notes/plot-sweep-2026-08-08.md |
+| 2026-08-09 | plot-architect (youngnick B2 full rewrite — goal, creature, braid) | A2 subplot audit | plots/book-02-premise.md |
+| 2026-08-10 | plot-architect (spytwins B3 Toronto restyle) | A3 sensory inventory | plots/book-03-toronto-premise.md |
+| 2026-08-10 | red-team-critic (youngnick B2 premise, pre-ratify) | C4 first-timer read | PR #33 adversarial pass |
+| 2026-08-10 | utility compiler (mybyb Part I adoption prep) | — | branch prepped, not opened |
+| 2026-08-10 | showrunner (nightly shift, in-session) | — | this shift |
