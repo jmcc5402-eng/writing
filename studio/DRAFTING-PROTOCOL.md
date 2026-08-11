@@ -111,6 +111,43 @@ weather, object locations, who-knows-what — lives as a table checked
 like a program (B2's rain calendar), and prose refers to it rather
 than restating it.
 
+## The conveyor — blind-competition drafting (author, 2026-08-11)
+
+The scarce resource is the author's reading-and-ruling bandwidth;
+agent drafting is not. A human studio serializes drafting because
+drafters are expensive; this studio serializes THE AUTHOR'S READING
+and parallelizes everything else.
+
+1. **Rung-5 prose is a blind competition by default.** Every chapter
+   is drafted N times (default N=3) by independent runs: distinct
+   variance cards, same brief, same voice sample — and each drafter
+   blind to the other candidates, to neighboring chapters, and to
+   the mined source (instrument 3, now applied N-wide). Parallel
+   independence is not just faster, it is cleaner: tics cannot copy
+   between drafts that never read each other.
+2. **The author reads winners, not drafts.** Candidates go through
+   instrument judging (scored against SUPERCONCEPTS, the brief's
+   obligations, and the register test — the climax-variant
+   scoreboard is the model) plus the editorial battery. The author
+   receives ONE winner (with the runners-up's best beats flagged
+   for grafting) and rules: accept, amend, or reject. Author time
+   per chapter: one read, one ruling.
+3. **The register pilot.** The first chapter in any new POV or
+   register runs the competition FIRST and alone — the author's
+   ruling on its winner (what stayed, what got struck) becomes the
+   register calibration document every later brief in that register
+   cites. No batch-drafting in an unvalidated voice.
+4. **Plans run ahead; prose never outruns the last ruling.** Briefs
+   batch ahead freely (they are cheap and age well) and are
+   alignment-checked against canon and each other before any prose.
+   Prose holds a WIP limit of ONE: no chapter is drafted while more
+   than one earlier chapter awaits the author's ruling. A ruling
+   that shifts the voice therefore invalidates briefs at worst,
+   never finished prose.
+5. **Losers are kept, not deleted.** Runner-up candidates stay in
+   `drafts/DATE/` unadopted — they are the graft bank for the
+   winner's revision and the evidence base for register rulings.
+
 ## Snowflake prose is written for a stranger (author, 2026-08-08)
 
 Rung 1–3 artifacts are the first place a book must sell itself —
