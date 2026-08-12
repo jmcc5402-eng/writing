@@ -117,7 +117,7 @@ The unclaimed problem is claimable, it is made of ordinary parts, and
 the person carrying one is worth more than the person finishing
 tickets. They also leave knowing that free of tax was never the same
 as free of work. And they leave looking at the next room, because the
-biggest of those splits does not happen at your desk. It happens
+biggest unclaimed space of all is not at your desk. It happens
 Tuesday at ten, with five people in it, and it has been going for
 thirty-four minutes.
 
@@ -166,7 +166,7 @@ ring and yours is the one that gets slid. The second cost is less
 glamorous, and the chapter should admit it, because this is slow.
 Sometimes it takes three meetings, and the first one ends with the
 room understanding only that it disagrees, which is progress that
-feels exactly like failure. **Improvement over perfection**, and at
+feels exactly like failure. **Improvement over perfection.** And at
 the time it will not feel like either.
 
 The reader now believes a room is a workable unit, that alignment
@@ -253,7 +253,7 @@ impression of you. The account of what you actually did goes up in
 one bag, carried by one person, and whatever they can repeat is what
 you did. The rest is a rumor about a spreadsheet.
 
-So the chapter hands over the last three pieces of the book's working
+So the chapter hands over the last three pieces of Part II's working
 vocabulary, all homed here and nowhere earlier. **BLUF**, bottom line
 up front, because a boss who has to read four paragraphs to find the
 ask will carry four paragraphs of nothing up the stairs. **CFC**,
@@ -320,7 +320,7 @@ for the Part. Citations are to the ratified drafts.
 > unafraid in public. There is a direction question the tax does not
 > answer, and it belongs to a later Part.
 
-Sourced to ch04:17–18 (the tag), ch04:114–118 (eleven seconds),
+Sourced to ch04:132–133 (the tag), ch04:114–118 (eleven seconds),
 ch04:137–146 (the direction flag — ch. 4 is its definition site).
 **Ch. 5 removes:** that the move is only ever a moment. It asks for a
 quarter, not eleven seconds.
@@ -408,6 +408,15 @@ question now that the reader is competent enough to waste two years.
   visible once, in one line, on its first page — this is the Part
   where the reader spends the cheapest years they will ever have. No
   statistic unless sourced; see OQ 8.
+  `[TK: reader tenure]` — how far into the decade the reader is
+  standing is still undetermined, and this line leans on it. Ch. 3
+  bounds it at **one or more** review-and-calibration cycles already
+  waited on (ch03:61–68). The "two full review cycles" figure at
+  ch03:81–87 is the NARRATOR's release-valve confession, not the
+  reader's; an earlier gate reported it as the reader's and that was
+  wrong (K32). Ch. 8 separately assumes an annual review and a boss's
+  boss. OQ 8 forbids the statistic that would otherwise anchor this,
+  so it has to be a ruling.
 - **Superior position (what the reader knows first).** In every
   chapter the reader sees the unclaimed space before the example-room
   does: the orphaned problem in ch. 5, the five misaligned rings in
@@ -477,7 +486,9 @@ five adults each holding a different ring in silence. Nothing in the
 Part punches at a coworker, a peer, or the reader.
 
 **SC4 — wins the flip test.** Part I's machinery is a box *and* a
-pull-quote per chapter. Part II matches it: see Block 7, which names
+pull-quote per chapter — PROPOSED as a convention, since SUPERCONCEPTS
+names pull-quotes as SC4 machinery but sets no per-chapter quota and
+only ch04's is on the record. Part II matches it: see Block 7, which names
 one Cheap Power box and nominates one pull-quote for each of ch. 5–8.
 
 ## Block 5 — Venue roster (recurring settings)
@@ -572,12 +583,13 @@ by PR if the author agrees (K14).
   permissive direction (K5).
 - **"Vacancy" is retired.** It was a rival coinage for the book's
   most-used undocumented asset — "vacuum" is on the page six times
-  across Part I, once as a section heading — and inventing a
+  ten times across ch01–ch04, two of them section headings (ch01:90,
+  ch04:97) — and inventing a
   whole-Part synonym for it while rationing the original to one
   callback is exactly what the reserved-lexicon discipline exists to
   stop. Hard rule 2. Not one instance survives in this file (K7).
 - **Weather is barred as an image for the boss.** Ch01:141–144 kills
-  the frame; ch03:62–63 spends the word again on calibration. Ch. 8's
+  the frame; ch03:64 spends the word again on calibration. Ch. 8's
   metaphor lane moves off it entirely (Block 9), and no chapter in
   ch. 5–8 uses the word at all.
 
@@ -594,10 +606,14 @@ pending author calls: MYBYB as a verb, "Killer," Microfollower.
 Power box are two different artifacts, and every chapter carries one
 of each.** T11 makes the Monday move the chapter's own closing box —
 the action the chapter just argued for, run this week. T07 makes Cheap
-Power a separate recurring feature, and its box teases the chapter
-*ahead* (the Donut Move sits in ch. 3 and teases ch. 4). Ch. 4 carries
-both, and so does every chapter in Part I. That is eight artifacts
-across ch. 5–8, not four. Box is never move (D8, K23).
+Power a separate recurring feature. Ch. 4 carries both, and so does
+every chapter in Part I. That is eight artifacts across ch. 5–8, not
+four. Box is never move (D8, K23).
+**PROPOSED rule, this file's own and not T07's (K34):** a box teases
+the chapter *ahead*. The precedent is one box, the Donut Move, which
+THREADS records as a snowflake placement decision rather than a
+feature rule; of Part I's four boxes only that one teases forward.
+Extending it Part-wide needs the author's ratify — Block 11.
 
 ### The audit
 
@@ -633,13 +649,20 @@ them).**
 - **Ch. 6** — "The job is not to be right. The job is to slide the
   rings."
 - **Ch. 7** — "Nobody else in the room asked either."
-- **Ch. 8** — "Whatever your boss can repeat is what you did."
+- **Ch. 8** — "The rest is a rumor about a spreadsheet." *(K29: the
+  earlier nomination, "Whatever your boss can repeat is what you did,"
+  is the UNSCOPED form of the claim K4 forced to be scoped. A
+  pull-quote is read alone by design — SC4 — and alone it re-asserts
+  what ch01:124–126 and ch02:191–192 make impossible. If the author
+  prefers the punchier line, it may only sit on a spread that carries
+  the two-channel distinction.)*
 
 **Release valves (T18, mandatory, one per chapter).** Ch. 5: the
-narrator's own grenade, the one he picked up and quietly put back
+narrator's own grenade, the one the narrator picked up and quietly put back
 down. Ch. 6: the meeting he aligned on his own ring and called
 consensus. Ch. 7: the project he shipped beautifully into nothing.
-Ch. 8: his own upward email with the ask buried in paragraph four.
+Ch. 8: the narrator's own upward email with the ask buried in
+paragraph four.
 
 **The six names still need a keep/kill** before any box is written
 (OQ 9). They were checked against the four existing boxes — The 5:01
@@ -675,7 +698,9 @@ means only one thing in this file (A7).
   inbound problems, standing, and control. It may **not** claim
   promotion, raises, or titles. Nothing in the book supports an
   outcome that somebody else decides; ch03:69–74 has just finished
-  dismantling "Where's the promotion?" as the hopeful manager's own
+  dismantling "Where's the promotion?" (ch03:29–34, in the reader's
+  own mouth as the manager of their own career) as the hopeful
+  manager's own
   question, and re-offering the word as a reward one chapter later
   would cheapen ch. 3's best turn as well as SC2. The licensed payoff
   is the spine's own (CONCEPT.md:77): that is where the money is.
@@ -722,12 +747,15 @@ reports.
   pass (blockquoted material counted as interstitial, running heads
   and rules excluded): ch01 923+184=1,107; ch02 1,028+179=1,207;
   ch03 992+198=1,190; ch04 995+204=1,199.
+  Body alone runs ~920–1,030 (ch01 is the floor at 923).
   Two corrections this measurement forces on earlier numbers.
   DRAFT-NOTES' "~1,240 / ~1,290 / ~1,210 / ~1,230" are body **plus**
-  interstitial and predate the revision, so they run ~1–7% high;
-  and the derived "~1,050–1,150 body" in revision 2 was itself
-  ~60 words high at the floor. A Part II chapter built to 1,200–1,300
-  of *body* would run roughly 25% long against its neighbours (K15).
+  interstitial and predate the revision, so they run **~2–12% high**
+  — ch03 1.7%, ch04 2.6%, ch02 6.9%, **ch01 12.0%**. And the derived
+  "~1,050–1,150 body" — which came from K15's proposed fix in the
+  continuity report, not from this file — sits ~100 words above the
+  measured floor. A Part II chapter built to 1,200–1,300 of *body*
+  would run roughly 25% long against its neighbours (K15).
 - **Ch. 5 is the Part's heaviest chapter, not ch. 8.** It owes the
   live split (O1), the decade clock, the weight turn, a callback, a
   handoff, a box and a Monday move. Two lexicon touches were moved off
@@ -750,6 +778,14 @@ reports.
   one in a chapter.
 - **The room is five people** wherever the Olympic Rings are on the
   page, and five wherever a later chapter refers back to that room.
+  `[TK: ch. 7 room cast]` — ch. 7's minute-two room implies five
+  ("four directions," "four people's incompatible versions") but the
+  file never says whether it holds the SAME five as ch. 6's
+  minute-thirty-four room. Block 5 separates those two chapters by
+  clock position alone and admits that without the device they read
+  as one; if a drafter resolves this as "same five, same project,"
+  the separation is spent (K33). Rule it: same room, different
+  meeting — and say whether the cast repeats.
   The rings are a branded five-ring asset and the one-metaphor rule
   below means a drafter will literalize the count immediately; an
   eight-person room breaks the image on sight (D6).
@@ -786,6 +822,11 @@ reports.
    in ~1,100 body words. **PROPOSAL:** hold the Compass out of Part II
    entirely; it is either a Part III chapter's spine or a cut.
    `[TK: Compass home]`
+   **Coupled to OQ 4 — rule them together (K26).** `LEXICON.md:47`
+   defines the Compass as "communication flows that let **NR** into
+   the workplace," which makes it NR's mechanism, not a neighbour.
+   Cutting the Compass orphans NR; moving NR without it puts the two
+   halves of one framework a whole Part apart.
 2. **Three unspent signature lines, three proposed homes.**
    "Improvement over perfection." → **ch. 6** (moved from ch. 5, where
    it was the fourth optional lexicon touch in the Part's heaviest
@@ -804,6 +845,12 @@ reports.
    single paired move (state the point first so it can be repeated
    upward) and let NR carry the turn. Alternative, if it still reads
    heavy: NR moves to a Part III chapter and ch. 8 keeps two terms.
+   **Coupled to OQ 1 and to OQ 12 — rule all three together (K26,
+   K25).** The Compass is NR's mechanism in LEXICON, and OQ 12 asks
+   whether NR still means what LEXICON says it means. If NR leaves
+   ch. 8, ch. 8's turn loses its mechanism and the chapter needs a new
+   one; that fallback is deliberately not designed here, because
+   choosing it before the ruling would be guessing.
    NR is *assigned* rather than LEXICON-reserved, so this move is
    cheap. `[TK: ch. 8 term load]`
 5. **Is "Bill" the book's recurring generic colleague?** He appears in
@@ -829,7 +876,22 @@ reports.
 9. **Cheap Power slate approval.** Six names, four placed and two
    banked (Block 7). They need a keep/kill before the boxes get
    written, since recommendation 4 is the cheapest lift in the project
-   and is waiting on this list.
+   and is waiting on this list. **Two collisions found by the re-gate
+   must ride with this decision:**
+   - **The First Draft and The Recap Send collide with adopted ch. 2
+     (K27).** `ch02:110–113` tells the reader to hand exactly these to
+     the machine: "Feed it the recaps and the formatting and the first
+     drafts." A box telling them that writing a first draft is free
+     power contradicts it. Either rename, or write the reconciliation
+     into the box — "let the machine draft it; be the one who puts it
+     on the table" — which is one line and arguably the better box.
+     Block 7's confusability check was run against the four existing
+     box NAMES only, never against adopted chapter content.
+   - **The Early Ask collides with ch. 8's own Monday move (K28).**
+     That move is "send one BLUF paragraph before your next one-on-one,
+     with the ask in the first line." Same spread, same name, different
+     moves. The box teases Part III's calendar, so the name can move to
+     the horizon rather than the ask.
 10. **NEW — CFC's print form.** `LEXICON.md:11` expands CFC as
     **Crystal Fu\*king Clear**, and ch. 8 is the term's only definition
     site in the whole book, so that expansion appears in body prose
@@ -849,6 +911,21 @@ reports.
     SUPERCONCEPTS.md as an editorial rule — "visibility, inbound
     problems, standing, control; never promotion, raises, titles" — so
     Part III and the closer inherit it. `[TK: outcome-claim rule home]`
+12. **NEW, and the one nobody has been shown — NR's scope.** Ch. 8
+    writes NR as "not a diagnosis of a bad boss but a Thursday
+    condition of every ambitious one." `LEXICON.md:14` says the
+    opposite: "the **affliction of bosses who** think every thought in
+    their head was assigned." The master ore is harsher still. This
+    file changed a LEXICON row at the one place in the whole book
+    where that row is spoken aloud, and it did so to make O5 work
+    (no move may stop working when the boss is good). That reasoning
+    is sound and the change may well be right — but it is the same
+    failure mode as CFC, which was correctly routed to the author at
+    OQ 10 rather than swapped. **PROPOSAL:** rewrite the LEXICON row
+    by PR to match, OR execute OQ 4 and move NR out of ch. 8. Do not
+    let it ride: ratifying this file as it stands ratifies a silent
+    LEXICON rewrite. `[TK: NR scope — affliction vs. condition]`
+    Rule with OQ 1 and OQ 4 (K25, K26).
 
 ## Block 11 — New canon this draft establishes
 
