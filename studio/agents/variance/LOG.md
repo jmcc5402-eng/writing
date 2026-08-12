@@ -71,3 +71,5 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-12 | line-copy-editor (mybyb Part I revision pass) | E1 sentence-template repetition | drafts/2026-07-26 ch01-04 |
 | 2026-08-12 | plot-architect (mybyb Part II ch5-8 rung 3) | A4 contrarian comp | plots/part2-expansion.md |
 | 2026-08-12 | showrunner (nightly shift, in-session) | — | this shift |
+| 2026-08-12 | continuity-keeper (mybyb Part II rung-3 gate) | E4 transitions/seams first | notes/part2-continuity-2026-08-12.md |
+| 2026-08-12 | round-trip re-derivation (mybyb Part II, blind) | — (blind by design; a card is a lens the instrument must not carry) | notes/part2-roundtrip-2026-08-12.md |
