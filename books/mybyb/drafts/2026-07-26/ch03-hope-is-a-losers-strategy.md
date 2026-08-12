@@ -172,13 +172,8 @@ It's fear.
 Specifically: fear of standing out.
 The oldest tell in the room, and the last one standing.
 
-And here's the twist that earns the page-turn:
-of every problem in your career,
-that one has the cheapest fix ever priced.
-Dropping the fear costs exactly nothing.
-
-Next chapter, we do the math in public.
-Bring the manager from the mirror.
+And of every problem in your career,
+that one has the cheapest fix ever priced — exactly nothing.
 
 ---
 
@@ -206,5 +201,5 @@ Bring the manager from the mirror.
 > table.
 >
 > And the donut isn't even the point. If you're gluten-free, take one
-> anyway and stuff it in your laptop bag. Nobody's auditing. The move
+> anyway and stuff it in your laptop bag. Nobody's checking. The move
 > is being the person who goes first. The donut is just the receipt.
