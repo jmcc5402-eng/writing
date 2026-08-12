@@ -4,6 +4,26 @@ _Runbook for the automation that drives the studio. Anything a thread
 needs in order to start, fire, or rebuild the nightly showrunner lives
 here — because a session is disposable and the repo is the brain._
 
+## Author priority window (EXPIRES 2026-08-21)
+
+**Ruled by the author, 2026-08-11:** through 2026-08-21, ~80% of
+studio effort goes to `books/campus-series` — the romance program is
+the portfolio's best shot at Amazon/KU traction, and the ten-day
+window exists to convert that judgment into momentum. The remaining
+~20% covers all other books, with one override: **a pending author
+ruling is never starved** — anything already waiting on an author
+read (e.g. the Nick ch5 register ruling, PR #38) gets serviced ahead
+of new 80%-lane work, because author bandwidth is the studio's
+scarcest resource and idle rulings waste it.
+
+Dispatch guidance (showrunner and every thread): campus jobs outrank
+other books' jobs of equal size. The campus work list, in order: the
+Set-One-First ruling (PR #34), then SUPERCONCEPTS.md, the Ashford
+town census, naming/localizing the S03 pair, Set-1-scoped age math,
+the 1.1 outline. After 2026-08-21 this window expires automatically
+and dispatch reverts to normal ranking — renewing it is an author
+call, never a default.
+
 ## The nightly showrunner Routine
 
 | Field | Value |
