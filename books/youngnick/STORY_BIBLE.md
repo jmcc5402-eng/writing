@@ -357,6 +357,36 @@ recommendation, baked into the plan but easy to change if you disagree.
     silence is the only state that preserves both versions of the
     maybe without telegraphing a twist.
 
+12. ✅ **LOCKED (author, [TK date]) — The dock is a SPOKEN scene, and
+    the vanish stays town-scoped.** At ~60% Grace hears Nick's voice
+    and knows he is alive. The central misunderstanding is a
+    conversation in which every word goes wrong, not a near-miss
+    watched from cover.
+    **What this settles:** decision 9b's vanish is scoped to the TOWN
+    ("the town never learns Nick lived; Grace alone holds the whole
+    truth, and keeps it"). It has been read more strictly than it is
+    written — as though Grace may not hear him before the climax —
+    and that stricter reading would kill the book's own named central
+    scene. It is retired here. §4 ("site of the central
+    Nick-and-Grace misunderstanding"), §6 Book 3 ("Nick calls to
+    her"), and the jacket copy's Q3 ("every word goes wrong") all
+    stand as written.
+    **Consequences that are now canon:**
+    - Grace carries the knowledge from ~60%, not from 90%. Her second
+      act is a woman ACTING on a secret rather than grieving in the
+      dark; her Book 3 captivity rebuilds around a woman who knows.
+    - The trunk's "Maybe it was a dream, but I remember seeing him"
+      keeps its exact words and changes who is fooled: she says it to
+      her father knowing precisely what she saw. Same line, now a
+      lie, now the vanish's cost paid in her own mouth — and the
+      setup for "Nick who?" as something she personally purchased.
+    - The climax's first words are no longer the FIRST words. The
+      catch answers the dock instead of introducing the pair.
+    Evidence and full argument:
+    `notes/nick-grace-dialogue-2026-08-11.md` (Ruling 1).
+    [TK: whether Nick knows she recognized him — open, and drafting
+    can proceed without it.]
+
 > **On the "wink vs. explicit" reveal (the one you were unsure about):**
 > The wink is almost always the stronger, more magical choice, and it's the norm
 > for the best modern Santa-origin books — but it carries one risk worth naming:
