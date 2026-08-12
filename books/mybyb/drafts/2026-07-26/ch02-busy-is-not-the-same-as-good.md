@@ -86,8 +86,6 @@ And once presence becomes the metric,
 you get the meetings that exist to be attended:
 a status meeting about a status document
 that summarizes the previous status meeting.
-Escher used to sketch structures like this.
-He at least knew they couldn't hold weight.
 
 ## The robot is eating the costume
 
@@ -169,19 +167,8 @@ a building full of intelligent adults,
 printing money they know is fake,
 for a scorekeeper they know can't count it.
 
-So the question this chapter can't answer,
-the one that gets the next chapter all to itself:
-if the money's fake and everyone knows it's fake,
-why does everyone keep printing it?
-
-Because everyone is waiting for the same thing.
 They're not performing for the scoreboard.
-They're performing because they're hoping —
-hoping the right person happens to be watching.
-
-Hoping.
-
-That word is about to become a problem.
+They're performing because they're hoping.
 
 ---
 

@@ -28,7 +28,6 @@ That's not a tragedy.
 
 That's the best news of your entire career.
 
-Take a second with it.
 Every locked door in your career has been guarded, this whole time,
 by someone who is winging it.
 
@@ -145,22 +144,10 @@ Look *down* at the problem
 like it's a video game you just figured out.
 Then go take the wheel.
 
+And the boss up there isn't only doing the work. The boss is keeping
+score — your score — with the confidence of a wine critic who can't taste.
+
 The final boss has a health bar. Aim for it.
-
-One more thing before you go swaggering into Monday.
-If the person above you is improvising the job,
-sit with what that does to the rest of the furniture.
-The performance reviews they write.
-The ratings they hand out —
-that five-point scale they fill in about you once a year,
-with the confidence of a wine critic who can't taste.
-Because the boss isn't only doing the work up there.
-The boss is keeping score. Your score.
-And if the scorekeeper is improvising —
-
-how much would you bet on the scoreboard?
-
-That's chapter two. Bring a calculator.
 
 ---
 
