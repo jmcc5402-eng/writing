@@ -25,6 +25,20 @@ grandmother the day of the vote.
 **Safety rail (locked):** nothing and no one ever touches the aircraft
 side of the fence; the fence-line is the story's moral geography.
 
+**The vote, what kind (author, [TK date] — option B applied):** the
+seventeen-day clock is a **community consultation** run by the island
+association, whose result the three governments that actually control
+the airport have publicly promised to follow. Not a binding
+referendum. Reason: `notes/toronto-research-2026-07-30.md` is explicit
+that changing the real jet ban takes three levels of government, not
+an island ballot, and Toronto readers know it — fair play is a wall in
+this series, and a countdown to a vote that couldn't decide anything
+is a hole a local reader falls straight into. Cost: one sentence in
+ch2 where the notice is read off the bulletin board. Every beat that
+hangs off the clock — the board, the countdown, the polling queue, the
+confession on the ramp — is unchanged, because a consultation still
+has a date, a queue, and a result read out loud.
+
 **Banked ingredients:** friction = the orange rental bikes (app-locked;
 phoneless twins defeated by a kiosk; island kids' rusty bikes =
 belonging); clue = Andrew's morning bike-dock counts (kid-observable
