@@ -67,3 +67,7 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-11 | drafting-assistant (youngnick ch5 blind competition, run A) | D3 short-declarative | drafts/2026-08-11/ch5-candidate-A.md |
 | 2026-08-11 | drafting-assistant (youngnick ch5 blind competition, run B) | D4 minor-character competence | drafts/2026-08-11/ch5-candidate-B.md |
 | 2026-08-11 | drafting-assistant (youngnick ch5 blind competition, run C) | D5 weather as texture | drafts/2026-08-11/ch5-candidate-C.md |
+| 2026-08-12 | plot-architect (spytwins B3 rebuild post-red-team) | A5 midpoint-first (A4 was LRU but was this doc's own prior card — same lens on same document defeats the draw; logged deviation) | plots/book-03-toronto-premise.md |
+| 2026-08-12 | line-copy-editor (mybyb Part I revision pass) | E1 sentence-template repetition | drafts/2026-07-26 ch01-04 |
+| 2026-08-12 | plot-architect (mybyb Part II ch5-8 rung 3) | A4 contrarian comp | plots/part2-expansion.md |
+| 2026-08-12 | showrunner (nightly shift, in-session) | — | this shift |
