@@ -73,3 +73,5 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-12 | showrunner (nightly shift, in-session) | — | this shift |
 | 2026-08-12 | continuity-keeper (mybyb Part II rung-3 gate) | E4 transitions/seams first | notes/part2-continuity-2026-08-12.md |
 | 2026-08-12 | round-trip re-derivation (mybyb Part II, blind) | — (blind by design; a card is a lens the instrument must not carry) | notes/part2-roundtrip-2026-08-12.md |
+| 2026-08-12 | plot-architect (mybyb Part II rung-3 revision 2) | A2 subplot audit (spent on the feature layer) | plots/part2-expansion.md |
+| 2026-08-12 | continuity-keeper (mybyb Part II re-gate) | E2 weakest chapter first (ch. 8) | notes/part2-regate-2026-08-12.md |
