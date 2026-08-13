@@ -3,6 +3,20 @@
 Tracks edits to the manuscript and adopted drafts, so the author can
 always see what changed and why (workspace rule 6).
 
+## 2026-08-13 — ch5 ADOPTED: blind-competition winner, as-is
+
+First chapter through the conveyor protocol (studio PR #37). Three
+blind drafts (cards D3/D4/D5), instrument-judged B 49 / A 46 / C 45
+(`notes/ch5-competition-judging-2026-08-11.md`); author read
+candidate B and ruled **"keep as is" — zero strikes**. Adopted
+verbatim into `manuscript/manuscript-v2.md` (competition header and
+handoff block stripped; prose untouched). The judge's graft list was
+NOT applied — the author ruled the chapter as written; candidates A
+and C remain in `drafts/2026-08-11/` as the graft bank. Soft canon
+ratified into bible §13: Donald authored the town's grief line
+(ch4's townsman phrasing traces to him). The author's zero-strike
+ruling is the Donald-register calibration for ch6+ briefs.
+
 ## 2026-08-05 — v2 ch1–4: gate patches (post-rulings)
 
 Applied per the continuity gate (`notes/v2-gate-2026-08-05.md`) after

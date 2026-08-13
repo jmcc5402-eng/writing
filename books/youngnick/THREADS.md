@@ -25,6 +25,21 @@ Grins alone; nobody descends). The §7.9 climax VARIANT — "9c" — is
 PR #27, still OPEN as of this fold; climax-dependent threads below
 say so and decide nothing.*
 
+*Ch5 adoption fold, 2026-08-13 — ch5 "The Counting House" accepted
+(blind-competition winner, candidate B, PR #38; author ruling "keep
+as is"). Ch5 now maps `manuscript/manuscript-v2.md`. Thread I/O per
+the ch5 brief, recorded here pending the next full row-level fold:
+CARRIES T01 (the swindle machine — the count on the page); ADVANCES
+T02 (New York aloud; Duff's under-two-weeks word hands the loose
+escape clock forward), T13 (greedy becomes wounded: the office-steps
+memory, "they were owed" at ten), T21 (the cover story seeded —
+Donald's authored grief line circulating, a stove man repeating it
+as his own), T27 (hope as currency: "only the hope never needed
+weighing"); PLANTS T14 (James's chatter as leak risk; his
+tenth-hour seam-finding). The push's Thursday motive is on the page
+as pressure (retro-pays ch1's timing; pays in full at the cove).
+One [TK] carried: the Thursday paper mechanics.*
+
 *The trunk manuscript stops mid-word ("entered the cloud. Cha",
 l.2392) and Chapter 24 is an empty heading. This map is of an
 unfinished book and reads like one: many threads end OWED because

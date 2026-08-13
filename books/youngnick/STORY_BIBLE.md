@@ -506,6 +506,41 @@ so it's always the current truth of the story.*
 _Facts the adopted v2 chapters establish on the page — canon the
 moment the adoption PR merges; drafting briefs may rely on them._
 
+**From ch5 (blind-competition winner, candidate B; adopted via
+PR #38, author ruling "keep as is," 2026-08-13):**
+- The Grins' office: one room, one lamp, a cold walk out from where
+  the brothers sleep; never holds its heat. Desk laid out metal on
+  the left, paper on the right; gold becomes figures at that desk.
+- The desk was their father's; the brothers have counted in that
+  room almost fifteen years, and watched their father count before
+  that. His standing order — keep the cabin in good repair — still
+  runs; no word of thanks ever followed ("a word was a wage, and
+  their father paid no wage he could keep").
+- The office-steps memory: the shift came down the hill at dark with
+  Nick's father at its center; the boy's name got called by the
+  whole line; nobody ever called up to the office steps. Donald has
+  believed "they were owed" since age ten.
+- **Donald authored the town's grief line.** His rehearsed "watching
+  that boy fall was the worst moment of my life" and "sometimes
+  fewer men return to camp than leave" were built deliberately and
+  planted around town; a man at Rob's stove said the line back to
+  him believing it his own. (Ratifies the soft canon behind ch4's
+  townsman phrasing — the town's grief is manufactured, and the
+  manufacture is on the page.)
+- James: his hands are honest — a better sacker than the town would
+  guess; he dreams through nine hours and in the tenth finds the
+  one uncaulked seam ("Who climbs for us, come the next sample?").
+  His laugh is back in private (retro-charges the §13 tell).
+- The Thursday problem: Nick's sample report was due out on the
+  Thursday mail boat — the push's timing had a reason — and the
+  books must now agree with a dead man fresh every boat day. [TK:
+  the mechanics — what paper goes to Juno, who signs, what the true
+  reading would have shown.]
+- Donald will "call on Grace tomorrow" — "a town likes to see grief
+  kept company." [TK: the design's exact shape, per the ch5 brief.]
+- Duff's relayed word: ready in under two weeks; once the cargo is
+  in place, they are on their way (the loose escape clock).
+
 **From ch1–4 (adoption PR, 2026-08-05):**
 - James Grin's tell: he laughs at everything; the morning of the
   push, he didn't laugh.
