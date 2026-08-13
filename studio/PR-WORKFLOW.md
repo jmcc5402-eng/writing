@@ -226,3 +226,36 @@ the SAME artifact URL whenever the branch's text changes. The PR
 diff remains the single source of truth — the page is a lens, never
 a fork; rulings still happen as PR comments/merges. Short decision
 PRs whose body quotes everything needed are exempt.
+
+## Rule 9 — PRs are written for a stranger (author, 2026-08-13;
+## campus-series scope for now)
+
+The author's words: *"Your PRs are too much like shorthand — they
+read as if I understand everything written perfectly. Write them
+from my perspective, or a new reader's perspective, explaining how
+these changes improve the book. Don't assume I know every detail
+about the book."*
+
+This is the write-for-a-stranger standard (DRAFTING-PROTOCOL,
+2026-08-08) extended from snowflake prose to the PR body itself.
+Concretely, a campus-series PR body must:
+
+1. **Open with one or two sentences of orientation** — what this
+   book/series is and where this piece fits — as if the reader just
+   walked in. The author multitasks; every PR is read cold.
+2. **Explain, never cite.** No bare references ("standard 21,"
+   "F6," "the ripple table," "rung 3," "S03") — either explain the
+   thing inline in plain words or leave it out of the body. IDs may
+   appear in parentheses AFTER the plain-words version, for the
+   audit trail.
+3. **Say how the change improves the book** — the reader's
+   experience, the sale, the chapter on the page — not how it
+   satisfies the process. Process consequences go last, briefly.
+4. **Plain-language options.** Each option states what the book
+   becomes under it, not which internal artifact gets ratified.
+5. The one-decision rule (4), the quoted-passage rule (5), and the
+   reading-page rule (8) still apply — this rule governs the words
+   around them.
+
+Scope: **campus-series PRs now**; other books' PRs may adopt it, and
+the author may widen it to all books with one line here.
