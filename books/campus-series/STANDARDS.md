@@ -182,6 +182,25 @@ student-definition and adult-power-ceiling open questions.
     also advance its own book's A- or B-story. (See
     `notes/set-one-first-2026-08-11.md` for the severability
     interface that replaces finale-first sequencing.)
+24. **Put-down-proof density — memorable strands, simple spine
+    (author, 2026-08-13).** Every book carries enough memorable
+    texture that it is hard to put down — side romances, subplots,
+    red herrings — while staying SIMPLE: one main story, and every
+    strand always coming back to it. Enforced at outline time:
+    - **Budgeted.** Each outline names its strands — default one
+      side romance, one subplot, one or two red herrings, one
+      running totem (a dog, a dish, a standing joke) — few enough
+      to stay simple, each memorable on its own.
+    - **Tethered.** Every strand beat advances, complicates, or
+      pays into the main story. A strand that only decorates is
+      cut; the side romance's beats happen inside main-story
+      scenes (two town rooms meeting), never in detours.
+    - **Declared.** Red herrings are listed in the outline's
+      fair-play table with the honest signal that eventually
+      clears them — misdirection is planted, never cheated.
+    - **The chapter test.** Name the chapter's memorable thing in
+      one line; then point to the line where the chapter touches
+      the main story. Failing either half is a finding.
 
 ## Implications of the pivot (flags, not fixes)
 
