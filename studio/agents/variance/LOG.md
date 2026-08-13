@@ -77,3 +77,4 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-12 | continuity-keeper (mybyb Part II re-gate) | E2 weakest chapter first (ch. 8) | notes/part2-regate-2026-08-12.md |
 | 2026-08-11 | utility judge (youngnick ch5 blind competition) | — | notes/ch5-competition-judging-2026-08-11.md |
 | 2026-08-13 | plot-architect (campus SUPERCONCEPTS draft) | A1 antagonist-first | books/campus-series/SUPERCONCEPTS.md |
+| 2026-08-13 | culture-researcher (campus Ashford town census) | A3 sensory inventory | books/campus-series/town-ashford.md |
