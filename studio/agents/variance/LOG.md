@@ -84,3 +84,4 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-13 | plot-architect (campus 1.1 outline, candidate A) | A4 contrarian comp | plots/b11-outline-candidate-A.md |
 | 2026-08-13 | plot-architect (campus 1.1 outline, candidate B) | A5 midpoint-first | plots/b11-outline-candidate-B.md |
 | 2026-08-13 | plot-architect (campus 1.1 outline, candidate C) | A1 antagonist-first | plots/b11-outline-candidate-C.md |
+| 2026-08-13 | utility judge (campus 1.1 outline competition) | — | notes/b11-outline-judging-2026-08-13.md |
