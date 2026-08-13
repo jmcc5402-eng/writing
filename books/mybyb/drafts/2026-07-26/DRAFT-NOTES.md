@@ -45,10 +45,12 @@ ch01 ~1,240; ch02 ~1,290; ch03 ~1,210; ch04 ~1,230.
    level of incompetence." now appears once, credited to Laurence
    Peter, with a satire-vs-instruction-manual turn.
 3. **Handoff ending added** (argument analyst escalation contract):
-   the chapter now closes on the question ch02 answers — if the
-   scorekeeper is improvising, how much would you bet on the
-   scoreboard? "Bring a calculator" tees up the counterfeit-money
-   frame.
+   the chapter closes by putting the scorekeeper in play — the boss
+   isn't only doing the work up there, the boss is keeping score,
+   which tees up ch02's counterfeit-money frame.
+   *Revised 2026-08-12 (ruling 4): the fifteen-line trailer and
+   "Bring a calculator" are cut; the handoff is two lines and the
+   chapter ends on "The final boss has a health bar. Aim for it."*
 4. **Second "just…" ellipsis removed** (voice spec rule 10: max one
    per chapter). "are just… sitting there. Unclaimed." became "are
    sitting right there. / Unclaimed." The "hopes at you" instance —
@@ -105,8 +107,10 @@ ch01 ~1,240; ch02 ~1,290; ch03 ~1,210; ch04 ~1,230.
 - Release valve: the two-review-cycles-for-invisible-work confession.
 - The Donut Move box appended verbatim from
   `manuscript/reboot/cheap-power-moves.md` (author note omitted),
-  placed here to tease ch04 per the snowflake placement table. Its
-  "Nobody's auditing" pre-echoes ch04's pull-quote by design.
+  placed here to tease ch04 per the snowflake placement table.
+  *Revised 2026-08-12: the box now reads "Nobody's checking" — the
+  pre-echo was a double-spend that blunted ch04's pull-quote, which
+  is the phrase's single home.*
 
 ## Ch04 — construction notes
 

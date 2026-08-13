@@ -39,7 +39,6 @@ Run the audit yourself:
 name the last person at your company
 who was walked out of the building
 for asking a sincere question in a meeting.
-Take your time. I'll be here.
 
 **Nobody's auditing.**
 
@@ -72,7 +71,7 @@ They did the math everyone does —
 *keep your head down, it's safer* —
 and the math contains exactly one error:
 the danger it prices in doesn't exist.
-Nothing is coming. You checked. Nobody's auditing.
+Nothing is coming. You checked.
 
 I'm not grading from the mountaintop here, to be clear.
 I have personally rehearsed the words "no updates from me"

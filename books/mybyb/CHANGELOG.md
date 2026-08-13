@@ -3,6 +3,49 @@
 Tracks edits to the manuscript, the adopted drafts, and the canon docs,
 so the author can always see what changed and why (workspace rule 6).
 
+## 2026-08-12 — Part I revision pass: rulings 4 and 5 executed
+
+The follow-on the adoption entry below promised. Prose edits only —
+no canon doc changed, no chapter promoted into `manuscript/`.
+`line-copy-editor`, variance card E1 (inventory the sentence templates
+before touching a line; call each one device or tic).
+
+**Applied**
+
+1. **Ch01's trailer ending cut** (ruling 4). Fifteen lines of tease
+   become two: *"And the boss up there isn't only doing the work. The
+   boss is keeping score — your score — with the confidence of a wine
+   critic who can't taste."* The chapter now ends on *"The final boss
+   has a health bar. Aim for it."* — restored as the last line. "Bring
+   a calculator" is gone; the wine critic survives, per ruling 5.
+2. **Escher killed** (ruling 5), ch02's status-meeting seam.
+3. **Two more trailer handoffs cut** — ch02's six-line "that word is
+   about to become a problem" tease reduces to *"They're not
+   performing for the scoreboard. They're performing because they're
+   hoping."*; ch03's four-line "next chapter, we do the math in
+   public" reduces to one sentence. Template T13 (trailer handoff) ran
+   4/4 chapters; it now runs 1/4, which is a device again.
+4. **The "Nobody's auditing" double-spend fixed** — ch03's Donut Move
+   box says "Nobody's checking." The phrase keeps its single home in
+   ch04's pull-quote, and ch04's second, weaker use is cut too.
+5. **The wait-beat rationed** — T12 (the smug pause: "Take a second
+   with it," "Take your time. I'll be here.") ran 3 times; ch03's
+   *"I'll wait."* is the one kept.
+
+**The sentence-template inventory** (the pass's real deliverable, in
+`notes/` with the run): thirteen recurring templates counted across
+ch01–ch04, each ruled device or tic. Deadpan re-label (×18) and
+negate-then-correct (×24) are load-bearing devices and were left
+alone; the two tics above are the only ones the counts convicted.
+Mechanical sweep: zero dangling colons or dashes — the nine colon hits
+all introduce display typography.
+
+**Not applied:** nine proposals (P1–P9) stay in the run notes; they
+are style calls, not rulings, and none blocks promotion.
+
+**Also updated:** `drafts/2026-07-26/DRAFT-NOTES.md` construction
+notes for ch01 and ch03, which described prose this pass deleted.
+
 ## 2026-08-10 — Part I adoption: eight rulings
 
 Rung 5→6 gate on `drafts/2026-07-26/` (ch01–ch04). The four chapters
