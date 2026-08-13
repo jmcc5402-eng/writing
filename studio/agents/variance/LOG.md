@@ -78,3 +78,4 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-11 | utility judge (youngnick ch5 blind competition) | — | notes/ch5-competition-judging-2026-08-11.md |
 | 2026-08-13 | plot-architect (campus SUPERCONCEPTS draft) | A1 antagonist-first | books/campus-series/SUPERCONCEPTS.md |
 | 2026-08-13 | plot-architect (campus S03 pair — names, slot, local jobs) | A2 subplot audit | books/campus-series/notes/s03-pair-2026-08-13.md |
+| 2026-08-13 | utility compiler (campus Set-1 timeline/age math) | — | books/campus-series/notes/set1-timeline-2026-08-13.md |
