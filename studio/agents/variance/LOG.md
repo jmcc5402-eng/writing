@@ -80,3 +80,7 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-13 | plot-architect (campus S03 pair — names, slot, local jobs) | A2 subplot audit | books/campus-series/notes/s03-pair-2026-08-13.md |
 | 2026-08-13 | utility compiler (campus Set-1 timeline/age math) | — | books/campus-series/notes/set1-timeline-2026-08-13.md |
 | 2026-08-13 | culture-researcher (campus Ashford town census) | A3 sensory inventory | books/campus-series/town-ashford.md |
+| 2026-08-13 | utility compiler (campus 1.1 outline competition brief) | — | books/campus-series/plots/b11-brief.md |
+| 2026-08-13 | plot-architect (campus 1.1 outline, candidate A) | A4 contrarian comp | plots/b11-outline-candidate-A.md |
+| 2026-08-13 | plot-architect (campus 1.1 outline, candidate B) | A5 midpoint-first | plots/b11-outline-candidate-B.md |
+| 2026-08-13 | plot-architect (campus 1.1 outline, candidate C) | A1 antagonist-first | plots/b11-outline-candidate-C.md |
