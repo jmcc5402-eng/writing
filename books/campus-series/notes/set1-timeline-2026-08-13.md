@@ -151,3 +151,22 @@ not by memory.
 - [TK: the full family map (finding 17's other half) — which
   offstage kids attend which campus across all four sets; this file
   covers Set 1's three kids only]
+
+---
+
+## RULINGS (author, PR #50 comments, 2026-08-13)
+
+1. **The calendar is tight inside a set, loose across the series.**
+   Set 1's four-book calendar (above) is the tight one; across the
+   sixteen books, creative license is fine — the sets happen in
+   chronological order, but no strict real-world alignment and no
+   real-world year on any page or in any doc. Docs use INTERVALS
+   ("twenty years ago"), never years; the accidental Year-1 ≈ 2026
+   anchor (sweep "2006" + grid "twenty years") is resolved by
+   de-anchoring the sweep and the photo references — option 1 of
+   the bench flag.
+2. **The reader age band is a loose concept, not a wall** — see
+   STANDARDS proposed standard 3, now ruled: romances center on
+   30s–40s; 20s side or lead romances allowed; never students (R1).
+   The coordinator (~45) and counsel (~48) at their finale book
+   need no waiver.

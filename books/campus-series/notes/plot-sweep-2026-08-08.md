@@ -137,7 +137,7 @@ predecessor [TK name] fired for rage-culture abuse of ADULT staff
 
 ### 1.4 — Summer, register 5 (set finale)
 - **Midpoint:** the covenant confirmed — but proving it means
-  reopening the 2006 eminent-domain story, bylined. PONR: Jo files
+  reopening the twenty-year-old eminent-domain story, bylined. PONR: Jo files
   the FOIA under her own name.
 - Dark moment (brief, per register): the paper's Boyd-adjacent owner
   spikes the story. Resolution [TK: charter loophole vs. the town

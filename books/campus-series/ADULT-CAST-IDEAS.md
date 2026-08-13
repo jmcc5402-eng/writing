@@ -143,7 +143,7 @@ later. **Obstacle:** her byline broke his family last time; his
 staying is a rebuke of her leaving; the story she must write to save
 his land is the story that ruined them. **B-story [both]:** the
 covenant hunt (1.2's letter points to the deed) plus the door-to-door
-petition drive — and the parent-board archive coughs up a 2009
+petition drive — and the parent-board archive coughs up a years-old
 tailgate photo proving Boyd knew about the covenant (S05/S11).
 **Set resolves:** vote won at the doors; Boyd beaten. *Earns its
 pages:* the set finale must be won by community effort, not the
@@ -404,7 +404,8 @@ artifacts throughout.
    mechanic *enforced by* the comedy engine. Recognition, never
    contempt.
 5. **The board as evidence locker.** The decade-deep photo archive is
-   discovery material: the 2009 tailgate photo that sinks Boyd (1.4),
+   discovery material: the years-old tailgate photo that sinks Boyd
+   (1.4),
    booking records that save the inn (2.2), timestamps at the sunset
    hearing (4.4 → S05). What the group over-documented for love turns
    out to be the case — theme 1's "cozy is earned by community"
