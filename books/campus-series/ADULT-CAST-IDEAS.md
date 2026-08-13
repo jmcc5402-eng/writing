@@ -152,8 +152,14 @@ couple (mega-theme 1) — the B-story is the community.
 *Seeding:* Dan and Aisha argue at 1.1's board town-hall; Priya signs
 Boyd's checks in 1.1–1.2 background; Ray caters every tailgate from
 1.1; Jo's byline appears on 1.3's leak story. Marisol's Bellamy
-daughter and the listserv she posts on seed Set 2. Coordinator ×
-counsel (S03): adversarial first meeting at the 1.4 convocation.
+daughter and the listserv she posts on seed Set 2. **Tess Larkin
+(program coordinator) × Everett Shaw (trust counsel)** — S03's
+slow-burn pair, named and slotted by PR #49, 2026-08-13. They appear
+nowhere in 1.1–1.3; their adversarial first meeting is at the 1.4
+convocation, arguing publicly about whether the trust's name goes on
+the evening's program, then one dance cut short by his phone.
+Neither is framed as romance — to a reader who never opens Set 2 they
+are two strangers arguing at a party (STANDARDS 22).
 
 ### Set 2 — Bellamy College (New England; antagonist: the enrollment
 cliff and Meridian Partners)
@@ -287,8 +293,8 @@ not a sacrifice; nothing is luck.
 Fiona's byline runs in 2.3's press cycle; Danny and Imogen collide at
 3.1's licensing hearing; Ade tends bar from 3.1 chapter one. Maggie
 (2.4) arrives as exchange director mid-set. Dana's Cabrillo kid and
-Veritas's ed-tech pivot (S09) seed Set 4. Coordinator × counsel
-rupture at the 3.4 hearing (S03).
+Veritas's ed-tech pivot (S09) seed Set 4. **Tess × Everett** rupture
+at the 3.4 hearing (S03).
 
 ### Set 4 — Cabrillo Coast (antagonist: the trust's sunset clause;
 the trustee moves to dissolve; the ed-tech giant circles)
@@ -421,7 +427,7 @@ artifacts throughout.
 |---|---|---|
 | S01 Cordelia letters | needs-tweak | Chain intact; finders recast adult — 1.2 physician (annex wall), 2.3 comms director (library), 3.4 chef (cellar), 4.3 co-founders (archive), 4.4 counsel (codicil) |
 | S02 sunset clause | fine | Hearing now peopled by adults with standing — improved |
-| S03 coordinator × counsel | fine | Locked survivor; near-miss slots unchanged |
+| S03 coordinator × counsel | fine | Locked survivor; near-miss slots unchanged. Named **Tess Larkin × Everett Shaw**, first meeting 1.4 (PR #49) |
 | S04 convocation photograph | needs-tweak | Redefine as all-hands program photo, or as a student artifact received by adults — decide once |
 | S05 evidence stack | needs-tweak | Logic identical; earners recast; arguably stronger — adults generate admissible evidence |
 | S06 "The Quad" zine | needs-rework | Student-run zine can't carry plot on page; recommend merging its payoff into S11 (or recast as alumni bulletin) |
