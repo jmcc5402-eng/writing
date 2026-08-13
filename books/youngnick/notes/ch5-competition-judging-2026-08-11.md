@@ -271,3 +271,19 @@ Recommendation: adopt B as the spine and graft per the list below.
    recognition motif. Low continuity weight, but it entered no
    handoff flag; de-father the gloves ("fingerless gloves") or
    ratify the detail knowingly.
+
+
+---
+
+## AUTHOR RULING (2026-08-13) — the register calibration
+
+**Candidate B adopted AS-IS. Zero strikes.** The graft list above is
+not applied; A and C stay in drafts/ as the graft bank.
+
+Register calibration for chapters 6+ (conveyor rule 3): candidate B
+— now manuscript ch5 — is the Donald-register benchmark. Briefs for
+any Grins-POV chapter cite manuscript ch5 alongside ch1–4 as the
+voice sample. What the ruling validates: ledger-cold interiority
+(feelings scheduled, not felt), the manufactured-grief device,
+James as competent-hands/leaky-mouth, menace carried by arithmetic
+and routine rather than threat.

@@ -48,8 +48,9 @@ critique and chapters review, `SUPERCONCEPTS.md`, and the dream review.
 - **De-sheen pass on v2 ch1–4:** cut the "the way X" tic to a third;
   restore "but it made no sense" and "daring him to fall" verbatim.
   → chapters-review (e2)
-- **Draft ch5, The Counting House** — test the new register on Donald.
-  → chapters-review (e3)
+- ~~**Draft ch5, The Counting House**~~ DONE 2026-08-13 — adopted
+  as-is from the blind competition (PR #38); the zero-strike ruling
+  is the Donald-register calibration. → chapters-review (e3)
 - **Chapter 24 / the landing:** the warp scene is complete ("Cha" was a
   swallowed heading); write the arrival, seeded by nick-ideas' "he had
   no idea where he was." → critique rec 4; RECON delta 13; THREADS S06
