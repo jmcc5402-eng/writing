@@ -6,23 +6,36 @@ here — because a session is disposable and the repo is the brain._
 
 ## Author priority window (EXPIRES 2026-08-21)
 
-**Ruled by the author, 2026-08-11:** through 2026-08-21, ~80% of
-studio effort goes to `books/campus-series` — the romance program is
-the portfolio's best shot at Amazon/KU traction, and the ten-day
-window exists to convert that judgment into momentum. The remaining
-~20% covers all other books, with one override: **a pending author
-ruling is never starved** — anything already waiting on an author
-read (e.g. the Nick ch5 register ruling, PR #38) gets serviced ahead
-of new 80%-lane work, because author bandwidth is the studio's
-scarcest resource and idle rulings waste it.
+**Strengthened by the author, 2026-08-13: FULL focus.** Through
+2026-08-21 the studio works `books/campus-series` exclusively — the
+romance program is the portfolio's best shot at Amazon/KU traction,
+and this window converts that judgment into momentum. No new
+non-campus jobs, drafts, instrument runs, or PRs; the nightly shift
+spends its whole budget on the campus queue.
 
-Dispatch guidance (showrunner and every thread): campus jobs outrank
-other books' jobs of equal size. The campus work list, in order: the
-Set-One-First ruling (PR #34), then SUPERCONCEPTS.md, the Ashford
-town census, naming/localizing the S03 pair, Set-1-scoped age math,
-the 1.1 outline. After 2026-08-21 this window expires automatically
-and dispatch reverts to normal ranking — renewing it is an author
-call, never a default.
+**Parked PRs (closed 2026-08-13, work preserved on branches; REOPEN
+when the window ends):**
+
+| PR | Branch | What it holds |
+|---|---|---|
+| #41 | `spytwins/b3-vote-mechanism` | Book 3 vote-mechanism decision |
+| #42 | `youngnick/dock-ruling` | Grace-hears-Nick-at-60% decision |
+| #43 | `mybyb/part2-rung3` | Part II ch. 5–8 outline + lexicon questions |
+
+Reopening these (and re-listing them in the author's queue) is the
+FIRST job after expiry — parked is not forgotten.
+
+The campus work list, in order (SUPERCONCEPTS ratified via #45):
+the Ashford town census (name, economy, the civic venue for the
+Book-4 vote), naming/localizing the coordinator–counsel pair,
+Set-1-scoped age math, the culprit-bench Set-1 slice, then the 1.1
+outline. Campus PRs are written under PR-WORKFLOW rule 9 (for a
+stranger). After 2026-08-21 the window expires automatically and
+dispatch reverts to normal ranking — renewing it is an author call,
+never a default.
+
+*(Original 2026-08-11 ruling was 80/20; superseded by the author's
+full-focus call, 2026-08-13.)*
 
 ## The nightly showrunner Routine
 
