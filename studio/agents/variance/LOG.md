@@ -83,3 +83,7 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-13 | plot-architect (campus 1.1 rung-1 premise) | A3 sensory inventory | books/campus-series/plots/book-1-1-premise.md |
 | 2026-08-13 | plot-architect (campus Set 1 culprit-bench slice) | A1 antagonist-first | notes/culprit-bench-set1-2026-08-13.md |
 | 2026-08-13 | showrunner (nightly shift, in-session) | — | this shift |
+| 2026-08-14 | plot-architect (campus 1.1 rung-1 rebuild to the register ruling) | A4 contrarian comp | plots/book-1-1-premise-v2.md |
+| 2026-08-14 | culture-researcher (campus college-town energy bank) | A5 midpoint-first (read as: start mid-year, not at the bookends) | books/campus-series/energy-bank.md |
+| 2026-08-14 | utility tuning (writers' room romance register, directive 6) | — (utility work on the instruments themselves) | studio/agents/notes/romance-register-tuning-2026-08-13.md |
+| 2026-08-14 | showrunner (nightly shift, in-session) | — | this shift |
