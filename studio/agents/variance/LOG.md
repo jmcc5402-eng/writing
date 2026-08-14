@@ -87,3 +87,4 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-14 | culture-researcher (campus college-town energy bank) | A5 midpoint-first (read as: start mid-year, not at the bookends) | books/campus-series/energy-bank.md |
 | 2026-08-14 | utility tuning (writers' room romance register, directive 6) | — (utility work on the instruments themselves) | studio/agents/notes/romance-register-tuning-2026-08-13.md |
 | 2026-08-14 | showrunner (nightly shift, in-session) | — | this shift |
+| 2026-08-14 | utility scorer (campus 1.1 meters, first live run) | — | notes/b11-meter-scores-2026-08-14.md |
