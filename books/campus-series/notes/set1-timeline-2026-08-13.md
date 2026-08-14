@@ -49,8 +49,12 @@ offstage unless an outline plots one.
 
 ## 2. The age table (Set 1 leads)
 
-Band references: locked 2 = target **reader** 35–45; proposed
-standard 3 = **lead** band ~36–48 [TK: not yet locked].
+Band references: locked 2 = target **reader** 35–45; standard 3 =
+**lead** band ~36–48, **RULED a loose concept and not a wall**
+(author, PR #50, 2026-08-13) — romances center on people in their 30s
+and 40s, 20s side or lead romances are allowed, and the only hard
+line is R1: never a student. The table below therefore reads as a
+centre of gravity, not a gate.
 
 | Book | Lead        | Age | Born   | Offstage college kid      | Class yr (Y1) | Had kid at |
 |------|-------------|-----|--------|---------------------------|---------------|------------|

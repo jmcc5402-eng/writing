@@ -48,6 +48,10 @@ A testable rule, so every chapter can be checked against it:
 
 ## Proposed standards (for author approval)
 
+*Items in this section that carry a **RULED** stamp have been
+decided and are no longer awaiting approval; the section header is
+about the rest.*
+
 ### Cast and life stage
 
 3. **Lead age band ~36–48.** Honest age math: parents of college kids
