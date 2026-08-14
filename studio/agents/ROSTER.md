@@ -31,6 +31,7 @@ Rules of the project:
 | `continuity-keeper` | 1.3.0 | inherit | Facts vs canon + scene staging; classifies contradiction / unestablished / deliberate |
 | `kid-reader-panel` | 1.1.0 | inherit | Simulated 8–12 reader reactions |
 | `red-team-critic` | 1.1.0 | inherit / high | Adversarial read before anything goes out |
+| `romance-reader-panel` | 1.0.0 | inherit / high | Simulated 35–45 romance reader: engagement, skim, swoon, DNF |
 | `culture-researcher` | 1.1.0 | inherit | Setting/culture research + fact-check, web access |
 | `market-pitch-agent` | 1.1.0 | inherit | Comps, queries, synopses, publishing strategy |
 | `junior-literary-critic` | 1.1.0 | inherit / high | Two-part outside read: one-page critique + one-page prioritized recommendations |

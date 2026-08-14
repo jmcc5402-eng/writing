@@ -3,6 +3,58 @@
 Newest first. Every entry: version, what changed, and the evidence that
 drove it.
 
+## 2026-08-13 — romance-reader-panel 1.0.0 (new): the audience gate the adult books never had
+
+Author ruling (`books/campus-series/notes/author-register-note-2026-08-13.md`,
+directive 6): "the instruments must reward fun and swoon, not only
+structure."
+
+**Evidence.** The author read the winning campus 1.1 outline — a
+tournament winner scored against SUPERCONCEPTS and cleared by every
+gate in DRAFTING-PROTOCOL — and returned "this reads more like a real
+estate attorney novel… my read of the outline is that this is a
+serious book about a construction issue."
+
+**Root cause** (`studio/agents/notes/romance-register-tuning-2026-08-13.md`),
+and it is worse than an omission on two counts:
+
+1. The only reader-simulation instrument in the battery
+   (PIPELINE stage 5 step 2, DRAFTING-PROTOCOL gate 4) is hard-coded
+   to `kid-reader-panel`. For the adult books the audience gate did
+   not run weakly — it did not run at all. The studio understood the
+   problem completely and built the instrument for two of its books.
+2. The tournament rubric is four SUPERCONCEPT integrity tests, and
+   SC4 rewards institutional obstacles. The outline did not sneak
+   past the judges; it WON a contest scored against a rubric with no
+   line for pleasure. The battery selected for machinery rather than
+   merely failing to notice it.
+
+- **`romance-reader-panel` 1.0.0 (new).** Simulates the target adult
+  romance reader: engagement map, DNF point, skim ledger, wanting
+  curve, swoon and fun inventories, genre contract, buy-the-next-one.
+  Runs from rung 2, so the author is never the first reader to be
+  bored. **No veto power** — the walls outrank its findings by
+  charter, and decorative charm is itself a finding, so the
+  instrument cannot be gamed with garnish.
+
+Rejected alternative, recorded: generalize `kid-reader-panel` into an
+age-parameterized `reader-panel`. Cheaper on roster size, and
+genuinely tempting. Rejected because the kid panel's value is a voice
+and a reading-level lens while this panel's value is genre-contract
+literacy — a reader who has read four hundred of these and knows what
+she is owed — and the workspace already holds that blurring
+instruments together is the failure mode worth paying to avoid.
+
+Held for the follow-on `agents:` PR, pending the author's ruling on
+this roster addition: the four campus personas
+(`architect-campus`, `drafter-campus`, `dev-editor-campus`,
+`red-team-campus`), the version bumps they imply
+(plot-architect 1.5.0, developmental-editor 1.4.0,
+red-team-critic 1.2.0), DECKS rule 7 with cards A6–A10 / D8–D11 /
+C7–C10 / E7–E8, and the `studio:` PR wiring the panel into
+PIPELINE and DRAFTING-PROTOCOL. The wiring must land after the
+charter or the pipeline names an agent that does not exist.
+
 ## 2026-08-08 — plot-architect 1.3.0 → 1.4.0 (write for a stranger)
 
 New rule: snowflake prose is jacket copy — one-sentences and
