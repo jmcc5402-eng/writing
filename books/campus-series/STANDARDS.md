@@ -83,9 +83,15 @@ about the rest.*
 7. **HEA/HFN every book.** Never cliffhang the central couple.
 8. **Interconnected standalones.** One couple per book, enter
    anywhere, past couples cameo, future couples seeded.
-9. **Mid steam, defined and packaged consistently.** [TK: write the
-   actual definition — scene ceiling, door position, vocabulary — and
-   apply it identically across all books]
+9. **Closed door, defined and packaged consistently. RULED (author,
+   2026-08-15, "for now" — revisitable by PR):** everything up to
+   the first piece of clothing on the ground is on the page — the
+   scene cuts there, every book, all sixteen. Desire, tension, and
+   the approach are fully on the page; the act is not. Enforceable
+   bright line for the gates: no scene continues past the first
+   garment. Packaging matches the promise: swoony / closed-door /
+   small-town vocabulary — never "steamy." The ch-1 montage steam
+   flash is calibrated to this line: charged, clothed, cut.
 10. **55–70k words per book.** No 100k book ones.
 11. **POV: dual, alternating.** [TK: first vs. third person — the
     35–45 contemporary shelf supports both; decide once]
