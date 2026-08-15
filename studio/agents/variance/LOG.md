@@ -87,3 +87,4 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-13 | utility judge (campus 1.1 outline competition) | — | notes/b11-outline-judging-2026-08-13.md |
 | 2026-08-13 | developmental-editor (campus 1.1 romance-load audit) | — (targeted audit, no card) | notes/b11-romance-audit-2026-08-13.md |
 | 2026-08-14 | romance-reader-panel (campus ch1 kickoff variants) | — (no card; panel deck TK) | notes/ch1-kickoff-panel-2026-08-14.md |
+| 2026-08-14 | drafting-assistant as dreamer (campus 1.1 dream pass + hero rename) | — (dream pass; cards suspended per coda) | notes/b11-dream-pass-2026-08-14.md |
