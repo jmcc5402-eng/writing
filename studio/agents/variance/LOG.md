@@ -101,3 +101,4 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-15 | drafting-assistant (campus 1.1 ch1 blind competition, run A) | D6 run a beat past comfortable | books/campus-series/drafts/2026-08-15/ch1-candidate-A.md |
 | 2026-08-15 | drafting-assistant (campus 1.1 ch1 blind competition, run B) | D2 hands and objects | books/campus-series/drafts/2026-08-15/ch1-candidate-B.md |
 | 2026-08-15 | drafting-assistant (campus 1.1 ch1 blind competition, run C) | D7 open mid-motion | books/campus-series/drafts/2026-08-15/ch1-candidate-C.md |
+| 2026-08-15 | romance-reader-panel (campus ch1 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ch1-competition-panel-2026-08-15.md |
