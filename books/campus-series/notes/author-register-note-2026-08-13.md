@@ -64,3 +64,29 @@ on the page and never leads the process. Every campus drafting and
 outlining brief opens from wanting, not from beats; the audits run
 behind the curtain, where the reader — and the dream — never see
 them.
+
+## The montage opener (author, 2026-08-15)
+
+Every book opens with a 2–3 page MONTAGE of its signature event —
+the camera jumping cut to cut: students moving in, the bars
+filling, the town waking to game day — and woven inside it, the
+book's initial steam beat (any couple; the roving camera never
+claims them as leads, so no bait-and-switch — the TOWN is the
+couple on page one). The montage's final cut lands on the mains'
+charged collision. Steam flash calibrated to the closed-door line
+(standard 9). This supersedes the panel note's staging detail; the
+panel's hybrid survives inside it.
+
+## The Gilmore calibration (author, on approving the outline)
+
+> "I want the vibe to be slightly more Gilmore Girls — upbeat and
+> light. The summary I read has the romance but reads very heavy.
+> The emotions for our readers come from the lovable, idealistic
+> small-college-town vibe mashed with steam and sex. The emotions
+> shouldn't be heavy and lonely too much."
+
+Applied as: banter-forward, quick-witted town chatter; grief and
+loneliness present but brief and never the chapter's weather; the
+HEART beats land and RELEASE — a laugh lives near every ache. The
+FUN meter is the primary gauge of this ruling; drafting briefs cite
+this section by name.

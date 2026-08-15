@@ -88,3 +88,13 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-14 | utility tuning (writers' room romance register, directive 6) | — (utility work on the instruments themselves) | studio/agents/notes/romance-register-tuning-2026-08-13.md |
 | 2026-08-14 | showrunner (nightly shift, in-session) | — | this shift |
 | 2026-08-14 | utility scorer (campus 1.1 meters, first live run) | — | notes/b11-meter-scores-2026-08-14.md |
+| 2026-08-13 | utility compiler (campus 1.1 outline competition brief) | — | books/campus-series/plots/b11-brief.md |
+| 2026-08-13 | plot-architect (campus 1.1 outline, candidate A) | A4 contrarian comp | plots/b11-outline-candidate-A.md |
+| 2026-08-13 | plot-architect (campus 1.1 outline, candidate B) | A5 midpoint-first | plots/b11-outline-candidate-B.md |
+| 2026-08-13 | plot-architect (campus 1.1 outline, candidate C) | A1 antagonist-first | plots/b11-outline-candidate-C.md |
+| 2026-08-13 | utility judge (campus 1.1 outline competition) | — | notes/b11-outline-judging-2026-08-13.md |
+| 2026-08-13 | developmental-editor (campus 1.1 romance-load audit) | — (targeted audit, no card) | notes/b11-romance-audit-2026-08-13.md |
+| 2026-08-14 | romance-reader-panel (campus ch1 kickoff variants) | — (no card; panel deck TK) | notes/ch1-kickoff-panel-2026-08-14.md |
+| 2026-08-14 | drafting-assistant as dreamer (campus 1.1 dream pass + hero rename) | — (dream pass; cards suspended per coda) | notes/b11-dream-pass-2026-08-14.md |
+| 2026-08-14 | plot-architect (campus 1.1 outline REVISION 2 — the re-dream) | — (revision integrating ruled inputs) | plots/b11-outline-rev2.md |
+| 2026-08-14 | utility gate battery (campus 1.1 rev2 — meters, fair play, register) | — | notes/b11-rev2-gates-2026-08-14.md |
