@@ -97,9 +97,14 @@ battery, from cheapest to richest:
 3. Round-trip re-derivation (rungs 3+): a fresh agent that has never
    seen rung N-1 reverse-engineers it from rung N; the diff against
    the real rung N-1 is drift the forward reader can't see.
-4. Reader simulation (rungs 3+): kid-reader-panel on the expansion —
-   boredom, confusion, and guessed-the-ending checks before prose
-   exists.
+4. Reader simulation: the panel matching the book's audience —
+   kid-reader-panel (young readers) or romance-reader-panel (books
+   whose contract is an emotional experience). Boredom, confusion
+   and guessed-the-ending checks before prose exists.
+   **Rungs 3+ generally; rung 2+ for romance**, because a romance
+   outline can already be measured for wanting, and the campus 1.1
+   failure was visible at rung 2. A book with no matching panel does
+   not skip this gate — it is missing one, which is a finding.
 5. Adversarial pass (before author ratify): red-team the fair play
    and the stakes at the current rung.
 6. Variant tournament (highest-value chapters only): N expansions
