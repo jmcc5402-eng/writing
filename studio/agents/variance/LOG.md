@@ -98,3 +98,4 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-14 | drafting-assistant as dreamer (campus 1.1 dream pass + hero rename) | — (dream pass; cards suspended per coda) | notes/b11-dream-pass-2026-08-14.md |
 | 2026-08-14 | plot-architect (campus 1.1 outline REVISION 2 — the re-dream) | — (revision integrating ruled inputs) | plots/b11-outline-rev2.md |
 | 2026-08-14 | utility gate battery (campus 1.1 rev2 — meters, fair play, register) | — | notes/b11-rev2-gates-2026-08-14.md |
+| 2026-08-16 | continuity-keeper (campus canon sweep vs the frozen outline) | E3 reverse order (E5 LRU but dialogue-mechanics, inapplicable — deviation logged) | notes/b11-canon-sweep-2026-08-16.md |
