@@ -48,6 +48,10 @@ A testable rule, so every chapter can be checked against it:
 
 ## Proposed standards (for author approval)
 
+*Items in this section that carry a **RULED** stamp have been
+decided and are no longer awaiting approval; the section header is
+about the rest.*
+
 ### Cast and life stage
 
 3. **Lead age band ~36–48.** Honest age math: parents of college kids
@@ -55,7 +59,11 @@ A testable rule, so every chapter can be checked against it:
    them at ~20 — usable, even a story hook, but it can't be every
    lead's math. Mix parent-leads with non-parent adult leads (coach,
    professor, innkeeper, trainer, bar owner) so the band stays
-   credible. [TK: lock the exact band]
+   credible. **RULED (author, PR #50, 2026-08-13): the band is a
+   loose concept, not a wall** — romances center on people in their
+   30s and 40s, but side romances and even lead romances for
+   characters in their 20s are allowed. The only hard line is R1:
+   never a student.
 4. **Adults with real ballast.** Mortgages, exes, custody schedules,
    aging parents, tenure clocks, small-business margins, career
    reinvention, widowhood, the empty nest approaching. Stakes of this

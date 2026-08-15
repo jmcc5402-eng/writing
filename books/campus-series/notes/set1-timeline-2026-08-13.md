@@ -49,8 +49,12 @@ offstage unless an outline plots one.
 
 ## 2. The age table (Set 1 leads)
 
-Band references: locked 2 = target **reader** 35–45; proposed
-standard 3 = **lead** band ~36–48 [TK: not yet locked].
+Band references: locked 2 = target **reader** 35–45; standard 3 =
+**lead** band ~36–48, **RULED a loose concept and not a wall**
+(author, PR #50, 2026-08-13) — romances center on people in their 30s
+and 40s, 20s side or lead romances are allowed, and the only hard
+line is R1: never a student. The table below therefore reads as a
+centre of gravity, not a gate.
 
 | Book | Lead        | Age | Born   | Offstage college kid      | Class yr (Y1) | Had kid at |
 |------|-------------|-----|--------|---------------------------|---------------|------------|
@@ -151,3 +155,22 @@ not by memory.
 - [TK: the full family map (finding 17's other half) — which
   offstage kids attend which campus across all four sets; this file
   covers Set 1's three kids only]
+
+---
+
+## RULINGS (author, PR #50 comments, 2026-08-13)
+
+1. **The calendar is tight inside a set, loose across the series.**
+   Set 1's four-book calendar (above) is the tight one; across the
+   sixteen books, creative license is fine — the sets happen in
+   chronological order, but no strict real-world alignment and no
+   real-world year on any page or in any doc. Docs use INTERVALS
+   ("twenty years ago"), never years; the accidental Year-1 ≈ 2026
+   anchor (sweep "2006" + grid "twenty years") is resolved by
+   de-anchoring the sweep and the photo references — option 1 of
+   the bench flag.
+2. **The reader age band is a loose concept, not a wall** — see
+   STANDARDS proposed standard 3, now ruled: romances center on
+   30s–40s; 20s side or lead romances allowed; never students (R1).
+   The coordinator (~45) and counsel (~48) at their finale book
+   need no waiver.

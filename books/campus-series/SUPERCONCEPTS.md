@@ -1,6 +1,7 @@
 # Campus Series — Super Concepts
 
-**Status: PROPOSED — author ratification via PR.**
+**Status: LOCKED — ratified by the author 2026-08-13 (PR #45,
+option A: "approve the four promises as written").**
 The concepts that make these books win. Every chapter must *value*
 them: not necessarily incorporate, never cheapen (workspace hard
 rule 8). Editorial agents judge chapters against this file.

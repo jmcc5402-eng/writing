@@ -161,3 +161,36 @@ ledger lines, clocks, density declarations, state chains) stays in
 its labeled blocks BELOW the prose. Evidence: the author on the Nick
 Books 2–4 sketch — "you're writing as if I already know the plot...
 it should almost read like the back cover."
+
+## Instrument governance — the over-tooling guard (author, 2026-08-14)
+
+Prompted by the author's test: "if we have a million different
+factors, we don't really have any." Three rules govern every
+instrument in this studio — meters, gates, panels, scoreboards,
+chapter-line requirements — across all books:
+
+1. **Tool freeze until prose proves the tools.** The campus Book 1
+   instrument set is declared COMPLETE as of this ruling: the walls,
+   the four promises, the five meters (#62), the romance-reader
+   panel, and fair play. No new instrument may be added until
+   Book 1 has three drafted chapters — instruments must prove
+   themselves on prose before anyone builds another.
+2. **One in, one out.** After the freeze, adding an instrument
+   requires either retiring one or citing a real failure the
+   existing set demonstrably missed. Consolidation applied now:
+   the per-chapter MEM:/SPINE: lines RETIRE in favor of the meters
+   when METERS.md is ratified — one measurement system, not two.
+   (SPINE's tether test survives inside standard 24's language;
+   the meters measure what MEM asserted.)
+3. **Instruments decay like banned moves.** An instrument that goes
+   three books without a unique finding — a finding no other
+   instrument produced — is retired from the battery. Tools keep
+   earning their place exactly like chapters do.
+
+The underlying law: a studio's output is books, and every factor is
+worth only what it changes in a book. Nobody in the system holds
+the full tool list — dreamers see briefs that open from wanting;
+each instrument checks one thing, backstage; the author sees a
+chart, a winner, and options. If any single mind ever needs the
+whole inventory to do its job, that is the failure this section
+exists to prevent.
