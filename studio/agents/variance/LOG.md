@@ -89,3 +89,4 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-14 | romance-reader-panel (campus ch1 kickoff variants) | — (no card; panel deck TK) | notes/ch1-kickoff-panel-2026-08-14.md |
 | 2026-08-14 | drafting-assistant as dreamer (campus 1.1 dream pass + hero rename) | — (dream pass; cards suspended per coda) | notes/b11-dream-pass-2026-08-14.md |
 | 2026-08-14 | plot-architect (campus 1.1 outline REVISION 2 — the re-dream) | — (revision integrating ruled inputs) | plots/b11-outline-rev2.md |
+| 2026-08-14 | utility gate battery (campus 1.1 rev2 — meters, fair play, register) | — | notes/b11-rev2-gates-2026-08-14.md |
