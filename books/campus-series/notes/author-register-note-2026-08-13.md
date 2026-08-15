@@ -90,3 +90,23 @@ loneliness present but brief and never the chapter's weather; the
 HEART beats land and RELEASE — a laugh lives near every ache. The
 FUN meter is the primary gauge of this ruling; drafting briefs cite
 this section by name.
+
+## The modern calibration (author, 2026-08-15)
+
+> "Your vibe is too 80s small town — needs more modern small town.
+> Not so modern that people identify it as obviously 2026, but
+> edgier and more fun: ladies' wine night, alcoholic seltzers,
+> somebody overly focused on supplements, a DoorDash that gets
+> delayed instead of a casserole in the oven. And in general,
+> Marisol needs to be more sexy — a parka over pajamas and a
+> casserole is the definition of not sexy."
+
+Applied as: the 80s-movie ENERGY stays (that ruling was about
+excitement, not decade); the TEXTURE modernizes — wine nights,
+seltzers in the cooler, a supplements evangelist in the chorus,
+delivery apps failing charmingly, group chats, playlists. No
+year-stamping (no brand-of-the-month, no politics, no phone-model
+specifics). And Marisol is written SEXY: confident, quick, a woman
+who knows the room watches her and enjoys it — wine night is hers,
+the banter bites back, wanting is on the page. Desirable first,
+den-mother never.
