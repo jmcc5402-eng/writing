@@ -1,6 +1,16 @@
-# Book 1.1 Outline — REVISION 2.1
+# Book 1.1 Outline — REVISION 2.1 — **RATIFIED AND FROZEN**
 REVISION 2.1 — approved outline + gate repairs + Gilmore calibration
 (author, PR #56)
+
+**LOCKED (author, 2026-08-15: "lock in this outline").** Frozen per
+the rung contract (`studio/DRAFTING-PROTOCOL.md`): this outline is
+canon for every rung below it. A hole found in prose is fixed HERE
+and re-derived downward — never patched downstream. Next rung:
+chapter-one prose as a blind competition (the register pilot).
+Carried open at lock time, as [TK]: Marisol's surname. **Cal Sutter**
+stands as the working hero name (alternates Wade Ellison / Brooks
+Lanier stay a one-command swap until chapter-one prose is accepted,
+at which point Cal locks by use).
 
 (rev2 was the re-dream: candidate B's verified skeleton under the dream
 pass; grafts, romance repairs F1–F4, curve fix, and the ch1 hybrid
