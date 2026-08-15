@@ -1,15 +1,24 @@
-# Book 1.1 Outline — REVISION 2 (PROPOSED, unratified)
-(the re-dream: candidate B's verified skeleton under the dream pass;
-grafts, romance repairs F1–F4, curve fix, and the ch1 hybrid applied;
-register per the author's note, 2026-08-13)
+# Book 1.1 Outline — REVISION 2.1
+REVISION 2.1 — approved outline + gate repairs + Gilmore calibration
+(author, PR #56)
+
+(rev2 was the re-dream: candidate B's verified skeleton under the dream
+pass; grafts, romance repairs F1–F4, curve fix, and the ch1 hybrid
+applied; register per the author's note, 2026-08-13. This 2.1 pass, per
+the PR #56 approval: RH2 staged on the page at ch 11 with the honest
+signal kept fair at 13; warm town beats restored at 14–15; one line of
+wanting each at 17–18; and the Gilmore sweep — grief and solitude as
+brief chords inside upbeat chapters, banter-forward town chatter, a
+laugh near every ache. Structure, beats, state chain, and the curve
+untouched; the ch 27 dip stays a dip.)
 
 Working name: **Cal Sutter** throughout ([TK: author call among the
 dream pass's three candidates]). Side pair: **Birdie Pham × Eli
 Fountain** (dream pass proposal, [TK: author call]). "Walt" retired
-everywhere. No variance card was passed with this run; no banned-moves
-list on file. Source note: the register note and the meter-scores file
-were supplied to this run in summary, not as repo files — see open
-question 12.
+everywhere. No variance card or banned-moves list was passed with rev2
+or with the 2.1 repair pass. Source note: the 2.1 pass read the author
+register note and the gate findings firsthand from the repo (notes/);
+METERS.md remains outstanding — see open question 12.
 
 The law of this revision: the dream leads; the architecture inspects.
 Candidate B's beat spine, fair-play chain, and state chain survive
@@ -196,11 +205,12 @@ Cal wants a quiet season: mowers running, dorms watertight, WDSS on
 the shop radio, Ratchet asleep on the parking spot stenciled with
 her name, grading everyone who crosses the yard. What blocks him is
 a calendar invite he never accepted — a "condition survey of
-Millrow structures" — and what changes is his stomach when he sees
-which structure. His evening round at Hartwell House (boiler,
-gutters, a staircase he doesn't look at directly) tells the reader
-what no one in town knows: he tends this building off the clock,
-and not for the university.
+Millrow structures" — Cal's position on meetings being roughly
+Ratchet's position on bath day, right up until he sees which
+structure, and his stomach drops. His evening round at Hartwell
+House (boiler, gutters, a staircase he doesn't look at directly)
+tells the reader what no one in town knows: he tends this building
+off the clock, and not for the university.
 
 ### Ch 3 — The Second Guest Book (Marisol)
 Curb Market Saturday, and Cal Sutter crosses the shed carrying
@@ -240,9 +250,10 @@ took them — and one photo near the top he names right past without
 breaking stride, and she doesn't ask. The third tread is worn pale
 from a century of men getting down on one knee in the same spot,
 and he is kneeling on it now with a plane, keeping it level for
-whoever climbs it next. On the hall table, the guest book — and her
-own handwriting in it, from her son's drop-off day. She stands on
-the step a minute before she goes, and tells no one.
+whoever climbs it next — "job security," he says, which fools
+neither of them. On the hall table, the guest book — and her own
+handwriting in it, from her son's drop-off day. She stands on the
+step a minute before she goes, and tells no one.
 
 ### Ch 6 — Table Nine (Cal)
 The booster gala, and Cal wants to shake three hands and leave —
@@ -257,12 +268,13 @@ sock-vendor name] Media LLC," whose welcome line reads "ya'll
 come." Nobody notices. The reader is invited to.
 
 ### Ch 7 — Two Pies (Marisol)
-Booth for one at the Checkerboard, first fall with both kids gone,
-phone face-down by the pie fork and turned over twice already — her
-boy a walk-on number under the stadium glow, twenty minutes and a
-whole life away. Earlene slides in uninvited, orders two pies with
-the authority of a woman who has buried two mayors, and rules that
-the first fall is the worst and the second one is also the worst.
+Checkerboard booth, first fall with both kids gone — her boy a
+walk-on number under the stadium glow, twenty minutes and a whole
+life away — and the phone face-down by the pie fork has been turned
+over only twice, which Earlene, sliding in uninvited, scores aloud
+as progress. She orders two pies with the authority of a woman who
+has buried two mayors and rules that the first fall is the worst
+and the second one is also the worst, so Marisol may as well eat.
 Between bites, Marisol reads the board: brand-new accounts calling
 the House a firetrap, polite strangers asking her to keep things
 neutral — and understands the fight isn't opinion at all; it runs
@@ -283,17 +295,19 @@ isn't — and the crew watches their director argue with the enemy
 and laugh twice.
 
 ### Ch 9 — Five O'Clock Smoke (Marisol)
-Marisol wants to outrun the four a.m. hour, the one where the house
-is loudest with nobody in it, so she walks — and Millrow before
-dawn belongs to the hickory smoke off Delmar's pit and to exactly
-one other person. Cal, on the screen porch Ray leaves unlocked for
-him, pours her a cup without asking a single question, which she
-will understand later was the kindest thing anyone had done for her
-in months. They watch the town come on a light at a time — the
-Checkerboard's griddle, the Courier's upstairs window, the carillon
-testing itself — and he recites the order like a psalm he didn't
-know he'd memorized. She walks home when the crew trucks pull in,
-and that night she sets her alarm on purpose.
+Four a.m. is the one hour Marisol hasn't decided what to do with
+yet, so she out-walks it — and Millrow before dawn turns out to
+belong to the hickory smoke off Delmar's pit and to exactly one
+other person. Cal, on the screen porch Ray leaves unlocked for him,
+pours her a cup without asking a single question, which she will
+understand later was the kindest thing anyone had done for her in
+months. She bets him the Checkerboard's griddle comes on before the
+Courier's upstairs window; she's wrong, and he lets her be wrong so
+gently she wants to bet again. They watch the town come on a light
+at a time — the griddle, the Courier's window, the carillon testing
+itself — and he recites the order like a psalm he didn't know he'd
+memorized. She walks home when the crew trucks pull in, and that
+night she sets her alarm on purpose.
 
 ### Ch 10 — The Roses Are Hers (Cal)
 A parts run first: Sonny Dillard at the Feed Store counter delivers
@@ -320,10 +334,17 @@ Marisol gets passed down a line of strangers' hands like a bucket
 at a fire, laughing too hard to apologize. Two flickers cross her
 phone mid-joy: a shiny new account quoting town wisdom — Earlene,
 squinting: "I said that two mayors ago, and not like that" — and
-the politest message yet inviting her to step back for balance. She
-pockets the phone. At the door, leaving, she looks back and finds
-Cal across the room already looking at her. The jukebox has been
-unplugged for an hour and nobody has noticed yet.
+the politest message yet inviting her to step back for balance. By
+last call the bar has solved the whole thing to its own
+satisfaction: it's Tunk Ferrell — the man bid on Boyd's deck
+contract in public, twice, and would profit by every anonymous
+firetrap post — and half the Mule convicts him happily on no
+evidence at all while the other half buys him a sympathy round in
+absentia. Marisol writes the name in the spiral notebook with a
+question mark. She pockets the phone. At the door, leaving, she
+looks back and finds Cal across the room already looking at her.
+The jukebox has been unplugged for an hour and nobody has noticed
+yet.
 
 ### Ch 12 — First to See It (Cal)
 Friday, still dark, Cal's round crosses Eli's — and he holds the
@@ -357,31 +378,43 @@ doesn't do meetings — it does suppers; put everyone on that porch
 and make November look it in the eye. And Marisol notices the
 board's loudest "neighbors" have posted straight through Sunday
 dinner, when every actual neighbor she knows is right here passing
-cake.
+cake — including Tunk Ferrell, the Mule's favorite suspect, who
+ushered both services at First Methodist this morning and is
+currently going back for Delores's banana pudding. She moves his
+question mark down the page, but doesn't erase it yet.
 
 ### Ch 14 — The Drawer (Cal)
 The draft lands: findings written to the rigged ground rules,
 RECOMMEND CONDEMNATION, his name pre-typed under a verdict he never
 reached — and the same day a jobs-pledge letter goes up on the crew
-corkboard, timed to the minute. Cal wants time; the deadline gives
-him none. So he makes the wrong choice for right reasons: he locks
-the unsigned draft in the motor-pool drawer and tells no one —
-Marisol first of all, and that is the part that aches; he picks up
-the phone twice with her name on the screen and sets it down twice.
-The drawer becomes the most dangerous place in Ashford.
+corkboard, timed to the minute. The town, oblivious and
+magnificent, keeps arriving anyway: Tick Moran spends the swap-shop
+hour failing to sell a pontoon boat nobody will admit to owning,
+the crew argues it down to forty dollars on principle, and Ray
+sends a to-go box up the hill with MULE, THURSDAY — WE'RE
+CELEBRATING NOTHING, COME ANYWAY inked on the lid. Cal wants time;
+the deadline gives him none. So he makes the wrong choice for right
+reasons: he locks the unsigned draft in the motor-pool drawer and
+tells no one — Marisol first of all, and that's the ache under a
+shop full of laughing men; he picks up the phone twice with her
+name on the screen and sets it down twice. The drawer becomes the
+most dangerous place in Ashford.
 
 ### Ch 15 — Nine Forty-One (Marisol)
-MIDPOINT, first blow. She is on the House lawn with string lights
-in both hands, rigging the supper, when her badge vanishes at 9:41
-p.m., mid-reply — "pending review" — and the cold drop underneath:
-she waved half those shiny August accounts in herself, between
-errands, being helpful. By midnight a screenshot has ricocheted
-through twelve thousand phones — Office of the Facilities Director,
-C. Sutter — and the town she was stringing lights for believes his
-name is the House's death warrant. Everything she built and
-everything she was starting to trust fail in the same three hours.
-She leaves the lights half-hung and drives toward the only lit door
-on campus.
+MIDPOINT, first blow. The supper rig-up is half hoedown: Marisol up
+a ladder with string lights in both hands, Birdie footing it and
+art-directing, Earlene supervising from a lawn chair she brought
+for the purpose, Verna telling every couple who slows down which
+step to get engaged on. The lawn is loud and golden right up until
+9:41 p.m., when her badge vanishes mid-reply — "pending review" —
+and the cold drop underneath: she waved half those shiny August
+accounts in herself, between errands, being helpful. By midnight a
+screenshot has ricocheted through twelve thousand phones — Office
+of the Facilities Director, C. Sutter — and the town she was
+stringing lights for believes his name is the House's death
+warrant. Everything she built and everything she was starting to
+trust fail in the same three hours — but the half-hung lights stay
+lit behind her, and she drives toward the only lit door on campus.
 
 ### Ch 16 — The Only Lit Door (Cal)
 MIDPOINT, second movement. Near midnight the motor pool's bay light
@@ -400,10 +433,13 @@ honesty. That's the book. [HEAT 1]
 ### Ch 17 — The Supper (Marisol)
 POINT OF NO RETURN. The supper outgrows the lawn: casseroles on
 card tables, folding chairs to the boxwoods, the fiddler on the
-steps, Tick running his hour live off the porch rail. Boyd arrives
-gracious, raises a toast to safety and progress — and Dr. Aisha
-Cole declines, beside the cake table, to lend medicine to real
-estate, and her blazing argument with Coach Merritt stops the
+steps, Tick running his hour live off the porch rail. Marisol works
+the cake tables wanting exactly one thing she can't have in public
+— ten seconds of Cal's eyes on hers — and gets it anyway, twice,
+across the boxwoods, which settles nothing and helps enormously.
+Boyd arrives gracious, raises a toast to safety and progress — and
+Dr. Aisha Cole declines, beside the cake table, to lend medicine to
+real estate, and her blazing argument with Coach Merritt stops the
 fiddle mid-tune. Boyd recovers by thanking "our facilities
 director's partnership," hijacking Cal's silence in front of the
 town. Marisol, mic in hand to thank the crowd, asks the question
@@ -415,12 +451,17 @@ he is publicly the man who didn't. No way back for either.
 ### Ch 18 — [Pause] (Cal)
 The transcript is taped in the break room by Wednesday, his silence
 typed as "[pause]"; the Mule goes a degree quieter when he walks
-in; Boyd, reading leverage, sets the deadline — the Friday before
-the trustees come. Over the yard fence Cal asks the engineer the
-one question that matters: can a certifying official answer a
-finding with his own? Only with one of equal standing — real
-drawings, real numbers, no shortcuts. The counter-report now has a
-legal shape and an impossible timeline.
+in, so Peanut sets his beer down on the house — which, in Mule
+grammar, is a full-throated endorsement. Boyd, reading leverage,
+sets the deadline — the Friday before the trustees come. Over the
+yard fence Cal asks the engineer the one question that matters: can
+a certifying official answer a finding with his own? Only with one
+of equal standing — real drawings, real numbers, no shortcuts;
+"and a ladder," the engineer allows. "You strike me as a man with a
+ladder." The counter-report now has a legal shape and an impossible
+timeline. All week Cal wants to call her the way a man wants coffee
+at four a.m. — constantly, and first thing — and settles for a
+midnight photo of Ratchet, which she answers in nine seconds flat.
 
 ### Ch 19 — Coffee for Twelve (Marisol)
 The storm blows through overnight and the pecan limb comes through
@@ -445,10 +486,13 @@ be seen doing it. Her handwriting joins the maintenance ledger on
 the line where his late wife's stops, and he finally says the whole
 of it: the fellowship year, the wedding on this porch, the photo he
 names past on the stairs, why the word "memorial" has never once
-made it out loud. She gives him the winter answer; he does the math
-twice and goes quiet the way a man does when a door opens. A dying
-work light and a 1 a.m. text interrupt what was about to change
-anyway. The report is real now. So are they.
+made it out loud. She answers the whole of it with her handkerchief
+and her worst joke in the same motion, and his laugh comes out
+rusty and surprised — which is how grief travels in Ashford:
+briefly, and in company. She gives him the winter answer; he does
+the math twice and goes quiet the way a man does when a door opens.
+A dying work light and a 1 a.m. text interrupt what was about to
+change anyway. The report is real now. So are they.
 
 ### Ch 21 — Under the Home Stands (Marisol)
 Homecoming: the parade down Millrow, Birdie's truck at the gates,
@@ -512,11 +556,15 @@ HARTWELL HOUSE by lunch, and the dance photo runs beside it by two:
 their public joy recut as proof of a fix. By five somebody at the
 Blind Mule rings the bell for the jobs while Cal stands unnoticed
 in the doorway, watching his own name buy a round he never poured.
-Boyd's terms arrive by evening: sign the real one by Friday, or the
-winter list writes itself. And the arithmetic that makes it
-unbearable: the false outrage is the pledge drive's best day ever —
-the lie is funding her fight against him, and any truth he tells
-now looks like exactly what the photo says.
+Not all of Ashford is buying: Verna Poteat plants her bushel basket
+in the Mule's doorway and announces, to nobody and everybody, that
+she has known Cal Sutter since he alphabetized the church pantry,
+and lies don't hold up a porch. Boyd's terms arrive by evening:
+sign the real one by Friday, or the winter list writes itself. And
+the arithmetic that makes it unbearable: the false outrage is the
+pledge drive's best day ever — the lie is funding her fight against
+him, and any truth he tells now looks like exactly what the photo
+says.
 
 ### Ch 25 — Receipts (Marisol)
 Six a.m. at the Checkerboard, and Earlene delivers the Liars' Table
@@ -564,7 +612,10 @@ bravest, worst thing two careful people can do — each offers to let
 the other go. He'll stand down and keep his name off her clean
 fight; she'll stay out of the room so no one can say he was bought.
 The offers are real, structural, and terrible, and nothing is
-settled when she leaves alone. The work lights go off one by one
+settled when she leaves alone. Down the hill, Delmar's pit is
+already smoking for tomorrow's crowd and the Checkerboard's sign
+buzzes its usual stubborn OPEN — the town keeping its lamps lit
+around two people in the dark. The work lights go off one by one
 behind her, and the mug he poured her goes cold on the rail.
 
 ### Ch 28 — I Yield My Time (Cal)
@@ -698,7 +749,7 @@ together at 15–17, 22/24, 27, and 28.
 | P15 | Socks quote town wisdom "two mayors ago" (archive mining) | 11 | 25 (the morgue-mining fingerprint) |
 | P16 | Leak rehearsal: CONDEMNATION — FINAL, posted and deleted | 21 | 24 (superior position on the real leak) |
 | RH1 | The leak reads as Cal's signed condemnation | 24 | Cleared 25 — honest signals: P8 (reader, ch 16) + file provenance |
-| RH2 | The socks read as Tunk Ferrell (public deck bid) | 11 | Cleared 25 — honest signal planted 13: socks post through Sunday services; Tunk ushers at First Methodist; true operator = P7's paid vendor |
+| RH2 | The socks read as Tunk Ferrell (public deck bid) | 11 (the Mule convicts him over the deck bid; her notebook question mark) | Cleared 25 — honest signal planted 13: socks post through Sunday services while Tunk visibly ushers at First Methodist; true operator = P7's paid vendor |
 
 Dangling setups: none book-local; deliberate series hand-forwards
 only (seeds below). Five-minute-honest-talk audit (SC4): the leads
@@ -802,8 +853,11 @@ only; no other roots collide.
   16 (the boot vote), 30. Trust barometer, zero plot load.
 - **Grief (register control):** weighted scenes only at 10, 20, and
   the one sentence in 28, with the 30 echo; bright register
-  everywhere else. "Big and grumpy" language banned; Cal is written
-  weathered-golden, quietly capable, watched by half the market.
+  everywhere else. Gilmore calibration (author, PR #56): grief and
+  loneliness land as brief chords inside upbeat chapters, never the
+  chapter's weather — a laugh lives near every ache. "Big and
+  grumpy" language banned; Cal is written weathered-golden, quietly
+  capable, watched by half the market.
 
 ### Dream-pass placement map (all fifteen moments landed)
 
@@ -840,6 +894,29 @@ only; no other roots collide.
 - **F4 (Cal's pre-midpoint wanting):** on the page at 6 (files her
   under problems) and 14 (her name first; the phone picked up twice
   and set down twice).
+
+### Gate repairs + Gilmore sweep applied (2026-08-15, PR #56)
+
+- **Gate F1 (RH2 plant missing):** the Tunk Ferrell misdirect is
+  now staged at ch 11 — the Mule convicts him happily over his
+  public bid on Boyd's deck contract; Marisol logs him in the
+  notebook with a question mark. The honest signal at ch 13 now
+  shows Tunk visibly ushering while the socks post. Fair-play RH2
+  row corrected to match the page. State chain unchanged (row 13
+  already carried the RH2 signal).
+- **Gate F2/F7 (FUN and TOWN floors at 14–15):** one warm,
+  banter-forward town beat added to each — Tick's pontoon hour and
+  Ray's to-go-box invitation inside ch 14; the rig-up hoedown
+  (Birdie, Earlene, Verna) opening ch 15. Both chapters' plot
+  functions (the drawer; the 9:41 coup) untouched.
+- **Gate F3 (romance sag 17–18):** one line of wanting per chapter
+  — across the boxwoods at 17; the four-a.m.-coffee line and the
+  Ratchet photo answered in nine seconds at 18.
+- **Gilmore sweep (author calibration, on approval):** heavy or
+  lonely entries re-toned at 2, 5, 7, 9, 14, 15, 18, 20, 24, 27 —
+  every grief beat kept, made brief, with a laugh or a lit window
+  nearby. Structure, beats, curve, HEAT, and the ch 27 dip
+  unchanged.
 
 ### Series seeds (all pay local rent first)
 
@@ -905,7 +982,8 @@ only; no other roots collide.
     once (A/B said twelve, C said forty).
 11. [TK] Org chart — whether stadium grounds report through Cal's
     shop (the side pair's payroll-line miniature depends on it).
-12. [CHECK] The author register note (2026-08-13) and the meter
-    scores (2026-08-14) were supplied to this revision in summary
-    and are not in the repo; commit both so the next run reads them
+12. [CHECK] Partially resolved: the author register note and the
+    gate findings are now repo files (notes/) and were read
+    firsthand by this pass; METERS.md remains a scratchpad copy per
+    the 2026-08-14 gate run — commit it so the next run reads it
     firsthand.
