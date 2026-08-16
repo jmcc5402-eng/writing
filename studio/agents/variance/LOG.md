@@ -101,3 +101,6 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-16 | romance-reader-panel (campus B1 frozen outline — first production run, invoked via charter) | C5 last five lines | notes/ (filed by orchestrator) |
 | 2026-08-16 | continuity-keeper (campus canon sweep vs the frozen outline) | E3 reverse order (E5 was LRU but is dialogue-mechanics, inapplicable to a canon sweep with no dialogue in scope — deviation logged) | notes/ (filed by orchestrator) |
 | 2026-08-16 | showrunner (nightly shift, in-session) | — | this shift |
+| 2026-08-17 | romance-reader-panel (campus ch1 prose — the winner, pipeline gate) | C1 pacing above all | notes/ (filed by orchestrator) |
+| 2026-08-17 | continuity-keeper (campus ch1 prose vs canon) | E5 dialogue mechanics first (first campus artifact with dialogue — card finally applicable) | notes/ (filed by orchestrator) |
+| 2026-08-17 | showrunner (nightly shift, in-session) | — | this shift |
