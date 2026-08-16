@@ -235,7 +235,7 @@ student-definition and adult-power-ceiling open questions.
     - Origin: the author's register note, *"you can call him big and
       grumpy — that doesn't sound attractive at all. He should be
       described more like a Robert Redford type."* Drafted in
-       and merged in PR #60 as
+      `plots/book-1-1-premise-v2.md` and merged in PR #60 as
       "drafted for STANDARDS as item 25"; the drafting never landed
       in this file, so the rule governing how competing drafters
       describe a lead on page one did not exist while chapter one was
