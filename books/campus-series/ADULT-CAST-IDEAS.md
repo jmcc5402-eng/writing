@@ -88,13 +88,36 @@ book; seeds noted per set. Ages given so the bible's age spreadsheet
 starts from real math. B-story tagged **[SA]** set-antagonist arc,
 **[PB]** parent-board arc, or **[both]** (variance card A2).
 
+### Age variance — RULED (author, 2026-08-16, in chat)
+
+The band stays loose (PR #50), and on top of it: **each set carries
+one early-30s book**, both to freshen the shelf and as a deliberate
+experiment — lead ages vary book to book so that sales data can
+later show which band converts. The age table below is the
+positioning record; update it as books lock, and read it against
+rank data after launch.
+
+| Book | Leads | Ages | Young-book slot? |
+|---|---|---|---|
+| 1.1 | Marisol × Cal | 43 × 47 | — |
+| 1.2 | Dan × Aisha | 48 × 41 | — |
+| 1.3 | Priya × Marcus | **33 × 36** | **YES (ruled)** |
+| 1.4 | Jo × Ray | 45 × 46 | — |
+| 2.x | (admissions director lead, see bench note) | ~32–34 | candidate |
+| 3.3 | Danny × Imogen | 38 × 39 → trim at bible time | candidate |
+| 4.2 | Lucía × Nate | 43 × 38 → trim at bible time | candidate |
+
+Sets 2–4 pick their young book at their own bible time; the
+candidates above are the natural fits, not commitments.
+
 ### Set 1 — Ashford State (SEC; antagonist: booster Rex Boyd's
 stadium expansion, which would raze Hartwell House)
 
 **1.1 — Grumpy/sunshine.** *Marisol, 43, divorced,* admin of the
 12,000-member Ashford Parents & Families group — walk-on son at
 Ashford, daughter at Bellamy, both offstage — leading the
-save-the-House petition × *Walt, 47, widowed,* university facilities
+save-the-House petition × *Cal Sutter, 47, widowed* ("Walt" retired by the register
+ruling), university facilities
 director; the House is his late wife's memorial (she was a Hartwell
 fellow). **Obstacle:** Boyd's expansion funds the facilities budget
 that employs Walt's whole crew, and Boyd needs *his* signature on the
@@ -121,11 +144,12 @@ board's verdicts on himself nightly. *Earns its pages:* the secret
 romance needs watching eyes to be dangerous — the board supplies a
 hundred of them, and it's how the offstage students stay *felt*.
 
-**1.3 — Fake dating.** *Priya, 39, never-married,* CFO of the Boyd
-Foundation, quietly appalled by the books × *Marcus, 42, divorced,
+**1.3 — Fake dating.** *Priya, 33, never-married,* CFO of the Boyd
+Foundation, quietly appalled by the books × *Marcus, 36, divorced,
 two elementary-age kids* (on page — allowed), the university's
 donor-relations director, ordered to front Boyd's "unity" capital
-campaign. Boyd stage-manages them as the campaign's public couple.
+campaign. (Ages dropped from 39/42 per the age-variance ruling —
+Set 1's young book; the plot is untouched.) Boyd stage-manages them as the campaign's public couple.
 **Obstacle:** the fake courtship IS the propaganda — and she's the
 anonymous leak feeding the save-the-House side. Going real means he
 learns the woman on his arm is destroying the campaign his
@@ -151,7 +175,17 @@ couple (mega-theme 1) — the B-story is the community.
 
 *Seeding:* Dan and Aisha argue at 1.1's board town-hall; Priya signs
 Boyd's checks in 1.1–1.2 background; Ray caters every tailgate from
-1.1; Jo's byline appears on 1.3's leak story. Marisol's Bellamy
+1.1; Jo's byline appears on 1.3's leak story. **The admissions
+director (RULED bench plant, author 2026-08-16):** *[TK name], 32,
+Ashford State's new director of admissions* — Set 1's fluent speaker
+of yield season (tour groups crossing the quad, waitlist purgatory,
+"demonstrated interest"), two or three chorus appearances across
+1.2–1.3, no romance framed. Bellamy — mid enrollment cliff — poaches
+her between sets (the fractal bench rule), where she is the lead
+candidate for Set 2's young book; her exact slot is decided at the
+Set 2 bible, and the school-employee density she adds is the point:
+the author wants campus life and its vocabulary center-stage (see
+energy-bank.md §15). Marisol's Bellamy
 daughter and the listserv she posts on seed Set 2. **Tess Larkin
 (program coordinator) × Everett Shaw (trust counsel)** — S03's
 slow-burn pair, named and slotted by PR #49, 2026-08-13. They appear
