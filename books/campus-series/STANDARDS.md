@@ -216,6 +216,31 @@ student-definition and adult-power-ceiling open questions.
       one line; then point to the line where the chapter touches
       the main story. Failing either half is a finding.
 
+25. **Leads are named and described to be wanted (author,
+    2026-08-13, directive 4 — recorded 2026-08-17).** A lead's given
+    name reads as a contemporary person of their own generation and
+    region — never a name that dates the character a generation older
+    than his age. No lead is introduced by an unattractive physical
+    adjective. A grump is written as restraint, capability, stillness,
+    and heat underneath it, and **his grumpiness lives entirely in his
+    behavior and his dialogue, never in his description.** The
+    reference for the Set 1 hero is a Robert Redford type:
+    weathered-golden, quiet, good hands, unhurried, funnier than he
+    lets on.
+    - **The chapter test.** Does the lead's first physical
+      description make a reader want to look at him longer? If the
+      honest answer is no, it fails, however accurate it is.
+    - Applies to **all leads, all sixteen books** — this is a register
+      rule, not a note about one hero.
+    - Origin: the author's register note, *"you can call him big and
+      grumpy — that doesn't sound attractive at all. He should be
+      described more like a Robert Redford type."* Drafted in
+       and merged in PR #60 as
+      "drafted for STANDARDS as item 25"; the drafting never landed
+      in this file, so the rule governing how competing drafters
+      describe a lead on page one did not exist while chapter one was
+      written three ways.
+
 ## Implications of the pivot (flags, not fixes)
 
 - **The BRAINSTORM.md couple grid (§3) is invalidated** — all sixteen
