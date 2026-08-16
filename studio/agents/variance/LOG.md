@@ -98,6 +98,10 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-14 | drafting-assistant as dreamer (campus 1.1 dream pass + hero rename) | — (dream pass; cards suspended per coda) | notes/b11-dream-pass-2026-08-14.md |
 | 2026-08-14 | plot-architect (campus 1.1 outline REVISION 2 — the re-dream) | — (revision integrating ruled inputs) | plots/b11-outline-rev2.md |
 | 2026-08-14 | utility gate battery (campus 1.1 rev2 — meters, fair play, register) | — | notes/b11-rev2-gates-2026-08-14.md |
+| 2026-08-15 | drafting-assistant (campus 1.1 ch1 blind competition, run A) | D6 run a beat past comfortable | books/campus-series/drafts/2026-08-15/ch1-candidate-A.md |
+| 2026-08-15 | drafting-assistant (campus 1.1 ch1 blind competition, run B) | D2 hands and objects | books/campus-series/drafts/2026-08-15/ch1-candidate-B.md |
+| 2026-08-15 | drafting-assistant (campus 1.1 ch1 blind competition, run C) | D7 open mid-motion | books/campus-series/drafts/2026-08-15/ch1-candidate-C.md |
+| 2026-08-15 | romance-reader-panel (campus ch1 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ch1-competition-panel-2026-08-15.md |
 | 2026-08-16 | continuity-keeper (campus canon sweep vs the frozen outline) | E3 reverse order (E5 LRU but dialogue-mechanics, inapplicable — deviation logged) | notes/b11-canon-sweep-2026-08-16.md |
 | 2026-08-16 | romance-reader-panel (campus B1 frozen outline — first production run, invoked via charter) | C5 last five lines | notes/ (filed by orchestrator) |
 | 2026-08-16 | continuity-keeper (campus canon sweep vs the frozen outline) | E3 reverse order (E5 was LRU but is dialogue-mechanics, inapplicable to a canon sweep with no dialogue in scope — deviation logged) | notes/ (filed by orchestrator) |

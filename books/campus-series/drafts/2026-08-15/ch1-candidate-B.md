@@ -1,0 +1,312 @@
+# Chapter 1 — Third-Largest City
+
+POV: Marisol, third person limited, past tense.
+Candidate: B.
+Variance card: D2 — hands and objects: physical business carries the emotion.
+
+---
+
+On the first home Saturday of the season, Ashford woke up and tripled.
+
+It started in the dark.
+Sometime around five the fairgrounds grew a city —
+RVs nose to tail in rows that had not existed at midnight,
+awnings cranking out, flags running up poles,
+a hundred generators clearing their throats at once.
+By eight the charcoal was lit from one end of town to the other,
+and Delmar's had a column of hickory smoke standing over the square,
+tall enough to navigate by.
+
+The bars filled at breakfast.
+Coolers went down porch steps two men to a handle,
+seltzer cans rattling in ice like applause.
+Somebody's playlist argued with somebody else's playlist
+across a fence line, and under all of it, under everything,
+the drumline was warming up somewhere out of sight,
+a heartbeat the whole town had agreed to share.
+The cicadas kept their own section going in the oaks.
+The heat was already the kind you wore,
+draped over your shoulders before you got the door closed behind you.
+
+A delivery driver stood at the mouth of the RV city
+with a dolly stacked three boxes high, checked his screen,
+looked down the rows, checked his screen again,
+and slowly, respectfully, took his hat off.
+
+On a porch off the square,
+a silver-haired man in a pressed game-day shirt
+reached out and caught a woman by the belt loop as she passed.
+She was fifty if she was a day, glorious about it,
+sunglasses pushed up into her hair,
+and she set her drink on the rail with great deliberation,
+took two fistfuls of that pressed shirt, and kissed him
+until three lawn chairs' worth of gray-haired neighbors whistled.
+Neither of them came up for air.
+The town rolled on past the porch and left them to it.
+
+Past the church lots renting parking by the honor jar,
+past a card table selling pound cake to a line eleven deep,
+past a golf cart with a tuba strapped to the back —
+and there, on the lawn by the stadium's north side,
+under a white canopy with one leg it did not trust,
+stood Marisol, a Sharpie in her teeth,
+alphabetizing three hundred name tags at speed.
+
+She had woken up at five forty with one project for the day,
+and the project was this: a Saturday that belonged to her.
+Not to lawyers, not to boxes, not to a house
+that had gone loud with quiet the week both kids left —
+you could hear the refrigerator think in that house now.
+Today belonged to the tent, the crowd, the noise,
+and whatever the noise wanted to hand her.
+The parents' group chat had been going off since six.
+Twelve thousand members, and apparently every one of them
+needed to know where to park, all at once, individually.
+She'd typed *pinned post, my loves* four times before coffee
+and felt, honestly, wonderful about it.
+
+The name tags were done through the Gs
+when the canopy folded for the first time.
+
+It went down with a soft aluminum sigh, no drama,
+just quit, the near corner dipping like a curtsy,
+and Marisol caught the frame one-handed
+without looking up from the Hs.
+She shoved it back to standing, gave the leg a warning look,
+and went back to work.
+
+The second time, it took a corner of the cake table with it.
+The sheet cake — half an acre of buttercream in team colors,
+fifty dollars of somebody's love —
+slid two inches in its box, and Marisol's whole body
+moved before her mind did.
+Both hands flat on the box. Hip against the table.
+The cake stopped. Her heart did not.
+
+"Okay," she told the canopy. "Now it's personal."
+
+She went to her trunk for the little crescent wrench
+that had lived in her glove box since the divorce,
+part of a toolbox she'd assembled herself
+the first week alone, out of principle and spite.
+She crawled under the frame in a sundress,
+found the cam lock, and tightened it with a violence
+that would have alarmed the manufacturer.
+
+The third time the canopy folded, she never saw him coming.
+
+One boot planted on the base plate. That was the first thing
+she saw, from underneath — a work boot, arriving with authority.
+Then two hands came down into her field of view,
+brown from a whole summer of outdoors,
+and did something to the frame in exactly two motions,
+a lift and a quarter-turn, and the canopy stood up straight
+and confessed everything and reformed on the spot.
+
+She backed out from under the table and stood,
+and got her first full look at him.
+
+Green facilities polo. Silver-gold hair the August sun had clearly
+been working on for years and improving the whole time.
+Forty-something and built out of the useful kind of shoulders.
+He glanced at her — one glance, down and back up,
+quick but not quick enough, and she watched him decide
+not to have done it.
+
+"Leg's bent," he said. To the canopy.
+
+And then he plucked her wrench off the grass,
+turned it over once in his hand like a judge with evidence,
+and walked away with it.
+
+She was around the table before the Sharpie hit the grass.
+
+"Hey." She planted herself in his path, hand out, palm up.
+"You're leaving with my wrench."
+
+He stopped. He looked at the wrench,
+then at her open hand, then at her,
+and something happened at the corner of his mouth
+that a generous witness might have logged as almost a smile.
+
+"It's the wrong wrench," he said.
+
+"It's my wrong wrench."
+
+"You torqued the cam lock. Cam locks don't torque.
+That's why she keeps folding on you."
+
+"*She.*" Marisol crossed her arms,
+which she was aware did excellent things,
+and watched him be aware of it too.
+"You've named my tent and stolen my tools.
+This is the fastest relationship I've ever been in."
+
+He held the wrench a moment longer.
+Whatever the rest of his face was doing,
+his hands were perfectly at home,
+thumb riding the adjustment wheel, unhurried.
+He had the hands of a man who had never once
+read an instruction manual and never once needed to.
+
+"I'll bring you the right one," he said, and stepped around her.
+
+"That's not a return policy," she called after him.
+"That's a hostage situation."
+
+He raised the wrench over his shoulder without turning around,
+a lazy salute, and the crowd folded him in.
+
+Marisol stood there a beat too long, hand still half open,
+holding exactly nothing.
+The nothing was surprisingly warm.
+
+"Ma'am, name tags?" said a father in a bucket hat.
+
+"Ns through Zs on the left," she said,
+smiling at a point somewhere past his ear,
+"and if you find a man in a green polo,
+tell him the tent misses him."
+
+---
+
+By ten thirty she'd handed out two hundred name tags,
+recited the parking answer enough times to set it to music,
+and defended the cake from four separate toddlers
+belonging to alumni who should have known better.
+She was flattening the empty tag boxes when a flower truck
+came grumbling up the service lane to the north gate,
+white with hand-painted lettering,
+buckets of zinnias and sunflowers swaying in the bed
+with every pothole, a whole rolling argument for optimism.
+
+Birdie Pham swung down from the cab,
+clipped-short hair, forearms of a woman who hauled water for a living,
+and started muscling buckets onto the tailgate.
+
+She had two buckets down when Eli Fountain materialized.
+
+Marisol knew Eli by his walk before she knew him by his face,
+the deliberate stride of the stadium groundskeeper on game day,
+a man visiting his life's work on its wedding day.
+He was carrying two coffees.
+He had clearly been carrying them for a while.
+He had, Marisol realized with rising joy,
+been circling with them, waiting for the truck.
+
+"Birdie," he said.
+
+"Eli."
+
+He held out a coffee. She looked at it, then took it,
+and their fingers had a four-way negotiation over the cup
+that lasted twice as long as physics required.
+
+"The rye's coming in good," Eli said.
+
+Birdie blinked. "The what?"
+
+"The grass." He gestured at the stadium with his own cup,
+sloshing some. "Overseeded the rye early this year.
+For the color." A pause you could have parked an RV in.
+"It's a cool-season grass."
+
+"Okay," said Birdie.
+
+"You have flowers," Eli observed.
+
+"I do," said Birdie, whose eyes were doing something soft
+that her voice was refusing to endorse. "It's kind of my thing."
+
+"They look — " Eli consulted the middle distance
+for the word, and came back with, "watered."
+
+Marisol turned away to fold a box
+so nobody would see her face.
+Birdie handed Eli a bucket of zinnias to hold,
+for no reason on earth except that it kept him standing there,
+and Eli wrapped both arms around that bucket
+and held on as if the zinnias might make a break for it.
+
+Earlene arrived at Marisol's elbow with two lemonades,
+handed one over uninvited, and watched the flower truck
+proceedings over the rim of her cup.
+
+"Third Saturday running he's brought two coffees," Earlene said.
+"Man doesn't even drink coffee. I've watched him not drink it."
+
+"Earlene, I need information."
+
+"That's my whole ministry."
+
+"Green polo. Fixed my tent. Confiscated my wrench."
+
+Earlene didn't even need to look toward where Marisol wasn't
+pointing.
+"That's Cal Sutter," she said, in the flat tone she used
+for humidity and road closures.
+"Facilities director. Whole campus runs through his key ring.
+Man's a fixture. Been here longer than the clock tower
+and gets more maintenance."
+
+"He stole my wrench."
+
+Earlene took a long pull of lemonade.
+"Sugar, in this heat that's practically a courtship."
+
+"It was a hostage situation."
+
+"Mm." Earlene patted her arm and drifted off toward the cake,
+information delivered, weather report complete.
+
+Cal Sutter, thought Marisol, and hated a little
+that the name fit him.
+
+---
+
+By kickoff the tent had done its work, the crowd was inside,
+and the roar came over the wall every few minutes in tides,
+ninety thousand people breathing in unison.
+Marisol had the second half more or less to herself,
+a folding chair, the last of the lemonade,
+and one unfinished piece of business she declined to name.
+
+She was not looking for anyone.
+She was simply keeping an eye, in a general civic sense,
+on the golf carts running the perimeter road,
+the service gates, the maintenance staff moving along the fence,
+any of whom, statistically, might wear green.
+One cart slowed near the north gate and her whole body
+sat up before she could vote on it.
+Two polos, both green. Neither his.
+She made herself look at the scoreboard she could not see
+and laughed, out loud, alone, at absolutely herself.
+
+Forty-three years old, and she'd spent a half of football
+scanning the third-largest city in the state for one wrench thief.
+
+The tent came down easy at the end.
+The cam lock held.
+She pressed her thumb against it once, where his hands had been,
+and then packed the frame away and didn't tell anyone that.
+
+The drive home ran against the leaving tide,
+her lane empty, the other a river of brake lights and flags.
+At the edge of town she reached over without deciding to
+and put every window down.
+
+The night came in warm and all at once,
+cicadas and cut grass and somebody's last charcoal,
+her hair going immediately and completely to ruin.
+She let it.
+A year of driving sealed up quiet, and she had forgotten
+that a steering wheel could feel like this under two hands,
+loose, ten and two abandoned, the whole car singing.
+
+Somewhere behind her a man had a wrench that didn't belong to him,
+which meant he owed her, which meant Saturday wasn't over,
+it was just parked.
+
+Marisol drove home with the windows down and the radio up,
+and if she sang, and she did,
+that was between her and the third-largest city in the state.
