@@ -1,7 +1,9 @@
 # Ashford — Town Census (Set 1)
 
-**STATUS: PROPOSED — author ratification via PR. Nothing below is
-canon.** Produced 2026-08-13 by a `culture-researcher` run (variance
+**STATUS: RATIFIED — author, [TK date via this PR]. Canon for Set 1.**
+Where a later frozen artifact disagrees with this file, the
+disagreement is a finding requiring a ruling, not a silent pick by
+whichever doc a run happens to read first. Produced 2026-08-13 by a `culture-researcher` run (variance
 card A3 — sensory inventory). This file answers the ratified queue's
 job 2 (`notes/set-one-first-2026-08-11.md` F5) and alignment-audit
 findings 9, 10, 12, and 13. It builds ON `BRAINSTORM.md` §8 World 1
@@ -241,7 +243,8 @@ online. All PROPOSED.
 
 ## 7. Calendar and seasons (keyed to Books 1.1–1.4)
 
-**Fall (1.1).** The town doubles. August air you wear like a wet
+**Fall (1.1).** Thirty-eight thousand people become a hundred
+thousand. August air you wear like a wet
 jacket; charcoal lit by eight on Saturdays; drumline and cicada
 static after dusk (§8's spine, kept). Millrow smells of hickory from
 Delmar's and diesel from the RV city that grows overnight on the
