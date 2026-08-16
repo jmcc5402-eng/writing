@@ -37,7 +37,13 @@ Run the passes separately and in this order — combining them is how notes get
 lost, and continuity comes last because earlier passes invalidate it:
 
 1. **Structure** — `developmental-editor`
-2. **Audience** — `kid-reader-panel`, where the book has a young reader
+2. **Audience** — the reader panel for that book's audience:
+   `kid-reader-panel` where the book has a young reader,
+   `romance-reader-panel` where the book's contract is an emotional
+   experience (the campus series, and any romance). **This step is
+   never skipped for want of a matching panel** — that omission is
+   what let the campus 1.1 outline clear the whole battery and then
+   fail with the author.
 3. **Line** — `line-copy-editor`
 4. **Continuity** — `continuity-keeper`
 
