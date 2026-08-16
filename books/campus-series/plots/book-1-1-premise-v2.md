@@ -1,7 +1,17 @@
 # Book 1.1 — Premise v2 (rung 1, rebuilt to the register ruling)
 
-**STATUS: PROPOSED — author ratification via PR. Nothing below is
-canon.** `plot-architect` run, variance card **A4** (contrarian comp).
+**STATUS: SUPERSEDED (2026-08-16, PR #70 follow-up).** This document
+and the ratified outline diverged into two different books (hero,
+occupation, vise, climax — see the PR #70 canon sweep). The book of
+record is `b11-outline-rev2.md`; where this file disagrees with it,
+this file is wrong. Rung 1 of record = the outline's own Snowflake
+spine (sentence / paragraph / quarters). Salvage already carried
+forward: standard 25 (leads named and described to be wanted) landed
+in STANDARDS.md; Marisol's adult clock restored to the outline as a
+2.2 proposal. Kept on file as the graft bank it still is.
+
+**Original status line (historical): PROPOSED — author ratification
+via PR. Nothing below is canon.** `plot-architect` run, variance card **A4** (contrarian comp).
 This is a **rebuild, not a patch**, of the rung-1 premise, written to
 the six directives in `notes/author-register-note-2026-08-13.md`.
 

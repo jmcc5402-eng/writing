@@ -215,6 +215,20 @@ student-definition and adult-power-ceiling open questions.
     - **The chapter test.** Name the chapter's memorable thing in
       one line; then point to the line where the chapter touches
       the main story. Failing either half is a finding.
+25. **Leads are named and described to be wanted (landed 2026-08-16
+    with the PR #70 merge; drafted in premise v2 from the author's
+    register note).** A lead's given name reads as a contemporary
+    person of their own generation and region — never a name that
+    dates the character a generation older than his age. No lead is
+    introduced by an unattractive physical adjective. A grump is
+    written as restraint, capability, stillness, and heat underneath
+    it; his grumpiness lives entirely in his behavior and dialogue,
+    never in his description. The reference for the Set 1 hero is a
+    Robert Redford type: weathered-golden, quiet, good hands,
+    unhurried, funnier than he lets on. *Chapter test:* does the
+    lead's first physical description make a reader want to look at
+    him longer? If the honest answer is no, it fails, however
+    accurate it is.
 
 ## Implications of the pivot (flags, not fixes)
 

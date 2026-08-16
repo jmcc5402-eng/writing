@@ -1,6 +1,23 @@
-# Book 1.1 Outline — REVISION 2.1 — **RATIFIED AND FROZEN**
-REVISION 2.1 — approved outline + gate repairs + Gilmore calibration
-(author, PR #56)
+# Book 1.1 Outline — REVISION 2.2 — **RATIFIED AND FROZEN**
+REVISION 2.2 — the PR #70 repair pass (authorized by the author's
+merge of #70, 2026-08-16), applied on top of 2.1 (approved outline +
+gate repairs + Gilmore calibration, author, PR #56)
+
+(The 2.2 pass, scope per PR #70 and the author's three chat rulings
+recorded in DECISIONS.md D02–D04: jurisdiction recast — Cal's finding
+is a university condition survey whose power is Boyd's gift and the
+crew's winter, the trust decides the House (D02); ch 28 restaged to
+November, the sweltering gym vote returned to Book 1.4 (D03); census
+ratified (D04). Repairs: the ch 24–25 evidence hand-off staged, so
+the post-peak dead zone breaks; the third step finally held by the
+leads at ch 30, with one plain spoken declaration; ch 30's ending no
+longer closes on the building metaphor; ch 4 gets Cal a want and a
+Marisol-object; wine night becomes a scene and Marisol a named
+female friend (Aisha Cole), planted 7, paying 25; outline↔story-read
+divergences synced both directions; the ch 1 entry synced to the
+author's montage ruling; photo dates de-anchored (D05); standard 25
+landed; premise v2 superseded on the record. Structure, state chain,
+curve, and every 2.1 beat otherwise untouched.)
 
 **LOCKED (author, 2026-08-15: "lock in this outline").** Frozen per
 the rung contract (`studio/DRAFTING-PROTOCOL.md`): this outline is
@@ -47,8 +64,9 @@ The autumn her last kid leaves for college, Marisol [TK surname]
 falls for Cal Sutter — the quiet, weathered-golden man who keeps
 Ashford running and doesn't know half the market watches him cross
 it — never guessing that the porch where this town has fallen in
-love for a hundred years, where Cal himself was married, now stands
-or falls by his signature alone.
+love for a hundred years, where Cal himself was married, now waits
+on one signature — his, the name Boyd's money needs before the
+wrecking ball can be called mercy.
 
 ### One paragraph
 
@@ -58,8 +76,8 @@ parents in her care — plans to survive it one glorious Saturday at a
 time. Then a picture goes phone to phone: a tidy lawn where Hartwell
 House stands, the porch where generations of Ashford couples have
 been engaged on the same worn step. **First** she learns the fight
-has a face: the demolition wants one signature, and it belongs to
-Cal Sutter — the man she can't stop scanning crowds for, whose
+has a face: before Boyd's money can move, the demolition wants one
+signature for cover, and it belongs to Cal Sutter — the man she can't stop scanning crowds for, whose
 crew's winter is what the booster money buys, and whose own wedding
 happened on that porch. **Then**, in one midnight, she loses her
 seat at the head of the town's biggest table while his name is
@@ -138,7 +156,7 @@ chalkboard until his crew lands where payroll people land. Then the
 darkest night: each offers to let the other go — his name off her
 clean fight, her face out of his honest one — and nothing is
 settled when the work lights go out. In the morning the town shows
-up with box fans and casseroles; she yields her three minutes to
+up with casseroles and folding chairs; she yields her three minutes to
 the director of facilities; he signs the finding he actually
 reached and says who was married on that porch; and the House gets
 its stay, the crew gets its winter, the couple gets gloriously
@@ -157,7 +175,13 @@ the emptying house. Identity: the fixer — if she runs the room well
 enough, nothing she loves gets torn down and nobody leaves.
 Essence: a leader who values true over winning and people over the
 win. The climax is unwinnable from inside the identity: the fixer
-would keep the mic; only essence yields her time.
+would keep the mic; only essence yields her time. **Clock (PROPOSED
+2.2, restored from premise v2's principle — ratified by merging this
+revision):** the settlement calendar — buy out his half of the house
+by June or list it. Staying in Ashford is now a purchase, not a
+default; every windows-down Saturday is quietly weighed against a
+circled date on the fridge. Surfaces as an artifact at ch 7; priced,
+never dwelt on (Gilmore calibration holds).
 
 **Cal — inner journey.** Wound: his wife's death; the House is her
 memorial and he has never once said so out loud. Identity: the
@@ -165,7 +189,9 @@ caretaker-in-silence — love expressed only in boiler rounds, dated
 slides, and a plane kept moving on a worn step. Essence: a man who
 claims what he loves in public, by name — a dance asked for in
 front of the whole town, a signature given at a podium, one
-sentence about a wedding on a porch.
+sentence about a wedding on a porch — and, on the last night of the
+book, the word itself, said plainly on the third step with no
+podium and no crowd (2.2).
 
 Both journeys turn together: coup night strips both armors at once
 (15–16); the supper question forces identity's last stand (17); the
@@ -186,7 +212,8 @@ House → the man (10 → 30); the seating card → the workbench (6 →
 30); the photo he names past on the stairs → the sentence at the
 podium (5 → 28); the guest book → the clipboard under glass (5 →
 29); a canopy fixed in two motions → a porch dried in by noon → a
-House in scaffolding (1 → 19 → 29).
+House in scaffolding (1 → 19 → 29); the third step stood on alone
+and told to no one → stood on together and said out loud (5 → 30).
 
 ---
 
@@ -195,7 +222,12 @@ House in scaffolding (1 → 19 → 29).
 POV alternates strictly: Marisol odd, Cal even.
 
 ### Ch 1 — Third-Largest City (Marisol)
-Marisol wants one Saturday that belongs to her and not to the year
+The chapter opens on the series-signature montage (register note,
+"The montage opener," 2026-08-15 — synced here in 2.2): game day
+waking cut by cut — the RV city grown overnight, the bars filling at
+breakfast, one adult steam flash the roving camera never claims,
+because the town is the couple on page one — and the final cut lands
+on her tent. Marisol wants one Saturday that belongs to her and not to the year
 she just survived, and the first home game hands her a whole city's
 worth — three hundred name tags, a sheet cake in team colors, and
 one canopy that will not stay up. When it folds a third time, a man
@@ -240,23 +272,32 @@ than anything else she does today.
 
 ### Ch 4 — Deferred Maintenance With a Porch (Cal)
 Boyd comes to the motor pool himself, charming, reasonable, a PR
-man in tow whose jerky Ratchet refuses on principle. The
-arithmetic, laid out kindly: the expansion gift plugs the winter
-hole that otherwise becomes twelve names [TK: crew count — judging
-finding 7], and Cal would hold the pen on that list too — and the
-survey's finding will want his signature before the trustees meet
-in November. Cal wants the House left out of it; what blocks him is
-math he can't unsee. Boyd's exit line names the House "deferred
-maintenance with a porch."
+man in tow whose jerky Ratchet refuses on principle. What Cal wants
+this chapter is small and entirely his: Boyd off his yard before
+the crew inside hears twelve names discussed like line items — and
+one wrong-size crescent wrench off his bench, which he has been
+meaning to return for two weeks and keeps not returning, a fact he
+declines to examine. The arithmetic, laid out kindly: the expansion
+gift plugs the winter hole that otherwise becomes twelve names
+[TK: crew count — judging finding 7], and Cal would hold the pen on
+that list too. The House isn't the university's to condemn —
+Millrow belongs to the trust — but no trust sells the town's porch
+without cover, and "unsalvageable," over the facilities director's
+signature on a university condition survey, is the cover Boyd's
+gift is waiting on; the finding will want his name before the
+trustees meet in November (D02). Cal wants the House left out of
+it; what blocks him is math he can't unsee. Boyd's exit line names
+the House "deferred maintenance with a porch" — and Cal, alone
+afterward, picks the wrench up and puts it back down.
 
 ### Ch 5 — The Third Step (Marisol)
 Marisol follows the sound of a wood plane into the Hartwell House
 front hall and finds a hundred years of the same photograph on one
 staircase wall — different dresses, different wars, every couple on
 the same third step. Cal names them without looking up: Verna and
-her Mr. Poteat, 1962; the Phams in '98 with the diner keys still on
-his belt; a soldier and his girl from 1943 who got two weeks and
-took them — and one photo near the top he names right past without
+her Mr. Poteat, back when the Magnolia Court's sign was new; the
+Phams with the diner keys still on his belt; a wartime soldier and
+his girl who got two weeks and took them — and one photo near the top he names right past without
 breaking stride, and she doesn't ask. The third tread is worn pale
 from a century of men getting down on one knee in the same spot,
 and he is kneeling on it now with a plane, keeping it level for
@@ -268,9 +309,9 @@ step a minute before she goes, and tells no one.
 ### Ch 6 — Table Nine (Cal)
 The booster gala, and Cal wants to shake three hands and leave —
 but a seating card has quietly migrated, and he spends two hours at
-table nine beside Marisol, arguing about the House like two people
-describing different buildings and enjoying it more than either
-will admit. He notices her hands, her laugh, the way she runs a
+table nine beside Marisol — in a dress that has opinions — arguing
+about the House like two people describing different buildings and
+enjoying it more than either will admit. He notices her hands, her laugh, the way she runs a
 table without seeming to, and files all of it under problems. Boyd
 unveils the Gateway — sentiment first, drawings later — while the
 printed program's back page credits "digital engagement: [TK
@@ -291,8 +332,15 @@ neutral — and understands the fight isn't opinion at all; it runs
 through one man's pen, and she has watched the man laugh. She
 starts a spiral notebook of the House's people (Ray, Earlene,
 Verna, page one), and keeps her old Sunday habit — logs exported
-with the coffee, a woman gaslit once and never again. The phone
-buzzes on the walk home. She lets it ride to the corner.
+with the coffee, a woman gaslit once and never again. That night,
+wine night lands on her porch — Dr. Aisha Cole with something cold
+and zero patience for the board war, Birdie with zinnias in a
+coffee can — and Marisol says the plan out loud for the first time
+to women who will hold her to it (2.2: the friendship strand,
+planted here, pays at 25). On the fridge behind them, uncommented,
+a circled June date: the settlement's deadline — buy out his half
+of the house, or list it (the PROPOSED clock). The phone buzzes on
+the walk home. She lets it ride to the corner.
 
 ### Ch 8 — One Name On It (Cal)
 Delmar's porch, crew at the inside tables, clipboard by the
@@ -337,7 +385,8 @@ leaves the zinnias on the porch rail. He waters them.
 ### Ch 11 — The Night the Mule Ran Out of Glasses (Marisol)
 Ashford beats a ranked team it has no business beating, and the
 Blind Mule fills past fire code in eleven minutes — mason jars,
-then coffee mugs, then a flower vase off Birdie's truck; half the
+then coffee mugs, then a flower vase off Birdie's truck; a cooler
+of somebody's seltzers gone in four minutes flat; half the
 drumline still in uniform playing the fight song in a bar built for
 forty; somebody's grandmother dancing with somebody's dentist.
 Marisol gets passed down a line of strangers' hands like a bucket
@@ -366,7 +415,8 @@ the House, strangers' tripods ring the east crack all morning; when
 they pack up, Cal alone checks the glass tell-tale slides glued
 across it, each dated in his late wife's handwriting — no movement
 in [TK] years — and reads the survey's ground rules by dome light:
-graded against current code, a test no 1911 house can pass. The
+graded against current code, a test no house the House's age can
+pass. The
 evidence of the House's soundness and the evidence of his grief are
 the same object. He starts a quiet file of his own.
 
@@ -415,7 +465,9 @@ MIDPOINT, first blow. The supper rig-up is half hoedown: Marisol up
 a ladder with string lights in both hands, Birdie footing it and
 art-directing, Earlene supervising from a lawn chair she brought
 for the purpose, Verna telling every couple who slows down which
-step to get engaged on. The lawn is loud and golden right up until
+step to get engaged on, the dinner Marisol ordered an hour ago
+still "twenty minutes away" per an app that has clearly given up.
+The lawn is loud and golden right up until
 9:41 p.m., when her badge vanishes mid-reply — "pending review" —
 and the cold drop underneath: she waved half those shiny August
 accounts in herself, between errands, being helpful. By midnight a
@@ -577,11 +629,20 @@ him, and any truth he tells now looks like exactly what the photo
 says.
 
 ### Ch 25 — Receipts (Marisol)
-Six a.m. at the Checkerboard, and Earlene delivers the Liars' Table
-verdict over eggs: "You can win crooked. You just can't keep it."
-And then, arranging her silverware: "We had astroturf before the
-internet, honey. We called it the Chamber of Commerce." So Marisol
-burns her own surge from the booth: the watermarked pages — DRAFT,
+What the town never sees, staged now on the page (2.2, the dead-zone
+break): one a.m. at the motor pool the night before — the originals
+spread across the workbench, Ratchet's chin on her boot, and Cal's
+answer to the question she can't make herself ask out loud:
+"Publish it. All of it. Me too." He hands her the thing that can
+ruin him and calls it hers; it is the costliest gift anyone gives
+anyone in this book, and both of them know it. Then six a.m. at the
+Checkerboard, and Earlene delivers the Liars' Table verdict over
+eggs: "You can win crooked. You just can't keep it." And then,
+arranging her silverware: "We had astroturf before the internet,
+honey. We called it the Chamber of Commerce." So Marisol burns her
+own surge from the booth — wine night reconvened around her as a
+six-a.m. war room, Aisha triaging screenshots, Birdie running
+coffee, the friendship planted in ch 7 paying its rent: the watermarked pages — DRAFT,
 UNSIGNED, every sheet, photographed with Cal's consent; the leaked
 file's own fingerprints naming [TK sock-vendor name] Media LLC;
 thirty-one accounts that misspell y'all identically and quote the
@@ -630,19 +691,26 @@ behind her, and the mug he poured her goes cold on the rail.
 
 ### Ch 28 — I Yield My Time (Cal)
 CLIMAX. The trustees' public session, rivalry week — and the town
-stages it: folding chairs on the tarped gym floor, box fans in the
-propped doors, casseroles on a cafeteria table, the Curb Market
-vans outside, the Liars' Table in Sunday clothes, overflow on the
-steps. The rigged finding is presented. Then Marisol — the woman
-who has run every room she ever stood in — takes her three minutes
-and gives them away: "I yield my time to the director of
-facilities." Her answer to last night, delivered in public. Cal
-stands and answers the condemnation with the restorability report —
-the tell-tale record in two hands' writing, the wiring priced, his
-crew's winter attached — signs it at the podium, out loud, his
-name claimed under a verdict he actually reached, and says in one
-sentence what the House is to him and who was married on its porch.
-The Millrow phase is tabled; restoration is authorized; the crew is
+stages it November-style (D03; the sweltering gym vote stays Book
+1.4's): folding chairs on the tarped gym floor, coats draped over
+chair backs, the radiators ticking like a pit crew, casseroles and
+thermoses on a cafeteria table, breath showing on the overflow
+steps, the Curb Market vans outside, the Liars' Table in Sunday
+clothes. What the trustees are actually voting is Boyd's gift —
+full footprint or none — with the rigged survey presented as the
+due diligence that makes taking Millrow the responsible choice
+(D02). Then Marisol — the woman who has run every room she ever
+stood in — takes her three minutes and gives them away: "I yield my
+time to the director of facilities." Her answer to last night,
+delivered in public. Cal stands and answers the condemnation with
+the restorability report — the tell-tale record in two hands'
+writing, the wiring priced, his crew's winter attached — signs it
+at the podium, out loud, his name claimed under a verdict he
+actually reached, and says in one sentence what the House is to him
+and who was married on its porch. With the cover finding dead, the
+trustees take the gift shy of Millrow — the phase tabled — and the
+trust, whose house it has been all along, stands from the third row
+with the pledge folder to say restoration proceeds; the crew is
 contracted through March. Boyd thanks the board warmly, proceeds
 with his towers — and moves the demolition survey up the calendar
 before he is out of the room.
@@ -666,16 +734,24 @@ motor pool quiet, Ratchet holding her stenciled spot, the table-
 nine seating card pinned above the workbench; at the House, Cal
 glues a fresh glass slide across the old crack and dates it in his
 own hand — the ledger continues, the watching is his now, and it is
-no longer only grief. Evening: the House porch, the RV city folding
-itself up lot by lot, the stadium's last roar coming down Millrow
-worn familiar as a hymn, the mums gone rusty on the rail. He hands
-her a mug of something hot without being asked, which is his entire
-love language, and by now she is fluent. She thinks about how in
-August she wanted the year to be over, and how somewhere between
-the smoke and the third step she stopped wanting time to move at
-all. She pulls her chair an inch closer to his, and the town goes
-quiet around them like a house settling for the night. Good bones.
-The wiring's getting fixed.
+no longer only grief. Good bones; the wiring, at last, getting
+fixed — the House's and his both (P3's echo lives here now, mid-
+chapter, per the register ruling). Evening: the House porch, the RV
+city folding itself up lot by lot, the stadium's last roar coming
+down Millrow worn familiar as a hymn, the mums gone rusty on the
+rail. He hands her a mug of something hot without being asked,
+which is his entire love language, and by now she is fluent. Then
+he sets the mug down, takes her hand, and walks her through the
+scaffolding to the staircase — to the third step, worn pale by a
+century of other people's nerve, where nobody in this book has yet
+stood two at a time. Nobody kneels. He just stands on it with her
+and says the clumsy sentence he has been leveling in his head since
+August — the word itself, out loud, no podium, no town, just her
+(2.2: the release valve; the restraint everywhere else stands). She
+thinks about how in August she wanted the year to be over, and how
+somewhere between the smoke and this step she stopped wanting time
+to move at all — and she says it back without one clumsy thing
+about it.
 
 ---
 
@@ -754,7 +830,7 @@ together at 15–17, 22/24, 27, and 28.
 | P10 | Equal-standing rule (how to answer a rigged finding) | 18 | 20 (the drawings), 28 |
 | P11 | Seating card, table nine | 6 | 30 (workbench echo) |
 | P12 | House guest book / her drop-off handwriting | 5 | 29 (clipboard retired as second guest book) |
-| P13 | The third step + the photo he names past | 5 | 20 (said whole), 22 (the dance), 28 (the sentence) |
+| P13 | The third step + the photo he names past | 5 | 20 (said whole), 22 (the dance), 28 (the sentence), 30 (stood on together; the word said) |
 | P14 | She bulk-approved the August accounts herself | 3 | 15 (the coup partly her own doing) |
 | P15 | Socks quote town wisdom "two mayors ago" (archive mining) | 11 | 25 (the morgue-mining fingerprint) |
 | P16 | Leak rehearsal: CONDEMNATION — FINAL, posted and deleted | 21 | 24 (superior position on the real leak) |
@@ -800,7 +876,7 @@ tracks the physical document.
 | 22 | Sat Wk12 | drawer | Town: the last dance — the couple, public by his choice |
 | 23 | Sat–Sun Wk12 | drawer | Town: "asking for a friend"; the Liars' Table press release |
 | 24 | Mon Wk13 | drawer; CROPPED COPY everywhere | Town: believes it signed (false); the dance photo re-read as the fix |
-| 25 | Tue Wk13 | originals photographed w/ consent; truth published | Town: unsigned; vendor named; Tunk cleared; her seat back; surge burned |
+| 25 | Mon 1 a.m. → Tue Wk13 | originals handed over on the page (2.2), photographed; truth published | Town: unsigned; vendor named; Tunk cleared; her seat back; surge burned |
 | 26 | Wed–Fri Wk13 | rigged report untransmitted; deadline dies | Cal: the bribe refused. Crew: the chalkboard math; letter off the corkboard |
 | 27 | Mon Wk14 | counter-report + funding folder at the House | Both: Boyd's contingency; the release offers made — and not accepted |
 | 28 | Tue Wk14 | SIGNED restoration finding, delivered | Town: the stay won; crew contracted; Boyd moves the survey up |
@@ -809,13 +885,15 @@ tracks the physical document.
 
 ### HEAT placements
 
-[HEAT — per TK ladder]: ch 16 (first kiss, midpoint), ch 21
-(near-miss under the home stands, interrupted), ch 23 (the night
-after the dance; door position per TK steam ladder). Ch 27 is
-deliberately un-touching (the dip); closing warmth only in 29–30.
-No beat before the midpoint. Prerequisite flag carried from the
-kickoff panel: STANDARDS item 9 (the steam ladder) must be locked
-before drafting.
+[HEAT — per standard 9, RULED 2026-08-15]: closed door — every
+scene cuts at the first piece of clothing on the ground. Ch 16
+(first kiss, midpoint), ch 21 (near-miss under the home stands,
+interrupted), ch 23 (the night after the dance; the scene runs to
+the closed-door line and cuts). Ch 27 is deliberately un-touching
+(the dip); closing warmth only in 29–30. No couple beat before the
+midpoint — the ch 1 montage steam flash (register note) belongs to
+the town, not the leads, and is charged, clothed, cut. The kickoff
+panel's prerequisite is satisfied: the ladder is ruled.
 
 ### Location roster
 
@@ -860,7 +938,14 @@ only; no other roots collide.
 - **Red herrings (2, declared):** RH1, RH2 — see fair-play table.
 - **Running totem:** Ratchet, the motor-pool shop dog — grades
   visitors, refuses the PR man's jerky (graft 5); beats at 2, 4,
-  16 (the boot vote), 30. Trust barometer, zero plot load.
+  16 (the boot vote), 25 (chin on her boot at the hand-off), 30.
+  Trust barometer, zero plot load.
+- **Female friendship (2.2, PR #70 repair):** Marisol × Dr. Aisha
+  Cole, with Birdie as the third chair — wine night on Marisol's
+  porch, planted at 7, reconvened as the six-a.m. war room at 25;
+  Aisha's supper-argument beat at 17 unchanged. Gives Marisol an
+  age-peer friend on the page; feeds the 1.2 bench (Aisha) without
+  borrowing against it.
 - **Grief (register control):** weighted scenes only at 10, 20, and
   the one sentence in 28, with the 30 echo; bright register
   everywhere else. Gilmore calibration (author, PR #56): grief and
@@ -903,7 +988,17 @@ only; no other roots collide.
   contact no longer waits until ch 6.
 - **F4 (Cal's pre-midpoint wanting):** on the page at 6 (files her
   under problems) and 14 (her name first; the phone picked up twice
-  and set down twice).
+  and set down twice) — and now 4 (the unreturned wrench, 2.2).
+- **F5 (2.2 — the post-peak dead zone, PR #70 repair 1):** the ch
+  24–26 apart-run is broken by staging the 1 a.m. evidence hand-off
+  at the top of ch 25 — a scene that existed only in a subordinate
+  clause ("photographed with Cal's consent") now carries the beat
+  where he hands her the thing that can ruin him. Couple-map after
+  the fix: apart only 24 and 26 between the peak (22–23) and the
+  dark night (27); the dead zone is non-consecutive. Curve
+  untouched — the meters read the same design; the reader no longer
+  reads three straight chapters of separation after the getting-
+  together.
 
 ### Gate repairs + Gilmore sweep applied (2026-08-15, PR #56)
 
@@ -961,7 +1056,10 @@ only; no other roots collide.
 - **SC2:** the rescue is itemized — P2 + P9 + P10 name every hand
   that earns the stay; no check from a stranger anywhere.
 - **SC3:** the November clock and the winter list on the page by
-  ch 4; the empty-chair ache carried at 7, 29, 30.
+  ch 4; the empty-chair ache carried at 7, 29, 30; Marisol's own
+  adult clock (the June settlement date, PROPOSED 2.2) surfaces as
+  an artifact at 7 — what staying costs her is now named, not
+  delegated to his.
 - **SC4:** honesty achieved at 50%; the obstacle survives to 93%;
   the ch 27 dark moment is structural cost, not misunderstanding.
 - **Resolution discipline:** Boyd unbeaten, House stayed not saved,
@@ -980,20 +1078,27 @@ only; no other roots collide.
 5. [TK] Sock-vendor name — Media LLC; series-level naming (recurs
    in 1.3).
 6. [TK] Matchmaker identity (ch 6) — written deniable.
-7. [TK] Steam ladder (STANDARDS 9) — three placements marked; door
-   positions and the ch 23 ceiling await the ladder. Prerequisite
-   before drafting.
-8. [TK] Legal instrument of the stay — "Millrow phase tabled
-   pending restoration" outlined at altitude; needs one ruling
-   before drafting ch 28 (carried from candidate B's open Q9 and
-   judging finding 10).
+7. RESOLVED (2.2): steam ladder ruled — STANDARDS 9, closed door at
+   the first garment (author, 2026-08-15); HEAT block updated.
+8. RESOLVED (2.2): the stay's legal instrument is D02's mechanism —
+   the trustees take Boyd's gift shy of Millrow (their own gift
+   decision), and the trust votes its own restoration; no body
+   grants a stay it cannot grant.
 9. [TK] Tell-tale year-count; [TK] engineer/firm name.
 10. [TK] Crew count — "twelve" used; judging finding 7 says ratify
     once (A/B said twelve, C said forty).
 11. [TK] Org chart — whether stadium grounds report through Cal's
     shop (the side pair's payroll-line miniature depends on it).
-12. [CHECK] Partially resolved: the author register note and the
-    gate findings are now repo files (notes/) and were read
-    firsthand by this pass; METERS.md remains a scratchpad copy per
-    the 2026-08-14 gate run — commit it so the next run reads it
-    firsthand.
+12. RESOLVED: METERS.md is a repo file (books/campus-series/) and
+    ratified via its PR; the register note and gate findings live in
+    notes/. Every gate run now reads its instruments firsthand.
+13. Marisol's clock (PROPOSED 2.2): the June settlement date — buy
+    out his half of the house or list it. Restored on principle
+    from premise v2 (SC3: her clock must be hers, not his).
+    Ratified by merging this revision; strike it at the PR if the
+    mechanism should differ.
+14. NOTE (2.2): "which step to get engaged on," the RH2/Tunk
+    staging, and the warm modern texture now read identically in
+    this outline and the story read — the sweep's divergence list
+    (PR #70 finding 5) is closed both directions. Drafters brief
+    from THIS document.

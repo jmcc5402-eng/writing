@@ -2,13 +2,14 @@
 
 *(The author's reading copy: the whole book as a short story — one
 paragraph for the book, one per chapter. Derived from
-`b11-outline-rev2.md` (Revision 2.1); the apparatus lives there and
-never here. Style per the author's ruling, 2026-08-15; modern
-calibration applied.)*
+`b11-outline-rev2.md` (Revision 2.2 — the PR #70 repair pass); the
+apparatus lives there and never here. Style per the author's ruling,
+2026-08-15; modern calibration applied. Synced both directions with
+the outline per PR #70 finding 5 — drafters brief from the outline.)*
 
 ---
 
-**The book.** Marisol Vega has run every room she's ever stood in —
+**The book.** Marisol has run every room she's ever stood in —
 including, lately, the twelve-thousand-member online town square of
 Ashford, a college town that triples in size seven Saturdays a fall
 and spends the other days talking about it. What she can't run is
@@ -72,23 +73,32 @@ more than anything else she does today.
 
 **Four.** Boyd comes to the motor pool himself: charming,
 reasonable, trailing a PR man built entirely of greens powder and
-optimism, whose offered jerky Ratchet refuses on principle. The
-arithmetic gets laid out kindly, which is the worst way — the
-expansion gift plugs the winter hole that otherwise becomes twelve
-names on a layoff list, and Cal would hold the pen on that list
-too. The survey's finding will want his signature before the
-trustees come in November. Cal says he'd like the House left out of
-it. Boyd smiles like a man who has never once been told no by
-anyone who kept saying it, and leaves his exit line on the yard
-like a business card: *deferred maintenance with a porch.*
+optimism, whose offered jerky Ratchet refuses on principle. Cal's
+plan for the meeting is to end it — get Boyd off the yard before
+the crew inside hears twelve names discussed like line items — and
+on his bench, two weeks unreturned, sits a wrong-size crescent
+wrench he keeps meaning to give back and keeps not giving back, a
+fact he declines to examine. The arithmetic gets laid out kindly,
+which is the worst way: the expansion gift plugs the winter hole
+that otherwise becomes twelve names on a layoff list, and Cal would
+hold the pen on that list too. The House isn't even the
+university's to condemn — Millrow belongs to the trust — but no
+trust sells the town's porch without cover, and his name on
+"unsalvageable" is the cover Boyd's money is waiting on, wanted
+before the trustees come in November. Cal says he'd like the House
+left out of it. Boyd smiles like a man who has never once been told
+no by anyone who kept saying it, and leaves his exit line on the
+yard like a business card: *deferred maintenance with a porch.*
+Alone afterward, Cal picks the wrench up, and puts it back down.
 
 **Five.** Marisol follows the sound of a wood plane into the
 Hartwell House front hall and finds a hundred years of the same
 photograph climbing one staircase wall — different dresses,
 different wars, every couple on the same third step. Cal names them
-without looking up: Verna and her Mr. Poteat, 1962; the Phams in
-'98, the diner keys still on his belt; a soldier and his girl from
-1943 who got two weeks and took them. One photo near the top he
+without looking up: Verna and her Mr. Poteat, back when the
+Magnolia Court's sign was new; the Phams, the diner keys still on
+his belt; a wartime soldier and his girl who got two weeks and
+took them. One photo near the top he
 names right past, no break in his stride, and she files that away
 without asking. The third tread is worn pale from a century of
 knees, and he's on it now with a plane, keeping it level for
@@ -98,7 +108,7 @@ on the step a minute before she goes, and tells no one.
 
 **Six.** The booster gala, and Cal's plan is three handshakes and
 the exit — but a seating card has quietly migrated, and he spends
-two hours at table nine beside Marisol Vega in a dress that has
+two hours at table nine beside Marisol in a dress that has
 opinions, arguing about the House like two people describing
 different buildings and enjoying it far more than either will
 admit. He notices her hands, her laugh, the way she runs a table
@@ -120,8 +130,14 @@ neutral — and she understands the fight isn't about opinion at all.
 It runs through one man's pen, and she has watched the man laugh.
 She starts a spiral notebook of the House's people — Ray, Earlene,
 Verna, page one — and keeps her old Sunday habit, logs exported
-with the coffee, a woman who got gaslit once and never again. The
-phone buzzes on the walk home. She lets it ride to the corner.
+with the coffee, a woman who got gaslit once and never again. That
+night, wine night lands on her porch: Dr. Aisha Cole with something
+cold and zero patience for the board war, Birdie with zinnias in a
+coffee can, and Marisol saying the plan out loud for the first time
+to women who will absolutely hold her to it. On the fridge behind
+them, uncommented, a circled June date — buy out his half of the
+house, or list it. The phone buzzes on the walk home. She lets it
+ride to the corner.
 
 **Eight.** It gets said at full volume on Delmar's porch, crew at
 the inside tables, clipboard by the register. Cal: "That
@@ -173,10 +189,15 @@ fire, laughing too hard to apologize, and it's the best she has
 looked all year and half the bar notices. Two flickers cross her
 phone mid-joy: a shiny new account quoting town wisdom — Earlene,
 squinting: "I said that two mayors ago, and not like that" — and
-the politest message yet inviting her to step back for balance. She
-pockets the phone. At the door she looks back and finds Cal across
-the room already looking at her. The jukebox has been unplugged for
-an hour, and nobody has noticed.
+the politest message yet inviting her to step back for balance. By
+last call the bar has solved the whole mystery to its own
+satisfaction: it's Tunk Ferrell — the man bid on Boyd's deck
+contract in public, twice — and half the Mule convicts him happily
+on no evidence at all while the other half buys him a sympathy
+round in absentia. Marisol writes the name in the spiral notebook
+with a question mark, and pockets the phone. At the door she looks
+back and finds Cal across the room already looking at her. The
+jukebox has been unplugged for an hour, and nobody has noticed.
 
 **Twelve.** Friday, still dark, Cal's round crosses Eli's — and he
 holds the tunnel gate and watches the head groundskeeper walk
@@ -189,7 +210,8 @@ morning; when they pack up, he alone checks the little glass
 tell-tale slides glued across it, each one dated in his late wife's
 handwriting, years of no movement at all. Then he reads the
 survey's ground rules by dome light: graded against current code —
-a test no 1911 house can pass, written by someone who knew it. The
+a test no house the House's age can pass, written by someone who
+knew it. The
 evidence of the House's soundness and the evidence of his grief are
 the same object. He starts a quiet file of his own.
 
@@ -210,7 +232,11 @@ that becomes the plan: this town doesn't do meetings — it does
 suppers; put everyone on that porch and make November look it in
 the eye. And Marisol notices something with a chill: the board's
 loudest "neighbors" have posted straight through Sunday dinner,
-when every actual neighbor she knows is right here passing cake.
+when every actual neighbor she knows is right here passing cake —
+including Tunk Ferrell, the Mule's favorite suspect, who ushered
+both services at First Methodist this morning and is currently
+going back for Delores's banana pudding. She moves his question
+mark down the page, but doesn't erase it yet.
 
 **Fourteen.** The draft lands: findings written to the rigged
 ground rules, RECOMMEND CONDEMNATION, his name pre-typed under a
@@ -226,8 +252,11 @@ on the lid, and Cal almost goes. The drawer becomes the most
 dangerous place in Ashford.
 
 **Fifteen.** She's on the House lawn with string lights in both
-hands, dinner she ordered an hour ago still "twenty minutes away"
-per an app that has clearly given up, when her badge vanishes at
+hands — Birdie footing the ladder and art-directing, Earlene
+supervising from a lawn chair she brought for the purpose, Verna
+telling every couple who slows down which step to get engaged on —
+dinner she ordered an hour ago still "twenty minutes away" per an
+app that has clearly given up, when her badge vanishes at
 9:41 p.m., mid-reply. *Pending review.* Forty-some accounts born
 last Thursday, all voting for "neutrality," all polite as a bank —
 and the cold drop underneath: she waved half of them in herself, in
@@ -378,13 +407,20 @@ the pledge drive's best day ever. The lie is funding her fight
 against him, and any truth he tells now looks like exactly what the
 photo says.
 
-**Twenty-five.** Six a.m. at the Checkerboard, and Earlene delivers
-the Liars' Table verdict over eggs: "You can win crooked. You just
-can't keep it." Then, arranging her silverware: "We had astroturf
-before the internet, honey. We called it the Chamber of Commerce."
-So Marisol does the unthinkable — she burns her own best day. From
-the booth, wine night reconvened around her as a war room, she
-posts the watermarked pages: DRAFT, UNSIGNED, every sheet,
+**Twenty-five.** What the town never sees: one a.m. at the motor
+pool, the originals spread across the workbench, Ratchet's chin on
+her boot, and Cal's answer to the question she can't quite make
+herself ask — "Publish it. All of it. Me too." He hands her the
+thing that can ruin him and calls it hers, the costliest gift
+anyone gives anyone in this book, and they both know it. Then six
+a.m. at the Checkerboard, and Earlene delivers the Liars' Table
+verdict over eggs: "You can win crooked. You just can't keep it."
+Then, arranging her silverware: "We had astroturf before the
+internet, honey. We called it the Chamber of Commerce." So Marisol
+does the unthinkable — she burns her own best day. From the booth,
+wine night reconvened around her as a six-a.m. war room — Aisha
+triaging screenshots, Birdie running coffee — she posts the
+watermarked pages: DRAFT, UNSIGNED, every sheet,
 photographed with Cal's consent; the leaked file's own fingerprints
 naming the vendor from the gala program; thirty-one accounts that
 misspell y'all identically and quote the Courier's bound volumes
@@ -427,23 +463,28 @@ work lights go off one by one behind her, and the mug he poured her
 goes cold on the rail.
 
 **Twenty-eight.** The trustees' public session, rivalry week — and
-the town stages it: folding chairs on the tarped gym floor, box
-fans in the propped doors, casseroles and seltzer coolers on a
-cafeteria table, the Curb Market vans outside, the Liars' Table in
-Sunday clothes, overflow down the steps. The rigged finding is
-presented in full. Then Marisol — the woman who has run every room
-she ever stood in — takes her three minutes at the sign-up-sheet
-microphone and gives them away: "I yield my time to the director of
-facilities." Her answer to last night, delivered in public. Cal
-stands and answers the condemnation with the restorability report —
-the tell-tale record in two hands' writing, the wiring priced, his
-crew's winter attached — signs it at the podium, out loud, his name
-claimed under a verdict he actually reached, and says in one
-sentence what the House is to him and who was married on its porch.
-The Millrow phase is tabled. Restoration is authorized. The crew is
-contracted through March. Boyd thanks the board warmly, proceeds
-with his towers — and moves the demolition survey up the calendar
-before he's out of the room.
+the town stages it: folding chairs on the tarped gym floor, coats
+draped over chair backs, the radiators ticking like a pit crew,
+casseroles and thermoses on a cafeteria table, breath showing on
+the overflow steps, the Curb Market vans outside, the Liars' Table
+in Sunday clothes. What the trustees are actually voting is Boyd's
+gift — full footprint or none — with the rigged survey presented as
+the due diligence that makes taking Millrow the responsible choice.
+Then Marisol — the woman who has run every room she ever stood in —
+takes her three minutes at the sign-up-sheet microphone and gives
+them away: "I yield my time to the director of facilities." Her
+answer to last night, delivered in public. Cal stands and answers
+the condemnation with the restorability report — the tell-tale
+record in two hands' writing, the wiring priced, his crew's winter
+attached — signs it at the podium, out loud, his name claimed under
+a verdict he actually reached, and says in one sentence what the
+House is to him and who was married on its porch. The cover finding
+dies on the table. The trustees take the gift shy of Millrow — the
+phase tabled — and the trust, whose house it has been all along,
+stands from the third row with the pledge folder to say restoration
+proceeds. The crew is contracted through March. Boyd thanks the
+board warmly, proceeds with his towers — and moves the demolition
+survey up the calendar before he's out of the room.
 
 **Twenty-nine.** Scaffolding up, tarps on, and the clipboard
 retired under glass on the House mantel — the second guest book,
@@ -469,10 +510,17 @@ grief. Evening: the House porch, the RV city folding itself up lot
 by lot, the stadium's last roar rolling down Millrow worn familiar
 as a hymn, the mums gone rusty on the rail. He hands her a mug of
 something hot without being asked, which is his entire love
-language, and by now she is fluent. She thinks about how in August
-she wanted the year to be over — and how somewhere between a folded
-canopy and a fresh-dated slide of glass, she started wanting it to
-last. Seven Saturdays a fall, this town becomes the third-largest
-city in the state. It took exactly that many for two careful people
-to stop being careful. The porch light stays on late. The town, for
-once, minds its business — for almost an hour.
+language, and by now she is fluent. Then he sets his own mug down,
+takes her hand, and walks her through the scaffolding to the
+staircase — to the third step, worn pale by a century of other
+people's nerve, where no two people in this whole story have yet
+stood together. Nobody kneels. He just stands on it with her and
+says the clumsy sentence he has been leveling in his head since
+August — the word itself, out loud, no podium, no town, just her.
+She thinks about how in August she wanted the year to be over — and
+how somewhere between a folded canopy and this worn third step, she
+started wanting it to last. Then she says it back, without one
+clumsy thing about it. Seven Saturdays a fall, this town becomes
+the third-largest city in the state. It took exactly that many for
+two careful people to stop being careful. The porch light stays on
+late. The town, for once, minds its business — for almost an hour.
