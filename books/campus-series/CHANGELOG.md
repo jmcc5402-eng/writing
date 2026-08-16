@@ -3,6 +3,23 @@
 Tracks edits to manuscripts and adopted drafts (house rule 6), so the
 author can see what changed and why. Newest first.
 
+## 2026-08-16 — Chapter 1 ACCEPTED (author ruling on PR #71)
+
+- Author: "I really like ch1," with two line edits, both applied to
+  `manuscript/ch01.md` only (candidates stay verbatim as the record):
+  1. **Cal's hair is canon: light brown, the slightest touch of
+     gray** ("silver-gold" read too old). Description register for
+     all future chapters; the temples line grafts candidate A's
+     "like it had been invited."
+  2. **A second suggestive beat added at dusk** — couples hand in
+     hand toward the bars, "and after that, who knows" — author's
+     own beat; the porch-kiss steam flash stands as chapter one's
+     on-page heat, per the closed-door line.
+- Acceptance consequences: Cal Sutter locks by use (per the outline
+  lock note); series POV locks third person, past (standard 11);
+  this chapter is the register calibration every later drafting
+  brief cites (conveyor rule 3).
+
 ## 2026-08-15 — Chapter 1 staged from blind competition
 
 - `manuscript/ch01.md` created: candidate B verbatim (card D2, hands
