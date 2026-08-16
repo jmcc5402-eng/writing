@@ -987,3 +987,39 @@ Researched claims above, for the author to double-check.
   game, and the Fourth of July in the stadium.]
 - [CHECK: NCAA calendar items (portal window, signing dates, spring
   games) are being revised annually; re-verify at drafting time.]
+
+## 15. The college-vocabulary bank (author directive, 2026-08-16)
+
+**RULED (author, in chat): the target reader is living college life
+through her kids — she hears these words nonstop, and the books
+should spend them.** Salt this vocabulary through prose the way the
+modern calibration salts seltzers and delivery apps: through adult
+mouths, board threads, and town rhythm — never through a student on
+stage (locked 1 holds; the words are the reader's weather, not a
+cast change).
+
+**The money and paperwork season:** FAFSA night, the bursar's
+office, work-study, the aid letter, in-state vs. out-of-state, the
+529 that didn't stretch, the meal plan and its dining dollars,
+drop/add deadline, the registrar.
+
+**The calendar as the town speaks it:** move-in day, syllabus week,
+rush week and bid day, parents' weekend, homecoming court, dead
+week, finals, commencement, orientation, the transfer portal
+window, signing day, spring game.
+
+**The sports layer (already native to Ashford):** walk-on,
+redshirt, NIL, travel squad, roster spot, the depth chart.
+
+**The dorm-and-campus layer (as artifacts only):** the RA email,
+the quad, the dining hall, the housing lottery, the group project
+complained about by proxy, the 2 a.m. "my kid hasn't answered"
+thread.
+
+**Delivery vehicles, in order of cheapness:** the parents' board
+(threads titled "FAFSA night carpool," "rush week parking"); the
+Liars' Table and wine night translating campus words into town
+skepticism; the montage openers, each of which IS a college-calendar
+word; Marisol's own feed. **Usage rule:** one or two per chapter,
+carried by voice — a word bank, not a checklist; drafting briefs
+cite this section by number.
