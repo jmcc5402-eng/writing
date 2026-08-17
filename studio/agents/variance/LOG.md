@@ -117,3 +117,5 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-16 | drafting-assistant (campus ch4 blind competition, run B) | D1 sound-forward (deck wrapped, 2nd draw this wave) | books/campus-series/drafts/2026-08-16/ch4-candidate-B.md |
 | 2026-08-16 | drafting-assistant (campus ch4 blind competition, run C) | D3 short-declarative (deck wrapped, 2nd draw this wave) | books/campus-series/drafts/2026-08-16/ch4-candidate-C.md |
 | 2026-08-17 | romance-reader-panel (campus ch3 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ch3-competition-panel-2026-08-17.md |
+| 2026-08-17 | romance-reader-panel (campus ch2 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ch2-competition-panel-2026-08-17.md |
+| 2026-08-17 | romance-reader-panel (campus ch4 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ch4-competition-panel-2026-08-17.md |

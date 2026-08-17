@@ -16,6 +16,13 @@ list in the agent's invocation as "banned moves this run."
   landing this one (all four MYBYB chapters, 2026-07-26 review).
 - `[TK]` blocks placed at emotional peaks or inside spoken lines
   (Young Nicholas ch3/ch4, 2026-07-26 review).
+- WATCH (campus wave 1 scan, 2026-08-17): the "of a man who …" /
+  "a man who had never once …" characterization scaffolds — at
+  current density (once per chapter) legal; do not increase.
+- WATCH (campus wave 1, 2026-08-17): Earlene opening a beat with
+  "I didn't say anything" — used twice by blind drafters; ration.
+- No third "On the first X Saturday of the season, Ashford woke…"
+  opener — the ch 1/ch 3 home/away pair spent that budget.
 
 ## junior-literary-critic
 

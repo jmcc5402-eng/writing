@@ -3,6 +3,26 @@
 Tracks edits to manuscripts and adopted drafts (house rule 6), so the
 author can see what changed and why. Newest first.
 
+## 2026-08-17 — Chapters 2–4 staged from batch wave 1 (pending ruling)
+
+- First batch-mode wave: nine blind drafts (three per chapter), three
+  independent panel judgings, one cross-batch repetition scan.
+  Winners staged verbatim except mandatory fixes, each noted in its
+  file header:
+  - `manuscript/ch02.md` ← ch2 candidate A (card D1, "By Ear").
+    Fix: crowd size conformed to canon ninety thousand.
+  - `manuscript/ch03.md` ← ch3 candidate C (card D2). Fixes: the
+    invented travel-squad outcome neutralized (open canon question
+    — the author must rule the son's status); "round-shouldered"
+    removed per the description register.
+  - `manuscript/ch04.md` ← ch4 candidate B (card D1, "Gravel Is
+    Honest"). Fix: Ratchet's pronouns conformed to accepted ch 1
+    (she).
+- Panel graft/trim packages NOT applied — flagged in the three
+  panel notes, author's call at the PR.
+- Cross-batch scan findings and watch-list additions:
+  notes/ch234-crossbatch-scan-2026-08-17.md.
+
 ## 2026-08-16 — Chapter 1 ACCEPTED (author ruling on PR #71)
 
 - Author: "I really like ch1," with two line edits, both applied to
