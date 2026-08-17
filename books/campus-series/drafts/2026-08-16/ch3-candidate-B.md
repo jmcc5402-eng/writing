@@ -130,6 +130,12 @@ There's a difference, and the difference flatters him."
 
 "Mm," said Earlene, which from Earlene was a co-signature.
 
+"He does know people watch him. He has to."
+
+"Not a chance." Earlene considered the south door with her,
+unhurried, a connoisseur beside a beginner.
+"Man thinks a room goes quiet because he oiled the door."
+
 Cal shouldered the basket and went out the south end
 into the white morning, Verna processing beside him,
 a parade with an audience of one shed.
@@ -176,6 +182,13 @@ had gotten engaged on that porch,
 and three other voices said *mine too* so fast
 it sounded rehearsed, and wasn't,
 and that was somehow the worst part.
+
+Marisol had never once been inside the House.
+A year in this town, and she'd only ever had it
+through a windshield on Millrow, white behind its trees,
+the porch running the whole front like a held-out hand.
+Apparently you didn't have to have been inside.
+Apparently through a windshield was plenty.
 
 Then the market went quiet, and then it stayed quiet.
 
@@ -251,6 +264,15 @@ and several people had located room for some anyway.
 By suppertime the town had already named it
 the House's second guest book,
 and the name was out doing laps.
+
+The screen porch had the House at every table.
+A man near the door was explaining what a trustee was
+to his wife, who looked like she'd outlasted
+tougher boards than that one.
+Somebody's supper sat going cold in front of him
+while he typed.
+Earlene held down the far corner with a sweet tea
+and the expression of a woman taking attendance.
 
 Marisol was reading down the first page
 when Ray came off the smoker,
