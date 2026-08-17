@@ -13,8 +13,8 @@ the outline per PR #70 finding 5 — drafters brief from the outline.)*
 including, lately, the twelve-thousand-member online town square of
 Ashford, a college town that triples in size seven Saturdays a fall
 and spends the other days talking about it. What she can't run is
-the year behind her: a divorce, two kids gone to college, a house
-that got loud with quiet. Cal Sutter keeps the university standing —
+the wake behind her: a divorce two years gone that still sends
+mail, two kids gone to college, a house that got loud with quiet. Cal Sutter keeps the university standing —
 mowers, boilers, ninety thousand seats — and keeps one building on
 Millrow Street standing off the clock, for reasons he's never said
 out loud. When a booster's stadium expansion aims at Hartwell House

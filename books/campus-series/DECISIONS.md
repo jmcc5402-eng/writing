@@ -128,3 +128,23 @@ group for years before she ever lived in Ashford.**
 
 Applied as one sentence in ch 3 (the queue scene). Recorded in
 ADULT-CAST-IDEAS 1.1.
+
+## D07 — The divorce moves back: two and a half years, not one
+**Status: RULED (author, 2026-08-18, in chat: "one year and into a
+romance is a little quick... working backwards from people's
+negative comments").**
+
+- The divorce is ≈ two and a half years behind her ("two years and
+  change" in any prose that needs a number; never exact).
+- D06 stands: the move to Ashford is still one year ago — she
+  stayed put through the tail of her daughter's schooling, then
+  came to the town her son and her group already lived in.
+- The settlement's buyout window (her PROPOSED clock) is TIED TO
+  THE EMPTY NEST: the decree gave her until the June after the
+  youngest left home to buy out his half or list. Daughter left in
+  August; the clock started; June is real. The wound is old, the
+  bill is new.
+- Reader-defense rationale, recorded: on this shelf, a heroine one
+  year out reads rebound; two-plus years out reads ready. "First
+  time since the divorce" beats get STRONGER at this distance —
+  the thaw is the romance's doing.
