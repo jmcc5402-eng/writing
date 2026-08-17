@@ -656,7 +656,7 @@ romance by Friday — which is at least half true.
 
 ### Ch 26 — Wind in the Upper Deck (Cal)
 Boyd summons Cal to the empty stadium — wind in the girders,
-seventy thousand seats of nobody — and offers him his grief back as
+ninety thousand seats of nobody — and offers him his grief back as
 a decorating option: a bronze plaque with his wife's name,
 prominent, in the new plaza; the fund doubled; sign by Friday. Cal
 refuses on his feet, flat and final, and the price goes up before

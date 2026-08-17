@@ -3,6 +3,21 @@
 Tracks edits to manuscripts and adopted drafts (house rule 6), so the
 author can see what changed and why. Newest first.
 
+## 2026-08-17 — Wave 1 reconciled with the merged overnight sweep (#76/#77)
+
+- Sweep-mandated fixes applied to the staged winners: ch 4 names WDSS
+  on the page (SC1), crew count gender-neutral, the PR man delivers
+  Cal's ruled description ("It came free"), and the OWED wrench
+  promise is planted (the right size hanging four feet away, never
+  taken down); ch 3 gains Cal's ruled description in the crossing.
+- Seat count conformed everywhere to the accepted ch 1: ninety
+  thousand (outline + story read ch 26 corrected from seventy).
+- ch4 brief root-caused per #77: Ratchet marked FEMALE, WDSS added.
+- Travel-squad question CLOSED by canon (#77): the outline gives the
+  son "travel-squad hopes" at ch 29, so Week 3 shows no outcome —
+  the staged ch 3 already complies. Still open and blocking ch 3
+  acceptance: how long Marisol has lived in Ashford (asked at #78).
+
 ## 2026-08-17 — Chapters 2–4 staged from batch wave 1 (pending ruling)
 
 - First batch-mode wave: nine blind drafts (three per chapter), three

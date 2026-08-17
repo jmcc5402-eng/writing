@@ -78,8 +78,10 @@ fact he declines to examine.
 - Rex Boyd: the booster behind the stadium expansion ("the
   Gateway" name is NOT yet public — do not use it); brings a PR
   man (unnamed).
-- Ratchet: shop dog, stenciled parking spot, grades visitors,
-  refuses the jerky.
+- Ratchet: shop dog, FEMALE (she/her — accepted ch 1 canon),
+  stenciled parking spot, grades visitors, refuses the jerky.
+- WDSS 1340 AM: the town station, on the shop radio (SC1: name it
+  on the page).
 - The motor pool: Cal's kingdom, campus back road; the crew works
   inside earshot.
 - Hartwell House: trust-owned, on Millrow; the survey is a

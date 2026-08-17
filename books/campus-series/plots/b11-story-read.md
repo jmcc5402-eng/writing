@@ -433,7 +433,7 @@ quit loudly. And Ashford, being Ashford, retells the whole thing as
 a romance by Friday — which is at least half true.
 
 **Twenty-six.** Boyd summons Cal to the empty stadium — wind in the
-girders, seventy thousand seats of nobody — and offers him his
+girders, ninety thousand seats of nobody — and offers him his
 grief back as a decorating option: a bronze plaque with his wife's
 name, prominent, in the new plaza. The fund doubled. Sign by
 Friday. Cal refuses on his feet, flat and final, and the price goes
