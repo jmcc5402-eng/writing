@@ -23,6 +23,13 @@ for twelve thousand of her closest strangers,
 she wanted a day that asked nothing of her
 but correct change and a working turn signal.
 
+The list was also, though she'd have denied it under oath,
+company.
+A house with both kids gone could make a Saturday echo,
+and a town on market day could not.
+She took the long way in past the square
+and let Ashford do the talking.
+
 The Doss County Curb Market was item three
 and the only one she'd underlined.
 
@@ -72,6 +79,18 @@ and counted out his bills with the calm, unwitnessed privacy
 of a man who believed, sincerely, that he was invisible.
 
 Nobody had ever told him about the other half of the market.
+
+The other half had a whole choreography worked out.
+Two women at the mums had angled their sun hats
+for a clean line of sight.
+The peanut man stirred his kettle facing the wrong direction,
+which is to say the right one.
+A pair of church deacons tracked the basket's progress
+over the tops of their reading glasses
+with the studied blankness of men judging livestock.
+It was, Marisol gathered, a town-wide hobby,
+and sometime in the last week
+she'd been enrolled without filling out a thing.
 
 Marisol pushed her sunglasses up into her hair,
 the better to be honest about it, and watched.
