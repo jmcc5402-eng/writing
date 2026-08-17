@@ -144,6 +144,11 @@ He let it sit one beat. Not two. He was good.
 That list runs through your office.
 It'd be your pen."
 
+The staple sat in Cal's shirt pocket next to that pen.
+Boyd had not raised his voice once.
+That was the thing about the math.
+It didn't have to.
+
 Cal looked back at the bays.
 Three of his crew were checking the tire pressure
 on a golf cart, thoroughly, in shifts.
