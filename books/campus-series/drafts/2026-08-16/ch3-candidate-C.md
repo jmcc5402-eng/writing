@@ -129,8 +129,8 @@ informed, or both, which was the Earlene experience entire.
 
 ---
 
-The picture arrived the way everything arrived in Ashford,
-phone to phone, hand to hand.
+The picture came phone to phone, hand to hand,
+which was how everything came in Ashford.
 
 It started at the far end of the shed, by the mums.
 Two heads bent over one screen, a palm cupped against the glare.
@@ -188,8 +188,8 @@ Between the feed store and supper she sat in the car
 with the air conditioning going and the tomatoes sweating
 in their newspaper on the passenger seat, and did her good deed.
 
-The parents' group had swollen overnight, the way it did
-around every game weekend. Upstairs on the board,
+The parents' group had swollen overnight —
+game weekends did that. Upstairs on the board,
 the threads were going — *Parents' Weekend Hotels, Part Three*,
 *drop/add ends Monday (vent here)* —
 and downstairs in the queue sat four hundred and some
@@ -208,8 +208,8 @@ By dusk the hickory smoke over Delmar's was a modest home-Saturday
 column, and Millrow was easing toward evening.
 She drove it slower than she needed to,
 and slower than that past the House,
-where the porch was holding the last of the light
-the way porches do when nobody's on them.
+where the porch stood empty
+and held the last of the light anyway.
 She didn't decide to look. She just looked.
 
 Delmar's screen porch held maybe twenty people and one radio,
