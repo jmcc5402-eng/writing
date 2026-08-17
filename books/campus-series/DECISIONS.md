@@ -53,3 +53,53 @@ Alternatives considered: **B** — keep both as separate parked ideas
 **C** — campus supersedes, retire the city-quartets doc (cost:
 discards a proven engine and the seasonal release calendar for an
 architecture whose audit found five blockers).
+
+## D02 — The jurisdiction of Cal's signature
+**Status: RULED (author, 2026-08-16, in chat; recorded here and
+applied in outline rev 2.2).**
+
+The PR #70 canon sweep found the frozen outline staking the book on a
+university facilities director condemning a building the university
+does not own (the census puts Hartwell House trust-owned and
+off-campus, with university zoning immunity limited to its own
+campus). Three ways out were offered; the author chose the recast:
+
+**Cal's finding is a university condition survey. Its real power is
+over Boyd's gift and the crew's winter, not the demolition itself.**
+The trust decides the House's fate — but no trust sells the town's
+porch without cover, and "unsalvageable," over the facilities
+director's signature, is the cover Boyd's full-footprint gift waits
+on. Kill the cover and the trustees take the gift shy of Millrow;
+the trust restores. The felt stakes ("one signature") survive
+unchanged; the machinery now runs legally. The Board of Aldermen and
+the town's zoning vote remain Book 1.4's untouched set piece.
+
+## D03 — The gym belongs to Book 1.4
+**Status: RULED (author, 2026-08-16, in chat; applied in rev 2.2).**
+
+Ch 28 had spent 1.4's locked set piece image for image (folding
+chairs, box fans, the town sweating out its verdict together) — in
+November. Ruling: **restage ch 28 with November imagery** (coats on
+chair backs, ticking radiators, thermoses, breath on the overflow
+steps); Book 1.4 keeps the sweltering summer vote that SC2 promises
+the reader buys book four for.
+
+## D04 — The town census is canon
+**Status: RULED (author, 2026-08-16, in chat).**
+
+`town-ashford.md` is ratified as-is; its PROPOSED header is replaced.
+Consequence accepted knowingly: the jurisdiction and gym findings
+above stayed blocker-tier and were fixed properly rather than waved
+through as warnings.
+
+## D05 — Real-world years: the purpose reading
+**Status: PROPOSED (recorded on merge of the rev 2.2 PR).**
+
+The PR #50 de-anchoring ruling binds by its purpose, not its letter:
+founding-era dates in canon docs are harmless furniture; dates that
+anchor the story's Year 1 to a real calendar (an 83-year-old's
+engagement photo dated 1962) are violations wherever they appear —
+docs and prose alike. Applied in 2.2: the staircase photos and
+tell-tale slides are de-anchored ("back when the motel sign was
+new," "a soldier and his girl who got two weeks"); the census's
+founding dates stand.

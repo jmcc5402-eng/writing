@@ -1,7 +1,8 @@
 # Ashford — Town Census (Set 1)
 
-**STATUS: PROPOSED — author ratification via PR. Nothing below is
-canon.** Produced 2026-08-13 by a `culture-researcher` run (variance
+**STATUS: RATIFIED (author, 2026-08-16 — ruled in chat during the
+PR #70 follow-up; recorded here). Canon.** Produced 2026-08-13 by a
+`culture-researcher` run (variance
 card A3 — sensory inventory). This file answers the ratified queue's
 job 2 (`notes/set-one-first-2026-08-11.md` F5) and alignment-audit
 findings 9, 10, 12, and 13. It builds ON `BRAINSTORM.md` §8 World 1
