@@ -161,7 +161,7 @@ The shed went quiet enough to hear the peanut kettle rolling,
 and the radio, still murmuring its faraway game,
 was suddenly the loudest thing under the roof.
 
-"That's the porch where I proposed to Doris," said the tomato man,
+"That's the porch where I proposed," said the tomato man,
 to no one, to everyone.
 
 "Half this county got engaged on that porch," said the older Dillard.
@@ -175,7 +175,7 @@ The laugh that went around the shed was real,
 and it did not fix anything, and everyone knew both things.
 
 Marisol had never been inside Hartwell House.
-A year in the parents' group and she still only knew it
+She only knew it
 from the road, the deep porch riding above Millrow
 with its lights on at dusk like a ship at anchor.
 You didn't have to have been inside, it turned out.
@@ -204,8 +204,8 @@ and went to get supper.
 
 ---
 
-By dusk the hickory smoke over Delmar's was a modest home-Saturday
-column, and Millrow was easing toward evening.
+By dusk the hickory smoke over Delmar's stood at maybe a third
+of its home-game height, and Millrow was easing toward evening.
 She drove it slower than she needed to,
 and slower than that past the House,
 where the porch stood empty
