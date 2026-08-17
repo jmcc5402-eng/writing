@@ -270,11 +270,13 @@ Nobody asked him anything.
 Somebody set a coffee at his elbow on the way past
 without comment, which in that building
 was a casserole at the door.
+He drank it. It was terrible. It helped.
 
 By quitting time the yard had emptied out,
 the last truck gone, the bay doors down,
 and Cal stood at his bench with the winterizing list
-he'd been not reading for ten minutes.
+he'd been not reading for ten minutes,
+a good list, full of jobs that had answers.
 
 Her wrench sat at the end of the bench,
 where it had sat since the first home Saturday.

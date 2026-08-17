@@ -14,6 +14,12 @@ Everything was in it.
 Twenty years of Mondays had gone into the arrangement,
 and Cal defended it like a border.
 
+He'd opened at seven. Coffee at seven ten.
+By eight he'd walked the yard once with the cup in his hand,
+which looked like leisure and was actually inspection.
+Two work orders waited on the desk,
+and neither one of them scared him.
+
 Ratchet lay in the early sun on his parking spot,
 the one with his name stenciled in official yellow paint.
 No work order for that stencil had ever existed.
@@ -105,6 +111,7 @@ and hated how much it sounded like agreement.
 They went down the fence line, away from the bays.
 The younger man followed at a respectful distance,
 sipping his green bottle with visible spiritual benefit.
+"It's a lifestyle," he explained, to nobody who had asked.
 
 "I'll skip the slideshow," Boyd said.
 Behind him the younger man raised the tablet, hopeful.
@@ -179,6 +186,12 @@ Boyd turned and faced him, friendly as a porch light.
 The finding would want your name on it before then.
 That's the whole ask.
 A favor between practical men."
+
+Behind them the golf cart got its fourth tire checked.
+Cal turned the gate hinge under his thumb, once, testing it.
+The hinge was fine.
+Everything in his yard was fine.
+That had always been the point of the yard.
 
 "And the gift," Cal said.
 
