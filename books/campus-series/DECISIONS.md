@@ -103,3 +103,28 @@ docs and prose alike. Applied in 2.2: the staircase photos and
 tell-tale slides are de-anchored ("back when the motel sign was
 new," "a soldier and his girl who got two weeks"); the census's
 founding dates stand.
+
+## D06 — Marisol's timeline: the group came first, the town came second
+**Status: RULED (author, 2026-08-18, in chat; closes the sweep's
+residency block on ch 3).**
+
+The author spotted the hole ("how could she lead the huge parent
+group if she just moved there?") and ruled the fix: **she ran the
+group for years before she ever lived in Ashford.**
+
+- Her son has been at Ashford State for years (the walk-on; his
+  travel-squad hopes at ch 29 are a veteran's, not a freshman's).
+  Marisol joined the parents' group his freshman fall and ran it
+  long-distance — team mom with a laptop, two states over.
+- The divorce, about a year ago, shook everything loose; moving to
+  the town where her son and half her mornings already lived "just
+  made sense." Residency: ONE YEAR.
+- This August her daughter left for Bellamy (and her son went back
+  to campus) in the same week — the newly empty house of ch 1.
+- Consequence: ch 1's two uses of "a year" (the divorce, the
+  outsider feeling) and her residency are now the SAME year, by
+  decision, not coincidence. It also explains why she knows the
+  town without knowing its people — Cal included.
+
+Applied as one sentence in ch 3 (the queue scene). Recorded in
+ADULT-CAST-IDEAS 1.1.
