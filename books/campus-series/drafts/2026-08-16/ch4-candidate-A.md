@@ -62,6 +62,14 @@ Boyd fell in beside him, easy, unhurried,
 taking the place in with what appeared to be
 genuine professional interest.
 
+Boyd nodded at the row of machines as they passed,
+and when he said, "You've kept that old three-deck running
+past any reasonable argument,"
+he said it to the correct machine,
+which meant either somebody had briefed him
+or he actually knew things,
+and Cal couldn't decide which he liked less.
+
 "You keep a clean shop," Boyd said.
 "People think that's about tidiness.
 It's about knowing where everything is
@@ -114,6 +122,8 @@ It was the number off Cal's own spreadsheet,
 the one that lived in the drawer that locked,
 and hearing it out loud in the open air of his own yard
 was worse than any threat Boyd could have designed.
+Cal said nothing, which around here counted as a full reply,
+and Boyd, fluent in it, went on.
 
 "The gift covers it," Boyd went on. "All of it.
 Nobody freezes, nobody's furloughed,
@@ -135,6 +145,9 @@ The second-worst part was that none of it was a lie.
 Cal could put a face to every one of the twelve
 without trying, which, it turned out,
 was the downside of knowing where everything was.
+He knew their coffee orders and their bad knees,
+which of them laughed at the radio
+and which of them just liked the company.
 
 "So take your gift," Cal said.
 "You don't need me to cash a check."
@@ -151,6 +164,9 @@ That's paperwork, not power."
 "The Hartwell House is on Millrow."
 
 Cal kept walking. He was aware of his own boots.
+Somewhere back in the shop, in the deep listening quiet,
+a socket hit the floor and rolled a long, honest distance.
+Nobody chased it.
 
 "The House belongs to the trust," Boyd said,
 in the tone of a man agreeing with an objection
@@ -175,6 +191,10 @@ shook the pond-water bottle in Cal's direction.
 "Adaptogens? For cortisol."
 
 "No," said Cal, with feeling.
+
+The sneakers nodded, respectful of the boundary,
+and made a note on the tablet,
+possibly about Cal's cortisol.
 
 Ratchet, who had followed at range like a chaperone,
 crossed the gravel and sat down
