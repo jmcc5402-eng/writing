@@ -107,3 +107,5 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-16 | continuity-keeper (campus canon sweep vs the frozen outline) | E3 reverse order (E5 was LRU but is dialogue-mechanics, inapplicable to a canon sweep with no dialogue in scope — deviation logged) | notes/ (filed by orchestrator) |
 | 2026-08-16 | showrunner (nightly shift, in-session) | — | this shift |
 | 2026-08-16 | orchestrator (campus 1.1 rev 2.2 — PR #70 repair pass, rulings D02–D05) | — (revision integrating ruled inputs) | plots/b11-outline-rev2.md + story read + canon docs |
+| 2026-08-18 | continuity-keeper (campus ch2-4 candidates, inherited-error sweep) | E6 weight what's missing | notes/ (filed by orchestrator) |
+| 2026-08-18 | showrunner (nightly shift, in-session) | — | this shift |
