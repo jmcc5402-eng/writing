@@ -119,3 +119,5 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-17 | romance-reader-panel (campus ch3 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ch3-competition-panel-2026-08-17.md |
 | 2026-08-17 | romance-reader-panel (campus ch2 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ch2-competition-panel-2026-08-17.md |
 | 2026-08-17 | romance-reader-panel (campus ch4 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ch4-competition-panel-2026-08-17.md |
+| 2026-08-18 | continuity-keeper (campus ch2-4 candidates, inherited-error sweep) | E6 weight what's missing | notes/ (filed by orchestrator) |
+| 2026-08-18 | showrunner (nightly shift, in-session) | — | this shift |
