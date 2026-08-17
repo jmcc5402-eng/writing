@@ -23,6 +23,11 @@ list in the agent's invocation as "banned moves this run."
   "I didn't say anything" — used twice by blind drafters; ration.
 - No third "On the first X Saturday of the season, Ashford woke…"
   opener — the ch 1/ch 3 home/away pair spent that budget.
+- Double-em-dash sentences (author, 2026-08-18: "beware, two
+  hyphens") — the paired-dash parenthetical that then runs on
+  ("— x, y — and…") is a machine tell. Linter now counts sentences
+  with two or more em dashes: budget ONE per chapter, and never a
+  dash-pair plus a dash-continuation in the same sentence.
 
 ## junior-literary-critic
 
