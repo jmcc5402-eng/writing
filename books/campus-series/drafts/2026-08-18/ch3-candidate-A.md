@@ -1,0 +1,386 @@
+# Chapter 3 — The Second Guest Book
+
+POV: Marisol, third person limited, past tense.
+Candidate A. Variance card: D4.
+
+---
+
+Away Saturdays, Ashford exhaled. It did not sit down.
+
+The team was off playing somebody, somewhere with worse barbecue,
+which was the town's official position on every somewhere else,
+and all the noise Ashford would have spent on a home game
+it spent at the Doss County Curb Market instead,
+one long open shed by the square where the whole county
+came to buy vegetables it could have grown itself
+and follow a game it could not attend.
+
+Follow it in triplicate, as it turned out.
+Three phones stood propped down the center aisle,
+one against a fat roll of paper towels,
+one bungeed to a music stand,
+one leaned on the cold-brew tent's tip jar,
+all streaming the same broadcast on three different delays.
+The market had the physics worked out by the second possession.
+The cold-brew end of the shed lived eight seconds in the future.
+The boiled-peanut kettle was the present.
+The tomato tables were the past, and happier for it.
+When the first touchdown came, it came three times,
+joy rolling the length of the shed one aisle at a time,
+and the tomato end got to watch everybody else celebrate
+and then have the whole thing happen to them anyway, brand new.
+
+"Quit spoiling it!" the tomato man hollered at the future.
+
+"Move up an aisle!" the cold-brew guy hollered back.
+"Time's a river!"
+
+Every folding table had a card reader taped down by the cash box,
+and the regulars ran a group chat called The Shed Thread,
+which that morning was conducting two arguments,
+a rummage sale, and a poll about the peanut kettle,
+all in parallel with the actual market.
+Marisol's phone was going off on top of all of it.
+Twelve thousand parents, and an away weekend
+had not slowed down one of them.
+She had already fielded a parking question
+about a stadium she had never seen in her life,
+and answered it anyway, on professional pride alone.
+
+She'd come with one canvas bag and one intention, zinnias.
+She had also dressed for the market
+on the theory that the market should feel lucky,
+and judging by two conversations that lost their place
+and one man who set a melon down on his own hand,
+the market felt lucky.
+
+---
+
+Birdie Pham's truck held the corner spot, tailgate down,
+buckets ranked by color, the zinnias going off
+like a fireworks finale with opinions.
+
+"Zinnias," Marisol said. "Your loudest."
+
+"They're all loud." Birdie pulled a bucket forward.
+"Question is whether you want them arguing or singing."
+
+"What's the difference?"
+
+"About four dollars."
+
+"Singing, then. I'm worth it."
+
+"Never doubted it." Birdie stripped stems and rolled paper
+around the bundle in one motion, nothing wasted anywhere,
+a woman who could probably do it during a fire.
+"You want mums too? Mums are moving this morning."
+
+"Are they."
+
+"One mum in particular is about to move," Birdie said,
+not looking up, "if he ever commits."
+
+Marisol did not have to turn around.
+Eli Fountain was on his third orbit of the truck,
+hands clasped behind his back like an inspector general,
+studying a bucket of sunflowers with the frown
+he presumably otherwise reserved for turf disease.
+
+"Eli," Birdie called. "You buying a flower or auditing them?"
+
+Eli stopped as if the question had caught him
+somewhere expensive. "I was comparing."
+
+"Comparing what?"
+
+"Prices," he said, with dignity, at a truck
+that posted no prices.
+
+"Well, this here is the top of the market." Birdie hauled
+the biggest mum on the tailgate around to face him,
+a mum roughly the size of a dryer drum,
+bronze, magnificent, absurd. "Show mum. Not for everybody."
+
+"How does it do in shade?" Eli asked.
+
+"It dies."
+
+"I'll take it."
+
+Marisol turned and admired the sunflowers
+so nobody could see her face doing what it was doing.
+
+Birdie ran his card on the reader taped to the tailgate,
+tap and done, and then, briskly, mercilessly:
+"Receipt? I can text it."
+
+A pause, the length of a man checking a cliff for rocks.
+
+"Yes," said Eli.
+
+"Number." She held out the reader, and Eli Fountain,
+head groundskeeper, keeper of ninety thousand people's grass,
+typed his phone number into a flower truck's card reader
+with the solemnity of a treaty signing.
+
+He gathered the mum up in both arms and stood a second,
+bloom at chest height, eyes just clearing the petals.
+
+"It's a fine mum," he told Birdie, roughly.
+
+"It's the best mum in the county," Birdie said.
+"Go on before you drop my masterpiece."
+
+He went. Birdie watched him clear the corner of the shed,
+then holstered the card reader like a gunslinger.
+
+"You got his number," Marisol said.
+
+"He got a receipt," Birdie said. "Everybody wins."
+
+"Birdie, if you ever sell my future husband
+a ninety-dollar mum, warn me first."
+
+"No promises. A man walks up wanting to spend,
+I'm not running a charity."
+
+---
+
+Cal Sutter came through the shed at eleven,
+on an errand nobody had assigned and nobody questioned.
+
+Verna Poteat's market basket was on his arm by the eggs.
+Nobody saw the handoff. Verna, straw hat and sharp elbows,
+simply appeared beside him unburdened,
+directing foot traffic with both freed hands.
+When a kid's wagon clipped a leg of the honey table
+and the whole thing began its slow lean,
+Cal put two fingers on the corner and the table
+changed its mind, and he did it without breaking stride,
+mid-shed, in front of everybody, like a man
+who genuinely believed he was invisible.
+He paid for tomatoes at the far table, cash,
+waved his change into the tip cup,
+handed Verna her basket back at the north end,
+and left the market certain no one had seen him at all.
+
+The Shed Thread had him by eleven-oh-six,
+somebody's photo of the honey table mid-rescue,
+no caption, forty-one thumbs before the quarter ended.
+
+Marisol observed all of it strictly as a matter
+of public record. The man still had her wrench.
+She was in no hurry to collect.
+A debt like that kept a man findable.
+
+---
+
+The picture arrived at eleven forty.
+
+Marisol's phone buzzed in her bag, one buzz among many,
+and she would have left it there if the parents' group
+hadn't buzzed again, and then The Shed Thread,
+and then every phone down the aisle in one long shudder,
+all three ends of the shed for once in the same second.
+
+She opened it standing between the peanuts and the peppers.
+
+It was a rendering. Computer-made, real-estate slick,
+a lawn of flat, perfect, impossible green
+drawn precisely where Hartwell House stood on Millrow.
+Not the House moved. Not the House saved and set back
+behind some fence. No House at all.
+Erased, and grassed over, with two benches
+and a sapling the software had planted where the porch was.
+The caption ran underneath in cheerful type.
+Pending trustee approval at the November board meeting.
+
+The shed went off like a struck hive.
+
+"That's the House."
+
+"That is not the House. That's a lawn."
+
+"That's where the House is, genius. Read it."
+
+"Who sent this?"
+
+"Nobody sent it," Earlene said from the pickle table,
+flat as a road report. "Everybody forwarded it."
+
+Verna Poteat already had her phone out and up,
+glasses pushed down her nose to see over them.
+While grown men were still stabbing at their screens
+she had the image screenshotted, cropped, blown up,
+and the brightness cranked, thumb and finger moving
+like a card dealer's.
+
+"'Pending trustee approval at the November board meeting,'"
+she read out, loud enough for both ends of the shed
+and most of the square. "And look how green they drew it.
+Grass doesn't get that green. That's a picture
+somebody paid real money for."
+
+"How'd you do all that?" the tomato man said, staring.
+
+"I run a motel, sugar." Verna did not look up.
+"My bookings quit walking in off the street years ago.
+I live on this phone. It's my lobby."
+
+Eli set the mum down on the peanut table
+like a man freeing his hands for an emergency.
+He looked at the picture once, and his whole face
+changed jobs.
+
+"That lawn's a lie," he said.
+
+"It's a picture, Eli."
+
+"It's a lie. That yard sits under oaks. Shade till noon.
+Nothing on this earth grows that color there,
+and whoever drew it never stood on that street."
+He straightened up. "You want to know if a man's
+ever been somewhere, look at what he thinks grows there."
+
+It was, the shed briefly agreed in silence,
+the most anyone had ever heard Eli say
+that wasn't about rye.
+
+"Every couple in this county got engaged on that porch,"
+somebody called from down by the tomatoes.
+"Both my girls. My mother."
+
+"And where's anybody supposed to propose on a lawn?"
+Verna said. "You can't kneel on sod.
+A knee needs a porch board.
+Sod won't hold a kneel; ask anybody who's tried."
+The laugh went the length of the shed, and it needed to,
+because it had an ache riding in it,
+and the laugh carried the ache down the aisle
+and out into the square.
+
+"Somebody knows who drew it," said the ribs-and-eggs man.
+
+"Somebody always knows," Earlene said.
+"It'll keep till it doesn't."
+
+"November," she added, in the tone she used
+for frost warnings. "And it's August."
+
+"Barely," said Marisol.
+
+She had never once been inside Hartwell House.
+A year in town, and she'd never had a reason
+to climb a stranger's steps.
+Apparently the porch belonged to her anyway,
+because something in her chest had filed a claim
+it had no paperwork for.
+Around her the shed was resolving, aisle by aisle,
+the same as the touchdown had come, into one intention.
+
+"Delmar's," said the present, and the future agreed,
+and then the past came around too.
+
+---
+
+She drove the six blocks to Millrow behind a line
+of everybody else driving the six blocks to Millrow,
+zinnias riding shotgun, and used the standstill
+to work the board queue.
+
+She'd run this group for years before she ever had
+an Ashford address, a team mom at long distance
+since her boy's freshman fall, twelve thousand
+parking questions answered from two states over.
+When the dust of the divorce had finally settled,
+moving to the town where her son and half her mornings
+already lived had simply made sense.
+The queue was just the front door of the place,
+and on Saturdays it swung.
+Four hundred and change sat pending.
+She waved them through in batches, thumb steady,
+approve, approve, approve, four minutes start to finish
+while the truck ahead of her failed to parallel park,
+then set the phone face down on the zinnias,
+feeling brisk and useful, which on this particular
+Saturday was worth a great deal.
+
+---
+
+Delmar's had the hickory going hard by noon,
+every table full, the game still on over the counter
+with the sound off, because nobody was watching it now.
+The argument had beaten everybody there.
+
+Ray ran the register with one ear on the room,
+and the room was all speeches. What the trustees
+could do, what they couldn't, whose cousin knew a lawyer,
+who was going to stand up in November and say what.
+Ray rang up two pulled-pork plates, made change,
+and then, without announcing a thing, started building.
+
+He clipped a guest-check pad to a scarred clipboard
+from under the register, tied the register pen to it
+with a length of butcher's twine, tested the swing,
+and set the rig on the counter by the toothpicks.
+
+"What's that?" said the man waiting on ribs.
+
+"That's for the speeches," Ray said. "I got a rush.
+Anybody with something the trustees ought to read
+in November, it goes on paper, with a name under it.
+Talk's smoke." He turned the clipboard around
+and signed the first line himself, unasked,
+big enough to read from the door.
+
+"Ray, that's a clipboard," said the ribs man.
+
+"It's a book with one page so far," Ray said.
+"Sign it or move down the counter."
+
+The ribs man signed it.
+
+Verna signed third and took her time about it,
+adding a line under her name in motel-ledger script,
+reading it aloud as she wrote.
+"Sixty years of honeymoons at the Magnolia Court,
+and half of them started on that porch. Try me, gentlemen."
+
+"House already has a guest book," Earlene said,
+watching the pen swing on its twine.
+"Now it's got a second one."
+
+By dusk that was simply its name, up and down Millrow
+and out through every thread in town.
+The House's second guest book.
+
+The line for it formed the same as any line at Delmar's,
+loose, talkative, self-seating.
+Eli signed with the mum wedged against the counter.
+Birdie signed under him and did not mention the mum,
+which was its own kind of mercy.
+The game ended however games end;
+not one soul at Delmar's could have told you the score.
+
+When the clipboard came around to Marisol,
+the first page was full and the second was going.
+
+"You signing," Ray said, "or admiring my bookbinding?"
+
+"Both. It's a beautiful book, Ray."
+
+"First edition," Ray said.
+
+She had never stood on that porch.
+She signed anyway, her name in the House's second
+guest book between two names she didn't know yet,
+and gave the pen back its swing.
+
+Somebody photographed the clipboard against the counter,
+first page crowded corner to corner,
+and by dark it had gone out into the evening
+the same as the morning's picture had.
+Nobody sent it. Everybody forwarded it.
+That was the town's whole physics,
+and for once it was working for the House.
