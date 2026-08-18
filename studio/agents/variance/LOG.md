@@ -109,3 +109,5 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-16 | orchestrator (campus 1.1 rev 2.2 — PR #70 repair pass, rulings D02–D05) | — (revision integrating ruled inputs) | plots/b11-outline-rev2.md + story read + canon docs |
 | 2026-08-18 | continuity-keeper (campus ch2-4 candidates, inherited-error sweep) | E6 weight what's missing | notes/ (filed by orchestrator) |
 | 2026-08-18 | showrunner (nightly shift, in-session) | — | this shift |
+| 2026-08-19 | romance-reader-panel (campus ch3 rerun field — the unjudged one) | C2 bookseller shelf placement | notes/ (filed by orchestrator) |
+| 2026-08-19 | showrunner (nightly shift, in-session) | — | this shift |
