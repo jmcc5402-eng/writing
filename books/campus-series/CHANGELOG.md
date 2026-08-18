@@ -3,6 +3,23 @@
 Tracks edits to manuscripts and adopted drafts (house rule 6), so the
 author can see what changed and why. Newest first.
 
+## 2026-08-18 — Chapter 3 replaced by the rerun winner; fun pass on 2 and 4
+
+- The author rejected the first ch 3 ("nothing really happens...
+  too 70s country... show not tell"). Rerun ran with the rejection
+  quoted in the brief: three blind drafts at 21-23% dialogue.
+  Panel ranked A > C > B against the rejection axes; candidate A
+  (card D4 — Birdie's receipt heist, the three-phone time zones,
+  Verna the phone-native, the guest book built on the counter)
+  staged as manuscript/ch03.md with four panel grafts applied and
+  the prescribed trims. 22% dialogue, zero double-dash sentences,
+  ~2,340 words (slightly over cap; trim on acceptance if desired).
+- Fun pass applied to ch 2 and ch 4 per the fun-problem directive:
+  panel graft/trim packages (ch 4 now 29% dialogue; ch 2 remains
+  the quarter's one quiet chapter at 7%).
+- Rejected first ch 3 winner retired to drafts/2026-08-16/ as
+  graft-bank history.
+
 ## 2026-08-17 — Wave 1 reconciled with the merged overnight sweep (#76/#77)
 
 - Sweep-mandated fixes applied to the staged winners: ch 4 names WDSS
