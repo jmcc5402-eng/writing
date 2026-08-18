@@ -123,6 +123,11 @@ delicacy beats stay (two fingers on a supply line; a plane on a
 step), because the range is the swoon: a strong man being careful.
 Never gym-coded, never posed, never described at rest — always
 strength caught in the act of being useful.
+Corollary (author comment, 2026-08-18, on ch 4): men do not
+compliment other men's looks ("guys don't mention each other's
+hair"). Admiration between men lands on work, dogs, trucks, and
+competence, never appearance; appearance-noticing belongs to the
+women and the narration.
 
 ## The fun problem (author, 2026-08-18, on reading wave 1)
 

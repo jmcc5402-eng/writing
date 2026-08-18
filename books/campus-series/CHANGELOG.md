@@ -3,6 +3,20 @@
 Tracks edits to manuscripts and adopted drafts (house rule 6), so the
 author can see what changed and why. Newest first.
 
+## 2026-08-18 — Reading-page comment fixes (ch 3 and 4)
+
+- Four author comments on the reading page actioned: ch 3's
+  one-sentence opening paragraph split into three sentences; the
+  ch 3 car scene now says why she loves leading the group (being
+  needed and thanked out loud, hard to come by in recent years —
+  feeds the rootability directive and sharpens the quiet mistake);
+  ch 4's PR-man flattery moved off Cal's hair per the author
+  ("guys don't mention each other's hair" — corollary recorded in
+  the register note) onto Ratchet ("She came free"), which also
+  fixes Cal calling Ratchet "he." The clipboard-confusion comment
+  predates the ch 3 rerun; the rebuilt scene shows the object
+  being made on the page.
+
 ## 2026-08-18 — Chapter 1 warmth pass (author's rootability directive)
 
 - The author: readers need to root for Marisol — show the good she
