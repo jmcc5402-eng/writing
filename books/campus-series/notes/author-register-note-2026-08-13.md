@@ -152,3 +152,26 @@ postcard lawn running from the gates down Millrow — the rendering's
 lawn is the Gateway's front door, and the House stands in it).
 Drafting briefs must list each plot object with its one-line
 concrete picture; drafters may not gesture at what they can show.
+
+## The rootability directive (author, 2026-08-18)
+
+> "I want to do more in ch1 to make us really like Marisol. As I
+> read the next chapters I don't know enough about her. I need to
+> root for her. More description about the good things she does
+> with the chat group, about how people thanking her for things,
+> how people compliment her looks but she politely disregards
+> them. We need to describe her a bit more (in a way that a 40
+> year old reader will like)."
+
+Applied as: chapter 1 amended (the warmth pass) — a fuller
+portrait on her first appearance (43, sundress with pockets,
+freckled shoulders, a woman deciding things in her own favor); the
+group's good works shown as small completed kindnesses (the
+retainer reunion, the midnight towing number); on-page gratitude
+by name; and the deflected-compliment beat ("It has pockets") —
+she is admired and never fishes. Standing register rule for every
+Marisol chapter: at least one unglamorous good deed done well, and
+compliments received land on her like weather, acknowledged and
+redirected. The portrait register is aspirational-relatable for a
+40-year-old reader: her age is an asset on the page, never a
+punchline and never invisible.

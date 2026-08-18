@@ -3,6 +3,19 @@
 Tracks edits to manuscripts and adopted drafts (house rule 6), so the
 author can see what changed and why. Newest first.
 
+## 2026-08-18 — Chapter 1 warmth pass (author's rootability directive)
+
+- The author: readers need to root for Marisol — show the good she
+  does with the group, people thanking her, compliments politely
+  disregarded, and a fuller portrait a 40-year-old reader will
+  like. Three insertions to `manuscript/ch01.md` (~180 words):
+  a portrait paragraph at her first appearance; the retainer
+  reunion inside the morning group-chat beat; and a gratitude-and-
+  deflection run at ten thirty (the towing-number hug, the merger
+  handshake, "It has pockets"). Ruling recorded as the rootability
+  directive in notes/author-register-note-2026-08-13.md; standing
+  rule for all Marisol chapters going forward.
+
 ## 2026-08-18 — Chapter 3 replaced by the rerun winner; fun pass on 2 and 4
 
 - The author rejected the first ch 3 ("nothing really happens...
