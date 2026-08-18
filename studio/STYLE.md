@@ -58,3 +58,13 @@ Run them separately. Combining them is how notes get lost:
 2. **Character** — is the want, the obstacle, and the cost visible?
 3. **Line** — rhythm, repetition, filter words, weak verbs.
 4. **Continuity** — names, ages, timeline, geography, established facts.
+
+## The standing table (author observation, 2026-08-18)
+
+Every series anchors on a recurring gathering the reader returns to
+— the room where ensemble, comedy, and plot get digested together.
+Spytwins has the family dinner; the campus series has wine night
+(with the Liars' Table as its public twin). The pattern is now
+deliberate: a new series names its standing table at bible time,
+and the table earns a scene whenever the plot has been loud for
+too long.
