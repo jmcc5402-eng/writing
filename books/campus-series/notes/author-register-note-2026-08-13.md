@@ -123,3 +123,32 @@ delicacy beats stay (two fingers on a supply line; a plane on a
 step), because the range is the swoon: a strong man being careful.
 Never gym-coded, never posed, never described at rest — always
 strength caught in the act of being useful.
+
+## The fun problem (author, 2026-08-18, on reading wave 1)
+
+> "The book isn't any fun. It's sleepy descriptions of flowers with
+> Marisol; for the Cal chapters it's descriptions of machinery and
+> motor sounds. I can feel the plot starting to pick up with the
+> Boyd part, but I fear this is way too slow for a romance."
+
+Applied as: description density comes DOWN roughly a third and
+banter, events, and wanting take the space. Atmosphere never gets a
+full paragraph to itself; it rides inside scenes where someone wants
+something. The dialogue floor (protocol) enforces the mechanical
+half; this ruling governs the rest. Romantic tension appears on
+every page even in apart-chapters, and it reads FUN, not literary.
+
+## The stranger rule reaches prose (author, 2026-08-18)
+
+> "The writing almost assumes the reader knows the details already.
+> When Boyd is talking to Cal about the house, we never describe
+> what he's trying to build. Are they building a lawn??"
+
+Rule 9 extended from PR bodies to the page: any plot-load object
+gets one concrete, picturable sentence on first appearance. The
+expansion is now described in ch 4 (Boyd's own mouth: three decks
+at the north end, a glass club level, a boosters' tower, and a
+postcard lawn running from the gates down Millrow — the rendering's
+lawn is the Gateway's front door, and the House stands in it).
+Drafting briefs must list each plot object with its one-line
+concrete picture; drafters may not gesture at what they can show.

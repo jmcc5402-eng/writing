@@ -35,11 +35,15 @@ and then have the whole thing happen to them anyway, brand new.
 "Move up an aisle!" the cold-brew guy hollered back.
 "Time's a river!"
 
+The peanut kettle lady weighed in from the present tense.
+"Both of you hush. We're on defense."
+
+"You're on defense," the future said. "We're already sad."
+
 Every folding table had a card reader taped down by the cash box,
 and the regulars ran a group chat called The Shed Thread,
-which that morning was conducting two arguments,
-a rummage sale, and a poll about the peanut kettle,
-all in parallel with the actual market.
+which was running two arguments and a rummage sale
+in parallel with the actual market.
 Marisol's phone was going off on top of all of it.
 Twelve thousand parents, and an away weekend
 had not slowed down one of them.
@@ -72,8 +76,7 @@ like a fireworks finale with opinions.
 "Singing, then. I'm worth it."
 
 "Never doubted it." Birdie stripped stems and rolled paper
-around the bundle in one motion, nothing wasted anywhere,
-a woman who could probably do it during a fire.
+around the bundle in one motion, nothing wasted anywhere.
 "You want mums too? Mums are moving this morning."
 
 "Are they."
@@ -108,8 +111,7 @@ bronze, magnificent, absurd. "Show mum. Not for everybody."
 
 "I'll take it."
 
-Marisol turned and admired the sunflowers
-so nobody could see her face doing what it was doing.
+Marisol became extremely interested in the sunflowers.
 
 Birdie ran his card on the reader taped to the tailgate,
 tap and done, and then, briskly, mercilessly:
@@ -162,8 +164,12 @@ mid-shed, in front of everybody, like a man
 who genuinely believed he was invisible.
 He paid for tomatoes at the far table, cash,
 waved his change into the tip cup,
-handed Verna her basket back at the north end,
-and left the market certain no one had seen him at all.
+and handed Verna her basket back at the north end.
+
+"I had that basket," Verna told him.
+
+"Yes, ma'am," said Cal, and kept walking,
+certain no one had seen him at all.
 
 The Shed Thread had him by eleven-oh-six,
 somebody's photo of the honey table mid-rescue,
@@ -296,8 +302,6 @@ parking questions answered from two states over.
 When the dust of the divorce had finally settled,
 moving to the town where her son and half her mornings
 already lived had simply made sense.
-The queue was just the front door of the place,
-and on Saturdays it swung.
 Four hundred and change sat pending.
 She waved them through in batches, thumb steady,
 approve, approve, approve, four minutes start to finish
@@ -370,7 +374,10 @@ the first page was full and the second was going.
 
 "Both. It's a beautiful book, Ray."
 
-"First edition," Ray said.
+"First edition," Ray said. "Don't smudge it.
+That's going to the trustees."
+
+"Then I'll write neat," she said, and did.
 
 She had never stood on that porch.
 She signed anyway, her name in the House's second
