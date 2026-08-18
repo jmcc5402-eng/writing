@@ -93,8 +93,11 @@ about the rest.*
    small-town vocabulary — never "steamy." The ch-1 montage steam
    flash is calibrated to this line: charged, clothed, cut.
 10. **55–70k words per book.** No 100k book ones.
-11. **POV: dual, alternating.** [TK: first vs. third person — the
-    35–45 contemporary shelf supports both; decide once]
+11. **POV: dual, alternating** — RULED third person, past tense
+    (locked by the accepted ch 1, 2026-08-16). Side-romance screen
+    time runs through D08's three channels (town-camera interludes,
+    wine-night gossip, one earned side-POV scene per quarter) —
+    the alternating spine itself never varies.
 
 ### Safety rules — Rules v1, absorbed from the college-parents
 ### research (2026-08-02 memo, `studio/ideas/`)

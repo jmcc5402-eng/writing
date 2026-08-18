@@ -148,3 +148,33 @@ negative comments").**
   year out reads rebound; two-plus years out reads ready. "First
   time since the divorce" beats get STRONGER at this distance —
   the thaw is the romance's doing.
+
+## D08 — Side romances get screen time: the three channels
+**Status: RULED in principle (author, 2026-08-18, in chat: "I want
+to follow some of these other characters as their various romances
+start, stop, and happen... keep the fun/romance energy alive while
+we are building the bigger plot"). Implementation PROPOSED below;
+ratified by merging the PR that first uses it.**
+
+Standard 11 (dual alternating POV) stands for CHAPTERS; three
+channels carry the other romances:
+
+1. **Town-camera interludes.** The ch-1 montage voice returns
+   mid-book: 2–3 short roving vignettes per book (half a page,
+   between chapters), free to land on any couple — the tow at
+   parade speed, the margarita date, the Mule. The camera never
+   enters heads; it watches the town fall in love, which is the
+   series thesis anyway.
+2. **Wine night is the romance wire.** Other people's romances
+   arrive as performed gossip in scene — fun, fast, and Gilmore.
+3. **One earned side-POV scene per quarter of the book** — a side
+   or next-book lead gets a true scene at her arc's turn; capped at
+   one per quarter so the central couple stays the spine
+   (standard 24's tether rule governs).
+
+**PROPOSED with it: Kat, wine night's fourth chair** — Marisol's
+realtor, divorced and thriving, serially and gloriously dating (the
+current one makes her margaritas); the town's romance weathervane
+across all sixteen books, and the professional holding Marisol's
+June listing decision (D07's clock). Name and role await author
+strike-or-keep at the next PR.
