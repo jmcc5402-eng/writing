@@ -110,3 +110,16 @@ specifics). And Marisol is written SEXY: confident, quick, a woman
 who knows the room watches her and enjoys it — wine night is hers,
 the banter bites back, wanting is on the page. Desirable first,
 den-mother never.
+
+## The manly calibration (author, 2026-08-18)
+
+> "Let's describe Cal a bit more manly — like 'he turns on the
+> boiler, his two strong arms easily flipping the switch.'"
+
+Applied as: Cal's strength gets ON the page, shown through work in
+every chapter he carries — stuck things broken loose one-handed,
+heavy things carried easily, effort that looks like none. The
+delicacy beats stay (two fingers on a supply line; a plane on a
+step), because the range is the swoon: a strong man being careful.
+Never gym-coded, never posed, never described at rest — always
+strength caught in the act of being useful.
