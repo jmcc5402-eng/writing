@@ -162,6 +162,13 @@ and parallelizes everything else.
    author reads. Transitions are stitched in the seam pass after
    ruling. The author reads a wave's winners in one sitting; a
    register-shifting ruling invalidates at most one wave.
+   **Dialogue floor (author flag, 2026-08-18):** the shelf runs
+   30–40% dialogue; this voice is narration-forward on purpose, so
+   the working targets are a book average near 25%, a per-chapter
+   floor of 15%, at most one deliberate quiet chapter (~8–10%) per
+   quarter, and never two sub-floor chapters in a row. Briefs state
+   the target; the linter counts quoted words and reports the
+   percentage with every candidate.
 5. **Losers are kept, not deleted.** Runner-up candidates stay in
    `drafts/DATE/` unadopted — they are the graft bank for the
    winner's revision and the evidence base for register rulings.
