@@ -68,3 +68,34 @@ Spytwins has the family dinner; the campus series has wine night
 deliberate: a new series names its standing table at bible time,
 and the table earns a scene whenever the plot has been loud for
 too long.
+
+## Introduce them at their best (author law, 2026-08-18)
+
+> "A book should introduce the main character at their best. Then
+> difficult things happen, which might make the reader second
+> guess, but then by the end of the book the reader has passed all
+> expectations."
+
+The arc law for every lead in every book here:
+
+1. **The entrance is a highlight reel.** The lead's first chapter
+   shows them at their best: competent, generous, admired — good
+   works completed on the page, thanks received, compliments
+   deflected. The reader roots first and worries later. The campus
+   series ch 1 warmth pass (Marisol's rootability directive) is
+   the reference implementation.
+2. **The middle earns the doubt.** The difficult things are real
+   mistakes with real costs, sourced from the same qualities the
+   entrance showcased — the strength overextended is what breaks.
+   Cosmetic stumbles don't count; the reader must genuinely
+   second-guess.
+3. **The ending clears the opening bar.** By the last chapter the
+   lead surpasses the chapter-one version of themselves — the
+   entrance turns out to have been the floor, not the ceiling.
+
+Gate checks, using instruments that already exist (no new ones):
+a chapter-1 drafting brief names the lead's at-their-best beats;
+the developmental editor judges openings against rule 1 and
+climaxes against rule 3; a lead introduced mid-struggle, or an
+ending that merely restores the opening's competence, is a
+finding.
