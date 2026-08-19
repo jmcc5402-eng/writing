@@ -32,6 +32,7 @@ Rules of the project:
 | `kid-reader-panel` | 1.1.0 | inherit | Simulated 8–12 reader reactions |
 | `red-team-critic` | 1.1.0 | inherit / high | Adversarial read before anything goes out |
 | `romance-reader-panel` | 1.0.0 | inherit / high | Simulated 35–45 romance reader: engagement, skim, swoon, DNF |
+| `superfan-reviewer` | 1.0.0 | inherit / high | The retail review section, predicted: star math, pet peeves, promise-keeping; the anti-professional-critic |
 | `culture-researcher` | 1.1.0 | inherit | Setting/culture research + fact-check, web access |
 | `market-pitch-agent` | 1.1.0 | inherit | Comps, queries, synopses, publishing strategy |
 | `junior-literary-critic` | 1.1.0 | inherit / high | Two-part outside read: one-page critique + one-page prioritized recommendations |
