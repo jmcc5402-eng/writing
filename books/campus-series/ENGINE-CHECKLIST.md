@@ -39,6 +39,7 @@ plus this series' own machinery.
 | 20 | Epilogue hand-forward | to the next book; final chapter |
 | 21 | One or two side hookups (author, 2026-08-08) | adult townsfolk, low plot weight, reasonable steam — the ensemble IS the point of a college town; all within the locked heat band; R1 applies (adults only) |
 | 22 | A dog (author, 2026-08-08) | somewhere in every book, not always the leads' — the diner's, the inn's, a tailgate regular's; rotation rules per book bible; candidate series thread (recurring dogs readers track) |
+| 23 | The wine-night story (author, 2026-08-19) | once per book: a lady relays a steamy secondhand tale ("my cousin…"), always interrupted at the crucial syllable — the interruption is the hook; told stories obey the first-garment line; subjects always adults; deniability is the game |
 
 Heat placement per the locked ladder ([TK: steam definition]) rides
 on the outline spine, not this table.
