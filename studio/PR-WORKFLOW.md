@@ -227,6 +227,14 @@ diff remains the single source of truth — the page is a lens, never
 a fork; rulings still happen as PR comments/merges. Short decision
 PRs whose body quotes everything needed are exempt.
 
+**Amendment — publish on demand (author, 2026-08-18):** each
+publish raises an approval prompt on the author's side and there is
+no always-allow, so pages are no longer published automatically.
+The PR body says a reading page is *available*; the page is built
+and published only when the author says they're ready to read
+(so the approval prompt arrives when they're looking at it).
+Same URL discipline once a page exists for a given read.
+
 ## Rule 9 — PRs are written for a stranger (author, 2026-08-13;
 ## campus-series scope for now)
 

@@ -149,6 +149,26 @@ and parallelizes everything else.
    than one earlier chapter awaits the author's ruling. A ruling
    that shifts the voice therefore invalidates briefs at worst,
    never finished prose.
+   **Batch mode (author, 2026-08-16):** once a register pilot's
+   winner has been RULED, prose may batch three chapters per wave.
+   Anti-tic containment, stacked: each competition's drafters stay
+   blind within AND across chapters (a tic cannot copy through
+   pages nobody reads); voice comes only from the fixed calibration
+   chapter (accepted prose cannot drift); per-chapter linters and
+   banned-moves apply per run; and one added check — a
+   **cross-batch repetition scan** (the wave's winners plus all
+   accepted chapters, grepped together for repeated sentence
+   templates, opening shapes, and crutch words) runs BEFORE the
+   author reads. Transitions are stitched in the seam pass after
+   ruling. The author reads a wave's winners in one sitting; a
+   register-shifting ruling invalidates at most one wave.
+   **Dialogue floor (author flag, 2026-08-18):** the shelf runs
+   30–40% dialogue; this voice is narration-forward on purpose, so
+   the working targets are a book average near 25%, a per-chapter
+   floor of 15%, at most one deliberate quiet chapter (~8–10%) per
+   quarter, and never two sub-floor chapters in a row. Briefs state
+   the target; the linter counts quoted words and reports the
+   percentage with every candidate.
 5. **Losers are kept, not deleted.** Runner-up candidates stay in
    `drafts/DATE/` unadopted — they are the graft bank for the
    winner's revision and the evidence base for register rulings.

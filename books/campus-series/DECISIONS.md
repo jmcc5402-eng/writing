@@ -103,3 +103,78 @@ docs and prose alike. Applied in 2.2: the staircase photos and
 tell-tale slides are de-anchored ("back when the motel sign was
 new," "a soldier and his girl who got two weeks"); the census's
 founding dates stand.
+
+## D06 — Marisol's timeline: the group came first, the town came second
+**Status: RULED (author, 2026-08-18, in chat; closes the sweep's
+residency block on ch 3).**
+
+The author spotted the hole ("how could she lead the huge parent
+group if she just moved there?") and ruled the fix: **she ran the
+group for years before she ever lived in Ashford.**
+
+- Her son has been at Ashford State for years (the walk-on; his
+  travel-squad hopes at ch 29 are a veteran's, not a freshman's).
+  Marisol joined the parents' group his freshman fall and ran it
+  long-distance — team mom with a laptop, two states over.
+- The divorce, about a year ago, shook everything loose; moving to
+  the town where her son and half her mornings already lived "just
+  made sense." Residency: ONE YEAR.
+- This August her daughter left for Bellamy (and her son went back
+  to campus) in the same week — the newly empty house of ch 1.
+- Consequence: ch 1's two uses of "a year" (the divorce, the
+  outsider feeling) and her residency are now the SAME year, by
+  decision, not coincidence. It also explains why she knows the
+  town without knowing its people — Cal included.
+
+Applied as one sentence in ch 3 (the queue scene). Recorded in
+ADULT-CAST-IDEAS 1.1.
+
+## D07 — The divorce moves back: two and a half years, not one
+**Status: RULED (author, 2026-08-18, in chat: "one year and into a
+romance is a little quick... working backwards from people's
+negative comments").**
+
+- The divorce is ≈ two and a half years behind her ("two years and
+  change" in any prose that needs a number; never exact).
+- D06 stands: the move to Ashford is still one year ago — she
+  stayed put through the tail of her daughter's schooling, then
+  came to the town her son and her group already lived in.
+- The settlement's buyout window (her PROPOSED clock) is TIED TO
+  THE EMPTY NEST: the decree gave her until the June after the
+  youngest left home to buy out his half or list. Daughter left in
+  August; the clock started; June is real. The wound is old, the
+  bill is new.
+- Reader-defense rationale, recorded: on this shelf, a heroine one
+  year out reads rebound; two-plus years out reads ready. "First
+  time since the divorce" beats get STRONGER at this distance —
+  the thaw is the romance's doing.
+
+## D08 — Side romances get screen time: the three channels
+**Status: RULED in principle (author, 2026-08-18, in chat: "I want
+to follow some of these other characters as their various romances
+start, stop, and happen... keep the fun/romance energy alive while
+we are building the bigger plot"). Implementation PROPOSED below;
+ratified by merging the PR that first uses it.**
+
+Standard 11 (dual alternating POV) stands for CHAPTERS; three
+channels carry the other romances:
+
+1. **Town-camera interludes.** The ch-1 montage voice returns
+   mid-book: 2–3 short roving vignettes per book (half a page,
+   between chapters), free to land on any couple — the tow at
+   parade speed, the margarita date, the Mule. The camera never
+   enters heads; it watches the town fall in love, which is the
+   series thesis anyway.
+2. **Wine night is the romance wire.** Other people's romances
+   arrive as performed gossip in scene — fun, fast, and Gilmore.
+3. **One earned side-POV scene per quarter of the book** — a side
+   or next-book lead gets a true scene at her arc's turn; capped at
+   one per quarter so the central couple stays the spine
+   (standard 24's tether rule governs).
+
+**PROPOSED with it: Kat, wine night's fourth chair** — Marisol's
+realtor, divorced and thriving, serially and gloriously dating (the
+current one makes her margaritas); the town's romance weathervane
+across all sixteen books, and the professional holding Marisol's
+June listing decision (D07's clock). Name and role await author
+strike-or-keep at the next PR.

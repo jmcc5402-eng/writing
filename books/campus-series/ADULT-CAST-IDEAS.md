@@ -114,7 +114,9 @@ candidates above are the natural fits, not commitments.
 stadium expansion, which would raze Hartwell House)
 
 **1.1 — Grumpy/sunshine.** *Marisol, 43, divorced,* admin of the
-12,000-member Ashford Parents & Families group — walk-on son at
+12,000-member Ashford Parents & Families group (D06: she ran it
+long-distance for years before moving to Ashford a year ago,
+post-divorce — the group came first, the town came second) — walk-on son at
 Ashford, daughter at Bellamy, both offstage — leading the
 save-the-House petition × *Cal Sutter, 47, widowed* ("Walt" retired by the register
 ruling), university facilities
