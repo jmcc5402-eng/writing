@@ -37,6 +37,7 @@ rows that touch it.**
 | T09 | **Ratchet's grading system** | ch 2 | Locks on the ch 2 winner |
 | T10 | **Cal steps *over* the third step** | ch 2 (proposed) | Setup for T03's payoff |
 | T11 | **Boyd never raises his voice** | ch 4 (proposed) | Villain rule candidate |
+| **T12** | **Leads-together ledger** — words the couple shares a scene for | ch 1 | **OWED to ch 5–8. See below.** |
 | S01 | Cordelia Hartwell's letters | 1.2 | Series-level; 1.1 owes nothing |
 | S03 | Tess Larkin × Everett Shaw | 1.4 | Correctly absent from 1.1 |
 
@@ -64,6 +65,36 @@ rows that touch it.**
    glove box; the ch 1 reader panel's promoted graft wants C's
    *toolbox* ending. **You cannot take both.** Ratify one before
    either is applied.
+
+### T12 — the leads-together ledger. Put this row in every ch 5–8 brief.
+
+Measured across the four accepted chapters (`notes/superfan-ch1-4-2026-08-20.md`):
+
+| | ch 1 | ch 2 | ch 3 | ch 4 |
+|---|---:|---:|---:|---:|
+| Marisol named | 19 | **0** | 10 | **0** |
+| Cal named | 3 | 15 | 3 | 26 |
+
+**Roughly 700 of 9,254 words have both leads in the scene, all of them
+in chapter one.**
+
+The ch 3 silence is a ruling and is not in question. What the retail
+read found is that it does not *read* as restraint: *"Restraint is a
+person who wants to speak and doesn't. Right now neither of them has a
+reason to want to, so the reader experiences the gap as absence rather
+than tension."*
+
+**`OWED:` ch 5 and ch 6 must put the leads in a room together** — the
+outline already seats them (ch 5, the House and the third step; ch 6,
+two hours at table nine). This row exists so the ch 5–8 briefs carry
+it, because the T06 failure taught us that a condition stated only in
+this ledger is a condition no drafter ever sees.
+
+**Second `OWED:`, cheaper and nearly as valuable — give Marisol a
+reason to want the room.** Ch 4 tells *Cal* his pen is aimed at the
+town's porch and tells her nothing, so the reader is waiting for the
+author to arrange a collision rather than counting down to one.
+Anticipation needs an appointment.
 
 ### T03 — the third step
 
