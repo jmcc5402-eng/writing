@@ -69,6 +69,39 @@ So the lane is validated by TV and one-offs, and open at series scale.
   *aboard*. Unlicensed, we adapt the situation, never the expression or
   the endorsement.
 
+## Variant (2026-08-19, same day): the POV flip — "her side of the song"
+
+Author's second pass: don't retell the song from the singer's side —
+write it from the OTHER person's perspective. The girl the narrator of
+"Unanswered Prayers" runs into at the football game: what if SHE wanted
+to get back together?
+
+**The killer validation, found immediately:** country music already did
+this to itself. Reba McEntire's "And Still" (1995, #2 country) is the
+same encounter as "Unanswered Prayers" (1991, #1 country) told from her
+side — she runs into the old flame, he's married, she walks away still
+in love. Two megahits, one scene, opposite ledgers. The series concept
+is sitting in plain sight in the catalog.
+
+This also plugs into two proven traditions:
+
+- **Country's answer-song tradition** — the genre has answered itself
+  since Kitty Wells' "It Wasn't God Who Made Honky Tonk Angels" (1952)
+  replied to Hank Thompson's "The Wild Side of Life." The series brand
+  isn't fan fiction; it's *answer songs in book form*.
+- **POV-flip retellings sell books at scale** — Wicked, Wide Sargasso
+  Sea, Longbourn, the entire villain-retelling economy. "The story you
+  know, from the person you never heard from" is one of publishing's
+  most reliable engines.
+
+Bonus: the POV flip is even cleaner legally — the book's protagonist,
+events, and interiority are almost entirely ours, since the song never
+gave that character a voice at all.
+
+[TK: does the flip apply series-wide (every book = the unheard party)
+or per-book choice? Series-wide is the stronger brand: "Every song has
+two people in it. These are the ones who didn't get the microphone."]
+
 ## Series-glue candidates (the "theme to tie it together")
 
 The author asked for a unifying theme. Candidates to evaluate later:
