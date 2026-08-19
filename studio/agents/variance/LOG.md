@@ -144,3 +144,4 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-19 | romance-reader-panel (campus ch7 blind judging, A/B/C + calling-card debut) | — (no card; panel deck TK) | notes/ (filed by orchestrator) |
 | 2026-08-19 | romance-reader-panel (campus ch8 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ (filed by orchestrator) |
 | 2026-08-19 | continuity-keeper (campus wave 2 cross-batch sweep, 12 candidates) | E1 repetition hunt (first E1 draw for this agent) | notes/ (filed by orchestrator) |
+| 2026-08-19 | superfan-reviewer (campus ch1-8, first production run, via charter) | C1 pacing above all | notes/wave2-superfan-2026-08-19.md |
