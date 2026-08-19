@@ -34,7 +34,7 @@ Small, planned variety so repeated runs don't converge on the same moves.
 | D6 | Let one scene run a beat past comfortable before cutting |
 | D7 | Open every scene mid-motion; no arrivals, no waking up |
 
-## Critic deck — `junior-literary-critic`, `red-team-critic`, `kid-reader-panel`
+## Critic deck — `junior-literary-critic`, `red-team-critic`, `kid-reader-panel`, `superfan-reviewer`
 
 | ID | Card |
 |---|---|

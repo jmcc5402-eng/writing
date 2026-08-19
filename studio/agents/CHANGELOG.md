@@ -3,6 +3,19 @@
 Newest first. Every entry: version, what changed, and the evidence that
 drove it.
 
+## 2026-08-19 — superfan-reviewer 1.0.0 (new): the review section, predicted
+
+Author request (chat, 2026-08-19, campus thread): "the annoying fan
+who is obsessed with the comments in Amazon... the
+anti-professional-critic who represents the common folk reader."
+Gap confirmed against the roster: romance-reader-panel measures the
+experience DURING the read; nothing predicted the public conversation
+AFTER it — star math, pet-peeve triggers, promise-vs-page mismatches,
+the "I wanted to love this" three-star. New agent owns that remit,
+runs after panels / before author acceptance, and doubles as the
+enforcement instrument for the metadata bright line (R9). Added to
+the critic variance deck.
+
 ## 2026-08-13 — romance-reader-panel 1.0.0 (new): the audience gate the adult books never had
 
 Author ruling (`books/campus-series/notes/author-register-note-2026-08-13.md`,
