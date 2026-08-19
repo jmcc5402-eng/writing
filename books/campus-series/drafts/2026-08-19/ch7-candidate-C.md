@@ -369,12 +369,11 @@ Marisol had stopped breathing entirely.
 Birdie gave them one more dragonfly.
 And then, at last, leaning in,
 "and she swears his shirt came off over his head
-and hit those dock boards,
-and the second it landed she—"
-
-The truck horn went off at the curb.
-One long blast, self-inflicted, into the night,
+and hit those dock boards, and the second it landed she—"
+and the truck horn went off at the curb,
+one long blast, self-inflicted, into the night,
 Birdie's flower truck announcing nothing to no one.
+
 The porch came apart.
 Aisha put both hands over her heart
 like she'd taken the bullet personally.
