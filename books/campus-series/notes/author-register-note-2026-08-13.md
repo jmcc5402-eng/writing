@@ -110,3 +110,90 @@ specifics). And Marisol is written SEXY: confident, quick, a woman
 who knows the room watches her and enjoys it — wine night is hers,
 the banter bites back, wanting is on the page. Desirable first,
 den-mother never.
+
+## The manly calibration (author, 2026-08-18)
+
+> "Let's describe Cal a bit more manly — like 'he turns on the
+> boiler, his two strong arms easily flipping the switch.'"
+
+Applied as: Cal's strength gets ON the page, shown through work in
+every chapter he carries — stuck things broken loose one-handed,
+heavy things carried easily, effort that looks like none. The
+delicacy beats stay (two fingers on a supply line; a plane on a
+step), because the range is the swoon: a strong man being careful.
+Never gym-coded, never posed, never described at rest — always
+strength caught in the act of being useful.
+Corollary (author comment, 2026-08-18, on ch 4): men do not
+compliment other men's looks ("guys don't mention each other's
+hair"). Admiration between men lands on work, dogs, trucks, and
+competence, never appearance; appearance-noticing belongs to the
+women and the narration.
+
+## The appeal directive (author, 2026-08-19)
+
+> "I still want a bit more sex appeal for Cal. We've given him the
+> manly/construction vibe but we need a few lines about his looks,
+> or his strength, or his great smile, or all the above. Our
+> approach is too mysterious."
+
+Applied as: mystery is not the strategy — the reader gets TOLD he
+is attractive, on the page, in plain lines. Every chapter Cal
+appears in carries at least one explicit appeal beat: his looks,
+his strength, or the smile (rationed, and devastating when spent).
+In Marisol-POV chapters the appeal lands through her gaze and the
+town's (the Shed Thread's older mothers approve); in Cal's own POV
+it lands through physicality others react to. The describe-once
+rule governs only the canonical portrait (hair, ch 1) — appeal
+lines are not description debt and recur freely.
+
+## The fun problem (author, 2026-08-18, on reading wave 1)
+
+> "The book isn't any fun. It's sleepy descriptions of flowers with
+> Marisol; for the Cal chapters it's descriptions of machinery and
+> motor sounds. I can feel the plot starting to pick up with the
+> Boyd part, but I fear this is way too slow for a romance."
+
+Applied as: description density comes DOWN roughly a third and
+banter, events, and wanting take the space. Atmosphere never gets a
+full paragraph to itself; it rides inside scenes where someone wants
+something. The dialogue floor (protocol) enforces the mechanical
+half; this ruling governs the rest. Romantic tension appears on
+every page even in apart-chapters, and it reads FUN, not literary.
+
+## The stranger rule reaches prose (author, 2026-08-18)
+
+> "The writing almost assumes the reader knows the details already.
+> When Boyd is talking to Cal about the house, we never describe
+> what he's trying to build. Are they building a lawn??"
+
+Rule 9 extended from PR bodies to the page: any plot-load object
+gets one concrete, picturable sentence on first appearance. The
+expansion is now described in ch 4 (Boyd's own mouth: three decks
+at the north end, a glass club level, a boosters' tower, and a
+postcard lawn running from the gates down Millrow — the rendering's
+lawn is the Gateway's front door, and the House stands in it).
+Drafting briefs must list each plot object with its one-line
+concrete picture; drafters may not gesture at what they can show.
+
+## The rootability directive (author, 2026-08-18)
+
+> "I want to do more in ch1 to make us really like Marisol. As I
+> read the next chapters I don't know enough about her. I need to
+> root for her. More description about the good things she does
+> with the chat group, about how people thanking her for things,
+> how people compliment her looks but she politely disregards
+> them. We need to describe her a bit more (in a way that a 40
+> year old reader will like)."
+
+Applied as: chapter 1 amended (the warmth pass) — a fuller
+portrait on her first appearance (43, sundress with pockets,
+freckled shoulders, a woman deciding things in her own favor); the
+group's good works shown as small completed kindnesses (the
+retainer reunion, the midnight towing number); on-page gratitude
+by name; and the deflected-compliment beat ("It has pockets") —
+she is admired and never fishes. Standing register rule for every
+Marisol chapter: at least one unglamorous good deed done well, and
+compliments received land on her like weather, acknowledged and
+redirected. The portrait register is aspirational-relatable for a
+40-year-old reader: her age is an asset on the page, never a
+punchline and never invisible.

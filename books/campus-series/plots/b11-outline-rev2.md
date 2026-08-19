@@ -177,8 +177,10 @@ Essence: a leader who values true over winning and people over the
 win. The climax is unwinnable from inside the identity: the fixer
 would keep the mic; only essence yields her time. **Clock (PROPOSED
 2.2, restored from premise v2's principle — ratified by merging this
-revision):** the settlement calendar — buy out his half of the house
-by June or list it. Staying in Ashford is now a purchase, not a
+revision; trigger per D07):** the settlement calendar — the decree
+gave her until the June after the youngest left home to buy out his
+half of the house or list it; the daughter left in August, so the
+window is finally, suddenly live. Staying in Ashford is now a purchase, not a
 default; every windows-down Saturday is quietly weighed against a
 circled date on the fridge. Surfaces as an artifact at ch 7; priced,
 never dwelt on (Gilmore calibration holds).
@@ -656,7 +658,7 @@ romance by Friday — which is at least half true.
 
 ### Ch 26 — Wind in the Upper Deck (Cal)
 Boyd summons Cal to the empty stadium — wind in the girders,
-seventy thousand seats of nobody — and offers him his grief back as
+ninety thousand seats of nobody — and offers him his grief back as
 a decorating option: a bronze plaque with his wife's name,
 prominent, in the new plaza; the fund doubled; sign by Friday. Cal
 refuses on his feet, flat and final, and the price goes up before

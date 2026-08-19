@@ -107,5 +107,21 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-16 | continuity-keeper (campus canon sweep vs the frozen outline) | E3 reverse order (E5 was LRU but is dialogue-mechanics, inapplicable to a canon sweep with no dialogue in scope — deviation logged) | notes/ (filed by orchestrator) |
 | 2026-08-16 | showrunner (nightly shift, in-session) | — | this shift |
 | 2026-08-16 | orchestrator (campus 1.1 rev 2.2 — PR #70 repair pass, rulings D02–D05) | — (revision integrating ruled inputs) | plots/b11-outline-rev2.md + story read + canon docs |
+| 2026-08-16 | drafting-assistant (campus ch2 blind competition, run A) | D1 sound-forward | books/campus-series/drafts/2026-08-16/ch2-candidate-A.md |
+| 2026-08-16 | drafting-assistant (campus ch2 blind competition, run B) | D3 short-declarative | books/campus-series/drafts/2026-08-16/ch2-candidate-B.md |
+| 2026-08-16 | drafting-assistant (campus ch2 blind competition, run C) | D4 minor-character competence | books/campus-series/drafts/2026-08-16/ch2-candidate-C.md |
+| 2026-08-16 | drafting-assistant (campus ch3 blind competition, run A) | D5 weather as texture | books/campus-series/drafts/2026-08-16/ch3-candidate-A.md |
+| 2026-08-16 | drafting-assistant (campus ch3 blind competition, run B) | D6 run a beat past comfortable | books/campus-series/drafts/2026-08-16/ch3-candidate-B.md |
+| 2026-08-16 | drafting-assistant (campus ch3 blind competition, run C) | D2 hands and objects | books/campus-series/drafts/2026-08-16/ch3-candidate-C.md |
+| 2026-08-16 | drafting-assistant (campus ch4 blind competition, run A) | D7 open mid-motion | books/campus-series/drafts/2026-08-16/ch4-candidate-A.md |
+| 2026-08-16 | drafting-assistant (campus ch4 blind competition, run B) | D1 sound-forward (deck wrapped, 2nd draw this wave) | books/campus-series/drafts/2026-08-16/ch4-candidate-B.md |
+| 2026-08-16 | drafting-assistant (campus ch4 blind competition, run C) | D3 short-declarative (deck wrapped, 2nd draw this wave) | books/campus-series/drafts/2026-08-16/ch4-candidate-C.md |
+| 2026-08-17 | romance-reader-panel (campus ch3 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ch3-competition-panel-2026-08-17.md |
+| 2026-08-17 | romance-reader-panel (campus ch2 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ch2-competition-panel-2026-08-17.md |
+| 2026-08-17 | romance-reader-panel (campus ch4 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ch4-competition-panel-2026-08-17.md |
 | 2026-08-18 | continuity-keeper (campus ch2-4 candidates, inherited-error sweep) | E6 weight what's missing | notes/ (filed by orchestrator) |
 | 2026-08-18 | showrunner (nightly shift, in-session) | — | this shift |
+| 2026-08-18 | drafting-assistant (campus ch3 RERUN, author rejection, run A) | D4 minor-character competence | books/campus-series/drafts/2026-08-18/ch3-candidate-A.md |
+| 2026-08-18 | drafting-assistant (campus ch3 RERUN, author rejection, run B) | D1 sound-forward | books/campus-series/drafts/2026-08-18/ch3-candidate-B.md |
+| 2026-08-18 | drafting-assistant (campus ch3 RERUN, author rejection, run C) | D7 open mid-motion | books/campus-series/drafts/2026-08-18/ch3-candidate-C.md |
+| 2026-08-18 | romance-reader-panel (campus ch3 RERUN judging, A/B/C) | — (no card; panel deck TK) | notes/ch3-rerun-panel-2026-08-18.md |

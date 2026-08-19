@@ -20,6 +20,10 @@ appearance is a continuity error, not a choice._
 - **Tells & habits:** <the observable behaviors that distinguish them —
   leads must be tellable apart by behavior and props, never by
   narration saying so>
+- **At their best:** <the ch1 highlight-reel beats — the competence,
+  generosity, and admiration the entrance shows on the page; the
+  ending must later clear this bar. See studio/STYLE.md,
+  "Introduce them at their best.">
 - **Function in the stories:**
 
 ## <Lead 2> …
