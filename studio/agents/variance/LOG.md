@@ -127,3 +127,5 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-18 | drafting-assistant (campus ch3 RERUN, author rejection, run B) | D1 sound-forward | books/campus-series/drafts/2026-08-18/ch3-candidate-B.md |
 | 2026-08-18 | drafting-assistant (campus ch3 RERUN, author rejection, run C) | D7 open mid-motion | books/campus-series/drafts/2026-08-18/ch3-candidate-C.md |
 | 2026-08-18 | romance-reader-panel (campus ch3 RERUN judging, A/B/C) | — (no card; panel deck TK) | notes/ch3-rerun-panel-2026-08-18.md |
+| 2026-08-20 | superfan-reviewer (campus ch1-4 accepted — first production run, invoked via charter) | C3 dialogue-only first pass | notes/ (filed by orchestrator) |
+| 2026-08-20 | showrunner (nightly shift, in-session) | — | this shift |
