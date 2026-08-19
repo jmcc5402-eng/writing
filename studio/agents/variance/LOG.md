@@ -139,3 +139,8 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-19 | drafting-assistant (campus ch8 blind, run A) | D2 hands and objects (deck wrapped, 2nd draw this wave) | drafts/2026-08-19/ch8-candidate-A.md |
 | 2026-08-19 | drafting-assistant (campus ch8 blind, run B) | D3 short-declarative (deck wrapped, 2nd draw this wave) | drafts/2026-08-19/ch8-candidate-B.md |
 | 2026-08-19 | drafting-assistant (campus ch8 blind, run C) | D4 minor-character competence (deck wrapped, 2nd draw this wave) | drafts/2026-08-19/ch8-candidate-C.md |
+| 2026-08-19 | romance-reader-panel (campus ch5 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ (filed by orchestrator) |
+| 2026-08-19 | romance-reader-panel (campus ch6 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ (filed by orchestrator) |
+| 2026-08-19 | romance-reader-panel (campus ch7 blind judging, A/B/C + calling-card debut) | — (no card; panel deck TK) | notes/ (filed by orchestrator) |
+| 2026-08-19 | romance-reader-panel (campus ch8 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ (filed by orchestrator) |
+| 2026-08-19 | continuity-keeper (campus wave 2 cross-batch sweep, 12 candidates) | E1 repetition hunt (first E1 draw for this agent) | notes/ (filed by orchestrator) |
