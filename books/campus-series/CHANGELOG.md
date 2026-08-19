@@ -3,6 +3,19 @@
 Tracks edits to manuscripts and adopted drafts (house rule 6), so the
 author can see what changed and why. Newest first.
 
+## 2026-08-19 — Cal appeal pass (the appeal directive)
+
+- Author: more sex appeal for Cal — looks, strength, smile; "our
+  approach is too mysterious." Five beats added: ch 1 gains the
+  chest line at her first look, the good-mouth line at the
+  almost-smile, and one full smile spent at his exit ("like a
+  door opening on a lit room and closing again"); ch 3's crossing
+  gains the graduated-mothers thumbs and her appraisal of the polo
+  and forearms; ch 4's handshake now answers Boyd's donor-wall
+  grip with the one Cal uses on frozen bolts, geared down to
+  courteous. Standing rule recorded in the register note: at least
+  one explicit appeal beat in every chapter Cal appears in.
+
 ## 2026-08-18 — Reading-page comment fixes (ch 3 and 4)
 
 - Four author comments on the reading page actioned: ch 3's

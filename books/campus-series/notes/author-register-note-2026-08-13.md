@@ -129,6 +129,23 @@ hair"). Admiration between men lands on work, dogs, trucks, and
 competence, never appearance; appearance-noticing belongs to the
 women and the narration.
 
+## The appeal directive (author, 2026-08-19)
+
+> "I still want a bit more sex appeal for Cal. We've given him the
+> manly/construction vibe but we need a few lines about his looks,
+> or his strength, or his great smile, or all the above. Our
+> approach is too mysterious."
+
+Applied as: mystery is not the strategy — the reader gets TOLD he
+is attractive, on the page, in plain lines. Every chapter Cal
+appears in carries at least one explicit appeal beat: his looks,
+his strength, or the smile (rationed, and devastating when spent).
+In Marisol-POV chapters the appeal lands through her gaze and the
+town's (the Shed Thread's older mothers approve); in Cal's own POV
+it lands through physicality others react to. The describe-once
+rule governs only the canonical portrait (hair, ch 1) — appeal
+lines are not description debt and recur freely.
+
 ## The fun problem (author, 2026-08-18, on reading wave 1)
 
 > "The book isn't any fun. It's sleepy descriptions of flowers with
