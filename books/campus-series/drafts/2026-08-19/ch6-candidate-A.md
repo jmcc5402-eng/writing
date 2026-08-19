@@ -69,6 +69,13 @@ to find the whole table watching.
 
 "Well," Earlene said. "Table nine wins."
 
+"He does this everywhere," Marisol told the table.
+"He fixed my tent in August. Uninvited."
+
+"Invited by the tent," Cal said, and sat down,
+which put the dress at his left elbow for the duration.
+He made a private note to look at the lectern a lot.
+
 Dinner came out in waves, and the table went to work on it.
 Sonny asked Verna if she had any rooms left for parents' weekend.
 
@@ -86,6 +93,10 @@ It's coffee that's been somewhere. Verna, you want one?"
 
 "I want to watch you have one," Verna said.
 
+"It's got coffee in it," Earlene said. "It's practical."
+
+"So's a mule," Verna said. "I don't ride those at night either."
+
 Marisol ran the table without appearing to run anything.
 Verna's tea got sweet somewhere between courses.
 Sonny got asked one question about the new tanker truck
@@ -101,6 +112,15 @@ He filed them under problems.
 Her laugh started low and climbed.
 He heard it four times before the speeches
 and knew the count, which was also a problem.
+For cover he read the front of the program twice.
+Order of speakers. Menu. A word of welcome in serif type.
+He never got as far as the back page.
+
+Around them the room ran on town time.
+Odell Fountain worked the aisle between tables,
+shaking hands he'd barbered over for forty years.
+Birdie Pham stood in the service doorway in her good shirt,
+counting her zinnias jar by jar, satisfied with every one.
 
 "Delmar's has a clipboard by the register now," Earlene reported,
 in the tone she used for fronts moving in.
@@ -180,6 +200,8 @@ started on a Saturday in this town."
 
 He talked for six minutes and never raised his voice.
 He thanked mothers by their first names.
+"You can buy most things," Boyd said. "I've checked.
+You cannot buy a hometown."
 He got Verna to dab one eye, which Cal would not have bet on.
 Then he opened one hand toward the town outside the walls.
 
@@ -203,9 +225,9 @@ He looked north-northwest at nothing, then made himself stop.
 
 The printed programs lay by every plate, Boyd's name in serif
 on the front. The back page carried the fine print.
-Sponsors, committees, and near the bottom, "digital engagement:
-[TK: sock-vendor name] Media LLC," whose welcome line read
-"ya'll come."
+Sponsors, committees, and near the bottom,
+"digital engagement: [TK: sock-vendor name] Media LLC,"
+whose welcome line read "ya'll come."
 Nobody at table nine turned the program over.
 Nobody in the ballroom did.
 
