@@ -169,6 +169,16 @@ and parallelizes everything else.
    quarter, and never two sub-floor chapters in a row. Briefs state
    the target; the linter counts quoted words and reports the
    percentage with every candidate.
+   **Notice budget (amended per the author's 2026-08-20 note —
+   "we're not humanizing these characters enough — there's not the
+   little characteristics of them that people really remember"):**
+   at least 2 physical-notice beats per chapter, **of which at most
+   one may be hands/competence — the other must be face, mouth,
+   hair, or body-in-clothes; cap 4 per chapter.** A budget satisfied
+   entirely with hands passes the count and fails the gate: the
+   campus ch 5–8 audit found four chapters of forearms and thumbs
+   with no face on the page, because every gate was satisfiable
+   with hands. Composition, not count, is what the gate checks.
 5. **Losers are kept, not deleted.** Runner-up candidates stay in
    `drafts/DATE/` unadopted — they are the graft bank for the
    winner's revision and the evidence base for register rulings.
