@@ -147,3 +147,6 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-19 | superfan-reviewer (campus ch1-8, first production run, via charter) | C1 pacing above all | notes/wave2-superfan-2026-08-19.md |
 | 2026-08-20 | superfan-reviewer (campus ch1-4 accepted — first production run, invoked via charter) | C3 dialogue-only first pass | notes/ (filed by orchestrator) |
 | 2026-08-20 | showrunner (nightly shift, in-session) | — | this shift |
+| 2026-08-20 | drafting-assistant (campus ch5-8 quirk graft package, PR #85 option A) | D1 sound-forward | manuscript ch05-08 in place |
+| 2026-08-20 | continuity-keeper (campus ch5-8 adoption fold) | E4 transitions/hands-forward (E1 was LRU but sentence-template hunting is inapplicable to a ledger fold — deviation logged) | THREADS + CHANGELOG blocks |
+| 2026-08-20 | showrunner (night kickoff, in-session, author-directed) | — | this shift |
