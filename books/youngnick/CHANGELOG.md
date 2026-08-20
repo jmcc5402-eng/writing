@@ -3,6 +3,27 @@
 Tracks edits to the manuscript and adopted drafts, so the author can
 always see what changed and why (workspace rule 6).
 
+## 2026-08-20 — ch5 fold: THREADS.md updated row-level
+
+Completes the ch5 adoption's paper trail (workspace rule: thread
+maps update when a chapter is ACCEPTED; the 2026-08-13 header note
+was provisional, "pending the next full row-level fold"). THREADS.md:
+full ledger entry for v2 ch5 (Grins; evening, days after Day 0);
+index rows T01/T02/T10/T13/T14/T15/T21/T27/T28 updated; new thread
+T29 (the Grin father: the counting-house inheritance); trunk ch6
+marked SUPERSEDED by v2 ch5; T14's "trait with no scene" [TK]
+retired; T28's Thursday-clock OWED advanced. Backwards sweep
+ch5→ch4→ch3→ch2→ch1 (variance card E3) against the bible: zero
+contradictions in the adopted text; ch4's townsman line confirmed on
+the page as the worn variant of Donald's authored line (§13, ratified
+at adoption). Markers carried, not resolved: inline [TK: Thursday
+mechanics] (v2 l.1333–1336); bible-side [TK: the Grace-call design]
+and [TK: report-to-Juno mechanics] (§13); [TK: "Gerred" — the Grin
+father unnamed in v2]. Bookkeeping: THREADS' ch4 line citations have
+drifted ~2–3 lines against the current file (e.g., "The boat came
+Thursday." cited v2 l.1181–1182, now at v2 l.1184) — flagged, not
+fixed. No manuscript text touched.
+
 ## 2026-08-13 — ch5 ADOPTED: blind-competition winner, as-is
 
 First chapter through the conveyor protocol (studio PR #37). Three

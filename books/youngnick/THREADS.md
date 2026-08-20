@@ -38,7 +38,9 @@ as his own), T27 (hope as currency: "only the hope never needed
 weighing"); PLANTS T14 (James's chatter as leak risk; his
 tenth-hour seam-finding). The push's Thursday motive is on the page
 as pressure (retro-pays ch1's timing; pays in full at the cove).
-One [TK] carried: the Thursday paper mechanics.*
+One [TK] carried: the Thursday paper mechanics. (Row-level fold
+completed 2026-08-20 — the ch5 ledger entry below is now the record;
+index rows T01/T02/T10/T13/T14/T15/T21/T27/T28 updated, T29 born.)*
 
 *The trunk manuscript stops mid-word ("entered the cloud. Cha",
 l.2392) and Chapter 24 is an empty heading. This map is of an
@@ -201,10 +203,100 @@ thread (Section 3).
   yet amended as of this fold — gate N11's amendment is owed
   bible-side, not here].
 
+### Chapter 5 — The Counting House (Grins; evening, days after
+Day 0, the news gone round) — ADOPTED (v2, PR #38)
+- INTRODUCES: Donald and James in adopted prose — the counting
+  house: one room, one lamp, a cold walk out from where the
+  brothers sleep; metal on the left, paper on the right; gold into
+  figures ("Figures sat quiet in a book all winter and guarded
+  themselves," v2 l.1195–1218, §13 canon); Donald's register —
+  feelings scheduled, not felt: "It was not a thing to feel. It was
+  a thing to schedule." (v2 l.1345; author-ruled register benchmark
+  for ch6+ Grins-POV briefs); the AUTHORED GRIEF LINE — built with
+  care the first evening, worn smooth as a scale-weight by the
+  tenth telling, the cost waited for out of curiosity and never
+  arriving (T21, v2 l.1281–1293, §13 canon); James's honest hands —
+  the best sacker the town would never guess, "It was the rest of
+  him that talked" (T14, v2 l.1220–1228); the freight paragraph —
+  "a man who carried talk in one direction could carry it in the
+  other without ever meaning to" (T14 plant, v2 l.1261–1269); THE
+  THURSDAY PROBLEM — the sample report due out on the Thursday
+  boat, the push's timing given its reason, books that must "agree
+  with a dead man... fresh every boat day" (T02, v2 l.1324–1343;
+  retro-pays ch1's timing; pays in full at the cove per the brief;
+  [TK: the Thursday mechanics] carried inline, v2 l.1333–1336);
+  "Who climbs for us, come the next sample?" — James's tenth-hour
+  seam-finding (T14, v2 l.1347–1359); the GRIN FATHER in prose —
+  the father's desk, almost fifteen years of the brothers counting
+  and boyhoods watching him count, "Keep the cabin in good repair,"
+  "a word was a wage, and their father paid no wage he could keep"
+  (T29 born, v2 l.1373–1393, §13 canon); the office-steps memory —
+  Nick's father at the shift's center, the boy's name called by the
+  whole line, "Nobody ever once called up the hill to the office
+  steps"; "They were owed," believed at ten, James's cold hand in
+  his (T13/T29, v2 l.1395–1411, §13 canon); the GRACE WIRE — "I'll
+  call on Grace tomorrow" / "A town likes to see grief kept
+  company," the design withheld ("so did the part of him that had
+  more to say on the subject") (T10/T13 plant, v2 l.1413–1419;
+  [TK: the design's exact shape] bible-side, §13).
+- CARRIES: T01 — the swindle machine, the count on the page: pan to
+  scale to book to sack (v2 l.1189–1224, l.1448–1451), the payout
+  "riding safe" in the town's imagined stove-talk (v2 l.1454–1456,
+  echoing ch4 v2 l.1049–1063).
+- ADVANCES: T02 — New York aloud (the flyer, given every word its
+  full wage, v2 l.1237–1253); Duff's relayed word: "Under two
+  weeks. Once the cargo's in place, we're on our way." (v2
+  l.1424–1425); "He ran the two clocks against each other once,
+  cleanly" (v2 l.1429–1431) — the loose escape clock now has the
+  Thursday boat as its page-side counter-clock. T21 — the
+  manufactured grief in adopted prose: a stove man handing Donald's
+  line back "and thought it was his own" (v2 l.1292–1293); James
+  and Donald trading the town's worn form, "Lost his footing... /
+  It's the country." (v2 l.1295–1298, = ch4's townsman, v2
+  l.1093–1094); the kill-check restated Grins-side: "Nobody had
+  gone down after a body; there had been no way down to go" and
+  "water like that settled its own accounts" (v2 l.1300–1304,
+  agreeing with ch2's "There was no way down to start," v2 l.391).
+  T13 — greedy becomes wounded: contempt as blindness ("nothing in
+  the work a mule couldn't do if a mule could hold a trowel"; "the
+  boy got the shine off the old coin," v2 l.1305–1311); "the
+  difference was that now he kept the books" (v2 l.1411); "not one
+  thing in the town he would cross a street to see twice" (v2
+  l.1437–1443). T27 — hope as currency in the villain's mouth:
+  "of the two, only the hope never needed weighing" (v2
+  l.1463–1467; supersedes trunk ch6 l.544–545).
+- PAYS OFF: ch1's James tell, retro-charged from the other side —
+  "The laugh was back. It had gone missing for one day, up the
+  mountain, and Donald had not missed it." (v2 l.1255–1257; plant
+  v2 l.203–206).
+- HANDS FWD: a Thursday boat that "was still coming, and something
+  still had to be on it" (v2 l.1330–1331) → the next Grins chapter;
+  "Who climbs for us, come the next sample?" → open, unanswered
+  pressure; Donald's call on Grace TOMORROW → a dated promise the
+  next chapter must honor or break on purpose (cousin to T28's
+  birthday-Thursday promise); Duff's "cargo" → the dock/boat
+  material (trunk ch15) [TK: what the cargo is — coal decoys are
+  the trunk's answer, not yet v2 canon].
+- SERIES: —
+- NOTE: blind-competition winner (candidate B, card D4), adopted
+  AS-IS, ZERO STRIKES (author ruling 2026-08-13; judging
+  `notes/ch5-competition-judging-2026-08-11.md`; PR #38). The
+  judge's graft list NOT applied — A and C remain the graft bank in
+  `drafts/2026-08-11/`. §7.3 honored: trunk ch6's "Nick Johnson"
+  cover line (trunk l.536–539) is superseded surname-free (v2
+  l.1281). The Book-1 body-silence ruling (§7, 2026-08-11) governs
+  the FATHER'S body and is not touched — ch5's "gone down after a
+  body" (v2 l.1300) is Nick's. No belt, no "Santa"/"Christmas,"
+  no skim/scope/dry-mine leak (guards held). Judging Finding 4
+  (Donald's built line vs ch4's worn variant) is author-accepted
+  as-is; §13 ratifies the worn-variant reading.
+
 *(Chapters 5–24 below are the LEGACY TRUNK ledger —
 `nick-manuscript-22.md`, mined for the rewrite but no longer edited.
 Trunk ch5's content is adopted as v2 ch3; trunk ch3–4 are merged
-into v2 ch4. Their entries are retained for trunk line refs.)*
+into v2 ch4. Trunk ch6 (the counting house) is SUPERSEDED by v2 ch5,
+adopted 2026-08-13; its entry is retained for trunk line refs only.
+Their entries are retained for trunk line refs.)*
 
 ### Chapter 5 — the cave night and the glow (Nick; night of Day 0)
 - INTRODUCES: the cave (l.389–414); the red glow (l.434–462, T25);
@@ -532,6 +624,9 @@ Arc notation: born → touched → pays / OWED.
   ch13 (padded totals, fake pitch) → ch14 (the $34.42 letter) → ch20
   (printing press, empty accounts) → pays ch22 (restitution
   narrated). The machine itself is the draft's best-built structure.
+  V2 ch5 (ADOPTED, fold 2026-08-20) puts the count itself in
+  adopted prose and supersedes trunk ch6 as the counting scene
+  (v2 l.1189–1224, l.1448–1456).
   OWED: the Grins face no consequence on the page (arrest exists
   only in the ch20 pasted outline); the fate of the annuity fiction
   vs the Juno Bank is never settled; Tim Jones (bible §4) never
@@ -544,7 +639,16 @@ Arc notation: born → touched → pays / OWED.
   the book's best turn). PLANT SIDE REPAIRED (fold, 2026-08-08):
   v2 ch1 (ADOPTED) gives the reader the fragments themselves —
   San Francisco, New York, the bank, three more weeks, "if just one
-  person finds out" (v2 l.161–169). OWED: the escape itself — the
+  person finds out" (v2 l.161–169).
+  GRINS SIDE NOW ADOPTED (fold 2026-08-20): v2 ch5 restates the
+  dream and the clock in adopted prose — the flyer aloud, Duff's
+  "under two weeks... once the cargo's in place" (v2 l.1424–1425)
+  — and adds the Thursday-report pressure the trunk never had:
+  books that must "agree with a dead man" fresh every boat day
+  (v2 l.1338–1343), the two clocks run against each other once
+  (v2 l.1429–1431). [CHECK: §7.5's ticking clock is still
+  PROPOSED — ch5's two clocks are its standing candidates.]
+  OWED: the escape itself — the
   Grins never actually leave, fight, or fail on the page; the boat
   is last seen moored (ch19); §7.5's ticking clock was never
   installed. [CHECK: the trunk ch16 replay quotes sentences the old
@@ -635,7 +739,13 @@ Arc notation: born → touched → pays / OWED.
   sack; "the man she married," v2 l.1124–1152) → ch9 trunk (her
   grief and shame) → ch15 (the triangle, flashback only) → ch21
   (the catch — no words) → ch22 ("Maybe it was a dream") → ch23
-  (the trunk's balk recall: "Maybe he chickened out"). ENDING SHAPE
+  (the trunk's balk recall: "Maybe he chickened out") → v2 ch5
+  (ADOPTED — Donald's wire opens at last: "I'll call on Grace
+  tomorrow" / "A town likes to see grief kept company," v2
+  l.1413–1419; courtship-vs-coercion deliberately unreadable, the
+  design in a withheld clause). OWED shrinks by one clause:
+  Donald's design on Grace is now on the page as intent; the
+  coercion itself is still unwritten. ENDING SHAPE
   RULED (§7.9b, PR #17): the VANISH — the town never learns; Grace
   alone comes to hold the whole truth; the confession and the belt
   return happen away from town eyes, before the warp. OWED, still
@@ -674,7 +784,15 @@ Arc notation: born → touched → pays / OWED.
   Nick, never courts Grace on the page (bible §3 says both); his
   death is unconfirmed ("swept away by the current," l.2181–2182)
   and the town's belief that he escaped with the money exists only
-  in the ch20 pasted outline. A villain the ending still owes a
+  in the ch20 pasted outline.
+  V2 ch5 (ADOPTED, fold 2026-08-20) is the arc's missing floor:
+  greedy becomes wounded — the office-steps memory and "they were
+  owed" at ten (v2 l.1395–1411); contempt as blindness (v2
+  l.1305–1311); the grief line authored, tenth-telling smooth,
+  costless (v2 l.1281–1293); the Grace call announced (v2 l.1413).
+  Ch5 is the Donald-register benchmark (author ruling 2026-08-13).
+  Still missing on any page: he never needles NICK (bible §3).
+  A villain the ending still owes a
   fate — and the fate now rides the §7.9c climax-variant decision:
   PR #27, OPEN as of the 2026-08-08 fold (the judging note's
   Grin-survives build is PROPOSED, not canon).
@@ -684,8 +802,14 @@ Arc notation: born → touched → pays / OWED.
   ch17 (the miscount), ch19 (gaping at the empty dock). OWED: his
   fate is never resolved in prose; capture-by-townsmen and the
   flying-sleigh babble exist only in the ch20 pasted outline. He is
-  also the leak-prone brother the bible builds on ("talks too much;
-  leaks Nick's secret") — a trait with no scene [TK].
+  also the leak-prone brother the bible builds on ("talks
+  too much; leaks Nick's secret") — the trait NOW HAS ITS SCENE:
+  v2 ch5 (ADOPTED) plants the risk in Donald's own accounting ("a
+  man who carried talk in one direction could carry it in the
+  other," v2 l.1266–1267) and deepens James past comic relief —
+  honest hands (v2 l.1220–1228), the tenth-hour seam ("Who climbs
+  for us, come the next sample?" v2 l.1351), the laugh withheld
+  (v2 l.1368–1371). OWED still: the leak itself, and his fate.
 
 - **T15 — Duff and Dwayne** (character-arc)
   Duff: named ch6 → dock works ch15–17 → present at the cliff chase
@@ -695,10 +819,31 @@ Arc notation: born → touched → pays / OWED.
   RESOLVED (bible §3 Duff ruling, PR #14, 2026-08-05): the push is
   the two Grin brothers alone, and nobody descends to confirm the
   kill; Duff's 2015 descend-and-check role is retired — he stays
-  the Grins' town muscle and the climax threat. The adopted v2
+  the Grins' town muscle and the climax threat.
+  V2 ch5: Duff active off the page — "Duff sent word today...
+  Under two weeks." (v2 l.1424). The adopted v2
   ch1–2 text is the ruling's own citation ("There was no way down
   to start"). Still OWED as before: Duff's post-confession fate,
   and Dwayne's drop.
+
+- **T29 — The Grin father: the counting-house inheritance**
+  (character-arc)
+  Born v2 ch5 (ADOPTED, fold 2026-08-20): the father's desk; almost
+  fifteen years of the brothers counting, boyhoods watching him
+  count from the wall; "Keep the cabin in good repair," the voice
+  still in the walls he made them keep sound; "a word was a wage,
+  and their father paid no wage he could keep"; the office steps
+  nobody ever called up to (v2 l.1373–1411, §13 canon). The mirror
+  of T09: two fathers, two creeds — Nick's paid in order, the
+  Grins' paid in nothing. Trunk cousins: the father's shadow (ch6
+  l.507–526) and "Gerred Grin" named once (ch8 l.617) [TK: "Gerred"
+  unconfirmed in bible; v2 leaves him unnamed]. OWED: the father's
+  fate and whereabouts, unstated anywhere; the bible's "pushed
+  around by old man Grin" (§3, Nick's wound) has no scene in any
+  prose; whether the two fathers anchor T24's dashed shared dream
+  is open [TK]. Arithmetic note: father's counting years + the
+  brothers' fifteen fit inside ch4's "fed us for twenty-five years"
+  (v2 l.946) — consistent, nothing locked.
 
 ### Objects
 
@@ -797,6 +942,15 @@ Arc notation: born → touched → pays / OWED.
   surname. No one acts on knowledge they lack in this thread; the
   draft plays it clean (even Nick's wrong guess about Grace, ch19,
   is honest ignorance).
+  V2 ch5 (ADOPTED, fold 2026-08-20) upgrades the ch6 seed to §13
+  canon: Donald AUTHORED the town's grief story — built the first
+  evening, said "so often around town it ran without him now," a
+  stove man returning it as his own (v2 l.1281–1293); ch4's
+  townsman phrasing ("Sometimes fewer men come down than go up,"
+  v2 l.1093–1094) is the worn variant of Donald's built form. The
+  kill-check gets its Grins-side voice: "Nobody had gone down
+  after a body; there had been no way down to go" (v2
+  l.1300–1301, = ch2 v2 l.391).
 
 - **T22 — How the town learns the swindle's shape** (knowledge)
   Town knowledge on the page: empty accounts (ch14 Grace; ch20
@@ -858,6 +1012,10 @@ Arc notation: born → touched → pays / OWED.
   take-the-good-day creed) → pays ch22 (the celebration; hope made
   solid). Bramley's boat is implied-paid only (his refund is never
   shown) — small OWED.
+  V2 ch5 (ADOPTED) supersedes trunk ch6's weaponizing with the
+  finished form: "The best thing they had going was the metal, and
+  this town's endless hope for more of it, and of the two, only
+  the hope never needed weighing." (v2 l.1463–1467).
 
 - **T28 — Adopted opening texture (v2 ch1–4)** (motif)
   ADOPTED via PR #16 (merged 2026-08-06; folded into this map
@@ -868,9 +1026,11 @@ Arc notation: born → touched → pays / OWED.
   mail book, journey canon, camp geography, Nick six feet) are
   recorded there. What remains HERE is the new OWED the adopted
   text creates (per bible §13 and the gate's new-canon list):
-  - OWED: "The boat came Thursday." (v2 l.1181–1182) — a standing
-    weekly clock, candidate for §7.5's ticking-clock role [CHECK:
-    candidate only — §7.5 is still PROPOSED, not ruled].
+  - ADVANCED (was OWED): "The boat came Thursday." (v2 l.1184) —
+    the clock now does plot work in v2 ch5: the sample report due
+    out on it (v2 l.1324–1331), run against Duff's two weeks (v2
+    l.1429–1431). [CHECK unchanged: §7.5 is still PROPOSED — rule
+    it or retire it.]
   - OWED: Jim's birthday Thursday next, and the flour bought to be
     foolish with (v2 l.1022–1024) — a dated small promise the next
     Grace chapter must honor or break on purpose (the trunk's ch9D
@@ -883,6 +1043,10 @@ Arc notation: born → touched → pays / OWED.
     have no further payer [CHECK: does anything later collect
     them — evidence, the false reading, anything — or is the
     cover story their whole job?].
+    V2 ch5 begins collecting: the tins' reading is now the
+    Thursday pressure itself ("the reading due in Juno by the
+    Thursday boat," v2 l.1326–1328), mechanics held open by the
+    inline [TK] (v2 l.1333–1336).
   Carried [TK]s, unresolved by design: "Mrs. Carver" placeholder;
   "your mother's people"; the wolverine; tickets to Portland vs
   the later route; the traders' school-story.
@@ -974,8 +1138,9 @@ of seven end OWED, two more are partial. Said plainly below.
 
 ## Tallies
 
-Threads: 28 total — plot 8 (T01–T08), character-arc 7 (T09–T15),
-object 4 (T16–T19), knowledge 4 (T21–T24), motif 5 (T20, T25–T28).
+Threads: 29 total — plot 8 (T01–T08), character-arc 8 (T09–T15,
+T29), object 4 (T16–T19), knowledge 4 (T21–T24), motif 5 (T20,
+T25–T28).
 Series threads: 7 (S01–S07): fully on the page 2 (S01, S02); partial
 3 (S04, S05, S07); OWED at the keystone 2 (S03, S06).
 
@@ -987,7 +1152,8 @@ knowledge leak (T03/T22); the dock misunderstanding scene, never
 drafted (T10); the stone's recognition beat (T16).
 
 *Created 2026-07-27 as a continuity index. Adoption fold 2026-08-08
-(v2 ch1–4 accepted via PR #16). Citations: `v2 l.###` refers to
+(v2 ch1–4 accepted via PR #16). Ch5 row-level fold 2026-08-20
+(adopted 2026-08-13, PR #38). Citations: `v2 l.###` refers to
 `manuscript/manuscript-v2.md` (adopted opening, source of record);
 bare `l.###` refers to `manuscript/nick-manuscript-22.md` at import
 state (2026-07-26), the legacy trunk. Nothing outside this file was
