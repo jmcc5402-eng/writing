@@ -150,3 +150,6 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-20 | drafting-assistant (campus ch5-8 quirk graft package, PR #85 option A) | D1 sound-forward | manuscript ch05-08 in place |
 | 2026-08-20 | continuity-keeper (campus ch5-8 adoption fold) | E4 transitions/hands-forward (E1 was LRU but sentence-template hunting is inapplicable to a ledger fold — deviation logged) | THREADS + CHANGELOG blocks |
 | 2026-08-20 | showrunner (night kickoff, in-session, author-directed) | — | this shift |
+| 2026-08-20 | red-team-critic (spytwins B3 rung-1 rebuild re-judge) | C4 first-timer read | notes/ (filed by orchestrator) |
+| 2026-08-20 | continuity-keeper (youngnick ch5 adoption fold) | E3 reverse sweep (E2 was LRU but weakest-chapter is inapplicable to a single-chapter fold — deviation logged) | THREADS + CHANGELOG blocks |
+| 2026-08-20 | showrunner (nightly shift, scheduled, in-session) | — | this shift |
