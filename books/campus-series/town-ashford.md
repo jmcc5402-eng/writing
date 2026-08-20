@@ -61,6 +61,15 @@ two blocks from the feed store, a Pride picnic and five Baptist
 homecomings in the same park — and it has razed itself twice before
 in the stadium's name, which is why the third time is the story.
 
+**Canon note — the tower (T07, PROPOSED, recorded on merge).** The
+campus has one tower and it is **the carillon**; **"the clock
+tower" is the town's name for it** — what townspeople call it
+(Earlene, ch 1: *"Been here longer than the clock tower"*), while
+campus and the university's own documents say the carillon. One
+object, two registers: town characters may say "clock tower,"
+campus voices say "carillon," and no chapter should treat them as
+two buildings. (Without this line, book four inherits two towers.)
+
 ## 3. Economy beyond the campus
 
 - **The university is the largest employer** (~6,800 jobs with the
