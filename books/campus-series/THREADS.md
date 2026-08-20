@@ -31,7 +31,7 @@ rows that touch it.**
 | T03 | **The third step** — the porch tread a century of couples got engaged on | ch 5 (planted ch 1's House) | OWED to ch 30 |
 | T04 | **The parents' board** — invented platform, 12,000 members, Marisol moderates | ch 1 | Carried; **name still `[TK]`** |
 | T05 | **The tell-tale slides / the House's condition** | ch 12 | Live |
-| T06 | **Marisol's tell** — *"smiling at a point somewhere past his ear"* | ch 1 | **OWED** — dropped in ch 2–4 |
+| T06 | **Marisol's tell** — *"smiling at a point somewhere past his ear"* | ch 1 | **CONDITION FAILED — author ruling required** |
 | T07 | **The clock tower vs the carillon** | ch 1 | **UNRECONCILED** |
 | T08 | **Eli doesn't drink coffee** | ch 1 | OWED to ch 12/13 |
 | T09 | **Ratchet's grading system** | ch 2 | Locks on the ch 2 winner |
@@ -72,11 +72,38 @@ Planted ch 5, revisited by Verna at 15 and 22. Rev 2.2 pays it at ch
 declaration. **T10 (Cal stepping *over* it in ch 2) is the setup that
 makes the payoff land**; if the ch 2 winner carries it, record it.
 
-### T06 — Marisol's tell
+### T06 — Marisol's tell. The condition failed.
 
-*"Smiling at a point somewhere past his ear."* Zero occurrences across
-the three ch 3 candidates — the only chapters that could carry it.
-**Carry it in the ch 3 winner or the tell dies in chapter one.**
+*"Smiling at a point somewhere past his ear"* (ch01:191). This row
+previously read: **"Carry it in the ch 3 winner or the tell dies in
+chapter one."**
+
+It was not carried. Counting both ch 3 fields and the ch 2 and ch 4
+fields, **nine blind drafters across three competitions have had this
+plant available and none has used it.** Chapters 1–4 are accepted and
+locked; the tell exists exactly once, in the chapter that invented it.
+
+That is not nine drafters being careless. A tell is a *habit*, and a
+habit needs a second instance to become one — but nothing in any brief
+asked for the second instance, because this ledger did not exist until
+after chapters 2–4 were drafted, and when it did exist it stated the
+condition here rather than in the briefs where drafters read.
+
+**The author's ruling, two ways:**
+
+1. **Revive it** — assign a chapter and put the row in that chapter's
+   brief, not only here. Ch 5 and ch 8 are the natural slots: both are
+   Marisol POV with someone to deflect from, and both are still
+   unwritten. A tell that returns at ch 5 and again near the midpoint
+   reads as character; one that returns once at ch 20 reads as an
+   author remembering.
+2. **Retire it** — strike the row and let ch01:191 stand as a good
+   line rather than a promise. Nothing breaks. No later chapter
+   depends on it and no reader is owed it.
+
+**Recommendation: revive at ch 5, or retire it tonight.** What should
+not happen is a third field drafting past it — that is how a plant
+becomes a reproach instead of a thread.
 
 ### T07 — the clock tower
 
