@@ -129,3 +129,4 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-18 | romance-reader-panel (campus ch3 RERUN judging, A/B/C) | — (no card; panel deck TK) | notes/ch3-rerun-panel-2026-08-18.md |
 | 2026-08-20 | superfan-reviewer (campus ch1-4 accepted — first production run, invoked via charter) | C3 dialogue-only first pass | notes/ (filed by orchestrator) |
 | 2026-08-20 | showrunner (nightly shift, in-session) | — | this shift |
+| 2026-08-20 | romance-reader-panel (campus ch7-8 stand-in read + ch5-8 physical-texture audit, author's notes as brief) | C4 first-timer read | notes/ (filed by orchestrator) |
