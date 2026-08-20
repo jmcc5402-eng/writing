@@ -127,5 +127,23 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-18 | drafting-assistant (campus ch3 RERUN, author rejection, run B) | D1 sound-forward | books/campus-series/drafts/2026-08-18/ch3-candidate-B.md |
 | 2026-08-18 | drafting-assistant (campus ch3 RERUN, author rejection, run C) | D7 open mid-motion | books/campus-series/drafts/2026-08-18/ch3-candidate-C.md |
 | 2026-08-18 | romance-reader-panel (campus ch3 RERUN judging, A/B/C) | — (no card; panel deck TK) | notes/ch3-rerun-panel-2026-08-18.md |
+| 2026-08-19 | drafting-assistant (campus ch5 blind, run A) | D5 weather as texture | drafts/2026-08-19/ch5-candidate-A.md |
+| 2026-08-19 | drafting-assistant (campus ch5 blind, run B) | D6 run past comfortable | drafts/2026-08-19/ch5-candidate-B.md |
+| 2026-08-19 | drafting-assistant (campus ch5 blind, run C) | D2 hands and objects | drafts/2026-08-19/ch5-candidate-C.md |
+| 2026-08-19 | drafting-assistant (campus ch6 blind, run A) | D3 short-declarative | drafts/2026-08-19/ch6-candidate-A.md |
+| 2026-08-19 | drafting-assistant (campus ch6 blind, run B) | D4 minor-character competence | drafts/2026-08-19/ch6-candidate-B.md |
+| 2026-08-19 | drafting-assistant (campus ch6 blind, run C) | D1 sound-forward | drafts/2026-08-19/ch6-candidate-C.md |
+| 2026-08-19 | drafting-assistant (campus ch7 blind, run A) | D7 open mid-motion | drafts/2026-08-19/ch7-candidate-A.md |
+| 2026-08-19 | drafting-assistant (campus ch7 blind, run B) | D5 weather as texture (deck wrapped, 2nd draw this wave) | drafts/2026-08-19/ch7-candidate-B.md |
+| 2026-08-19 | drafting-assistant (campus ch7 blind, run C) | D6 run past comfortable (deck wrapped, 2nd draw this wave) | drafts/2026-08-19/ch7-candidate-C.md |
+| 2026-08-19 | drafting-assistant (campus ch8 blind, run A) | D2 hands and objects (deck wrapped, 2nd draw this wave) | drafts/2026-08-19/ch8-candidate-A.md |
+| 2026-08-19 | drafting-assistant (campus ch8 blind, run B) | D3 short-declarative (deck wrapped, 2nd draw this wave) | drafts/2026-08-19/ch8-candidate-B.md |
+| 2026-08-19 | drafting-assistant (campus ch8 blind, run C) | D4 minor-character competence (deck wrapped, 2nd draw this wave) | drafts/2026-08-19/ch8-candidate-C.md |
+| 2026-08-19 | romance-reader-panel (campus ch5 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ (filed by orchestrator) |
+| 2026-08-19 | romance-reader-panel (campus ch6 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ (filed by orchestrator) |
+| 2026-08-19 | romance-reader-panel (campus ch7 blind judging, A/B/C + calling-card debut) | — (no card; panel deck TK) | notes/ (filed by orchestrator) |
+| 2026-08-19 | romance-reader-panel (campus ch8 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ (filed by orchestrator) |
+| 2026-08-19 | continuity-keeper (campus wave 2 cross-batch sweep, 12 candidates) | E1 repetition hunt (first E1 draw for this agent) | notes/ (filed by orchestrator) |
+| 2026-08-19 | superfan-reviewer (campus ch1-8, first production run, via charter) | C1 pacing above all | notes/wave2-superfan-2026-08-19.md |
 | 2026-08-20 | superfan-reviewer (campus ch1-4 accepted — first production run, invoked via charter) | C3 dialogue-only first pass | notes/ (filed by orchestrator) |
 | 2026-08-20 | showrunner (nightly shift, in-session) | — | this shift |
