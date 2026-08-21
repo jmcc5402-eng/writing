@@ -82,7 +82,15 @@ used the quiet the whole county was using it for.
 "Tuesday," Sonny said, and the store moved on past it,
 a creek going over a dropped stone.
 
-Cal paid cash.
+Cal put his money on the counter.
+
+"You want a bag?" Sonny said.
+
+"For twine?"
+
+"Some do."
+
+Cal paid cash and declined the bag.
 Sonny counted the change back out loud, the old way,
 and pushed a peppermint across the counter after it,
 store policy older than the cooler wall.
@@ -138,6 +146,14 @@ and no bigger, so long as he minded his knots.
 
 The shears did the talking for a while.
 Dead wood came out in gray lengths and went in a pile on the boards.
+Last fall's ties came away with it, jute gone silver,
+cut through and dropped in the pile without ceremony,
+because that was the whole reason for jute.
+A tie was a season's promise, not a life sentence.
+Low on the lattice, two loops of green garden wire
+held on from years further back than jute could reach,
+and he worked around those, same as every fall,
+and did not price out the reason.
 The cicadas ran their shift in the oaks.
 
 Then market paper crinkled at the front walk and quit crinkling.
@@ -194,7 +210,17 @@ looped the cane to the lattice, and drew the knot up
 snug and then a half turn past snug.
 For a while it was shears and cicadas
 and twine coming off the ball a length at a time,
+and the market running six blocks off under all of it,
 and neither of them spent a word on any of it.
+
+"Where'd the twine come from?" Marisol said, eventually,
+because a silence could only be so long before she audited it.
+
+"Sonny's."
+
+"Did he guess what it was for?"
+
+"Sonny doesn't guess."
 
 "My wife planted this bush," Cal said,
 conversational as a weather report,
@@ -206,6 +232,9 @@ Bush never believed her either."
 
 "Either," Marisol said, careful, like a woman
 stepping onto ice she'd been assured would hold.
+There was a question that came next in that story,
+and she didn't ask it,
+and he heard her not ask it, and tied on.
 
 "It blooms late. Every year.
 Later than it's got any right to."
