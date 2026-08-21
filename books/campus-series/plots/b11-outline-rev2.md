@@ -316,8 +316,8 @@ about the House like two people describing different buildings and
 enjoying it more than either will admit. He notices her hands, her laugh, the way she runs a
 table without seeming to, and files all of it under problems. Boyd
 unveils the Gateway — sentiment first, drawings later — while the
-printed program's back page credits "digital engagement: [TK
-sock-vendor name] Media LLC," whose welcome line reads "ya'll
+printed program's back page credits "digital engagement:
+Kudzu Media LLC," whose welcome line reads "ya'll
 come." Nobody notices. The reader is invited to.
 
 ### Ch 7 — Two Pies (Marisol)
@@ -646,7 +646,7 @@ own surge from the booth — wine night reconvened around her as a
 six-a.m. war room, Aisha triaging screenshots, Birdie running
 coffee, the friendship planted in ch 7 paying its rent: the watermarked pages — DRAFT,
 UNSIGNED, every sheet, photographed with Cal's consent; the leaked
-file's own fingerprints naming [TK sock-vendor name] Media LLC;
+file's own fingerprints naming Kudzu Media LLC;
 thirty-one accounts that misspell y'all identically and quote the
 Courier's bound volumes back at a town that said it first two
 mayors ago; Tunk Ferrell cleared in the same breath by twenty years
@@ -767,7 +767,7 @@ artifacts and events.
 
 - **August:** unveil the Gateway at the gala, sentiment first
   (collides: ch 6). Retain [TK engineer firm] with ground rules
-  written to end at condemnation; retain [TK sock-vendor name]
+  written to end at condemnation; retain Kudzu Media LLC
   Media LLC to run the parents'-board narrative on bought, aged
   accounts (collides: ch 3, 6, 7).
 - **September:** survey the Millrow structures; chalk and tripods
@@ -1029,7 +1029,7 @@ only; no other roots collide.
 
 - Dan Merritt × Aisha Cole's supper argument (17) — kneecaps Boyd's
   safety framing in THIS book; bench seed for 1.2.
-- [TK sock-vendor name] Media LLC named (25) — the paper trail
+- Kudzu Media LLC named (25) — the paper trail
   1.3's invoices follow.
 - Boyd moves the demolition survey up (28) — 1.3's opening
   pressure.
