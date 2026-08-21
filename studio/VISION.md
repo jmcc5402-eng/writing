@@ -33,6 +33,18 @@ one stage per shift, but every gate stays armed — critics before
 each wave, instruments before author ratify, backpropagation when a
 gate fails. Speed comes from parallelism, never from skipped gates.
 
+**What the gates measure (author, 2026-08-21, in chat):** "analyze
+these books not just on perfectness, and more on readability and
+romance… there's a chance we've checked all of our boxes, but our
+characters aren't warm enough or likable enough — all those very
+basic elements that make a book really good." Operationally: the
+pleasure instruments (reader panel, superfan) outrank the checkbox
+instruments in every gate verdict; a chapter that passes every
+mechanical gate but reads cold is a FAILURE, and the panel's
+warmth/likability findings go into briefs as binding conditions,
+not ride-alongs. Don't multiply passes to get there — weight the
+ones that measure pleasure.
+
 - **Spytwins:** Book 1 is done for now (~95%); final polish batched
   once Books 1–3 exist; PUBLISH when four books are written. Book 2
   is rung-3 frozen — briefs next; prose only on the author's "draft."
