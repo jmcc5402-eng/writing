@@ -178,3 +178,38 @@ current one makes her margaritas); the town's romance weathervane
 across all sixteen books, and the professional holding Marisol's
 June listing decision (D07's clock). Name and role await author
 strike-or-keep at the next PR.
+
+## D09 — The House's door: open by day, locked by Cal at night
+**Status: PROPOSED (recorded on merge). 2026-08-20.**
+
+Two accepted pages look like a contradiction and are not — but the
+sweep (F16) flagged it "rule before it hardens," because the next
+drafter who notices will "fix" one of them:
+
+- **Ch 5 (day):** *"Door's been open a hundred years," Cal said, to
+  the step. "That's most of what's wrong with this town."* — and at
+  leaving: *"Pull it to anyway. House likes to know somebody
+  minded."*
+- **Ch 2 (night):** Cal lets himself in at the side door with the
+  key that rides alone in his shirt pocket, and *"He locked the side
+  door and stood on the step a moment... listening the house down."*
+
+**Ruling proposed:** both stand, as one custom seen at two hours.
+The **front door stands open while the House is awake** — daylight
+hospitality, the town's living room, the custom Cal grumbles about
+and honors. **At night the steward locks up** — the side door, the
+unexplained key, the listening: that is Cal's care, not the House's
+distrust. "Pull it to anyway" is the hinge between the two: open is
+not the same as unminded.
+
+Drafting consequences (binding once merged):
+
+1. No chapter "fixes" either page. Day scenes may walk through an
+   open front door; night scenes go through Cal and his key.
+2. **The banked plant:** a front door standing open after dark is
+   therefore WRONG on sight — available to any future chapter that
+   needs the reader's stomach to drop one line before Cal's does.
+   Budget: once per book at most; not owed, only available.
+3. The ch 8 register stands: the House is "the town's living room"
+   (the candidates' "town's porch" line did not survive to the
+   page and is not canon).
