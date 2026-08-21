@@ -104,6 +104,9 @@ and nobody at all inside.
 An off Saturday made the street quiet enough
 to hear the Curb Market running six blocks off,
 a low tide of talk and tailgates from the square.
+The show mum still held the bottom step,
+bronze, magnificent, claimed by nobody,
+and watered, lately, by somebody who kept that to himself.
 
 The rosebush lived at the east end of the porch,
 a climber, old, thorned like it held opinions,
@@ -175,6 +178,10 @@ and held it bowed against the wood like it weighed nothing.
 
 "Keeps the argument fair."
 
+"The tent still stands, for the record."
+
+"Never doubted the tent."
+
 Her hands came down on the cane between the thorns
 on the first try and stayed where he put them,
 steady, no production made of it.
@@ -227,6 +234,13 @@ He tied off the last cane and let it.
 She stepped back from the lattice and looked at the job,
 the bush drawn down neat for winter, not a bloom on it,
 the whole thing holding its buds shut like sealed mail.
+
+"How long does this take you?"
+
+"One afternoon," Cal said. "Same one, every year."
+
+"It's a good afternoon for it," she said,
+and let that be everything she said about it.
 Then she looked at him,
 sleeves back, forearms scratched, hat off,
 and took her time about it.

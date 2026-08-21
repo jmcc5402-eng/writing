@@ -49,11 +49,12 @@ like the last full pitcher at a family reunion,
 laughing too hard to apologize to any of the shoulders involved.
 Somebody's grandmother had both fists in the air.
 The dentist was hugging a stranger and weeping frankly.
+"Mind the flowers!" Birdie Pham hollered from somewhere in the crush.
+"Mind the flowers!"
 Out front the door got propped open into the brand-new cold,
 and half a drumline came up the sidewalk out of nowhere,
 pieces of uniform over street clothes,
-and stood in the doorway light hammering the fight song
-until the glasses walked themselves to the edges of the tables.
+and stood in the doorway light hammering the fight song.
 Nobody let them in. Nobody needed to.
 The cadence came through the propped door with the cold air,
 and the bar sang the words back out at the street,
