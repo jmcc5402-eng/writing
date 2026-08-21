@@ -11,17 +11,15 @@ city-quartets' board culture). One invented platform serves every
 romance series — same app, different local groups — so board lore,
 UI verbs, and running jokes carry across series for free.
 
-- Name: **Hearsay** — PROPOSED (recorded on merge, 2026-08-21).
-  Groups live "on Hearsay"; a group is "a Hearsay"; the verb is
-  "post it to Hearsay." The name IS the recognition comedy — every
-  citation of the platform quietly names what it does ("I saw it on
-  Hearsay" costs the author nothing and pays every time), and it
-  scales to all four towns unchanged. Runners-up, banked: Grapevine
-  (same joke, warmer, slightly softer), Porchlight (warm, but spends
-  porch imagery the campus series already owns). [CHECK: "Hearsay
-  Systems" exists as an obscure B2B compliance-software firm — no
-  consumer app; distinct field, held to be clear, verify if the
-  series goes wide.]
+- Name: **Grapevine** — LOCKED (author, PR #89 comment,
+  2026-08-21): "I like grapevine. One reason is that the word
+  hearsay is never written down so it's actually kind of hard to
+  read as a human." Groups live "on Grapevine"; the verb is "post
+  it to the Grapevine" or plain "it's on Grapevine." Same
+  recognition comedy — heard-it-through-the-grapevine is the joke
+  every citation retells — and it scales to all four towns
+  unchanged. Runners-up, retired: Hearsay (rejected as above),
+  Porchlight (spends porch imagery the campus series owns).
 - Register: lovingly unhinged, recognition comedy, never contempt
 - All posts invented; never lifted or near-paraphrased from real
   posts or identifiable people
@@ -43,6 +41,9 @@ crossover is a canon decision in BOTH series' logs, plus a row here.
 
 ## Decision log (append-only, dated)
 
-- 2026-08-21 — the invented platform is named **Hearsay** (this
-  PR's merge is the ruling; campus rule R7 and campus THREADS T04
-  updated in the same diff).
+- 2026-08-21 — the invented platform is named **Hearsay** (PR #89
+  merge; campus rule R7 and campus THREADS T04 updated in the same
+  diff).
+- 2026-08-21 — **corrected to Grapevine** by the author's own #89
+  comment, applied same day; all citing docs conformed. Hearsay
+  retired ("never written down… hard to read as a human").

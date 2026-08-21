@@ -138,8 +138,9 @@ student-definition and adult-power-ceiling open questions.
 - **R7 (proposed).** The parent message board runs on an invented
   platform; all posts invented, written in the documented register,
   never lifted or near-paraphrased from real posts or identifiable
-  people. Platform name: **Hearsay** (studio/SHARED-CANON.md,
-  ruled 2026-08-21).
+  people. Platform name: **Grapevine** (studio/SHARED-CANON.md,
+  ruled 2026-08-21 — author's #89 comment corrected the merged
+  Hearsay to Grapevine).
 - **R8 (proposed).** On-page party geography is adults-only;
   students at mixed events (tailgates, move-in) are background and
   logistics only.
