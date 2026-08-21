@@ -190,9 +190,11 @@ an hour.
 
 **THREADS carried:**
 - T19 — "OWED — handles canon (**Concerned4Ashford /
-  AshfordSafetyMom**); vendor name `[TK]`; wire to Boyd surfaces
-  `[TK]`." Use only the canon handles; platform name is `[TK]` —
-  write around it ("the group," per ch 7's accepted usage).
+  AshfordSafetyMom**); vendor = **Kudzu Media LLC** (ruled
+  2026-08-21, PR #90); wire to Boyd surfaces `[TK]`." Use only the
+  canon handles; the platform is **Hearsay** (ruled 2026-08-21,
+  PR #89, SHARED-CANON) — prose may now say it ("the group on
+  Hearsay"; ch 7's "the group" usage also stays valid).
 - T14 — the notebook, deployed: Tunk's row, question mark.
 - T06/M1 — the doorway look is HIS gaze found, and she may hold it;
   she does NOT smile at him. The withheld payoff survives the
@@ -271,9 +273,10 @@ is fixed at the outline and re-derived — never patched downstream.
 2. T08's payoff shape is unruled — ch 12 one-liner (proposed above)
    or ch 13; needs a ruling or a panel graft note.
 3. `[TK]`s that touch this wave's pages: tell-tale year count
-   (ch 12, on-page), platform name (ch 11 writes around it), late
-   wife's name (unneeded, stays unnamed), sock-vendor name
-   (unneeded on page this wave).
+   (ch 12, on-page), late wife's name (unneeded, stays unnamed).
+   RESOLVED 2026-08-21, no longer open: platform = Hearsay (#89),
+   sock vendor = Kudzu Media LLC (#90) — ch 11 may name the
+   platform instead of writing around it.
 4. Marisol's own register for the tower (clock tower vs neutral) is
    handled conservatively above; rule it if you want her idiom
    fixed.
