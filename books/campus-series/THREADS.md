@@ -30,7 +30,7 @@ rows that touch it.**
 | T02 | **Cal's tell** — he fixes without speaking to the person, takes the tool, and leaves | ch 1 | Carried hard — ch 5 plane, ch 6 PA fix, ch 8 screw fix; ch 8 crosses it with T17 (she films it) |
 | T03 | **The third step** — the porch tread a century of couples got engaged on | ch 5 (planted ch 1's House) | OWED to ch 30 — plant complete ch 5 (wall, kneeling canon, hollow); ch 6 ache carried; inversion banked (she *stood* where they kneel) |
 | T04 | **The parents' board** — invented platform, 12,000 members, Marisol moderates | ch 1 | Carried — voice's second instance on the page ch 7 ("first-flight parents, my loves"); 12,000 restated ch 5; **platform named: Grapevine** (SHARED-CANON, 2026-08-21; author's #89 comment corrected Hearsay → Grapevine) — prose may now say it |
-| T05 | **The tell-tale slides / the House's condition** | ch 12 | Live |
+| T05 | **The tell-tale slides / the House's condition** | ch 12 | Live — **no movement in nineteen years** (D10, ruled 2026-08-21); each slide dated in the late wife's hand; ch 30 adds one in Cal's |
 | T06 | **Marisol's tell (M1)** — *"smiling at a point somewhere past his ear"* | ch 1 | **RULED — revived as M1, rationed, payoff withheld** (author, PR #85 option A, 2026-08-20). On the page ch 5 (verbatim) and ch 7 (past Aisha's ear). |
 | T07 | **The clock tower vs the carillon** | ch 1 | **RECONCILED** (author merge of PR #87, 2026-08-21): one tower — "clock tower" is the town's register for the carillon; canon note in `town-ashford.md` §2. Earlene's line stands. |
 | T08 | **Eli doesn't drink coffee** | ch 1 | Untouched by 5–8 (ch 6's coffee line is Cal's, not Eli's); still OWED ch 12/13 |

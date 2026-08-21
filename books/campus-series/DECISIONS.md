@@ -213,3 +213,34 @@ Drafting consequences (binding once merged):
 3. The ch 8 register stands: the House is "the town's living room"
    (the candidates' "town's porch" line did not survive to the
    page and is not canon).
+
+## D10 — The tell-tale slides: no movement in nineteen years
+**Status: RULED (author-delegated, 2026-08-21 — "You pick"; picked
+by the showrunner, reasoning below, on the record).**
+
+Open question 9. The glass tell-tale slides glued across the
+House's east crack, each dated in Cal's late wife's handwriting,
+show **no movement in nineteen years** (ch 12, P4; pays 28 and 30).
+
+Why nineteen:
+
+1. **Evidence-grade.** The slides must make ch 15's verdict read as
+   rigged, not arguable — two decades of documented zero movement
+   against a survey "graded against current code" does that; ten
+   would leave room for a fair-minded doubt.
+2. **A different order of time than the porch.** The porch gets
+   "ten years left. Fifteen if somebody loved it" — the slides must
+   be OLDER than every repair horizon in the book, so the House's
+   soundness reads as history, not maintenance.
+3. **It fits every dated thing we know.** Cal is 47; the wedding
+   was on the House porch and its photo hangs near the top of a
+   hundred-year wall; she arrived her fellowship year. A watch
+   begun nineteen years ago sits inside that marriage with room to
+   spare, and locks nothing else (widowhood length stays unruled).
+4. **Nineteen sounds counted.** A round twenty is a guess; nineteen
+   is a ledger. She dated glass slides in her own hand — the number
+   should sound like hers.
+
+Binding: the count appears on the ch 12 page; ch 30's echo (a
+fresh slide dated in Cal's hand) makes it twenty and does not say
+so.

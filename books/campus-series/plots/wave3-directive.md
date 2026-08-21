@@ -229,7 +229,8 @@ word (**D08 beat 2 of 5**; POV standard 11 — witnessed from Cal,
 the camera never enters their heads). At the House: strangers'
 tripods all morning; when they pack up, Cal alone checks the glass
 tell-tale slides glued across the crack, each dated in his late
-wife's handwriting — no movement in `[TK]` years (**P4 PLANT**,
+wife's handwriting — no movement in **nineteen years** (D10,
+ruled 2026-08-21) (**P4 PLANT**,
 pays 28, 30; **T05 born**). By dome light he reads the survey's
 ground rules: graded against current code, a test no house this age
 can pass (**P5 PLANT**, pays 18 → 28). He starts a quiet file.
@@ -254,8 +255,8 @@ Cal knows the scope is rigged and the tell-tales are proof; reader
 knows the grief-evidence identity; Birdie×Eli seen (reader).
 
 **Musts/must-nots:** Cal appeal beat required. The late wife
-unnamed; slide year-count `[TK]` (open question 9) — needed ON the
-page, so the brief's manifest must resolve or `[TK]` it visibly.
+unnamed; slide year-count RULED: **nineteen years** on the page
+(D10; OQ9 closed 2026-08-21).
 No Marisol contact; no drawer yet (the draft lands ch 14).
 
 ---
@@ -319,7 +320,6 @@ is fixed at the outline and re-derived — never patched downstream.
    candidate that clears every mechanical gate but reads cold
    loses. Chorus sparkle may not outshine the leads in ch 9 or 10:
    the leads get the best line in any scene they share.
-6. **Ch 12 pre-flight, still open at directive level:** the
-   tell-tale year count must be RULED before the ch 12 field runs
-   (a [TK] in the wife's handwriting is a banned move at an
-   emotional peak). Ch 9–11 fields may run ahead of it.
+6. **Ch 12 pre-flight: CLOSED.** The tell-tale year count is
+   RULED — nineteen years (D10, author-delegated, 2026-08-21).
+   The ch 12 field is clear to run.
