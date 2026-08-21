@@ -49,6 +49,18 @@ and squared it to the register out of habit.
 "Card's been up since June. Four entries.
 Three of them are my nephew."
 
+The radio said the visitors were big up front,
+and the aisles relayed it inward, shelf to shelf,
+to men who were not listening.
+
+"They'll run it straight at us all day," Sonny said.
+"I heard their line averages three hundred pounds a man."
+
+"You worried?"
+
+"I don't worry on away Saturdays.
+Worry burns daylight, and it's a four-hour drive back either way."
+
 The radio sent the pregame to a commercial for a tractor
 nobody in the store could afford,
 and the man ahead of Cal in line, seed cap, county boots,
@@ -109,8 +121,9 @@ That was the arrangement, and it wasn't written down anywhere
 either.
 Ten minutes, an off Saturday, a rosebush,
 and not one soul to explain anything to.
-He missed his wife the way the House ran its rooms,
-quietly, on a schedule, everything still working.
+He missed his wife quietly and on a schedule,
+which was also how the House was kept,
+and neither of those facts was a coincidence.
 The bush kept it simple.
 Hands full, nothing to say,
 grief cut to the size of one rosebush exactly,
@@ -140,9 +153,11 @@ A pause, one cicada long.
 "Same footsteps."
 
 She came up the steps instead.
-She'd dressed for the market the way she dressed for everything,
-on purpose, and the porch got the benefit for nothing.
-The zinnias rode one arm in their paper, orange and shameless.
+She'd dressed for the market on purpose,
+since she did everything on purpose,
+and the porch got the benefit for nothing.
+The zinnias rode one arm in their paper,
+orange, paper-wrapped, and still loud.
 "These are for the hall table.
 Birdie swore this bunch was singing, not arguing."
 
