@@ -44,7 +44,7 @@ rows that touch it.**
 | T16 | **The ground-rules contract** | ch 8 | OWED — exists to be tested; breach/test chapter `[TK]` |
 | T17 | **The filmed hinge-fix** | ch 8 | OWED — the footage exists; payoff `[TK]` |
 | T18 | **The skipped frame on the wall** | ch 5 | OWED — payoff `[TK]`; tracked by readers (superfan: "riots if forgotten") |
-| T19 | **The sock campaign / [TK: sock-vendor name] Media LLC** | ch 6 (back page) + ch 7 (accounts) | OWED — handles canon (Concerned4Ashford / AshfordSafetyMom); vendor name `[TK]`; the wire to Boyd surfaces `[TK]` |
+| T19 | **The sock campaign / Kudzu Media LLC** | ch 6 (back page) + ch 7 (accounts) | OWED — handles canon (Concerned4Ashford / AshfordSafetyMom); vendor named **Kudzu Media LLC** (ruled on merge, 2026-08-21 — chipper-local on a program back page, and the metaphor is the campaign: planted, spreads fast, chokes what it covers; deliberately untraceable to Boyd until the wire surfaces `[TK]`) |
 | T20 | **Cal's carried secret** (survey · signature · twelve names · winter money) | ch 6 | OWED to the ch 15 midpoint reveal; carried ch 8 |
 | **T21** | **Cal's tell (C1)** — the corner of his mouth goes where it isn't invited when she beats him and he likes it | ch 1 (:149) | **RULED** (author, PR #85 option A, 2026-08-20) — ration 2 firings/book plus the door-smile at 3/book; **OWED:** the FULL smile. See below. |
 | S01 | Cordelia Hartwell's letters | 1.2 | Series-level; 1.1 owes nothing |
@@ -272,7 +272,8 @@ promise.** Proposes **T11** (Boyd never raises his voice).
 - **Introduces:** the **dark green dress** (canon by winner, F22) ·
   Boyd's stadium name **"the Gateway"** and "Give it till November"
   · **T19** the program back page: "digital engagement:
-  [TK: sock-vendor name] Media LLC" / "ya'll come" — read by nobody,
+  Kudzu Media LLC" (named on merge, 2026-08-21) / "ya'll come" —
+  read by nobody,
   planted for everybody · **T20** Cal's carried secret (the survey
   nobody at nine has heard of; the signature wanted before the
   November trustees; "Twelve names on a list nobody had printed
