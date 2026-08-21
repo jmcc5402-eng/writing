@@ -25,6 +25,10 @@ and a second card in ballpoint under it,
 SEE SONNY IF THAT DON'T WORK.
 
 Cal had come in for twine.
+He went past the spring brooders, stacked empty till February,
+past a barrel of loose staples sold by the scoop,
+past two men debating a gate latch with real feeling,
+and found the string shelf where it had been since Eisenhower.
 
 "Jute or poly?" Sonny Dillard said from the counter,
 before Cal had asked anything.

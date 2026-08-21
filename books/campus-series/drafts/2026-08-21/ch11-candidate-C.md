@@ -261,6 +261,13 @@ and the sentence was carried on a voice vote and a round of jars.
 The other half took up a defense that was mostly sentiment
 and window units.
 
+"I've known Tunk since grade school," Peanut said,
+pouring with both hands.
+"Man cheats at cards and pays for the beer after.
+That is not a man who types."
+
+"Money changes what a man types," Sonny said.
+
 "Tunk Ferrell carried my air conditioners up those stairs
 two Julys running," Verna Poteat said from the shady end of the bar,
 "and never once sold me freon I didn't need.
@@ -302,8 +309,9 @@ Earlene considered that the way she considered a sky in April.
 "Keep the pen," she said. "Town's got plenty of chalk."
 
 Last call came and went and didn't take.
-Peanut called it twice more with declining conviction
-and finally just started washing.
+"Last call meant something in this town once," Peanut told the sink,
+and called it twice more with declining conviction,
+and finally gave up and washed jars.
 The drumline had gone home to wherever drumlines go.
 Through the propped door the cold came in clean as well water,
 and out in the gravel three trucks ran WDSS with the windows down,
