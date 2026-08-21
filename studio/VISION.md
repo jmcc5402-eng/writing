@@ -26,6 +26,13 @@ nothing is lost, nothing moves. The hold lifts when campus Book 1.1
 is out or the author says so. The ~10% residue is reactive only —
 processing anything the author merges or asks for on those books.
 
+**Pace (author, 2026-08-21, in chat): "start moving faster but
+doing it in a measured pace so we don't have costly mistakes."**
+Operationally: the conveyor runs whole stages per shift instead of
+one stage per shift, but every gate stays armed — critics before
+each wave, instruments before author ratify, backpropagation when a
+gate fails. Speed comes from parallelism, never from skipped gates.
+
 - **Spytwins:** Book 1 is done for now (~95%); final polish batched
   once Books 1–3 exist; PUBLISH when four books are written. Book 2
   is rung-3 frozen — briefs next; prose only on the author's "draft."
