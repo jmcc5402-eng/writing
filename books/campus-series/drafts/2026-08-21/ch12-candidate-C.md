@@ -102,6 +102,23 @@ and sixty rows of concrete sold them right back,
 and the two of them stood in the middle of the fifty
 listening to the last of it climb out.
 
+"How early do you start, to get it like this?" she said.
+
+"Four."
+
+"Four in the morning. For grass."
+
+"For this grass."
+
+"And if it rains tomorrow?"
+
+"She drains in eleven minutes," Eli said.
+"I built her that way."
+
+"You built the rain a schedule."
+
+"Somebody had to."
+
 "Who else gets to stand out here?" she said, quieter.
 
 "Nobody walks my field."
@@ -236,6 +253,13 @@ and said not one thing about it.
 
 They packed at noon, cases first, tripods last.
 
+"Good brick," the level man said, winding a cord.
+"My granddaddy pointed chimneys in three counties.
+Nobody strikes a joint like that anymore.
+They quit teaching it."
+
+"They quit asking for it," Cal said.
+
 "When's the write-up?" Cal asked, at the truck.
 
 "We just take the numbers," the level man said,
@@ -357,6 +381,8 @@ Not the office machine. Not the office anything.
 Ratchet put her chin on the armrest and supervised.
 
 "Not one word," Cal told her.
+"Not to the crew. Not to the porch.
+Not to anybody holding a pen."
 
 Her tail went once against the seat.
 Half the editorial she'd spent on it in August.
