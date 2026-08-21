@@ -3,6 +3,33 @@
 Tracks edits to manuscripts and adopted drafts (house rule 6), so the
 author can see what changed and why. Newest first.
 
+## 2026-08-21 — Line/copy pass, ch 1–8 (post-ratify; card E2)
+
+- Mechanical fixes applied (3): ch01:264 stray space before a
+  closing quote; ch02:164 trailing whitespace; ch05:210
+  "cancelled"→"canceled" (American spelling per studio/STYLE.md).
+  ch03, ch04, ch06, ch07, ch08 mechanically clean. STYLE.md
+  colon/dash paragraph-end sweep: zero hits across all eight files.
+- Eight stylistic edits PROPOSED, not applied — ranked in
+  notes/line-pass-2026-08-21.md, led by the ch04 Boyd-arrival graft
+  seam (the young man is steered around the stencil before he gets
+  out of the truck; reorder only, no words change) and the
+  cross-chapter self-copy "which was somehow worse" (ch7/ch8, two
+  blind drafters).
+- Three judgment calls flagged for the author: the ch08 "It's not
+  a building file" residue (both repairs touch dialogue — out of a
+  copy pass's scope); ch06 "ya'll come" — fake-folksy PLANT or
+  typo (ch 7 builds a forensic beat on exactly such tells; left
+  untouched); ch04 "activates" verb-or-marketing-noun.
+- Register finding: spaced em dashes are the book's established
+  style (the ratified ch 1 uses them throughout) — left, overriding
+  the studio unspaced default; recommend recording the override in
+  STANDARDS.md. Staging-gate suggestion adopted forward: add a
+  distinctive-phrase dedup grep at wave staging (cross-chapter
+  self-copy is the blind conveyor's one leak).
+- Constraints verified set-wide: no [TK]/[CHECK] lines touched, no
+  dialogue added or removed, no eye color anywhere in ch 1–8.
+
 ## 2026-08-20 (night) — The humanizing graft: quirks M1 and C1 *(this entry is ratified by the merge of its PR)*
 
 - Author's ch 6 notes actioned: "we're not humanizing these
