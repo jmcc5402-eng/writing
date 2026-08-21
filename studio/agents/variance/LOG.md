@@ -175,3 +175,4 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-21 | romance-reader-panel (campus ch9 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ (filed by orchestrator) |
 | 2026-08-21 | romance-reader-panel (campus ch10 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ (filed by orchestrator) |
 | 2026-08-21 | romance-reader-panel (campus ch11 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ (filed by orchestrator) |
+| 2026-08-21 | romance-reader-panel (campus ch12 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ (filed by orchestrator) |
