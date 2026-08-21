@@ -32,7 +32,7 @@ rows that touch it.**
 | T04 | **The parents' board** — invented platform, 12,000 members, Marisol moderates | ch 1 | Carried — voice's second instance on the page ch 7 ("first-flight parents, my loves"); 12,000 restated ch 5; **name still `[TK]`** |
 | T05 | **The tell-tale slides / the House's condition** | ch 12 | Live |
 | T06 | **Marisol's tell (M1)** — *"smiling at a point somewhere past his ear"* | ch 1 | **RULED — revived as M1, rationed, payoff withheld** (author, PR #85 option A, 2026-08-20). On the page ch 5 (verbatim) and ch 7 (past Aisha's ear). |
-| T07 | **The clock tower vs the carillon** | ch 1 | **UNRECONCILED** |
+| T07 | **The clock tower vs the carillon** | ch 1 | **RECONCILED** (author merge of PR #87, 2026-08-21): one tower — "clock tower" is the town's register for the carillon; canon note in `town-ashford.md` §2. Earlene's line stands. |
 | T08 | **Eli doesn't drink coffee** | ch 1 | Untouched by 5–8 (ch 6's coffee line is Cal's, not Eli's); still OWED ch 12/13 |
 | T09 | **Ratchet's grading system** | ch 2 | Locks on the ch 2 winner |
 | T10 | **Cal steps *over* the third step** | ch 2 (proposed) | **Not confirmed by ch 5** — he kneels ON it to work and exits by the back hall; the transit habit is never staged. `[TK: verify the accepted ch 2 carries it]` |
@@ -182,6 +182,11 @@ tower."* Canon's campus tower object is **the carillon**
 the nine ch 2–4 candidates. **Proposed reconciliation: the campus
 tower is the carillon, and "clock tower" is the town's name for it.**
 One bible line; otherwise book four has two towers.
+
+**RULED (author merge of PR #87, 2026-08-21):** exactly that. The
+canon note lives in `town-ashford.md` §2 — one object, two
+registers; town voices say "clock tower," campus voices say
+"carillon"; no chapter treats them as two buildings.
 
 ### T04 — the board's voice
 

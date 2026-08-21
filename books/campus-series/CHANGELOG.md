@@ -98,7 +98,10 @@ author can see what changed and why. Newest first.
      it to anyway") vs ch 2's locked side door at night (F16) —
      rule before it hardens; the candidates' "town's porch" door
      line did not survive to the page (ch 8 has "the town's living
-     room" instead).
+     room" instead). **RULED 2026-08-21 (author merge of PR #88,
+     decision D09): one custom at two hours — open while the House
+     is awake, the steward locks at night; a front door open after
+     dark is wrong on sight (banked plant, once per book max).**
   Also carried: the ch 8 graft seam ("It's not a building file"
   answers an unspoken prompt) — repaired in the 2026-08-20
   night-graft package (was proposed in

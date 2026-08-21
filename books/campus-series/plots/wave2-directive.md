@@ -50,14 +50,20 @@ pre-loaded so drafters converge on the author's taste in one pass.
 
 ## The sexy layer (closed door, standard 9 — first-garment line)
 
-- **Notice budget: ≥2 physical-notice beats per chapter** through
-  POV eyes — forearms, shoulders under load, curves, the skirt hem
-  she keeps tugging down on the market ladder and his effort not to
-  watch. Earthy country flirt register welcome (cattle-and-calluses
-  banter as courtship).
+- **Notice budget: ≥2 physical-notice beats per chapter, of which
+  AT MOST ONE may be hands/competence** — the rest must be face,
+  mouth, hair, or body-in-clothes; cap 4 per chapter. (Conformed
+  2026-08-21 to the notice-budget composition rule in
+  `studio/DRAFTING-PROTOCOL.md`, merged PR #86 — the old count-only
+  line here bred four chapters of forearms and thumbs.) The skirt
+  hem on the market ladder and his effort not to watch still
+  qualify; so does her face having a better evening than the
+  evening earned. Earthy country flirt register welcome
+  (cattle-and-calluses banter as courtship).
 - **One long glance per chapter,** held a beat too long, broken by
   a town interruption (the comic valve).
-- Competence is the heat source (the bushel-basket law).
+- Competence is A heat source, capped at its one beat (the
+  bushel-basket law); the face carries the rest.
 
 ## The wine-night calling card (author-stated series device)
 
