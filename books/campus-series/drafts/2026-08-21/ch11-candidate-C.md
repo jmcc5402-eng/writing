@@ -85,6 +85,11 @@ Nobody runs a bar this old without a flat of mason jars in the back."
 
 "Then tonight you run a canning operation. Go."
 
+Peanut looked at her one second longer.
+"Where'd you learn bar triage?"
+
+"Twelve thousand parents," Marisol said. "This is a slow night."
+
 The jars came out dusty and went into service by the dozen.
 When the jars ran low, the coffee mugs came off the pegboard,
 a parade of mismatched churches and bass tournaments,
@@ -96,6 +101,12 @@ Somebody's grandmother ended up with a Pyrex measuring cup,
 a half-pint of beer sitting exactly on the one-cup line,
 and defended it the rest of the night from all comers.
 
+"I measured," she told anybody who eyed it. "That's a one-cup pour."
+
+"You got what everybody got," Peanut said.
+
+"Then fill it to the handle."
+
 "This is a candle holder," the dentist said, peering into his mug.
 
 "It's a mug," Marisol said, rinsing.
@@ -103,6 +114,13 @@ and defended it the rest of the night from all comers.
 "It says Ashford Sportsman's Club 1988."
 
 "Then it's a collectible, and you're welcome."
+
+The dentist raised the mug to the room at large.
+"Biggest win since the moon landing," he announced.
+
+"Says who?" Sonny said.
+
+"Says me. I'm saying it."
 
 Birdie Pham's flower vase went last and went hardest.
 It was riding the end of the bar with six zinnias in it,
@@ -124,8 +142,10 @@ and slid the vase down the bar to Peanut.
 "On loan," she said. "Washed, returned, and he owes you flowers."
 
 "He owes me a headstone," Birdie said, but she let it go,
-and the vase came back down the bar two minutes later
-full of draft beer and dignity, and the whole rail toasted it.
+and the vase came back down the bar two minutes later,
+full of draft beer and dignity.
+
+"To the vase," Sonny said, and the rail drank to it.
 
 Her phone went off against her hip in the middle of the toasting.
 
@@ -152,7 +172,7 @@ which by then was top-shelf service.
 
 Cal Sutter was in the corner with his crew.
 
-She'd known it for an hour, the way you know where the door is.
+She'd known it for an hour, the same as she knew where the door was.
 The cold had put half the town in flannel tonight,
 and it was doing him a row of favors she declined to itemize,
 the sleeves turned back, the shoulders under it
@@ -162,7 +182,7 @@ and the jukebox had been dark since the fourth quarter,
 when the room had needed every inch of the broadcast call
 and Cal had reached behind the machine without getting up
 and pulled the plug one-handed, not even looking,
-the way other men reach for their own coat.
+and gone back to his beer.
 Nobody had plugged it back in.
 Nobody had missed it.
 The town was the music tonight, and he'd known it an hour
@@ -187,13 +207,18 @@ and squinted at the screen a long moment.
 "You said that?"
 
 "About a barn. An actual barn, with an actual tree through it."
-Earlene straightened up, ninety percent offended,
-ten percent flattered, all cattle rancher about the ratio.
-"Now it's got a sunset on it."
+Earlene straightened up, ninety percent offended
+and ten percent flattered, both at full volume.
+"Now it's got a sunset on it.
+Who goes around saving up what I say?
+Nobody writes me down when I want them to."
+
+"I do," Marisol said.
+
+"You're different. You ask first."
 
 Marisol's thumb did the screenshots before the rest of her voted.
-One, two, timestamped, filed, the tidy motion
-of a habit with calluses on it.
+One, two, timestamped, filed.
 Sunday the logs would go out with the coffee, same as every Sunday.
 
 The second one came in quieter, the way the second one always did.
@@ -214,7 +239,7 @@ Whoever they were, they were lobbying her.
 She put the phone face-down in her tote,
 on her own schedule, and picked her jar back up,
 because it was the best night this town had thrown all year
-and she had decided at five forty one morning in August
+and she had decided at five forty on an August morning
 whose Saturdays these were.
 
 The trial started at the pool table around eleven.

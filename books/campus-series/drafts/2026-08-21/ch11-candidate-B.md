@@ -151,7 +151,7 @@ and one locker room away.
 
 *MOM. TELL ME YOU WATCHED*
 
-Then, before her thumb found a word,
+A second one landed before her thumb found a word.
 
 *sideline was the best seat in the state. ears still ringing*
 
