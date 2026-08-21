@@ -157,3 +157,6 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-21 | plot-architect (campus wave-3 briefs ch9-12) | A6 room-first (first draw of a [romance] architect card) | plots/wave3-directive.md |
 | 2026-08-21 | plot-architect (youngnick v2 ch6 competition brief) | A2 subplot audit | books/youngnick/plots/ch6-brief.md |
 | 2026-08-21 | showrunner (nightly shift, scheduled, in-session) | — | this shift |
+| 2026-08-21 | romance-reader-panel (campus ch1-8 continuous gate read, pre-wave-3) | — (no card; panel deck TK) | notes/ (filed by orchestrator) |
+| 2026-08-21 | superfan-reviewer (campus ch1-8 continuous gate read, pre-wave-3) | C5 last-five-lines | notes/ (filed by orchestrator) |
+| 2026-08-21 | red-team-critic (campus ch1-8 gate read, pre-wave-3) | C6 comp-shelf read | notes/ (filed by orchestrator) |
