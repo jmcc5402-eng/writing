@@ -81,6 +81,14 @@ and the coffee mugs after them,
 and a ranked team's worth of beer left that bar in crockery
 that said things like WORLD'S OKAYEST FISHERMAN.
 
+"The trophy case is not glassware," Peanut called down the bar.
+"Whoever has got my softball cup, that's a felony."
+
+"It's a nice cup," the dentist said, and drank from it.
+
+"There's a jelly jar in my purse," the grandmother said.
+"Ashford born and raised."
+
 Birdie Pham fought her way in from the truck
 with a cut-glass vase the size of a fire hydrant,
 handed the zinnias out of it to the grandmother to hold,
@@ -270,8 +278,12 @@ the grandmother said from the good stool.
 
 "That's generally what asking is for."
 
-Nobody heard her, or everybody did and ruled it out of order.
-Sonny Dillard raised two fingers to Peanut instead.
+"Ask him at the board meeting," Sonny Dillard said.
+"Bring his round with you."
+
+Nobody else heard her,
+or everybody did and ruled it out of order.
+Sonny raised two fingers to Peanut instead.
 
 "Round for Tunk," Sonny said. "Wherever he's at.
 Man's either a scoundrel or a customer,
@@ -292,6 +304,11 @@ Ray and Earlene and Verna and every Saturday still coming,
 so she turned past all of that to a clean back page
 and wrote, in bar light, in a steady hand,
 *Tunk Ferrell?*
+
+"What's the question mark for?" Earlene said.
+
+"Honesty," Marisol said. "It's running short tonight."
+
 The question mark stayed.
 She had watched opinions hatch fully grown on a Tuesday,
 and a town could convict a man

@@ -111,7 +111,7 @@ uninvited, the whole six blocks to Millrow.
 
 Hartwell House kept daylight hours like any business on the street.
 Front door standing open to Millrow,
-the way it stood open every day and had for a hundred years,
+as it stood open every day and had for a hundred years,
 and nobody at all inside.
 An off Saturday made the street quiet enough
 to hear the Curb Market running six blocks off,
@@ -119,6 +119,10 @@ a low tide of talk and tailgates from the square.
 The show mum still held the bottom step,
 bronze, magnificent, claimed by nobody,
 and watered, lately, by somebody who kept that to himself.
+
+Cal's truck sat at the curb under the oaks,
+the milk crate riding in the bed the same as any Monday,
+though nothing in it today had cost the university a cent.
 
 The rosebush lived at the east end of the porch,
 a climber, old, thorned like it held opinions,
@@ -292,6 +296,9 @@ She considered the zinnias, then the bush,
 then the long gray porch that hadn't held a flower all fall.
 "The rail gets better light.
 She can keep an eye on them out here."
+She walked the zinnias down the rail
+and stood them at the east corner, nearest the bush,
+the same courtesy she'd have shown a stranger's cake table.
 
 He looked at her then, and she looked back,
 and neither of them called time on it,

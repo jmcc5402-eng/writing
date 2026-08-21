@@ -63,8 +63,8 @@ wrong in three places and unanimous.
 It was the glasses that broke first.
 
 "That's it," Peanut Kyzer hollered from behind his own bar,
-holding up two pint glasses the way a man holds the last
-two sandbags in a flood. "That's the fleet. I'm out."
+holding up two pint glasses like the last two sandbags
+in a flood. "That's the fleet. I'm out."
 
 "You can't be out," Sonny Dillard said. "It's nine o'clock."
 
@@ -177,16 +177,11 @@ The cold had put half the town in flannel tonight,
 and it was doing him a row of favors she declined to itemize,
 the sleeves turned back, the shoulders under it
 making the corner look small and well organized.
-His crew had the jukebox table,
-and the jukebox had been dark since the fourth quarter,
-when the room had needed every inch of the broadcast call
-and Cal had reached behind the machine without getting up
-and pulled the plug one-handed, not even looking,
-and gone back to his beer.
-Nobody had plugged it back in.
-Nobody had missed it.
-The town was the music tonight, and he'd known it an hour
-before the town did.
+His crew had the jukebox table, laughing at half volume,
+and he sat easy in the middle of them,
+one boot hooked on a chair rung, in no hurry anywhere,
+and she went back to her rinsing
+before the looking got itemized too.
 
 Her phone buzzed again while she was not watching him.
 
@@ -221,7 +216,7 @@ Marisol's thumb did the screenshots before the rest of her voted.
 One, two, timestamped, filed.
 Sunday the logs would go out with the coffee, same as every Sunday.
 
-The second one came in quieter, the way the second one always did.
+The second one came in quieter. The second one always did.
 A name she'd never seen, three weeks old, no photo,
 polite as a sympathy card.
 *So grateful for all you do for this community.
@@ -285,6 +280,17 @@ and both halves of the bar felt righteous going into midnight,
 and it was all warm, and it was all neighborly,
 and not one soul in the building had shown anybody a fact.
 
+Somewhere in the third round of appeals,
+somebody's quarters woke the jukebox up
+into the middle of all that argument,
+and Cal reached behind the machine without getting up
+and pulled the plug one-handed, not even looking,
+and went back to his beer.
+Nobody objected. Nothing went missing.
+The town had been its own music all night,
+and he was the only one in the building
+who'd heard the machine try to compete.
+
 Marisol got out the spiral notebook.
 
 She turned past the House's people, past Ray and Earlene and Verna,
@@ -305,7 +311,7 @@ at the same volume.
 
 "It's the difference between a list and a mob," Marisol said.
 
-Earlene considered that the way she considered a sky in April.
+Earlene gave that the consideration she gave a sky in April.
 "Keep the pen," she said. "Town's got plenty of chalk."
 
 Last call came and went and didn't take.
@@ -337,8 +343,8 @@ and the look crossed the whole loud length of the Blind Mule
 like it had the room to itself.
 She held it. One beat, then the beat after,
 past the place where either of them could have filed it
-as an accident, and the unplugged jukebox sat there beside him
-saying nothing, the way it had all night,
+as an accident, and the jukebox sat dark beside him,
+unplugged an hour now, bothering nobody,
 and neither of them fixed that either.
 
 "Pham!" Peanut hollered from the sink. "Your vase!
