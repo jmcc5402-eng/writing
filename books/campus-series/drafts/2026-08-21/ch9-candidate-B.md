@@ -86,6 +86,11 @@ It was good coffee. That was somehow the last straw.
 "Somebody on his porch smelling his smoke at five a.m.
 Ray'd sell tickets to that if he could figure the seating."
 
+"And the pit just minds itself?"
+
+"Loaded to run till breakfast.
+We keep each other company."
+
 She laughed, quick and quiet, mindful of the hour.
 The pit out back settled a log with a soft collapse
 and sent up a fresh column, sweet on the new cool,
@@ -101,6 +106,16 @@ two people and a dog and a town not awake yet,
 steam standing off the coffee in the cold,
 and November could have the daylight.
 The dark before five belonged to nobody at all.
+
+"First cool morning of the year," she said.
+
+"Came in about two. Wind backed around north.
+You could smell it change."
+
+"You were up at two?"
+
+"I was up," Cal said, and left it at that,
+and she let him leave it.
 
 "For the record," she said, into that quiet, not loud,
 "you have had my wrench all season."
@@ -179,7 +194,7 @@ A low blue-white strip woke up behind the Checkerboard's glass,
 back of the counter, the one over the flat-top.
 
 "That's the griddle," Cal said. There was no gloat in it.
-It was closer to a man confirming sunrise.
+He might have been confirming sunrise.
 
 "You knew."
 
@@ -203,13 +218,12 @@ She put her hand flat on the rail and got herself back.
 "Give me the rest of it," she said. "The whole order."
 
 He was quiet a second, and then he gave it to her, unhurried,
-eyes on the street, reciting something
-he had never once had to memorize.
+eyes on the street, reciting a thing he had never had to learn.
 "Griddle first. Then Verna's office light at the Magnolia Court —
 she'll tell you she doesn't sleep, and the light backs her up.
 Courier window, that's your paper, upstairs.
 Carillon test. Fountain's turns its sign when Odell gets there.
-Tick signs 1340 on and plays the anthem to nobody.
+Tick signs 1340 on to an empty county.
 Then my trucks come up Millrow at six,
 and after that it's daytime,
 and everybody gets to believe the town starts itself."
@@ -244,6 +258,10 @@ squared it there the same as she'd found it.
 Ratchet got up too and escorted her the whole four feet
 to the top of the steps, supervising the departure,
 and got the smile Marisol had going spare.
+
+"Your dog runs a tight porch."
+
+"She came with the arrangement," Cal said.
 
 "You don't have to run off," Cal said.
 
