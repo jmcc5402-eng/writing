@@ -173,3 +173,5 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-21 | drafting-assistant (campus ch12 blind, run B) | D2 hands and objects (deck wrapped, 2nd draw this wave) | drafts/2026-08-21/ch12-candidate-B.md |
 | 2026-08-21 | drafting-assistant (campus ch12 blind, run C) | D3 short-declarative (deck wrapped, 2nd draw this wave) | drafts/2026-08-21/ch12-candidate-C.md |
 | 2026-08-21 | romance-reader-panel (campus ch9 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ (filed by orchestrator) |
+| 2026-08-21 | romance-reader-panel (campus ch10 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ (filed by orchestrator) |
+| 2026-08-21 | romance-reader-panel (campus ch11 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ (filed by orchestrator) |
