@@ -160,3 +160,12 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-21 | romance-reader-panel (campus ch1-8 continuous gate read, pre-wave-3) | — (no card; panel deck TK) | notes/ (filed by orchestrator) |
 | 2026-08-21 | superfan-reviewer (campus ch1-8 continuous gate read, pre-wave-3) | C5 last-five-lines | notes/ (filed by orchestrator) |
 | 2026-08-21 | red-team-critic (campus ch1-8 gate read, pre-wave-3) | C6 comp-shelf read | notes/ (filed by orchestrator) |
+| 2026-08-21 | drafting-assistant (campus ch9 blind, run A) | D7 open mid-motion | drafts/2026-08-21/ch9-candidate-A.md |
+| 2026-08-21 | drafting-assistant (campus ch9 blind, run B) | D5 weather as texture | drafts/2026-08-21/ch9-candidate-B.md |
+| 2026-08-21 | drafting-assistant (campus ch9 blind, run C) | D6 run past comfortable | drafts/2026-08-21/ch9-candidate-C.md |
+| 2026-08-21 | drafting-assistant (campus ch10 blind, run A) | D2 hands and objects | drafts/2026-08-21/ch10-candidate-A.md |
+| 2026-08-21 | drafting-assistant (campus ch10 blind, run B) | D3 short-declarative | drafts/2026-08-21/ch10-candidate-B.md |
+| 2026-08-21 | drafting-assistant (campus ch10 blind, run C) | D4 minor-character competence | drafts/2026-08-21/ch10-candidate-C.md |
+| 2026-08-21 | drafting-assistant (campus ch11 blind, run A) | D1 sound-forward | drafts/2026-08-21/ch11-candidate-A.md |
+| 2026-08-21 | drafting-assistant (campus ch11 blind, run B) | D7 open mid-motion (deck wrapped, 2nd draw this wave) | drafts/2026-08-21/ch11-candidate-B.md |
+| 2026-08-21 | drafting-assistant (campus ch11 blind, run C) | D5 weather as texture (deck wrapped, 2nd draw this wave) | drafts/2026-08-21/ch11-candidate-C.md |

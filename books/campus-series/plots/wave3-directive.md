@@ -101,10 +101,14 @@ pull in, and that night sets her alarm on purpose.
 
 **THREADS carried (quote rows to drafter):**
 - T01 — "**Still OWED** — no ch 5–8 payment. Promise planted ch 4;
-  named aloud at wine night ch 7; silent hands-glance ch 8." Carry
-  the debt in the air if at all; DO NOT return the wrench — its
-  payoff slot is not in the frozen outline (outline-rung hole,
-  flagged below).
+  named aloud at wine night ch 7; silent hands-glance ch 8."
+  **NAME IT ONCE in this chapter, lightly** (gate-read ruling,
+  2026-08-21: both pleasure reads found the promise aging — held
+  silent past ch 9 it flips from seduction to a dropped stitch);
+  DO NOT return the wrench — its payoff slot is not in the frozen
+  outline (outline-rung hole, flagged below). One line in the
+  pre-dawn quiet is the natural shape; the debt spoken and left
+  standing.
 - T16 — "OWED — exists to be tested." Not tested here: the poured
   coffee IS the contract working. Truce tone, zero House argument.
 - T02 — the pour-without-asking sits beside Cal's tell; fine.
@@ -280,3 +284,42 @@ is fixed at the outline and re-derived — never patched downstream.
 4. Marisol's own register for the tower (clock tower vs neutral) is
    handled conservatively above; rule it if you want her idiom
    fixed.
+
+---
+
+## GATE-READ ADDENDUM (2026-08-21 — BINDING, from the three CLEAR
+## verdicts: panel, superfan, red-team; per VISION, pleasure
+## findings enter briefs as binding conditions)
+
+1. **Ch 9 is the book's first private couple scene — protect it.**
+   Every couple room since ch 5 has been public and porch-scored.
+   No chorus on the porch before the crew trucks; the bet and the
+   litany breathe with nobody watching. This chapter banks the
+   intimacy that ch 11 (one look, no contact) and ch 12 (apart)
+   spend. It also carries the T01 name-it-once ruling (see the ch 9
+   brief above).
+2. **Ch 11: one sock post on the page misspells "ya'll."** Red-team
+   load test: ch 25's forensics lean on "thirty-one accounts that
+   misspell y'all identically," and only the program back page
+   (ch 6) carries the tell so far. Inside the P15 flicker/archive
+   echo, one Concerned4Ashford or AshfordSafetyMom line shows
+   "ya'll" — unremarked, no one notices on the page.
+3. **Ch 11 optional slot (F3, one clause):** Marisol's "one pen"
+   leap gets its reasoning somewhere in a Marisol chapter this
+   wave — she has watched orchestrated pressure before; the socks
+   aren't lobbying trustees, they're lobbying HER. One clause,
+   only where it lands naturally; do not force it.
+4. **Ch 12: guard the Eli-walks-Birdie-onto-the-fifty beat** the
+   way ch 7 guarded the Birmingham story — it is the chapter's
+   only wine-night-sized pleasure and the panel's named worry for
+   two consecutive low-contact chapters. It gets room, a laugh,
+   and an ache; it is not summary.
+5. **Warmth outranks the checklist (VISION, 2026-08-21).** The
+   judging panels rank on readability and romance first; a
+   candidate that clears every mechanical gate but reads cold
+   loses. Chorus sparkle may not outshine the leads in ch 9 or 10:
+   the leads get the best line in any scene they share.
+6. **Ch 12 pre-flight, still open at directive level:** the
+   tell-tale year count must be RULED before the ch 12 field runs
+   (a [TK] in the wife's handwriting is a banned move at an
+   emotional peak). Ch 9–11 fields may run ahead of it.

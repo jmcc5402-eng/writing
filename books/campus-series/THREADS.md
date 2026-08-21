@@ -35,7 +35,7 @@ rows that touch it.**
 | T07 | **The clock tower vs the carillon** | ch 1 | **RECONCILED** (author merge of PR #87, 2026-08-21): one tower — "clock tower" is the town's register for the carillon; canon note in `town-ashford.md` §2. Earlene's line stands. |
 | T08 | **Eli doesn't drink coffee** | ch 1 | Untouched by 5–8 (ch 6's coffee line is Cal's, not Eli's); still OWED ch 12/13 |
 | T09 | **Ratchet's grading system** | ch 2 | Locks on the ch 2 winner |
-| T10 | **Cal steps *over* the third step** | ch 2 (proposed) | **Not confirmed by ch 5** — he kneels ON it to work and exits by the back hall; the transit habit is never staged. `[TK: verify the accepted ch 2 carries it]` |
+| T10 | **Cal steps *over* the third step** | ch 2 | **CONFIRMED on the accepted page** (red-team gate read, 2026-08-21): ch02:246 "He stepped over the third step without thinking about it" and ch02:264 "Coming down, he stepped over the third step again." T03's ch-30 payoff has its setup. Ch 5 stages the work-kneel, not the transit — both true. |
 | T11 | **Boyd never raises his voice** | ch 4 | **CONFIRMED ch 6** ("the volume he took everywhere, which was one") — lock as villain rule |
 | T12 | **Leads-together ledger** — words the couple shares a scene for | ch 1 | **PAID for the quarter** (ch 5, 6, 8 seat them; ch 7 pays the second owed — her appointment: November, one pen). Remains a live series meter, not a debt. |
 | T13 | **Wine night, the institution** | ch 7 | Live — OWED: recurs, and every recurrence owes an interrupted story; shaker collateral on the rail; consider S## promotion |
@@ -44,7 +44,7 @@ rows that touch it.**
 | T16 | **The ground-rules contract** | ch 8 | OWED — exists to be tested; breach/test chapter `[TK]` |
 | T17 | **The filmed hinge-fix** | ch 8 | OWED — the footage exists; payoff `[TK]` |
 | T18 | **The skipped frame on the wall** | ch 5 | OWED — payoff `[TK]`; tracked by readers (superfan: "riots if forgotten") |
-| T19 | **The sock campaign / Kudzu Media LLC** | ch 6 (back page) + ch 7 (accounts) | OWED — handles canon (Concerned4Ashford / AshfordSafetyMom); vendor named **Kudzu Media LLC** (ruled on merge, 2026-08-21 — chipper-local on a program back page, and the metaphor is the campaign: planted, spreads fast, chokes what it covers; deliberately untraceable to Boyd until the wire surfaces `[TK]`) |
+| T19 | **The sock campaign / Kudzu Media LLC** | ch 6 (back page) + ch 7 (accounts) | OWED — handles canon (Concerned4Ashford / AshfordSafetyMom); vendor named **Kudzu Media LLC** (ruled on merge, 2026-08-21 — chipper-local on a program back page, and the metaphor is the campaign: planted, spreads fast, chokes what it covers; deliberately untraceable to Boyd until the wire surfaces `[TK]`). **The "ya'll" misspelling is a PLANT, not a typo** — the outline of record pays it at ch 25 ("thirty-one accounts that misspell y'all identically"); never correct it, and ch 11 puts one instance inside a sock post (gate addendum item 2). |
 | T20 | **Cal's carried secret** (survey · signature · twelve names · winter money) | ch 6 | OWED to the ch 15 midpoint reveal; carried ch 8 |
 | **T21** | **Cal's tell (C1)** — the corner of his mouth goes where it isn't invited when she beats him and he likes it | ch 1 (:149) | **RULED** (author, PR #85 option A, 2026-08-20) — ration 2 firings/book plus the door-smile at 3/book; **OWED:** the FULL smile. See below. |
 | S01 | Cordelia Hartwell's letters | 1.2 | Series-level; 1.1 owes nothing |
