@@ -13,6 +13,19 @@ author's to-do list; merges are decisions; nothing waits on memory.
 
 ## Standing direction (author, as of 2026-08-05)
 
+**FOCUS OVERRIDE (author, 2026-08-21, in chat — outranks the
+per-book lines below until lifted): "I want to spend 90% of time on
+the campus series until we get the first book out… no need to
+update the other books."** Operationally: shifts spend their
+dispatch and PR budget on campus Book 1.1; spytwins, Young
+Nicholas, and MYBYB go to QUIET HOLD — no new instrument jobs, no
+new briefs, no gate PRs for them, and the nudge stops offering
+their go-words. Their loaded work stays parked and ready (B3 passed
+red-team, rung 2 staged; youngnick ch 6 brief written; MYBYB warm):
+nothing is lost, nothing moves. The hold lifts when campus Book 1.1
+is out or the author says so. The ~10% residue is reactive only —
+processing anything the author merges or asks for on those books.
+
 - **Spytwins:** Book 1 is done for now (~95%); final polish batched
   once Books 1–3 exist; PUBLISH when four books are written. Book 2
   is rung-3 frozen — briefs next; prose only on the author's "draft."
