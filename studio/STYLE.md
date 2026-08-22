@@ -50,6 +50,39 @@ does, the book wins, and the override should be written down there.
   don't get tired and don't learn bad habits; anything greppable gets
   grepped, not proofread.
 
+- **The 2026-08-22 scrub rules** (author-directed AI-tell scrub of
+  campus ch 1–12; evidence in
+  `books/campus-series/notes/ai-tell-scrub-2026-08-22.md`):
+  - **Endings budget.** At most half the chapters in a book may end
+    on a wry button or antithesis couplet ("Nobody X. Everybody Y.";
+    "wanted A / settled for B"). At least two chapters per book end
+    unresolved, mid-gesture, or on plain information — a sentence
+    that sits there being true. Twelve composed landings in a row is
+    itself the tell. Briefs deal each chapter an ending register.
+  - **No feelings in the filing cabinet outside Cal's POV** (campus;
+    generalize per book: the ledger family — filed, logged,
+    unbudgeted, itemized, under advisement — applied to emotion is
+    ONE character's tic, max twice per chapter, never in a chapter's
+    final ten lines).
+  - **Body-autonomy scaffold, once per chapter.** The exact idioms
+    "before s/he could vote on it" and "before s/he could dress it
+    up/down" are spent — banned.
+  - **Banned fingerprint words** (campus): "unhurried" (spent);
+    "declined to" + mental verb (Cal only, once per book); "That was
+    the whole [X] of it" (spent); "and meant it" (spent);
+    sentence-initial vague "Somewhere…" (2 per chapter).
+  - **Precision-timed feelings: one gauge per chapter** ("for
+    exactly N seconds" family). "One beat" in timing constructions:
+    closed at five uses (campus).
+  - **Personification ration: three per chapter,** memorable ones;
+    everything else gets a plain verb.
+  - **Someone's joke must die.** Per chapter with 3+ named speakers,
+    at least one line of dialogue lands flat, boring, or wrong — and
+    stays uncommented.
+  - **Homeward-coda cap.** The alone-in-transit-home closing is
+    spent for campus Book 1.1; new chapters may not end in a vehicle
+    or on a solitary walk home.
+
 ## Revision passes
 
 Run them separately. Combining them is how notes get lost:

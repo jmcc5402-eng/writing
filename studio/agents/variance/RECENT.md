@@ -10,6 +10,24 @@ list in the agent's invocation as "banned moves this run."
 
 ## drafting-assistant
 
+### Scrub bans (2026-08-22, campus — ride in every wave-4+ brief)
+
+- BANNED: "before s/he could vote on it" and all committee-of-the-self
+  variants; one involuntary-body beat per chapter max.
+- BANNED: the words "unhurried", "declined to [verb of thought]",
+  "That was the whole ___ of it", "and meant it".
+- BANNED: filing/ledger metaphors for feelings outside Cal's POV;
+  in Cal's POV max two, never in the last ten lines.
+- BANNED: ending the chapter on a wry button, antithesis pair
+  ("Nobody X. Everybody Y."), or a character traveling home alone.
+  End your chapter per its dealt ending register; the brief says if
+  yours is a button chapter.
+- BANNED: "one beat" in any timing construction (motif closed at five).
+- BANNED: giving every speaker a punchline; write one flat line for a
+  named character and let it lie there.
+- QUOTA: three personifications per chapter, no more.
+
+
 - The "the way X does Y" simile scaffold — 24 uses in 8,099 words
   (Young Nicholas ch1–4, 2026-07-26 review).
 - Trailer-voice chapter endings — advertising the next chapter instead of
