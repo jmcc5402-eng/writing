@@ -1,4 +1,10 @@
-# Book 1.1 Outline — REVISION 2.2 — **RATIFIED AND FROZEN**
+# Book 1.1 Outline — REVISION 2.3 — **RATIFIED AND FROZEN**
+REVISION 2.3 — the rev 2.3 amendment applied in place, 2026-08-22,
+per the merged amendment, PR #95 (`b11-outline-rev2.3-amendment.md`,
+sections 1–6: the June clock priced and decided at 29, P18, Kat on
+the page at 25/29; the occupation at 25; T24's pie debt at 23;
+T25's bloom at 19; the month row; SR-7's Friday-COB write-through),
+applied on top of:
 REVISION 2.2 — the PR #70 repair pass (authorized by the author's
 merge of #70, 2026-08-16), applied on top of 2.1 (approved outline +
 gate repairs + Gilmore calibration, author, PR #56)
@@ -175,11 +181,11 @@ the emptying house. Identity: the fixer — if she runs the room well
 enough, nothing she loves gets torn down and nobody leaves.
 Essence: a leader who values true over winning and people over the
 win. The climax is unwinnable from inside the identity: the fixer
-would keep the mic; only essence yields her time. **Clock (PROPOSED
-2.2, restored from premise v2's principle — ratified by merging this
-revision; trigger per D07):** the settlement calendar — the decree
-gave her until the June after the youngest left home to buy out his
-half of the house or list it; the daughter left in August, so the
+would keep the mic; only essence yields her time. **Clock (RULED at
+the 2.2 merge; fair-play P18; priced and decided at 29):** the
+settlement calendar — the decree gave her until the June after the
+youngest left home to buy out his half of the house or list it; the
+daughter left in August, so the
 window is finally, suddenly live. Staying in Ashford is now a purchase, not a
 default; every windows-down Saturday is quietly weighed against a
 circled date on the fridge. Surfaces as an artifact at ch 7; priced,
@@ -458,7 +464,9 @@ hour failing to sell a pontoon boat nobody will admit to owning,
 the crew argues it down to forty dollars on principle, and Ray
 sends a to-go box up the hill with MULE, THURSDAY — WE'RE
 CELEBRATING NOTHING, COME ANYWAY inked on the lid. Cal wants time;
-the deadline gives him none. So he makes the wrong choice for right
+the transmittal sheet gives him until Friday, close of business —
+for the trustees' November packet — which is none. So he makes the
+wrong choice for right
 reasons: he locks the unsigned draft in the motor-pool drawer and
 tells no one — Marisol first of all, and that's the ache under a
 shop full of laughing men; he picks up the phone twice with her
@@ -482,6 +490,8 @@ stringing lights for believes his name is the House's death
 warrant. Everything she built and everything she was starting to
 trust fail in the same three hours — but the half-hung lights stay
 lit behind her, and she drives toward the only lit door on campus.
+All of it lands on the Tuesday of the deadline week, Friday COB
+already three days out.
 
 ### Ch 16 — The Only Lit Door (Cal)
 MIDPOINT, second movement. Near midnight the motor pool's bay light
@@ -490,9 +500,11 @@ spoiling for the fight of her life. Ratchet votes first — head on
 her boot. Cal opens the drawer: DRAFT — UNSIGNED across every page,
 and the ground rules that decided the verdict before anyone climbed
 a ladder. Two people and the reader now hold a truth the whole town
-doesn't. They strike the alliance — he fights it from inside, she
-rebuilds outside, and neither can say the other's name in public —
-and the first kiss lands in the smell of diesel and WD-40, tasting
+doesn't. They strike the alliance — Friday, close of business, on
+the table between them; he confesses the deadline before she sets
+her price — he fights it from inside, she rebuilds outside, and
+neither can say the other's name in public — and the first kiss
+lands in the smell of diesel and WD-40, tasting
 like relief and like trouble. Fully honest with each other now, and
 still on opposite sides of a payroll. The conflict survives the
 honesty. That's the book. [HEAT 1]
@@ -520,7 +532,8 @@ The transcript is taped in the break room by Wednesday, his silence
 typed as "[pause]"; the Mule goes a degree quieter when he walks
 in, so Peanut sets his beer down on the house — which, in Mule
 grammar, is a full-throated endorsement. Boyd, reading leverage,
-sets the deadline — the Friday before the trustees come. Over the
+resets the deadline — the paper Friday having died unsigned — to
+the Friday before the trustees come. Over the
 yard fence Cal asks the engineer the one question that matters: can
 a certifying official answer a finding with his own? Only with one
 of equal standing — real drawings, real numbers, no shortcuts;
@@ -543,8 +556,13 @@ come back level by noon, she says the found answer out loud for the
 first time: the House needs exactly the trades Boyd's decks
 promised — what if the restoration IS the winter? The crew accepts
 her the way they'd accept a good tool, which she understands is the
-highest compliment on offer. She drives home with sawdust in her
-hair and catches herself in the mirror not minding at all.
+highest compliment on offer. And on the east lattice, above the
+sawhorses and the wreckage, the wife's rose has opened — October,
+holding to form, the storm having failed to take a single bud — and
+Marisol tells him so in his own doorway: 'She's still winning.' He
+drives the next nail a little slower, and nobody on the crew learns
+why. She drives home with sawdust in her hair and catches herself
+in the mirror not minding at all.
 
 ### Ch 20 — The Ledger (Cal)
 Nights at the House: work lights, tape measures, a counter-report
@@ -609,8 +627,11 @@ somebody's photo is making the rounds and the board has identified
 him as a new strength coach, a visiting country singer, and "the
 tall one from facilities, asking for a friend." She reads the best
 guesses aloud in a Checkerboard booth, fully prepared to die of it;
-he listens all the way through, flags down pie, and asks whether
-her friend would like his phone number. The Liars' Table looks
+he listens all the way through; she flags down the buttermilk she
+has owed him since Delmar's porch and pays her debt in front of the
+whole Liars' Table — a debt like that keeps, and there is nothing
+left to wait for now — and he asks whether her friend would like
+his phone number. The Liars' Table looks
 over, which by Ashford law is a press release. He walks her out
 past every grinning face with his hand at her back, and she decides
 the co-authors can have this chapter. [HEAT 3 — door per TK ladder]
@@ -646,8 +667,14 @@ eggs: "You can win crooked. You just can't keep it." And then,
 arranging her silverware: "We had astroturf before the internet,
 honey. We called it the Chamber of Commerce." So Marisol burns her
 own surge from the booth — wine night reconvened around her as a
-six-a.m. war room, Aisha triaging screenshots, Birdie running
-coffee, the friendship planted in ch 7 paying its rent: the watermarked pages — DRAFT,
+six-a.m. war room — Aisha triaging screenshots, Birdie running
+coffee, and the fourth chair filled at last: Kat, her realtor,
+mid-story about the margarita boyfriend when the next screenshot
+cuts her off (T13's interrupted-story rule, paid), the zipped June
+folder staying in her bag all morning, which is its own kind of
+friendship — and Marisol reading strangers' invoices and
+timestamps the way she reads them for a living, the friendship
+planted in ch 7 paying its rent: the watermarked pages — DRAFT,
 UNSIGNED, every sheet, photographed with Cal's consent; the leaked
 file's own fingerprints naming Kudzu Media LLC;
 thirty-one accounts that misspell y'all identically and quote the
@@ -724,11 +751,19 @@ before he is out of the room.
 Scaffolding up, tarps on, and the clipboard retired under glass on
 the House mantel — the second guest book, seven thousand names, its
 work done. The board live-blogs Marisol and Cal holding hands at
-Delmar's and gets every single fact gloriously wrong, and for once
-she lets the thread run. Her son's voicemail — travel-squad hopes,
-rivalry nerves, *love you mom, gotta go* — and her daughter's
+the Checkerboard and gets every single fact gloriously wrong, and
+for once she lets the thread run. Her son's voicemail — travel-squad
+hopes, rivalry nerves, *love you mom, gotta go* — and her daughter's
 good-luck text from Bellamy; the chair still empty, the app still
-closed, and she is not counting. Birdie's truck parks at the House
+closed, and she is not counting. Then Kat comes up the walk with
+the folder she has carried zipped since August — the listing papers
+for the house two states back, his half and hers, the doorway with
+two kids' heights penciled up it — and Marisol signs it on the
+porch rail, months before the decree could make her: she cannot buy
+out his half and won't pretend otherwise, so what staying costs
+finally has a name and a signature, and the June page comes off the
+fridge before June does. Kat, a professional, waits until the pen
+is down to hug her. Birdie's truck parks at the House
 gate with porch flowers, and Eli asks her to the rivalry game out
 loud, in front of the whole crew, with no fuel pump anywhere in the
 sentence.
@@ -783,7 +818,7 @@ artifacts and events.
   name surfaces; let the town watch the director fail to answer for
   himself (collides: ch 14, 15, 17). Set the Friday-before-the-
   trustees deadline (ch 18).
-- **November:** if the signature hasn't come, leak the preliminary
+- **Late October–November:** if the signature hasn't come, leak the preliminary
   as if it were the condemnation; offer the memorial back as a
   bronze plaque; make the gift contingent on the eve (collides:
   ch 24, 26, 27). Either way, the winter survey of the next target
@@ -839,6 +874,8 @@ together at 15–17, 22/24, 27, and 28.
 | P14 | She bulk-approved the August accounts herself | 3 | 15 (the coup partly her own doing) |
 | P15 | Socks quote town wisdom "two mayors ago" (archive mining) | 11 | 25 (the morgue-mining fingerprint) |
 | P16 | Leak rehearsal: CONDEMNATION — FINAL, posted and deleted | 21 | 24 (superior position on the real leak) |
+| P17 | The wrench promise — "I'll bring you the right one" (planted ch 1; the right size hung on the parts wall ch 4; named aloud ch 9) | 1, 4, 9 | 16 (off the wall, palm to palm; "a matched set at last" — SR-6, ratified PR #94; row added at the rev-2.3 write-through, closing the wave-4 fold's missed outline entry) |
+| P18 | Marisol's June clock — the decree's buy-out-or-list window, live since the daughter left in August (D07) | 7 (the circled date on the fridge), 25 (Kat's zipped folder) | 29 (the listing signed, the cost said out loud; the June page off the fridge) |
 | RH1 | The leak reads as Cal's signed condemnation | 24 | Cleared 25 — honest signals: P8 (reader, ch 16) + file provenance |
 | RH2 | The socks read as Tunk Ferrell (public deck bid) | 11 (the Mule convicts him over the deck bid; her notebook question mark) | Cleared 25 — honest signal planted 13: socks post through Sunday services while Tunk visibly ushers at First Methodist; true operator = P7's paid vendor |
 
@@ -852,7 +889,7 @@ only by found work (P2 + P9 + P10).
 ### STATE IN/OUT chain
 
 Wk1 = move-in week (pre-book, referenced); ch 1 = first home
-Saturday, Wk2; trustees meet Tue Wk14 (mid-Nov). Report column
+Saturday, Wk2; trustees meet Tue Wk14 (early Nov). Report column
 tracks the physical document.
 
 | Ch | Day | The report is… | Who newly knows what |
@@ -870,11 +907,11 @@ tracks the physical document.
 | 11 | Sat Wk7 | unchanged | Marisol: the look across the Mule; archive-echo sock (P15) |
 | 12 | Fri Wk8 | field data taken; rigged rules read | Cal: scope rigged; tell-tales = proof. Reader: Birdie×Eli on the fifty |
 | 13 | Sun Wk8 (5th) | unchanged | Town: the supper called. Marisol: socks post through Sunday dinner (RH2 signal) |
-| 14 | Mon Wk9 | DRAFT in the drawer, unsigned | Cal: verdict pre-written; tells no one — her first of all |
+| 14 | Mon Wk9 | DRAFT in the drawer, unsigned; Friday Wk9 COB demanded (SR-7) | Cal: verdict pre-written; tells no one — her first of all |
 | 15 | Tue Wk9 | drawer; cover screenshot everywhere | Town: his name = the verdict. Marisol: seat gone; she let the socks in |
 | 16 | Tue night Wk9 | drawer → shown to Marisol → drawer | Marisol + reader: UNSIGNED, rigged (superior position opens) |
 | 17 | Thu Wk10 | drawer | Town: the question, live; his silence. Aisha's on-record refusal |
-| 18 | Fri Wk10 | drawer; Friday Wk13 deadline set | Cal: the equal-standing rule |
+| 18 | Fri Wk10 | the dead Wk9 Friday reset to Fri Wk13 | Cal: the equal-standing rule |
 | 19 | Mon Wk11 | drawer | Marisol: the twelve names; the winter answer, said aloud |
 | 20 | Tue–Thu Wk11 | drawer + counter-drawings begun (his truck) | Marisol: the whole of the grief. Cal: the winter answer's math |
 | 21 | Sat Wk11 | drawer; wiring citation filed, published by her | Town: the wiring truly bad — her own post. Reader: the rehearsal post (P16) |
@@ -887,6 +924,27 @@ tracks the physical document.
 | 28 | Tue Wk14 | SIGNED restoration finding, delivered | Town: the stay won; crew contracted; Boyd moves the survey up |
 | 29 | Wed–Thu Wk14 | filed; copy on the House mantel | Town: the couple, gloriously misread; side-pair ask |
 | 30 | Sat Wk15 | filed; new tell-tale dated on the wall | Reader: the watching is his now |
+
+Month row for the state chain (sweep ruling 12; amendment §5, PR
+#95 — the "mid-Nov" gloss corrected to early November):
+
+| Ch | Wk | Month |
+|---|---|---|
+| 1–2 | 2 | mid-to-late August |
+| 3–4 | 3 | late August |
+| 5–6 | 4 | the turn of September |
+| 7–8 | 5 | early September |
+| 9–10 | 6 | mid-September |
+| 11 | 7 | late September (first cold front) |
+| 12–13 | 8 | September's last weekend (the fifth Sunday) |
+| 14–16 | 9 | September's last Monday; the coup is October's first night |
+| 17–18 | 10 | early October |
+| 19–21 | 11 | mid-October (T25's window) |
+| 22–23 | 12 | late October (the dance) |
+| 24–26 | 13 | October's last week; the deadline dies at November's door |
+| 27–28 | 14 | the first days of November (trustees: first Tuesday) |
+| 29 | 14 | early November |
+| 30 | 15 | mid-November (rivalry Saturday) |
 
 ### HEAT placements
 

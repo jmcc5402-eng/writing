@@ -172,12 +172,19 @@ channels carry the other romances:
    one per quarter so the central couple stays the spine
    (standard 24's tether rule governs).
 
-**PROPOSED with it: Kat, wine night's fourth chair** — Marisol's
-realtor, divorced and thriving, serially and gloriously dating (the
-current one makes her margaritas); the town's romance weathervane
-across all sixteen books, and the professional holding Marisol's
-June listing decision (D07's clock). Name and role await author
-strike-or-keep at the next PR.
+**RATIFIED (author merge of PR #95, 2026-08-22): Kat, wine night's
+fourth chair** — Marisol's realtor, divorced and thriving, serially
+and gloriously dating (the current one makes her margaritas); the
+town's romance weathervane across all sixteen books, and the
+professional holding Marisol's June listing decision (D07's clock).
+Her listing is two states outside Boyd's market — no
+conflict-of-interest shadow ever touches the war room. Debuts on
+the page at ch 25's six-a.m. war-room wine night (mid-story about
+the margarita boyfriend when the next screenshot cuts her off —
+T13's interrupted-story rule, paid — the zipped June folder staying
+in her bag all morning); at ch 29 she brings the listing folder up
+the walk and Marisol signs it on the porch rail, and Kat, "a
+professional, waits until the pen is down to hug her."
 
 ## D09 — The House's door: open by day, locked by Cal at night
 **Status: PROPOSED (recorded on merge). 2026-08-20.**
@@ -267,3 +274,41 @@ syllable); **Reyes** (maiden-name-kept option — warmer, but it
 rules the heritage marker today). Sound check: Pruett collides with
 no cast name (Sutter, Boyd, Fountain, Kyzer, Dillard, Ferrell) and
 "Marisol Pruett" scans on a badge, a bylaw, and a blurb.
+
+## D12 — Marisol's occupation: self-employed bookkeeper
+**Status: RULED (author merge of PR #95, 2026-08-22; amendment §2,
+applied in outline rev 2.3 at ch 25).**
+
+She keeps the books for a dozen small businesses, most of them two
+states behind her — the client list moved when she did. Month-end
+is her season; Tuesdays and Saturdays are hers.
+
+Why this one (compact, per the amendment; grounded in accepted
+ch 1–16):
+
+1. Fits every staged day without retro-editing a line — the 4:15
+   alarms, free Tuesdays, owned Saturdays, the movable Monday at
+   the storm site; laptop-portable, self-scheduled. D06's "team mom
+   with a laptop, two states over" was already this woman.
+2. Her habits are already professional hygiene on the page, and the
+   occupation sources them: Sunday log exports "rain or shine or
+   nothing to report," timestamped screenshot filing, batch queue
+   processing, the notebook's list-not-a-mob discipline.
+3. Back-half rent: ch 25's forensics become a woman who reads other
+   people's invoices for a living (skill earned, hard rule 5); the
+   ch 27–28 pledge folder is priced by someone the town would trust
+   with a ledger line (SC2's itemized rescue); 1.3's Kudzu invoice
+   trail wants exactly her.
+4. SC3's answer to the money question: income real, modest, hers —
+   the June answer is the listing, chosen, not a buyout conjured
+   from nowhere (P18/ch 29). No "independently wealthy by
+   omission."
+5. Guard: she never audits Boyd — the machinery stays offstage; her
+   skill only reads artifacts the register already stages.
+
+Surfaces on the page first at ch 25 (the rev 2.3 war-room
+sentence). Banked runners-up: **freelance grant writer** —
+rejected: professionalizes the pledge drive SC2 needs amateur and
+communal; **remote payroll administrator** — thematic rhyme with
+the payroll stakes, rejected as on-the-nose and salaried (fixed
+hours strain the staged days).
