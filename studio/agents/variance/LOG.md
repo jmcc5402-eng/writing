@@ -194,3 +194,4 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-22 | drafting-assistant (campus ch16 blind, run A) | D6 run past comfortable (deck wrapped, 2nd draw this wave) | drafts/2026-08-22/ch16-candidate-A.md |
 | 2026-08-22 | drafting-assistant (campus ch16 blind, run B) | D2 hands and objects (deck wrapped, 2nd draw this wave) | drafts/2026-08-22/ch16-candidate-B.md |
 | 2026-08-22 | drafting-assistant (campus ch16 blind, run C) | D3 short-declarative (deck wrapped, 2nd draw this wave) | drafts/2026-08-22/ch16-candidate-C.md |
+| 2026-08-22 | romance-reader-panel (campus ch16 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ (filed by orchestrator) |

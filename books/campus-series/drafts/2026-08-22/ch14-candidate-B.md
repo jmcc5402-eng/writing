@@ -30,7 +30,20 @@ His second came off the yard with the clipboard.
 
 "They'd like a time."
 
-"Dark is a time." He took the three that weren't heat,
+"Dark is a time. Where are the crews now?"
+
+"Waiting on you to say dorms first."
+
+"Dorms first, north to south.
+The classrooms can wear sweaters till noon."
+
+"One resident put it in writing," she said, reading.
+"'Room is cold. Has been cold since Saturday.
+Am wearing my graduation gown for warmth.'"
+
+"Gown was a good instinct. Tell them the heat's coming."
+
+He took the three orders that weren't heat,
 read them walking, and handed two back.
 "Those keep till Wednesday. The gym roof doesn't.
 Send the new hire up with me after North Two."
