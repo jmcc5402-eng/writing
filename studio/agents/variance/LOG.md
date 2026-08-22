@@ -182,3 +182,15 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-21 | red-team-critic (campus AI-tell scrub, 5-chapter sample — author-directed) | C2 bookseller-shelf read (LRU; read as: would a pro reader clock the machine) | notes/ (filed by orchestrator) |
 | 2026-08-22 | plot-architect (campus wave-4 directive ch13-16) | A7 two-in-the-room (first draw) | plots/wave4-directive.md |
 | 2026-08-22 | drafting-assistant (campus ch10/ch11 endings retrofit, scrub T1) | D4 minor-character competence (LRU; read as: end on a minor character's flat true line) | manuscript on the retrofit branch |
+| 2026-08-22 | drafting-assistant (campus ch13 blind, run A) | D7 open mid-motion | drafts/2026-08-22/ch13-candidate-A.md |
+| 2026-08-22 | drafting-assistant (campus ch13 blind, run B) | D5 weather as texture | drafts/2026-08-22/ch13-candidate-B.md |
+| 2026-08-22 | drafting-assistant (campus ch13 blind, run C) | D6 run past comfortable | drafts/2026-08-22/ch13-candidate-C.md |
+| 2026-08-22 | drafting-assistant (campus ch14 blind, run A) | D2 hands and objects | drafts/2026-08-22/ch14-candidate-A.md |
+| 2026-08-22 | drafting-assistant (campus ch14 blind, run B) | D3 short-declarative | drafts/2026-08-22/ch14-candidate-B.md |
+| 2026-08-22 | drafting-assistant (campus ch14 blind, run C) | D1 sound-forward | drafts/2026-08-22/ch14-candidate-C.md |
+| 2026-08-22 | drafting-assistant (campus ch15 blind, run A) | D4 minor-character competence | drafts/2026-08-22/ch15-candidate-A.md |
+| 2026-08-22 | drafting-assistant (campus ch15 blind, run B) | D7 open mid-motion (deck wrapped, 2nd draw this wave) | drafts/2026-08-22/ch15-candidate-B.md |
+| 2026-08-22 | drafting-assistant (campus ch15 blind, run C) | D5 weather as texture (deck wrapped, 2nd draw this wave) | drafts/2026-08-22/ch15-candidate-C.md |
+| 2026-08-22 | drafting-assistant (campus ch16 blind, run A) | D6 run past comfortable (deck wrapped, 2nd draw this wave) | drafts/2026-08-22/ch16-candidate-A.md |
+| 2026-08-22 | drafting-assistant (campus ch16 blind, run B) | D2 hands and objects (deck wrapped, 2nd draw this wave) | drafts/2026-08-22/ch16-candidate-B.md |
+| 2026-08-22 | drafting-assistant (campus ch16 blind, run C) | D3 short-declarative (deck wrapped, 2nd draw this wave) | drafts/2026-08-22/ch16-candidate-C.md |
