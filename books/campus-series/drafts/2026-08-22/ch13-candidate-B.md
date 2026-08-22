@@ -49,6 +49,9 @@ and not one of them touched anything.
 
 Nobody took it up. The hood stayed up too.
 
+"Somebody push it or marry it," Earlene said.
+"It's blocking my truck."
+
 Somebody's tailgate radio had the swap shop on,
 and Tick Moran, it developed, already knew.
 
@@ -177,6 +180,8 @@ before he got his coffee to it in time.
 "For anybody worried," Birdie said, to her sheet cake,
 "the pump came with a ninety-day warranty."
 
+"Ninety days," Odell said. "You hear that, church."
+
 The sheet cake moved by relay, cut in the kitchen
 and passed down the tables plate over plate,
 and one plate came up the line to Cal
@@ -233,7 +238,7 @@ and make November look it in the eye."
 
 Nobody asked what she meant by November.
 
-"Pick the Sunday," Marisol said,
+"Pick the date," Marisol said,
 "and twelve thousand phones will know it by Tuesday."
 
 "Then it's called," Delores said, and it was,
@@ -271,6 +276,10 @@ with his second bowl of banana pudding.
 at First Methodist and you walk into my churchyard for the pudding."
 
 "I'd usher a third for the meringue," Tunk said.
+
+"How were the Methodists this morning?"
+
+"Punctual."
 
 Marisol looked at the man, and at the bowl,
 and back down at her phone.
