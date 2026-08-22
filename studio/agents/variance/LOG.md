@@ -177,3 +177,4 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-21 | romance-reader-panel (campus ch11 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ (filed by orchestrator) |
 | 2026-08-21 | romance-reader-panel (campus ch12 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ (filed by orchestrator) |
 | 2026-08-21 | continuity-keeper (campus wave 3 cross-batch sweep, 12 candidates) | E5 dialogue-mechanics-first (LRU) | notes/ (filed by orchestrator) |
+| 2026-08-21 | drafting-assistant (campus ch11 ending beat — the walk considered; author-directed) | D1 sound-forward (D4 was LRU but minor-character competence is inapplicable to a two-person doorway beat — deviation logged) | manuscript ch11 on the wave-3 branch |
