@@ -156,7 +156,7 @@ and the morning gave him plenty.
 The swap-and-shop hour opened at noon with a pontoon boat.
 
 "Twenty-two-foot pontoon," Tick Moran read, over the shop radio,
-in the voice he kept for legal notices.
+flat as a legal notice.
 "Two motors, one of which runs.
 Seller is asking twelve hundred, firm."
 
@@ -269,7 +269,7 @@ Bring that parents' army if you can stand the company."
 
 "I'll bring the dog."
 
-He was back in the cab before Cal could reach for his wallet.
+Cal went for his wallet and got a look for the attempt.
 
 "What do I owe you?"
 
@@ -280,6 +280,17 @@ and the town had been arriving all day, was the thing.
 The heat. The letter. The hour of boat. The box.
 It kept arriving, and it did not know one word
 of what was sitting on his desk with his name under it.
+
+His second raised him on the radio at four.
+
+"North's asking if the heat's supposed to smell like this."
+
+"First week it is. That's the summer burning off.
+Tell them it improves by Thursday."
+
+"Can I quote you?"
+
+"Word for word."
 
 ---
 

@@ -94,6 +94,16 @@ She knew whose bush it was.
 She had never said so to a soul,
 and she did not say so now.
 
+"Count tables," Earlene said. "Delores wants a number."
+
+"Delores wants the number she already decided," Verna said.
+"Tell her forty and let the Lord surprise her."
+
+"Forty tables is four hundred chairs," Marisol said,
+from the top of the ladder.
+
+"I know what it is," Verna said. "Tell her forty."
+
 Dinner for the rig-up was out on the four-lane somewhere,
 riding in a stranger's back seat, twenty minutes away.
 It had been twenty minutes away since eight o'clock.
@@ -166,6 +176,12 @@ and it went out naked, no badge on it,
 one voice out of twelve thousand.
 The number was still the number.
 That was the last thing that worked all night.
+
+An hour ago the group had been the lawn's own mirror,
+somebody's picture of the string lights going up,
+a hundred parents two states away saying it looked like home.
+She had loved it out loud and pinned nothing.
+That hour was over.
 
 The how was not hard to find. It never was.
 Enough reports from enough accounts will trip a review
@@ -303,6 +319,8 @@ The buildings went by dark, every one of them,
 offices, halls, the tower a blacker shape on the sky,
 and by now there was not a phone in the county
 without that page on it, and midnight coming on.
+She did not rehearse anything.
+Every version she tried began with his name and quit.
 
 Past where the brick ran out and the pavement ended,
 the gravel started in under her tires,
