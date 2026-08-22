@@ -244,3 +244,26 @@ Why nineteen:
 Binding: the count appears on the ch 12 page; ch 30's echo (a
 fresh slide dated in Cal's hand) makes it twenty and does not say
 so.
+
+## D11 — Marisol's surname: Pruett (the kept married name)
+**Status: PROPOSED (recorded on merge). 2026-08-22.**
+
+Due on the page at ch 15 (the badge notice); "never given in any
+doc" (premise v2:762). Proposed: **Marisol Pruett** — and the
+choice inside the choice: **it is the EX-HUSBAND'S name, kept for
+her son's sake** — every roll call, every Grapevine post, his name
+and hers match, and it quietly costs her (the same economy as the
+wrench that has lived in the glove box since the divorce). Ch 15
+then lands harder: the coup unseats a name that was never quite
+hers.
+
+The maiden name stays deliberately [TK] — a banked card (a woman
+taking her own name back is series-finale material, and choosing it
+now would also silently rule "your mother's people," D06's open
+marker, which deserves its own decision).
+
+Runners-up, banked: **Hale** (married-name option, one clean
+syllable); **Reyes** (maiden-name-kept option — warmer, but it
+rules the heritage marker today). Sound check: Pruett collides with
+no cast name (Sutter, Boyd, Fountain, Kyzer, Dillard, Ferrell) and
+"Marisol Pruett" scans on a badge, a bylaw, and a blurb.
