@@ -167,9 +167,9 @@ is a cheap way to argue."
 
 He set the crate on the bench and took out the folder
 with nothing written on its tab.
-First the packet. He slid the back section free —
+First the packet. He slid the back section free,
 the ground rules, the little expectation sheets
-that had decided everything before one man climbed out of one truck —
+that had decided everything before one man climbed out of one truck,
 and put those pages in her hands.
 
 She read standing up, one hip against the bench.
@@ -242,7 +242,7 @@ She looked from the wrench in his hand to the rag on the bench.
 "Best rag I've got."
 
 The laugh got out of her sideways, wet at the edges,
-and it was the first good sound the shop had heard all night.
+and it was the first good sound in that shop all night.
 
 "I said I'd bring you the right one," Cal said,
 and set it across her open palm,
@@ -260,8 +260,8 @@ She kept hold of the wrench and made him keep hold of it too.
 "You work it from the inside. You don't sign.
 You make them grade the wall they never walked in to see,
 and you buy every day a day can be bought.
-I take the outside — the supper, the town, all twelve thousand —
-and none of it ever wears your name.
+I take the outside. The supper, the town, all twelve thousand.
+None of it ever wears your name.
 Not one soul hears your name out of my mouth in public,
 and mine never leaves this shop.
 And the drawer stays open between us. Everything, both directions,
