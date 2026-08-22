@@ -3,6 +3,132 @@
 Tracks edits to manuscripts and adopted drafts (house rule 6), so the
 author can see what changed and why. Newest first.
 
+## 2026-08-22 — Chapters 9–12 ACCEPTED (author merge of PR #91); THREADS folded
+
+- Wave 3 adopted whole: `manuscript/ch09.md` ← ch9 candidate C (card
+  D6, a beat past comfortable; panel C > B > A), `ch10.md` ← ch10-C
+  (D4, minor-character competence, spent on Sonny Dillard; C > A >
+  B), `ch11.md` ← ch11-C (D5, weather as texture; C > A > B),
+  `ch12.md` ← ch12-A (D6; A > C > B).
+- Fixes and grafts applied at staging per
+  `plots/wave3-staging-order.md` (panel notes + wave3 canon sweep):
+  - ch9: B-grafts (owed-than-paid close; print-night bet swap —
+    "You lost on Thursday"; "worn instead of survived"; the
+    don't-run-off exchange, attributed clean); no dog, no fifth
+    notice; protected lines untouched; D07 "Months, then" left
+    as-is, flagged.
+  - ch10: away-Saturday opener added (SR-2, no "two states");
+    Sonny trimmed a third + jute and burn-ban grafts (Cal takes two
+    points, Sonny keeps the last word); P3 de-flagged to the bare
+    action; slow-carillon exchange CUT (SR-1; the eleven-o'clock
+    strike, on time, kept as the look-breaker); "still winning"
+    graft; rail-light placement logic; the over-watering clause;
+    the notebook tether.
+  - ch11: "It's NOT EVEN October" (sweep F1); son beat recast to
+    her-first-fall-IN-TOWN (F2/D06); Sonny cut back to bid, boat
+    and Wi-Fi (F8 — warm and wrong, no mechanism); both self-copies
+    varied off ch 7/ch 8 (F6); mug year-less (SR-4); grafts:
+    Peanut's "Improvise!" address, house rule + "Convicted and
+    beloved," the Sundays exchange, the Wi-Fi clincher,
+    phone-to-the-roar, the four-minute tandem sock.
+  - ch12: slide dates run oldest-first — the OLDEST is nineteen
+    (SR-3; widowhood stays unruled); D09 lock-up clause in the
+    drive home; ch 2 self-copies varied (downspout, forearm); no
+    first-chill claim (F5); "Half a lifetime" (F17); Ratchet
+    softened to mood, not appetite; grafts: B's expectation sheets,
+    C's zinnia carry conformed to the ch 10 coffee can; T08 paid
+    native (A) and declared in the header; FRESH-ZINNIAS holler not
+    grafted (A's hush wins); slide count eleven, locked.
+- Showrunner staging rulings SR-1–SR-5 ratified unstruck at the
+  merge — now canon: Wk6 and Wk7 are AWAY games; the carillon tests
+  at six SHARP (slow-minute invention cut, restorable only by
+  ruling); the oldest slide is nineteen years old, count ELEVEN,
+  widowhood unruled (D10 reasoning preserved); the Sportsman's Club
+  mug is year-less (first prose calendar-year stays the author's to
+  grant); ch 9's wrench-beat weight stands over the addendum's
+  "lightly."
+- Author-directed addition at the merge (not in candidate C or the
+  staging order): ch 11's walk-considered beat — Cal follows her
+  out, the hand under her elbow at the step ("the first touch since
+  the porch handshake," ch11:385), offers the walk, and she
+  declines ("Any other fall, I'd let you"). Recorded in THREADS T12
+  as the couple's first contact, SPENT — no future "first touch" —
+  with the declined walk as the new wanting rung.
+- Outline correction ratified: rev 2.2's ch 9 paragraph had the bet
+  backwards against its own litany; corrected at staging (she bets
+  the window, loses to the griddle) and ratified by the merge
+  (`plots/b11-outline-rev2.md:366–369`) — sweep Ruling 13 closed at
+  the rung, not patched downstream.
+- Lint: dialogue linter, tic sweep, and dedup grep run over the
+  four staged files per the staging order; numbers recorded in the
+  PR body. Ch 9–11 over the 15% floor; **ch 12 runs sub-floor and
+  the author granted the wave's one quiet slot at the merge** — a
+  knowing deviation from the directive's "no new sub-floor
+  chapters." (Recorded here: ch9 26.6% · ch10 31.1% · ch11 19.8%
+  with the walk beat · ch12 12.5%.)
+- Six staging seams (the one-clause fresh-prose repairs and graft
+  joins — e.g., ch 10's consecutive she-saids around the notebook
+  tether, ch10:253–260) were flagged in the PR body for the
+  author's read and accepted as staged. (The list: ch9 graft-tail drop; ch10 two
+  did-not-remark repairs; ch11 Peanut speech join + spoken-shape
+  mug line; ch12 lost supper exchange; the two-states pair ch9/ch11;
+  ch9's Months-then D07 shading.)
+- New canon on the accepted pages, all verified on the page and
+  recorded in THREADS.md: the town's morning clock (griddle 5:40 /
+  Courier 5:50 / carillon 6:00 sharp / Verna 6:15 / trucks 6:25 —
+  write into town-ashford.md §2); Ray's hook-off arrangement;
+  Verna's never-late-twice; the buttermilk pie-bet debt; Doss Farm
+  & Feed (Sonny Dillard, fire radio, QR since June, the ninety-cent
+  adapter); the burn ban; the wife's rose (fellowship year, October
+  bloom, **"out of spite" = the wife's own word**); the Blind Mule
+  set (Peanut Kyzer, built for forty, two flats of mason jars, the
+  measuring-cup grandmother, Birdie's mother's-crystal vase, the
+  year-less Sportsman's mug); "biggest win in twenty years"; Tunk
+  Ferrell convicted-and-beloved; "the difference between a list and
+  a mob"; **Cal unplugged the jukebox** (T02-adjacent, by-ear canon
+  in a town room); Grapevine named in prose; the second on-page
+  "ya'll"; the slides (eleven, oldest nineteen, the wife's hand);
+  the shoot-vs-grade split and the expectation sheets; Eli's field
+  facts (every-other-day mowing, crew of four, "The fifty I do,"
+  cool-season rye); seven home Saturdays; boilers on Monday. The
+  carillon two-register rule held in all four chapters (Cal
+  "carillon" ch09:195, ch10:242, ch12:312; her narration "the
+  tower" ch09:257, ch11:349).
+- Open items carried from #91 (author calls, unresolved):
+  1. **T01's payoff slot is still an outline hole** (red-team F2) —
+     the promise is now named on the page (ch 9); rule the slot
+     before the wave-4 briefs or ch 16's motor-pool window is
+     drafted blind.
+  2. `[CHECK: how wine night knows about the wrench]` (ch 7) —
+     still unruled; ch 9's direct naming doesn't explain it.
+  3. Doc write-throughs owed: the morning clock + six-sharp test →
+     town-ashford.md §2; away Wk6/Wk7 + a month column → the
+     outline state chain (sweep Rulings 11–12).
+  4. The "one beat past" phrase family now stands at ~8 uses on
+     accepted pages (ch 5/6/8 + ch 9 ×2, 10, 11, 12) plus the new
+     "filed/filing" sub-tic (ch09:72, :244) — sweep Ruling 16 still
+     unruled: ration row or line-pass thinning.
+  5. **D05 flag (new, found at fold):** ch10:21–22 — "1946 on the
+     lintel and… eighty years of creosote" is the book's first
+     prose year-number AND does arithmetic to the present, the
+     exact comfort SR-4 struck the mug's 1988 for. Ratified as-is
+     at the merge; keep as furniture or soften "eighty years" —
+     author's call.
+  6. F1 (the June clock / Marisol's occupation) — the rev 2.3
+     amendment is still on the author's queue.
+  7. T26 rider: ch 7's Birdie × peach-man flicker vs the D08
+     Birdie × Eli budget — rule before beat 3 (ch 13).
+- THREADS.md folded per the maintenance rule: per-chapter ledgers
+  for ch 9–12; index rows T01, T02, T04, T05, T06, T08, T12, T14,
+  T16, T19, T20, T21 updated; **T08 marked PAID (ch 12, the cup)**;
+  **T12's first contact marked SPENT (ch 11)**; new threads
+  T22–T26 opened (Cal's quiet file; the expectation sheets; the
+  pie-bet debt; the wife's October bloom; the Birdie×Eli D08
+  ledger). D08 beat 2 recorded SPENT; crown-of-the-field BANKED
+  against beat 3. Manuscripts ch09–ch12 carry no inline
+  [TK]/[CHECK] — clean pages; ch 9–12 file headers still read
+  "pending author ratification" and should be flipped to ACCEPTED.
+
 ## 2026-08-21 — Line/copy pass, ch 1–8 (post-ratify; card E2)
 
 - Mechanical fixes applied (3): ch01:264 stray space before a

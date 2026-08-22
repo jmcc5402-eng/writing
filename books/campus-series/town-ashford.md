@@ -61,6 +61,14 @@ two blocks from the feed store, a Pride picnic and five Baptist
 homecomings in the same park — and it has razed itself twice before
 in the stadium's name, which is why the third time is the story.
 
+**Canon note — the town's morning clock (accepted ch 9, PR #91).**
+The town comes on in order, to the minute: the Checkerboard's
+griddle 5:40 · the Courier's upstairs window 5:50 · **the carillon
+tries itself at 6:00 sharp** · Verna's office light 6:15 · the crew
+trucks 6:25. Cal recites it "like a psalm learned by attendance";
+the page proves it light by light. Any scene set in the 5–7 a.m.
+band inherits this order.
+
 **Canon note — the tower (T07, PROPOSED, recorded on merge).** The
 campus has one tower and it is **the carillon**; **"the clock
 tower" is the town's name for it** — what townspeople call it
