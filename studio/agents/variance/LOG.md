@@ -199,3 +199,7 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-22 | romance-reader-panel (campus ch15 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ (filed by orchestrator) |
 | 2026-08-22 | romance-reader-panel (campus ch14 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ (filed by orchestrator) |
 | 2026-08-22 | continuity-keeper (campus wave 4 cross-batch sweep, 12 candidates) | E1 repetition hunt (LRU) | notes/ (filed by orchestrator) |
+| 2026-08-22 | continuity-keeper (campus ch13-16 acceptance fold) | E4 transitions/hands-forward (LRU) | THREADS + CHANGELOG blocks |
+| 2026-08-22 | line-copy-editor (campus ch13-16 post-ratify mechanical pass) | E3 reverse order | manuscript in place + report |
+| 2026-08-22 | plot-architect (campus outline rev 2.3 amendment — June clock, occupation, T24/T25 slots, month column) | A1 antagonist-first (LRU) | plots/ for the gate PR |
+| 2026-08-22 | showrunner (nightly shift, scheduled, in-session) | — | this shift |
