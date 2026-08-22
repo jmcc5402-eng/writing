@@ -13,10 +13,16 @@ STYLE.md tic sweep: zero paragraphs ending in a colon or a dash.
 ---
 
 The shop opened cold on Wednesday,
-the concrete not done with the night yet,
+the concrete still cold from the night,
 WD-40 and coffee the first two facts of the morning,
 and the radio down low all day
 for reasons nobody on the floor was going to say out loud.
+
+The work went on the same as any week,
+oil changes and a seized gate hinge
+and the ballasts out in the north lot's light poles,
+and the whole floor did it
+a shade quieter than the work asked for.
 
 The transcript was on the break-room wall by then.
 
@@ -25,6 +31,8 @@ two pages, taped up by the time clock
 between the safety poster and Boyd's letter,
 which still said pending, still had November in it,
 and still had twelve paychecks reading it on their breaks.
+The break room smelled of toner and burnt coffee
+and fresh tape, and would all week.
 
 Tick's sign-on was in there. The fiddle was in there,
 noted in brackets. The toast was in there,
@@ -47,12 +55,23 @@ After it Boyd's recovery ran on to the bottom of the sheet,
 partnership in it twice,
 and then the sign-off, and the fiddle coming back up in brackets.
 
-Cal read it once, coffee in hand, and left it hanging.
+The crew had read it by first break, every man of them,
+and not one of them said a word to him about it,
+which in that shop amounted to twelve men
+saying the same thing at once.
+
+Cal read it standing, coffee in hand, and left it hanging.
 Taking it down would have said more than the page did.
 
 "Who types a pause?" Ronnie said, behind him.
 
 "Somebody who was listening," Cal's second said.
+
+She stopped beside Cal after, clipboard against her hip.
+
+"Want it down?"
+
+"Leave it," Cal said.
 
 Nobody took it down all week.
 
@@ -61,10 +80,14 @@ for as long as the terms allowed and no longer,
 chin up under the finished lights,
 hair giving up its knot by full dark,
 and the question hadn't been anywhere in her face
-until it was in the mic and gone.
+until it was in the mic and gone out over four hundred chairs.
 That was the part the transcript couldn't carry.
 Her question in ten-point type
-looked smaller than her mouth had made it sound.
+looked smaller than her mouth had made it sound,
+and he read it on the break-room wall that week
+more times than the coffee strictly required,
+which was its own kind of phone call,
+and didn't count against the terms, and didn't help.
 
 ***
 
@@ -83,7 +106,15 @@ Nobody so much as turned it."
 And Peanut says it counts against the nothing you missed.
 Whole town went. You'd have hated it fine."
 
-Ronnie wiped his hands and looked back toward the break room.
+The Mule didn't hold with microphones.
+Verdicts there came across the bar with the caps off,
+and a beer poured for a man not in the building
+was as far up the scale as verdicts went.
+The county had convicted him by suppertime once.
+Some part of it, apparently,
+was walking that back a glass at a time.
+
+Ronnie wiped his hands and looked toward the break room.
 
 "My brother-in-law tapes ball games he was at," he said.
 "Watches them the same night. Whole family's like that."
@@ -117,6 +148,9 @@ Boyd heard a man worth more unsigned in November
 than signed in October,
 and mailed him a longer rope with a ribbon on it.
 
+Cal counted the Fridays between this one and that one.
+There were not many,
+and he didn't like the arithmetic from either end.
 The memo went into the locked drawer
 with the thing it was about,
 and the key went back in the shirt pocket,
@@ -126,9 +160,11 @@ All week he wanted to call her.
 
 It came at the wrong hours, mostly.
 Four in the morning, when the whole matter
-lay laid out plain in his head and nobody to hand it to.
+lay out plain in his head and there was nobody to hand it to.
 Quitting time. Any minute anything went right.
 He wanted her read on the memo,
+and her voice doing to Boyd's one paragraph
+what she'd done to a county's worth of parking questions,
 and mostly he wanted the sound of her running at something,
 and the terms said no, and the terms were right,
 and being right had never once warmed up a telephone.
@@ -158,7 +194,13 @@ out where the gravel gave up to pasture,
 a level rod leaned on the rail
 and a benchmark hunt that had run him
 clear out the back road from the north end's staking.
-Cal carried his coffee out to the fence,
+Little orange flags stood in the ditch grass
+half a mile in both directions now,
+the expansion measuring its way toward town
+one hundred feet at a time.
+The morning was dry blue October,
+cold enough that the coffee didn't last.
+Cal carried his out to the fence,
 because the fence was his, and stood a while, and then asked it.
 
 "Question. Not on anybody's clock."
@@ -170,7 +212,7 @@ over a certifying man's title.
 Can the man answer it with a finding of his own?"
 
 The engineer set the rod against the rail
-and gave the question the look
+and gave the question the same look
 he'd been giving the horizon all morning.
 
 "Only with one of equal standing.
@@ -190,16 +232,20 @@ if a man produced sheets that could stand in the same room
 as the ones aimed at him.
 Sealed, dated, no summary in place of the drawing.
 It also had the timeline of a miracle.
-Work like that wanted months.
-He had Fridays, and October was running the week out
-dry and blue toward the first of them.
+Work like that wanted months,
+and what he had was Fridays.
 
 He went in and started a list on the legal pad anyway,
 and at the top of the list he wrote the new Friday,
 the one before the trustees sit,
-so the clock would be looking at him every time he added a line.
+so the clock would be looking at him
+every time he added a line.
 Measurements. Stamps. Whose seal. Whose ladder.
 What it cost, and what it took in nights.
+The House had already answered the honest question once,
+on dated glass, in a hand nobody was adding to.
+The rest of the answer was going to take a tape,
+a ladder, and every Friday he had left.
 
 The parts run brought the new roller motor Friday afternoon
 in a crate stenciled TWO MAN LIFT on three sides.
@@ -231,7 +277,7 @@ and let the office lamp be the last thing burning,
 and sat with the pad and the code book
 and the House key and the drawer key
 riding together in the same shirt pocket,
-and worked until the lines quit arguing with him.
+and worked until the list quit growing.
 
 Up the hill the carillon counted midnight down,
 and the sound crossed the yard on the cold air

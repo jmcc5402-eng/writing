@@ -70,7 +70,7 @@ Earlene Tatum said, coming through for seconds.
 
 "It's washable," Marisol said, and moved the line along.
 
-The extension cord across the walk kept lifting its tape
+The tape over the extension cord kept curling up
 at the cold end, and twice she knelt in the good dress
 and pressed it flat before somebody's grandmother
 could find it with a shoe.
@@ -105,7 +105,7 @@ and he had come.
 
 What she wanted was small and impossible.
 She wanted his eyes for the length of one slow breath.
-That was the entire list.
+That was all.
 The terms were hers; she'd written them herself at midnight
 in a lit shop with her keys still in her fist,
 and the terms said the width of a lawn and not one name.
@@ -133,7 +133,7 @@ Rex Boyd arrived at full dark.
 November came up the House's front walk in a canvas jacket
 that had never once seen mud,
 shaking hands at volume one the whole way,
-and the supper bent toward him table by table.
+and the tables turned toward him one at a time.
 
 Tick Moran was live off the porch rail,
 WDSS 1340 on a card table with a mixer and one good microphone,
@@ -141,9 +141,8 @@ narrating the pies to the county between waltzes.
 "Update from Millrow. The buttermilk is gone.
 The chess is going. Y'all missed the buttermilk."
 
-Boyd borrowed the microphone the way you borrow
-from a man who can't say no to you,
-easy, and already forgiven for it.
+Boyd borrowed the microphone like a man borrowing
+a neighbor's hose, easy, and already forgiven for it.
 "I won't keep anybody from that dessert table long," he said,
 warm as supper.
 "I've been to a lot of nice evenings in a lot of towns
@@ -212,6 +211,12 @@ and picked her jar back up.
 "How tall is he again?" Marisol said.
 
 "Cut the cake, Pruett."
+
+Across the boxwoods, Cal had watched Aisha's whole stand
+from the middle of his moat,
+and for the space of a breath his eyes came to Marisol's
+and went back to his plate.
+That one helped too.
 
 Boyd let the whole weather system pass.
 Then he came in over the top of it, volume one, never louder,
