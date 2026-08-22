@@ -218,3 +218,4 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-22 | drafting-assistant (campus ch20 blind, run B) | D5 weather as texture (deck wrapped, 2nd draw this wave) | drafts/2026-08-22-wave5/ch20-candidate-B.md |
 | 2026-08-22 | drafting-assistant (campus ch20 blind, run C) | D6 run past comfortable (deck wrapped, 2nd draw this wave) | drafts/2026-08-22-wave5/ch20-candidate-C.md |
 | 2026-08-22 | romance-reader-panel (campus ch17 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ (filed by orchestrator) |
+| 2026-08-22 | romance-reader-panel (campus ch19 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ (filed by orchestrator) |
