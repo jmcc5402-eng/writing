@@ -3,6 +3,29 @@
 Tracks edits to manuscripts and adopted drafts (house rule 6), so the
 author can see what changed and why. Newest first.
 
+## 2026-08-22 — Line/copy pass, ch 13–16 (card E3, post-ratify #94)
+
+- ZERO mechanical fixes required — all four staged files clean (tic
+  sweep zero; ch14:54 "WDSS" confirmed as the radio station, not a
+  typo — do not "correct"). Five stylistic edits PROPOSED, not
+  applied (notes/line-pass-ch13-16-2026-08-22.md), led by the two
+  flagged graft seams: ch 14's widow line "in the dark" under the
+  lamplight, and ch 16's second set-the-pages-down.
+- Scrub audit: banned words zero; endings budget compliant (one
+  button in four, finale-earned); jokes die in 13/14/15; ledger at
+  cap in ch 16 (Cal POV, legal); personification one over quota in
+  ch 13, ~two over in ch 16 (trims proposed, climax keeps named);
+  ch 15's in-a-vehicle ending stamped spirit-compliant (an approach,
+  dealt by the staging order, "I'm not going home" on the page).
+- Flagged as probable PLANT, left alone: "inside of four minutes"
+  verbatim in ch 13 and ch 15 — the sock accounts' reply-latency
+  fingerprint (kin to the ya'll family). Confirm before anyone
+  dedups it.
+- Process lesson adopted forward: verbatim grafts carry donor-scene
+  furniture (light, prop state, arrival idioms); staging orders now
+  strip or flag time-of-day/prop-state words inside grafts by
+  default.
+
 ## 2026-08-22 — Chapters 9–12 ACCEPTED (author merge of PR #91); THREADS folded
 
 - Wave 3 adopted whole: `manuscript/ch09.md` ← ch9 candidate C (card
