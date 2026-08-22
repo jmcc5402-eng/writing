@@ -44,8 +44,11 @@ were supposed to have quit being able to do,
 and wrote the time down.
 
 He lit the boiler and stood with two fingers on the supply line
-while it kettled and banged and settled into its working hum,
-and upstairs the radiators started knocking, floor by floor,
+while it kettled and banged and settled into its working hum.
+
+"There you are," he told it, and the hum held.
+
+Upstairs the radiators started knocking, floor by floor,
 heat climbing toward four floors of other people's kids
 and half a country's worth of mothers
 who checked the weather in this town before their own.
@@ -167,10 +170,17 @@ That's a forty-dollar boat."
 
 "Then he can sell me the rails and keep the boat."
 
+"It's got two motors," his second said.
+
+"It's got two anchors," Ronnie said,
+"and one of them came with a steering wheel."
+
 Tick came back at one o'clock
 in the tone of a man renegotiating with the open air.
-"Folks, the pontoon remains available.
-I'm now told the price is flexible,
+"Folks. In this same hour I have moved a stock trailer,
+a set of box springs, and a prom dress, worn once.
+The pontoon remains available.
+I'm told the price is now flexible,
 and I'd describe the seller's afternoon the same way.
 He says she can be seen at his dock.
 I'd go at low water."
@@ -253,6 +263,11 @@ which is a sight you'll want to say you saw."
 
 "Dog's the guest of honor.
 It's a nothing party, Sutter. She's exactly qualified."
+Ray pulled his door shut and hung an elbow out the window.
+"Bring the crew. Bring the whole hill.
+Bring that parents' army if you can stand the company."
+
+"I'll bring the dog."
 
 He was back in the cab before Cal could reach for his wallet.
 
