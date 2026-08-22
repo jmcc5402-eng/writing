@@ -283,6 +283,10 @@ handing her the good gloves, the pair without the hole.
 
 "That's what I said," Ronnie said.
 
+"You on tomorrow?" Travis said.
+
+"Tomorrow's got its own plans," she said, and kept raking.
+
 She carried the last cups up onto the new decking
 to collect the empties off the rail,
 and stopped in the open front door with the tray on her hip,
