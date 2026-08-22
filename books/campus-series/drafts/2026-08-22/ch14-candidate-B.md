@@ -73,7 +73,7 @@ and behind them the campus warmed up one basement at a time.
 The van came into the yard at nine with a rental hum in it.
 
 Ratchet's head came up and her tail went still,
-and her system had never once returned a wrong answer.
+and her system did not return wrong answers.
 Cal signed a screen with one finger at twelve past nine
 and carried the envelope into the office,
 engineer's letterhead, his own name through the window,
@@ -150,6 +150,10 @@ on behalf of everybody important.
 
 "Says the letterhead."
 
+"After means what?" the paint-bay man said.
+
+"After means after. It's a letter, not a deed."
+
 The shop got quiet in a register the radio couldn't fill.
 Men read it in twos, coffee going cold in their hands.
 Twelve names on that roll. Twelve kitchens attached to them.
@@ -196,7 +200,7 @@ The trailer was always included. That was implied."
 
 "Thirty-five," the welder said. "It lost value just now."
 
-At one o'clock the boat was entertaining trades.
+At one o'clock the seller was entertaining trades.
 "He would consider a gooseneck, a generator, or, quote,
 a serious conversation," Tick read, and the laugh went up
 off the shop floor and carried out into the yard.
@@ -211,9 +215,16 @@ There was air noise while Tick waited for the rest of it.
 The rest of it never came.
 
 "Thank you, Sonny," Tick said, and went to the stock report.
+He came back once at the top of the hour to say
+that if nobody claimed the pontoon by Friday
+he'd buy it himself, and he did not want it either.
+
+"What's wrong with a green boat?" the new hire said.
+
+"Nothing," the welder said. "Forty dollars' worth of nothing."
 
 The crew argued the boat the rest of the afternoon
-and never once called the station,
+and never called the station,
 and the price on the shop floor closed firm at forty dollars,
 on principle, from men who did not want a boat.
 
@@ -234,7 +245,11 @@ Cal went for his pocket and Ray was already backing out the door.
 
 "What do I owe you?"
 
-"Read the lid," Ray said, and left.
+"Read the lid," Ray said.
+
+"Thursday's a workday."
+
+"It's a bar, Sutter, not a shift," Ray said, and left.
 
 The lid had marker on it, Ray's big block hand.
 MULE, THURSDAY. WE'RE CELEBRATING NOTHING. COME ANYWAY.
@@ -249,8 +264,7 @@ for not knowing what a drawer up the hill had in it.
 He took his coffee out to the truck, to have a door he could close.
 
 The phone came out of his pocket.
-Her name was in it under M, just the one name,
-the way she'd put it in herself.
+Her name was in it under M, just the one name.
 His thumb found it. He hadn't asked it to.
 
 One tap and it would ring wherever she was,
@@ -260,7 +274,7 @@ chin up, hair coming out of its knot one strand at a time,
 magnificent, twelve thousand phones behind her.
 And the letter on the corkboard said what happened
 to twelve paychecks if a man made trouble,
-in four friendly paragraphs that never once said it.
+in four friendly paragraphs that said no such thing.
 
 Knuckles on the glass. His second, holding a work order.
 
@@ -279,6 +293,14 @@ His second signed out at six with the clipboard under her arm.
 
 "It is."
 
+"Anything for the morning list?"
+
+"Gym roof. Same as I said at six."
+
+"You never went up."
+
+"Tomorrow," Cal said.
+
 She looked once at the office door, which was shut,
 and had been shut more today than in the year previous,
 and she didn't ask, and he didn't help her with it.
@@ -287,9 +309,10 @@ and she didn't ask, and he didn't help her with it.
 
 "Night."
 
-He fed Ratchet. She ate her dinner and then lay down
-by the truck's front tire instead of her spot,
-which was as much as Ratchet ever said about anything.
+He fed Ratchet. She ate her dinner,
+and then she came and lay down across the office doorsill,
+facing out at the yard, and stayed there while he worked,
+which she did not usually do.
 
 He went back in and unlocked the drawer and read it all again,
 the numbers, the rules, the last page, his name in type

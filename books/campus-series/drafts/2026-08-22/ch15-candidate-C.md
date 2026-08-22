@@ -30,6 +30,10 @@ had carried up the hill for exactly this purpose,
 thermos socked into the cupholder, supervising under her whole hat.
 "A tight light is a gas-station light. Droop it at the porch."
 
+"Who made you foreman?" Birdie said.
+
+"The chair. Authority sits where authority brought its own seat."
+
 The first Tuesday of October had come in dry and easy,
 cool enough to make ladder work a privilege,
 warm enough that nobody had gone home for more than a flannel shirt.
@@ -67,7 +71,13 @@ and I have never once had to give a refund."
 The couple, who had come up the hill to hold a ladder,
 held hands instead, which was the correct use of the information.
 
-"I had a ladder like that one," Earlene said.
+"Marisol, sugar," Verna called across the lawn.
+"Come tell this child the pie rule."
+
+"The good stories run you a pie," Marisol said, from the ladder.
+"Verna sets the price. I just collect the stories."
+
+"And spell Tatum right," Earlene said.
 
 The app chimed against Marisol's hip at half past eight.
 "Dinner is twenty minutes away," she reported.
@@ -78,13 +88,17 @@ He'll come back around in June."
 
 "He's circling the roundabout," Birdie said. "They all do."
 
+"I had a ladder like that one," Earlene said.
+
 Marisol tipped the phone so the chair could see the little map,
 the car icon making its slow lap of the square,
 and everybody in earshot laughed,
 and Birdie went to the truck for the cooler,
 because this town fed itself or it didn't eat.
 
-They threw the switch on the finished strings at nine, just to see.
+"Throw it, Birdie," Marisol said at nine, just to see. "The done half."
+
+"Throwing."
 
 The ceiling came up gold, half a ceiling, oak to porch post,
 swaying a little where the air moved,
@@ -95,6 +109,11 @@ The lit half swayed. The dark half waited on tomorrow.
 Behind all of it the House held still with its door pulled to,
 and out past everything, where nobody was looking tonight,
 November sat unimpressed.
+
+"Well, there's the ceiling," Verna said from the steps.
+"Now all this lawn wants is a floor and a band."
+
+"The band's the radio," Earlene said. "It has always been the radio."
 
 "You'd photograph well up there," Earlene said. "Somebody ought to."
 
@@ -153,6 +172,10 @@ and not one door in the place her key still fit.
 
 "Regrouping," she said, and went back up,
 and hung the next run so straight Birdie passed it without notes.
+
+"That app say anything new?" Earlene called, a while after.
+
+"Twenty minutes," Marisol said, which was true of something.
 
 She hung lights. She minded the couple's ladder.
 She said good night by name to everyone who peeled off down Millrow,

@@ -12,8 +12,8 @@ STYLE.md tic sweep: zero paragraphs ending in a colon or a dash.
 The Zinnia Wagon quit in the middle of its own getaway.
 
 Half loaded, tailgate down, nose already pointed home,
-and Birdie Pham turned the key of the white flower truck —
-the Zinnia Wagon, the whole county called it —
+and Birdie Pham turned the key of the white flower truck,
+the one the whole county called the Zinnia Wagon,
 and got one short cough for her trouble.
 The second try was shorter.
 The third wasn't anything at all.
@@ -41,6 +41,19 @@ Crank on it till frost if you want. It'll cost you a battery too."
 Birdie said.
 
 "Pump's the cheap part. The finding is the sport."
+
+Marisol came over with the last of her stall boxes on one hip.
+
+"How bad?"
+
+"Dead where she stands," Birdie said. "With a full load aboard."
+
+"Then sell them off the tailgate right here. Grief flowers.
+Half this market just watched her go."
+
+"That is the coldest, finest idea
+anybody has handed me all season," Birdie said,
+and had the first bucket forward before she finished saying it.
 
 The Shed Thread had the situation posted before the hood was propped,
 and the situation had answers before Birdie had a plan.
@@ -165,6 +178,12 @@ the tea, and the middle distance, in turns, diligently.
 "Heard it set a record."
 
 "Slowest in county history. Tick's having a plaque made."
+
+"Two miles an hour," Cal said. "In this town, that's reckless."
+
+"I'll tell Tick you endorsed it. He'll read it on the air."
+
+"He'll read it twice."
 
 The corner of his mouth did the thing it did,
 briefly, and got put away.
