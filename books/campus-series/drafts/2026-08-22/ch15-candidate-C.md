@@ -96,13 +96,14 @@ and everybody in earshot laughed,
 and Birdie went to the truck for the cooler,
 because this town fed itself or it didn't eat.
 
-"Throw it, Birdie," Marisol said at nine, just to see. "The done half."
+At nine, just to see, Marisol called it.
+"Throw it, Birdie. The done half."
 
 "Throwing."
 
 The ceiling came up gold, half a ceiling, oak to porch post,
 swaying a little where the air moved,
-and the lawn made the sound a crowd makes at fireworks.
+and everybody under it made the sound a crowd makes at fireworks.
 Marisol stood at the foot of her ladder and looked,
 longer than checking the droop required.
 The lit half swayed. The dark half waited on tomorrow.
@@ -113,9 +114,8 @@ November sat unimpressed.
 "Well, there's the ceiling," Verna said from the steps.
 "Now all this lawn wants is a floor and a band."
 
-"The band's the radio," Earlene said. "It has always been the radio."
-
-"You'd photograph well up there," Earlene said. "Somebody ought to."
+"The band's the radio," Earlene said. "It has always been the radio.
+And you'd photograph well up there, Marisol. Somebody ought to."
 
 "It's the lighting," Marisol said, and moved an extension cord.
 
@@ -141,7 +141,7 @@ sat one line from Grapevine itself, gray as a form letter.
 
 Her thumbs ran the screenshot drill on their own authority,
 one, two, stamped and kept,
-before the rest of her had finished reading the line.
+before she had finished reading the line they were keeping.
 
 The cold came in a second behind the drill.
 Review meant votes. Votes meant members in good standing,
@@ -210,6 +210,11 @@ and the picture went to gray blocks before it gave her any.
 
 "Somebody's," Earlene said, in the tone she used for road closures.
 "Nobody sent it. Everybody forwarded it."
+
+"That's our House they're talking about," Birdie said.
+
+"It's one page of a paper nobody's seen," Earlene said.
+"Watch the town read it anyway."
 
 By half past eleven it was everywhere a screen lived.
 The Shed Thread had it.
