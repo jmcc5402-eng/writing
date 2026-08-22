@@ -89,6 +89,21 @@ She held a ladder instead, because somebody had to,
 and then she hauled brush, because it was walking past her anyway,
 and by eight she had quit narrating her own exit
 and put her hair up with a pencil off the biscuit table.
+
+"You staying?" Travis said.
+
+"Till the coffee's gone."
+
+"Coffee's gone," DeShawn said, hopeful.
+
+"There's a second tray in the car."
+
+"Then you're staying," Ronnie said, and handed her the rake.
+
+"Where does the brush go?" she asked, first armload.
+
+"Butts to the road, long ends one way," Sonny said.
+"Anything else is a bird's nest."
 Before she was three rungs up the first time,
 Cal came past without a word,
 kicked the ladder feet square on the wet ground,
@@ -139,7 +154,7 @@ Nobody answered that.
 
 Out of Travis's truck, WDSS ran the swap shop,
 Tick selling somebody's tiller at auction speed,
-and the morning went to work around it.
+and the work went on around it.
 
 The survey came up once, out by the brush trailer,
 pitched for under the chainsaw, with the boss on the roof.
@@ -170,7 +185,7 @@ Names, in Cal's block capitals, one to a line.
 No work orders. No dates. No column for hours.
 Twelve of them.
 Ronnie sat fourth from the top.
-She had learned which bay was his four hours ago.
+She had known which bay was his since the first tray.
 Travis was on it. DeShawn was on it.
 Half the coffee she had poured that morning was on it.
 
@@ -207,11 +222,14 @@ and made the weight look like a rumor.
 
 "It's level," Cal said.
 
+"Then y'all sit down and eat," Ray called.
+"A porch is not dinner."
+
 By noon the porch stood where a hundred years had set it.
 Marisol stood on the walk with a cup going cold in her hand
 and watched the beam come true,
 and the thing she had been circling since the jacks went in
-finally sat still long enough to say.
+was finally ready to be said out loud.
 She came to the tailgate, where Cal was writing the lumber list,
 and said it quietly, for the two of them and no lawn.
 
