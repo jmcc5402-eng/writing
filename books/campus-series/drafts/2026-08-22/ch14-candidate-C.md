@@ -338,7 +338,7 @@ and let himself have the whole minute.
 
 If he called, he'd start with the wall,
 because the wall was good news,
-eleven little panes of glass and not a crack among them,
+eleven little pieces of glass and not a crack among them,
 and she'd laugh.
 He could see the laugh, all of her face going into it,
 same as on the porch in the roses,
