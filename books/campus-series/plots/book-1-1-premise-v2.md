@@ -52,7 +52,7 @@ behind it is going to kill somebody.
 
 ## One paragraph
 
-Marisol [TK surname] moved to Ashford for her son, the way a lot of
+Marisol Pruett (D11) moved to Ashford for her son, the way a lot of
 mothers do and none of them admit, and she has spent a year making
 herself indispensable to a town of thirty-eight thousand that doubles
 in size seven Saturdays a fall. She feeds it. She has no restaurant
@@ -363,7 +363,7 @@ unpaid promise.
 
 ## The leads
 
-### Marisol [TK surname], 43
+### Marisol Pruett (D11 — the kept married name), 43
 
 Divorced, two kids offstage — a walk-on son at Ashford, a daughter at
 Bellamy — and the moderator of a twelve-thousand-member parents'
@@ -759,7 +759,7 @@ first.
 
 - [TK: author ratifies the name **Holt Vaughn** from the slate, or
   picks another.]
-- [TK: Marisol's surname — never given in any doc.]
+- Marisol's surname: **Pruett** (D11, 2026-08-22 — the ex's name, kept for the son; maiden name stays [TK], banked).
 - [TK: Marisol's occupation — "caterer" is proposed new canon here
   and needs a ruling; the parents'-group moderator seat is untouched
   canon.]
