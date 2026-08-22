@@ -36,7 +36,8 @@ The new hire looked at the wheel, then at Cal,
 then back at the wheel,
 and adjusted some private figure upward.
 
-"Leverage," Cal said. "Rim, not handle. Now you know."
+"Leverage," Cal said. "Rim, not handle.
+Same as a steering wheel. Now you know."
 
 It was not entirely leverage.
 Thirty years of the work had built him the shoulders it needed
@@ -48,6 +49,11 @@ Number three lit hard, banged away down in the dark a minute,
 and came quiet when he bled the line.
 
 "There you are," Cal told it.
+
+Above him a radiator clanked awake on the third floor,
+and a ragged cheer came down through the ceiling,
+a whole hall of eighteen-year-olds
+applauding heat like a touchdown.
 
 By ten there was heat moving in every building on the list,
 and Cal came down the hill to the motor pool
@@ -90,7 +96,8 @@ by week's end.
 He wanted a month. The sheet gave him a week.
 
 He stood at the bench a while.
-The radio took a caller with strong opinions about the secondary.
+The radio took a caller with strong opinions
+about tailgate parking.
 The shop ran on around him at its usual pitch,
 air tools and sockets and somebody singing wrong,
 every man in that yard drawing a paycheck
@@ -119,12 +126,9 @@ Cal set the phone face down by the vise.
 That made once.
 
 "Four dorms report a miracle," his second said.
-"Two have opened every window they own.
-And East Third has a new smell. They say this one's different."
-
-"Different how?"
-
-"They say it's got ambition."
+"Two have opened every window they own."
+There was also a new smell on East Third,
+described by its residents, she reported, as having ambition.
 
 "Tell them the thermostat's not a debate," Cal said.
 "I'll walk the smell down after lunch."
@@ -147,6 +151,13 @@ hats back, lips moving,
 and the yard got a notch easier every time.
 One of the older hands read it twice
 and went back to the mower deck whistling.
+The new hire asked him at the coffee maker, straight out,
+whether the letter meant what it said.
+
+"It's signed," Cal said,
+which was true of one of the two papers on his mind,
+and the kid went back to work happier
+than the answer had any right to make him.
 
 The draft on Cal's bench had come hand-carried that morning.
 The letter on the board was dated the same Monday.
@@ -188,8 +199,9 @@ and stayed on the strength of the pontoon.
 "It ran good the day he wrote the ad," Eli said.
 
 Tick came back at the bottom of the hour.
-"Pontoon's still with us, people. He's down to nine hundred,
-and says that's firm."
+"Pontoon's still with us, people.
+The wife has amended her price, downward.
+Nine hundred, and he says that's firm."
 
 "He said flexible at twelve hundred," Cal said, from the bench.
 
@@ -200,7 +212,7 @@ At the top of the next hour the price had company.
 and he throws in the life jackets.
 Four of them. Three orange, one camouflage."
 
-"What's a camouflage life jacket for?" the new hire said.
+Somebody asked what a camouflage life jacket was for.
 
 "Not being found," Eli said.
 
@@ -238,7 +250,9 @@ Nobody in the bay looked up.
 Tick let it sit out there on the open air,
 then read the next card.
 "Dinette set, six chairs, two of them loose.
-She's proud of the table. Less proud of the chairs."
+She's proud of the table. Less proud of the chairs.
+And that's the hour.
+If anybody bought the boat, call in tomorrow and confess."
 
 Ray's boy came up the hill at four with a to-go box,
 set it on the end of Cal's bench
