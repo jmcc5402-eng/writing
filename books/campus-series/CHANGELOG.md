@@ -3,6 +3,164 @@
 Tracks edits to manuscripts and adopted drafts (house rule 6), so the
 author can see what changed and why. Newest first.
 
+## 2026-08-22 — Chapters 13–16 ACCEPTED (author merge of PR #94); THREADS folded
+
+- Wave 4 (the hinge wave, card A7) adopted whole: `manuscript/ch13.md`
+  ← ch13 candidate C (card D6, a beat past comfortable; panel
+  C > A > B), `ch14.md` ← ch14-C (D1, sound-forward; C > B > A),
+  `ch15.md` ← ch15-B (D7, open every scene mid-motion; B > C > A),
+  `ch16.md` ← ch16-A (D6; A > B > C). Merged with no comments — all
+  staging rulings ratified as staged.
+- Showrunner staging rulings SR-6–SR-10 ratified unstruck — now
+  canon: **T01 pays at ch 16** (the wrench off the parts wall,
+  "a matched set at last"; fair-play table adds P17; outline 2.3
+  carries the one-line amendment); the sign-and-return deadline is
+  **Friday, close of business, for the trustees' November packet**;
+  the coup removes badge and tools, **posting remains** (the naked
+  tow-number send), the socks pin their sunset post in her slot; the
+  leaked screenshot is a **picture of a picture** — why DRAFT —
+  UNSIGNED never reads on a phone (ch16:19; fair-play table inherits
+  it); the wrench's rightness is size and jaw — the cam-lock claim
+  dropped (canon ch 1: "Cam locks don't torque").
+- **M1: LIFTED at staging per the panel's both-ways verdict (OUT —
+  hold past the midpoint) and BANKED by the merge.** The kiss pays
+  sixteen chapters; the withheld direct smile survives as a live
+  post-midpoint withhold. The compressed severable line is preserved
+  in `plots/wave4-staging-order.md`'s SR block, restorable only by
+  author ruling.
+- D11 lands on the page: the ch 15 badge notice reads **Marisol
+  Pruett** (ch15:162–163); the declared one-token swap was not
+  exercised at the merge — Pruett stands by use.
+- Fixes and grafts applied at staging per
+  `plots/wave4-staging-order.md` (panel notes + wave4 canon sweep):
+  - ch13: clock times spelled out; A's Sunday-slot litany +
+    offering-plate rhyme; B's question-mark move (kept C's ending
+    verbatim); Eli's head-entering clause cut (POV standard 11); the
+    second chair folded in one clause ("one twenty minutes off and
+    one at Bellamy"); A's table banter and Tick sign-off; B's
+    janitor line; personification trimmed to quota.
+  - ch14: the drawer conformed to the WORKBENCH (C had the desk —
+    sweep pairing finding 6); watermark gains UNSIGNED (finding 7);
+    B's signature block verbatim (the ch 15 thumb rung depends on
+    it); SR-7 deadline KEPT as ruled; thumb ON the name; B's widow
+    line and kitchens line grafted; A's crate refusal; "since
+    August" (was "two months"); Opelika → "two counties over";
+    Ray's-book claim softened; Ronnie of bay three KEPT per panel.
+  - ch15: kinetic cut (C's closing shape on B's drive — "fifty
+    yards out and closing," mirror image and "which man" kept);
+    Verna's step lore conformed to canon ("the third step. Inside.
+    The pale one."); the how-she-knows patch (A's Earlene key-ring
+    logic); C's occupied-seat and ink-hunt grafts; "not typing, not
+    calling" micro-graft; protect list untouched.
+  - ch16: C's wife exchange incl. "The dates stop where she did" +
+    the straightening beat; B's Friday admission BEFORE the price;
+    B's spoken rag beat and kiss-taste line; C's matched set as the
+    steel's resting place; "six weeks" (was "two months"); "near
+    midnight" + the single mid-scene strike (one midnight per
+    night); "down the back road" (was "down Millrow"); SR-9 clause;
+    SR-10 rework; the two accepted-page self-copies varied; **the
+    Ratchet ch-4 bookend RULED deliberate — kept, recorded in
+    THREADS as motif**; code recap trimmed to one pass.
+- Lint: dialogue linter, tic sweep, and dedup grep (incl. the E1
+  cross-candidate ledger) run over the four staged files per the
+  staging order; numbers in the PR body. **All four chapters clear
+  the 15% floor — no quiet slot needed — wave average 25.0%, on the
+  ~25% target.**
+- Scrub: first full enforcement run of the 2026-08-22 STYLE.md rules
+  across a whole wave (12-row compliance table in the sweep). What
+  it caught: ch13-A's C1 firing (died with the loser — the ration
+  held), ch16-B's committee-of-self-adjacent line and standard-9
+  stretch (kept out of the graft pool), ch16-C's past-the-cut coda,
+  ch13-B's button-wearing-a-question-mark ending, three borderline
+  personification counts (trimmed or logged). Zero banned words,
+  zero ledger metaphors in final lines, zero "one beat," zero third
+  "ya'll," dead-joke rule honored in all twelve — nothing banned
+  survived to a staged page.
+- Pairing-seam repairs (the sweep's staging-critical findings no
+  single-chapter panel could see): the drawer's location, the
+  watermark's wording, and the double midnight — all conformed
+  across the ch 14/15/16 pair before staging.
+- Three staging seams (the adapted fresh-prose joins) were flagged
+  in the PR body and accepted as staged: ch 13's question-mark move
+  (B's mechanics under C's ending), ch 15's kinetic cut (C's shape
+  on B's drive), ch 16's picture-of-a-picture clause (SR-9, adapted
+  from B16).
+- Month row proven on the pages: "The last Saturday of September"
+  (ch13:14) → the fifth Sunday; "the last Monday of September"
+  (ch14:11); "the first Tuesday of October" (ch15:15); ch 16 the
+  same night, "cold October" (ch16:369). No numeric dates, no year,
+  no game texture (Wk8 stays unruled). Carillon two-register rule
+  held (Cal "carillon" ch14:371, ch16:235; her narration "the
+  tower" ch15:339).
+- New canon on the accepted pages, verified and recorded in
+  THREADS.md: the Doss County Curb Market (noon Saturday break-camp
+  — first "Doss County" on a page; see open item 6); the Zinnia
+  Wagon; Tick Moran's WDSS swap-shop hour (number saved under T);
+  the square's crown; Mt. Nebo + the fifth-Sunday circuit, the
+  building-fund thermometer, Providence Primitive's tables;
+  **Delores Fountain-Mabry** (thirty years of elementary school; the
+  suppers-not-meetings doctrine); **Odell Fountain** (the table map;
+  relation to Eli UNRULED); Birdie's two languages; boiler day
+  (last Monday of September, oldest plant first); **Cal's second is
+  a woman** (convergent ×3 — canon); **Ronnie of bay three**
+  (census: bay three, no surname); the draft packet (stamp,
+  watermark, pre-typed block, Friday memo); the pledge letter (ten
+  copies, roofs on the row barns, "pending," mechanism unnamed);
+  the workbench drawer + pencil-tray key; the Mule Thursday lid
+  (Peanut's nothing-party, Ray at cost, Ratchet guest of honor);
+  Ray's fifth-Sunday plate loop; **Marisol Pruett** by use; the
+  coup mechanics and the screenshot artifact (recorded exactly for
+  ch 25's forensics); forty tables = four hundred chairs; the
+  half-hung lights left burning; the alliance terms; the
+  expectation sheets on the page; "The dates stop where she did"
+  (widowhood still unruled); the first kiss + HEAT 1 cut at the
+  first garment (standard 9 exact); Ratchet's two votes.
+- Open items carried from #94 (author calls, unresolved):
+  1. **M1 banked line** — restorable only by ruling; lives in the
+     staging order's SR block.
+  2. Outline 2.3 touch owed: the SR-6 amendment write-through; SR-7
+     deadline; T24 → ch 23; T25 → ch 19/20; T28's expiry slot; T29
+     supper slot; T30 vs. the Mule room budget (ch 26 holds visit
+     2); the Wk14 "mid-Nov" one-week drift [CHECK].
+  3. Peach-man rider — still unruled (unmentioned by default this
+     wave); rule before D08 beat 4 (ch 21).
+  4. T23 bible sentence — reconcile the sheets' two framings
+     (ch 12: the grading shop; ch 16: mailed to the graders).
+  5. Doc write-throughs owed: Pruett → census/cast docs; census
+     entries (Ronnie, Delores, Odell, Tick, Mt. Nebo, Providence
+     Primitive, the Curb Market); fair-play table (P17 added, P8
+     planted, P14 paid, RH2 planted-13); plus the still-owed wave-3
+     write-throughs (morning clock → town-ashford §2; away
+     Wk6/Wk7 + month column → the outline).
+  6. **"Doss County" (ch13:11)** — the county has never been named;
+     rule whether this is the county's name or the market's brand
+     (town-ashford [TK: state] adjacent) before book two inherits
+     it by accident.
+  7. Fold-found flags, accepted as staged, line-pass calls:
+     ch14:371 "the carillon counted eight o'clock down Millrow"
+     (beside ch 16's ratified back-road fix); T22's "printed off
+     the campus books entirely" (ch14:105) vs. "off the office
+     printer" (ch16:208).
+  8. `[CHECK: how wine night knows about the wrench]` — now trivia
+     (T01 paid); retire or rule.
+  9. Prior-wave carries still open: D05 lintel flag (ch 10); F1
+     June-clock rev 2.3 amendment; thinning of the ~8 accepted
+     "one beat past" uses (the ban held wave-4 — zero new).
+- THREADS.md folded per the maintenance rule: per-chapter ledgers
+  for ch 13–16; index rows T01–T06, T09, T12, T14, T16, T19–T26
+  updated; **T01 marked PAID (ch 16, the wrench — F2 alarm
+  retired)**; **the first kiss marked SPENT (ch 16)**; **T20
+  resolved into T27/T28**; **T22's [TK: photos printed] resolved**;
+  T03's index gloss corrected to the interior staircase (sweep 13
+  rider); new threads T27–T30 opened (the midnight alliance; the
+  Friday clock; the Millrow supper; Thursday at the Mule). D08
+  beat 3 recorded SPENT (graft bank consumed); Ronnie
+  census-logged, not threaded (zero plot load). Manuscripts
+  ch13–ch16 carry no inline [TK]/[CHECK] — clean pages; file
+  headers still read "pending author ratification" and should be
+  flipped to ACCEPTED (ch 9–12's, noted at the last fold, likewise
+  if not yet done).
+
 ## 2026-08-22 — Line/copy pass, ch 13–16 (card E3, post-ratify #94)
 
 - ZERO mechanical fixes required — all four staged files clean (tic

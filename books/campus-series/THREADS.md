@@ -26,32 +26,37 @@ rows that touch it.**
 
 | ID | Thread | Born | Status |
 |---|---|---|---|
-| T01 | **The wrench** — Marisol's crescent wrench, taken by Cal at the tent | ch 1 | **Still OWED — and now NAMED on the page** (ch 9): "You still have my wrench." / "I said I'd bring you the right one." / "**I know what I've had since the tent.**" (ch09:231–239); left standing by design — "Be thorough faster" / "she'd rather be owed than paid" (ch09:249–251). SR-5 weight ratified at merge. **ALARM: payoff slot is STILL an outline hole — red-team F2: rule at the outline rung BEFORE the wave-4 briefs (ch 13–16); ch 16 stages her in the motor pool four feet from the right-size wrench.** Item 3 CLOSED (glove box) stands. `[CHECK:` how wine night knows (ch 7)`]` still unruled — ch 9 doesn't explain it. |
-| T02 | **Cal's tell** — he fixes without speaking to the person, takes the tool, and leaves | ch 1 | Carried hard — ch 5 plane, ch 6 PA, ch 8 screw; **ch 10** twine-ask without turning ("One phone in this county sounds like that," ch10:137–138); **ch 11** the jukebox unplugged one-handed, not even looking (ch11:307–315 — T02-adjacent, the by-ear tell's first town room); **ch 12** the gate held wordlessly (ch12:39–43) |
-| T03 | **The third step** — the porch tread a century of couples got engaged on | ch 5 (planted ch 1's House) | OWED to ch 30 — plant complete ch 5 (wall, kneeling canon, hollow); ch 6 ache carried; inversion banked (she *stood* where they kneel) |
+| T01 | **The wrench** — Marisol's crescent wrench, taken by Cal at the tent | ch 1 | **PAID ch 16 (SR-6, ratified at the merge of PR #94)** — the right one comes off the parts wall ("the wrench that had hung there since August, / right size, right jaw, / four feet from her little crescent," ch16:266–268), the promise spoken back verbatim ("I said I'd bring you the right one," ch16:283), handed palm to palm ("palm to palm with the steel warm between them," ch16:290), and the steel retired: "next to the wrong one, a matched set at last" (ch16:313). Arithmetic correct on the page ("Six weeks," ch16:304). Fair-play table adds P17. Chain closed: promise ch 1 → named ch 9 → paid ch 16. **Nothing remains. The F2 alarm is RETIRED; strike this row from all future briefs.** `[CHECK:` how wine night knows (ch 7)`]` survives as trivia only — the stakes left with the payoff. |
+| T02 | **Cal's tell** — he fixes without speaking to the person, takes the tool, and leaves | ch 1 | Carried hard — ch 5 plane, ch 6 PA, ch 8 screw; **ch 10** twine-ask without turning ("One phone in this county sounds like that," ch10:137–138); **ch 11** the jukebox unplugged one-handed, not even looking (ch11:307–315 — T02-adjacent, the by-ear tell's first town room); **ch 12** the gate held wordlessly (ch12:39–43) · **ch 14** boiler day ("There you are," he told it, ch14:44; the one-pull seized valve) · **ch 16** the bay door run down one-handed (ch16:388–390) |
+| T03 | **The third step** — the third tread of the staircase INSIDE the hall, a century of couples kneeling on it *(gloss corrected at this fold per sweep finding 13 — the old "porch tread" wording contradicted the accepted ch 5 page, ch05:43–44, :151–152)* | ch 5 (planted ch 1's House) | OWED to ch 30 — plant complete ch 5; inversion banked; **ch 15 carries Verna's lore CONFORMED**: "it is the third step. Inside. The pale one. / Second's too low, fourth is showing off." (ch15:70–71), plus new patter — the history "runs you a pie," "let him get all the way down / before you answer" (ch15:75–79) |
 | T04 | **The parents' board** — Grapevine, 12,000 members, Marisol moderates | ch 1 | Carried — **"the group on Grapevine" in prose first time** (ch11:196); register's third instance ch 9 ("It's week six, my love," ch09:26); 12,000 restated ch 9 (:136, :304) |
-| T05 | **The tell-tale slides / the House's condition** | ch 12 | **ON THE PAGE (ACCEPTED)** — **ELEVEN slides** (ch12:317, locked at acceptance), parlor east wall, each dated in the wife's hand; **the OLDEST is nineteen years old** (ch12:295–297; SR-3/D10 — the watch BEGAN nineteen years ago; the newest slide's date is never stated, **widowhood stays unruled**); "Not one slide carried so much as a hairline" (:298); "The crack was a scar, not a wound" (:304). P4 PLANT, pays 28/30; photographed into T22 (:318–320); ch 30 adds one in Cal's hand (twenty, unsaid) |
-| T06 | **Marisol's tell (M1)** — *"smiling at a point somewhere past his ear"* | ch 1 | **RULED — rationed, payoff withheld** (PR #85 A). On-page ledger now **three**: ch 5 (verbatim), ch 7 (past Aisha's ear), **ch 10** — "she said, to a point just past his ear" (ch10:259, protected at staging, ratified at merge). She has still never smiled directly AT Cal — the withheld payoff survives ch 9–12 (incl. the ch 11 doorway look, held smile-less). |
+| T05 | **The tell-tale slides / the House's condition** | ch 12 | ON THE PAGE (ch 12, eleven slides, oldest nineteen) — **and now SHOWN ch 16**: the printed photos dealt onto the bench, "eleven pieces of microscope glass / riding a crack down an old plaster wall" (ch16:209–210), "Nineteen years, top of the wall to the floor. Not one hairline." (ch16:218); Marisol is the first person besides Cal (and the reader) to see the watch. The keeper named: "My wife's… She kept the watch on that wall. / The dates stop where she did." (ch16:227–228) — **widowhood stays unruled** (no date spoken). Her answer is staging, not condolence: she straightens one photograph square (ch16:231–233). ch 30 still adds the twentieth, unsaid. |
+| T06 | **Marisol's tell (M1)** — *"smiling at a point somewhere past his ear"* | ch 1 | **RULED — withheld THROUGH the midpoint (panel verdict OUT; lifted at staging; the author merged PR #94 with no comments — stays LIFTED/BANKED).** On-page ledger still three (ch 5, 7, 10). Ch 16's slot exists without the smile ("She leaned back in his arms far enough to be looked at," ch16:377) — she has now KISSED him and still never smiled directly at him: the withhold is a live post-midpoint plot event. The compressed severable line is preserved in `plots/wave4-staging-order.md` (SR block), restorable only by author ruling. Carry this row in every Marisol-POV brief. |
 | T07 | **The clock tower vs the carillon** | ch 1 | **RECONCILED** (author merge of PR #87, 2026-08-21): one tower — "clock tower" is the town's register for the carillon; canon note in `town-ashford.md` §2. Earlene's line stands. |
 | T08 | **Eli doesn't drink coffee** | ch 1 | **PAID ch 12** — "because Eli Fountain did not drink coffee and never had. The cup was hers. It had been hers the entire way." (ch12:140–142); consistent with ch01:278–279; pay declared in the file header, A's native version, none stacked. **Strike from all future briefs — ch 13 owes nothing.** |
-| T09 | **Ratchet's grading system** | ch 2 | Locks on the ch 2 winner |
+| T09 | **Ratchet's grading system** | ch 2 | Locks on the ch 2 winner · **ch 16** Ratchet's two votes — the boot (ch16:60–66, "The shop's first vote was in, and it was not close") and the tail (:360–363, "Your shop is rigged") — strand-totem beats, zero plot load; threshold-keeping ch 14 |
 | T10 | **Cal steps *over* the third step** | ch 2 | **CONFIRMED on the accepted page** (red-team gate read, 2026-08-21): ch02:246 "He stepped over the third step without thinking about it" and ch02:264 "Coming down, he stepped over the third step again." T03's ch-30 payoff has its setup. Ch 5 stages the work-kneel, not the transit — both true. |
 | T11 | **Boyd never raises his voice** | ch 4 | **CONFIRMED ch 6** ("the volume he took everywhere, which was one") — lock as villain rule |
-| T12 | **Leads-together ledger** — words the couple shares a scene for | ch 1 | Live series meter — Q2: together 9, 10, 11; apart 12 by design (F1). **FIRST CONTACT SPENT ch 11**: "His hand came up under her elbow at the step… **the first touch since the porch handshake**, quieter and carrying further" (ch11:383–385) — **no future chapter may stage another "first touch."** New wanting rung: the DECLINED WALK — "I could walk you… " / "Any other fall, I'd let you." / "I know which fall it is… Worth saying out loud anyway." (ch11:387–399; added at the author's direction at the merge). Ch 9/10 stage near-touches only (the lid taken by the rim, ch09:282–283; thorn-close cane work, ch10:155–158) — the first-touch claim holds clean. |
+| T12 | **Leads-together ledger** — words the couple shares a scene for | ch 1 | Live series meter — Q3: together 13 (the serving line), apart 14/15 by design (F1), together 16 (every minute). **THE TOUCH LADDER, delivered as ordered:** plate ch 13 ("She'd passed a hundred plates that afternoon one-handed. / His she took with both." ch13:186–187; "skin over knuckles… a half second past anything cake requires… nobody under those oaks remarked on one single thing," :189–197) → failed reach ch 14 (thumb on her name, twice, never sent — ch14:209–226, :332–360) → inverted crisis rung ch 15 (her thumb "over the C and most of the Sutter," ch15:308–319) → wrench handoff + the kiss ch 16. **FIRST KISS SPENT** ("Motion carries," Cal said, and kissed her. / Or she kissed him. / Nobody ever settled it, ch16:363–366) — **no future chapter stages another "first kiss."** HEAT 1 spent to the first-garment line, standard 9 exact (the jacket "down onto the swept concrete, / the first thing either of them had let fall all night," ch16:404–405). First-touch spend (ch 11) unchanged. M1 still withheld — see T06. |
 | T13 | **Wine night, the institution** | ch 7 | Live — OWED: recurs, and every recurrence owes an interrupted story; shaker collateral on the rail; consider S## promotion |
-| T14 | **The notebook** — "the House's people, on the record" | ch 7 | Live — front pages Ray/Earlene/Verna; **back page = "where the questions lived"**: *Tunk Ferrell* + the question mark, "the difference between a list and a mob" (ch11:317–335); Verna interview set — "Verna's expecting me at two… the good stories run you a pie" (ch10:255–257); payoff `[TK]` |
+| T14 | **The notebook** — "the House's people, on the record" | ch 7 | Live — front pages Ray/Earlene/Verna; **back page = "where the questions lived"**: *Tunk Ferrell* + the question mark, "the difference between a list and a mob" (ch11:317–335); Verna interview set — "Verna's expecting me at two… the good stories run you a pie" (ch10:255–257); payoff `[TK]` · **ch 13**: the mark moved, kept ("name and mark and all, down to the bottom of the page where it could keep," ch13:340–344); the empty lines above = T19's operator hunt |
 | T15 | **The two guest books** — House hall book (a) / traveling clipboard (b) | a: ch 5 · b: ch 3, named ch 8 | Live — her own forgotten signature (ch 5); "one name on it… mine" (ch 8); reconcile "pages" vs the 7,000-by-29 curve at next outline touch |
-| T16 | **The ground-rules contract** | ch 8 | OWED — exists to be tested; **holding untested through ch 11** (ch 9 truce: "The coffee was the whole treaty, and it held," ch09:106; ch 10 abstention: "I have not said one word about pens," ch10:217; ch 11 no House argument at the Mule); breach/test chapter `[TK]` |
+| T16 | **The ground-rules contract** | ch 8 | **TESTED IN FULL ch 15–16 — held by renegotiation.** Ch 15 collides it with the county ("the whole county had it turned around, / leaving the pen alone and going after the man," ch15:292–294); ch 16 is the breach fight (his silence, not the survey: "That was not yours to decide," ch16:112; "You had a day and a phone," :132) and the NEW TERM: **"Silent, with me, you don't get to be again. / That's the price. Decide right now if you're paying it." / "Paid."** (ch16:156–159). Breach-test `[TK]` CLEARED. The contract's second edition is the alliance — see T27. |
 | T17 | **The filmed hinge-fix** | ch 8 | OWED — the footage exists; payoff `[TK]` |
 | T18 | **The skipped frame on the wall** | ch 5 | OWED — payoff `[TK]`; tracked by readers (superfan: "riots if forgotten") |
-| T19 | **The sock campaign / Kudzu Media LLC** | ch 6 + ch 7 | OWED — **ch 11 adds four rungs**: the sunset graphic stealing Earlene's words (P15, pays 25 — ch11:199–211, :224); the tandem ("AshfordSafetyMom had agreed with it in all capitals within four minutes," :204–205); the **second on-page "ya'll"** inside a sock post (:201, unremarked — gate item 2 delivered; on-page count now two: ch 6 program + ch 11 post; NEVER correct it); the politest balance nudge yet (:230–236) and the lobbying-HER read (:238–243 — F3 landed, **no F3 debt rides to ch 13**). RH2 honest signal OWED ch 13; wire to Boyd `[TK]`. |
-| T20 | **Cal's carried secret** (survey · signature · twelve names · winter money) | ch 6 | OWED to ch 15 — **ARMED ch 12**: rigged ground rules read ("no credit anywhere for standing," ch12:365; "a finding with the date left blank, and the signature line under it, waiting, was his," :374–376); quiet file started (T22); zero leak — Verna keeps her own "insurance men" story (:194–199, Deliberate); "the one person in the county he couldn't [hand it to], not while twelve paychecks stood between the House and the winter" (:390–393) |
+| T19 | **The sock campaign / Kudzu Media LLC** | ch 6 + ch 7 | OWED — **RH2 honest signal DELIVERED ch 13** (timestamps only, no quoted posts, no third "ya'll"): posts "at nine fifty-eight and again at eleven fourteen" (ch13:307), one to a service, "Both services at First Methodist ran the whole length / of that morning" (:318–319) while Tunk handed the plate "hand over hand" (:325) — she reads the clocks, nobody points (:311). **THE COUP ch 15 (their biggest play, SR-8):** reports "in ranks" from shiny accounts "born in August" (ch15:196–209), badge and tools stripped, posting remains (the naked tow number, :185–189), the sunset post pinned in her vacated slot (:171–176); P14 pays — "She had held the door open herself." (:210). Operator hunt OPEN: the lines above Tunk stay empty, "she did not have a name to put on the line" (ch13:345–348). Wire to Boyd still `[TK]`; protect the ch 25 forensics. |
+| T20 | **Cal's carried secret** (survey · signature · twelve names · winter money) | ch 6 | **REVEALED town-side ch 15 · CLEARED to the leads ch 16 — resolved into T27/T28.** 9:41: the badge, then the screenshot by midnight — "RECOMMEND CONDEMNATION. HARTWELL HOUSE… C. Sutter. / The picture stopped at the name." (ch15:236–239). The town's belief is **Deliberate** and wrong: "They're saying he signed it Monday" (ch15:253). Ch 16: "Top of every page" — DRAFT — UNSIGNED (ch16:73–78), the rigged sheets, the glass; "I'm not signing it. / I knew that Monday, in the truck, with the dome light on." (:252–253). **Superior position OPEN: two people and the reader vs. the county** ("two more than Boyd is counting on," :344–346). Strike "Cal's carried secret" from briefs — the secret is now shared; what remains carried lives at T27 (the alliance) and T28 (the Friday clock). |
 | **T21** | **Cal's tell (C1)** — the corner of his mouth when she beats him and he likes it | ch 1 (:149) | RULED — ration spent (ch 6, ch 8); **no firings ch 9–12, verified** (ch 10's sanctioned beat is the shoulders coming down an inch, ch10:199–201, not the mouth); door-smile still 1/3 spent. **OWED: the FULL smile.** |
-| T22 | **Cal's quiet file** — the unmarked manila folder: survey packet + photos of all eleven slides, in the milk crate behind the bench seat, "cash-paid, off every book the campus kept" | ch 12 | **OWED → ch 15** — the reveal's physical object (the grief and the evidence are one thing); nothing on the tab, "nobody was going to open the folder but him" (ch12:395–409). Photos "would go in come morning" (:399–400) — printed `[TK: confirm on a later page]` |
-| T23 | **The expectation sheets** — the grading rigged upstream of the instruments: "We shoot what's there. What they grade it against is somebody else's shop. They send expectation sheets." | ch 12 (:260–263) | OWED — extends P5 (pays 18 → 28); the sheets themselves surface `[TK]` |
-| T24 | **The pie-bet debt** — she lost window-vs-griddle; "Loser buys at the Checkerboard" (ch09:131); "Buttermilk. Whenever. No hurry. A debt like that keeps." (:184–185) | ch 9 | **OWED — a plant with no prior row (E6 catch): the debt manufactures the couple's next appointment.** Payoff = a Checkerboard scene, slot `[TK]` (not in rev 2.2 — flag at the next outline touch). Venue is the Checkerboard, NOT Delmar's (Delmar's room budget is spent — ch 9 was its second and final visit). |
-| T25 | **The wife's rose, October's bloom** — climber on the east lattice, planted her fellowship year, blooms late "out of spite" — **her own word** (ch10:191) | ch 10 | **OWED this book (E6 catch — no row existed):** "Buds are set. October, if she holds to form." / "Then she's still winning." / "Every year." (ch10:203–209; every bud still shut, :276). An October chapter owes the bloom on the page; slot `[TK]` at the outline rung. |
-| T26 | **Birdie × Eli — the D08 ledger** (five-beat side-romance budget, slots 1/12/13/21/29 per standard 24) | ch 12 (beat 2) | **Beat 2 of 5 SPENT** — the fifty at dawn ("she didn't need it and held onto it anyway," ch12:121–123). **Crown-of-the-field ("Then stand me right," ch12-B) BANKED against beat 3** — graft bank, NOT staged. `[TK: reconcile ch 7's Birdie × peach-man flicker before beat 3 — texture or competing suitor, unruled]` |
+| T22 | **Cal's quiet file** — the unmarked manila folder | ch 12 | **ON THE PAGE ch 16 — delivered as the reveal's object.** Kept apart from the draft all Monday ("The crate was the House's. / The envelope was the thing aimed at the House. / Those two did not ride together." ch14:107–110), carried in from the milk crate and dealt out in order (ch16:177–186). **The slide photos are printed and in it — ch 12's `[TK: confirm printed on a later page]` RESOLVED** ("printed off the office printer, dates plain in every frame," ch16:208). *Fold-found seam, accepted as staged:* ch14:105 "printed off the campus books entirely" vs ch16:208 "off the office printer" — readable as expense vs. hardware; one clause reconciles if it ever itches. |
+| T23 | **The expectation sheets** | ch 12 (:260–263) | **SURFACED ch 16** — the sheets ARE the rigged ground-rules pages, in her hands: "They mailed the graders the answers / before they ever mailed the men… Expectation sheets… no credit anywhere for standing." (ch16:188–194); her fail roll call — "The opera house fails this page. / The churches fail this page." (:198–199). **Seam (sweep III): one bible sentence OWED** — ch 12 framed the sheets at the shooting/grading split ("What they grade it against is somebody else's shop. They send expectation sheets."); ch 16 puts them in the graders' mail. Who mails them is ch 25 forensics territory — record, don't invent. |
+| T24 | **The pie-bet debt** (ch 9) | ch 9 | **OWED — untouched by 13–16 as ordered.** The Checkerboard appears without spending it (the dish towel out its door, ch13:104; the Wagon bedded in its back lot, :119). Proposed payoff slot **ch 23** rides the outline 2.3 PR (wave-4 directive flag 4). Venue is the Checkerboard, NOT Delmar's. |
+| T25 | **The wife's rose, October's bloom** | ch 10 | **OWED — carried clean ch 15:** the work-light spill reaches the east lattice "and every bud was still shut" (ch15:85); Birdie guards it — "Not on the roses. Over. Nothing hangs on that bush." (:89) — and Marisol "knew whose bush it was. / She had never said so to a soul" (:92–93). October is now open (ch 15) and the bloom holds; proposed slot ch 19/20 rides the 2.3 note. |
+| T26 | **Birdie × Eli — the D08 ledger** (slots 1/12/13/21/29) | ch 12 (beat 2) | **Beat 3 of 5 SPENT ch 13, on schedule** — the banked crown-of-the-field (ch12-B) restaged as the SQUARE'S crown at the tow: "Then stand me right" (ch13:79), the elbow half-step and her fingers closed on the mirror bracket (:81–84), the crown "up through the wheel into her hands, / right where Eli had said it was" (:109–111), "whatever her face did next stayed between the two of them" (:112–114) — then ratified in public by the fuel-pump answer, "the worst answer ever given under those oaks" (:220–224). **Graft bank consumed.** Beats 4–5 remain (ch 21, 29). `[TK: peach-man rider still unruled — went unmentioned by default this wave; rule before beat 4]` |
+| T21 | **Cal's tell (C1)** — the corner of his mouth when she beats him and he likes it | ch 1 (:149) | RULED — ration spent (ch 6, ch 8); **no firings ch 13–16, verified** (the staged ch 13 beat is stillness, "Still, on that man, was not rest," ch13:277 — ch13-A's firing died with the loser). Door-smile still 1/3 spent — ch 15's "a smile go once / like a door opening on a lit room" (ch15:352–354) is a memory CITATION, not a spend. **OWED: the FULL smile.** |
+| T27 | **The midnight alliance** — the treaty's second edition | ch 16 | **Live — carries the book's spine from here.** He fights inside ("Don't sign, don't resign, don't explain. / Make them grade that wall in the open, on dated glass," ch16:319–320); she rebuilds outside ("A seat is not the town… By Thursday I'll know it better than whoever took my badge," :326–329); **no names in public** ("Not at Delmar's, not in the group, not on anybody's porch," :341); the county keeps believing the warrant on purpose (:342–346). "If it ended at the property line." (:352). OWED: the truth reaches the town (ch 25's receipts); the no-names discipline strains `[TK]`. **Every ch 17+ brief carries the terms.** |
+| T28 | **The Friday clock** — sign-and-return "by Friday, close of business, / for inclusion in the trustees' November packet" (ch14:86–87; SR-7 ratified) | ch 14 | OWED — ch 15/16 sit Tuesday night mid-countdown; Cal is NOT signing ("Which I'm not going to give," ch16:247; "figuring what refusing costs, / and who it costs it to," :254–255). **The deadline expires ~ch 17–18: what refusal costs (the twelve, the pre-typed name) must land on the page or be shown dodged — slot `[TK]` at the outline rung.** |
+| T29 | **The Millrow supper** — Delores's plan | ch 13 | OWED — called ch 13 ("What this town does is suppers… Put the whole town at one table, / and make November look it in the eye," ch13:262–267), adopted without a second (:269–273); rig-up ch 15 (forty tables = four hundred chairs, ch15:101; string lights, twine that "unties… take it down kind," :51–54) — interrupted at 9:41; **the half-hung lights left burning** ("Half the job done, all of it still glowing, / gold on the grass with nobody under it," ch15:304–306; still in her mirror at :358). The supper itself has no slot in rev 2.2's 13–16 — slot `[TK]` at the outline touch. |
+| T30 | **Thursday at the Mule — the nothing-party** | ch 14 | OWED — the lid: "MULE, THURSDAY — WE'RE CELEBRATING NOTHING, COME ANYWAY" (ch14:250); Peanut's one night "where nobody's for or against a single thing," Ray catering at cost, Ratchet guest of honor (:255–265); cited twice since ("Tell them it improves by Thursday," ch14:288; "By Thursday I'll know it better…," ch16:329). **Landing slot `[TK]` — and NOTE the Mule room budget (ch 11 = visit 1 of 2; ch 26 holds the second): rule the budget vs. the party at the outline touch before a drafter walks in.** |
 | S01 | Cordelia Hartwell's letters | 1.2 | Series-level; 1.1 owes nothing |
 | S03 | Tess Larkin × Everett Shaw | 1.4 | Correctly absent from 1.1 |
 
@@ -61,7 +66,7 @@ rows that touch it.**
 
 **These are the rows every brief must carry until they clear.**
 
-### T01 — the wrench. Two debts, one unpaid.
+### T01 — the wrench. CLEARED (fold, 2026-08-22): PAID ch 16 — retired from all briefs. History below.
 
 1. **The object.** Cal takes it at ch 1; rev 2.2 puts it on his bench
    at ch 4, "two weeks unreturned." *(State chain note: ch 1 is Sat
@@ -587,3 +592,180 @@ promise.** Proposes **T11** (Boyd never raises his voice).
   (:399–400) `[TK: confirm printed on a later page]` · "the whole
   truth of that house was down to the two of them" (:420–422) — Cal
   and a dead woman's handwriting; the pressure that drives ch 13.
+
+### Ch 13 — Parade Speed *(ACCEPTED 2026-08-22, PR #94; winner C, card D6)*
+
+- **Introduces:** the Doss County Curb Market — breaks camp "at noon
+  on Saturdays, / all at once, in every direction, with advice"
+  (ch13:11–12; NOTE: first "Doss County" on any page — rule county
+  name vs. market brand, see fold flags) · the Zinnia Wagon by name,
+  Birdie talking to it "low in two languages" (:36–38) · Tick Moran
+  and the WDSS swap-shop hour — takes every call "on the air" (:44–48),
+  the station's number saved under T (:44–45) · the square's crown
+  ("Bricks sit higher down the middle… You'll feel it in your feet if
+  you're stood exactly right," :74–77) · Mt. Nebo and the fifth-Sunday
+  circuit ("Whenever a month ran long enough to grow one, the circuit
+  turned," :128–129), the building-fund thermometer (:136–138),
+  Providence Primitive's tables "home by dark or there'd be words"
+  (:131–132) · **Delores Fountain-Mabry** — thirty years running the
+  elementary school, cake-table doctrine ("It's an honor. Act like
+  it," :149–152) · **Odell Fountain** — tables "to a map / he kept
+  entirely in his head" (:139–140); relation to Eli UNRULED (the
+  great-uncle line died with ch13-B — do not assume) · **T29 born** —
+  the supper called (:257–273) · Earlene's fifth-Sunday dahlias (:29–30).
+- **Carries:** month row exact — "The last Saturday of September"
+  (:14), the fifth Sunday, no game texture (Wk8 stays unruled) · T04
+  ("Grapevine had kept the Sabbath, mostly," :303) · T20 SILENT with
+  ache — Cal gone still over his cake, "Still, on that man, was not
+  rest… Whatever he was looking at was not on the table" (:275–280) ·
+  the long look, uninterrupted and unexcused (:282–289) · Cal appeal
+  (the sun "called it a finish instead of wear," :168–171; tables
+  two at a time, "made the weight look like a rumor," :294–296) ·
+  T21/C1 no fire · SC3 — the particular chair: "She had two of
+  those, one twenty minutes off and one at Bellamy" (:240), "which
+  was his job now" (:242), filled by the town ("This seat spoken
+  for?" / "It is now," :246–248).
+- **Pays:** **T12 rung 13 — first hand-over-hand** (:185–197, index
+  row) · **T26/D08 beat 3** (the tow + the fuel pump, index row) ·
+  **T19/RH2 honest signal** (timestamps vs. the brass plate,
+  :303–332) — fair-play table marks it planted.
+- **Hands forward:** the supper plan → ch 15's rig-up (T29) · the
+  tall zinnias → the church tables (:119–122) · T14: the mark moved,
+  kept; "the lines above him stayed empty… she did not have a name
+  to put on the line" (:345–348) → the operator hunt (T19/ch 25) ·
+  the hitch/tables errand seats Cal in the plan the town doesn't
+  know he's dreading → ch 14's mail.
+
+### Ch 14 — The Drawer *(ACCEPTED 2026-08-22, PR #94; winner C, card D1)*
+
+- **Introduces:** boiler day — "the last Monday of September" (:11),
+  by ear, "oldest plant first, worst actor early" (:17) · **Cal's
+  second is a woman — canon** (convergent, all three candidates;
+  :26–39) · **Ronnie of bay three** (:120–127; census: bay three, no
+  surname; owns the dead joke, "My cousin two counties over had a
+  pontoon," :193) · the draft packet: engineer of record's stamp
+  (:60–61), **DRAFT — UNSIGNED, corner to corner, gray** (:65–66),
+  "no line anywhere on the form for a hundred years of standing"
+  (:71–72), FINDINGS one page, "RECOMMEND CONDEMNATION took two words
+  of it" (:74–75), the pre-typed block — "OFFICE OF THE FACILITIES
+  DIRECTOR, / C. SUTTER, and a date line left blank for him to be
+  helpful on" (:76–79) · **T28 born** — the Friday memo (:85–87,
+  SR-7) · the pledge letter — ten copies, "No winter reductions. New
+  equipment. / Roofs on the row barns." (:114–127), unsigned,
+  "pending" (:130–132), dated the same Monday as the memo (:145–150)
+  — mechanism unnamed, as ruled · the workbench drawer and the
+  pencil-tray key: "in twenty years the shop had never held / one
+  piece of paper worth locking" (:323–327) · **T30 born** — the Mule
+  Thursday lid (:249–265) · Ray's fifth-Sunday-Monday plate loop
+  ("Monday after a fifth Sunday, nobody in this town eats right,"
+  :245–247) · the pontoon hour (:155–195).
+- **Carries:** T02 ("There you are," he told it, :44) · T20 loaded —
+  zero leak (the crew reads the pledge, not the draft; "I read the
+  paper," :141–143) · T22 kept apart from the draft — the crate
+  refusal at the open truck door (:102–110) · "Twelve names on that
+  roll. Twelve kitchens attached to them." (:138) · Ratchet the
+  barometer (threshold, :96–98, :313–316) · Cal appeal (the one-pull
+  valve, :19–24) · carillon register — Cal's POV "carillon" (:371).
+- **Pays:** boilers-on-Monday (ch12:335–343) — "he was as good as
+  his word" (:13–15) · **T12 rung 14 — the failed reach, twice**:
+  the fence ("She carried things. / It was the best thing he knew
+  about her, / and it was the reason his thumb stayed where it was,"
+  :224–226) and the lamplight (the widow line, "There had been a
+  time that honor went elsewhere," :339–341; the phone face up, "her
+  name still on it… time out and go dark," :359–360).
+- **Hands forward:** the locked drawer + two keys "that didn't get
+  explained to anybody" (:362–363) → ch 16's open drawer · "Half of
+  it was hers by rights already" (:352) → the accounting · the
+  Thursday lid (T30) → ch 16's "By Thursday" · the Friday clock
+  (T28) → ch 15 detonates mid-countdown. *Fold-found flag: :371 "the
+  carillon counted eight o'clock down Millrow" — sits oddly beside
+  ch 16's ratified back-road fix; readable as where the bell counts,
+  not where Cal hears; accepted as staged, line-pass call.*
+
+### Ch 15 — Nine Forty-One *(ACCEPTED 2026-08-22, PR #94; winner B, card D7)*
+
+- **Introduces:** **D11 on the page** — "*Moderator status for this
+  account (Marisol Pruett) / is pending review.*" (:162–163; PR #93
+  one-token swap NOT exercised — **Pruett stands by use**) · the coup
+  mechanics (SR-8): queue and pins gone (:169), tools moved "like a
+  kitchen where somebody had moved every drawer overnight"
+  (:182–183), **posting remains** — the naked tow number ("it went
+  out naked, no badge on it, / one voice out of twelve thousand…
+  That was the last thing that worked all night," :185–189), the
+  sunset post pinned in her slot (:171–176), "not one door in the
+  place her key still fit" (:178) · **the screenshot artifact —
+  record exactly, ch 25 inherits it:** letterhead OFFICE OF THE
+  FACILITIES DIRECTOR (:230–231), numbers too small to survive the
+  crop, a red box "some helpful hand had drawn" (:234–235),
+  "RECOMMEND CONDEMNATION. HARTWELL HOUSE" (:236), "C. Sutter"
+  typed, "The picture stopped at the name." (:238–239), her own ink
+  hunt finds nothing (:240–243) — watermark unreadable per SR-9
+  (a picture of a picture, stated ch16:19) · forty tables = four
+  hundred chairs (:101) · Earlene's supervising office (:40–49) ·
+  the lighthouse delivery ghost (:106–134) · Verna's proposal patter
+  (:66–79, T03-conformed).
+- **Carries:** month row — "the first Tuesday of October" (:15) ·
+  D09 exact ("front door pulled to for the night, / minded before
+  any of them had gotten there," :80–82; banked plant unspent) · T25
+  buds shut (:85) · T04/T19 — the group as arena · the twine lesson
+  carried unattributed ("A Saturday," :58) · her narration "the
+  tower" (:339) · Verna's defense ("I have watched that man go up
+  ladders nobody sent him up," :260–262) · the Tunk-trial contrast —
+  "There was no round for Cal Sutter tonight" (:282), "the
+  difference between a list and a mob / was nowhere in twelve
+  thousand phones" (:284–285).
+- **Pays:** **T20 REVEALED town-side** (9:41 → midnight, index row);
+  the town's belief Deliberate ("They're saying he signed it
+  Monday," :253) · **P14** — "Approve. Approve. Approve. / She had
+  held the door open herself." (:209–210) · **T16 tested, first
+  half** — her rules vs. the county's inversion (:287–294) · **T12
+  rung 15** — the thumb test: "with the name covered / it was a page
+  about an old house, / and she took her thumb away, / and it
+  wasn't." (:316–319).
+- **Hands forward:** the half-hung lights left burning (:304–306,
+  T29) · the how-she-knows patch — Earlene's key-ring logic ("you'd
+  be where your keys were," :331–334) · the ch 1 door-opening-smile
+  citation, "she did not know which man / was standing inside this
+  one" (:352–355) · the cut, aimed: "the only light left burning on
+  the whole campus" (:351), "fifty yards out and closing" (:361) →
+  ch 16 opens on the other side of that gravel, same night.
+
+### Ch 16 — The Only Lit Door *(ACCEPTED 2026-08-22, PR #94; winner A, card D6)*
+
+- **Introduces:** **T27 born** — the alliance and its terms (index
+  row; "Terms," :337; "two more than Boyd is counting on," :346) ·
+  SR-9 on the page — the screenshot "gone gray from being a picture
+  of a picture" (:19) · the wife spoken of to Marisol for the first
+  time ("My wife's… The dates stop where she did," :227–228;
+  widowhood still unruled) · the boot vote and the tail vote
+  (:60–66, :360–363; "Your shop is rigged," :363).
+- **Carries:** T05 shown, T22 delivered, T23 surfaced (index rows) ·
+  T02 (the bay door one-handed, :388–390 — also the Cal appeal beat:
+  "more of the exact thing I was complaining about," :393–395) ·
+  carillon registers held (Cal's scene: "the carillon struck
+  midnight… down the back road," :235–236 — the night's ONLY
+  strike; "near midnight," :25) · **the Ratchet ch-4 bookend, RULED
+  a deliberate motif at staging (record, don't vary): "Ratchet heard
+  her before the gravel did" (:39 = ch04:41, one noun changed)** ·
+  the interruption ledger retired by name: "no horn, no headlights,
+  no crowd, / nothing left awake in the county to interrupt it"
+  (:356–357) · M1 NOT fired (slot exists smile-less, :377) ·
+  C1/door-smile no spend.
+- **Pays:** **T01 — PAID (SR-6; index row)** — the errand done:
+  "Knowing the size was never the holdup. / Handing it over meant
+  the errand was done." (:299–300) · **T20 CLEARED to the leads; P8
+  plants** (DRAFT — UNSIGNED, :78; superior position open) · **T16's
+  test resolved at the new price** ("Paid," :159 — with the Friday
+  admission first, :150, so her price lands on full information) ·
+  **T12 rung 16 — the first kiss, SPENT, + HEAT 1** (index row;
+  standard 9 exact at :404–405) · ch 15's drive completed; ch 9's
+  "worth saying out loud" economy honored (the look, "neither of
+  them spent a word on it," :358 — varied off ch 9 per staging
+  fix 12).
+- **Hands forward:** the alliance discipline → every ch 17+ brief
+  (T27) · the Friday clock still live — refusing has a cost not yet
+  paid (T28) · "By Thursday I'll know it better than whoever took my
+  badge" (:329) → T30 · the county still believes the warrant
+  (:342–343) → ch 25's receipts · **M1 now a post-midpoint withhold
+  the reader can taste** (T06) · the matched set stays on the clean
+  rag in the shop (:312–313) — object at rest, on the record.
