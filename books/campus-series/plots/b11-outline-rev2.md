@@ -361,9 +361,12 @@ belong to the hickory smoke off Delmar's pit and to exactly one
 other person. Cal, on the screen porch Ray leaves unlocked for him,
 pours her a cup without asking a single question, which she will
 understand later was the kindest thing anyone had done for her in
-months. She bets him the Checkerboard's griddle comes on before the
-Courier's upstairs window; she's wrong, and he lets her be wrong so
-gently she wants to bet again. They watch the town come on a light
+months. She bets him the Courier's upstairs window comes on before
+the Checkerboard's griddle; she's wrong, and he lets her be wrong so
+gently she wants to bet again. *(Corrected 2026-08-21 at staging —
+the sentence previously had the bet backwards against its own
+litany, which lists the griddle first; all three blind ch 9 drafts
+independently staged it this way. Ratified by the wave-3 PR merge.)* They watch the town come on a light
 at a time — the griddle, the Courier's window, the carillon testing
 itself — and he recites the order like a psalm he didn't know he'd
 memorized. She walks home when the crew trucks pull in, and that
