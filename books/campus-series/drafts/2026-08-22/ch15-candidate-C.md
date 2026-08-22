@@ -184,8 +184,10 @@ which was the last thing she still ran, so she ran it.
 
 The lawn thinned toward eleven.
 Dinner never came; Birdie's cooler had carried the evening.
-Verna commandeered the couple for a ride to the Magnolia Court,
-and it was down to the three of them and the cords
+Verna commandeered the couple for a ride to the Magnolia Court.
+"I don't drive at night," she informed them, boarding.
+"That's what engaged people are for."
+Then it was down to the three of them and the cords
 when it came in the way the rendering had come in, back in August.
 One buzz among the many,
 then the same buzz on every phone at once,
@@ -244,7 +246,11 @@ Birdie shut the tailgate and stood by it, keys quiet in her fist.
 
 "No," Marisol said. "I want a fact."
 
-"Then go get one. I'll take the ladders."
+"Whose?"
+
+"The only one who has it."
+
+"Then go get it," Birdie said. "I'll take the ladders."
 
 "Leave the lights on," Earlene said, folding her chair.
 "No sense the whole hill going dark over this."
