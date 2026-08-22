@@ -205,3 +205,15 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-22 | showrunner (nightly shift, scheduled, in-session) | — | this shift |
 | 2026-08-22 | line-copy-editor (campus rev 2.3 write-through — mechanical application of the merged amendment) | — (mechanical run, no draw) | outline + DECISIONS + THREADS conformed |
 | 2026-08-22 | plot-architect (campus wave-5 directive ch17-20) | A3 sensory inventory (LRU) | plots/wave5-directive.md |
+| 2026-08-22 | drafting-assistant (campus ch17 blind, run A) | D1 sound-forward | drafts/2026-08-22-wave5/ch17-candidate-A.md |
+| 2026-08-22 | drafting-assistant (campus ch17 blind, run B) | D4 minor-character competence | drafts/2026-08-22-wave5/ch17-candidate-B.md |
+| 2026-08-22 | drafting-assistant (campus ch17 blind, run C) | D7 open mid-motion | drafts/2026-08-22-wave5/ch17-candidate-C.md |
+| 2026-08-22 | drafting-assistant (campus ch18 blind, run A) | D5 weather as texture | drafts/2026-08-22-wave5/ch18-candidate-A.md |
+| 2026-08-22 | drafting-assistant (campus ch18 blind, run B) | D6 run past comfortable | drafts/2026-08-22-wave5/ch18-candidate-B.md |
+| 2026-08-22 | drafting-assistant (campus ch18 blind, run C) | D2 hands and objects | drafts/2026-08-22-wave5/ch18-candidate-C.md |
+| 2026-08-22 | drafting-assistant (campus ch19 blind, run A) | D3 short-declarative | drafts/2026-08-22-wave5/ch19-candidate-A.md |
+| 2026-08-22 | drafting-assistant (campus ch19 blind, run B) | D1 sound-forward (deck wrapped, 2nd draw this wave) | drafts/2026-08-22-wave5/ch19-candidate-B.md |
+| 2026-08-22 | drafting-assistant (campus ch19 blind, run C) | D4 minor-character competence (deck wrapped, 2nd draw this wave) | drafts/2026-08-22-wave5/ch19-candidate-C.md |
+| 2026-08-22 | drafting-assistant (campus ch20 blind, run A) | D7 open mid-motion (deck wrapped, 2nd draw this wave) | drafts/2026-08-22-wave5/ch20-candidate-A.md |
+| 2026-08-22 | drafting-assistant (campus ch20 blind, run B) | D5 weather as texture (deck wrapped, 2nd draw this wave) | drafts/2026-08-22-wave5/ch20-candidate-B.md |
+| 2026-08-22 | drafting-assistant (campus ch20 blind, run C) | D6 run past comfortable (deck wrapped, 2nd draw this wave) | drafts/2026-08-22-wave5/ch20-candidate-C.md |
