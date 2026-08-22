@@ -1,0 +1,278 @@
+# Chapter 20 — The Ledger
+
+POV: Cal, third person limited, past tense.
+Candidate A — variance card D7 (open mid-motion).
+2026-08-22, blind run (wave 5).
+Flag 3 honored: the 1 a.m. text's sender is unruled — the screen goes
+unread at the cut, nothing invented ([TK: sender] rides here, not in
+the prose, per the no-TK-at-peaks ban).
+STYLE.md tic sweep: zero paragraphs ending in a colon or a dash.
+
+---
+
+The tape ran out long over the stairwell,
+and Cal held the tongue of it to the newel cap one-handed,
+flat on a plank strung between two ladders,
+while below him Marisol read the number off and wrote it down.
+
+"Eleven four and a quarter," she said. "Say it back."
+
+"Eleven four and a quarter."
+
+"Then the stringer agrees with your drawing,
+the drawing agrees with my column,
+and the engineer of record can take it up with all three of us."
+
+Second night of it.
+He let them in the way the terms required,
+his key and the side door after full dark,
+the front door shut and unlit toward Millrow,
+and the House ran a shift nobody in the county got to see.
+Two work lights stood in the hall and hummed,
+moths ticking at the hot glass,
+cold coming up off the floorboards through his knees,
+plaster dust and lemon oil on the air,
+the house keeping its warmth the way it kept everything,
+out of habit, deeper in.
+
+The counter-report had quit being an idea Tuesday
+and become labor, which suited him better.
+An answer only counted if it stood as tall as the thing it answered.
+Real drawings, real numbers, nothing borrowed,
+which came down to a man on a plank at midnight
+with a tape and a level and a county believing him a villain.
+The drawings rode behind the bench seat of his truck
+and went from the truck to this hall and back and nowhere else.
+
+That morning she had passed him on the square
+and read a store window while she did it, per the terms,
+and done it well,
+and he had spent the day not admiring how good they were getting.
+
+She worked at the bottom of the stairs,
+his clipboard against her hip,
+a carpenter pencil running figures down the margin,
+sleeves rolled past her elbows in one of the crew's spare flannels
+that had never once looked like that on the crew.
+There was fresh sawdust in her hair, pale against the dark of it,
+and he had not told her, on the grounds that he liked it there.
+Her mouth moved when she ran a column, no sound,
+just the shapes of the numbers,
+and he had learned to quit watching by the third row
+or lose his place on the tape.
+
+He came down, pulled the plank,
+and walked both ladders across the hall one in each hand.
+
+"On Monday," she said, watching the ladders travel,
+"that exact job took Ronnie, a dolly,
+and a speech about his back."
+
+"Ronnie gives the speech first and lifts second."
+
+"I'm only saying the volunteer program has its perks."
+
+She went back to the column. Then the pencil stopped.
+
+"Where does a hundred years of upkeep get written down?" she said.
+"A porch got jacked level Monday and it wasn't the first time.
+A house like this keeps minutes somewhere. I'd bet the drawer."
+
+"Which drawer?"
+
+"You tell me. It's your building."
+
+The House ledger lived in the hall table,
+the deep drawer under the guest book,
+canvas-backed and swollen with itself,
+and Cal lifted it out and laid it under the near work light
+and did not open it.
+She opened it.
+
+Gutters cleared. Rail reset, west porch.
+Third step planed and waxed.
+The hands changed every few pages, copperplate to print,
+ink to ballpoint, a hundred years of somebody minding,
+and the last long run of pages was one hand,
+small and square,
+the same small square writing she had seen once before,
+in the corners of eleven photographs on a shop bench.
+
+She didn't say she was sorry this time either.
+
+The run ended partway down a page,
+mid-season by the look of the chores,
+and after it the ruled lines went on empty to the back of the book.
+
+He could have told her the page was current anyway.
+The step level, the roses tied, the gutters clean, every year.
+He had done the work and left the lines alone,
+because writing the next entry
+meant being the hand that came after hers.
+
+Marisol set the book flat, took up the carpenter pencil,
+and looked at him once. Not for permission. For company.
+
+He put his hand on the page to hold it.
+
+She wrote, below the last of the small square lines,
+in her own quick slant,
+the porch roof, the storm limb, the crew of twelve,
+and the words *and one volunteer,*
+and the side of her hand rode against the side of his
+the whole length of the line,
+and when the pencil stopped, neither hand moved off the page.
+
+Two nights ago she had stood in his own doorway
+and told him the wife was still winning,
+and the sentence had been following him around since.
+Now her writing sat under the small square hand,
+two entries on one page,
+and Cal heard himself start at the beginning.
+
+"She came to Ashford for a year," he said.
+"A fellowship. Twelve months, a rented room, a plan at both ends.
+She planted a climbing rose on the east lattice.
+Nobody plants a climber for one year.
+I've had a long time to notice that.
+I asked her once why that spot.
+She said the lattice looked underemployed."
+
+Marisol kept her hand on the page and her eyes on him
+and let him run.
+
+"The fellowship ended and she didn't leave.
+We married on that porch.
+Chairs borrowed off half the porches on Millrow,
+Verna in the front row telling the photographer his business.
+And there's one picture a House wedding takes.
+You've seen the wall."
+
+He came around the table to the foot of the stairs.
+The work lights didn't reach past the landing,
+and he didn't need them to.
+
+"Near the top," Cal said. "Same hall. Same step.
+That's her dress, and that's my one good jacket,
+and that's the two of us on the kneeling step.
+The last frame on this wall is our wedding picture.
+And I've stood on this exact spot and run the tour,
+every couple, every story, all the way up,
+and called the end of it one frame early.
+Every time. You heard me do it."
+
+"I heard you," Marisol said.
+
+"Here's the why of the frame,
+and the why of a word I've never said in this building.
+The word everybody wants is memorial.
+Half the county would carve it over the door tomorrow,
+and it'd even be good strategy.
+Nobody pours a deck on a memorial."
+
+The nearer work light browned and buzzed.
+He crossed to it while he talked,
+reseated the hot bulb through a dry rag,
+and the hall came back to full brightness
+without the story missing a word.
+
+"I've had that word in my mouth a hundred times.
+It never once got out.
+A memorial is a finished thing.
+You cut the ribbon, you plant the plaque,
+and everything the place was ever going to be, it already is.
+So I kept the step level and the roses tied instead.
+Chores don't finish. That's the point of chores.
+The day I say that word out loud,
+this stops being her house
+and starts being the place she used to live,
+and I never found the morning I could afford that."
+
+He looked up into the dark where the frame hung.
+
+"Then Monday you stood in my doorway
+and told me she's still winning,
+like it was the day's good news.
+That's the only time anybody's ever said it out loud
+in the same direction I say it in."
+
+The hall stayed quiet around the hum of the lights.
+His eyes had gone to standing water somewhere in the middle of it,
+and he made no announcement about that either.
+
+Marisol had a handkerchief out of the flannel's pocket already,
+and she didn't dab at him with it or make it a ceremony.
+She put it in his free hand, brisk as change counted at a register,
+and said, "That story runs you a pie.
+I don't set the rates. Verna sets the rates."
+
+The laugh came up out of Cal before he knew it was traveling,
+rusty as a gate hinge, two turns and done,
+and it surprised him more than the water did.
+
+"Terrible," he said.
+
+"I know it. It's the one I had."
+
+He used the handkerchief once, frankly,
+and it went into his shirt pocket
+with the two keys that didn't get explained to anybody.
+There was room.
+
+"Now I need the director and not the tour guide," she said,
+"because I ran a column tonight and I want it checked."
+She turned the clipboard so the work light hit her figures.
+"Boyd's letter promised your twelve a winter. Pending.
+Set his letter down and count what this house wants.
+The roof past the porch. The rail. Plaster on two floors.
+Paint from the water table up,
+and whatever you know about the wiring
+that we're not writing down yet.
+That's every trade on your roll, first frost to spring,
+and it's real work with real drawings behind it,
+because the drawings are in your truck right now.
+Monday I asked you what if the restoration is the winter.
+Tonight I'm telling you the column holds.
+Don't take my word. Do your own arithmetic."
+
+He did it standing still, the whole stack,
+twelve names against five months of honest trades.
+Then he did it again, slower,
+springing his weight on every number,
+hunting the soft one the same as he'd hunt a bad joist.
+There wasn't one.
+
+He went quiet, and the quiet felt structural.
+A jack he'd been carrying under a beam all fall eased down,
+and the beam held,
+and the holding was the news.
+
+"Well," Marisol said, to the clipboard.
+
+"Give me the pencil," Cal said,
+and they went back to work,
+because the numbers were the only courting
+the county was going to allow them,
+and the numbers, it turned out, were willing.
+
+Up the hill the carillon let one o'clock go,
+a single note coming down the back of the town.
+
+She brought the clipboard around the hall table to show him
+where her column met his drawing,
+and then she was inside the light of the near lamp with him,
+sawdust in her hair and figures in her hand,
+close enough that the column quit mattering,
+and she knew it, and stayed.
+He set the pencil down.
+One of them leaned, or both did.
+
+The work light hummed down a register and died.
+
+The dark took the hall whole,
+except for the hall table,
+where her phone had come on by itself,
+bright as a struck match,
+something arriving at one in the morning.
+
+Marisol reached for it.
