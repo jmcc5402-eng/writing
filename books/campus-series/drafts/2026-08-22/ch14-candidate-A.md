@@ -25,9 +25,10 @@ then a cheater bar on the pipe wrench,
 then both boots set wide,
 and moved nothing in that cellar but himself.
 
-"She's not stuck," Cal said. "She's set in her ways."
+"She's not stuck," Cal said. "She's set in her ways.
+Off the handle. You'll snap the spokes and blame the wheel."
 
-He set one hand on the wheel and it gave,
+He set one hand on the rim and it gave,
 the pull stopping somewhere short of effort,
 and he ran the valve open to the stops
 while the kid was still catching his breath.
@@ -35,16 +36,19 @@ The new hire looked at the wheel, then at Cal,
 then back at the wheel,
 and adjusted some private figure upward.
 
-"Grip it at the rim," Cal said. "It's leverage."
+"Leverage," Cal said. "Rim, not handle. Now you know."
 
 It was not entirely leverage.
-Thirty years of this work had built him the shoulders it needed
+Thirty years of the work had built him the shoulders it needed
 and kept on building past the requirement,
 and the green polo fit him the same at forty-seven
 as the day the college issued it.
 
-Number three lit hard, banged away down in the dark for a minute,
+Number three lit hard, banged away down in the dark a minute,
 and came quiet when he bled the line.
+
+"There you are," Cal told it.
+
 By ten there was heat moving in every building on the list,
 and Cal came down the hill to the motor pool
 with the morning spent and the day, as far as he knew,
@@ -54,10 +58,12 @@ The envelope was on his bench.
 
 Hand-carried, no stamp, his name typed on the front.
 Inside was a gray cover and a hundred-some pages,
-every structure on the Millrow list graded line by line
-against this year's code, pass or fail,
+sharp-edged, fresh off somebody's printer,
+a document that had not existed Friday.
+Every structure on the Millrow list was in it,
+graded line by line against this year's code, pass or fail,
 exactly as the ground rules had promised,
-and the word DRAFT printed up every page
+and the word DRAFT ran up every page
 in letters the color of weak tea.
 
 He read it standing, with the radio going.
@@ -100,30 +106,28 @@ The screen dimmed once and he woke it without moving his thumb.
 She'd answer by the second ring.
 She'd know something was wrong by the third,
 because she read a voice the same as he read an idle,
-and there was no half-answer of his
-that would survive the fourth.
+and no half-answer of his was going to survive the fourth.
 And twelve paychecks stood where they had stood all month,
 between that phone call and the winter.
 
 The roll door ran up on the far bay,
 and the yard came in with it, diesel and shouting,
-and his second was crossing the floor with a clipboard.
+and his second was crossing the floor with the clipboard
+and the morning's misery already sorted, worst three on top.
 Cal set the phone face down by the vise.
 
 That made once.
 
-"Heat's up," his second said. "Four dorms report a miracle.
-Two have opened every window they own."
-
-"Thermostat's not a debate. Tell them."
-
-"Also East Third has a new smell. They say this one's different."
+"Four dorms report a miracle," his second said.
+"Two have opened every window they own.
+And East Third has a new smell. They say this one's different."
 
 "Different how?"
 
 "They say it's got ambition."
 
-"I'll walk it after lunch," Cal said.
+"Tell them the thermostat's not a debate," Cal said.
+"I'll walk the smell down after lunch."
 
 "And this came for the board." She held up a cream envelope.
 "Every shop on campus got one, I'm told. Same hour, same knock."
@@ -147,11 +151,14 @@ and went back to the mower deck whistling.
 The draft on Cal's bench had come hand-carried that morning.
 The letter on the board was dated the same Monday.
 Two offices, two envelopes, one day,
-timed tighter than campus mail had ever run on its own,
-and the only man standing where both papers could be seen at once
-reached up, squared the letter on its tack
+timed tighter than campus mail had ever managed on its own,
+and the only man on campus standing where both papers
+could be seen at once said nothing to anybody.
+He slid the envelope under the big parts catalog,
+flat of one hand, offhand, a man tidying his bench,
+reached up and squared the pledge letter on its tack
 so his crew could read it level all week,
-and went to walk the dorm smell down himself.
+and went to walk down the smell himself.
 
 ---
 
@@ -160,44 +167,59 @@ and the hour had a pontoon boat in it.
 
 "Twenty-two-foot pontoon," Tick Moran read out, the first time.
 "Runs good. Trailer included. Motor needs attention.
-Twelve hundred dollars, and the caller says he's flexible.
+Selling for a friend, he says, and the friend is his wife,
+he also says. Twelve hundred dollars, flexible.
 Lines are open, Ashford."
 
 The lines stayed open.
 
-Eli Fountain came in off the yard for a mower-deck belt
+Eli Fountain came in off the yard about then.
+
+"Belt," Eli said.
+
+"Cage is open," Cal said. "Charge it to the stadium."
+
+Eli found his mower-deck belt in the parts cage
 and stayed on the strength of the pontoon.
 
 "Runs good, motor needs attention," the new hire said.
-"Which one is it?"
+"Which is it?"
 
-"Both," said the older hand at the press.
-"It ran good the day he wrote the ad."
-
-"How old's the ad?"
-
-"How old's the boat?"
+"It ran good the day he wrote the ad," Eli said.
 
 Tick came back at the bottom of the hour.
-"Pontoon's still with us, people. He's down to nine hundred.
-Says that's firm."
+"Pontoon's still with us, people. He's down to nine hundred,
+and says that's firm."
 
-"He said firm at twelve hundred," the new hire said.
+"He said flexible at twelve hundred," Cal said, from the bench.
 
 "A man can be firm more than once," Eli said.
 
-"What's it actually worth? Eli. Real money."
+At the top of the next hour the price had company.
+"Update on that pontoon," Tick said. "A thousand even
+and he throws in the life jackets.
+Four of them. Three orange, one camouflage."
 
-"Trailer's worth three hundred if the axle's straight," Eli said.
-"Tires another forty if they hold air.
-The boat, you'd pay somebody to come take it off."
+"What's a camouflage life jacket for?" the new hire said.
+
+"Not being found," Eli said.
+
+The bay wanted a number after that,
+and the bay knew who to ask.
+
+"Real money, Eli," Cal said. "What's it worth?"
+
+"Trailer's three hundred if the axle's straight," Eli said.
+"Tires, forty, if they hold air.
+The furniture's sun-rotted.
+First man who sits down keeps the cushion.
+The boat itself, you'd pay somebody to come take it off."
 
 The new hire worked it out on the bench top in soapstone,
-trailer plus tires minus the hauling,
+trailer plus tires, minus the hauling, minus the cushion,
 carried the one,
 and stood back from the arithmetic.
-
-"That's forty dollars."
+The soapstone said forty dollars.
 
 "Forty dollars," Eli said, "and he delivers."
 
@@ -205,18 +227,23 @@ That got the whole bay.
 Eli picked up his belt and went back to the yard
 with the face of a man who had said nothing funny.
 
-Tick tried once more near the top of the news.
-"Last call on that pontoon. Nine hundred of anybody's dollars.
-Somebody be brave."
+"Anybody here buys that boat," Cal said,
+"it winters somewhere else."
+The bay took the ruling well.
 
-"I wouldn't take a boat for free," the new hire said.
+Tick tried the boat one last time at the top of the news.
+"Folks, this pontoon's had one owner,
+and the lake has been the second."
+Nobody in the bay looked up.
+Tick let it sit out there on the open air,
+then read the next card.
+"Dinette set, six chairs, two of them loose.
+She's proud of the table. Less proud of the chairs."
 
-Nobody took it up.
-Tick moved on to a dinette set, six chairs, two of them loose.
-
-Ray's boy came up the hill at four with a to-go box
-and set it on the end of Cal's bench
-like he'd been making the stop for years.
+Ray's boy came up the hill at four with a to-go box,
+set it on the end of Cal's bench
+like he'd been making the stop for years,
+and was back in the truck before anybody could argue about it.
 Grease pencil on the lid, all capitals, Ray's hand.
 MULE, THURSDAY — WE'RE CELEBRATING NOTHING, COME ANYWAY.
 
@@ -242,7 +269,13 @@ his second last across the floor with her keys out.
 
 "I'll open tomorrow too."
 
-She had a look at him on her way past, kept it to herself,
+She stopped at the door.
+
+"That letter on the board. That's good news, right?"
+
+"It's in writing," Cal said.
+
+She waited a moment for the rest of it, didn't get it,
 and went.
 
 He fed Ratchet and let the shop empty all the way out.
@@ -304,6 +337,8 @@ He put the bay lights out walking, back bay to front,
 took his jacket off the hook,
 and let himself out the office door.
 Ratchet walked him as far as the gate and turned back.
+
+"Thursday," he told her, going. "We're celebrating nothing."
 
 He pulled the gate to and chained it.
 The draft was in the drawer, the drawer was locked,
