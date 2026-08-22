@@ -24,7 +24,7 @@ the drawing agrees with my column,
 and the engineer of record can take it up with all three of us."
 
 Second night of it.
-He let them in the way the terms required,
+He let them in as the terms required,
 his key and the side door after full dark,
 the front door shut and unlit toward Millrow,
 and the House ran a shift nobody in the county got to see.
@@ -32,8 +32,7 @@ Two work lights stood in the hall and hummed,
 moths ticking at the hot glass,
 cold coming up off the floorboards through his knees,
 plaster dust and lemon oil on the air,
-the house keeping its warmth the way it kept everything,
-out of habit, deeper in.
+the house holding its warmth like a habit, deeper in.
 
 The counter-report had quit being an idea Tuesday
 and become labor, which suited him better.
@@ -44,10 +43,23 @@ with a tape and a level and a county believing him a villain.
 The drawings rode behind the bench seat of his truck
 and went from the truck to this hall and back and nowhere else.
 
+Tuesday night had gone to the porch and the footing,
+the tape zipping home across the dark rooms,
+the pencil scratching,
+her reading every figure back to him twice
+because the report got no second chances.
+By the time he'd walked her out the side door into the cold
+they had a porch on paper that matched the porch on the ground,
+and tonight the staircase was going the same way.
+True, measured, and nobody's word for anything.
+
 That morning she had passed him on the square
 and read a store window while she did it, per the terms,
-and done it well,
-and he had spent the day not admiring how good they were getting.
+and done it well.
+Ten yards of brick sidewalk, her coffee and his tailgate,
+and not one word spent between them where the town could count it.
+He had gone up the hill with the whole morning in his teeth
+and spent the day not admiring how good they were getting.
 
 She worked at the bottom of the stairs,
 his clipboard against her hip,
@@ -88,6 +100,10 @@ canvas-backed and swollen with itself,
 and Cal lifted it out and laid it under the near work light
 and did not open it.
 She opened it.
+
+"Oh," she said, at the first page,
+and then nothing for a good while,
+which from her was a paragraph.
 
 Gutters cleared. Rail reset, west porch.
 Third step planed and waxed.
@@ -255,7 +271,13 @@ because the numbers were the only courting
 the county was going to allow them,
 and the numbers, it turned out, were willing.
 
-Up the hill the carillon let one o'clock go,
+For a while the hall ran on pencil scratch and the hum of the lights,
+his drawing of the staircase gaining its figures one at a time,
+her columns squaring under the lamp,
+the two of them trading the one pencil back and forth
+until whose hand it was quit being information.
+
+Up the hill the carillon struck one,
 a single note coming down the back of the town.
 
 She brought the clipboard around the hall table to show him

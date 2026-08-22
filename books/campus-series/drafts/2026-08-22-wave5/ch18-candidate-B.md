@@ -60,8 +60,7 @@ reading the transcript like a box score.
 "Says who?"
 
 "Peanut. Poured it last night and set it down on the house,
-far end of the bar, where you'd sit if you ever sat.
-Told the room it'll keep."
+far end of the bar. Told the room it'll keep."
 
 Cal kept reading the sheet.
 
@@ -82,7 +81,7 @@ and lay in a locked drawer thirty feet from the corkboard.
 "Beer'll keep. Peanut said so."
 
 Ronnie nodded and went back to bay three,
-and the impact wrench picked the morning back up.
+and the impact wrench started back up.
 
 ---
 
@@ -97,9 +96,7 @@ and he looked at the yard fence a moment with real approval,
 which the fence had earned.
 
 "I won't take ten minutes," Boyd said.
-"Friday got past us. I don't pretend calendars didn't happen,
-and I don't crowd a careful man.
-I've had them hold the packet.
+"Friday got past us. I've had them hold the packet.
 The same pages will reach you fresh this week,
 and the new line is the Friday before the trustees come up.
 Thoroughness reads well in November. Signed, it reads better."
@@ -182,7 +179,7 @@ and startled a mockingbird off the wire.
 
 The engineer raised two fingers off the jug for a goodbye
 and walked back down to his truck,
-and that was the whole conversation,
+and that was all the conversation there was,
 and it was enough to build on.
 
 That evening he stayed late in the office with a legal pad
@@ -226,8 +223,14 @@ his second asking after a part number for the flatbed,
 and the county was back,
 and her name went dark in his pocket.
 
-Friday's mail brought the same pages in a fresh envelope,
-gray corner to corner, same as promised,
+Friday ran its own errands first.
+The shop did Friday work, brake lines and blade grinding,
+Tick Moran sold a gooseneck trailer over the radio,
+sight unseen, before lunch,
+and the back road's pecans let go a few more yellow leaves
+with every good gust.
+The mail came at a quarter past ten,
+the same pages in a fresh envelope, gray on every page,
 with a one-paragraph memo naming the Friday before the trustees.
 It went into the locked drawer on top of the first one,
 and the key went back in his shirt pocket, next to the House key,
