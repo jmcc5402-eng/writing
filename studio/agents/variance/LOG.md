@@ -203,3 +203,5 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-22 | line-copy-editor (campus ch13-16 post-ratify mechanical pass) | E3 reverse order | manuscript in place + report |
 | 2026-08-22 | plot-architect (campus outline rev 2.3 amendment — June clock, occupation, T24/T25 slots, month column) | A1 antagonist-first (LRU) | plots/ for the gate PR |
 | 2026-08-22 | showrunner (nightly shift, scheduled, in-session) | — | this shift |
+| 2026-08-22 | line-copy-editor (campus rev 2.3 write-through — mechanical application of the merged amendment) | — (mechanical run, no draw) | outline + DECISIONS + THREADS conformed |
+| 2026-08-22 | plot-architect (campus wave-5 directive ch17-20) | A3 sensory inventory (LRU) | plots/wave5-directive.md |
