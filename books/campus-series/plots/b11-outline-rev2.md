@@ -911,10 +911,10 @@ tracks the physical document.
 | 15 | Tue Wk9 | drawer; cover screenshot everywhere | Town: his name = the verdict. Marisol: seat gone; she let the socks in |
 | 16 | Tue night Wk9 | drawer → shown to Marisol → drawer | Marisol + reader: UNSIGNED, rigged (superior position opens) |
 | 17 | Thu Wk10 | drawer | Town: the question, live; his silence. Aisha's on-record refusal |
-| 18 | Fri Wk10 | the dead Wk9 Friday reset to Fri Wk13 | Cal: the equal-standing rule |
-| 19 | Mon Wk11 | drawer | Marisol: the twelve names; the winter answer, said aloud |
-| 20 | Tue–Thu Wk11 | drawer + counter-drawings begun (his truck) | Marisol: the whole of the grief. Cal: the winter answer's math |
-| 21 | Sat Wk11 | drawer; wiring citation filed, published by her | Town: the wiring truly bad — her own post. Reader: the rehearsal post (P16) |
+| 18 | Wed–Fri Wk11 (SR-11) | the dead Wk9 Friday reset to Fri Wk13 (the Friday before the trustees — target unmoved) | Cal: the equal-standing rule |
+| 19 | Mon Wk12 (SR-11) | drawer | Marisol: the twelve names; the winter answer, said aloud |
+| 20 | Tue–Thu Wk12 (SR-11) | drawer + counter-drawings begun (his truck) | Marisol: the whole of the grief. Cal: the winter answer's math |
+| 21 | Sat Wk12 (SR-11) [CHECK: collides with ch 22's Sat Wk12 — the wave-6 directive must resolve the dance weekend (slide 22–23 to Wk13, or compress); rows 24–26 are anchored by the Fri Wk13 deadline and the first-Tuesday trustees and do NOT move] | drawer; wiring citation filed, published by her | Town: the wiring truly bad — her own post. Reader: the rehearsal post (P16) |
 | 22 | Sat Wk12 | drawer | Town: the last dance — the couple, public by his choice |
 | 23 | Sat–Sun Wk12 | drawer | Town: "asking for a friend"; the Liars' Table press release |
 | 24 | Mon Wk13 | drawer; CROPPED COPY everywhere | Town: believes it signed (false); the dance photo re-read as the fix |
@@ -926,7 +926,11 @@ tracks the physical document.
 | 30 | Sat Wk15 | filed; new tell-tale dated on the wall | Reader: the watching is his now |
 
 Month row for the state chain (sweep ruling 12; amendment §5, PR
-#95 — the "mid-Nov" gloss corrected to early November):
+#95 — the "mid-Nov" gloss corrected to early November. SR-11,
+wave-5 sweep finding 1 option 2: ch 18 retags Wk11, ch 19–21
+slide to Wk12; the reset Friday (Fri Wk13, the Friday before the
+trustees) and the trustees (first Tuesday of November) are fixed
+anchors and did not move):
 
 | Ch | Wk | Month |
 |---|---|---|
@@ -938,8 +942,9 @@ Month row for the state chain (sweep ruling 12; amendment §5, PR
 | 11 | 7 | late September (first cold front) |
 | 12–13 | 8 | September's last weekend (the fifth Sunday) |
 | 14–16 | 9 | September's last Monday; the coup is October's first night |
-| 17–18 | 10 | early October |
-| 19–21 | 11 | mid-October (T25's window) |
+| 17 | 10 | early October |
+| 18 | 11 | mid-October (SR-11) |
+| 19–21 | 12 | mid-to-late October (T25's window — slid one week per SR-11; bloom Mon Wk12) |
 | 22–23 | 12 | late October (the dance) |
 | 24–26 | 13 | October's last week; the deadline dies at November's door |
 | 27–28 | 14 | the first days of November (trustees: first Tuesday) |
