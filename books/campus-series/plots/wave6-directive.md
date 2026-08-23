@@ -499,8 +499,14 @@ personification count, ending-register conformance, SR-17
 compliance); cross-batch repetition scan; winners staged per a
 wave-6 staging order; **the staging order strips or flags
 time-of-day, light, and prop-state words inside any verbatim
-graft by default** (line-pass law); one DECISION PR for the
+graft by default** (line-pass law); **and after every ordered
+micro-fix the staging agent re-reads the full sentence and its
+structural mate — a mandated fix must not break the parallel it
+sat in** (line-pass lesson, 2026-08-23); one DECISION PR for the
 author's single read; THREADS.md updates on acceptance only.
+Wave-6 drafters also inherit the new RECENT.md watch item:
+surprised laughter written fresh (the "laugh got/came up out of
+[name]" scaffold is at six uses and watched).
 Rev 2.3 is the frozen base: holes found in prose are fixed at the
 outline and re-derived, never patched downstream. SR-14's
 apparatus edit ships in the wave PR.

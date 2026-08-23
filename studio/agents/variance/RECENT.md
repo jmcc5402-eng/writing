@@ -46,6 +46,12 @@ list in the agent's invocation as "banned moves this run."
   ("— x, y — and…") is a machine tell. Linter now counts sentences
   with two or more em dashes: budget ONE per chapter, and never a
   dash-pair plus a dash-continuation in the same sentence.
+- WATCH (campus line pass, 2026-08-23): "the laugh got / came up
+  out of [name]" as the default for surprised laughter — six uses
+  book-wide, two in wave 5 alone (ch05:154, ch06:42, ch09:180,
+  ch16:278, ch18:182, ch20:229). At current density it is a
+  forming tic: wave-6+ drafters write surprised laughter fresh;
+  do not increase.
 
 ## junior-literary-critic
 

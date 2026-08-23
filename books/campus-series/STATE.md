@@ -1,78 +1,63 @@
 # Campus Book 1.1 — State of Play
 
-**Updated 2026-08-22 (wave-5 pipeline, staging pending). This file
-is the thread-handoff summary: a fresh session reads this FIRST,
-then the docs it points to. Update it at every wave boundary and
-whenever a thread parks mid-pipeline.**
+**Updated 2026-08-23 (wave-5 accepted and folded; wave 6 GATED at
+the author). This file is the thread-handoff summary: a fresh
+session reads this FIRST, then the docs it points to. Update it at
+every wave boundary and whenever a thread parks mid-pipeline.**
 
 ## Where the book stands
 
-- **Accepted: ch 1–16 (~38,000 words)** — the full first half:
-  the wrench paid (ch 16, after the ch 1 promise), the midpoint
-  reveal (ch 15, 9:41), the first kiss + HEAT 1 (ch 16), the
-  alliance formed. All folded into THREADS/CHANGELOG, all
-  copyedited (line passes 2026-08-21 and -22 — the ch 13–16 pass
-  found ZERO mechanical defects).
-- **Outline: rev 2.3** applied in place to
-  `plots/b11-outline-rev2.md` (PR #95): Marisol = self-employed
-  bookkeeper (D12), June clock priced at ch 29 with Kat (D08
-  ratified), bloom ch 19, pie debt ch 23, month row, P17+P18 in
-  the fair-play table.
+- **Accepted: ch 1–20 (~48,000 words)** — two-thirds of the book:
+  the midpoint kiss (16), the public question and the eleven
+  seconds (17), the reset clock (18), the winter answer said and
+  proven (19–20), the wedding-picture confession and the ledger
+  line (20). All folded into THREADS/CHANGELOG; line passes
+  through ch 20 (2026-08-21/-22/-23 — the last TWO waves passed
+  with ZERO mechanical defects).
+- **PR #96 merged with no comments** — every wave-5 SR ruling and
+  flag ratified as staged (SR-11 calendar, SR-12 engineer
+  unallied, "since June" canon, T30 paid-by-echo, sender still
+  `[TK]`, leaned-or-both unruled → banned by default).
+- **Outline: rev 2.3** in place; SR-14's apparatus edit (the
+  Saturday compression) ships in the wave-6 PR.
 - **Author's standing directives** (studio/VISION.md, read it):
-  90% campus until Book 1 ships (other books on quiet hold);
-  faster-but-measured (parallelism, never skipped gates); pleasure
-  instruments outrank checkbox instruments; the AI-tell scrub rules
-  are law (studio/STYLE.md 2026-08-22 block + RECENT.md drafting
-  bans).
+  90% campus until Book 1 ships; faster-but-measured; pleasure
+  instruments outrank checkbox instruments; the AI-tell scrub
+  rules are law (STYLE.md 2026-08-22 block + RECENT.md, which
+  gained a laugh-scaffold watch item 2026-08-23).
 
-## Wave 5 (ch 17–20) — IN FLIGHT, staging pending
+## Wave 6 (ch 21–24) — GATED, awaiting the author's "go wave 6"
 
-All 12 blind candidates written and committed
-(`drafts/2026-08-22-wave5/`). Status:
+**Prep is COMPLETE: `plots/wave6-directive.md` (card A8,
+set-piece-first).** The wave: homecoming + HEAT 2 under the
+stands (21), the dance — secrecy dies by Cal's choice (22), the
+gate kiss + HEAT 3 + T24's pie debt paid at the Liars' Table
+(23), the leak — MAJOR SETBACK (24).
 
-| Ch | Field | Panel verdict | Note |
-|---|---|---|---|
-| 17 | complete | **B wins** (B > C > A) | notes/ch17-panel-2026-08-22.md — graft C's House-look into B's counted seconds; Merritt's on-page debut (fold notes it) |
-| 18 | complete | **B wins** (B > A > C) | notes/ch18-panel — the ONLY Cal who keeps the ch 16 pact (finding 2: B18 is required by both ch 20 finalists); trim Boyd toward the 8–10% quiet band |
-| 19 | complete | **A wins** (A > C > B) | notes/ch19-panel-2026-08-22.md — Travis + DeShawn lock; limb locks EAST end; the tomorrow-night side-door appointment is new canon (the 19→20 wire) |
-| 20 | complete | **A wins** (A > C > B) | notes/ch20-panel — T18 pays exactly; graft C's only-lie line (frame count corrected) + B's memorial-receipt |
+Embedded SR rulings (author strikes any at the gate):
+- **SR-14:** the ch 21/22 Saturday collision resolves by
+  COMPRESSION — the fall dance IS homecoming night (slide was
+  impossible: Mon–Sun weeks put a Sat Wk13 dance after the
+  anchored Mon Wk13 leak). One Saturday, three chapters.
+- **SR-15:** the 1 a.m. text (T32) = her SON, a parking question
+  — the almost dies of comedy; R5 artifact rules.
+- **SR-16:** peach man = texture, retired by the calendar; D08
+  beat 4 (Eli's mum buyout) stands alone.
+- **SR-17:** "one of them leaned, or both did" BANNED from reuse
+  pending a motif ruling.
 
-Cross-batch sweep DONE: `notes/wave5-canon-sweep-2026-08-22.md` —
-zero disqualifiers; rations verified (no M1 smile, no C1, no heat,
-no first-framings); the blockers are wave-level and RULED at
-staging:
-- **SR-11 (calendar):** ch 18 retags Wed–Fri **Wk11**, ch 19–20
-  slide to **Wk12** — zero prose changes; the month row and state
-  chain get the one-week apparatus edit; flag for author strike.
-- **SR-12 (engineer):** the yard-fence engineer stays UNALLIED —
-  C18's neutral write-around grafts over B18's survey-outfit
-  framing; allegiance is the author's future call (P10 pays ch
-  20/28).
+Gate flags (defaults apply on a bare "go"):
+1. **M1 payoff slot** — the dance (22, town sees it), the gate
+   kiss (23, only he does), or HOLD. Default: HOLD, no firing.
+2. Door-smile second spend at the ch 22 ask — default: none.
+3. D09 banked plant — the dance opens the House's front door
+   after dark. Recommended: YES.
+4. Ch 24 one terms-legal text between the leads — recommended in.
 
-**To finish the wave (steps 1–2 DONE; a thread resuming here
-starts at wherever the checkmarks stop):**
-1. ✅ Ch 19 panel filed (notes/ch19-panel-2026-08-22.md, A wins).
-2. ✅ `plots/wave5-staging-order.md` compiled and pushed (SR-11/
-   SR-12/SR-13 embedded; sweep findings 4–8 mandatory; §II(a)
-   strike lists; seven PR flags listed at its foot).
-3. ✅ Staged and pushed on branch `campus/ch17-20-wave`
-   (commit 60c582d): ch 17 "One Table" (B), ch 18 "[Pause]" (B),
-   ch 19 "Coffee for Twelve" (A), ch 20 "The Ledger" (A), plus
-   SR-11's apparatus edit (state chain rows 18–21 + month row;
-   ch 21/22 Saturday collision marked [CHECK] for wave 6). Lint:
-   24.2 / 11.1 (the quarter's quiet chapter, PR-flagged) / 20.8
-   / 34.0. Tic sweep + dedup vs ch 1–16 clean.
-4. ✅ **PR #96 OPEN — the wave is at the author gate.** Reading
-   page artifact linked in the PR body; seven flags listed
-   there. Nothing further until the author merges or comments.
-5. On merge: acceptance fold (THREADS/CHANGELOG per the house
-   pattern — T29 PAID 17, T30 paid-by-echo 18 (graft rides),
-   T25 PAID 19, T18 PAID 20, T28 reset on page, Merritt debut,
-   crew names Travis + DeShawn lock, east end, the tomorrow-night
-   appointment, Delmar's closed Mondays, ledger = hall-table
-   drawer canon), line pass, then wave-6 prep (ch 21–24: HEAT 2
-   at 21, D08 beat 4 at 21 — peach-man rider DUE, ch 23 pie debt,
-   ch 24 leak; resolve the ch 21/22 Saturday [CHECK]).
+**On "go wave 6":** 12 blind drafts (D-deck cards, LRU, logged) →
+4 panel judgings → cross-batch sweep → staging order (incl.
+SR-14 apparatus edit + the re-read-the-mate rule) → stage on
+`campus/ch21-24-wave` → lint → reading page → ONE author PR.
 
 ## The operating system (how work moves)
 
@@ -85,48 +70,57 @@ starts at wherever the checkmarks stop):**
 - PR rules: studio/PR-WORKFLOW.md. Anything touching a file lands
   as a diff. One decision per PR. Merge = recorded. SR-rulings are
   embedded at staging and flagged for author strike.
-- Naming pattern: propose via PR with a recommendation + banked
-  runners-up (Grapevine, Kudzu Media LLC, Pruett, D10 nineteen,
-  D11, D12 all landed this way).
+- Staging mechanics now carry TWO line-pass laws: strip donor
+  furniture from grafts (2026-08-22) and re-read the mate of any
+  ordered micro-fix (2026-08-23).
 
 ## Live rations & withholds (every brief carries these)
 
-- **M1** (her smile directly AT Cal): BANKED through the midpoint
-  and beyond — she has KISSED him and never smiled at him; the
-  severable line lives in plots/wave4-staging-order.md SR block;
-  restorable only by author ruling.
-- **C1** (his corner-of-mouth): both firings spent (6, 8).
-  Door-smile 1/3 spent (ch 1). First touch spent (ch 11 elbow);
-  first kiss spent (ch 16). T27 alliance terms: no names in
-  public; the county keeps believing the warrant on purpose.
-- Scrub law: endings budget (registers dealt per chapter), ledger
-  metaphors Cal-POV ≤2 never in final ten lines, banned words
-  ("unhurried" etc.), 3 personifications/chapter, someone's joke
-  dies, no homeward codas.
+- **M1** (her smile directly AT Cal): BANKED — she has kissed him
+  and never smiled at him; gate flag 1 owns the slot; severable
+  line in plots/wave4-staging-order.md SR block.
+- **C1**: both firings spent. Door-smile 1/3 spent (gate flag 2).
+  First touch spent (ch 11); first kiss spent (ch 16) — the
+  ch 23 kiss is NOT a first. HEAT 2 = ch 21 near-miss (no
+  garment); HEAT 3 = ch 23 (cut at the first garment, standard 9).
+- **T27 arc this wave:** terms hold at max strain (21), then
+  secrecy DIES by Cal's choice (22) — the work (UNSIGNED, the
+  drawings, T31) stays dark even after the couple goes public.
+- Scrub law: endings budget (registers dealt; ch 22 has the
+  wave's only button), ledger metaphors Cal-POV ≤2 never final
+  ten lines, banned words, 3 personifications/chapter, someone's
+  joke dies, no homeward codas, SR-17's banned string, the
+  laugh-scaffold watch (RECENT.md 2026-08-23).
 
 ## Carried author-facing open items (the queue debt)
 
-1. Wave-5 PR flags when it opens: SR-11 calendar slide; SR-12
-   engineer; Merritt's "since June" (3-way invention — rule or
-   genericize); chapter title if "Dead Air" appeals; T30
-   paid-by-echo + the Mule room budget (2.4 rider recommended:
-   three-visit site).
-2. The 1 a.m. text's sender [TK] (flag: her kid, R5 artifact,
-   recommended) — pays early wave 6.
-3. Older, still open: T23 sheets' two framings (one bible
-   sentence); "Doss County" county-name ruling; D05 lintel flag
-   (ch 10 "eighty years"); "one beat past" thinning on accepted
-   pages (~8 uses); peach-man rider before D08 beat 4 (ch 21 —
-   DUE NEXT WAVE); ch 25 forensics protections (ya'll ×2, "inside
-   of four minutes" = probable plant, screenshot artifact recorded
-   in THREADS ch 15 ledger).
-4. Book-2 parked questions: notes/book1-retrospective-seeds.md.
+1. **The wave-6 gate** (flags above — the ONE THING).
+2. **Line-pass proposals, ch 17–20** (eight, unapplied —
+   notes/line-pass-ch17-20-2026-08-23.md §2), headline three:
+   ch18:88 doubled October; ch19:115 Ronnie named early;
+   **ch19:310–312 the T25 insert's dash pair violates the
+   double-dash ban — rule RECENT law vs SR-13 verbatim** (commas
+   offered). Plus the ch13–16 pass's five, still unruled.
+3. Interruption-dash register — ch07 unspaced vs ch16 spaced;
+   pick one for the book's docs.
+4. Continuity seams logged, unfixed: ch18 salt arithmetic (sixty
+   bags vs four trips); ch18:91 "thirty feet" vs the ch 17s'
+   forty; ch14/ch16 printer clause (old).
+5. Mule 2.4 outline rider (three-visit site) — recommended, never
+   ratified; ch 26 holds visit 2 either way.
+6. Older, still open: T23 sheets' one bible sentence; "Doss
+   County" county-name ruling; D05 lintel flag (ch 10 "eighty
+   years"); "one beat past" thinning on accepted pages (~8 uses);
+   ch 25 forensics protections (ya'll ×2, "inside of four
+   minutes" = probable plant — confirmed no new uses in wave 5).
+7. Book-2 parked questions: notes/book1-retrospective-seeds.md.
 
 ## Key files (read in this order in a new thread)
 
-1. This file → 2. studio/VISION.md → 3. THREADS.md (index first)
-→ 4. plots/wave5-directive.md + notes/wave5-canon-sweep +
-the four ch17–20 panel notes → 5. plots/b11-outline-rev2.md
-(rev 2.3) → 6. studio/STYLE.md + studio/agents/variance/RECENT.md
-→ 7. CHANGELOG.md (top two entries). Sync discipline per
+1. This file → 2. studio/VISION.md → 3. THREADS.md (index first —
+T31/T32 are new) → 4. plots/wave6-directive.md → 5.
+plots/b11-outline-rev2.md (rev 2.3; SR-14 pending in apparatus) →
+6. studio/STYLE.md + studio/agents/variance/RECENT.md → 7.
+CHANGELOG.md (top three entries) → 8.
+notes/line-pass-ch17-20-2026-08-23.md. Sync discipline per
 workspace CLAUDE.md: fetch first, always.

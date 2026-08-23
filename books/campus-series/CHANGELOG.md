@@ -3,6 +3,35 @@
 Tracks edits to manuscripts and adopted drafts (house rule 6), so the
 author can see what changed and why. Newest first.
 
+## 2026-08-23 — line/copy pass, ch17–ch20 (line-copy-editor, card E2, post-ratify PR #96)
+
+- Card E2 honored: ch19 judged weakest on skim (heaviest staging
+  residue), worked 19 → 17 → 18 → 20. **Zero mechanical fixes
+  required — second consecutive clean wave** (tic sweep zero prose
+  hits; WDSS and WD-40 both appear and both are correct; ch20:35
+  lowercase "the house" is the book's intimate register, not an
+  error). Full report: notes/line-pass-ch17-20-2026-08-23.md.
+- Eight stylistic edits proposed, NOT applied, led by three graft
+  seams: ch18:88 doubled "October" left behind by the mandated
+  September fix; ch19:115 Ronnie named before his introduction;
+  ch19:310–312 the T25 insert's dash-pair-plus-continuation, which
+  violates the RECENT.md double-dash ban — **flagged for author
+  ruling against SR-13** rather than touched, commas offered.
+  Plus: ch18:175 "its own kind of" doubled; ch20:220 fourth
+  "somewhere in the middle of it"; ch20:231 surprise clause
+  re-arming the involuntary laugh; ch20:298 "struck" doubled at
+  the climax; ch20:288 minor "quit" echo; ch18 ledger one over
+  cap (trim offered on the unprotected "running total").
+- Interruption-dash spacing precedent split (ch07 unspaced vs
+  ch16 spaced) — author to pick a register for the book's docs.
+- "laugh got/came up out of [name]" scaffold (6 uses book-wide,
+  2 this wave) added to the RECENT.md watch list before wave 6.
+- Process lesson recorded in wave-6 mechanics: a mandated
+  micro-fix can break the parallel it sat in — after every
+  ordered fix, re-read the full sentence and its mate.
+- All swoon-protection lines verified verbatim; headers, [TK]
+  lines, dialogue, and canon untouched; no eye color anywhere.
+
 ## 2026-08-23 — Chapters 17–20 ACCEPTED (author merge of PR #96); THREADS folded
 
 - Wave 5 adopted whole, merged with no comments — every SR ruling
