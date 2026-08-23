@@ -226,3 +226,4 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-23 | orchestrator (campus ch17-20 acceptance fold, PR #96 merged clean) | — (mechanical transcription of ratified staging order + sweep §IV) | THREADS + CHANGELOG blocks |
 | 2026-08-23 | plot-architect (campus wave-6 directive ch21-24) | A8 set-piece-first (first draw; LRU) | plots/wave6-directive.md |
 | 2026-08-23 | line-copy-editor (campus ch17-20 post-ratify mechanical pass) | E2 weakest-chapter-first (LRU) | manuscript verified in place (zero fixes) + notes/line-pass-ch17-20-2026-08-23.md |
+| 2026-08-23 | superfan-reviewer (campus ch1-20 halfway retail read + back-half outline) | — (no card; panel deck TK) | notes/superfan-halfway-2026-08-23.md |
