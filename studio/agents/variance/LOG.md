@@ -222,3 +222,4 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-22 | romance-reader-panel (campus ch18 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ (filed by orchestrator) |
 | 2026-08-22 | romance-reader-panel (campus ch20 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ (filed by orchestrator) |
 | 2026-08-22 | continuity-keeper (campus wave 5 cross-batch sweep, 12 candidates) | E5 dialogue-mechanics-first (LRU) | notes/ (filed by orchestrator) |
+| 2026-08-22 | drafting-assistant (campus ch17-20 wave-5 staging, executes plots/wave5-staging-order.md) | — (mechanical execution; no card) | manuscript on campus/ch17-20-wave |
