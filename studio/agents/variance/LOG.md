@@ -244,3 +244,4 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-23 | romance-reader-panel (campus ch21 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ch21-panel-2026-08-23.md |
 | 2026-08-23 | romance-reader-panel (campus ch24 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ch24-panel-2026-08-23.md |
 | 2026-08-23 | romance-reader-panel (campus ch23 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ch23-panel-2026-08-23.md |
+| 2026-08-23 | continuity-keeper (campus wave 6 cross-batch sweep, 12 candidates) | E1 repetition hunt (LRU) | notes/wave6-canon-sweep-2026-08-23.md |
