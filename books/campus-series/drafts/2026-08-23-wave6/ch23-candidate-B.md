@@ -78,7 +78,12 @@ and looked up at him.
 The terrible part — and she would deny this on any witness stand
 in the county — was that she wasn't kidding.
 
-They turned up her street.
+They turned up her street,
+which was darker and slower, live oaks closing overhead,
+the music from the square thinning away behind them
+until it was down to their footsteps
+and the tail end of a song
+somebody two blocks over refused to let die.
 Somebody's after-party had shed plastic cups down a fence line,
 and she collected them as they walked, six, seven, eight,
 and Cal lifted the lid off a curbside can without being asked,
@@ -123,8 +128,7 @@ At her door the key went in on the second try,
 and she would have blamed the porch light, if anybody had asked.
 The door shut behind them.
 His one good jacket slipped from her shoulders
-and landed on the hall floor,
-and neither of them reached for it.
+and landed on the hall floor.
 
 ---
 
@@ -148,9 +152,9 @@ and, by long-standing custom, the price of pie,
 which was whatever Verna said it was.
 
 They came in together, which was its own headline.
-Conversation at the Liars' Table did not stop;
-it swiveled, all four heads at once,
-tracking them to the back booth like a single instrument.
+Conversation at the Liars' Table did not stop,
+but all four heads swiveled at once
+and tracked them to the back booth like a single instrument.
 
 "Well," Earlene said, to nobody, to everybody.
 
@@ -230,6 +234,8 @@ I'm asking for a friend."
 
 The Liars' Table broke up.
 Somebody's coffee got set down hard enough to slosh.
+Earlene had both hands over her mouth
+and was not using them to muffle a single thing.
 
 And Cal Sutter's smile opened all the way.
 
