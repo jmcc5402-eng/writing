@@ -3,6 +3,49 @@
 Tracks edits to manuscripts and adopted drafts (house rule 6), so the
 author can see what changed and why. Newest first.
 
+## 2026-08-23 — Chapters 17–20 ACCEPTED (author merge of PR #96); THREADS folded
+
+- Wave 5 adopted whole, merged with no comments — every SR ruling
+  and PR flag ratified as staged: `manuscript/ch17.md` "One Table"
+  (ch17-B, card D4), `ch18.md` "[Pause]" (ch18-B, D6), `ch19.md`
+  "Coffee for Twelve" (ch19-A, D3), `ch20.md` "The Ledger"
+  (ch20-A, D7), plus SR-11's calendar apparatus (ch 18 = Wed–Fri
+  Wk11; ch 19–20 = Wk12; month row + state chain rows 18–21).
+- Flags ratified by the clean merge: **SR-11** calendar slide
+  stands; **SR-12** the yard-fence engineer stays UNALLIED
+  ("Cal never did learn whose man he was"); **"since June"**
+  (Aisha–Merritt) is canon by use; ch 17 keeps the title "One
+  Table"; **T30 paid-by-echo** stands (Mule room budget intact —
+  ch 26 holds visit 2); the **1 a.m. sender stays `[TK]`** (flag
+  6 recommendation unratified — rule at wave 6); the
+  **leaned-or-both** motif question rides to the wave-6 directive
+  (unruled; default = vary, per anti-tic law).
+- Fold recorded in THREADS.md: **T29 PAID 17** (the supper; ch 15
+  half-hung-lights echo closed) · **T30 PAID-by-echo 18** ·
+  **T25 PAID 19** (the bloom, "She's still winning," no smile) ·
+  **T18 PAID 20** (the skipped frame = the wedding picture;
+  superfan alarm retired) · **T28 RESET on the page 18** (three
+  Fridays → Fri Wk13) · **T31 born** (the counter-report /
+  equal standing / the winter column holds) · **T32 born** (the
+  1 a.m. text, sender `[TK]`, pays early wave 6).
+- New canon by acceptance: Coach Dan Merritt's debut ("since
+  June" history live); the tow-number legend; the [pause]
+  transcript artifact; the two-verdicts frame (screenshot vs
+  draft pour); the equal-standing doctrine + P10's ladder line
+  collected ch 20; **crew census: Travis and DeShawn** (losers'
+  four names struck); the east end; **the tomorrow-night
+  side-door appointment** (the 19→20 wire); **"Delmar's is
+  closed" Mondays**; **the maintenance ledger** (hall table, deep
+  drawer under the guest book, canvas-backed; the wife's small
+  square run; "and one volunteer"); the wedding canon (House
+  porch, borrowed chairs, Verna directing); the memorial refusal
+  (P13 stage 1); the rose-planting story ("underemployed").
+- Rations verified across the wave (sweep + staging): zero M1,
+  zero C1, no door-smile spend, no heat, no second first-kiss
+  framing; widowhood undated; wife unnamed; D05 held ("the flood
+  year"); dialogue 24.2 / 11.1 (the quarter's quiet chapter) /
+  20.8 / 34.0.
+
 ## 2026-08-22 — Chapters 13–16 ACCEPTED (author merge of PR #94); THREADS folded
 
 - Wave 4 (the hinge wave, card A7) adopted whole: `manuscript/ch13.md`
