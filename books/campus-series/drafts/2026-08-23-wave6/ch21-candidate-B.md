@@ -1,0 +1,330 @@
+# Chapter 21 — Under the Home Stands
+
+POV: Marisol, third person limited, past tense.
+Candidate B. Variance card: D3.
+
+---
+
+The text had come in at one in the morning, two nights back.
+She had read it a dozen times since.
+On homecoming morning she read it again,
+standing at the counter while the coffee finished,
+and it had not gotten less perfect overnight.
+
+MOM WHERE DOES THE BAND PARK
+ALSO LOVE YOU
+
+Twelve thousand members in the parents' group.
+Twelve thousand parking questions over the years, give or take,
+and she had answered them at every hour there was,
+for strangers, for strangers' cousins,
+for a woman once texting from the wrong end of the state.
+Question twelve thousand and one came from her own son.
+At one in the morning. On homecoming week.
+The band. Parking.
+
+She had raised that boy. She had done that herself.
+
+The text had landed at a spectacularly bad moment,
+which he would never know about,
+because she was a professional, and also his mother,
+in that order at one a.m.
+She had typed back the same two lines
+she'd given ten thousand strangers, plus a love you back,
+and then stood in the dark a while, not mad at anybody at all.
+
+---
+
+By nine, Millrow was curb to curb.
+Band first, then the floats, then the fire truck,
+then a tractor no one explained.
+The tower rang eleven. Hardly anybody heard it.
+
+Birdie Pham had the Zinnia Wagon backed against the House gates,
+tailgate down, mums and zinnias going out by the armload.
+Behind her the porch stood white over the whole street,
+the porch half the county had gotten engaged on,
+with wiring behind its walls that Marisol knew too much about.
+
+Verna Poteat planted herself at Marisol's shoulder.
+
+"Read it to me again," Verna said.
+
+Marisol held up the phone and read it like scripture.
+"'Mom. Where does the band park.'"
+
+"At one in the morning."
+
+"'Also love you.'"
+
+"That's the part that gets you," Verna said. "The also."
+
+"The also is doing a lot of work."
+
+"I raised three. You live on the also for years at a stretch."
+
+"I gave him the parking answer and my whole heart," Marisol said.
+
+"In that order?"
+
+"At one a.m.? In that order."
+
+Verna looked her over, hat to hem.
+"And blue again. On purpose, I suppose."
+
+"Everything I wear is on purpose."
+
+"Mm. Then somebody ought to be told about it."
+
+"Verna."
+
+"I'm only saying. Somebody."
+
+She looked at the text once more and put the phone away.
+
+"Frame it," Verna said.
+
+"I'm going to."
+
+The Delmar's float came by with Ray up top in a paper hat,
+working a megaphone.
+"They asked me to smoke the competition," Ray said.
+The float rolled on. The band caught up with it.
+Half the porches on Millrow had WDSS going,
+Tick Moran calling the parade like a horse race,
+three lengths between the band and the tractor.
+
+Sonny Dillard came through the crowd sideways,
+holding a manila envelope against his chest with both hands.
+
+"Been saying it for years and years," he said, instead of hello.
+"Good bones, bad wiring. Everybody nods and goes on buying feed."
+
+"Sonny."
+
+"Well. Now it's not just me saying it." He held the envelope out.
+"Now it's got a stamp."
+
+One page inside. Typed, short, and it said,
+in the flat language offices use,
+what Sonny had been saying at his counter for free.
+The stamp at the bottom had been applied hard enough
+to dent the paper. She read the page twice.
+
+"Who else has seen this?"
+
+"The feed store," Sonny said. "The feed store don't count."
+He looked at the porch over her head.
+"I know what it says. I don't know what you do with it.
+Never figured that part."
+
+Marisol looked at the page. Then at the porch.
+Then at the tailgate of the Zinnia Wagon.
+
+"Birdie. You got a jar you're not using?"
+
+Birdie had an empty gallon jar under the cab seat.
+She stood it on the tailgate,
+wrote THE HOUSE on the glass in grease pencil,
+big enough to read from a passing float,
+and tore off a length of floral tape without being asked twice.
+Marisol taped Sonny's page flat to the tailgate,
+stamp out, where the sun hit it.
+Then she took Birdie's order pad and wrote across the top,
+THE HOUSE — PLEDGE WHAT YOU CAN, and under it, first line,
+before anything pretty, REWIRING.
+
+"You're leading with the bad part," Birdie said.
+
+"I'm leading with the true part.
+Every soul in forty miles has heard Sonny say it.
+Hide it and the House is a lie with a porch on it.
+Fix it first and it's ours."
+
+"Whose name goes on this?"
+
+"Mine." Marisol wrote it where anyone could read it.
+"No badge on it. No group. One porch, one jar,
+one voice out of twelve thousand."
+
+"Trustees come the first Tuesday of November," Birdie said.
+
+"Then the jar's got till the first Tuesday of November."
+
+Sonny looked a long minute at his page taped up in the sunshine.
+"Huh," he said, and put ten dollars in the jar.
+Verna put in five and took a photo of the stamp,
+"for the record."
+
+Eli Fountain had been orbiting the Wagon
+since the fire truck went by.
+He landed at the tailgate with his cap in his hands.
+
+"How many buckets of mums you got left unsold?"
+
+"Nine," said Birdie.
+
+"I'll take all nine."
+
+Birdie set down her shears. "You'll take nine buckets of mums."
+
+"For the end zones."
+
+"The end zones."
+
+"It's a—" He gestured up the hill with the cap.
+"A decorative initiative."
+
+"Eli. It's homecoming. There's paint on the field already."
+
+"Mums," said Eli, with the conviction of a man reading off a
+card, "frame the paint."
+
+Birdie laughed. Not the polite kind.
+She laughed bent over the tailgate with both hands on it,
+and she was still going when Eli fled with the first two buckets,
+still going when he came back for the next two,
+and people a block and a half down Millrow turned around
+to find out what was that funny.
+
+"The peach man," she managed, wiping her eyes,
+"never bought so much as one bucket."
+
+Eli came back for the last load and stood there holding it.
+
+"You'll want the buckets back," he said.
+
+"Keep them," said Birdie. "Come see me when you run out of
+end zones."
+
+Somewhere in the middle of all that, the feed moved.
+Marisol had her phone out to post a photo of the jar,
+and at the top of the town feed sat three words in capitals.
+CONDEMNATION — FINAL.
+She bent to hand a dropped flag back to a kid in face paint,
+and when she looked at the screen again the post was gone.
+Not buried. Gone.
+She scrolled down through the morning. Mums. Band.
+Ray in his paper hat. No post.
+Nobody on Millrow said one word about it, all the way to lunch,
+and the parade stayed loud,
+and her thumb kept drifting back, on its own,
+to a spot in the feed where nothing was.
+
+---
+
+By kickoff Millrow stood empty and the hill did not.
+The crowd sound came off the stadium in long swells,
+gate noise and brass underneath.
+
+The parents' tent sat outside the north gate
+and went through a cooler of ice an hour.
+Nobody else had volunteered to fight the concourse for more,
+so before the half she went down for it,
+and came away from the stand with a bag on each shoulder.
+The concourse was everyone in the county with the same idea,
+and it was not moving.
+
+A service gate opened in the wall on her left.
+Cal held it, eyes on the crowd,
+a man propping a gate for no one in particular.
+She stepped through with her ice.
+He pulled the gate shut behind her,
+and the noise dropped away to a deep hum.
+
+Under the home stands the light came down in stripes.
+Sun through the bleacher slats,
+gold bars laid across concrete and painted steel,
+the long run stretching gate to tunnel.
+Footsteps overhead by the thousand.
+When the crowd moved, the steel breathed.
+She felt it in her teeth.
+
+He took the bags from her without a word and walked ahead,
+and the striped light crossed his shoulders as he went,
+which she noticed, and kept noticing,
+because nobody under here could see her do it.
+
+"How long have you been walking this?" she said.
+
+"Twenty years of Saturdays." He ducked a low brace without
+looking at it. "Every weld from that gate to the tunnel
+has my name on the work order."
+
+"All of it holds?"
+
+"All of it holds."
+
+"Ninety thousand people up there, and it doesn't scare you."
+
+"It'd scare me if I hadn't met the bolts."
+He put his palm flat on a cross-brace as they passed,
+less a touch than a count. "I've met the bolts."
+
+"How do you know when one's wrong?"
+
+"Sounds different when you tap it. Flat.
+You'd know it too, after twenty years."
+
+"I'd know it now," she said. "I've been listening to this county
+long enough to hear a flat note."
+
+Not one of the ninety thousand up there knew
+whose hand had been on every bolt over their heads.
+She knew. She was having a wonderful time knowing it.
+
+Then somebody up there scored.
+
+The roar came down through the steel
+before it came through the air.
+The whole run moved, one long ripple, gate to tunnel,
+and the sound got into her ribs.
+One stripe of sun lay on the concrete between them.
+She stepped across it. He stepped too.
+That put them close enough
+that the roar was the only thing between them.
+She took a fist of his sleeve. She watched herself take it.
+The ice sat melting on the concrete where he'd set it down.
+
+A door banged, way down the run.
+
+"Cal!" Ronnie's voice, arriving ahead of Ronnie.
+"Gate crew needs the key to nine!"
+
+She let the sleeve go. He stepped back. She stepped back.
+The stripe of sun lay on the concrete between them again,
+exactly where it had been all along.
+
+"Yeah," Cal called down the run. "Coming."
+
+He carried the ice as far as the far gate,
+set both bags on the rail where she could shoulder them,
+and held the gate.
+
+They came out into the sun two feet apart.
+Two feet apart, in front of ninety thousand people, was nothing.
+It was nobody walking next to nobody.
+At the fence he angled off toward gate nine without a word,
+because that was the agreement, and the agreement held,
+and she carried her half of the nothing to the parents' tent,
+and it weighed more than the ice did.
+
+The tent cheered when the ice came in.
+She stood at the back of it and opened the feed again.
+She scrolled down through the whole morning.
+The jar, half full already in somebody's photo.
+Nine buckets of mums along an end zone fence
+in a dead straight row.
+Ray. The band. Sonny's stamp, shared and shared again.
+Nothing in capitals. Nothing at all
+where the three words had been,
+and no way to prove there ever was.
+
+The wall behind the tent shook with the third quarter.
+
+"Sweet or unsweet?" Delores Fountain-Mabry said, at her elbow,
+a cup in each hand.
+
+Marisol reached for one.
+The phone stayed open in her other hand,
+scrolled to the top of the morning.

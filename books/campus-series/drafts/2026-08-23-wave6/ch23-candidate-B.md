@@ -8,6 +8,12 @@ Candidate B. Variance card: D2.
 Cal Sutter walked her home from Hartwell House
 at a pace that would have embarrassed a funeral.
 
+Behind them the band was packing up on the porch
+and the lawn was emptying two by two into the dark,
+and Earlene Tatum stood at the top of the steps
+waving them off with her whole arm,
+the send-off of a woman who intended to be quoted later.
+
 Marisol carried her shoes in one hand.
 His one good jacket rode her shoulders, warm from him,
 and Millrow went by porch by porch,

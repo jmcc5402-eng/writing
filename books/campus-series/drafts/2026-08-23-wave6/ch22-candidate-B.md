@@ -21,6 +21,14 @@ and out across the grass.
 Nobody said one word about the door.
 Everybody came up the walk a little slower because of it.
 
+The dance had gone up the same as it always had,
+because Verna would not hear of it going up any other way.
+String lights along the rail by noon,
+the band on the steps by dark,
+cakes arriving all afternoon in the arms of their bakers,
+every one of them announced at the gate by Earlene
+whether the baker wanted announcing or not.
+
 Cal had the north end of the rail to himself,
 which on a porch that full took the whole town cooperating.
 The moat was polite. It moved when he moved.
@@ -32,6 +40,11 @@ and he was through saying it.
 So he stood where the county could look at him
 under the same lights it had strung on the House it loved,
 and he ate his cake slow, and he let them look.
+Folks were kind about it, which was its own weight.
+Ray nodded from thirty feet.
+Delores shot her groups just over his head.
+The county managed to dance a whole porch
+without once needing his corner of it.
 
 He had worn the good jacket.
 It still fit through the shoulders,
@@ -148,6 +161,14 @@ When the tune closed he kept her hand.
 "I know how music works," Birdie said,
 and didn't let go.
 
+The waltz brought out couples the reels had spared,
+married forty years and careful of a hip,
+and the fiddler gave them room to be exactly as good
+as they had always been.
+More phones came out. More frames got checked.
+Nobody said this might be the last of anything,
+and everybody photographed it like it was.
+
 Down at the cake tables Ray had an audience going.
 "—and the second mule wouldn't go either," Ray said,
 and the table went up, and the band played over it.
@@ -163,6 +184,9 @@ sending every smile out over the yard,
 past every ear on the porch,
 the same delivery she had used on Cal
 since the day they met.
+She had run the pledge jar all day at the parade,
+and her voice had the pleasant wear of it,
+carrying over the band when the story called for volume.
 He knew the flight path by heart.
 He had kept the count for months
 without ever writing a number on it.
@@ -196,6 +220,11 @@ the keys ticking on his chest.
 
 The porch did not go quiet all at once.
 Word just crossed it faster than he did.
+He passed Peanut, who stopped pouring.
+He passed Delores, whose camera came down
+and then, slowly, back up.
+He passed the near cake table with its guard of one dog
+and did not slow for any of it.
 
 She saw him coming the whole way
 and stood her ground by the cake table,
@@ -253,7 +282,11 @@ Delores directed. Aisha Cole got up on a chair.
 "Hold still, the light's doing something," Aisha said,
 and nobody held still, and she got it anyway.
 
-They turned with the tune,
+The tune went around, and the couples came back in
+by twos and fours, easing in on either side of them
+until the floor was a single slow wheel
+turning under the strung lights.
+They turned with it,
 and the porch light moved across her face
 and came back around.
 

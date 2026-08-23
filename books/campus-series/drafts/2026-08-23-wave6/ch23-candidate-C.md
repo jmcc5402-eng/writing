@@ -8,6 +8,8 @@ Candidate C. Variance card: D3.
 They went out by the side steps of Hartwell House
 with the band still playing behind them.
 The music followed them a block down Millrow and gave up.
+Nobody stopped them.
+Everybody saw them go.
 
 Cal had her hand.
 He had taken it on the porch in front of the whole town,
@@ -25,6 +27,22 @@ and set it back down.
 "You can say it," she said. "Whatever it is."
 
 "Working on it," he said.
+
+Behind them the dance was letting out.
+Car doors, laughter, somebody's horn.
+Every porch they passed had somebody on it,
+and every somebody watched them go by
+and pretended not to, badly.
+
+"They're all looking," he said.
+
+"They are."
+
+"Figured I'd mind more."
+
+"You want to give them something to report?"
+
+"I gave at the dance," he said.
 
 Millrow was a short street.
 Everyone said so, and it was true,

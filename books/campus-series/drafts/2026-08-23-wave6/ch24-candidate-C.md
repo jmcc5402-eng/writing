@@ -42,6 +42,13 @@ a typed name under a line reads as a name signed on a line.
 Whoever cut that picture knew it.
 Whoever cut that picture had measured for it.
 
+The county had seen a version once, weeks back,
+a cropped screenshot that made its rounds and settled in.
+This was not that one. This was new, higher, cleaner,
+shot off the actual pages by somebody who had held them.
+He looked at it exactly as long as the work order allowed
+and handed Ronnie back his phone.
+
 "That's not signed," Ronnie said. "You never signed it.
 There's a watermark on that thing the size of the page."
 
@@ -122,6 +129,13 @@ He ran the truck up, listened to the charge come in steady,
 and wrote his hours on the work order in his own hand,
 his actual signature, the one nobody had ever needed to crop.
 
+At three the second-shift fuel truck came in with a wobble
+in the front end, and he put it on the rack himself,
+found the tie rod going, and fixed it,
+because it was his to fix, and because the county,
+whatever it had decided to believe by two o'clock,
+was still going to drive on his roads at six.
+
 ---
 
 The rebuilt starter for the grain truck was under his arm
@@ -147,6 +161,12 @@ on his hip. He had never in his life been through that door,
 and he didn't go through it now, and nobody glanced out
 and saw him. Inside they were toasting a man who existed
 only in a cropped photograph. The man had his name.
+
+Peanut worked the taps with both hands and never looked up.
+The round went down the bar glass by glass,
+and somebody put money on the wood against the winter work
+it was all supposed to buy, and the winter work did not exist,
+and Cal was the only soul on the street who knew it.
 
 Verna Poteat came up the sidewalk from the Magnolia Court
 with a bushel basket riding her hip, half full of shelled
