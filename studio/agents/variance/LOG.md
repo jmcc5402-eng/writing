@@ -228,3 +228,15 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-23 | line-copy-editor (campus ch17-20 post-ratify mechanical pass) | E2 weakest-chapter-first (LRU) | manuscript verified in place (zero fixes) + notes/line-pass-ch17-20-2026-08-23.md |
 | 2026-08-23 | superfan-reviewer (campus ch1-20 halfway retail read + back-half outline) | — (no card; panel deck TK) | notes/superfan-halfway-2026-08-23.md |
 | 2026-08-23 | developmental-editor (campus ch1-20 halfway doublecheck + back-half plan read) | E6 weight-whats-missing (LRU) | notes/dev-halfway-2026-08-23.md |
+| 2026-08-23 | drafting-assistant (campus ch21 blind, run A) | D2 hands and objects (LRU) | drafts/2026-08-23-wave6/ch21-candidate-A.md |
+| 2026-08-23 | drafting-assistant (campus ch21 blind, run B) | D3 short-declarative | drafts/2026-08-23-wave6/ch21-candidate-B.md |
+| 2026-08-23 | drafting-assistant (campus ch21 blind, run C) | D1 sound-forward | drafts/2026-08-23-wave6/ch21-candidate-C.md |
+| 2026-08-23 | drafting-assistant (campus ch22 blind, run A) | D4 minor-character competence | drafts/2026-08-23-wave6/ch22-candidate-A.md |
+| 2026-08-23 | drafting-assistant (campus ch22 blind, run B) | D7 open mid-motion | drafts/2026-08-23-wave6/ch22-candidate-B.md |
+| 2026-08-23 | drafting-assistant (campus ch22 blind, run C) | D5 weather as texture | drafts/2026-08-23-wave6/ch22-candidate-C.md |
+| 2026-08-23 | drafting-assistant (campus ch23 blind, run A) | D6 run past comfortable | drafts/2026-08-23-wave6/ch23-candidate-A.md |
+| 2026-08-23 | drafting-assistant (campus ch23 blind, run B) | D2 hands and objects (deck wrapped, 2nd draw this wave) | drafts/2026-08-23-wave6/ch23-candidate-B.md |
+| 2026-08-23 | drafting-assistant (campus ch23 blind, run C) | D3 short-declarative (deck wrapped, 2nd draw this wave) | drafts/2026-08-23-wave6/ch23-candidate-C.md |
+| 2026-08-23 | drafting-assistant (campus ch24 blind, run A) | D1 sound-forward (deck wrapped, 2nd draw this wave) | drafts/2026-08-23-wave6/ch24-candidate-A.md |
+| 2026-08-23 | drafting-assistant (campus ch24 blind, run B) | D4 minor-character competence (deck wrapped, 2nd draw this wave) | drafts/2026-08-23-wave6/ch24-candidate-B.md |
+| 2026-08-23 | drafting-assistant (campus ch24 blind, run C) | D7 open mid-motion (deck wrapped, 2nd draw this wave) | drafts/2026-08-23-wave6/ch24-candidate-C.md |
