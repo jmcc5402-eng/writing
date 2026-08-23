@@ -511,6 +511,47 @@ Rev 2.3 is the frozen base: holes found in prose are fixed at the
 outline and re-derived, never patched downstream. SR-14's
 apparatus edit ships in the wave PR.
 
+## Halfway-review amendments (2026-08-23 — dev + superfan reads)
+
+Folded from notes/dev-halfway-2026-08-23.md and
+notes/superfan-halfway-2026-08-23.md while the wave is still
+gated. Binding on drafters unless a flag says otherwise:
+
+1. **Ch 21 — the pledge drive gets its on-page BIRTH** (dev
+   absence 1; SC2's funding half currently has no planted
+   effort). One beat: who runs it and where it lives — she has
+   no badge, so the drive is PORCH-AND-JAR, not platform (a real
+   jar, a real list, a name minding it `[TK if not ruled]`) —
+   and Marisol posts the wiring citation ONTO it. The ch 24
+   arithmetic ("the pledge drive's best day ever") and the
+   ch 27–28 funding folder now have an ancestor the reader met.
+2. **Ch 21–23 — the shadow beats survive as BEATS, not
+   atmosphere** (dev): the deleted P16 flicker (21), the careful
+   goodbyes + Verna's long stand at the third step (22). Three
+   golden chapters in a row need their one cold thread each, or
+   ch 24 lands out of a clear sky.
+3. **Ch 23 — Kat pre-pay + the June page** (dev absence 3): one
+   Kat-by-name text cutting into the Checkerboard booth
+   (pre-pays her ch 25 fourth-chair entrance; content unquoted
+   or margarita-adjacent, one line); and one uncommented June
+   sighting — the reader glimpses the price of staying on the
+   happiest weekend of the book. Both small; both flagged below
+   (flag 6) in case the author wants ch 23 kept pure.
+4. **Ch 24 — the load-bearing sentence** (dev): the dread is
+   entirely social arithmetic — the reader KNOWS the report is
+   fake (superior position), so the chapter's fear is "the lie
+   is funding her fight against him." Brief carries it as the
+   chapter's spine, verbatim-adjacent.
+5. **Ch 22 stage direction, contingent on flag 1 ruling M1 in:**
+   the smile is aimed at him ALONE, private inside public — both
+   slots' virtues in one beat. And note for ch 24: the dance
+   photo the leak runs is the photo WITH the smile in it — the
+   withhold's meaning turns once more at the setback, free.
+6. **Word-count reality** (dev): the book is running ~2.4k per
+   chapter (~70k landing, fine for market) — but 21–24 briefs
+   keep the 2,300 cap; the back half's crowded chapters (25,
+   28, 29) need the room more.
+
 ## Flags for the author — the gate's agenda (rule at "go wave 6")
 
 1. **[AUTHOR CALL: the M1 payoff slot.]** She has kissed him and
@@ -533,3 +574,28 @@ apparatus edit ships in the wave PR.
 5. **Ch 24's one terms-legal text exchange** (the leads' calm
    proven inside the storm) — recommended in; strike for total
    apartness (outline is silent; apartness is the stricter read).
+6. **[HALFWAY REVIEW] Flag 1 revisited — both reviews recommend
+   striking the HOLD default and firing M1 at ch 22, at the
+   ask,** in Cal's POV (the man who kept the count), aimed at
+   him alone inside the public frame; ch 30's third step then
+   takes the ECHO ("first one for the town, second one for him
+   alone"). The author still rules; if unruled, HOLD stands.
+7. **[AUTHOR CALL: C1's FULL smile slot]** (dev absence 2) — the
+   OWED "day she scores the point" has no chapter. Natural slot:
+   ch 23, the Checkerboard — she reads the board's wrong guesses
+   aloud, scores the public point, the door-opening smile lands
+   in front of the Liars' Table (spends door-smile 2/3; answers
+   ch 15's "she did not know which man was standing inside this
+   one"). Rule it or it stays unstaged — never drafter-guessed.
+8. **[AUTHOR CALL: T17, the filmed hinge-fix]** (dev absence 4)
+   — a real dangler the fair-play table denies. Cheapest honest
+   pay: ch 25, among the receipts, she HAS it and doesn't use it
+   (her ground rules dramatized in one beat). Or retire it by
+   ruling. Not a wave-6 page either way — but rule it now.
+9. **[NOTED for wave 7, not this wave]** the counter-report's
+   STAMP (dev absence 5): ch 28's signature needs an engineer of
+   record behind it or the climax breaks its own equal-standing
+   rule — identity/allegiance is the standing `[TK]` (SR-12);
+   wants an on-page beat around ch 26. And the superfan's ch 28
+   warning: don't give Boyd the LAST calendar — the villain may
+   loom, but in a scene the couple wins.

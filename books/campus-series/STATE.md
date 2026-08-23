@@ -48,11 +48,20 @@ Embedded SR rulings (author strikes any at the gate):
 
 Gate flags (defaults apply on a bare "go"):
 1. **M1 payoff slot** — the dance (22, town sees it), the gate
-   kiss (23, only he does), or HOLD. Default: HOLD, no firing.
+   kiss (23, only he does), or HOLD. Default: HOLD, no firing —
+   **but the 2026-08-23 halfway doublecheck (dev + superfan,
+   notes/dev-halfway- and superfan-halfway-2026-08-23.md) both
+   recommend striking the default and firing at 22, echo at 30.**
 2. Door-smile second spend at the ch 22 ask — default: none.
 3. D09 banked plant — the dance opens the House's front door
    after dark. Recommended: YES.
 4. Ch 24 one terms-legal text between the leads — recommended in.
+5. NEW (halfway review): C1's FULL-smile slot — recommended
+   ch 23, the Checkerboard (directive flag 7); T17 pay-or-retire
+   (flag 8); ch 28 stamp + Boyd-last-calendar noted for wave 7
+   (flag 9). Halfway amendments 1–6 (pledge-drive birth beat,
+   shadow beats, Kat/June pre-pay, ch 24 spine) are folded into
+   the directive and bind drafters.
 
 **On "go wave 6":** 12 blind drafts (D-deck cards, LRU, logged) →
 4 panel judgings → cross-batch sweep → staging order (incl.
