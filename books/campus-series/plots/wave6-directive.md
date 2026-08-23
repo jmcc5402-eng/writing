@@ -1,9 +1,10 @@
 # Wave 6 Drafting Directive — Chapters 21–24 (public, then paid for)
 
-**STATUS: GATED — drafting fires only on the author's explicit
-"go wave 6." No candidate is written, no field opened, until that
-exact go lands.** Prep is complete; the flags below are the gate's
-agenda, each with a recommended default so a bare "go" suffices.
+**STATUS: GO (author, 2026-08-23, in chat) — with D13 ruled: M1
+fires at ch 22, first smile in front of the town. Delegated flags
+ruled SR-18/19/20 (see DECISIONS D13 block); flags 3/4/5 taken as
+recommended; SR-14/15/16/17 stand. All remain strikeable at the
+wave PR.**
 Sources: outline rev 2.3 (`b11-outline-rev2.md`, amendment applied
 in place); THREADS.md (folded through ch 20 — T31/T32 are new);
 DECISIONS through D12; STANDARDS.md (standards 9, 25);
@@ -135,14 +136,15 @@ may be earned fresh, not copied).
 
 ### 3. RATION STATE (verbatim, binding)
 
-M1 BANKED — Marisol has never smiled directly at Cal, sixteen-plus
-chapters and one kiss without it; **no firing anywhere in 21–24
-without the author's gate ruling (flag 1)** — if unruled, the
-withhold survives the dance, the kiss at the gate, and the
-Checkerboard, and every drafter writes those beats smile-free
-(her joy lands in voice, hands, and what she does — the panel
-knows the difference). C1 both firings SPENT. Door-smile 1/3
-spent — **no spend without flag 2's ruling; default none.**
+**M1 RULED (D13): fires at ch 22 ONLY, at the ask — the first
+smile she has ever aimed directly at Cal, in front of the town,
+landing in HIS POV.** No other chapter stages it or rehearses it;
+ch 21's under-stands and ch 23's gate kiss stay M1-free (ch 23
+may carry the fact of the dance's smile as memory, unre-enacted).
+After ch 22, past-the-ear appears only as marked memory. C1 both
+firings SPENT. **Door-smile: SR-18 — the second of three spends
+at ch 23 ONLY, the Checkerboard, when she scores the public
+point; no other chapter uses smile language for Cal.**
 First kiss SPENT (ch 16) — the ch 23 gate kiss is not a first and
 no candidate frames it as one ("first" + kiss/touch/smile banned
 strings). First touch SPENT (ch 11). HEAT 2 = ch 21 near-miss
@@ -354,12 +356,16 @@ T12 — the dance is the wave's public rung; T28 one felt line
 allowed (three Fridays down to one and a night off from it); T09
 Ratchet optional totem (guest of honor precedent, zero plot
 load); Cal appeal beat required (the ask itself, and one
-body-in-clothes beat — the good jacket exists, ch 20:173). M1:
-per flag 1 — DEFAULT NONE: her yes lands in voice and hands, and
-the town gets its photograph without her smile ever aiming at
-him; if the author rules the M1 slot here, the directive amends
-before drafting. Door-smile: per flag 2 — default none. Ledger
-metaphors: Cal POV cap two, never final ten lines.
+body-in-clothes beat — the good jacket exists, ch 20:173).
+**M1 FIRES HERE (D13) — the chapter's crown beat:** at the ask,
+her smile comes straight on, dead level, aimed at him alone
+inside the public frame — the first in twenty-two chapters,
+landing in the POV of the man who has kept the count since ch 8
+("he had not counted that a loss until right now" — the ledger
+closes; cite nothing, land everything). The town photographs the
+dance; the photo has the smile in it (ch 24 inherits this — no
+dread language here). Door-smile: NOT here (SR-18 owns ch 23).
+Ledger metaphors: Cal POV cap two, never final ten lines.
 
 **OCTOBER INVENTORY:** fiddle over porch boards; string-light
 gold on oak bark; cake-table sugar and coffee going cold; the
@@ -407,6 +413,16 @@ that keeps, and there is nothing left to wait for now. He asks
 whether her friend would like his phone number. The Liars' Table
 looks over, which by Ashford law is a press release. He walks her
 out past every grinning face with his hand at her back.
+
+**SR-18 — C1's FULL door-opening smile SPENDS HERE (2 of 3):**
+when she scores the public point at the Liars' Table (the guesses
+read aloud, the "asking for a friend" volley), Cal's smile opens
+the whole way — the door onto the lit room, in front of the
+senate — answering ch 15's "she did not know which man / was
+standing inside this one." The one place in the wave where smile
+language for Cal is legal; spend it once, cleanly, and let the
+Liars' Table see it land. (The third spend stays banked for
+28/30.)
 
 **THREADS carried:** T24 PAYS (record slot 23; the Checkerboard's
 sanctioned visit); T12 top rung of the wave; T27 public weather

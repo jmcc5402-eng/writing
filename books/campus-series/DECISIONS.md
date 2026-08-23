@@ -312,3 +312,36 @@ rejected: professionalizes the pledge drive SC2 needs amateur and
 communal; **remote payroll administrator** — thematic rhyme with
 the payroll stakes, rejected as on-the-nose and salaried (fixed
 hours strain the staged days).
+
+## D13 — M1 pays at the last dance: ch 22, in front of the town
+
+**RULED (author, 2026-08-23, in chat — on the halfway doublecheck):
+"first smile at ch 22 in front of the town."** Marisol's withheld
+tell (T06 — she has never once smiled directly AT Cal; every smile
+since ch 1 has gone past his ear) FIRES at ch 22, at the ask: he
+crosses the porch before the whole town and asks for the last
+dance, and the smile lands straight on, dead level, aimed at him
+alone inside the public frame. Cal POV — the payoff lands in the
+head that kept the count (ch 8). Consequences:
+
+1. Ch 30's third step takes the ECHO, not a spend — "first one
+   for the town, second one for him alone" (superfan phrasing,
+   adopted). The narration there may name that nothing goes past
+   his ear anymore.
+2. The dance photo the ch 24 leak weaponizes carries her first
+   real smile at him — record for the ch 24/25 briefs.
+3. The banked severable line (plots/wave4-staging-order.md SR
+   block) stays retired; drafters write the beat fresh.
+4. After ch 22, smiling-past-the-ear may appear only as a marked
+   memory or echo, never as a live withhold.
+
+Delegated same ruling ("review the other five… if they're not big
+you choose"): SR-18 (C1's full door-smile spends at ch 23, the
+Checkerboard — 2/3; she scores the public point, the door opens in
+front of the Liars' Table, answering ch 15's "she did not know
+which man"); SR-19 (T17, the filmed hinge-fix, pays at ch 25 by
+NOT being used — she has it among the receipts and leaves it hers;
+one beat, her ground rules dramatized); SR-20 (the pledge drive is
+born ON the parade at ch 21 — a jar and a list riding the Zinnia
+Wagon's tailgate for the day; its permanent home stays unstated
+this wave). All three flagged for strike at the wave-6 PR.
