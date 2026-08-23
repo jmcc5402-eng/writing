@@ -34,7 +34,7 @@ All 12 blind candidates written and committed
 |---|---|---|---|
 | 17 | complete | **B wins** (B > C > A) | notes/ch17-panel-2026-08-22.md — graft C's House-look into B's counted seconds; Merritt's on-page debut (fold notes it) |
 | 18 | complete | **B wins** (B > A > C) | notes/ch18-panel — the ONLY Cal who keeps the ch 16 pact (finding 2: B18 is required by both ch 20 finalists); trim Boyd toward the 8–10% quiet band |
-| 19 | complete | **PENDING — the panel is the only unfinished instrument** | launch/read notes/ch19-panel when it lands |
+| 19 | complete | **A wins** (A > C > B) | notes/ch19-panel-2026-08-22.md — Travis + DeShawn lock; limb locks EAST end; the tomorrow-night side-door appointment is new canon (the 19→20 wire) |
 | 20 | complete | **A wins** (A > C > B) | notes/ch20-panel — T18 pays exactly; graft C's only-lie line (frame count corrected) + B's memorial-receipt |
 
 Cross-batch sweep DONE: `notes/wave5-canon-sweep-2026-08-22.md` —
@@ -49,25 +49,32 @@ staging:
   framing; allegiance is the author's future call (P10 pays ch
   20/28).
 
-**To finish the wave (the parked thread's next steps, in order):**
-1. Read the ch 19 panel verdict; file it to notes/ and commit.
-2. Compile `plots/wave5-staging-order.md` from the four panels +
-   the sweep (its findings 4–8 are the mandatory fixes; its §II(a)
-   ledger is the graft-hygiene strike list; SR-11/SR-12 embedded;
-   the graft-furniture rule from notes/line-pass-ch13-16 applies —
-   strip donor time-of-day/light/prop-state words).
-3. Worktree branch `campus/ch17-20-wave`; staging agent executes
-   the order; then dialogue linter (ch 18 must sit 8–10%, others
-   ≥15%), tic sweep, dedup grep.
+**To finish the wave (steps 1–2 DONE; a thread resuming here
+starts at wherever the checkmarks stop):**
+1. ✅ Ch 19 panel filed (notes/ch19-panel-2026-08-22.md, A wins).
+2. ✅ `plots/wave5-staging-order.md` compiled and pushed (SR-11/
+   SR-12/SR-13 embedded; sweep findings 4–8 mandatory; §II(a)
+   strike lists; seven PR flags listed at its foot).
+3. IN FLIGHT: worktree branch `campus/ch17-20-wave` exists;
+   SR-11's apparatus edit to `plots/b11-outline-rev2.md` (state
+   chain rows 18–21 + month row; ch 21/22 Saturday collision
+   marked [CHECK] for wave 6) is applied in the worktree,
+   uncommitted; a drafting-assistant staging agent is executing
+   the order into manuscript/ch17–20.md there. If resuming: check
+   the branch for staged chapters; re-dispatch staging from the
+   order if absent. Then dialogue linter (ch 18 must sit 8–10%,
+   others ≥15%), tic sweep, dedup grep; commit + push the branch.
 4. Reading page (chapter headings; house tool
    `studio/tools/reading-page.py`), artifact, ONE PR, push
    notification ("the author reads in the morning").
 5. On merge: acceptance fold (THREADS/CHANGELOG per the house
-   pattern — T29 PAID 17, T30 paid-by-echo 18 if the graft rides,
+   pattern — T29 PAID 17, T30 paid-by-echo 18 (graft rides),
    T25 PAID 19, T18 PAID 20, T28 reset on page, Merritt debut,
-   crew names lock with the ch 19 winner), headers flipped, line
-   pass, then wave-6 prep (ch 21–24: HEAT 2 at 21, D08 beat 4 at
-   21, ch 23 pie debt, ch 24 leak).
+   crew names Travis + DeShawn lock, east end, the tomorrow-night
+   appointment, Delmar's closed Mondays, ledger = hall-table
+   drawer canon), line pass, then wave-6 prep (ch 21–24: HEAT 2
+   at 21, D08 beat 4 at 21 — peach-man rider DUE, ch 23 pie debt,
+   ch 24 leak; resolve the ch 21/22 Saturday [CHECK]).
 
 ## The operating system (how work moves)
 
