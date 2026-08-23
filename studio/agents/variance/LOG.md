@@ -242,3 +242,4 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-23 | drafting-assistant (campus ch24 blind, run C) | D7 open mid-motion (deck wrapped, 2nd draw this wave) | drafts/2026-08-23-wave6/ch24-candidate-C.md |
 | 2026-08-23 | romance-reader-panel (campus ch22 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ch22-panel-2026-08-23.md |
 | 2026-08-23 | romance-reader-panel (campus ch21 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ch21-panel-2026-08-23.md |
+| 2026-08-23 | romance-reader-panel (campus ch24 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ch24-panel-2026-08-23.md |
