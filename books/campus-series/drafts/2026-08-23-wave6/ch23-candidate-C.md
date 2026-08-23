@@ -291,6 +291,7 @@ She had owed it since the porch
 and had let it ride all this time,
 and neither of them had ever said what they were waiting on.
 There was nothing left to wait on.
+The pie had kept. It had kept just fine.
 He picked up the fork.
 
 "Verna," he said. "It's a fine pie."
@@ -320,6 +321,8 @@ He set down the fork.
 The Liars' Table looked over.
 All of it, at once.
 In Ashford that counted as a press release.
+By supper it would be countywide,
+and neither of them moved to stop it.
 
 "She has it," said Marisol. "She's had it for weeks.
 She's been unbearable about it."
@@ -332,6 +335,14 @@ He ate the pie down to the shine on the plate.
 She drank half his coffee because hers had gone cold,
 and when it was done she paid Verna at the register.
 Her money. Her debt. Paid where everybody could see.
+Verna rang it up and looked at her
+over the top of the register for a long moment.
+
+"About time," said Verna.
+
+"Verna, I paid the minute the pie existed."
+
+"Wasn't talking about the pie," said Verna.
 
 Then he walked her out.
 Past Tick, who lifted two fingers off the table.

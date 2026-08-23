@@ -68,7 +68,7 @@ and Tick Moran had the county down to four words by noon.
 He said them at the top of every half hour,
 and by one o'clock the four words had stopped needing him.
 
-The crew took lunch on the tailgates the way they always did,
+The crew took lunch on the tailgates, same as always,
 and Cal could hear the difference from inside the office.
 Twelve men eating is a noisy thing.
 There is ribbing, and lids, and somebody's cousin's truck,

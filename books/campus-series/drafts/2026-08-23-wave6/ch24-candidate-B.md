@@ -88,7 +88,7 @@ The second coat went on after, and it went on right.
 
 ---
 
-The photograph found him at two o'clock.
+The photograph reached the shop at two o'clock.
 
 The carillon was striking the hour
 when DeShawn crossed the bay holding his phone out

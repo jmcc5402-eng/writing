@@ -16,6 +16,10 @@ the blue dress taking one splash for the team.
 A fair portion of the curb watched her make the trips.
 She walked accordingly.
 
+The parade was still forming at the square end of the street,
+flatbeds and crepe paper and the drumline idling on one drum,
+and all of Millrow smelled like cut stems and funnel cake.
+
 "Read it again," Birdie said, jamming stems into a coffee can.
 "Slow. I want to enjoy it."
 
@@ -129,6 +133,12 @@ sauce still on his apron, to see about the crowd.
 
 The band came past, brass first, and the curb stood up for it.
 
+The jar filled without ceremony.
+Bills went in folded small and coins went in loud.
+A grandmother pledged a porch swing outright,
+wrote it on the butcher paper in her own hand,
+and drew a box beside it to check when it was done.
+
 Eli Fountain arrived at the tailgate walking like a man
 who had rehearsed walking.
 
@@ -188,6 +198,9 @@ went ribbed and slatted, sifting down with the light.
 Under the home stands the sun came through the bleacher gaps
 in long bars across concrete and painted steel,
 and overhead sat ninety thousand people she could not see.
+Popcorn dust sifted down where the light did.
+It was cooler by ten degrees, all shade and steel,
+and their two sets of footsteps were the only ones going.
 When all of them stood up at once, the steel took a breath.
 She felt it arrive through the soles of her shoes.
 
@@ -216,6 +229,12 @@ and saw no reason to apologize to herself for it.
 "What does it need?" She tipped her head at all of it.
 
 "Paint. Patience. Somebody who minds."
+
+"You could charge for this," she said.
+
+"For what?"
+
+"The shade alone. Best seat in the building and nobody in it."
 
 The touchdown arrived as weather.
 The roar came down through the steel and into it,

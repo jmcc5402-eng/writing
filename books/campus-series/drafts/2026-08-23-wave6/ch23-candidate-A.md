@@ -28,14 +28,19 @@ Earlene waved with both arms, like ground crew.
 
 "I asked you in front of the whole porch, didn't I."
 
-He had. He had crossed that porch in front of everybody
+"In front of Earlene," said Marisol.
+
+"In front of Earlene," Cal agreed.
+"No place in the county more public than that."
+
+He had crossed that porch in front of everybody
 and asked her for the last dance,
 and she had handed him the smile she'd been holding back
 since August, and the town had made a sound
 she expected to hear in her good dreams
 for the rest of her life.
 
-"You did," she said. "Did you plan it?"
+"Did you plan it?" she said.
 
 "Plan is a strong word.
 I stood at the rail about an hour first,
@@ -155,6 +160,13 @@ his face turned just far enough out of the light
 that Ashford's finest investigative minds had been left
 to work with a jawline and one good jacket.
 
+Nobody in the group had any doubts about the woman.
+The woman was Marisol.
+The woman had answered nine hundred parking questions;
+they would have known the back of her head in worse light.
+The man was the open seat,
+and the group had been holding hearings on him since dawn.
+
 "Oh no," Marisol said, scrolling. "Oh, no. Cal."
 
 "Read it," Cal said.
@@ -169,6 +181,10 @@ fully prepared to die in the booth and be buried in it.
 
 "Strong program," said Cal.
 
+"You are not enjoying this," said Marisol.
+
+"I'm having the best morning of my life," said Cal.
+
 "Second theory, and I quote.
 The country singer. In town for somebody special."
 
@@ -177,6 +193,16 @@ The country singer. In town for somebody special."
 "Third theory." She had to set the phone down
 and pick it back up.
 "'The tall one from facilities. Asking for a friend.'"
+
+Marisol put the phone flat on the table
+and looked across at Earlene, two tables over.
+
+"You're in that group, Earlene.
+You could have ended this at dawn."
+
+"Why on earth would I," said Earlene.
+"That group hasn't had a morning like this
+since the retainer."
 
 The Liars' Table had gone quiet in a listening formation.
 
@@ -204,7 +230,7 @@ every one of whom saw it land and would testify.
 Marisol, forty-three years old and a civilian,
 felt her breath snag on it.
 
-"There it is," said Earlene, two tables over, not even pretending.
+"There it is," said Earlene, not even pretending.
 
 Cal set down his mug.
 
@@ -246,6 +272,10 @@ A debt like that keeps."
 She turned the tin to face him.
 "Paid in full. I wanted witnesses. You'll do."
 
+"What was the bet?" asked Tunk Ferrell.
+
+"That," said Marisol, "stays on Delmar's porch."
+
 Cal picked up the fork.
 She had watched those hands fix half a campus,
 and it turned out they addressed a buttermilk pie
@@ -266,6 +296,9 @@ Marisol turned the phone face down.
 Kat deserved the whole story, and a pitcher,
 and a booth with nobody else in it. Later.
 
+"Sundays now," said Verna, going by with the coffee pot.
+"I'll have one waiting. The rate depends on my mood."
+
 When the pie was down to the tin,
 Cal put his cap back on and stood and waited for her,
 and when she rose,
@@ -274,6 +307,7 @@ and he walked her out with it,
 past the church side in its Sunday best,
 past Tunk Ferrell and the sideways phone,
 past Earlene saluting with her coffee cup,
+past Peanut Kyzer, who applauded,
 past every last grinning face in the Checkerboard,
 and out the door into the sun on the square.
 

@@ -24,11 +24,25 @@ She had already given him the smile, back on the porch,
 in front of the entire dressed-up town,
 and she did not regret one watt of it.
 
-"You've been quiet for three porches," she said.
+"Everybody saw that," she said. "You understand. Everybody."
+
+"That was the general idea."
+
+"Earlene is drafting the announcement as we speak.
+There will be a commemorative plate."
+
+"Long as I'm on it," Cal said.
+
+"You've been quiet for three porches," she said, later.
 
 "Thinking."
 
 "Take your time. It's a short street."
+
+It was a short street.
+She had walked it her whole life
+and it had never once taken this long,
+and she would have slowed it down further if she'd known how.
 
 He took his time.
 Twice he pulled in a breath with a shape to it,
@@ -81,6 +95,10 @@ Not to fuss with it. Off.
 Both hands on the brim, held against his chest
 like a man in a movie made before either of them was born,
 bareheaded under her oak, shirtsleeves pale in the dark.
+She had seen him a hundred ways by now,
+up ladders, under trucks, across a crowded porch,
+but never yet holding his own cap like an offering,
+and she stood there and let herself look.
 
 "Ma'am," he said.
 
@@ -129,6 +147,13 @@ Verna Poteat ran the counter, the coffee,
 and, by long-standing custom, the price of pie,
 which was whatever Verna said it was.
 
+They came in together, which was its own headline.
+Conversation at the Liars' Table did not stop;
+it swiveled, all four heads at once,
+tracking them to the back booth like a single instrument.
+
+"Well," Earlene said, to nobody, to everybody.
+
 Marisol slid into the back booth across from Cal,
 phone already going off like a june bug in a jar.
 
@@ -152,6 +177,9 @@ It was, she had decided, one of the best things he did.
 
 "Read them again."
 
+She squared the phone in front of her
+like a woman about to give testimony.
+
 "Leading theory. 'Y'all, that is the new strength coach.
 I would know those shoulders anywhere.'
 There are forty replies. Several are just fanning themselves."
@@ -169,6 +197,12 @@ you can't be the strength coach,
 on account of the county's still got that warrant out on you.
 She is being shouted down by people
 who say that's just part of the singer's outlaw brand."
+
+"Huh," Cal said.
+
+"Somebody has asked when you're playing.
+Somebody else has answered, and I want you to hear this,
+'after the legal matter is resolved, I'd imagine.'"
 
 Cal turned his mug a slow half-turn on the tabletop.
 
@@ -212,6 +246,8 @@ Her breath went and came back.
 The Liars' Table turned around, all of it, in a body,
 which under Ashford law amounted to a press release.
 
+"I had him for the singer," said Peanut Kyzer, to his eggs.
+
 "You know what you've just done," she said.
 
 "Yes, ma'am," Cal said. "Took me long enough to do it."
@@ -220,6 +256,9 @@ which under Ashford law amounted to a press release.
 
 "About time," Verna said, and cut the slice thick,
 at whatever rate Verna had decided the occasion could bear.
+The pie came the length of the counter on her flat palm,
+and the Liars' Table gave it the respect
+of watching it travel the whole distance.
 
 "For the record," Marisol announced,
 to the booth, the counter, and the full senate at the window,
@@ -235,6 +274,9 @@ and set the fork on his napkin, handle toward him.
 
 "Paid in full," she said.
 
+"Witnessed," said Tunk Ferrell,
+and Tick said it after him, solemn as church.
+
 She'd held on to that debt longer than she'd needed to.
 For a while it had been the one sure thing between them,
 the appointment he'd have to keep, come whatever came.
@@ -244,6 +286,10 @@ and didn't need it anymore.
 "Verdict," she said.
 
 "It kept," Cal said.
+
+"High praise."
+
+"From me it is."
 
 "The whole senate is watching you eat that."
 
@@ -261,7 +307,9 @@ When the plate was clean, Cal stood,
 left something by his cup for Verna anyway,
 and put his hand at the small of Marisol's back,
 and walked her out the whole length of the Checkerboard,
-past Tick and Tunk and Peanut, past Verna at the register,
+past Tick and Tunk and Peanut, none of them even blinking,
+past Verna at the register, who advised them
+that pie rates were subject to change for celebrities,
 past Earlene, past every last grinning face at the counter,
 and not one soul in the place pretended, even slightly,
 to be looking at anything else.
