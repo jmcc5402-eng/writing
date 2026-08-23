@@ -55,18 +55,16 @@ starts at wherever the checkmarks stop):**
 2. ✅ `plots/wave5-staging-order.md` compiled and pushed (SR-11/
    SR-12/SR-13 embedded; sweep findings 4–8 mandatory; §II(a)
    strike lists; seven PR flags listed at its foot).
-3. IN FLIGHT: worktree branch `campus/ch17-20-wave` exists;
-   SR-11's apparatus edit to `plots/b11-outline-rev2.md` (state
-   chain rows 18–21 + month row; ch 21/22 Saturday collision
-   marked [CHECK] for wave 6) is applied in the worktree,
-   uncommitted; a drafting-assistant staging agent is executing
-   the order into manuscript/ch17–20.md there. If resuming: check
-   the branch for staged chapters; re-dispatch staging from the
-   order if absent. Then dialogue linter (ch 18 must sit 8–10%,
-   others ≥15%), tic sweep, dedup grep; commit + push the branch.
-4. Reading page (chapter headings; house tool
-   `studio/tools/reading-page.py`), artifact, ONE PR, push
-   notification ("the author reads in the morning").
+3. ✅ Staged and pushed on branch `campus/ch17-20-wave`
+   (commit 60c582d): ch 17 "One Table" (B), ch 18 "[Pause]" (B),
+   ch 19 "Coffee for Twelve" (A), ch 20 "The Ledger" (A), plus
+   SR-11's apparatus edit (state chain rows 18–21 + month row;
+   ch 21/22 Saturday collision marked [CHECK] for wave 6). Lint:
+   24.2 / 11.1 (the quarter's quiet chapter, PR-flagged) / 20.8
+   / 34.0. Tic sweep + dedup vs ch 1–16 clean.
+4. ✅ **PR #96 OPEN — the wave is at the author gate.** Reading
+   page artifact linked in the PR body; seven flags listed
+   there. Nothing further until the author merges or comments.
 5. On merge: acceptance fold (THREADS/CHANGELOG per the house
    pattern — T29 PAID 17, T30 paid-by-echo 18 (graft rides),
    T25 PAID 19, T18 PAID 20, T28 reset on page, Merritt debut,
