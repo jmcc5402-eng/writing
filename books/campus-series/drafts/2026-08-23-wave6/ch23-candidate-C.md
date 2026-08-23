@@ -89,6 +89,8 @@ Under the porch light his hair was pressed flat
 where the cap had been.
 She looked at that longer than it deserved.
 She was allowed to now.
+Moths ran their circles at the porch light,
+and under the live oak the dark came down close.
 
 "Ma'am," he said.
 
@@ -109,6 +111,8 @@ They had settled the question weeks ago, in private,
 with the county none the wiser.
 The only new thing tonight was the porch light on
 and the street allowed to watch.
+His hand came up and held the side of her face
+like something worth being careful with.
 
 She unlatched the gate without looking at it.
 They went up the walk with his cap still off.
@@ -139,6 +143,10 @@ and somebody had a photograph of the last one.
 There she was, in his arms, lit gold by the porch bulbs.
 Three people had asked if the man was single.
 One of them had asked twice.
+The new moderators had asked everybody, twice,
+to please stay on topic.
+The topic, four hundred replies deep,
+was now the man's shoulders.
 She read the first hundred comments
 with her hand over her mouth.
 Then she got dressed and walked to the square,
@@ -162,6 +170,9 @@ He stood when she came in.
 Tick saw him do it.
 Nobody at the Table said a word,
 which meant they were saving them.
+She could tell by the quiet.
+It was the particular Checkerboard quiet
+of eight people all not mentioning the same thing.
 
 She slid in across from him
 and set her phone on the table like evidence.
@@ -207,9 +218,21 @@ would not dance that slow right out in the open."
 
 "Sound reasoning," said Cal.
 
-"The county faction is losing badly.
-The friend faction has momentum
-and a zoomed-in picture of your shoulders."
+"He can't sing," said Peanut Kyzer, to the Table, with authority.
+
+"You've never once heard him," said Tunk.
+
+"I stand by it."
+
+"The county faction is losing badly," Marisol went on.
+"The friend faction has momentum
+and a zoomed-in picture of your shoulders.
+The friend has follow-up questions.
+The friend would like to know if the shoulders are recent."
+
+"Recent," said Cal.
+
+"Her word. I'm only reporting what I read."
 
 He listened all the way through.
 That was the thing she kept walking into with him.
@@ -237,10 +260,12 @@ She raised a hand toward the counter instead.
 "Verna. One buttermilk, a whole slice,
 and set it in front of him. I'm buying."
 
-Verna Poteat cut the slice and named the price,
-and nobody in the history of the Checkerboard
-had ever argued a pie price with Verna,
-and nobody started now.
+Verna Poteat cut the slice and named the price.
+Pie rates at the Checkerboard were set by Verna,
+reviewed by Verna, and appealed to Verna,
+and nobody in the history of the place
+had ever won the appeal,
+and nobody tried now.
 The griddle was going and Verna had her hands full of Sunday,
 so Marisol fetched the plate herself,
 took the coffee pot along on the way back,
