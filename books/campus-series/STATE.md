@@ -26,9 +26,19 @@ every wave boundary and whenever a thread parks mid-pipeline.**
   rules are law (STYLE.md 2026-08-22 block + RECENT.md, which
   gained a laugh-scaffold watch item 2026-08-23).
 
-## Wave 6 (ch 21–24) — GATED, awaiting the author's "go wave 6"
+## Wave 6 (ch 21–24) — STAGED; **PR #97 OPEN at the author gate**
 
-**Prep is COMPLETE: `plots/wave6-directive.md` (card A8,
+**Status correction (2026-08-24 verification shift):** the gate
+opened — the author ruled GO with **D13 (M1 fires at ch 22)** plus
+SR-18/19/20 (commit 3614187); the full conveyor then ran (12
+blind drafts → four panels, **B sweeps all four** → canon sweep →
+staging order w/ SR-21) and **ch 21–24 are staged on
+`campus/ch21-24-wave` as PR #97**. The gate-flags section below
+is the historical record of the gate as it stood; the PR body
+carries the live flags. Next steps on merge: fold → line pass →
+wave-7 prep, per the house pattern.
+
+**Prep was: `plots/wave6-directive.md` (card A8,
 set-piece-first).** The wave: homecoming + HEAT 2 under the
 stands (21), the dance — secrecy dies by Cal's choice (22), the
 gate kiss + HEAT 3 + T24's pie debt paid at the Liars' Table
