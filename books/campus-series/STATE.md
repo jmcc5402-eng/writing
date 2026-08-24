@@ -100,6 +100,13 @@ SR-14 apparatus edit + the re-read-the-mate rule) → stage on
   ten lines, banned words, 3 personifications/chapter, someone's
   joke dies, no homeward codas, SR-17's banned string, the
   laugh-scaffold watch (RECENT.md 2026-08-23).
+- **CLOSENESS law (D14, 2026-08-23) — rides every brief from
+  wave 7 on:** a reaction beat per SCENE (~40 words, her judgment
+  in her voice), ONE private admission per chapter, motive
+  clauses in Cal's POV, no backstory blocks or rumination
+  paragraphs. Sixth meter added by author waiver (METERS.md §6;
+  rising curve, 8+ at ch 27 and ch 28). **T33 — Marisol's
+  excavation — pays at ch 27.** Going forward only; no retrofit.
 
 ## Carried author-facing open items (the queue debt)
 
@@ -123,6 +130,24 @@ SR-14 apparatus edit + the re-read-the-mate rule) → stage on
    ch 25 forensics protections (ya'll ×2, "inside of four
    minutes" = probable plant — confirmed no new uses in wave 5).
 7. Book-2 parked questions: notes/book1-retrospective-seeds.md.
+
+## POLISH-PASS items (deliberately deferred to the full-book read)
+
+Not waves, not debts — questions that can only be judged with a
+finished book in hand. Revisit after ch 30 exists:
+
+1. **Ch 2–4 closeness top-up (D14).** The book's lowest measured
+   interiority (ch 3 = zero tagged interior moments, ch 4 = one)
+   and the exact stretch where two of four simulated readers
+   stumbled (superfan halfway read: "almost quit at chapter 4";
+   the one-star crank DNF'd at the fence scene). If the full-book
+   read confirms it, the fix is ~40 words of Marisol's opinion
+   per scene — an afternoon, not a wave. Do NOT touch accepted
+   pages before that read.
+2. **Ch 1–2 as the Amazon "Look Inside" sample.** Ch 1 already
+   carries the warmth pass; ch 2 is Cal at 7% dialogue (the
+   quarter's deliberate quiet chapter) sitting where a browsing
+   reader decides. Worth one look at polish time.
 
 ## Key files (read in this order in a new thread)
 

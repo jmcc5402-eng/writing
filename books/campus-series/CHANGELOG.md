@@ -3,6 +3,34 @@
 Tracks edits to manuscripts and adopted drafts (house rule 6), so the
 author can see what changed and why. Newest first.
 
+## 2026-08-23 — D14: the CLOSENESS law and meter (author waiver)
+
+- Author ruling on interiority: "I don't think it needs to be ten
+  layers deep because these are pretty light reading novels, but I
+  also want to create a connection" → "Agree. Go. I want to add
+  this. We'll make a waiver to the tool count."
+- Diagnosis that produced it (measured, not asserted): accepted
+  ch 1–20 run ~1.3 tagged interior moments per thousand words,
+  ch 3/13/16 at zero. Interiority is intermittent, not shallow —
+  one aria per chapter at the peak. Root cause is the studio's own
+  stack (hands-and-objects register, show-don't-tell, dialogue
+  floor, fun directive): every lever pushed emotion outward and no
+  brief ever asked for inward.
+- Recorded: D14 (DECISIONS); the craft law in studio/STYLE.md
+  ("Closeness: reaction density, not depth" — a reaction beat per
+  SCENE, one private admission per chapter, motive clauses for
+  reticent leads, the wound owed to BOTH leads, no backstory
+  blocks); the instrument waiver in studio/DRAFTING-PROTOCOL.md
+  (one-in-one-out resumes after; not precedent); **CLOSENESS as
+  the sixth meter** (METERS.md §6, rising curve, 8+ at the dark
+  moment and climax).
+- **T33 opened — Marisol's excavation, slot ch 27** (matched to
+  Cal's ch 20); the outline's ch 27 entry carries the amendment.
+- **No retrofit** — going forward from wave 7 only; reaction beats
+  touch no canon or state chain, so nothing backpropagates. Ch 2–4
+  logged as a POLISH-PASS item in STATE.md, to be judged on a
+  full-book read.
+
 ## 2026-08-23 — line/copy pass, ch17–ch20 (line-copy-editor, card E2, post-ratify PR #96)
 
 - Card E2 honored: ch19 judged weakest on skim (heaviest staging

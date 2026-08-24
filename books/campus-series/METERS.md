@@ -6,14 +6,19 @@ the other four meters and the operating rules are proposed around it.
 
 ## What this is
 
-Five meters, each scored 0–10 for every chapter, at every rung —
+Six meters, each scored 0–10 for every chapter, at every rung —
 outline first, prose later, revision again. The scores are cheap,
 repeatable, and comparable across revisions, which is the point:
 "is this book still about romance?" stops being a debate and
 becomes a chart. Per the dreamer coda, **meters inspect; they never
 generate** — see the operating rules.
 
-## The five meters
+## The six meters
+
+*(CLOSENESS added 2026-08-23 by author waiver to the instrument
+freeze — see DECISIONS D14 and studio/DRAFTING-PROTOCOL.md. It is
+the sixth meter and the only one added since the freeze; the
+one-in-one-out rule resumes after it.)*
 
 1. **ROMANCE** *(author-stated).* The chapter's romantic charge:
    longing, closeness, contact, movement between people falling in
@@ -35,6 +40,21 @@ generate** — see the operating rules.
 5. **TOWN.** Ashford delivered — rooms, seasons, chorus, the
    wish-I-lived-there factor (SC1 in meter form). *Anchor: 2 =
    could be any town; 8 = the town is a character in the scene.*
+6. **CLOSENESS** *(author waiver, 2026-08-23).* How near the reader
+   sits to the POV character — measured as **reaction density**,
+   not depth: how often the chapter gives us her judgment of what
+   just happened, in her own voice. Distinct from HEART (which is
+   the ache's size) — a chapter can ache hard and still be watched
+   from across the street. *Anchor: 2 = we watch her do things; 5 =
+   she reacts at the peaks and nowhere else; 8 = we ride inside her
+   opinion of the whole scene, and at least one thing gets admitted
+   that she'd never say aloud.*
+   **The instrument's cheap objective half:** count the chapter's
+   interior moments (tagged and free-indirect) per thousand words.
+   Book 1's accepted ch 1–20 measure ~1.3 tagged per thousand, with
+   three chapters at zero — that is the baseline this meter was
+   created to raise. Counting is evidence for the score, never the
+   score itself.
 
 ## Book 1 target curves (the author's shape, PR #59 comment)
 
@@ -52,6 +72,12 @@ generate** — see the operating rules.
   other.
 - **TOWN:** never below 4 (locked standard 3's meter form); 8+ in
   each season's signature-event chapter.
+- **CLOSENESS:** a RISING curve, and the only meter that is one —
+  the reader is meant to get nearer as the book goes on. Floor 4
+  through the first half; never below 5 after the midpoint; **8+
+  at the dark moment and the climax**, where interiority is the
+  only instrument that can carry the load. A quiet chapter may run
+  low on ROMANCE or FUN; it may not run low on CLOSENESS.
 
 ## Operating rules
 

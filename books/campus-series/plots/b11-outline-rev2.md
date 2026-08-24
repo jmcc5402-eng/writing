@@ -721,6 +721,15 @@ buzzes its usual stubborn OPEN — the town keeping its lamps lit
 around two people in the dark. The work lights go off one by one
 behind her, and the mug he poured her goes cold on the rail.
 
+*(D14 amendment, 2026-08-23: this chapter carries **T33 —
+Marisol's excavation**, the heroine's one full wound beat of the
+book, matched to Cal's at ch 20. It lands inside the scene above
+as admission in her own voice — what the quiet house cost her,
+what she swore about her own Saturdays, and what it would cost to
+be the reason he loses his — never as flashback, marriage
+post-mortem, or backstory block. CLOSENESS 8+ is the chapter's
+target; per D14 the meter's curve peaks here and at ch 28.)*
+
 ### Ch 28 — I Yield My Time (Cal)
 CLIMAX. The trustees' public session, rivalry week — and the town
 stages it November-style (D03; the sweltering gym vote stays Book

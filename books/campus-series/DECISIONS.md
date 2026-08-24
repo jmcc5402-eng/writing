@@ -345,3 +345,47 @@ one beat, her ground rules dramatized); SR-20 (the pledge drive is
 born ON the parade at ch 21 — a jar and a list riding the Zinnia
 Wagon's tailgate for the day; its permanent home stays unstated
 this wave). All three flagged for strike at the wave-6 PR.
+
+## D14 — Closeness: reaction density, and Marisol's excavation at ch 27
+
+**RULED (author, 2026-08-23, in chat).** Asked whether the leads
+need more interior life — "I don't think it needs to be ten layers
+deep because these are pretty light reading novels, but I also
+want to create a connection" — and, on the diagnosis, "Agree. Go.
+I want to add this. We'll make a waiver to the tool count."
+
+The finding that produced it: accepted ch 1–20 measure ~1.3 tagged
+interior moments per thousand words, with ch 3, 13 and 16 at zero.
+The interiority is not shallow, it is **intermittent** — one aria
+per chapter at the peak, the reader outside the character in
+between. Root cause is our own rule stack (hands-and-objects
+register, show-don't-tell, dialogue floor, fun directive): every
+lever pushed emotion outward and no brief ever asked for inward.
+
+Ruled, in four parts:
+
+1. **The craft law is studio-wide** — `studio/STYLE.md`,
+   "Closeness: reaction density, not depth": a reaction beat per
+   SCENE, one private admission per chapter, motive clauses for
+   reticent leads, the wound rationed but owed to BOTH leads, and
+   no backstory blocks or rumination paragraphs.
+2. **A sixth meter, by waiver.** CLOSENESS joins the campus meters
+   (`METERS.md` §6) with the instrument freeze waived once
+   (`studio/DRAFTING-PROTOCOL.md`, instrument governance). Rising
+   curve: floor 4 in the first half, never below 5 after the
+   midpoint, 8+ at the dark moment and the climax.
+3. **GOING FORWARD ONLY — no retrofit.** Reaction beats touch no
+   canon, no state chain, no fair-play row, so the rung contract's
+   backpropagation duty does not apply; and the interiority curve
+   is supposed to rise, so starting at ch 25 reads as design, not
+   as a seam. Ch 2–4 (lowest measured closeness; the stretch two
+   simulated readers stumbled in) is logged as a POLISH-PASS item
+   to be judged on a full-book read, not a wave.
+4. **Marisol's excavation lands at ch 27** (T33). Cal's wound got
+   a whole chapter (ch 20, the best-reviewed chapter in the book);
+   hers has been referenced since ch 1 and never entered. Ch 27 is
+   Marisol POV and the couple's darkest hour — the cost is real
+   there, and interiority is the only instrument that can carry a
+   dark night. Guards: no flashback, no marriage post-mortem, no
+   backstory block; it lands as admission in her own voice, inside
+   the scene the outline already stages.

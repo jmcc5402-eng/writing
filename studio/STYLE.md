@@ -132,3 +132,57 @@ the developmental editor judges openings against rule 1 and
 climaxes against rule 3; a lead introduced mid-struggle, or an
 ending that merely restores the opening's competence, is a
 finding.
+
+## Closeness: reaction density, not depth (author law, 2026-08-23)
+
+> "Do we need more internal talk for the reader to get close to
+> them? I don't think it needs to be ten layers deep because these
+> are pretty light reading novels, but I also want to create a
+> connection."
+
+Diagnosed on campus ch 1–20, which measured ~1.3 tagged interior
+moments per thousand words with three chapters at zero: the
+interiority was excellent but **intermittent** — one aria per
+chapter at the emotional peak, and the reader riding outside the
+character the rest of the time. Root cause was systemic, not
+authorial: every standing rule in the studio (hands-and-objects
+register, show-don't-tell, the dialogue floor, the fun directive)
+pushes emotion OUTWARD, and no brief had ever asked a drafter to
+go inward.
+
+The law, for every book here:
+
+1. **Frequency beats depth.** Connection in commercial fiction is
+   built by a running layer of the POV character's judgment — not
+   psychology, not backstory. More often and shallower is the
+   target; literary interiority is the wrong instrument.
+2. **A reaction beat per SCENE, not per chapter.** One or two
+   sentences where the POV character judges what just happened, in
+   voice. Roughly forty words a scene.
+3. **One private admission per chapter** — something the character
+   would never say aloud, admitted to herself. The highest
+   bonding-per-word device in the form.
+4. **Reticent characters get motive clauses.** A closed lead who
+   only acts reads as opaque, not deep. One clause of *why* per
+   scene converts silence into interiority. (Campus model, ch 20:
+   "which he would not have told anybody about.")
+5. **The wound stays rationed — and every lead gets one.** One
+   full excavation per lead per book, placed where the cost is
+   real. A book that excavates only one of its two leads produces
+   readers who admire one and bond to the other; in romance the
+   heroine is the reader's proxy and may not be the one skipped.
+6. **What this is NOT:** backstory blocks, rumination paragraphs,
+   flashbacks. They break the pace these books run on. Reactions
+   and admissions only, in the character's own voice.
+
+**The curve rises.** Interiority should tighten as the book goes
+on, so implementing this mid-book is legitimate design rather than
+a policy seam. And because reaction beats touch no canon, no state
+chain, and no fair-play row, **this rule never backpropagates** —
+a book already drafted may take it going forward, and any front-
+half top-up belongs to the final polish pass, judged on a
+full-book read.
+
+Measured by the CLOSENESS meter (campus METERS.md), added by
+author waiver — see `studio/DRAFTING-PROTOCOL.md`, instrument
+governance.

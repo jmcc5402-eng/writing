@@ -222,6 +222,22 @@ chapter-line requirements — across all books:
    instrument produced — is retired from the battery. Tools keep
    earning their place exactly like chapters do.
 
+**WAIVER — the CLOSENESS meter (author, 2026-08-23, in chat: "I
+want to add this. We'll make a waiver to the tool count").** The
+freeze and the one-in-one-out rule are waived ONCE, for a sixth
+campus meter measuring reaction density (campus `METERS.md` §6;
+the craft law is `studio/STYLE.md`, "Closeness"). Why it cleared a
+bar the freeze exists to defend: it was not proposed in the
+abstract but produced by a measurement of drafted prose (ch 1–20
+at ~1.3 tagged interior moments per thousand words, three chapters
+at zero), and it names a failure the existing five demonstrably
+missed — ROMANCE, FUN, HEART, TENSION and TOWN can all score high
+on a chapter the reader watches from across the street, which is
+exactly what rule 2 of this section asks for before an instrument
+is added. **Nothing is retired against it; the one-in-one-out rule
+resumes immediately after.** The waiver covers this instrument
+only and is not precedent — the next addition pays the old price.
+
 The underlying law: a studio's output is books, and every factor is
 worth only what it changes in a book. Nobody in the system holds
 the full tool list — dreamers see briefs that open from wanting;
