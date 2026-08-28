@@ -266,3 +266,7 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-28 | romance-reader-panel (campus ch25 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ch25-panel-2026-08-28.md |
 | 2026-08-28 | romance-reader-panel (campus ch27 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ch27-panel-2026-08-28.md |
 | 2026-08-28 | romance-reader-panel (campus ch28 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ch28-panel-2026-08-28.md |
+| 2026-08-28 | drafting-assistant (campus ch25 staging, winner B) | — (mechanical) | manuscript/ch25.md on campus/ch25-28-wave |
+| 2026-08-28 | drafting-assistant (campus ch26 staging, winner C) | — (mechanical) | manuscript/ch26.md on campus/ch25-28-wave |
+| 2026-08-28 | drafting-assistant (campus ch27 staging, winner B) | — (mechanical) | manuscript/ch27.md on campus/ch25-28-wave |
+| 2026-08-28 | drafting-assistant (campus ch28 staging, winner B) | — (mechanical) | manuscript/ch28.md on campus/ch25-28-wave |
