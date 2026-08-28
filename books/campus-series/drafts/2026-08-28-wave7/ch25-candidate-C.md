@@ -101,6 +101,10 @@ Ratchet's chin stayed on her boot through all sixteen.
 Nobody spoke for sixteen pages,
 and it was the most anybody had said to her in years.
 
+When it was done she put the pages in her bag,
+flat between two stiff folders
+so the corners wouldn't crush.
+
 The counter-drawings stayed behind the truck seat.
 Not tonight. Tonight belonged to the paper.
 
@@ -117,6 +121,11 @@ and delivered it standing up.
 "You can win crooked," Earlene said.
 "You just can't keep it."
 
+"Is that the table's ruling or yours?" Marisol said.
+
+"Same thing on a Tuesday. Eat your eggs.
+Verdicts sit better on protein."
+
 Then she slid in alongside, took up her own silverware,
 and arranged it while she talked, knife squared
 to the placemat edge, fork brought into line,
@@ -130,6 +139,10 @@ plate of toast, doctor-fast, thumbing screenshots
 into folders before they cooled.
 Birdie Pham came around with the pot on the half hour,
 filling cups nobody had asked her to fill.
+
+"Eat the toast, Dr. Cole," Birdie said, passing.
+
+"In a minute," said Aisha, who had said it twice already.
 
 And the fourth chair, empty since wine night was invented,
 was full.
