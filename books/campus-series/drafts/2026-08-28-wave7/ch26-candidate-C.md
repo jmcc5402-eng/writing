@@ -1,0 +1,387 @@
+# Chapter 26 — Wind in the Upper Deck
+
+POV: Cal, third person limited, past tense.
+Candidate C. Variance card: D4.
+
+---
+
+On Wednesday, Boyd sent for him.
+Two lines from the office, no reason given,
+and a note that the south tunnel would be unlocked.
+Cal went because you learn more about a man
+from the room he picks
+than from anything he says once you're in it,
+and Boyd had picked the biggest room in the county.
+
+The bowl was empty.
+Ninety thousand seats, every one of them folded shut,
+all of them aimed at the same green rectangle,
+and the wind had the place to itself,
+coming through the upper deck in long pulls
+that set a loose cable ticking against a girder
+somewhere too high to see.
+Cal came up out of the tunnel at field level
+and let the size of it land on him,
+because that was the idea.
+
+Boyd waited at the fifty,
+topcoat buttoned, no folder, no phone,
+shoes shined for a meeting
+only one of them had known about yesterday.
+
+"Cal." Volume one, the same voice he would use
+at a ribbon cutting or a funeral.
+"Thank you for coming up.
+I know your Fridays run short this time of year."
+
+"You picked a big room for two people."
+
+"I built the room."
+Boyd looked up into the empty deck,
+and the wind moved his coat
+and nothing else about him.
+"You've had a loud week.
+I wanted a quiet one for this.
+I'll say it once,
+and then I'll leave you alone with it."
+
+He walked a few steps toward the north end
+and pointed with two fingers,
+gracious as a tour guide.
+
+"The plaza goes there, once this is settled.
+Brick, fountains, shade.
+And in the center of it, a plaque. Bronze. Prominent.
+Her name — I'd put it where ninety thousand people
+read it every Saturday.
+The fund doubles the day you sign.
+Friday, Cal. It costs you a signature.
+And it isn't a trade, before you make it one.
+The plaque should already be up.
+The signature just sets the date."
+
+The wind pulled once through the girders and let go.
+
+Cal had come up braced for money.
+This was not money.
+This was built, piece by piece, to fit one man,
+and the frame it hung in was his own grief.
+
+Her hand was still in the House ledger.
+Page after page of it, small and level,
+watch after watch kept and signed for,
+and nobody read that on a Saturday.
+Nobody ever had.
+
+He never told anyone the next part.
+Not Marisol, not the crew, not the dog.
+For the length of one long pull of wind,
+standing in the middle of Boyd's enormous empty room,
+he wanted it.
+Bronze. Prominent. Read by strangers.
+He wanted it, and knowing better
+didn't touch the wanting at all.
+
+He was already on his feet.
+He stayed on them.
+
+"No," he said.
+
+Boyd nodded, slow and respectful,
+and left him a good wide silence to fill with reasons.
+Cal didn't fill it.
+Anger was a handle and a speech was a handle,
+and he had come down that tunnel deciding
+Boyd would leave the room holding neither.
+He turned and started for the tunnel.
+
+He was twenty yards from the mouth of it
+when Boyd's voice came off the concrete behind him,
+no louder than it had been at arm's length.
+
+"Tripled. The fund, tripled,
+and the crew's winter guaranteed in writing.
+Friday stands.
+I don't move a date on a man twice. It's rude."
+
+Cal walked the last twenty yards
+giving the man's eyes nothing to take home,
+and it cost him every one of them.
+
+---
+
+Thursday morning the unnamed man was at the shop gate
+when Cal came to open it,
+canvas jacket, surveyor's squint already working.
+
+"Heard your week got interesting," he said.
+
+"Parts of it."
+
+"Show me the numbers."
+
+On his way through the bay
+he stopped at the wall rack,
+lifted one foot of the extension ladder,
+checked the shoe,
+and set it down without comment.
+Cal hadn't expected comment.
+
+Cal pulled the tube from behind the truck seat
+and rolled the counter-drawings out
+on the bench in bay one,
+weighted the corners with a socket and somebody's mug,
+and stood back.
+No salesmanship, not a word of it,
+because work made at night in a borrowed building
+has to stand in daylight sometime,
+and better first in front of the one man in the county
+with no reason at all to be kind.
+
+Ratchet came out from under the bench,
+gave both of the man's boots a thorough going-over,
+and laid herself down across his feet.
+He let her.
+
+The squint went down the first sheet slow,
+line by line out to the border,
+then the next sheet, then the next.
+It took the better part of an hour.
+He asked for a flat pencil and nothing else.
+
+"Who drew these?"
+
+"We did," Cal said. "Nights, mostly. At the House."
+
+"Whose numbers?"
+
+"Ours. Checked twice."
+
+"They'll get checked a third time."
+He turned a sheet back, then forward again.
+"They'll hold.
+The load path's honest
+and nobody got creative in the corners."
+
+"You told me once a finding gets answered
+by work of equal standing," Cal said.
+"Work a stamp will stand behind."
+
+"I did say that."
+
+"Whose stamp?"
+
+The man straightened up off the bench,
+and for once the squint came all the way open.
+"Mine."
+
+Cal looked at him.
+"I never did find out whose man you are."
+
+"No," he said. "You didn't."
+He tapped the top drawing once with the pencil.
+"Nobody's. That's what a stamp is for.
+Monday morning it goes to the county
+with my name under the numbers."
+
+He stepped over the dog and went out through the bay,
+and at the gate two fingers came up off his thigh,
+his back already to the shop.
+
+Cal put his hand flat on the top sheet
+and left it there until the gate rolled shut.
+Then he rolled the drawings tight
+and put them back behind the seat.
+
+---
+
+Thursday night Peanut Kyzer closed the Blind Mule
+to the public,
+locked the front door behind the last regular,
+and turned on every light over the pool table,
+which nobody was going to play.
+
+Cal hadn't been inside
+since the night the place ran out of glasses.
+Peanut met him at the end of the bar,
+set a glass in front of him,
+a real one, already full,
+and moved off down the rail without a word about it.
+Cal turned the glass once where it stood
+before he drank.
+
+The room split along the pool table
+without anyone planning it,
+coveralls down one rail,
+clipboard people down the other,
+Marisol at the corner pocket where the two sides met.
+Both halves of Ashford in one room, on purpose.
+Peanut poured both rails the same beer.
+There was no menu on a closed night.
+
+Somebody had brought a Checkerboard pie
+and set it on the bar with a knife in it.
+Nobody claimed it, and everybody reached for it,
+both sides, the one knife
+crossing the border all night.
+
+"Kitchen's closed," Peanut said. "Pie isn't."
+
+"Good pie," Ronnie said.
+
+Cal took the chalk,
+wiped the bar board clean,
+and wrote the winter up where everyone could see it.
+He did the writing himself
+because he wanted the crew shooting at the math,
+not saluting the man holding the chalk.
+
+Boyd's list went on top.
+The decks, the pledge money, doubled, then tripled.
+He wrote the raise in too,
+since they'd hear about it by Sunday either way.
+Under it, the same twelve names' worth of trades,
+the same paychecks,
+the House's scaffolding instead of Boyd's decks,
+contract through March.
+
+"Tripled," Travis read,
+and put his hand flat on the rail.
+"I'll be honest. I'm not proud of it.
+I've got a kitchen in those twelve."
+
+"Everybody at this table's got one," Ronnie said.
+
+"Boyd's money spends the same," Travis said.
+
+"Spends the same once," DeShawn said,
+from the end of the rail, around a fork.
+
+"Letter's said pending since the day it went up,"
+Ronnie said.
+
+"The report finished last night," Marisol said
+from the corner pocket.
+"Real drawings, real numbers.
+It needed one thing it didn't have."
+
+"It has it," Cal said.
+"It got its stamp this morning."
+
+That went around the room once, both rails,
+before anybody found anything to say to it.
+
+"And if the county drags it past March?" Travis said.
+
+"Then it's still a contract," Marisol said.
+"Pending is not a word that appears in it."
+
+DeShawn put his plate down,
+came around the table,
+and took the chalk out of Cal's hand.
+
+Cal gave it up mostly out of surprise.
+He had never once seen DeShawn
+volunteer for anything with numbers on it.
+DeShawn filled out his timecard
+like it owed him money.
+
+"Same trades," DeShawn said, chalk already going.
+"Same checks.
+And a pledge is a promise with a bigger number on it.
+A contract is a number.
+Run it out loud or it's just paint."
+And he ran it, out loud, week by week,
+Thanksgiving to March, both columns,
+carrying the overtime in his head,
+no phone, no pauses,
+while Travis was still getting
+his calculator app open.
+
+The chalk stopped in the House column.
+
+"You're short," DeShawn said. "Boss. Your own side.
+Contract says through March.
+You paid us to the front door of March and quit.
+That's a whole month of checks
+you left off the board."
+
+He wrote them in.
+The bottom of the column moved.
+
+Travis, still thumbing at his phone, said,
+"Hang on, I'll confirm it."
+
+"Put it away, Travis," Ronnie said.
+"The man's already in March."
+
+Both rails laughed at that,
+coveralls and clipboards at the same time,
+the first thing the whole room had done together
+all night.
+
+Cal looked at the board through the laughing,
+his handwriting and DeShawn's in one column,
+his own winter corrected upward
+in front of everybody,
+and let the room watch him grin about it.
+
+The arguing ran another hour anyway,
+because twelve kitchens had questions
+and asked every one of them out loud.
+It ended where payroll arguments end
+when the board is honest.
+It landed on the math,
+and the math said the House.
+
+Marisol rapped a knuckle twice on the rail,
+quiet, just for him,
+and Cal heard it fine
+from the other end of the room.
+
+---
+
+Friday morning Ronnie was in
+before the coffee finished.
+He crossed the break room
+without taking his jacket off,
+pulled the pin out of the pledge letter
+on the corkboard,
+the one whose corner had said pending
+long enough to turn into part of the wall,
+and folded it in quarters.
+Nobody clapped and nobody spoke.
+That was the vote,
+and it had already been counted the night before.
+
+"You want this?" Ronnie said.
+
+"Drawer," Cal said,
+and put it in the locked one,
+because you keep the other man's paper.
+
+The corkboard held a clean bright rectangle
+where the letter had hung.
+Cal looked at it a second longer
+than a rectangle needs,
+then went to work.
+
+The shop worked its Friday.
+Ronnie in bay three,
+Travis and DeShawn on the lift list,
+his second out walking the campus punch list,
+Ratchet asleep in the sun outside the bay doors.
+The counter-drawings rode behind the truck seat,
+rolled tight, waiting on Monday.
+
+Nobody called from Boyd's office.
+No courier came,
+no second note about the south tunnel.
+The carillon marked five o'clock
+and the crew washed up
+and went home to twelve kitchens.
+
+Cal locked the gate
+and drove home with the drawings behind the seat.
+Boyd's Friday ran out sometime that evening.
+Nothing got signed.

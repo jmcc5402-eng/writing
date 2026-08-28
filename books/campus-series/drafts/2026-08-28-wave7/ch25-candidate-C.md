@@ -23,7 +23,7 @@ which settled the question of whether she was staying.
 
 "You either."
 
-Monday had run them both over in the same lane.
+They'd both had the same Monday.
 The leak had hit the county at breakfast, cover pages
 shot off somebody's screen, cropped so Cal's typed
 signature block read as signed, and the dance photo
