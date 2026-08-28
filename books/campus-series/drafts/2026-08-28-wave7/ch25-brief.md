@@ -36,7 +36,8 @@ measurements) rides behind his truck seat.
 
 1. **One a.m., the motor pool.** She comes to the shop in the
    dark; the ORIGINALS spread across the workbench — watermarked
-   pages, both envelopes; Ratchet's chin lands on her boot and
+   pages, both envelopes; Ratchet's chin (Ratchet is FEMALE —
+   the dog is a she) lands on her boot and
    stays. The question she can't make herself ask out loud, and
    Cal answers it anyway: **"Publish it. All of it. Me too."** He
    hands her the thing that can ruin him and calls it hers — the

@@ -135,9 +135,119 @@ audits. DO-NOT-TOUCH spans in each note are absolute.
    wall.", Peanut's card, trust clause, ch 1 rhyme in the rise;
    SR-29 skips).
 
-## §6 — Canon sweep findings (PENDING)
+## §6 — Canon sweep integration (sweep FILED; sweep overrides
+## panels on conflict)
 
-To be appended verbatim-by-reference when the wave-7 cross-batch
-sweep (card E4) files. Sweep findings OVERRIDE panel grafts where
-they conflict; any conflict the staging agent cannot resolve
-mechanically comes back to the showrunner, not onto the page.
+Full report: `notes/wave7-canon-sweep-2026-08-28.md` (findings
+cited by number below). Per-winner sweep fixes, all MANDATORY:
+
+**ch 25 (B):**
+- Finding 1: Ratchet is FEMALE — fix the male pronouns
+  (B 19–21).
+- Finding 7: P15 pays wrong — B 275–278 repurposes the Courier's
+  bound volumes as a SPELLING authority; the planted clue is the
+  socks quoting the volumes' town wisdom back at the town
+  (archive-mining fingerprint). Conform to C25's exact payment
+  (C 238–240 is the graft source).
+- Finding 13: B 358–360 drop "anywhere" ("that had not happened
+  there yet").
+- Ledger (b): graft 4's "Evening, loves." → **"Evening, my
+  loves."** (canon register, ch 1 pinned post).
+
+**ch 26 (C):**
+- Finding 14: the stamp timeline seam — already covered by the
+  panel's mandatory fix ("It found its engineer this morning" /
+  "There's a stamp standing behind it as of this morning" shape).
+- SR-31 and SR-32 below.
+
+**ch 27 (B):**
+- Finding 2: "Cal's twelve winters of entries" (B 13) and
+  "Twelve winters of that hall" (B 61) — the phrase is twelve
+  NAMES × this winter (ch24:280), not a duration, and B's version
+  shadows the undated widowhood. Restore the crew meaning or use
+  a true vague duration ("years of entries").
+- Finding 11: B 171–173 pre-decides the June clock ("stops being
+  mine, and I'll be glad") — trim to existence-only; the decision
+  is ch 29's staged payoff (P18).
+- (Finding on pledge totals = SR-27, already ruled.)
+
+**ch 28 (B):**
+- Finding 5: B 230–231 "on this campus" → **"in this county"**
+  (the House is trust-owned, off-campus — D02).
+- Finding 9: B 67 the cold coffee was "on the rail," not "on the
+  table" — it is ch 27's dealt closing image.
+- Finding 10: cut the "badge on its lanyard" (B 58) — the badge
+  is a platform role, not a credential; the clipboard is the
+  physical exhibit.
+- Finding 3d: "the parlor wall" (B 182) — no such room; the
+  slides sit across the EAST crack. Name no room, or the east
+  wall.
+- Finding 3b/c: make the hand-order explicit in B 186–187 — HER
+  entries are the early half, his the later; no Cal-dated slides
+  exist before ch 30 (D10).
+- Finding 20: the pledge folder teleports — graft A's transit
+  (A 253–254, Marisol walks it to the trust "while the trustees'
+  hands were still in the air").
+- Finding 21: B 31 Sonny + Kat sharing a thermos hints two live
+  romance channels — make it a row of three.
+- Ledger 15: "ticked like a pit crew" is the brief's own simile
+  in all three — B may keep its copy.
+
+## Late SR rulings (from the sweep's two escalations + overrides)
+
+- **SR-31 (sweep finding 8 — the pre-vote "contract through
+  March").** No signed pre-vote contract exists: canon stages the
+  contracting at ch 28 (the trust's announcement). Conform the
+  ch 26 winner's wording to CONTINGENCY ("drawn, waiting on
+  Tuesday" register); C's "Pending is not a word that appears in
+  it" may stay only if the surrounding lines make the paper
+  conditional on the vote. Ch 28-B's trust beat then reads as the
+  contract taking effect. Strikeable (author may instead
+  canonize a contingent trust contract — record it if so).
+- **SR-32 (sweep finding 15 — Boyd's date line becoming
+  liturgy).** "I don't move a date on a man twice; it's rude" is
+  canon once (ch 24). ONE new use in the wave: ch 28-B's
+  inversion (B 268) KEEPS; the ch 26 winner's copy (C 105) is cut
+  or varied. Strikeable.
+- **SR-33 (sweep finding 21 — C26's unclaimed full glass).** The
+  full glass Peanut sets down (C 207–208) lands an inch from
+  T30's kept beer (ch 18, "it'll keep") without claiming it.
+  TAKE the claim: one clause pays the plant on purpose (the
+  glass is the kept one). Strikeable.
+- **SR-34 (sweep finding 3a OVERRIDES ch 28 panel graft 2).**
+  A's pane-lift is canon-false — the slides are cemented across
+  the east crack (D10; ch 16 staged printed photographs because
+  the glass doesn't move). The pane does NOT graft. KEEP the
+  line **"I brought the wall."** restaged on the printed, dated
+  photo set ("There is no such thing as a rigged pane of glass"
+  may ride, spoken of the photographed glass); panel Fix 6 aims
+  the sanctioned line at the photos/page instead of held glass.
+  B's paper-and-photo staging is the model throughout.
+- **SR-35 (sweep finding 22 — Kat's residence, three ways
+  divergent).** RULED: Kat is NOT local — the friend from before
+  Ashford, a drive away (B25's "the voice from the old life
+  showing up in the flesh" locks it). Record at the fold; her
+  wine-night seat stands. Strikeable.
+- **SR-36 (sweep ledger 16 — the stamp aphorism).** "That's what
+  a stamp is for" stays ONE character's coin: the engineer's
+  (ch 26-C:183). Reword B28:208's copy out of Cal's mouth.
+  Strikeable.
+
+## Graft-donor strikes confirmed by the sweep (mechanical)
+
+Ledger items 3–8, 11–13, 16–19: wherever a panel graft imports a
+donor line that collides with the winner's copy of a converged
+device (toenails-ticking arrival, "It was the wrong wrench,"
+eyes-went-hot, door-hardware exits, keys-entry, clipboard-heft),
+the winner's copy survives and the donor's is struck on entry —
+the notes' "must NOT ride" lists already cover most; this is the
+catch-all.
+
+## Brief patches (upstream hygiene, done at staging time)
+
+- `drafts/2026-08-28-wave7/ch25-brief.md`: the beat line
+  "Ratchet's chin lands on her boot" gets "(Ratchet is FEMALE)"
+  appended — the manifest hole that produced finding 1.
+- Wave-8 briefs (ch 29/30): state the dog's sex wherever she
+  appears; gloss "twelve winters" = twelve names × one winter
+  wherever the phrase is used.
