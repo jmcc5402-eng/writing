@@ -248,3 +248,16 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-24 | orchestrator (campus ch21-24 acceptance fold, PR #97 merged clean) | — (mechanical transcription of ratified staging order + panels + sweep §IV) | THREADS + CHANGELOG blocks |
 | 2026-08-28 | line-copy-editor (campus ch21-24 post-ratify mechanical pass) | E6 weight-whats-missing (LRU) | manuscript in place (6 fixes) + notes/line-pass-ch21-24-2026-08-28.md |
 | 2026-08-28 | plot-architect (campus wave-7 directive ch25-28) | A9 appetite pass (first draw; LRU) | plots/wave7-directive.md |
+| 2026-08-28 | orchestrator (campus D15 delegated polish batch, 21 edits ch13-24) | — (mechanical application of ruled proposals) | manuscript in place; skips logged in D15.4 |
+| 2026-08-28 | drafting-assistant (campus ch25 blind, run A) | D5 weather as texture (LRU) | drafts/2026-08-28-wave7/ch25-candidate-A.md |
+| 2026-08-28 | drafting-assistant (campus ch25 blind, run B) | D6 run past comfortable | drafts/2026-08-28-wave7/ch25-candidate-B.md |
+| 2026-08-28 | drafting-assistant (campus ch25 blind, run C) | D2 hands and objects | drafts/2026-08-28-wave7/ch25-candidate-C.md |
+| 2026-08-28 | drafting-assistant (campus ch26 blind, run A) | D3 short-declarative | drafts/2026-08-28-wave7/ch26-candidate-A.md |
+| 2026-08-28 | drafting-assistant (campus ch26 blind, run B) | D1 sound-forward | drafts/2026-08-28-wave7/ch26-candidate-B.md |
+| 2026-08-28 | drafting-assistant (campus ch26 blind, run C) | D4 minor-character competence | drafts/2026-08-28-wave7/ch26-candidate-C.md |
+| 2026-08-28 | drafting-assistant (campus ch27 blind, run A) | D7 open mid-motion | drafts/2026-08-28-wave7/ch27-candidate-A.md |
+| 2026-08-28 | drafting-assistant (campus ch27 blind, run B) | D5 weather as texture (deck wrapped, 2nd draw this wave) | drafts/2026-08-28-wave7/ch27-candidate-B.md |
+| 2026-08-28 | drafting-assistant (campus ch27 blind, run C) | D6 run past comfortable (deck wrapped, 2nd draw this wave) | drafts/2026-08-28-wave7/ch27-candidate-C.md |
+| 2026-08-28 | drafting-assistant (campus ch28 blind, run A) | D2 hands and objects (deck wrapped, 2nd draw this wave) | drafts/2026-08-28-wave7/ch28-candidate-A.md |
+| 2026-08-28 | drafting-assistant (campus ch28 blind, run B) | D3 short-declarative (deck wrapped, 2nd draw this wave) | drafts/2026-08-28-wave7/ch28-candidate-B.md |
+| 2026-08-28 | drafting-assistant (campus ch28 blind, run C) | D1 sound-forward (deck wrapped, 2nd draw this wave) | drafts/2026-08-28-wave7/ch28-candidate-C.md |
