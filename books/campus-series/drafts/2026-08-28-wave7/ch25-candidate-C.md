@@ -23,6 +23,20 @@ which settled the question of whether she was staying.
 
 "You either."
 
+Monday had run them both over in the same lane.
+The leak had hit the county at breakfast, cover pages
+shot off somebody's screen, cropped so Cal's typed
+signature block read as signed, and the dance photo
+from Saturday ran beside it, recut as proof of a fix.
+Her first real smile at him, captioned like evidence.
+
+"The jar had its best day ever yesterday," she said.
+"On the lie."
+
+"Money doesn't know," Cal said.
+
+"I know."
+
 She came to the bench.
 Across the shop the bottom drawer of his desk stood open,
 key still hanging in the lock, empty for the first time

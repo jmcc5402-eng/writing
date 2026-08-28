@@ -39,6 +39,13 @@ My architects tell me the expansion changes that sound.
 I told them to keep it."
 
 Cal put his hands on the rail and waited.
+The steel was cold through his palms
+and the tone ran along it faintly, right into the bone.
+
+"The trustees are here the first Tuesday of November,"
+Boyd said. "I would like to hand them a settled town.
+I think you would too, whatever you think of me,
+and I have quit guessing what you think of me."
 
 "I'll come to it," Boyd said. "You came without being chased,
 and I return that in kind. The new plaza, off this concourse.
@@ -112,7 +119,17 @@ The engineer asked two questions about the shoring
 and one about the load path, and Cal answered all three,
 and for a while the only sound between them was pages.
 
-"You shot these elevations at night," the man said.
+"These sill numbers," the man said once. "Yours?"
+
+"Measured twice," Cal said. "Two of us on the tape."
+
+"Who held the dumb end?"
+
+"Ronnie," Cal said, and from bay three Ronnie said,
+"I heard that," without turning around,
+and the man went back to the sheets.
+
+"You shot these elevations at night," he said.
 
 "Off ladders," Cal said. "Both gables."
 
@@ -202,6 +219,14 @@ It's in the truck. You can read every page of it tonight."
 "Then we watch from scaffolding with our names
 on the checks," DeShawn said.
 
+"You ever hang decking in January?" Travis said.
+"I left a glove frozen to a joist one year.
+Far as I know it's still waving at people."
+
+"House work's half inside by the new year," DeShawn said.
+"Look at the board. Roof's dried in by then or we're all
+in worse trouble than a glove."
+
 Travis nodded slowly, and then said, to nobody in particular,
 "My kitchen's one of the twelve."
 
@@ -217,7 +242,7 @@ and Ronnie let himself grin around the fork.
 Then Ronnie carried his beer over and stood at the board
 and read the right-hand column top to bottom,
 lips moving on the numbers.
-The room let him do it in quiet.
+Nobody hurried him.
 
 "March is far," Ronnie said.
 
@@ -255,6 +280,9 @@ and this was.
 The shop ran loud all day, ordinary Friday noise,
 impact and grinder and DeShawn's radio,
 Ratchet asleep in the warm spot by bay three.
+At noon Cal cleared the bench and inked the last two sheets,
+the pen scratch small under all that racket,
+and tubed them up for the man with the stamp.
 Boyd's paper stayed in its folder
 on the corner of the desk, where it had sat all week.
 The carillon came in faint through the open bays at five,

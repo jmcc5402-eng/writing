@@ -25,6 +25,10 @@ That was the crowd.
 Rex Boyd stood at the fifty with his hands in his coat pockets.
 He didn't wave Cal down. He waited,
 and let the empty place be as big as it was.
+Cal came down the steps and crossed the track.
+The grass was mowed sharp for nobody at all.
+He kept his own hands out of his pockets
+because Boyd's were in his.
 
 "Cal." Volume one, the same voice he'd use in a hallway.
 In that bowl a hallway voice carried like a paging system.
@@ -99,6 +103,8 @@ and set a socket on each corner.
 The man came off the fence and looked.
 
 He read for a long time. He didn't talk while he read.
+Cal offered him coffee once.
+He shook his head and turned a page.
 He had a flat carpenter's pencil above one ear,
 and he brought it down for the load pages,
 checked one figure twice, tapped it, and went on.
@@ -238,6 +244,15 @@ The right column is a contract. March is in writing."
 "Deck work in January is cold with Boyd watching,"
 said Peanut, who was not on the payroll of anybody present.
 
+"And if the vote goes wrong anyway?" DeShawn said.
+
+"Then it's a hard winter," Cal said,
+"and I'm the man who dealt it.
+I'm not going to chalk you a column that says otherwise."
+
+The room stayed quiet after that in a working way,
+the crew doing arithmetic with their arms crossed.
+
 Ronnie looked at the board a long time.
 The room let him.
 "Same trades," he said, mostly to himself.
@@ -251,7 +266,9 @@ and set it in front of Cal.
 
 "Eat," Marisol said.
 
-He ate it.
+He ate it, standing at the rail with chalk on his hand,
+and she stayed at his shoulder
+while the room came back up to noise around them.
 
 ---
 
@@ -260,6 +277,10 @@ Ronnie had a gearbox open in three.
 Travis and DeShawn had a dually on the lift,
 arguing over a bearing that turned out to be a brake.
 The phone rang about parts, and about a water pump.
+Nobody in the shop said the word Friday out loud.
+Travis watched the clock until lunch.
+After lunch he quit watching it,
+and the rest of the crew quit around the same time.
 
 In the break room the corkboard had a clean pale rectangle
 where the letter had hung, and two tack holes.
@@ -269,6 +290,9 @@ because an ordinary Friday was the only answer
 he meant to give.
 
 Nobody came from Boyd's office. No cart, no call.
+Marisol called at noon about Monday,
+and they talked about Monday,
+because Monday was the day with work in it.
 The counter-drawings stayed behind the truck seat.
 The drawer in the office stayed locked.
 
