@@ -32,6 +32,20 @@ and thought, we're ready.
 She thought it the second time through, too,
 which should have warned her.
 
+She loved the hall best like this, after hours.
+A year of their lives was out on that table
+where she could see all of it at once,
+and she could have put her hand on any piece of it
+in the dark.
+
+"Will they feed you tomorrow?" she said. "Trustees."
+
+"Boyd's coffee," Cal said. "Boyd's pastries, probably."
+
+"Then eat tonight," she said,
+and neither of them moved toward the sandwiches,
+and she let that go.
+
 "Stamp goes first," she said. "The engineer's,
 before one page with your name on it."
 
@@ -163,6 +177,11 @@ I drove a whole year sealed up silent,
 windows shut, no radio,
 and told myself that was calm.
 It was not calm. It was a woman keeping a lid on.
+I balanced other people's books all day
+and came home to a house that didn't need me in it,
+and the worst part is how quiet I got, to match.
+I stopped singing in the car, Cal.
+I didn't even notice for months.
 My first week alone I went out and bought a toolbox.
 Out of principle and spite."
 
@@ -180,6 +199,9 @@ Not love. Not happiness. Nothing that ambitious.
 I swore my Saturdays would belong to me.
 It was the only claim I staked out of the wreck,
 and you know what I went and did with it.
+I handed it to a tent with a bad leg and a whole town,
+and it turned out that was keeping the oath,
+not breaking it.
 So when I tell you I know what losing a built life costs,
 I'm not being brave at you.
 I've paid it once, at full price.
@@ -258,6 +280,13 @@ Anyone watching from the road
 would have seen nothing at all.
 
 She went down off the porch and up the walk alone.
+At the bottom of the walk the cold carried Delmar's smoke,
+hickory drifting up the hill on the night air,
+tomorrow's crowd already cooking
+for whatever town woke up out of this one.
+Somebody would eat all of it, every plate,
+win or lose, and she held on to that
+harder than she would ever tell anyone.
 Behind her the work lights went off one by one,
 the hall first, then the long table's,
 then the last one inside the side door,

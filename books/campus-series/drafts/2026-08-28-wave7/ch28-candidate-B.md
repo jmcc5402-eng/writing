@@ -142,8 +142,8 @@ She had run every room she had ever stood in.
 He knew what those three minutes were worth
 because he had watched her spend a season's worth of them
 on other people's parking and other people's kids
-and other people's houses,
-and she had never once handed a floor away.
+and other people's houses.
+She had never once handed a floor away.
 Now she stood beside the podium instead of leaving it,
 in the room she had offered to stay out of,
 and gave the floor to him.
@@ -162,7 +162,7 @@ The microphone was set for a shorter man.
 He bent it up and put the report down where the clipboard was.
 He hated rooms.
 He had hated them his whole life,
-because rooms wanted talk and he had hands.
+because rooms ran on talk and he had hands.
 But hating a room and losing one are two different things,
 and he did not plan to lose this one.
 
@@ -288,7 +288,7 @@ an ordinary smile, nothing in it for ceremony.
 The trust's woman was still on her feet in the third row
 with the pledge folder open against her arm,
 the crew had their folding chairs pulled into a circle,
-arguing scaffolding in November like men handed a winter,
+arguing scaffolding in November like a crew handed a winter,
 the casseroles were going down the rows uncovered at last,
 and Cal stood on a floor his own crew had tarped,
 beside Marisol Pruett,
