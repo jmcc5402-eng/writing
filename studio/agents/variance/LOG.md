@@ -261,3 +261,4 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-28 | drafting-assistant (campus ch28 blind, run A) | D2 hands and objects (deck wrapped, 2nd draw this wave) | drafts/2026-08-28-wave7/ch28-candidate-A.md |
 | 2026-08-28 | drafting-assistant (campus ch28 blind, run B) | D3 short-declarative (deck wrapped, 2nd draw this wave) | drafts/2026-08-28-wave7/ch28-candidate-B.md |
 | 2026-08-28 | drafting-assistant (campus ch28 blind, run C) | D1 sound-forward (deck wrapped, 2nd draw this wave) | drafts/2026-08-28-wave7/ch28-candidate-C.md |
+| 2026-08-28 | continuity-keeper (campus wave 7 cross-batch sweep, 12 candidates) | E4 transitions (LRU) | notes/ (filed by orchestrator) |
