@@ -195,6 +195,11 @@ you don't trim a thing that fits.
 
 "You measure," Marisol said. "Measuring is intent."
 
+"I've staged a lot of listings," Kat said,
+tapping the tight-cropped frame.
+"When a photo's cropped that hard,
+there's a water stain just out of frame. Every time."
+
 By seven, Ronnie down in bay three had his margin read
 of the crop circulating, warranty math done
 on a phone photo.
@@ -206,6 +211,10 @@ stamped Kudzu Media LLC, and by nine the county had
 caught up to the back page of its own gala program,
 where the same name had sat all fall in eight-point type.
 Digital engagement, Kudzu Media LLC.
+Kat still had her program in the junk drawer
+like everybody else.
+Aisha had a photo of the back page posted
+inside two minutes.
 
 "So who's paying Kudzu?" Kat asked.
 
@@ -227,6 +236,10 @@ that had said all of it first, two mayors ago.
 "Strangers don't share a typo," Marisol said.
 "A keyboard does."
 
+"Who does this all day?" Kat said.
+
+"Somebody on a payroll," Marisol said. "Volunteers sleep."
+
 The same folder cleared Tunk Ferrell in one breath.
 The loudest of the neighbors had posted straight through
 every Sunday service in town, a month running.
@@ -240,8 +253,9 @@ Last came the clock, which was Marisol's favorite part,
 because clocks don't editorialize.
 She pulled the reply times on the sock accounts
 and posted those too.
-Inside of four minutes, every answer, every hour,
-two in the afternoon and three in the morning alike.
+
+"Inside of four minutes," Aisha said. "Every reply
+I timed. Even the three-in-the-morning ones."
 
 "That's a schedule," Marisol said. "Not a neighborhood."
 
@@ -288,12 +302,23 @@ Two allies quit loudly, with paragraphs.
 Marisol left a heart under each announcement
 and went back to her plate.
 
+"Drawer's locked again," Cal texted at six.
+"Nothing in it."
+
+"My table, Thursday," she wrote back. "Bring the dog."
+Then she set the phone face down beside her plate
+and finished her supper while it buzzed.
+
 By Friday, Ashford had the whole week retold
 as a romance.
 The dance photo went around a third time, uncropped now,
 her first real smile at him right there in it
 for anybody to check.
 She heard three versions of herself by Friday night,
-every one of them softer than the original,
-and minded none of it.
+every one of them softer than the original.
+One had Cal writing the post himself.
+One had her weeping at the motor pool.
+Nobody in any version stayed up past one
+photographing watermarks with cold hands.
+She minded none of it.
 The romance part was true.

@@ -47,6 +47,8 @@ Boyd said. "I would like to hand them a settled town.
 I think you would too, whatever you think of me,
 and I have quit guessing what you think of me."
 
+Cal didn't answer that. He kept his hands where they were.
+
 "I'll come to it," Boyd said. "You came without being chased,
 and I return that in kind. The new plaza, off this concourse.
 There's a wall at the mouth of it, first thing a person sees
@@ -221,7 +223,7 @@ on the checks," DeShawn said.
 
 "You ever hang decking in January?" Travis said.
 "I left a glove frozen to a joist one year.
-Far as I know it's still waving at people."
+Got it back in April, with a pry bar."
 
 "House work's half inside by the new year," DeShawn said.
 "Look at the board. Roof's dried in by then or we're all
