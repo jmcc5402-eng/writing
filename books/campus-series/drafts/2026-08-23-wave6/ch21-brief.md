@@ -93,7 +93,7 @@ phone lit and cut the moment.
   (WDSS 1340 radio), Delores Fountain-Mabry, Tunk Ferrell.
   Crew names if needed: Ronnie (bay three), Travis, DeShawn.
 - Hartwell House on Millrow: the porch where Ashford has always
-  gotten engaged; the trustees come the first Tuesday of
+  gotten married; the trustees come the first Tuesday of
   November; the wiring is genuinely bad.
 - The stadium seats ninety thousand. Her narration calls the
   campus bell tower "the tower"; town voices say "clock tower."
