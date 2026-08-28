@@ -105,6 +105,15 @@ When it was done she put the pages in her bag,
 flat between two stiff folders
 so the corners wouldn't crush.
 
+"Six o'clock," she said. "The Checkerboard.
+Aisha's already building folders."
+
+"I'll be at the shop," Cal said. "Where they can find me."
+
+"Standing in the open."
+
+"Beats a drawer."
+
 The counter-drawings stayed behind the truck seat.
 Not tonight. Tonight belonged to the paper.
 
@@ -249,6 +258,10 @@ squaring her knife again.
 "Never missed one that I know of.
 Whoever that is, it ain't him."
 
+"Somebody should tell Tunk he's famous," Kat said.
+
+"He knows," Earlene said. "He's already insufferable."
+
 Last came the clock, which was Marisol's favorite part,
 because clocks don't editorialize.
 She pulled the reply times on the sock accounts
@@ -293,7 +306,7 @@ no note, no apology, the little shield sitting
 beside her name in Grapevine as if it had never
 been pried off.
 She looked at it for a while and left the group
-a one-word pinned post. Evening, loves.
+a two-word pinned post. Evening, loves.
 
 By supper the surge had deflated exactly as she'd
 priced it, the lie-money draining back out of the week,
