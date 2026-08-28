@@ -280,9 +280,9 @@ Anyone watching from the road
 would have seen nothing at all.
 
 She went down off the porch and up the walk alone.
-At the bottom of the walk the cold carried Delmar's smoke,
-hickory drifting up the hill on the night air,
-tomorrow's crowd already cooking
+At the bottom of the walk the night air had
+Delmar's smoke in it, hickory drifting up the hill,
+tomorrow's food already on the fire
 for whatever town woke up out of this one.
 Somebody would eat all of it, every plate,
 win or lose, and she held on to that
