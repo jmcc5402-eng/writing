@@ -389,3 +389,45 @@ Ruled, in four parts:
    dark night. Guards: no flashback, no marriage post-mortem, no
    backstory block; it lands as admission in her own voice, inside
    the scene the outline already stages.
+
+## D15 — The wave-7 gate ("go wave 7 with defaults", author, 2026-08-28)
+
+Four rulings, taken as recommended:
+
+1. **SR-22 — the engineer of record is the yard-fence engineer,
+   and he is nobody's man.** The ch 18 stranger who answered the
+   equal-standing question ("Cal never did learn whose man he
+   was") turns out to be exactly what he read as: independent.
+   He stands behind the counter-report's stamp; the reveal gets
+   an on-page beat in ch 26 (outline amended), and ch 28's podium
+   signature stands on work "a stamp will stand behind," as
+   planted. The payoff of the write-around IS the answer: he was
+   never Boyd's, never theirs — a man with a ladder.
+2. **Boyd never gets the last calendar.** Ch 28's closing image
+   belongs to the win (the trust standing from the third row, the
+   crew contracted, the couple); Boyd's demolition-survey
+   acceleration lands mid-scene, before the final beat, never as
+   it (outline amended; superfan halfway finding adopted).
+3. **The two-hyphen ban is CONFIRMED as law, no exceptions by
+   inertia.** The dash-pair-plus-continuation instances at
+   ch22:303–305 and ch19:310–312 (the T25 insert) are
+   repunctuated to commas, words untouched. This retires the
+   ch 17–20 pass's proposal 3 and the ch 21–24 pass's proposal 1.
+   Corollary register pick: **dialogue interruptions cut with an
+   UNSPACED em dash** before the closing quote (ch07/ch21
+   precedent; ch16:129 conformed) — narration dashes stay spaced.
+4. **The style backlog was delegated** ("not big, you choose") —
+   21 edits applied across ch 13–24 in one polish batch, each the
+   line-pass proposal as written (notes/line-pass-ch13-16, -ch17-20,
+   -ch21-24, §2 of each): the widow-line seam, the second
+   set-down, the gravel third, the doubled October, the ledger
+   overage, Ronnie's early naming, the pie-exchange reorder, the
+   quarter-sawn POV disambiguated to Marisol ("and now she was
+   going to have to live with that"), the involuntary-cap
+   restoration at ch 20, and the small dedups. SKIPPED with
+   reasons: ch20:288 "quit" echo (register feature); lowercase
+   "june bug" (deliberate folksy, recorded); ch22:366 "to nobody
+   and to everybody" (now unique, Earlene keeps it); the
+   ch20/ch21 "reached for it/one" rhyme (recorded as a deliberate
+   hinge, not a tic). Line references in THREADS for ch 13–24 may
+   drift by ±2 below the edit points; grep re-anchors.

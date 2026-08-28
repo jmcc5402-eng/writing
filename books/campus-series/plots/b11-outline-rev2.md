@@ -702,6 +702,14 @@ March. The crew argues it out and lands where payroll people land —
 on the math. The jobs-pledge letter comes off the corkboard. Friday
 passes. Nothing gets signed.
 
+*(D15/SR-22 amendment, 2026-08-28: ch 26 carries the STAMP beat —
+the yard-fence engineer turns out to be nobody's man: independent,
+and willing to put his stamp behind the counter-report's numbers.
+"Cal never did learn whose man he was" pays off as the answer
+itself. One beat, staged inside the chapter's existing machinery
+(the math on the bar board is what convinces a stamp to stand
+behind it); ch 28's podium signature inherits it.)*
+
 ### Ch 27 — What It Costs (Marisol)
 THE COUPLE'S DARKEST HOUR. The night before the trustees come to
 town, the House holds everything they built — drawings, ledger,
@@ -755,6 +763,12 @@ with the pledge folder to say restoration proceeds; the crew is
 contracted through March. Boyd thanks the board warmly, proceeds
 with his towers — and moves the demolition survey up the calendar
 before he is out of the room.
+
+*(D15 amendment, 2026-08-28: Boyd's survey acceleration lands
+MID-SCENE, before the final beat — the chapter's closing image
+belongs to the win: the trust on its feet, the crew contracted,
+the couple in the room the town filled. The villain looms; he
+does not get the last calendar of the House fight.)*
 
 ### Ch 29 — Asking for a Friend (Marisol)
 Scaffolding up, tarps on, and the clipboard retired under glass on

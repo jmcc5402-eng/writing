@@ -23,7 +23,12 @@ does, the book wins, and the override should be written down there.
 ## Prose defaults
 
 - American spelling, serial comma.
-- Em dashes unspaced — like this.
+- Em dashes unspaced — like this. *(Campus override, ratified by
+  use: narration dashes SPACED; the book's register wins per the
+  override rule above.)*
+- **Dialogue interruptions cut with an UNSPACED em dash** before
+  the closing quote (`she—"`) — ruled 2026-08-28 (D15.3);
+  precedent conformed.
 - Scene breaks are a centered `***` on its own line.
 - Numbers under one hundred spelled out in narration; numerals in dialogue only
   where a character would say them that way.
