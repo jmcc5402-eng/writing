@@ -246,3 +246,4 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-23 | romance-reader-panel (campus ch23 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ch23-panel-2026-08-23.md |
 | 2026-08-23 | continuity-keeper (campus wave 6 cross-batch sweep, 12 candidates) | E1 repetition hunt (LRU) | notes/wave6-canon-sweep-2026-08-23.md |
 | 2026-08-24 | orchestrator (campus ch21-24 acceptance fold, PR #97 merged clean) | — (mechanical transcription of ratified staging order + panels + sweep §IV) | THREADS + CHANGELOG blocks |
+| 2026-08-28 | line-copy-editor (campus ch21-24 post-ratify mechanical pass) | E6 weight-whats-missing (LRU) | manuscript in place (6 fixes) + notes/line-pass-ch21-24-2026-08-28.md |

@@ -51,7 +51,21 @@ list in the agent's invocation as "banned moves this run."
   book-wide, two in wave 5 alone (ch05:154, ch06:42, ch09:180,
   ch16:278, ch18:182, ch20:229). At current density it is a
   forming tic: wave-6+ drafters write surprised laughter fresh;
+  do not increase. **Wave 6 HONORED it — zero new uses; count
+  holds at six. Discharge after one more clean wave.**
+- WATCH (campus line pass, 2026-08-28): **"which was its own
+  [X]"** — seven book-wide and still climbing (ch03:278, ch03:382,
+  ch05:21, ch18:42, ch18:175, ch22:49 "its own weight", ch23:178
+  "its own headline"). The successor tic to the laugh scaffold:
+  it is the book's reflex for *naming what a gesture meant*.
+  Wave-7+ drafters name the meaning fresh or leave it unnamed;
   do not increase.
+- WATCH (campus line pass, 2026-08-28): **the time-bell as the
+  default scene transition** — six uses across wave 6 alone
+  (ch21:35, ch22:239, ch23:168, ch24:87/:101/:161), sixteen
+  book-wide. The tower and the carillon are canon and their
+  register rules stand; the concern is reflex, not existence. A
+  chapter may mark at most two scene changes by bell.
 
 ## junior-literary-critic
 

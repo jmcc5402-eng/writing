@@ -3,6 +3,65 @@
 Tracks edits to manuscripts and adopted drafts (house rule 6), so the
 author can see what changed and why. Newest first.
 
+## 2026-08-28 — Line & copy pass, ch 21–24 (line-copy-editor, card E6, post-ratify PR #97)
+
+- Card E6 (weight what's MISSING over what's wrong) honored:
+  absences reported as first-class findings, plus the first
+  CLOSENESS baseline reading. Full report:
+  notes/line-pass-ch21-24-2026-08-28.md.
+- **Six mechanical fixes applied.** The mandated header truth in
+  all four files ("pending author ratification" → "ACCEPTED by the
+  author 2026-08-24 (PR #97, merged with no comments)"), plus five
+  semantic-line-break repairs that had split a preposition from
+  its object (ch21:185–186, ch21:202–203, ch24:15–16, ch24:17–18,
+  ch24:190–191). **No words changed and no line counts shifted** —
+  every reference in THREADS.md and the wave-6 notes still
+  resolves. Three of the five sat in the block the staging order
+  rewrote for the banned-opener fix; lesson recorded: **rewritten
+  lines get re-wrapped, not just re-read.**
+- Sweeps clean across all four: tic sweep zero prose hits, zero
+  doubled words/whitespace/curly quotes/over-length lines, zero
+  [TK], zero eye color, every swoon-protection and protect-list
+  line verbatim.
+- **Scrub residue, all within ration:** banned words zero; all
+  four dealt ending registers delivered; ledger ch22 = 2 at cap,
+  ch24 = 0 (its closing arithmetic is literal and is the dealt
+  register — edge case recorded); personification 1/3/3/3;
+  **involuntary-body 1/1/1/1 — the first full wave at exactly
+  cap**; one gauge 0/1/1/0; the joke dies in all four. The
+  laugh-scaffold watch was HONORED — zero new uses.
+- **Nine stylistic proposals, none applied**, headed by one that
+  needs an author ruling: **ch22:302–305 is the banned
+  "— x, y — and…" dash form, at the wave's emotional peak, and
+  unlike last wave's instance it is NOT inside a protected block.**
+  Commas offered; a ruling here also settles the still-open ch19
+  T25-insert question. Also: graft 7's three-beat exchange landed
+  with eleven lines wedged into it (ch23:302–313, leaving :311
+  unattributed); a POV seam at the quarter-sawn graft
+  (ch23:82–87 — flagged as a question, nothing changed).
+- **CLOSENESS baseline (measurement only — these chapters predate
+  the D14 law, which never backpropagates): ≈5.0 tagged interior
+  moments per 1,000 words** (21: 4.7 · 22: 5.3 · 23: 5.5 · 24:
+  4.6) against ch 1–20's ~1.3, zero chapters at zero, 4/4 private
+  admissions present. **The wave clears the law it predates by
+  ~3.8× — the behavior is reachable from briefs alone.** It also
+  corrects the instrument: thinness is per-SCENE, not per-chapter
+  (ch 24 runs 2 of 5 scenes at zero; ch 21's 188-line middle
+  section carries 2, both in its first ten lines). METERS.md now
+  says **score the worst scene, not the mean.**
+- Four named absences for wave 7's briefs to learn from, led by
+  ch21:138–146 — "Whose name goes on this?" / "Mine." is the
+  wave's plot engine and is played entirely from outside her.
+- New watch items in RECENT.md: **"which was its own [X]"**
+  (7 book-wide, 2 new — the successor tic to the laugh scaffold)
+  and **the time-bell as default scene transition** (6 in wave 6
+  alone; cap two per chapter).
+- Pattern for wave 7 — seams moved from second-order to
+  **third-order: ordered grafts landing in the right file at the
+  wrong distance.** New staging rule for the wave-7 mechanics:
+  after every ordered graft, read the ten lines above and below as
+  one passage.
+
 ## 2026-08-24 — Chapters 21–24 ACCEPTED (author merge of PR #97); THREADS folded
 
 - Wave 6 adopted whole, **merged with no comments** — every SR

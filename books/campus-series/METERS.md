@@ -55,6 +55,18 @@ one-in-one-out rule resumes after it.)*
    three chapters at zero — that is the baseline this meter was
    created to raise. Counting is evidence for the score, never the
    score itself.
+   **First reading, ch 21–24** (line pass 2026-08-28, card E6;
+   these chapters were drafted BEFORE the law existed): **≈5.0 per
+   thousand** — 21: 4.7 · 22: 5.3 · 23: 5.5 · 24: 4.6 — zero
+   chapters at zero, and all four private admissions present. The
+   wave clears the law it predates by roughly 3.8×, which tells us
+   the behavior is reachable from briefs alone. **And it corrects
+   the instrument: the thinness is per-SCENE, not per-chapter.**
+   Ch 24 runs two of five scenes at zero reaction beats and ch 21's
+   188-line middle section carries two, both in its first ten
+   lines, while both chapters' averages look healthy. **Score the
+   worst scene, not the mean** — a chapter with one aria and four
+   watched scenes is a 4, whatever its per-thousand count says.
 
 ## Book 1 target curves (the author's shape, PR #59 comment)
 
