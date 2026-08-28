@@ -264,3 +264,5 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-28 | continuity-keeper (campus wave 7 cross-batch sweep, 12 candidates) | E4 transitions (LRU) | notes/ (filed by orchestrator) |
 | 2026-08-28 | romance-reader-panel (campus ch26 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ch26-panel-2026-08-28.md |
 | 2026-08-28 | romance-reader-panel (campus ch25 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ch25-panel-2026-08-28.md |
+| 2026-08-28 | romance-reader-panel (campus ch27 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ch27-panel-2026-08-28.md |
+| 2026-08-28 | romance-reader-panel (campus ch28 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ch28-panel-2026-08-28.md |
