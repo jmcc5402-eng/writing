@@ -3,6 +3,64 @@
 Tracks edits to manuscripts and adopted drafts (house rule 6), so the
 author can see what changed and why. Newest first.
 
+## 2026-08-24 — Chapters 21–24 ACCEPTED (author merge of PR #97); THREADS folded
+
+- Wave 6 adopted whole, **merged with no comments** — every SR
+  ruling and PR flag ratified as staged: `manuscript/ch21.md`
+  "Under the Home Stands" (ch21-B, card D3), `ch22.md` "The Porch
+  Holds" (ch22-B, D7), `ch23.md` "Millrow, After" (ch23-B, D2),
+  `ch24.md` "As If It Were the Verdict" (ch24-B, D4). **Candidate
+  B won all four blind fields** — four independent panels; the
+  letter coincidence was noted and checked.
+- **D13 DELIVERED — M1 fires at the ch 22 ask and the withhold
+  closes** ("It crossed the lights and the twenty feet and
+  arrived, / all the way, his… His breath took a knee.",
+  ch22:309–316). Only the ch 30 echo remains owed.
+- Flags ratified by the clean merge: **SR-21** (Verna ANNEXES the
+  Checkerboard counter by Sunday custom — not staff; the Phams
+  own the diner); the son's text artifact locks verbatim; the
+  dance-photo furniture locks as ch 22 stages it (hair down —
+  ch 24/25 inherit the picture); the ch 22 door imaged once;
+  SR-14/15/16/17/18/19/20 all honored by the field.
+- Fold recorded in THREADS.md: **T32 PAID 21** (the 1 a.m. text
+  was her son, asking about parking) · **T26/D08 beat 4 SPENT 21**
+  (the nine-bucket mum buyout; the peach man retired, `[TK]`
+  closed) · **T34 born 21** (the pledge jar — porch-and-jar,
+  rewiring first, her name on it) · **P3 paid / P16 planted 21** ·
+  **T06/M1 PAID 22** · **the D09 open-door plant SPENT 22** ·
+  **T27 ENDS 22 by Cal's choice** — briefs from ch 25 carry the
+  new weather: public couple, secret work · **T24 PAID 23** (the
+  whole buttermilk pie, before the Liars' Table; the bet's terms
+  stay unstated by ruling) · **T21's full door-smile PAID 23**
+  (SR-18; third and last banked for 28/30) · **HEAT 2 at 21 and
+  HEAT 3 at 23**, both standard-9 exact · **T28 priced out loud
+  24** ("Twelve winters, one word"; Friday four days off).
+- **The leak artifact recorded exactly** (ch 25's forensics stand
+  on it): photographed off a screen, glare bar, watermark washed
+  to a copier smudge on frames 1–3, the last frame cropped so the
+  gray falls outside at both ends leaving OFFICE OF THE
+  FACILITIES DIRECTOR / C. SUTTER typed beneath the rule —
+  distinct from ch 15's picture-of-a-picture, both surviving.
+  Ronnie's margin forensics plant for ch 25 recorded with it.
+- Cross-batch sweep caught what no single-chapter panel could:
+  **all three ch 24 drafters independently inflated the brief's
+  staging rule ("he never enters the bar") into a lifetime claim,
+  contradicting ch 11** — fixed to cite that night instead; the
+  ch 21 brief's own fact sheet said couples got *engaged* on the
+  porch when canon puts proposals on the third step INSIDE (fixed
+  on the page and in the brief file); and A/C's leak block was
+  conformed to the canon C. SUTTER wording before staging.
+- New canon by acceptance: Verna raised three; the grandmother's
+  porch-swing pledge with its check-box; Ray's float megaphone;
+  Peanut's dead-circuit repair and Christmas-load lore; the gate
+  latch's trick; quarter-sawn oak as porch lore; Verna's Sunday
+  annexation of the Checkerboard counter; the WINTER tape; Boyd's
+  "I don't move a date on a man twice; it's rude"; the plow
+  frames and first-snow list; the first hard-frost Monday.
+- Lint: dialogue 22.5 / 15.2 / 26.6 / 17.8; zero dangling
+  colon/dash paragraph ends; zero banned strings; double-dash
+  sentences 0/1/1/0; dedup grep clean against ch 1–20.
+
 ## 2026-08-23 — D14: the CLOSENESS law and meter (author waiver)
 
 - Author ruling on interiority: "I don't think it needs to be ten

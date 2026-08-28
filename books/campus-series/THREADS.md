@@ -945,3 +945,236 @@ promise.** Proposes **T11** (Boyd never raises his voice).
   season of work → wave 6 (T31) · the leaned-or-both almost — the
   couple's next room owes the interruption a debt · the ledger now
   carries two live hands; the next entry is anybody's.
+
+### Ch 21 — Under the Home Stands *(ACCEPTED 2026-08-24, PR #97; winner B, card D3)*
+
+- **Introduces:** **T34 the pledge jar** (index row — the drive
+  born on the tailgate, rewiring first, her name on it) · **P3
+  instance 21 PAID** — Sonny's stamped page, the office that
+  issued it written around and never named, the stamp "applied
+  hard enough / to dent the paper" (:105–106), and his own read on
+  it: "I know what it says. I don't know what you do with it. /
+  Never figured that part." (:112–113) · **P16 PLANTED** — the
+  flicker: CONDEMNATION — FINAL at the top of the town feed,
+  gone on the next look, "Not buried. Gone." (:209–213); nobody
+  on Millrow says a word about it all day, and the thread ends
+  inside its aftertaste (:216–219, :329–331) — **no investigation
+  staged, no "rehearsal" framing; ch 24 is where the reader
+  learns what it was** · **Verna raised three** (:58) — first
+  children attributed to her; census gains it · Ray on the
+  Delmar's float in a paper hat, "They asked me to smoke the
+  competition" (:83–85) · Tick calling the parade like a horse
+  race, "three lengths between the band and the tractor"
+  (:87–89) · the grandmother's porch-swing pledge with its
+  check-box (:153–155) · gate nine and the service-gate access
+  (:235–239, :314).
+- **Carries:** **T32 PAID** (index row) · **T26/D08 beat 4 SPENT**
+  + SR-16's peach-man retirement (index row) · T04 — she posts
+  "to the group she no longer ran, / under her own name"
+  (:157–162) · T27 at maximum strain (index row) · T02 — the gate
+  held wordlessly for her, exactly as ch 12 (:235–239) · Cal
+  appeal, the wave's best: twenty years of Saturdays, "Every weld
+  from that gate to the tunnel / has my name on the work order"
+  (:257–259), "It'd scare me if I hadn't met the bolts" (:267),
+  and her savoring it — "Not one of the ninety thousand up there
+  knew / whose hand had been on every bolt over their heads. /
+  She knew. She was having a wonderful time knowing it."
+  (:279–281) · her rootability beat (the ice run nobody else
+  volunteered for, :227–231) · **the joke dies** — Sonny's "The
+  feed store don't count" (:110).
+- **Pays:** **HEAT 2, the near-miss** — the stripe of sun, "She
+  stepped across it. He stepped too." (:289–290), "She took a
+  fist of his sleeve. She watched herself take it. / The ice sat
+  melting on the concrete where he'd set it down." (:293–294),
+  broken by Ronnie's voice down the run (:296–299) and undone
+  exactly: "The stripe of sun lay on the concrete between them
+  again, / exactly where it had been all along." (:302–303).
+  Clothed, garment-free, interrupted — standard 9 honored.
+- **Hands forward:** the jar and its November clock (T34) → ch
+  27–28's folder · P16 → ch 24's leak (the reader's superior
+  position) · the agreement's cost, weighed and named
+  (:311–317) → ch 22 retires it.
+
+### Ch 22 — The Porch Holds *(ACCEPTED 2026-08-24, PR #97; winner B, card D7)*
+
+- **Introduces:** **the D09 banked plant SPENT — the House's front
+  door open after dark, the one night**: "the front door of
+  Hartwell House / stood open to the dark for the first time all
+  season, / the hall lit gold behind it" (:19–23) and the town's
+  answer, "Nobody said one word about the door. / Everybody came
+  up the walk a little slower because of it." (:25–26). **Record:
+  the plant is spent — it may not be respent; the door returns to
+  D09's rule after tonight.** · the moat as furniture — "The moat
+  was polite. It moved when he moved. / It offered him a lawn
+  chair nobody sat in" (:38–39) · Earlene's defense, the wave's
+  warmest chorus line: "Guilty stays home… I've come to this
+  dance my whole life, / and guilty never once showed up. You're
+  here." (:123–125) · **Peanut's dead-circuit repair** — two
+  strings on one plug, split across two, taped flat, "The Mule
+  runs twice this footage every December" / "Where'd you learn
+  load?" / "Christmas" (:163–188) — the one beat where the town
+  is competent at Cal's own job, and he lets it happen · Delores
+  as the night's photographer ("Squeeze in. Act like you like
+  each other." / "We do," said Tunk. / "Camera can't tell,"
+  :80–84) · the unnamed dread, "the cold that comes off a window
+  glass before you touch it" (:97–99).
+- **Carries:** **M1 FIRED — the withhold closed** (index row) ·
+  **T27 retired by choice** (index row) · **P13's dance beat +
+  T03 carried, NOT paid** — Verna on the third step, hand on the
+  rail, "not going up, not coming down… A century of Ashford men
+  had gone to one knee on that step. / Verna stood on it a long
+  time and said nothing about anything. / Cal looked away first.
+  / Some kinds of standing are load-bearing, / and it's rude to
+  watch." (:68–74), and she comes down off it only when the porch
+  has its couple (:376–377) · T28's one felt line (:190–192) ·
+  T09 Ratchet under the cake table "where nobody was enforcing
+  anything" (:88–89) · Cal appeal — the good jacket that "still
+  fit through the shoulders, / though it had been a long while /
+  since he'd had a reason to find that out" (:55–58) · the two
+  keys ticking on his chest "faint as a watch" (:59–62), and her
+  palm finding them through the wool for the rest of the song
+  (:361–363) · carillon in his register at ten (:239) · **the
+  joke dies** — Odell's "Big crowd" (:141).
+- **Pays:** the ch 13 seat-callback grown into the couple's own —
+  "if it isn't spoken for." / "It isn't spoken for," she said.
+  "It's held." / "For whoever crossed first." (:284–294; cf.
+  ch13:246–248 — **record as the couple's motif, second use**) ·
+  the town's photographs taken warmly, without dread language
+  (:320–327) — ch 24 inherits the picture · the dealt button:
+  "the boards gave and held, / gave and held… The porch held."
+  (:379–385).
+- **Hands forward:** **the dance photograph** → ch 24's recut and
+  ch 25's forensics — **furniture locks as staged: her hair down
+  (:223), the good dress, phones along the rail, Aisha up on a
+  chair** · the public couple → ch 23's Sunday · Boyd's Friday,
+  still unspent.
+
+### Ch 23 — Millrow, After *(ACCEPTED 2026-08-24, PR #97; winner B, card D2)*
+
+- **Introduces:** **the quarter-sawn oak declaration — porch lore,
+  canon:** "You cut the log across the grain, / takes twice the
+  wood and twice the labor, / and the board runs true for a
+  hundred years. / Won't cup. Won't twist." (:63–66), answered
+  with "Cal Sutter, I have never heard anything more romantic in
+  my whole life." (:79–80) and priced from his side: "He had said
+  quarter-sawn oak to a divorced woman in the dark, / and it had
+  worked all the way down, / and she was going to have to live
+  with that." (:85–87) · her gate's latch trick, "lift and then
+  thumb" (:106–107) — permanent object · **SR-21 on the page:
+  Verna has annexed the Checkerboard counter for the church rush,
+  "the way she had every Sunday for years, / the Phams long past
+  arguing, / and the price of pie was whatever Verna said it
+  was" (:173–176)** — census texture, NOT employment · Earlene
+  seated at the Liars' Table as "its only seated woman, /
+  sitting wherever she pleased" (:171–172) · the county's three
+  guesses — the strength coach ("Several are just fanning
+  themselves"), the country singer with a discography faction,
+  and the bronze medal, "The tall one from facilities… Asking
+  for a friend." (:213–265) · the warrant played as comedy:
+  shouted down by people who say "that's just part of the
+  singer's outlaw brand" (:225–229) · Kat's pre-pay text, one
+  line, margaritas owed, turned face down — "Later." (:253–256).
+- **Carries:** **T24 PAID** (index row) · **SR-18 — the full door
+  smile SPENT** (index row) · **HEAT 3 — the gate kiss and the
+  cut**: the cap off in both hands "like a man in a movie made
+  before either of them was born" (:110–113), "She was laughing
+  before his forehead ever touched hers" (:129), explicitly NOT a
+  first — "They had done this before, / in a lit shop at
+  midnight, weeks ago… This was the same kiss with the lights on
+  it." (:132–135) — the held quiet with the truck getting its
+  look (:137–142), and the cut exact at the first garment: "His
+  one good jacket slipped from her shoulders / and landed on the
+  hall floor." (:153–154), section break, Sunday plays PG ·
+  **the June page carried as the chapter's one cold pixel** — two
+  mugs, "which was not the usual number," and "the kitchen
+  calendar / hung the same as always, the one date in June
+  circled" (:160–164), uncommented · her rootability beat as a
+  couple deed (the cups collected down a fence line, Cal lifting
+  the can lid unasked, "and neither of them said anything about
+  that either," :99–102) · **the joke dies** — Peanut's "I had
+  him for the singer," to his eggs (:293).
+- **Pays:** the going-public weather in full — "They came in
+  together, which was its own headline" (:178) and the walk-out
+  past every grinning face (:361–369); the Table's turn "which
+  under Ashford law amounted to a press release" (:290–291).
+- **Hands forward:** the dance photo now loose in the county →
+  ch 24 · Kat unanswered → ch 25's fourth chair · the June date
+  → P18/ch 29 · the dealt flat landing: "He put his cap back on
+  with one hand. / His other hand stayed at her back." (:372–373).
+
+### Ch 24 — As If It Were the Verdict *(ACCEPTED 2026-08-24, PR #97; winner B, card D4)*
+
+- **Introduces — THE LEAK ARTIFACT, recorded exactly (ch 25's
+  forensics stand on this):** the cover sheet and two summary
+  pages photographed **off a screen**, "slightly off square, a bar
+  of glare across the top third" (:32–33); on frames 1–3 the
+  corner-to-corner DRAFT — UNSIGNED gray "had washed out / to a
+  faint diagonal shadow, / the kind of smudge a copier leaves"
+  (:38–41); the last image "shot close and framed tight, / tight
+  enough that the corner-to-corner gray / fell outside the
+  picture at both ends," leaving in frame **OFFICE OF THE
+  FACILITIES DIRECTOR, / C. SUTTER, typed beneath the rule**
+  (:42–48) — canon block wording, matching ch14:76–79 and
+  ch15:236–239 — and the mechanism: "At phone size… a typed name
+  under a line reads as a name signed on a line. / Whoever cut
+  that picture had measured for it." (:49–51). **Distinct from
+  ch 15's picture-of-a-picture; both artifacts survive.** ·
+  **Ronnie's crop forensics — a live plant for ch 25:** the
+  margin read ("Inch and change of margin, top and both sides. /
+  Bottom's got none. Zero… It's cut, Cal. Cut clean, just under
+  the block."), sourced to his own trade — "I shoot pictures of
+  failed parts for warranty claims / every week of my life. / You
+  crop out the part number, / the claim reads however you need it
+  to read." (:53–66) · the WINTER tape — his second unplugs the
+  shop phone, cages it, and lays a strip of masking tape across
+  the cradle with one grease-pencil word; "Nobody had asked her
+  to. Nobody mentioned it either." (:81–85) · **Verna's basket
+  doctrine** (:190–229): the basket turned over and stood on,
+  "Don't get up… I've seen the bathrooms," the pantry alibi ("I
+  have known Cal Sutter since he alphabetized the church pantry,
+  A on the left as you walk in"), the argument — "**you don't
+  trim a thing that fits**" — "Lies don't hold up a porch," the
+  ankle, and the exit, "Somebody roll my basket out to the curb
+  when you close"; she builds "nowhere for an answer to land"
+  and never once looks at the dark where Cal stands · Boyd's
+  best canon line: "I don't move a date on a man twice; it's
+  rude" (:274) · the plow frames and the first-snow list
+  (:19–22); the first hard-frost morning (:15–16) — **Monday's
+  weather; ch 25 inherits it**.
+- **Carries:** **T28 priced out loud** (index row) · T34's turn —
+  the jar's best day funded by the lie (index row) · **T19/T20
+  aftermath — the recut**: the dance photo run beside the crop,
+  "her head tipped back, the smile all the way up her face, /
+  aimed at him with the town watching. / The first one she had
+  ever given him, / and she had chosen to spend it in public"
+  (:111–114), captioned as strategy — "They had taken the truest
+  thing she had ever handed him / and captioned it as strategy"
+  (:129–131). **The sock operator, Kudzu, and the wire stay
+  dark** — no posts quoted, no account names ✓ · T11 confirmed
+  again (volume one, "a volume that made a man lean in to be
+  threatened," :252–253) · T09 Ratchet as barometer (:245) ·
+  T31's tube cases (index row) · **zero leads-doubt, on the
+  page** — "There was nothing in him that doubted her / and
+  nothing in her that doubted him" (:138–139) · the Mule
+  threshold honored and reconciled to ch 11: "Cal had not been
+  through that door / since the night it ran out of glasses, /
+  and he did not go through it now." (:166–168) · **the joke
+  dies** — Travis's "County schools got Wednesday off, I heard."
+  (:93).
+- **Pays:** the bell — "he heard the carillon strike five over
+  the campus roofs, / and under the last note of it, Peanut
+  Kyzer's bell" (:161–162); the round bought for the jobs, "said
+  warm, said grateful, said wrong… / Inside they were toasting a
+  man who existed / only in a cropped photograph. / The man had
+  his name." (:180–188) · **the one terms-legal exchange** —
+  "Jar's best day since it was born. I hate why. / I know what
+  your drawer holds and what it doesn't. / Eat something." /
+  "Ate standing up. Drawings are safe. So is Saturday." /
+  "Neither text had a question anywhere in it." (:309–317) · the
+  dealt plain-arithmetic ending (:320–330).
+- **Hands forward:** Friday, four days off (T28) → ch 26's dead
+  deadline · the crop + Ronnie's forensics → **ch 25's receipts**
+  · the recut photo → what the truth has to outrun · the jar's
+  tainted best day → the ch 27 offers · Verna's public defense →
+  the town's split, first evidence that not all of Ashford buys
+  it.
