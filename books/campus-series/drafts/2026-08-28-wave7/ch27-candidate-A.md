@@ -154,6 +154,10 @@ offering it level, priced out, like a number
 he had checked twice before saying.
 It was the finest thing anybody had ever offered her.
 She made herself hold still under it.
+She would have liked, just once,
+for the brave thing and the wanted thing
+to be the same thing. Not tonight.
+So she matched him.
 
 "Or I disappear," she said. "Same trade, other side.
 My name comes off the pledge page tonight.
@@ -240,6 +244,10 @@ The part we're both sitting on."
 He built it so the truth serves him either way.
 That's tomorrow's arithmetic. Tonight we just carry it."
 
+Somewhere below the hill a truck downshifted
+on the county road, ordinary as anything,
+carrying somebody home late who had no idea.
+
 She put her coat on at the porch door.
 Neither of them crossed the hall to close the distance.
 Tonight the distance was the honest thing,
@@ -263,7 +271,7 @@ the closest either of them had come to supper.
 At the corner, the Checkerboard's sign buzzed
 its stubborn OPEN at an empty street.
 The town was keeping its lamps lit around them,
-the whole ordinary Monday of it going on in the dark,
+its whole ordinary Monday going on in the dark,
 and she stood in her coat and let herself be glad of it
 for exactly as long as she could afford.
 

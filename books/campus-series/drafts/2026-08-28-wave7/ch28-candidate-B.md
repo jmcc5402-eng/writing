@@ -24,6 +24,13 @@ there were casseroles under foil and two dozen thermoses,
 because this was a civic meeting
 and the town had catered it like a church supper.
 
+Ray held the door for Delores and then for everybody after her,
+because letting go of a door in that wind was a decision.
+Birdie and Eli came in together.
+Aisha had the overflow steps organized by her second trip up.
+Sonny and Kat took the bleacher end with a thermos between them.
+The whole town had come indoors.
+
 The Liars' Table arrived in Sunday clothes and sat together,
 a thing Cal had never once seen them do indoors.
 Tick had a microphone rigged at the scorer's table
@@ -64,9 +71,13 @@ He noticed she kept her gloves on,
 and he noticed that he noticed.
 
 Up in the transom the carillon came through faint, on the hour.
-The board's chair gaveled the session open and read the item.
+The board's chair gaveled the session open
+and read the item into the record.
 The gift, as written. Full footprint or none.
-The survey, presented as due diligence.
+The survey went down the board table in gray folders,
+presented as due diligence,
+and the word condemnation got said once, softly,
+and took the heat out of the room anyway.
 
 Rex Boyd stood at volume one,
 which was the volume Cal had learned to watch.
@@ -79,6 +90,8 @@ Due diligence, done and paid for.
 Nobody enjoys what it says about the House.
 The responsible choice, regrettably, takes Millrow."
 
+It was gracious, and it was almost generous,
+and that was what made it work on a room.
 He sat down to a room that didn't clap and didn't need to.
 The packets rustled down the rows.
 The county knew by now the leaked page had been cropped.
@@ -116,10 +129,14 @@ Then it was her turn.
 "Marisol Pruett," she said. "Bookkeeper. Three minutes."
 She set the clipboard on the podium,
 seven thousand names thick,
+where the board could see the weight of it,
 and didn't spend a single word on it.
 "I yield my time to the director of facilities."
 
 His heart stood up before he did.
+
+Heads turned down the rows to find him.
+Tick let the air go dead and didn't fill it.
 
 She had run every room she had ever stood in.
 He knew what those three minutes were worth
@@ -143,6 +160,11 @@ The walk to the podium was eleven steps.
 He counted every one of them.
 The microphone was set for a shorter man.
 He bent it up and put the report down where the clipboard was.
+He hated rooms.
+He had hated them his whole life,
+because rooms wanted talk and he had hands.
+But hating a room and losing one are two different things,
+and he did not plan to lose this one.
 
 "Cal Sutter," he said. "Facilities."
 The room went quiet in a working kind of quiet.

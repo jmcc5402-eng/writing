@@ -100,6 +100,16 @@ lay down across both their feet, and sighed.
 "I know it," she said,
 and heard whose words she'd borrowed, and kept them.
 
+"The jar had its best day ever yesterday," she said.
+"On the lie. Every dollar of it."
+
+"Price it out."
+
+"Already did," she said. "To the dollar."
+
+"Course you did," he said,
+and the shop went quiet again, the good kind.
+
 She learned his hands in that light.
 Brown at the wrist, nicked at two knuckles,
 flat on the bench and still.
@@ -225,6 +235,10 @@ to a copier smudge you could talk yourself past.
 On the last frame the crop came in so tight
 the gray fell outside it at both ends.
 
+"Who taught them to crop?" Kat said.
+"There's a glare bar. I've pulled listings
+for better photography than this."
+
 "You don't trim a thing that fits."
 Verna had said it by eight,
 and by nine the county was saying it with her.
@@ -245,6 +259,10 @@ its own program.
 Who wrote Kudzu its checks, the file did not say,
 and Marisol did not say either.
 The county could count its own dots.
+She had been waiting weeks on the county
+to turn that page.
+It came with no drums at all, just neighbors reading,
+which suited her fine.
 
 "Thirty-one," Aisha said, dealing the last screenshot.
 "Thirty-one of the loudest accounts,
@@ -266,9 +284,16 @@ in its own hundred-year-old handwriting.
 The loudest 'neighbors' posted straight through
 every service he ever worked."
 
+At the Liars' Table, Tunk Ferrell took his acquittal
+without looking up from his hash browns.
+Peanut shook his hand anyway, formally,
+like a parole board.
+
 Tick raised his mug. "Never trusted a phone," he said.
 
-Birdie's pot came around again.
+Birdie's pot came around again,
+trailed by toast nobody had ordered.
+"Eat," Birdie said. "Wars run on toast."
 
 "Now watch the clock on them," Marisol said,
 and turned her own phone to face the table.
@@ -295,6 +320,10 @@ That one wasn't evidence. That one was hers.
 
 "Posted," said Marisol.
 
+Kat took her glasses off.
+Aisha put her head back against the booth
+and closed her eyes, the night shift catching up.
+
 It went up at ten past ten, artifacts in order,
 her name at the top.
 She read it through once more and allowed herself
@@ -318,6 +347,10 @@ Two allies quit loudly, long posts,
 doors shut where the whole county could hear them
 [TK: which two — never named].
 Nobody went after them.
+
+Cal called at suppertime.
+She took it out on the porch, and for ten minutes
+neither of them mentioned the county at all.
 
 By Friday, Ashford had retold the whole week as a romance.
 In the versions that reached her,
