@@ -456,3 +456,13 @@ kiss on the square (ch 25's plant — the town invented it; the
 book now owes it); Boyd beaten ON the page by the end (the
 tabling is not the defeat); the cold mug → hot mug echo; the
 plaque-refused → slide-in-his-hand echo (unnamed on the page).
+
+## D17 — 2026-08-28 (author: "Go wave 8")
+
+Wave 8 GO with the directive's defaults ratified: (1) the square
+kiss dealt to ch 29, public, county watching; (2) the third
+door-smile + M1's for-him-alone echo dealt to ch 30's step;
+(3) Boyd's defeat as a ch 29 print artifact, the villain
+offstage in the finale; (4) the word said at the step, both
+directions, on the page; (5) the A10 blurb graduates to
+back-cover draft material after acceptance (market-pitch-agent).

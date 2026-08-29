@@ -1,6 +1,6 @@
 # Wave 8 Drafting Directive — Chapters 29–30 (the finale)
 
-**STATUS: GATED — awaiting the author's GO.** Compiled at the
+**STATUS: GO (author, 2026-08-28, "Go wave 8" — D17; defaults ratified).** Compiled at the
 PR #98 merge (wave 7 accepted; ch 1–28 folded). Sources: outline
 rev 2.3 (ch 29 "Asking for a Friend" / ch 30 "Seven Saturdays");
 THREADS folded through ch 28; DECISIONS D01–D16 (D16's named
