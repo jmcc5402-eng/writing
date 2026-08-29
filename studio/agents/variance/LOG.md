@@ -281,3 +281,5 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-28 | drafting-assistant (campus ch30 blind draft, candidate A) | D6 run a beat past comfortable (LRU) | drafts/2026-08-28-wave8/ch30-candidate-A.md |
 | 2026-08-28 | drafting-assistant (campus ch30 blind draft, candidate B) | D2 hands and objects (LRU) | drafts/2026-08-28-wave8/ch30-candidate-B.md |
 | 2026-08-28 | drafting-assistant (campus ch30 blind draft, candidate C) | D3 short-declarative (LRU) | drafts/2026-08-28-wave8/ch30-candidate-C.md |
+| 2026-08-28 | romance-reader-panel (campus ch29 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ch29-panel-2026-08-28.md |
+| 2026-08-28 | romance-reader-panel (campus ch30 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ch30-panel-2026-08-28.md |
