@@ -5,35 +5,75 @@ next action). This file is the thread-handoff summary: a fresh
 session reads this FIRST, then the docs it points to. Update it at
 every wave boundary and whenever a thread parks mid-pipeline.**
 
-## PICK UP HERE (updated post-merge, 2026-08-28)
+## PICK UP HERE (parked mid-wave-8, 2026-08-28 — read this whole block)
 
-**Wave 7 is ACCEPTED — PR #98 merged with no comments.** Ch 25–28
-headers flipped; THREADS folded (T33 PAID, T28/T30/T31/T17
-CLOSED, T13's debt paid, D12 surfaced, Kat debuted); D16 + the
-ledger-register amendment (D16.1) recorded in DECISIONS.md and
-STYLE.md; CHANGELOG entry written. **The book stands at ch 1–28
-accepted (~55,000 words). Two chapters remain.**
+**The book stands at ch 1–28 accepted (~55,000 words). Wave 8
+(ch 29–30, the finale) is GO (D17) and is mid-conveyor:**
 
-Now in flight / next:
+DONE and committed: directive (plots/wave8-directive.md, card
+A10); both briefs (drafts/2026-08-28-wave8/); all SIX blind
+candidates drafted, linted clean, committed; BOTH panel verdicts
+filed — **ch 29: B wins (B>C>A)** notes/ch29-panel-2026-08-28.md;
+**ch 30: B wins (B>A>C)** notes/ch30-panel-2026-08-28.md.
 
-1. **Line pass on ch 25–28** — line-copy-editor, card **E5**
-   (E3 was spent on the 08-28 dev read). Includes the found
-   ch 23 bug ("She had walked it her whole life" vs newcomer
-   canon — reword to survive her ~2.5 years).
-2. **Wave 8 = the finale, ch 29–30.** Directive card **A10**
-   (blurb-backwards, first draw ever). Named debts from the
-   merged reads (D16): the kiss on the square, Boyd beaten on
-   the page, cold mug → hot mug, plaque → the twentieth slide.
-   Banked inventory: M1's for-him-alone echo on the third step,
-   the third door-smile, P18 (the June listing — sign EARLY, by
-   choice), the guest book retired under glass (P12), T26 beat 5
-   (Birdie×Eli), T03's third step, the pledge-jar citations.
-   Brief glosses owed: Ratchet FEMALE stated wherever she
-   appears; "twelve winters" = twelve names × ONE winter;
-   Kat's zipped bag opens (ch 29); the margarita-story ending
-   (banked) wants its Friday slot.
-3. After wave 8: the full-book polish list (STATE's POLISH-PASS
-   section) before 1.1 is called shipped.
+**IN FLIGHT at park time: the cross-batch canon sweep**
+(continuity-keeper, card E1, LOG'd). It was still running when
+this session parked. Its transcript writes to
+`/tmp/claude-0/-home-user-writing/79038bff-49cc-5b49-9e43-c9adc5b9fcda/tasks/a66a6eadd42c1adce.output`
+— IF that container is gone, RELAUNCH the sweep from the prompt
+pattern in notes/wave7-canon-sweep-2026-08-28.md (card E1 —
+sentence-template hunt first; 12 high-risk checks listed in this
+session's launch: slide count 19+1, pen continuity, guest book
+under glass, mug echo, third-step fence on ch 29, Boyd
+print-only, Ratchet female, wife/memorial zero, June mechanics
+signed-EARLY, day chain Wed–Fri/Sat Wk14, "held them both"
+convergence, smile ceremony budget). Extract via the JSONL
+longest-text python pattern → notes/wave8-canon-sweep-2026-08-28.md.
+
+**Showrunner rulings already made (record as SR-37+ in the
+staging order; all strikeable):**
+- ch 29: TAKE C's dead-battery drawer for the June page
+  (replaces B's kept-page 269–273 — mutually exclusive; C's
+  "nothing was missing, because nothing was" completes the arc);
+  SKIP C's "Are we" deadpan (booth has three laughs); thin one
+  of Eli's two "on purpose" uses (keep B 253's).
+- ch 30: A's flicker exchange does NOT graft — grep confirms no
+  flickering porch light in accepted canon (invented history);
+  pencil-behind-ear NOT canon (wave-7 precedent) — use A's
+  sharpened-flat-at-the-shop staging per panel Fix 3; "leveling
+  … since August" kept ONCE (B 263) per panel; keep B's
+  "Blunter." over A's stroke-tremor (panel default).
+
+**Remaining steps (the house pattern, same as wave 7):**
+1. Sweep lands → file note + verify its [CHECK]s by grep →
+   compile plots/wave8-staging-order.md (winners 29-B, 30-B;
+   panels' mandatory fixes + grafts as amended by rulings above
+   + sweep findings; sweep OVERRIDES panels on conflict).
+2. Branch `campus/ch29-30-wave`; TWO mechanical staging agents
+   (drafting-assistant, card "—", LOG rows); headers per the
+   ch 25–28 pattern (Winner/card, Staged date, pending author
+   ratification (wave-8 PR); day tags: 29 "Wed–Fri Wk14, rivalry
+   week"; 30 "Sat Wk14 — Rivalry Saturday").
+3. My lint battery (word/dialogue/dd/pairs/dangles/banned incl.
+   "never once"; smile-budget check: ch 29 zero ceremony, ch 30
+   exactly the dealt two; Boyd zero in 30, print-only in 29).
+4. Reading page (studio/tools/reading-page.py, scratchpad
+   concatenation) → publish as a NEW artifact (wave-8's own).
+5. **ONE book-complete PR** (campus/ch29-30-wave → main): body
+   per PR #98's shape — chapters table with lint numbers,
+   how-made, sweep catches, all SR rulings strikeable, the named
+   debts delivered (square kiss, Boyd print defeat, hot mug,
+   twentieth slide, the word, both smiles), and the on-merge
+   plan: fold (T06/T21/T26/T03/P12/P18/P3/D10 all close; M1
+   CLOSED at last) → line pass (E-deck LRU after E1 = check
+   LOG; E3/E5/E1 spent 08-28 → next is E2... verify LRU from
+   LOG.md, oldest-use wins) → then the POLISH-PASS list + the
+   A10 blurb → market-pitch-agent (D17.5). Optional
+   pre-acceptance reads (superfan/red-team/dev) served wave 7
+   well — recommend repeating on the staged finale.
+6. Line-pass proposals from ch 25–28 (six ch 28 items, two
+   paragraphing questions — notes/line-pass-ch25-28-2026-08-28.md
+   §2) still await the author; offer at the wave-8 PR.
 
 ## Where the book stands
 
