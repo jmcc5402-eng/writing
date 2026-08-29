@@ -15,8 +15,8 @@ with shop coffee warming both hands and let the noise arrive.
 The game was the weather here,
 and today it could run itself.
 Down the hill the flags were going up over the awnings,
-and the first charcoal of the morning was lit somewhere out of
-sight, thin November smoke, more stubborn than the August
+and the first charcoal of the morning was already lit below
+the square, thin November smoke, more stubborn than the August
 kind. A horn section tuned against the cold, gave it up,
 and tried again.
 
@@ -72,8 +72,8 @@ and his own dates had gone into the paper log ever since,
 page after page, pencil on paper, never on glass.
 
 He had set glass all his life, storm sash and cabinet panes,
-quick work, the kind his hands did while his head was
-somewhere else. His head was nowhere else this morning.
+quick work, the kind his hands could do with his head still
+out on the truck. Not this pane. He was all the way here.
 
 He mixed a thumbnail of cement on a scrap of shingle.
 He buttered the rim of the glass with the tip of the putty
