@@ -53,6 +53,16 @@ ones that measure pleasure.
   decisions, then the four-book shape.
 - **MYBYB:** concept locked, reboot drafting — the slow burner;
   keep it warm, don't force it.
+**Imperfection (author, 2026-08-29, PR #103 comment): "we wrote
+the book and every aspect of it does not need to be perfect… if
+we make every line of the book perfect it will seem fake."**
+Operationally: polish passes repair MEASURED failures (a DNF
+point, a zero-interiority chapter) and stop; instrument findings
+below failure-grade become 1.2 brief inputs, never Book-1 edits;
+accumulated style proposals default to DECLINED unless the
+author picks one up by name. A finished book keeps its hand-made
+grain.
+
 - **Craft:** programmatic drafting (the rung contract) is the house
   method. Detail density varies by design. The series floats —
   cross-book chronology never blocks.

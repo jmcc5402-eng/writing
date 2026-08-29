@@ -3,26 +3,22 @@
 Tracks edits to manuscripts and adopted drafts (house rule 6), so the
 author can see what changed and why. Newest first.
 
-## 2026-08-29 — Ch 2–4 closeness top-up (POLISH-PASS item 1, D14; author "go polish")
+## 2026-08-29 — Ch 3–4 closeness top-up, TRIMMED TO THREE (POLISH item 1; author ruling at PR #103)
 
-- drafting-assistant, card D1 (sound-forward). TEN insertions
-  across ch 2–4 (2/5/3), ADDITIVE ONLY — zero accepted words
-  reworded, cut, or repunctuated (diff: 61 lines added, 0
-  deleted); all three endings untouched; zero dialogue added
-  (ch 2's 7%-by-design quiet preserved, 6.9% post-edit).
-- Per D14: a reaction beat per scene (~40 words, POV lead's
-  judgment in their voice), one private admission per chapter
-  (Cal runs her voice back "like tape off a good engine"; she
-  catches herself keeping a man in reserve "like the good
-  scissors"; he knows why he kept the House's name out of the
-  yard), one motive clause (why Cal walks Boyd to the fence).
-- Word deltas: ch 2 +91, ch 3 +231, ch 4 +132. Scrub audit
-  clean: zero new personifications, zero new banned strings,
-  no rations touched, nothing pre-spends ch 8/16/20/27.
-- The evidence gate: the blind warmth map (2026-08-29)
-  confirmed ch 2–4 as the book's only adjacent cold cluster,
-  satisfying D14's own full-book-read condition.
-
+- The author ruled at the PR: "Let's do three of these 10… if we
+  make every line of the book perfect it will seem fake." Three
+  beats kept, chosen to repair MEASURED failures only: ch 3's
+  private admission ("keeping a man in reserve / like the good
+  scissors") and the rendering beat ("once as a picture and once
+  as a bill") — the book's only zero-interiority chapter gets
+  its two; ch 4's motive clause ("You walk a fuel leak out of
+  the bay. Same rule.") — the measured DNF scene's opacity
+  fixed. Ch 2 reverted untouched (it already carried beats; the
+  new ch2↔ch4 "tick" micro-plant died with the trim, per the
+  ruling's spirit). Deltas: ch 3 +90, ch 4 +45, ch 2 +0.
+- The imperfection directive is recorded in studio/VISION.md:
+  polish repairs measured failures; it does not sand every
+  surface.
 ## 2026-08-29 — Line & copy pass, ch 29–30 (post-ratify, PR #99)
 
 - `line-copy-editor` · card **E5** (dialogue mechanics first) ·
