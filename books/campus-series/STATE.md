@@ -5,7 +5,20 @@
 session reads this FIRST, then the docs it points to. Update it at
 every wave boundary and whenever a thread parks mid-pipeline.**
 
-## PICK UP HERE (parked mid-wave-8, 2026-08-28 — read this whole block)
+## PICK UP HERE (2026-08-29 — wave 8 STAGED; **PR #99 OPEN, the
+book-complete PR — the author's merge finishes Book 1**)
+
+Wave 8 ran to the gate: sweep relaunched and filed
+(notes/wave8-canon-sweep-2026-08-28.md — headline SR-39: the
+locked pages count ELEVEN slides; winner ships count-free),
+staging order finalized (plots/wave8-staging-order.md,
+SR-37..42), ch 29–30 staged on `campus/ch29-30-wave` (lint 17.6%
+/ 15.7%, all greps clean), reading page published, **PR #99
+open**. NOTHING further until the author merges or comments.
+On merge: fold (M1 CLOSES; T03/T06/T21/T26/P3/P4/P11/P12/P13/P18
+close; LISTED-not-sold; D10 amended; calendar rows conformed) →
+line pass (E-deck LRU from LOG) → POLISH-PASS list → A10 blurb
+to market-pitch (D17.5). Historical park block follows.
 
 **The book stands at ch 1–28 accepted (~55,000 words). Wave 8
 (ch 29–30, the finale) is GO (D17) and is mid-conveyor:**
