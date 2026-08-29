@@ -1,7 +1,11 @@
 # Book 1 retrospective — design + draft best practices
 
-Showrunner draft, 2026-08-29 (pre-#99-merge; the retro proper
-fires when the finale is accepted). Two halves: (I) the
+RATIFIED at the merge of the retro PR (2026-08-29) — §II as
+amended by §III below constitutes Book 1.2's operating rules.
+Originally drafted pre-#99-merge; all six §I instruments have
+now RUN; their notes live in books/campus-series/notes/
+(retro-* and sampling-*) and the amendments they forced are
+§III. Two halves: (I) the
 retrospective instruments — each built on something AI can do
 that a human room cannot; (II) the best-practices list going
 into Book 1.2, drafted NOW from lived evidence, to be
@@ -117,3 +121,70 @@ Ratification path: after the retro instruments run, this list
 merge = the 1.2 operating rules. Items 1, 7, 8, and 9 are new
 process and get their own lines in DRAFTING-PROTOCOL /
 PIPELINE at that PR.
+
+## III. Ratified amendments from the instruments (2026-08-29)
+
+The instruments confirmed 14 of the 15 draft practices as
+written and forced the following amendments and additions —
+each traceable to a filed finding:
+
+- **Item 1 amended (brief audit) — the audit covers EVERYTHING
+  downstream agents treat as truth**, including the sweep's own
+  check instructions: wave 8's refraction infected the checker
+  itself (escapes ledger row 10). Every manifest fact = a
+  verbatim quote with file:line; a gloss without its quote is a
+  blocking finding.
+- **Item 8 amended (fuzz) — add the FURNITURE REGISTRY**: the
+  fold's object/routine canon becomes a grep-able list; every
+  fold greps the wave's accepted chapters against it (escapes
+  P2). The fuzz's own meta-lesson (shared-furniture keying)
+  stands as drafted.
+- **NEW 16 — the label-shuffle protocol.** Slot B won 11 of the
+  last 14 blind judgings (p ≈ 7×10⁻⁴; retro-winners). The
+  orchestrator permutes candidate labels before every panel
+  run, rotates reading order, and logs the sealed permutation —
+  unmasked only at the Book-2 retro. Slot-style faults
+  ("quotes the assignment") are re-tested against presented
+  position.
+- **NEW 17 — the jewel-forge slot.** One candidate per chapter
+  briefed lyric-dense (D5-family) and scored on GRAFT YIELD,
+  not rank (retro-winners §4: D5 podiums 9/13; the late C-slot
+  certified jewel-rich four waves running; every accepted
+  chapter carries 3–5 loser grafts). The estate sale
+  (energy-bank pointer) is the proof of reserves.
+- **NEW 18 — the staging clause in every chapter brief**: the
+  mandated peak is arrived-at, in motion, in the POV body,
+  delayed past comfortable, never captioned (retro-winners §3:
+  staging is the #1 reward class, 12/31) — and D6 stays dealt
+  every wave (7/14 wins, mechanism named in verdicts).
+- **NEW 19 — the series dial, canon** (parked-questions Q1/Q2):
+  chorus buys the keep-reading (a 6), only lead-want buys the
+  purchase (7+); every ensemble set-piece resolves into a
+  two-person gesture; first kiss ~50% is the house build; after
+  the first kiss, no stretch longer than TWO chapters without a
+  spendable couple beat. The warmth-engine sentence rides every
+  brief verbatim ("hands doing the loving, mouth saying
+  something else").
+- **NEW 20 — the storefront test** gates the blurb: before any
+  back-cover copy is called done (D17.5 included), a blind
+  panel reads ONLY blurb + retail sample and states what book
+  it believes it is buying; expectation-mismatch is the score
+  (parked-questions Q3 — the one docket item the pages could
+  not answer).
+- **NEW 21 — staging output is checked against the
+  semantic-break convention AT STAGING** (line-pass ch29–30
+  systemic finding: wave 8 fill-wrapped ~23 seams), and briefs
+  license the pair's mirror motifs explicitly — one echo per
+  motif is a rhyme, two is a template.
+- **NEW 22 — the standalone staging lint retires**; its checks
+  are explicitly reassigned to the sweep (§II-c) and the line
+  pass, with named ownership per check (escapes answer 2: zero
+  unique catches in eight waves; its one class instance escaped
+  through an ownership circle).
+- **Calibration, recorded:** the cross-batch sweep is the
+  system's best instrument (13/13 refractions intercepted
+  pre-merge); panels are selection instruments and are never
+  scored as continuity gates; sampling instruments run only
+  with pre-set thresholds (the 50%-confident dating critic is
+  the standing exhibit).
+
