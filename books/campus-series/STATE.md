@@ -32,14 +32,21 @@ and the energy bank, still holding unspent material. The House
 winters under tarps with twelve names contracted through March;
 the sale closes offstage; the platform name stays [TK].
 
-**The retrospective is COMPLETE (2026-08-29):** ten instruments
-run and filed (notes/retro-* + notes/sampling-* + telemetry);
-the ch 29–30 line pass done (7 mechanical fixes, scrub clean).
-**AT THE AUTHOR'S GATE: PR #102 — the ratification PR** (the 1.2
-operating rules; merge = ratified, any item strikeable).
-Separate decisions on the author's word: the polish go (ch 2–4
-warmth, gate satisfied); the six line-pass style proposals; the
-A10 blurb → market-pitch behind the storefront test (D17.5).
+**EVERYTHING IS MERGED — the queue is EMPTY (2026-08-29 evening).**
+PR #102 ratified the 1.2 operating rules (RETRO-BOOK1 §II as
+amended by §III — label shuffle, brief audit, jewel forge,
+staging clause, furniture registry, series dial, storefront
+test, lint retired). PR #103 landed the polish TRIMMED TO THREE
+by author ruling ("if we make every line perfect it will seem
+fake") — the imperfection directive is now VISION law; the six
+ch 29–30 style proposals are DECLINED by default under it.
+**Book 1.1 is DONE: accepted, folded, line-passed, polished to
+its measured failures and no further, retrospected, and the
+lessons ratified.** Remaining, each on the author's word only:
+(1) D17.5 — the A10 blurb to market-pitch, gated by the
+storefront test (rule 20); (2) "go 1.2" — kickoff runs under
+the ratified rules, briefs shop the energy bank's estate-sale
+shelf first.
 
 ## Where the book stands
 
