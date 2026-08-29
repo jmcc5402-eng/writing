@@ -275,3 +275,9 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-28 | developmental-editor (campus staged wave 7, whole-book context) | E3 reverse order (LRU) | notes/ (filed by orchestrator) |
 | 2026-08-28 | line-copy-editor (campus ch25-28 post-ratify pass + ch23 fix) | E5 dialogue mechanics first (LRU) | notes/line-pass-ch25-28-2026-08-28.md |
 | 2026-08-28 | showrunner (campus wave-8 directive, ch29-30 finale) | A10 blurb-backwards (first draw) | plots/wave8-directive.md |
+| 2026-08-28 | drafting-assistant (campus ch29 blind draft, candidate A) | D4 minor-character competence (LRU) | drafts/2026-08-28-wave8/ch29-candidate-A.md |
+| 2026-08-28 | drafting-assistant (campus ch29 blind draft, candidate B) | D7 open mid-motion (LRU) | drafts/2026-08-28-wave8/ch29-candidate-B.md |
+| 2026-08-28 | drafting-assistant (campus ch29 blind draft, candidate C) | D5 weather as texture (LRU) | drafts/2026-08-28-wave8/ch29-candidate-C.md |
+| 2026-08-28 | drafting-assistant (campus ch30 blind draft, candidate A) | D6 run a beat past comfortable (LRU) | drafts/2026-08-28-wave8/ch30-candidate-A.md |
+| 2026-08-28 | drafting-assistant (campus ch30 blind draft, candidate B) | D2 hands and objects (LRU) | drafts/2026-08-28-wave8/ch30-candidate-B.md |
+| 2026-08-28 | drafting-assistant (campus ch30 blind draft, candidate C) | D3 short-declarative (LRU) | drafts/2026-08-28-wave8/ch30-candidate-C.md |
