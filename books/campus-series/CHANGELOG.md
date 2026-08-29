@@ -3,6 +3,24 @@
 Tracks edits to manuscripts and adopted drafts (house rule 6), so the
 author can see what changed and why. Newest first.
 
+## 2026-08-29 — six long-gap repairs from the continuity fuzz
+
+Source: notes/sampling-fuzz-2026-08-29.md (blind distant-pair
+instrument). All mechanical conforms of accepted prose to older
+locked canon; no beat, voice, or plot change.
+
+- ch25: the Checkerboard no longer "turns its lights on at six"
+  (24-hour diner; first light 5:40 canon) — the beat hangs on
+  Earlene; Verna's office light burns behind her (reconciles
+  ch09's 6:15 never-late-twice).
+- ch11: "August morning" → "September morning" (the 5:40
+  morning is ch09's, week six = early September).
+- ch24: the report pages return to the workbench's bottom
+  drawer (ch14/ch16 canon; the parts counter was a drift).
+- ch19: "two weeks gone" → "three weeks gone" (SR-11 slide
+  residue; Tue Wk9 → Mon Wk12 is exact at three).
+- ch27: the photo wall holds couples, not "crews" (T03/T18).
+
 ## 2026-08-28 — Line & copy pass, ch 25–28 + D16 (post-ratify, PR #98)
 
 - `line-copy-editor` · card **E5** (dialogue mechanics first) ·
