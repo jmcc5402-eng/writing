@@ -283,3 +283,4 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-28 | drafting-assistant (campus ch30 blind draft, candidate C) | D3 short-declarative (LRU) | drafts/2026-08-28-wave8/ch30-candidate-C.md |
 | 2026-08-28 | romance-reader-panel (campus ch29 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ch29-panel-2026-08-28.md |
 | 2026-08-28 | romance-reader-panel (campus ch30 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ch30-panel-2026-08-28.md |
+| 2026-08-28 | continuity-keeper (campus wave 8 cross-batch sweep, 6 candidates) | E1 sentence-template hunt (LRU) | notes/wave8-canon-sweep-2026-08-28.md |
