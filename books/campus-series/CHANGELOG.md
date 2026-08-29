@@ -3,6 +3,59 @@
 Tracks edits to manuscripts and adopted drafts (house rule 6), so the
 author can see what changed and why. Newest first.
 
+## 2026-08-29 — Line & copy pass, ch 29–30 (post-ratify, PR #99)
+
+- `line-copy-editor` · card **E5** (dialogue mechanics first) ·
+  post-ratify pass on the two accepted wave-8 chapters, the last
+  of Book 1.1. **Seven mechanical fixes applied; six stylistic
+  edits PROPOSED, none applied.** No line counts shifted — all
+  existing line references still resolve.
+- **Applied:** `ch29:126` "Love you Mom" → "Love you, Mom"
+  (direct-address comma, house practice; strikeable if the
+  fused sign-off is wanted as teen register). Semantic-line-
+  break repairs, prior-pass classes only (severed phrasal verb /
+  verb+object / compound noun / possessive+noun): `ch29:74–75`
+  "spoken / for"; `ch29:234–235` "hug / you"; `ch30:85–87`
+  "putty / knife"; `ch30:176–177` "Cal's / hands";
+  `ch30:200–201` "brake / lights"; `ch30:246–247` "held out /
+  his hand". No words changed in any re-wrap.
+- **E5 sweep: clean.** Zero ambiguous attributions; all quote
+  pairs and the one nested quote (ch29:180) correct; new
+  speaker/new paragraph holds throughout (the ch 28 compression
+  habit did not recur). Ch29:125 unspaced self-cut ruled
+  correct under D15.3 (a cut, unlike Boyd's spaced self-amend,
+  ch26:66) — do not re-space.
+- **Sweeps, both files: clean.** Colon/dash paragraph-end tic
+  zero; doubled words, whitespace, curly quotes, 80-col,
+  `[TK]`/`[CHECK]` all zero. All protected/swoon lines, the
+  ceremony beats, the love sentence, "It can stand right
+  here.", and ch30's final ten lines verified verbatim.
+- **Scrub residue: zero gate-missed violations.** "never once"
+  ZERO both chapters (first clean wave; count holds at 25).
+  Bells 2/2 at cap; involuntary-body 0/1 (protected spend);
+  gauge 1/0; ledger containers zero; jokes die on schedule;
+  endings per dealt registers.
+- **SYSTEMIC FINDING:** wave-8 staging fill-wrapped instead of
+  semantically breaking (~8 seams left in ch29, ~15 in ch30,
+  some inside protected lineation). Wholesale conformance needs
+  an ordered pass — it shifts every line reference. Orchestrator
+  to schedule or waive.
+- **Questions:** ch29:250 "his half" (antecedent never on the
+  page; nearest male is Cal); ch29:73 "contracted" (pun or
+  typo for "condensed"?); ch30 panel Fix 5's "one person at a
+  time" clause absent from ratified text — treated as waived at
+  merge, flagged for audit.
+- **Top proposals (not applied):** ch30:200–202 third
+  fairgrounds-emptying pass trimmed before the protected fourth;
+  ch30:240 "the last taillights" verbatim collision with the
+  protected close; ch30:33 "without looking" pair-echo of
+  ch29:32; ch30:66 third "two fingers"; ch29:205 "with every
+  detail backward" cut; ch30:232 turned/turn.
+- **Pattern for wave 9:** check staged output against the
+  semantic-break convention at staging time; and license the
+  pair's his/hers mirrors explicitly — one echo per motif is a
+  rhyme, two is a template.
+
 ## 2026-08-29 — Chapters 29–30 ACCEPTED — BOOK 1.1 COMPLETE (author merge of PR #99); THREADS folded
 
 - Wave 8 adopted whole, **merged with no comments** — every SR
