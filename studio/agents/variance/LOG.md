@@ -286,3 +286,7 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-28 | continuity-keeper (campus wave 8 cross-batch sweep, 6 candidates) | E1 sentence-template hunt (LRU) | notes/wave8-canon-sweep-2026-08-28.md |
 | 2026-08-29 | drafting-assistant (campus ch29 wave-8 staging, executes plots/wave8-staging-order.md) | — (mechanical execution; no card) | manuscript/ch29.md on campus/ch29-30-wave |
 | 2026-08-29 | drafting-assistant (campus ch30 wave-8 staging, executes plots/wave8-staging-order.md) | — (mechanical execution; no card) | manuscript/ch30.md on campus/ch29-30-wave |
+| 2026-08-29 | romance-reader-panel (campus whole-book browse sample, 10 blind pages) | — (no card; panel deck TK) | notes/sampling-browse-2026-08-29.md |
+| 2026-08-29 | romance-reader-panel (campus whole-book warmth map, 30 blind windows) | — (no card; panel deck TK) | notes/sampling-warmth-2026-08-29.md |
+| 2026-08-29 | red-team-critic (campus voice-drift dating, 16 blind paragraphs) | C1 pacing-above-all (LRU, first draw; applied to the tells hunted) | notes/sampling-dating-2026-08-29.md |
+| 2026-08-29 | continuity-keeper (campus continuity fuzz, 8 distant pairs) | E2 weakest-chapter-first (LRU, first draw; orders the pair queue) | notes/sampling-fuzz-2026-08-29.md |
