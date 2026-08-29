@@ -270,3 +270,6 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-28 | drafting-assistant (campus ch26 staging, winner C) | — (mechanical) | manuscript/ch26.md on campus/ch25-28-wave |
 | 2026-08-28 | drafting-assistant (campus ch27 staging, winner B) | — (mechanical) | manuscript/ch27.md on campus/ch25-28-wave |
 | 2026-08-28 | drafting-assistant (campus ch28 staging, winner B) | — (mechanical) | manuscript/ch28.md on campus/ch25-28-wave |
+| 2026-08-28 | superfan-reviewer (campus staged wave 7, ch25-28 pre-acceptance) | — (no card; deck TK) | notes/ (filed by orchestrator) |
+| 2026-08-28 | red-team-critic (campus staged wave 7, ch25-28 pre-acceptance) | — (no card; deck TK) | notes/ (filed by orchestrator) |
+| 2026-08-28 | developmental-editor (campus staged wave 7, whole-book context) | E3 reverse order (LRU) | notes/ (filed by orchestrator) |
