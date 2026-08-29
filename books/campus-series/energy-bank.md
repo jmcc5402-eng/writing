@@ -1023,3 +1023,16 @@ skepticism; the montage openers, each of which IS a college-calendar
 word; Marisol's own feed. **Usage rule:** one or two per chapter,
 carried by voice — a word bank, not a checklist; drafting briefs
 cite this section by number.
+
+## 2026-08-29 — THE ESTATE SALE (Book-1 losers, waves 5-8)
+
+The full 100-entry harvest lives in
+`notes/retro-estate-sale-2026-08-29.md` — sieved against the
+accepted manuscript, tagged ACHE/WIT/WARMTH/REGISTER/MENACE,
+slot-suggested, ration-warned, with a ranked top ten for the
+1.2 briefs (headline: "He had said quarter-sawn oak to a
+divorced woman in the dark…" — the hero-voice calibration
+line). 1.2's directive shops there FIRST; nothing may graft
+without the note's own echo-checks ([CHECK] flags on
+"undefeated", "home by dark", the engineer's [TK]).
+
