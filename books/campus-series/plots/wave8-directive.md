@@ -114,6 +114,13 @@ both briefs. No named students, no years, no eye colors. Kat: no
 surname, non-local (D16). The trust's representative stays
 unnamed. Boyd: offstage both chapters (debt 2's artifact only).
 Facts not in a brief are `[TK ...]`, flagged never filled.
+**New watch (2026-08-28 line pass): "never once"** — plain
+"never" unless the "once" does real arithmetic; both briefs
+carry it. **And the wave-7 lesson rides both briefs: the climax
+chapter gets the same cooldown reread the quiet chapters get** —
+speed comes from the scene, not from sentences arriving
+unproofed (all of wave 7's line residue clustered in ch 28's
+tempo).
 
 ## CLOSENESS / meters
 

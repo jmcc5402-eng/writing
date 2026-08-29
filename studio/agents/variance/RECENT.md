@@ -53,6 +53,14 @@ list in the agent's invocation as "banned moves this run."
   forming tic: wave-6+ drafters write surprised laughter fresh;
   do not increase. **Wave 6 HONORED it — zero new uses; count
   holds at six. Discharge after one more clean wave.**
+  **DISCHARGED 2026-08-28: wave 7 also zero — two clean waves;
+  the condition is met. Count closed at six.**
+- WATCH (campus line pass, 2026-08-28): **"never once"** as the
+  book's default emphatic *never* — 25 uses book-wide, five new
+  in wave 7 (three in ch 28 alone), climbing faster than either
+  retired scaffold. Wave-8 drafters: plain "never" unless the
+  "once" is doing real arithmetic; briefs carry it; do not
+  increase the count.
 - WATCH (campus line pass, 2026-08-28): **"which was its own
   [X]"** — seven book-wide and still climbing (ch03:278, ch03:382,
   ch05:21, ch18:42, ch18:175, ch22:49 "its own weight", ch23:178

@@ -3,6 +3,38 @@
 Tracks edits to manuscripts and adopted drafts (house rule 6), so the
 author can see what changed and why. Newest first.
 
+## 2026-08-28 — Line & copy pass, ch 25–28 + D16 (post-ratify, PR #98)
+
+- `line-copy-editor` · card **E5** (dialogue mechanics first) ·
+  post-ratify pass on the four accepted wave-7 chapters plus the
+  one ordered cross-chapter fix. **Four mechanical fixes applied;
+  six stylistic edits PROPOSED, none applied.** No line counts
+  shifted. Full report: notes/line-pass-ch25-28-2026-08-28.md.
+- **Applied — D16 (ratified at merge):** ch23:47 "She had walked
+  it her whole life" → "She had walked it since she chose this
+  town" (newcomer canon; now agrees with ch27:91). Strikeable.
+- **Applied:** ch25:207 "six forty" → "six-forty" (ch24
+  precedent); semantic-line-break repairs at ch25:220–221 and
+  ch26:314–315 (no words changed).
+- **E5 sweep:** interruption register fully conforms to D15.3;
+  zero ambiguous attributions. QUESTIONS for the author (not
+  fixed): ch28:261–266 and ch28:320–323 each run two speakers in
+  one paragraph — velocity or accident.
+- **Sweeps all clean:** zero banned fingerprints (first fully
+  clean board), zero curly/whitespace/80-col/[TK]/eye-color/
+  wife's-name hits; all nine protected swoon lines verbatim.
+  Quotas within ration everywhere; ch 27 is D16.1's reference
+  implementation.
+- **Watches:** laugh scaffold DISCHARGED (second clean wave, per
+  the ch 21–24 condition); NEW watch: **"never once"** (5 new
+  uses this wave, 3 in ch 28; 25 book-wide).
+- **Micro-canon recorded:** Marisol's 43 stated on the page
+  (ch25:58, matches bible); ten years' bookkeeping (ch25:217);
+  Tunk's twenty usher years (ch25:296).
+- **Pattern for wave 8** (rides the briefs): the climax chapter
+  gets the same cooldown reread the quiet chapters get — all of
+  this wave's residue clustered in ch 28's tempo.
+
 ## 2026-08-28 — Wave 7 ACCEPTED: ch 25–28 (PR #98, merged with no comments)
 
 - Full conveyor: directive A9 (appetite) → 12 blind drafts (LRU
