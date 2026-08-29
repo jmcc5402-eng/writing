@@ -373,3 +373,16 @@ What this census adds:
   town businesses up to ~50% of annual revenue from game days.
 - Racial-history precedent: Linnentown (Athens, GA) — Wikipedia;
   The Intercept (2021); NBC News (2021); Red & Black coverage.
+
+## Recorded 2026-08-29 (continuity-fuzz surfacings — on-page accepted facts)
+
+- Coach **Dan Merritt** is named on the page (ch17:173).
+- Verna–Cal history: she has known him "since he alphabetized
+  the church pantry" (ch24:207–208).
+- The parts house sits four doors up the block from the Blind
+  Mule (ch24:157).
+- The trustees' boardroom seats forty (ch28:13).
+- **Millrow's grade:** the street climbs from Delmar's end to
+  the House — the House sits at Millrow's high end (ch09:257,
+  ch19:14, ch06; staged consistently ch19/ch27). Book 1.2
+  stages Millrow against this line.
