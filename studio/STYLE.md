@@ -191,3 +191,14 @@ full-book read.
 Measured by the CLOSENESS meter (campus METERS.md), added by
 author waiver — see `studio/DRAFTING-PROTOCOL.md`, instrument
 governance.
+
+## The bookkeeper's register (D16.1, 2026-08-28)
+
+Marisol prices things. Costs said in her voice as COUNTING —
+"I counted it too," sums that balance and are hated for
+balancing — are her licensed professional register, not a
+scrub violation. The line she and the book may not cross is the
+container: feelings filed, foldered, drawered, or kept in
+ledgers-as-hearts stay banned in every POV. Cal's ledger tic
+stays Cal's, capped at two per chapter, never the final ten
+lines.

@@ -431,3 +431,28 @@ Four rulings, taken as recommended:
    ch20/ch21 "reached for it/one" rhyme (recorded as a deliberate
    hinge, not a tic). Line references in THREADS for ch 13–24 may
    drift by ±2 below the edit points; grep re-anchors.
+
+## D16 — 2026-08-28 (ratified at the PR #98 merge)
+
+**Wave 7 accepted as staged**: SR-23 through SR-36 all stand
+(none struck), plus the post-review touch-up (commit b4b769e,
+itemized in the PR #98 comment). Named canon from the merge: the
+two quitting allies stay unnamed; Kat is non-local; the engineer
+is unnamed/independent forever; the raise was TRIPLE; the mug is
+the white one, unchipped; the trust's representative is an
+unnamed woman; the Saturday vow was sworn at the move.
+
+**D16.1 — the ledger-register amendment (proposed in the PR
+comment, unstruck at merge → recorded):** Marisol's counting/
+pricing register ("I counted it too," "it balanced, and she
+hated that it balanced") is her LICENSED professional voice for
+pricing costs — it is not a breach of the filing-metaphor rule.
+The filing-cabinet family (feelings in folders, drawers, ledgers
+AS CONTAINERS for emotion) stays banned for everyone; Cal's
+ledger tic stays capped at two. Written into STYLE.md.
+
+**Named debts carried to wave 8 (from the merged reads):** the
+kiss on the square (ch 25's plant — the town invented it; the
+book now owes it); Boyd beaten ON the page by the end (the
+tabling is not the defeat); the cold mug → hot mug echo; the
+plaque-refused → slide-in-his-hand echo (unnamed on the page).

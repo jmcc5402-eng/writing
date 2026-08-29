@@ -5,73 +5,35 @@ next action). This file is the thread-handoff summary: a fresh
 session reads this FIRST, then the docs it points to. Update it at
 every wave boundary and whenever a thread parks mid-pipeline.**
 
-## PICK UP HERE (fresh session, 2026-08-28)
+## PICK UP HERE (updated post-merge, 2026-08-28)
 
-**Wave 7 (ch 25–28) ran the FULL conveyor and is at the author
-gate: PR #98 OPEN** (`campus/ch25-28-wave` → main, branched off
-36ee413). Reading page:
-https://claude.ai/code/artifact/e7415fe6-efde-43f7-a313-b0a71fdf8abb
-The ch 28 spot-check was done (all seven panel fixes verified on
-the page; one two-word D10 guard added — "in the log").
-**Post-PR, three pre-acceptance reads ran** (superfan 5★ /
-red-team "close—not yet" / dev; filed in notes/wave7-*-2026-08-28)
-and a touch-up landed on the branch (commit b4b769e; reading page
-rev 2, same URL): P6 fired at last, Boyd's ultimatum fold marked
-in Cal's POV, survey disambiguated, seams deduped — every item
-listed in the PR #98 comment, all strikeable. On the author's
-merge: fold → line pass (**E5** — E3 was spent on the dev read) →
-wave 8 (A10), with the square-kiss IOU and Boyd's on-page defeat
-carried as named debts. If the author strikes anything in PR
-comments, re-stage on the branch before merge.
+**Wave 7 is ACCEPTED — PR #98 merged with no comments.** Ch 25–28
+headers flipped; THREADS folded (T33 PAID, T28/T30/T31/T17
+CLOSED, T13's debt paid, D12 surfaced, Kat debuted); D16 + the
+ledger-register amendment (D16.1) recorded in DECISIONS.md and
+STYLE.md; CHANGELOG entry written. **The book stands at ch 1–28
+accepted (~55,000 words). Two chapters remain.**
 
-Done: directive (card A9) → 12 blind drafts → four panel judgings
-→ cross-batch canon sweep (E4) → staging order with SR-23…SR-36
-→ four mechanical staging runs → my lint pass on all four.
+Now in flight / next:
 
-**Winners:** ch 25 = B (D6), ch 26 = C (D4), ch 27 = B (D5),
-ch 28 = B (D3).
-
-**Lint (mine, on the staged files):**
-
-| Ch | Words | Dialogue | Double-dash | Banned pairs | Dangles |
-|---|---|---|---|---|---|
-| 25 | 2,093 | 17.2% | 1 (sanctioned interruption) | 0 | 0 |
-| 26 | 2,016 | 22.4% | 0 | 0 | 0 |
-| 27 | 1,978 | 36.4% | 0 | 0 | 0 |
-| 28 | 2,152 | 25.2% | 0 | 0 | 0 |
-
-Also verified: zero Cal-smile language (door-smile 3/3 still
-banked); wife unnamed everywhere; Boyd's name absent from ch 25
-(the Kudzu wire stays unproven) and from ch 28's last three
-lines; "I don't move a date on a man twice" appears exactly once
-in the wave (ch 28, per SR-32); Ratchet female; no "twelve
-winters" duration; ch 26 ends on plain information, ch 28 on the
-wave's one button.
-
-**Both closing steps DONE (2026-08-28):** the reading page is
-published (URL above; wave-6's was
-https://claude.ai/code/artifact/d03c55ad-0ab7-4d14-b819-beeba7a80d21)
-and **PR #98 is open** with the full flag set (SR-23…SR-36 all
-strikeable; SR-22 delivered, Kudzu-as-arrival, T23 open, allies
-unnamed, door-smile held-with-gift-option). On-merge plan lives
-in the PR body: fold (THREADS + CHANGELOG) → line pass (E-deck
-LRU = **E3**) → wave 8 (ch 29–30, the finale; A-deck draw =
-**A10**, first use).
-
-**Staging-agent flags** (raised by the agents, carried in the
-agents, not errors): ch 25's Fix 4 target vanished when the P15
-sweep fix replaced the whole passage, so no "in its own
-handwriting" phrase survives anywhere — restore on request;
-ch 25's pinned post is three words ("Evening, my loves."), the
-donor framing said two; ch 25 graft 7 leaves the photograph
-paragraph opening and closing on "because" clauses; ch 27's
-SR-28 graft sits after the hand-flat paragraph rather than
-literally after the message text (matches the ruling's rationale;
-a two-paragraph swap if the author meant it literally).
-
-**Ch 28 spot-check: DONE** — all seven panel fixes and every
-sweep item verified line-by-line on the staged page; the only
-repair needed was the two-word D10 guard above.
+1. **Line pass on ch 25–28** — line-copy-editor, card **E5**
+   (E3 was spent on the 08-28 dev read). Includes the found
+   ch 23 bug ("She had walked it her whole life" vs newcomer
+   canon — reword to survive her ~2.5 years).
+2. **Wave 8 = the finale, ch 29–30.** Directive card **A10**
+   (blurb-backwards, first draw ever). Named debts from the
+   merged reads (D16): the kiss on the square, Boyd beaten on
+   the page, cold mug → hot mug, plaque → the twentieth slide.
+   Banked inventory: M1's for-him-alone echo on the third step,
+   the third door-smile, P18 (the June listing — sign EARLY, by
+   choice), the guest book retired under glass (P12), T26 beat 5
+   (Birdie×Eli), T03's third step, the pledge-jar citations.
+   Brief glosses owed: Ratchet FEMALE stated wherever she
+   appears; "twelve winters" = twelve names × ONE winter;
+   Kat's zipped bag opens (ch 29); the margarita-story ending
+   (banked) wants its Friday slot.
+3. After wave 8: the full-book polish list (STATE's POLISH-PASS
+   section) before 1.1 is called shipped.
 
 ## Where the book stands
 

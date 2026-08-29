@@ -3,6 +3,35 @@
 Tracks edits to manuscripts and adopted drafts (house rule 6), so the
 author can see what changed and why. Newest first.
 
+## 2026-08-28 — Wave 7 ACCEPTED: ch 25–28 (PR #98, merged with no comments)
+
+- Full conveyor: directive A9 (appetite) → 12 blind drafts (LRU
+  D-cards) → four blind panels (winners 25-B, 26-C, 27-B, 28-B)
+  → cross-batch canon sweep (E4) → staging order SR-23…SR-36 →
+  four mechanical staging runs → showrunner lint → three
+  pre-acceptance reads (superfan 5★ / red-team / dev, card E3)
+  → touch-up (commit b4b769e) → merge. Paper trail:
+  notes/ch25–ch28-panel-, wave7-canon-sweep-, wave7-superfan-,
+  wave7-redteam-, wave7-devread-2026-08-28.md;
+  plots/wave7-staging-order.md.
+- **Sweep's wave-level catches, fixed pre-merge:** Ratchet male in
+  all three ch 25 drafts (brief-manifest hole; brief patched);
+  "twelve winters" refracted to a duration in all three ch 27s;
+  the ch 28 pane-lift graft canon-false (slides cemented; SR-34
+  restaged "I brought the wall." on the photo set).
+- **Touch-up from the three reads, ratified at merge:** P6 fired
+  at last (Sunday exports source the war room); Boyd's ultimatum
+  fold marked in Cal's POV + survey pointed off the House
+  (red-team/dev convergent find); ch 25 day tag → Tuesday;
+  Verna's coinage credited to Monday; twin aphorism deduped;
+  allies-[TK] smoothed (unnamed = canon); stamp page conformed;
+  trust handoff pre-arranged in ch 27; SR-27 question reworded;
+  Peanut reaction beat added; "university's books"; volume-one
+  thinned; two-word D10 guard ("in the log").
+- Headers flipped to ACCEPTED post-merge; THREADS folded (T33
+  PAID, T28/T30/T31/T17 CLOSED, T13 debt paid, D12 surfaced,
+  Kat debut + SR-35, the yield/pen/mug/one-sentence recorded).
+
 ## 2026-08-28 — Line & copy pass, ch 21–24 (line-copy-editor, card E6, post-ratify PR #97)
 
 - Card E6 (weight what's MISSING over what's wrong) honored:
