@@ -273,3 +273,5 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-28 | superfan-reviewer (campus staged wave 7, ch25-28 pre-acceptance) | — (no card; deck TK) | notes/ (filed by orchestrator) |
 | 2026-08-28 | red-team-critic (campus staged wave 7, ch25-28 pre-acceptance) | — (no card; deck TK) | notes/ (filed by orchestrator) |
 | 2026-08-28 | developmental-editor (campus staged wave 7, whole-book context) | E3 reverse order (LRU) | notes/ (filed by orchestrator) |
+| 2026-08-28 | line-copy-editor (campus ch25-28 post-ratify pass + ch23 fix) | E5 dialogue mechanics first (LRU) | notes/line-pass-ch25-28-2026-08-28.md |
+| 2026-08-28 | showrunner (campus wave-8 directive, ch29-30 finale) | A10 blurb-backwards (first draw) | plots/wave8-directive.md |
