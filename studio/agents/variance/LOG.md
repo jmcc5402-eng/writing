@@ -284,3 +284,5 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-28 | romance-reader-panel (campus ch29 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ch29-panel-2026-08-28.md |
 | 2026-08-28 | romance-reader-panel (campus ch30 blind judging, A/B/C) | — (no card; panel deck TK) | notes/ch30-panel-2026-08-28.md |
 | 2026-08-28 | continuity-keeper (campus wave 8 cross-batch sweep, 6 candidates) | E1 sentence-template hunt (LRU) | notes/wave8-canon-sweep-2026-08-28.md |
+| 2026-08-29 | drafting-assistant (campus ch29 wave-8 staging, executes plots/wave8-staging-order.md) | — (mechanical execution; no card) | manuscript/ch29.md on campus/ch29-30-wave |
+| 2026-08-29 | drafting-assistant (campus ch30 wave-8 staging, executes plots/wave8-staging-order.md) | — (mechanical execution; no card) | manuscript/ch30.md on campus/ch29-30-wave |
