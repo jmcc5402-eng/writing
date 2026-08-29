@@ -3,6 +3,82 @@
 Tracks edits to manuscripts and adopted drafts (house rule 6), so the
 author can see what changed and why. Newest first.
 
+## 2026-08-29 — Chapters 29–30 ACCEPTED — BOOK 1.1 COMPLETE (author merge of PR #99); THREADS folded
+
+- Wave 8 adopted whole, **merged with no comments** — every SR
+  ruling and PR flag ratified as staged: `manuscript/ch29.md`
+  "Asking for a Friend" (ch29-B, card D7), `manuscript/ch30.md`
+  "Seven Saturdays" (ch30-B, card D2). **All thirty chapters are
+  now accepted**; both file headers already carry the ACCEPTED
+  line (no post-merge flip owed).
+- **Rulings ratified (staging order + §SWEEP; note: no SR-40 was
+  ever issued — the numbering runs 39 → 41):** SR-37(a) the June
+  page dies in the dead-battery drawer (B's kept-page line stays
+  severable in the staging order); 37(b) no "Are we" deadpan;
+  37(c) "on purpose" thinned to two (ch29:96, :266); SR-38(a) the
+  flicker exchange DEAD — no porch-light history canonized; 38(b)
+  pencil-behind-ear resolved AGAINST (carpenter's pencil,
+  sharpened flat at the shop, no ear, ch30:89–90); 38(c)
+  "leveling… since August" once, at the love sentence; 38(d)
+  "Blunter." kept, no tremor; **SR-39 — the winner ships
+  COUNT-FREE ("her panes," ch30:70); the locked ELEVEN stands
+  (ch12/16); D10's tail amended at this fold**; **SR-41 — the
+  calendar: ch 29 Wed–Fri Wk14, ch 30 Sat Wk14, EARLY November;
+  state chain rows 29–30 + month row amended at this fold**;
+  **SR-42 — "still winning" → "still ahead"** (ch30:140–141;
+  severable original preserved in the staging order).
+- **Sweep conforms verified on the accepted pages:** M1 memory
+  recast public-frame/private-carry, "one address" kept
+  (ch30:277–281 vs ch22:311–313); "a hundred years of knees rubbed
+  right into the grain" replaces the false one-at-a-time absolute
+  (ch30:264–265); pen uncapped/capped (ch30:154–156 = ch28:241);
+  slide wall a single descending run, "Her dates ran the crack and
+  stopped." directionless (ch30:69–76); Eli's clock "Saturday"
+  both places, no time-of-day in Birdie's reply (ch29:95, :104);
+  "no first one on the square" (ch29:341); the stage "up early for
+  rivalry week" (ch29:170); "Under the clock tower" (ch29:180);
+  "the second guest book" (ch30:254); Courier day Wednesday
+  (ch29:66–67).
+- **Grafts that rode:** C's "Yet" volley (ch29:179–184); the
+  or-worse-keep-them admission (ch29:259–261); A's broadcast + the
+  reenactment ruling placed before the flat final line
+  (ch29:324–327, :344–347); "Sell it to somebody with kids." /
+  "I'll find them." (ch29:282–284); C's dead-battery drawer
+  (ch29:286–291); C's next-year's-pane beat (ch30:107–108); A's
+  "Everything he wanted rescued was already up this hill."
+  (ch30:203). Nothing grafted past B 285 — ch 30's final ten lines
+  shipped exactly as drafted ("new wire and old glass, and held
+  them both").
+- Rations verified: Boyd print-only in 29 / zero in 30; Ratchet
+  FEMALE, holding the shop; wife unnamed, undated; "memorial"
+  zero; "never once" zero; bells 2 + 2 in the correct registers
+  (tower/carillon); smile language in 29 zero; ch 30 exactly the
+  dealt two; no numeric dates or years.
+- Lint battery run per the staging order (word counts, dialogue
+  floor, double-em-dash, quote pairing, banned-word / smile /
+  Boyd / memorial / dedup greps); **the numeric table lives only
+  in the PR #99 body — flagged at fold: paste it into notes/ if a
+  repo copy is wanted.**
+- Fold recorded across THREADS / DECISIONS / outline: **T03 + P13
+  PAID 30** (two on the step; the word both directions) · **T06
+  CLOSED** (M1's echo spent — the book's last withheld thing, both
+  events in one beat) · **T21 CLOSED** (door-smile 3/3) · **T26
+  beat 5 PAID 29, row closed** · **T13's margarita ending PAID 29
+  (Thursday; the "Friday" gloss corrected)** · **T05/D10 — the
+  watch handed on count-free; D10 tail amended (panes stay
+  eleven)** · **P12 PAID 29** (clipboard retired) · **P18 PAID
+  29** (the listing signed early — **LISTED, NOT SOLD**) · **P3
+  echo + P4 + P11 PAID 30** · D16 debts 3–4 and D17 items 1–4 all
+  delivered on the page.
+- New canon by acceptance: the Courier artifact's wording (Boyd's
+  defeat in print; "the developer's spring… spoken for in front of
+  somebody else's planning board" — the 1.2/1.3 shadow); the
+  county's official wrong story (running false canon for 1.2
+  callbacks); the Phams' game-weekend stage + house mic; Kat's
+  registers; the second's near-silent register; Ratchet holds the
+  shop on game days; the dead-battery drawer as the June page's
+  grave; "leveling" as Cal's trade coinage (single use).
+
 ## 2026-08-29 — six long-gap repairs from the continuity fuzz
 
 Source: notes/sampling-fuzz-2026-08-29.md (blind distant-pair

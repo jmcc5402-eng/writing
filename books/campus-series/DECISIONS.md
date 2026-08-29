@@ -248,9 +248,13 @@ Why nineteen:
    is a ledger. She dated glass slides in her own hand — the number
    should sound like hers.
 
-Binding: the count appears on the ch 12 page; ch 30's echo (a
-fresh slide dated in Cal's hand) makes it twenty and does not say
-so.
+Binding: the pane count is ELEVEN and appears on the ch 12 page
+(ch12:317; ch16:209) — "nineteen" counts YEARS, never panes; ch
+30's echo (a fresh slide dated in Cal's hand, ch30:84–95) opens
+the watch's TWENTIETH year — the first date on that wall not
+hers — and no number is said on the page. *(Tail amended at the
+wave-8 fold per SR-39, ratified at the PR #99 merge; the ch 30
+winner ships count-free.)*
 
 ## D11 — Marisol's surname: Pruett (the kept married name)
 **Status: PROPOSED (recorded on merge). 2026-08-22.**

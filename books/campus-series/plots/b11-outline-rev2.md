@@ -945,8 +945,8 @@ tracks the physical document.
 | 26 | Wed–Fri Wk13 | rigged report untransmitted; deadline dies | Cal: the bribe refused. Crew: the chalkboard math; letter off the corkboard |
 | 27 | Mon Wk14 | counter-report + funding folder at the House | Both: Boyd's contingency; the release offers made — and not accepted |
 | 28 | Tue Wk14 | SIGNED restoration finding, delivered | Town: the stay won; crew contracted; Boyd moves the survey up |
-| 29 | Wed–Thu Wk14 | filed; copy on the House mantel | Town: the couple, gloriously misread; side-pair ask |
-| 30 | Sat Wk15 | filed; new tell-tale dated on the wall | Reader: the watching is his now |
+| 29 | Wed–Fri Wk14 (SR-41, ratified PR #99) | filed; copy on the House mantel | Town: the couple, gloriously misread; side-pair ask. Reader: the listing signed — LISTED, not sold |
+| 30 | Sat Wk14 (SR-41 — Rivalry Saturday, the Saturday after the first-Tuesday trustees; "listing went live this morning" binds it) | filed; new tell-tale dated on the wall | Reader: the watching is his now |
 
 Month row for the state chain (sweep ruling 12; amendment §5, PR
 #95 — the "mid-Nov" gloss corrected to early November. SR-11,
@@ -972,7 +972,7 @@ anchors and did not move):
 | 24–26 | 13 | October's last week; the deadline dies at November's door |
 | 27–28 | 14 | the first days of November (trustees: first Tuesday) |
 | 29 | 14 | early November |
-| 30 | 15 | mid-November (rivalry Saturday) |
+| 30 | 14 | early November (rivalry Saturday; SR-41, ratified PR #99) |
 
 ### HEAT placements
 
