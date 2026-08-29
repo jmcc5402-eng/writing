@@ -1,0 +1,327 @@
+# Chapter 29 — Asking for a Friend
+
+POV: Marisol, third person limited, past tense.
+Candidate: B — Card: D7.
+
+---
+
+The glass case weighed more than a clipboard full of names had any
+right to, and Marisol had the heavy end.
+
+The hall of the House was all ladders that week,
+tarps shifting on the scaffolding outside,
+the crew's winter plans penciled straight onto the plaster
+where the ruined paper had come down.
+DeShawn walked backward ahead of her, calling out the doorways,
+and Ronnie stood at the mantel with a level
+and the expression of a man that mantel had been lying to since
+October.
+
+The clipboard went under first.
+The second guest book, everyone had called it all fall,
+though it was never a book,
+just a chewed clamp and page after page of names,
+seven thousand of them give or take,
+every hand that had put itself down on the House's side of the
+question.
+Marisol had carried it so long she knew its weight without looking.
+When she laid it on the felt she caught herself
+smoothing the top page flat with two fingers, once,
+like tucking in something already asleep.
+
+Cal set the glass down over it, sawdust to the wrist,
+level on the first try.
+She watched his hands do it and did not pretend otherwise.
+The case shut with a small click
+on the mantel of the House it had helped save,
+and nobody had prepared one word of remarks.
+
+"Well," Ronnie said.
+
+"Well," said Cal.
+
+"Seven thousand and change," Ronnie said.
+"I'd have bet against half of that in August."
+
+"You did bet against it," said Cal.
+
+"I came around."
+
+Travis took his hat off, reconsidered the gesture,
+and put it back on.
+The crew came down off the ladders by ones, looked,
+and went back up by ones,
+and no more ceremony than that was offered or wanted.
+Marisol stood a minute, still half expecting the weight on her arm.
+Seven thousand names,
+and she could have told you what most of them had cost to collect.
+Counting was her trade.
+She ran the total once more, for pleasure, and let it stand.
+
+Lunch happened on sawhorses.
+The Courier reached her folded to page two, one paragraph,
+no photograph:
+the Millrow phase of the towers was dead,
+the project would go forward on ground two counties over,
+and the restoration of the House would carry a local crew of twelve
+through March.
+Black and white, contracted, the paper's plainest type.
+One line observed that the developer's spring was already spoken
+for in front of somebody else's planning board, and left it there.
+
+"Couldn't happen to a nicer calendar," Ronnie said,
+and that was the end of the gloating anywhere on the property.
+
+"March is a long way off," DeShawn said.
+
+Birdie Pham's truck pulled up to the House gate
+while the crew was still brushing off crumbs,
+buckets of porch mums riding the tailgate,
+rust and gold and one bucket of something white.
+Ratchet reached the gate first, the whole back half of her going,
+and Birdie climbed down and gave the shop dog her due
+before she gave anybody else anything.
+
+Eli had spent the morning near that gate,
+finding small jobs that needed him.
+Now he crossed the yard in front of the entire crew
+and did not pick up a bucket.
+
+"Birdie," he said, loud enough for the scaffolding.
+"Would you come to the game with me tomorrow. Sitting together.
+The two of us, on purpose."
+
+Birdie set the white bucket down. "On purpose," she said.
+
+"I've had the tickets since the schedule came out," Eli said.
+"I just didn't have the sentence until today."
+
+"Then yes. Noon. Dress warm."
+
+Travis whooped.
+Cal's second whistled through her teeth from the top of the
+scaffold, DeShawn beat a two-four rhythm on a crossbar,
+and Ratchet barked at all of them on general principle.
+Eli picked up every bucket at once and carried them to the porch
+as if that had been the plan from the start.
+Marisol looked across the yard and found Cal already looking back,
+and the look held from the gate to the mantel and out the other
+side.
+
+The tower rang two o'clock over all of it.
+
+---
+
+Her son's voicemail got played twice Thursday morning,
+the second time on speaker to the whole kitchen.
+
+"Travel squad posts tomorrow. Coach looked at me while he said it,
+which is basically saying it.
+Rivalry week is completely unhinged, somebody—you know what,
+I'll tell you after. Love you Mom, gotta go."
+
+Her daughter's good-luck text came in from Bellamy
+while the voicemail was still running,
+all lowercase, one heart at the end.
+She answered them both with the same picture of the House in its
+tarps.
+
+The chair across the table stayed empty,
+the app on her phone stayed closed,
+and she was not counting.
+That was even true.
+She had done that grieving in an earlier season,
+paid it down in full, and it did not run her kitchen anymore.
+
+On the fridge, the June page hung from its magnet
+the same as it had all year.
+Under her daughter's text, Kat's came in.
+*Driving in tonight. The folder's coming with me.
+Say the word at breakfast and it stays zipped, no questions asked.*
+
+Marisol typed back before the kettle finished. *It's time.*
+
+---
+
+The parents' board had her and Cal engaged
+by the time the pie reached the booth.
+
+Twelve thousand members, live from the Checkerboard,
+and the thread was gaining speed.
+She read the best of it out loud
+with Cal's hand warm over hers on the tabletop
+and Kat, road-tired, on the other bench,
+working through the Phams' Thursday special.
+
+"They have us meeting in high school," Marisol reported.
+"They have you rebuilding my porch in the rain.
+Somebody's cousin was at our first kiss on the square,
+which she says was also in the rain."
+
+"Big night," Cal said. "Sorry I missed it."
+
+"You were there. You held the umbrella wrong and I forgave you."
+
+At the counter, Earlene had the floor
+and was improving the story for two tables of out-of-town visitors.
+"And when the vote came in," she said,
+"he signed the paper with her pen,
+which he has carried over his heart since the day they met."
+
+"Nearly true," Cal said, just to the booth.
+
+"When's the wedding?" one of the visitors asked.
+
+"When the scaffolding comes down," Earlene said,
+with the confidence of a woman inventing it on the spot.
+
+Kat put down her fork.
+"The end of the margarita story, by the way,
+is that I paid for the margaritas."
+
+"Course you did, honey," Earlene said, without turning around.
+
+The booth went up.
+Marisol laughed until she had to set her own fork down,
+Kat sputtered something about justice,
+and the visitors applauded the ending of a story
+they had never heard begin.
+
+The thread was still climbing when the pie was gone,
+wrong fact stacked on glorious wrong fact,
+a whole romance built out of scraps with every detail backward.
+Her one pinned post all week still said where to park, my loves.
+Her thumb hovered over the rest of it,
+and she set the phone face down by the sugar.
+The true version was in the booth holding her hand.
+The county could keep the other one.
+
+"You want to correct any of it?" Cal asked.
+
+"Not one word," she said.
+
+---
+
+Frost had gotten to the porch rail overnight,
+and Marisol was drying a stretch of it with her jacket sleeve
+when Kat came up the walk with the folder already out of her bag.
+
+The zipper had been shut since August.
+It opened on the first pull with a small, ordinary sound,
+and there they were at last,
+the listing papers for the house two states back,
+tabbed everywhere her name went.
+
+"It's November," Kat said. "The window says June.
+Nobody on this porch is rushing you,
+and I want that noted in the record."
+
+"I'm rushing me," Marisol said. "That's the point of it."
+
+"Then I'm legally obligated to wait until you've signed to hug
+you," Kat said. "So decide fast. It's freezing out here."
+
+Cal had kept to his truck with the tailgate down,
+out of the transaction entirely,
+and when she patted her coat for a pen out of habit
+he was already up the walk,
+her own pen out of his shirt pocket, offered without being asked,
+the pen that had signed the true report at the podium
+and been hers before it was ever his.
+His knuckles were chapped from a week of November scaffolding.
+She took it.
+
+"I'll want it back," Cal said. "Change orders Monday."
+And he went back to the tailgate.
+
+She could not buy out his half.
+Ten years of other people's shoeboxes had taught her exactly what
+she had, and she was through pretending some number might still
+turn up.
+What she had was a porch in Ashford, work that was hers,
+a county that had learned her name the hard way,
+and a decree with a June window that would make this choice for her
+if she stood still long enough.
+So she would not stand still.
+Her name at the bottom of these pages meant strangers deciding
+whether two kids' penciled heights stayed on a doorframe two states
+away.
+That was the cost, entire, no discount,
+and she was paying it in November instead of June,
+because paid early it was a decision and paid late it was a
+sentence.
+She had spent this year deciding things on purpose and in her own
+favor.
+This was the last one, and it was hers.
+
+She signed against the porch rail, standing up, chin level,
+every tab in order.
+Her signature came out steadier than her breathing.
+
+Kat, who had watched a hundred people sign a hundred hard things,
+stood with her hands folded until the cap clicked back onto the
+pen.
+Then she hugged Marisol hard, nothing of the realtor in it.
+
+"Okay," Kat said into her hair.
+"I'll do everything else. You did your part."
+
+Marisol went in and took the June page off the fridge,
+magnet and all.
+She folded the page in half, and in half again,
+until it was small enough for a coat pocket.
+It weighed what a page weighs. She kept it anyway.
+Out on the porch she put the pen back into Cal's shirt pocket
+herself, and left her hand there a moment,
+over the change orders and everything else.
+
+---
+
+The tower was ringing five when they came up onto the square,
+lamps lit early on the evening before the game,
+bunting on everything that would hold still,
+half the county out running errands that did not exist.
+The cold was the kind that finds the gap at a collar,
+and she let Cal's arm do something about it.
+
+"Verna's watching," Cal said.
+
+"Verna's been watching since the diner. Aisha has her phone up."
+
+"Want to give them the wrong idea?"
+
+"I want to give them the right one," Marisol said,
+and stopped walking.
+
+The town had invented a kiss on this square weeks ago,
+sworn by it, added rain and witnesses and a cousin.
+She had decided the county could finally be right about something.
+She reached up with both cold hands and he bent his head,
+and under the lamps, with the whole square watching,
+they took their time.
+His jaw was cold under her palm and none of the rest of him was.
+Down the block the Liars' Table achieved the diner window in a
+body.
+Somebody applauded. A car horn said something friendly.
+Over all of it she could hear Earlene, already improving it.
+
+A season of being looked at by this county
+for things that were never true,
+and here at last was a thing they could watch her do that was.
+She enjoyed it the whole length of the kiss and for a while after.
+
+"Well," Cal said. "Now it's happened."
+
+"It always had," she said. "Ask anybody."
+
+The board had it live before they had crossed to the diner side.
+THEY DID IT AGAIN, RIGHT WHERE THE FIRST ONE HAPPENED.
+There had been no first one.
+Marisol read it over Cal's arm
+and put her phone away without typing a word.
+
+By morning the thread would have rain in it.
+By Sunday there would be ten more witnesses and a better umbrella.
+They took the long way home through the bunting, hand in hand,
+and behind them the town went on telling their story wrong,
+and she let it run.
