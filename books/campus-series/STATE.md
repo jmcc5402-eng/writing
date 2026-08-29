@@ -12,10 +12,17 @@ gate: PR #98 OPEN** (`campus/ch25-28-wave` → main, branched off
 36ee413). Reading page:
 https://claude.ai/code/artifact/e7415fe6-efde-43f7-a313-b0a71fdf8abb
 The ch 28 spot-check was done (all seven panel fixes verified on
-the page; one two-word D10 guard added — "in the log"). On the
-author's merge: fold → line pass (E3) → wave 8 (A10). If the
-author strikes an SR ruling in PR comments, re-stage that item on
-the branch before merge.
+the page; one two-word D10 guard added — "in the log").
+**Post-PR, three pre-acceptance reads ran** (superfan 5★ /
+red-team "close—not yet" / dev; filed in notes/wave7-*-2026-08-28)
+and a touch-up landed on the branch (commit b4b769e; reading page
+rev 2, same URL): P6 fired at last, Boyd's ultimatum fold marked
+in Cal's POV, survey disambiguated, seams deduped — every item
+listed in the PR #98 comment, all strikeable. On the author's
+merge: fold → line pass (**E5** — E3 was spent on the dev read) →
+wave 8 (A10), with the square-kiss IOU and Boyd's on-page defeat
+carried as named debts. If the author strikes anything in PR
+comments, re-stage on the branch before merge.
 
 Done: directive (card A9) → 12 blind drafts → four panel judgings
 → cross-batch canon sweep (E4) → staging order with SR-23…SR-36
