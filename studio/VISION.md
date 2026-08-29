@@ -64,7 +64,8 @@ put them all together, it's a perfect mix." Operationally: a
 DIAL SHEET records every book's settings (audience age, edge,
 heat, modernity, humor register); the ADJACENCY RULE — no dial
 moves more than one click between neighboring books; the walk
-BRAIDS rather than marches (every flavor recurs across the set);
+BRAIDS rather than marches (every flavor recurs across the set —
+RATIFIED by the author, 2026-08-29);
 every book's panels run twice — the target reader AND the
 carryover reader from the previous book, whose "would she
 stick?" is a gate; packaging signals each book's flavor honestly
@@ -82,9 +83,14 @@ train, never casserole; Book 1's casseroles stay, per the grain
 rule); and the ANCHOR-LINE ration — one plain-spoken stakes
 line per chapter, dealt in briefs like ending registers, spoken
 by the chorus in voice ("Boyd wants to tear that house down,
-honey. Eat your eggs.") — the metaphor style stays, the casual
-reader gets her handhold; a distracted-reader instrument
-(one-chapter-per-sitting persona) verifies it. The penciled
+honey. Eat your eggs."). **The ratio is law (author, emphasized
+2026-08-29): "we need to stick with the metaphor for MOST
+things, but throw in some anchor lines"** — metaphor stays the
+default register; the anchor line is a strict ration counted in
+BOTH directions (a chapter with zero is a miss; a chapter with
+three is plainness creep — the sweep flags either); a
+distracted-reader instrument (one-chapter-per-sitting persona)
+verifies the handholds actually hold. The penciled
 Aisha×Merritt pairing gets ruled explicitly at kickoff —
 modernize or recast, never drift.
 
