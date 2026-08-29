@@ -6,7 +6,7 @@ Candidate: B. Variance card: D2 (hands and objects).
 ---
 
 The RV city went up in the dark one last time before winter,
-and by seven the cold had a thousand generator breaths in it
+and by seven the cold had a thousand generators idling in it
 and the first drumline notes were coming up the hill
 with frost still on them.
 Rivalry Saturday. Last home game of the fall.
@@ -153,7 +153,7 @@ It hadn't been one in a long time; by now it was just the
 order the work went in, and everybody on the crew could recite
 it, and nobody needed to.
 
-All afternoon Millrow carried the game up to them in swells
+All afternoon the game came up Millrow to them in swells
 and hushes. A big one came and hung there.
 
 "Touchdown," Ronnie said.

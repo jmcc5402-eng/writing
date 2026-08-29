@@ -153,8 +153,15 @@ The tower rang five into a sky already gone to lamplight,
 and the Checkerboard was steamed to the windows
 by the time Marisol slid into the booth.
 Cal came straight from the House with sawdust on his cuffs
-and took her hand across the table like it was on his list,
-and Kat came in off the highway twenty minutes later
+and took her hand across the table like it was on his list.
+
+"How's my wall?" she said.
+
+"Wrapped for winter," Cal said. "Ladders in the hall through March.
+The crew wants a woodstove down there.
+I'm pretending to think about it."
+
+Kat came in off the highway twenty minutes later
 and set her bag on the booth seat with particular care,
 zipper shut.
 
@@ -218,7 +225,13 @@ Confirmed," Earlene said. "You two are a public utility.
 "Leave it up," Aisha called from the counter.
 "Best thread we've had all season."
 
-Marisol's thumb hovered over the old register,
+"'She's been running this town since August.
+The clipboard was just paperwork.'"
+
+"The clipboard was never just paperwork," Marisol said,
+to nobody in particular, and let that be her one correction.
+
+Her thumb hovered over the old register,
 the pinned post, the *my loves*,
 every gentle correction she knew how to type.
 She turned the phone face down instead
