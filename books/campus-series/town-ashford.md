@@ -193,7 +193,7 @@ nomenclature) adjust once the state is chosen.]
 **Why there is a vote at all (the plausibility spine):** as a state
 institution, Ashford State is broadly immune from town zoning *on
 its own campus* — the expansion's on-campus phases never see the
-Board. But Boyd's full footprint (south end-zone tower, two parking
+Board. But Boyd's full footprint (north end-zone tower, two parking
 decks, and the "Boyd Gateway" fan plaza) spills across Millrow into
 trust-owned and private town land. For that, the plan needs the
 town to (1) **vacate two blocks of Millrow Street and its alleys**,

@@ -466,3 +466,14 @@ door-smile + M1's for-him-alone echo dealt to ch 30's step;
 offstage in the finale; (4) the word said at the step, both
 directions, on the page; (5) the A10 blurb graduates to
 back-cover draft material after acceptance (market-pitch-agent).
+
+## D18 — the expansion's end of the stadium: NORTH
+
+**RULED (PR, 2026-08-29).** The accepted pages say north twice
+(ch04:154 "North end. Three decks"; ch14:120–121 "the new north
+end"); the census said south (town-ashford.md §5) — a
+pre-acceptance bible line the manuscript outvoted. Canon: the
+Boyd expansion footprint is the NORTH end-zone tower and decks;
+the census line is amended in this diff. Surfaced by the
+2026-08-29 continuity fuzz (finding I5). Alternative (strike
+this PR): rule south and reword the two accepted pages.
