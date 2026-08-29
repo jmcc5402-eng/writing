@@ -1,9 +1,77 @@
 # Campus Book 1.1 — State of Play
 
-**Updated 2026-08-23 (wave-5 accepted and folded; wave 6 GATED at
-the author). This file is the thread-handoff summary: a fresh
+**Updated 2026-08-28 (wave 7 STAGED on its branch; the PR is the
+next action). This file is the thread-handoff summary: a fresh
 session reads this FIRST, then the docs it points to. Update it at
 every wave boundary and whenever a thread parks mid-pipeline.**
+
+## PICK UP HERE (fresh session, 2026-08-28)
+
+**Wave 7 (ch 25–28) ran the FULL conveyor and is at the author
+gate: PR #98 OPEN** (`campus/ch25-28-wave` → main, branched off
+36ee413). Reading page:
+https://claude.ai/code/artifact/e7415fe6-efde-43f7-a313-b0a71fdf8abb
+The ch 28 spot-check was done (all seven panel fixes verified on
+the page; one two-word D10 guard added — "in the log").
+**Post-PR, three pre-acceptance reads ran** (superfan 5★ /
+red-team "close—not yet" / dev; filed in notes/wave7-*-2026-08-28)
+and a touch-up landed on the branch (commit b4b769e; reading page
+rev 2, same URL): P6 fired at last, Boyd's ultimatum fold marked
+in Cal's POV, survey disambiguated, seams deduped — every item
+listed in the PR #98 comment, all strikeable. On the author's
+merge: fold → line pass (**E5** — E3 was spent on the dev read) →
+wave 8 (A10), with the square-kiss IOU and Boyd's on-page defeat
+carried as named debts. If the author strikes anything in PR
+comments, re-stage on the branch before merge.
+
+Done: directive (card A9) → 12 blind drafts → four panel judgings
+→ cross-batch canon sweep (E4) → staging order with SR-23…SR-36
+→ four mechanical staging runs → my lint pass on all four.
+
+**Winners:** ch 25 = B (D6), ch 26 = C (D4), ch 27 = B (D5),
+ch 28 = B (D3).
+
+**Lint (mine, on the staged files):**
+
+| Ch | Words | Dialogue | Double-dash | Banned pairs | Dangles |
+|---|---|---|---|---|---|
+| 25 | 2,093 | 17.2% | 1 (sanctioned interruption) | 0 | 0 |
+| 26 | 2,016 | 22.4% | 0 | 0 | 0 |
+| 27 | 1,978 | 36.4% | 0 | 0 | 0 |
+| 28 | 2,152 | 25.2% | 0 | 0 | 0 |
+
+Also verified: zero Cal-smile language (door-smile 3/3 still
+banked); wife unnamed everywhere; Boyd's name absent from ch 25
+(the Kudzu wire stays unproven) and from ch 28's last three
+lines; "I don't move a date on a man twice" appears exactly once
+in the wave (ch 28, per SR-32); Ratchet female; no "twelve
+winters" duration; ch 26 ends on plain information, ch 28 on the
+wave's one button.
+
+**Both closing steps DONE (2026-08-28):** the reading page is
+published (URL above; wave-6's was
+https://claude.ai/code/artifact/d03c55ad-0ab7-4d14-b819-beeba7a80d21)
+and **PR #98 is open** with the full flag set (SR-23…SR-36 all
+strikeable; SR-22 delivered, Kudzu-as-arrival, T23 open, allies
+unnamed, door-smile held-with-gift-option). On-merge plan lives
+in the PR body: fold (THREADS + CHANGELOG) → line pass (E-deck
+LRU = **E3**) → wave 8 (ch 29–30, the finale; A-deck draw =
+**A10**, first use).
+
+**Staging-agent flags** (raised by the agents, carried in the
+agents, not errors): ch 25's Fix 4 target vanished when the P15
+sweep fix replaced the whole passage, so no "in its own
+handwriting" phrase survives anywhere — restore on request;
+ch 25's pinned post is three words ("Evening, my loves."), the
+donor framing said two; ch 25 graft 7 leaves the photograph
+paragraph opening and closing on "because" clauses; ch 27's
+SR-28 graft sits after the hand-flat paragraph rather than
+literally after the message text (matches the ruling's rationale;
+a two-paragraph swap if the author meant it literally).
+
+**Ch 28 spot-check: DONE** — all seven panel fixes and every
+sweep item verified line-by-line on the staged page; the only
+repair needed was the two-word D10 guard above.
 
 ## Where the book stands
 
@@ -26,7 +94,8 @@ every wave boundary and whenever a thread parks mid-pipeline.**
   rules are law (STYLE.md 2026-08-22 block + RECENT.md, which
   gained a laugh-scaffold watch item 2026-08-23).
 
-## Wave 6 (ch 21–24) — STAGED; **PR #97 OPEN at the author gate**
+## Wave 6 (ch 21–24) — **ACCEPTED** (PR #97 merged, no comments);
+## folded, line-passed. Historical record follows.
 
 **Status correction (2026-08-24 verification shift):** the gate
 opened — the author ruled GO with **D13 (M1 fires at ch 22)** plus
