@@ -245,3 +245,15 @@ each instrument checks one thing, backstage; the author sees a
 chart, a winner, and options. If any single mind ever needs the
 whole inventory to do its job, that is the failure this section
 exists to prevent.
+
+## Book-2+ operating amendments (ratified 2026-08-29)
+
+The Book-1 retrospective's ratified practice list —
+`studio/RETRO-BOOK1.md` §II as amended by §III — governs all
+1.2+ production: the pre-flight brief audit, the label-shuffle
+judging protocol, the jewel-forge slot, the staging clause, the
+furniture registry, the series dial, the storefront test, and
+the retirement of the standalone staging lint (checks
+reassigned, named owners). Where that list and older text here
+conflict, the ratified list wins.
+
