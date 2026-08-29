@@ -7,9 +7,15 @@ every wave boundary and whenever a thread parks mid-pipeline.**
 
 ## PICK UP HERE (fresh session, 2026-08-28)
 
-Wave 7 (ch 25–28) has run the full conveyor except the last two
-steps. **Everything is committed and pushed to
-`campus/ch25-28-wave`** (branched off main at 36ee413).
+**Wave 7 (ch 25–28) ran the FULL conveyor and is at the author
+gate: PR #98 OPEN** (`campus/ch25-28-wave` → main, branched off
+36ee413). Reading page:
+https://claude.ai/code/artifact/e7415fe6-efde-43f7-a313-b0a71fdf8abb
+The ch 28 spot-check was done (all seven panel fixes verified on
+the page; one two-word D10 guard added — "in the log"). On the
+author's merge: fold → line pass (E3) → wave 8 (A10). If the
+author strikes an SR ruling in PR comments, re-stage that item on
+the branch before merge.
 
 Done: directive (card A9) → 12 blind drafts → four panel judgings
 → cross-batch canon sweep (E4) → staging order with SR-23…SR-36
@@ -35,23 +41,17 @@ in the wave (ch 28, per SR-32); Ratchet female; no "twelve
 winters" duration; ch 26 ends on plain information, ch 28 on the
 wave's one button.
 
-**The two steps left:**
+**Both closing steps DONE (2026-08-28):** the reading page is
+published (URL above; wave-6's was
+https://claude.ai/code/artifact/d03c55ad-0ab7-4d14-b819-beeba7a80d21)
+and **PR #98 is open** with the full flag set (SR-23…SR-36 all
+strikeable; SR-22 delivered, Kudzu-as-arrival, T23 open, allies
+unnamed, door-smile held-with-gift-option). On-merge plan lives
+in the PR body: fold (THREADS + CHANGELOG) → line pass (E-deck
+LRU = **E3**) → wave 8 (ch 29–30, the finale; A-deck draw =
+**A10**, first use).
 
-1. **Reading page** — `python3 studio/tools/reading-page.py` on a
-   concatenation of ch 25–28 (build it in the scratchpad), then
-   publish as an artifact. Wave-6's page:
-   https://claude.ai/code/artifact/d03c55ad-0ab7-4d14-b819-beeba7a80d21
-2. **ONE author PR** from `campus/ch25-28-wave` into main.
-   Stranger-readable body; chapters table with the lint numbers
-   above; how-it-was-made; the sweep's three headline catches;
-   and the flags — **every SR-23…SR-36 ruling is strikeable**,
-   plus the directive's five expected flags (SR-22 delivered,
-   Kudzu-as-arrival, T23 stays open, allies unnamed, door-smile
-   held). On-merge plan: fold (THREADS + CHANGELOG) → line pass
-   (E-deck LRU = **E3**) → wave 8 (ch 29–30, the finale;
-   A-deck draw = **A10**, first use).
-
-**Staging-agent flags to carry into the PR body** (raised by the
+**Staging-agent flags** (raised by the agents, carried in the
 agents, not errors): ch 25's Fix 4 target vanished when the P15
 sweep fix replaced the whole passage, so no "in its own
 handwriting" phrase survives anywhere — restore on request;
@@ -62,11 +62,9 @@ SR-28 graft sits after the hand-flat paragraph rather than
 literally after the message text (matches the ruling's rationale;
 a two-paragraph swap if the author meant it literally).
 
-**Not yet done:** the ch 28 staging agent's own report never
-landed before this session ended — the file is complete and
-lints clean, but its self-reported fix list is unverified. Spot-
-check ch 28 against `notes/ch28-panel-2026-08-28.md` fixes 1–7
-before the PR body claims them.
+**Ch 28 spot-check: DONE** — all seven panel fixes and every
+sweep item verified line-by-line on the staged page; the only
+repair needed was the two-word D10 guard above.
 
 ## Where the book stands
 
