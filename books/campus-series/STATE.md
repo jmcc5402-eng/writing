@@ -1,7 +1,7 @@
 # Campus Book 1.1 — State of Play
 
-**Updated 2026-08-28 (wave 7 STAGED on its branch; the PR is the
-next action). This file is the thread-handoff summary: a fresh
+**Updated 2026-08-28 (ch 1–28 ACCEPTED; wave 8 parked mid-conveyor
+— see PICK UP HERE). This file is the thread-handoff summary: a fresh
 session reads this FIRST, then the docs it points to. Update it at
 every wave boundary and whenever a thread parks mid-pipeline.**
 
