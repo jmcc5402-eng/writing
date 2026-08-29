@@ -295,3 +295,4 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-29 | showrunner (retro: winner-pattern mining, 8 waves of verdicts + LOG) | — | notes/retro-winners-2026-08-29.md |
 | 2026-08-29 | romance-reader-panel (retro: the losers' estate sale, waves 5-8) | — (no card; panel deck TK) | notes/retro-estate-sale-2026-08-29.md |
 | 2026-08-29 | developmental-editor (retro: the parked questions, data hearing) | — (no card; dev deck TK) | notes/retro-parked-questions-2026-08-29.md |
+| 2026-08-29 | line-copy-editor (campus ch29-30 post-ratify pass — the book-complete line pass) | E5 dialogue-mechanics-first (LRU) | manuscript in place + report |
