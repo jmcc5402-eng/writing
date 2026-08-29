@@ -32,12 +32,14 @@ and the energy bank, still holding unspent material. The House
 winters under tarps with twelve names contracted through March;
 the sale closes offstage; the platform name stays [TK].
 
-**Now running / next:** the Book-1 retrospective (six instruments,
-notes/retro-* and notes/sampling-*) → the ratification PR for the
-1.2 operating rules (studio/RETRO-BOOK1.md); the ch 29–30 line
-pass; the POLISH-PASS list (item 1 is confirmed executable and
-awaits the author's go); the A10 blurb → market-pitch with the
-storefront test as its acceptance gate (D17.5).
+**The retrospective is COMPLETE (2026-08-29):** ten instruments
+run and filed (notes/retro-* + notes/sampling-* + telemetry);
+the ch 29–30 line pass done (7 mechanical fixes, scrub clean).
+**AT THE AUTHOR'S GATE: PR #102 — the ratification PR** (the 1.2
+operating rules; merge = ratified, any item strikeable).
+Separate decisions on the author's word: the polish go (ch 2–4
+warmth, gate satisfied); the six line-pass style proposals; the
+A10 blurb → market-pitch behind the storefront test (D17.5).
 
 ## Where the book stands
 
