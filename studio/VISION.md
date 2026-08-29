@@ -53,6 +53,41 @@ ones that measure pleasure.
   decisions, then the four-book shape.
 - **MYBYB:** concept locked, reboot drafting — the slow burner;
   keep it warm, don't force it.
+**The series gradient (author, 2026-08-29, in chat — the 16-book
+thesis):** each book aims at a slightly different reader — age
+range, modernity, edginess shift book to book — "the risk we're
+taking, for potential big reward, is that readers will like the
+fact that the stories bounce around. The reader that likes to
+read about casseroles will love book one but they'll stick
+around for book 2 because it's not that far off. And when you
+put them all together, it's a perfect mix." Operationally: a
+DIAL SHEET records every book's settings (audience age, edge,
+heat, modernity, humor register); the ADJACENCY RULE — no dial
+moves more than one click between neighboring books; the walk
+BRAIDS rather than marches (every flavor recurs across the set);
+every book's panels run twice — the target reader AND the
+carryover reader from the previous book, whose "would she
+stick?" is a gate; packaging signals each book's flavor honestly
+(the storefront test, per book); the shared world (town orbit,
+Grapevine, cameos, running canon) is the retention engine and is
+never sacrificed to a book's tonal shift.
+
+**Book 1.2 voice & audience (author, 2026-08-29, in chat):**
+slightly younger, more modern, aimed at the extremely-online
+38-year-old mother; edgier humor, franker interiority; leads
+modern (2020s trades and registers) against the country chorus
+— relatable to small-town readers, written for a modern one; a
+MODERNITY REGISTER in the census (props carry decades — meal
+train, never casserole; Book 1's casseroles stay, per the grain
+rule); and the ANCHOR-LINE ration — one plain-spoken stakes
+line per chapter, dealt in briefs like ending registers, spoken
+by the chorus in voice ("Boyd wants to tear that house down,
+honey. Eat your eggs.") — the metaphor style stays, the casual
+reader gets her handhold; a distracted-reader instrument
+(one-chapter-per-sitting persona) verifies it. The penciled
+Aisha×Merritt pairing gets ruled explicitly at kickoff —
+modernize or recast, never drift.
+
 **Imperfection (author, 2026-08-29, PR #103 comment): "we wrote
 the book and every aspect of it does not need to be perfect… if
 we make every line of the book perfect it will seem fake."**
