@@ -290,3 +290,8 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-29 | romance-reader-panel (campus whole-book warmth map, 30 blind windows) | — (no card; panel deck TK) | notes/sampling-warmth-2026-08-29.md |
 | 2026-08-29 | red-team-critic (campus voice-drift dating, 16 blind paragraphs) | C1 pacing-above-all (LRU, first draw; applied to the tells hunted) | notes/sampling-dating-2026-08-29.md |
 | 2026-08-29 | continuity-keeper (campus continuity fuzz, 8 distant pairs) | E2 weakest-chapter-first (LRU, first draw; orders the pair queue) | notes/sampling-fuzz-2026-08-29.md |
+| 2026-08-29 | continuity-keeper (campus ch29-30 acceptance fold — BOOK COMPLETE) | E3 reverse-order (LRU) | THREADS + CHANGELOG blocks, D10 amendment, calendar rows |
+| 2026-08-29 | continuity-keeper (retro: defect escape analysis, waves 1-8) | E4 transitions (LRU; read as: how defects entered and left the gates — deviation documented) | notes/retro-escapes-2026-08-29.md |
+| 2026-08-29 | showrunner (retro: winner-pattern mining, 8 waves of verdicts + LOG) | — | notes/retro-winners-2026-08-29.md |
+| 2026-08-29 | romance-reader-panel (retro: the losers' estate sale, waves 5-8) | — (no card; panel deck TK) | notes/retro-estate-sale-2026-08-29.md |
+| 2026-08-29 | developmental-editor (retro: the parked questions, data hearing) | — (no card; dev deck TK) | notes/retro-parked-questions-2026-08-29.md |
