@@ -111,7 +111,7 @@ He asked her what happened.
 She told him, plain and short.
 
 "You're all right to be still," she said.
-"We do the moving. That's the whole arrangement."
+"We do the moving. That's the arrangement."
 
 "Facemask."
 The little driver whined four times. The mask came away.
@@ -264,6 +264,8 @@ It was always on. Tonight it was the only lit window on the block.
 Verna Poteat sat behind the desk with the space heater going
 and the radio up, callers lined up around the county
 to be happy on the air one at a time.
+"Thirty-one years I have waited on this night," a caller said,
+and had to stop and gather himself, on the air, at length.
 
 "There's cocoa packets in the drawer if you want one," Verna said.
 "Some of them's older than the drawer."

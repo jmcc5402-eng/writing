@@ -264,7 +264,7 @@ woodsmoke and wet ash and somebody's dropped cocoa.
 Families peeled off into the dark by porchfuls.
 The Scout went by on his mother's shoulder
 and held up the bandaged thumb to her, high,
-the way champions hold up trophies,
+a trophy over the crowd,
 and Aisha raised the cold pie in salute
 and watched them out of sight.
 
@@ -287,9 +287,9 @@ The far suitcase sat by the window, latched,
 and had sat there latched since June.
 The heater ticked and caught.
 The bathroom glass wore its paper cap.
-Six months, and the room still checked out daily,
-which she noticed as a fact of the room
-the way you notice a reading on a monitor,
+Six months, and the room still squared away daily,
+a fact of the room she noticed
+as a number on a monitor gets noticed,
 and moved past.
 
 Not bad, she thought, for a town that had met her twice.

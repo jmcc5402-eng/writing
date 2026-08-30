@@ -203,9 +203,9 @@ Neither of them got up.
 The television ran the backup's drive again.
 Down the hall a cart went by on one clicking wheel.
 The machine by the elevators cycled its little light.
-Aisha closed her eyes — not asleep,
-he could tell by her thumb going around the cup rim —
-just off duty for the length of a hallway.
+Aisha closed her eyes.
+Not asleep; her thumb kept going around the cup rim.
+Just off duty for the length of a hallway.
 He turned his cap over in his hands
 and worked the brim like a rosary
 and stayed where he was,
