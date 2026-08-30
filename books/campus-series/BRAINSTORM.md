@@ -213,6 +213,7 @@ London gran, via letters.
 | S08 | The Hartwell toddy | 1.4 recipe card → remade 2.2, 3.1 → OWED: 4.4 served at the reunion (cheap to carry, high payoff) |
 | S09 | Veritas returns | 3.4 beaten, not destroyed → OWED: 4.1/4.4 as the ed-tech "global campus" product |
 | S10 | The director's second chance | 1.4 a name she won't discuss → glimpses 2.4, 3.1 → OWED: resolves quietly 4.2 or 4.4 |
+| S11 | Merritt's relief years (RULED author 2026-08-29: S-thread, kept vague on purpose) | 1.2 touches lightly — "left coaching, did relief work overseas," and NOT much else; Grapevine speculates, the page never confirms → dormant, flexibility preserved → OWED: unslotted, set 3± ("ten books later" is the play) — dive in only if a book truly needs it; whichever book spends it rules the specifics then |
 
 ## 8. The four worlds (setting research, condensed)
 

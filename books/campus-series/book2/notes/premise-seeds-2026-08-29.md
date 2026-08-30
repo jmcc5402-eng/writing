@@ -19,13 +19,15 @@ came back late; head coach at 38 with everything to prove —
    gets an S-thread row with an OWED marker in the series
    bible (a person he served with, or a thing he learned, that
    a later book collects).
-Options for WHAT the gap was (premise PR presents, author
-rules): military (fits, most-used card in the lane) · Peace
-Corps / disaster relief (fresher; rhymes with Aisha's "I keep
-people breathing") · overseas football, Germany/Japan (trade-
-diction stays in-domain; worldly without fancy) · construction
-years (he knows from the inside how projects like Boyd's live
-and die — immediately plot-useful).
+RULED (author, 2026-08-29, in chat): **S-thread — S11.** On the
+1.2 page: "he left coaching and did relief work overseas" and
+NOT much else — light touches only, the vagueness IS the asset;
+the gap is NOT this book's plot engine; Grapevine may speculate
+but the page never confirms details. Flexibility preserved for
+a play ~ten books out (set 3±); whichever book spends S11 rules
+the specifics then. The premise PR carries this as a constraint
+(what drafters may and may not say about the gap), not a
+question.
 Note for the record: 38 is not even young for head coaches in
 reality; the genre reader will read him as the story tells her
 to. No apparatus needed on the page.
