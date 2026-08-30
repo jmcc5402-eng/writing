@@ -300,3 +300,4 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-29 | market-pitch-agent (book 1.2 comp-shelf refresh, modern lane — kickoff pre-flight) | — (no card; deck TK) | book2/notes/comp-shelf-2026-08-29.md |
 | 2026-08-29 | culture-researcher (Grapevine realism study — do real community groups gossip about romances) | — (no card; deck TK) | book2/notes/grapevine-realism-2026-08-29.md |
 | 2026-08-30 | plot-architect (book 1.2 premise + Snowflake outline, blurb-backwards method per plan) | A4 contrarian comp (LRU, first draw — find the comp arguing this book should not work) | book2/plots/ for the premise PR |
+| 2026-08-30 | superfan-reviewer (book 1.2 premise+outline gate — TWIN READ: target reader + carryover casserole reader) | C7 endings-only (LRU among undrawn; read as: judge each chapter by its dealt ending-register candidates — deviation documented for outline material) | book2/notes/outline-gate-2026-08-30.md |
