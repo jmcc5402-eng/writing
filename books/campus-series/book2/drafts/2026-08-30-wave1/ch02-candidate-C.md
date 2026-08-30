@@ -33,10 +33,36 @@ every door open, every minute of every practice on film.
 Nobody on his staff asked him to justify any of it anymore.
 The rules had come with him, like the whistle.
 
+The injury report went to the league office at noon,
+signed, a day before anybody would have asked for it.
+The visitors' sheet hung on a clipboard by the ramp door,
+and everybody signed it, scouts, preachers, the propane man.
+There was a way of running a program
+where nothing you did needed explaining later.
+It cost him twenty extra minutes a day,
+and he paid it the way other men paid insurance,
+early and without discussion.
+
 The team came through the propped door blowing on their hands,
 helmets carried, jerseys over hoodies, no pads on a Friday,
 and at seven thirty sharp Dan blew the whistle once
 and the building went from sixty conversations to one.
+
+A walkthrough ran at half speed and full attention,
+no pads, no contact, no music,
+the only voices coaches' voices,
+and between periods the claps came in volleys,
+players breaking huddles they didn't need
+because breaking huddles sharp was a habit
+and habits were what showed up at two thirty.
+
+The griddle in the equipment bay had been going since six,
+his own call, eggs and white bread for anybody in a jersey,
+because it was the first hard-cold morning of the year
+and a walkthrough taken on an empty stomach
+was a walkthrough you paid for twice.
+He told the managers the griddle was for the film crew's
+morale. The managers knew better and ate too.
 
 Ninety plays in ninety minutes, every look scripted.
 The scout team wore pinnies with the rival's numbers
@@ -47,6 +73,10 @@ and watched the front seven reset without a word said.
 Punt safe twice. Field-goal block once.
 The swinging gate they would never call but had to carry,
 because the rival carried theirs.
+The last period was the two-minute drill,
+no clock in the building except the one in his mouth,
+ball on the minus-forty, one timeout, down three,
+and the whole thing ran clean with time to spare, twice.
 
 A freshman aligned a yard wide of his landmark in period nine.
 Dan walked over, moved him with two fingers on the shoulder,
