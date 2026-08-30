@@ -178,8 +178,10 @@ SR-14 apparatus edit + the re-read-the-mate rule) → stage on
    forty; ch14/ch16 printer clause (old).
 5. Mule 2.4 outline rider (three-visit site) — recommended, never
    ratified; ch 26 holds visit 2 either way.
-6. Older, still open: T23 sheets' one bible sentence; "Doss
-   County" county-name ruling; D05 lintel flag (ch 10 "eighty
+6. Older, still open: T23 sheets' one bible sentence; ~~"Doss
+   County" county-name ruling~~ — CLOSED 2026-08-30, RATIFIED
+   as Doss County (SR-B2-6 at the 1.2 wave-1 merge, PR #106);
+   D05 lintel flag (ch 10 "eighty
    years"); "one beat past" thinning on accepted pages (~8 uses);
    ch 25 forensics protections (ya'll ×2, "inside of four
    minutes" = probable plant — confirmed no new uses in wave 5).

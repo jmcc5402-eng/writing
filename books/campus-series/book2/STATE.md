@@ -16,8 +16,15 @@ lines, carryover-reader gate).**
 them). Fold applied: STATUS flips, FC1 census fix, flag-8
 adoptions annotated in the energy bank.**
 
-**WAVE 1 COMPLETE THROUGH THE GATE (2026-08-30 evening): PR
-#106 OPEN — ch 1–4 staged on campus/b2-ch01-04-wave.** The
+**WAVE 1 ACCEPTED (PR #106 MERGED bare, 2026-08-30 — ch 1–4
+canon; all SR-B2-1..7 stand). FOLD DONE: headers flipped,
+THREADS.md + CHANGELOG.md started, furniture registry started
+(notes/furniture-registry.md), town-ashford carries room
+nine + back-room mechanic + slice canon, Doss County ruling
+closed in ../STATE.md. NOW: line pass (E1) → wave-2 directive
+(ch 5–8).**
+
+Historical record of the wave run follows: The
 whole ratified conveyor ran same-day: storefront test (2
 blocking copy fixes applied — "door-ajar"→"one steamy scene";
 diner warmth line); wave-1 directive; BRIEF AUDIT (blocked

@@ -132,7 +132,10 @@ requirement. All names invented and PROPOSED.
    Pham family since 1998 (second-generation; the South's real
    demography, per §8); griddle grease, burnt coffee, bleach at
    shift change; worth: the Liars' Table at six a.m. is the town's
-   senate.
+   senate. THE COACH'S SLICE (canon, SR-B2-5, 1.2 wave 1): a
+   quarter of a whole pie cut as one piece, $4, named for Dan
+   Merritt's own standing order — it's on the sign; ordering it
+   reads as tribute.
 3. **The Ashford Courier** (est. 1889) — the weekly Jo comes home to
    run, offices above the old five-and-dime; toner, mildew, and a
    hundred thirty years of newsprint morgue; worth: the only
@@ -153,7 +156,11 @@ requirement. All names invented and PROPOSED.
 7. **Magnolia Court Motel** (1962) — Verna Poteat, widowed, still at
    the desk under the original neon; chlorine, cut grass, window-
    unit freon; worth: booked three years deep for game weekends —
-   the town's guest room and its gossip clearinghouse.
+   the town's guest room and its gossip clearinghouse. CANON
+   (SR-B2-1/-2, 1.2 wave 1): Dr. Aisha Cole lives month-to-month
+   in ROOM NINE — Cordelia's room; on home Saturdays her room
+   goes at game rates and Verna moves her to the back room off
+   the office (Verna's arrangement, never discussed as charity).
 8. **Doss County Curb Market** — Saturday shed market, WPA-built
    1936, run by a growers' co-op; tomatoes on newspaper, boiled-
    peanut steam, zinnias in coffee cans; worth: the town's weekly
