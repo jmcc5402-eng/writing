@@ -14,6 +14,8 @@ The painted numbers wore frost down in their grooves.
 Ice stood in the hose bib like a cork.
 The extension cords had gone stiff as rebar
 and lay where they had been flung.
+Sound traveled — whistles, pads, the slap of the ball,
+all of it arriving close and hard-edged.
 The field did not even smell like a field;
 the freeze had shut the grass smell off at the main.
 
@@ -53,6 +55,11 @@ Rotate your linemen through. Two-minute turns."
 
 He went on up the line with the tape.
 
+Her own Tuesday list was two ankles and a shoulder,
+rechecked at the break,
+all three honest about it,
+all three cleared for the walkthrough load.
+
 Her radio clicked at the half-period.
 "Booth to Cole. Glass is icing up here.
 If you want eyes on anything, ask early."
@@ -62,6 +69,8 @@ If you want eyes on anything, ask early."
 Breath hung over the huddles and moved off in one piece.
 Managers went up the sideline
 cracking water bottles loose from their crates.
+The kickers' net had frozen into one shape
+and swung all of a piece.
 At the far end Merritt ran his periods
 off the printed schedule, hat down, collar up,
 voice carrying flat and level across the frozen grass,
@@ -114,6 +123,8 @@ Verna put the phone back to her ear on the way out.
 In room nine the furnace ran behind, as billed,
 and she lay under cedar-smelling wool
 while the heater's coil got its color up.
+The furnace would catch up sometime after midnight.
+It always did.
 
 Kat had sent three listings since supper.
 A brick two-bedroom with gas heat
@@ -121,6 +132,8 @@ and a roof two years old.
 A bungalow four blocks off the square,
 walk to everything, seller motivated.
 The third was only a link and one line — *this one won't last.*
+Three little houses, all of them possible,
+none of them asked for.
 
 She read all three, twice.
 Looking was free. Answering was an address.
@@ -140,6 +153,8 @@ room by room down the hall,
 and the windows ran wet at their corners,
 and by seven the old brick held a warmth
 the glass buildings across campus couldn't make.
+By eight the rehab rooms down the hall
+would smell of eucalyptus and hot metal.
 
 The parka was on her chair when she unlocked her office.
 Team navy, the staff patch on the chest,
@@ -150,6 +165,7 @@ She put it on.
 The cuffs went past her hands.
 The shoulder seams landed halfway down her arms.
 The hem went past her knees.
+Zipped all the way, it came up to her chin.
 There was a doctor in it somewhere.
 
 She wore it across to the Fieldhouse anyway,
@@ -227,6 +243,11 @@ and the Liars' Table saw the coat before it saw her.
 The Table let it lie.
 Sonny went back to his eggs and inspected those.
 
+"What do you carry in a coat like that, Doc?"
+the far end of the Table asked.
+
+"Everything," she said. "There's room in here for the kit."
+
 "Coffee's poured if you can get a hand out to take it,"
 the woman at the urn said.
 She got a hand out.
@@ -278,6 +299,9 @@ and on the bottom row, older paper,
 folders gone soft as cloth,
 from whoever was carried in here
 before anybody called this building overflow.
+
+The survey would count square feet.
+There was no line on a survey for warm in winter.
 
 Facilities would provide boxes.
 She stood in the records room a while with that sentence.
