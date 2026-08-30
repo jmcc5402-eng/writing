@@ -39,6 +39,11 @@ docs); F## fair-play rows (b12-outline.md table governs).
   (quarter of a whole pie, $4, one piece, his standing order).
 - **Phone-face-down pair:** ch 2 (ritual) → ch 4 (turn) is the
   motif's plant/turn; do NOT reuse the gesture wording again.
+- **"Never once" (RECENT watch):** 1.2 count stands at ZERO;
+  ONE conscious spend is dealt to Odell's ch 8 anchor (wave-2
+  deal — plain "never" render offered; cap = one book-wide).
+- **"Six months…" scaffold:** per-chapter cap 1 (staging order
+  :176); wave-2 deal = zero new in ch 5–8.
 
 ## Per-chapter ledger
 

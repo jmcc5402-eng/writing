@@ -4,11 +4,34 @@ Issued 2026-08-30 by the showrunner, post-#106 (ch 1–4
 ACCEPTED, folded; THREADS.md and the furniture registry live).
 Passes the BRIEF AUDIT before any drafter fires; every manifest
 fact below is a verbatim quote with file:line (RETRO item 1 as
-amended). The conveyor, laws, format/frame, scrub bans, and
-Grapevine register blocks of `plots/wave1-directive.md` RIDE
-UNCHANGED except where this directive supersedes them —
-drafters read that directive's LAW and SCRUB sections plus this
-one; the wave-1 chapter briefs do not apply.
+amended).
+
+INHERITANCE (exact): drafters read, and are bound by, these
+SIX sections of `plots/wave1-directive.md`, verbatim — "The
+conveyor for this wave" (label shuffle, panels, sweep, staging
+stages), "Format and frame (all candidates)", "The leads
+(quote-locked; do not re-derive)", "Laws riding every brief
+(verbatim, as ratified)", "Scrub bans", and "Grapevine register"
+— EXCEPT these supersessions: output path is now
+`book2/drafts/2026-08-30-wave2/ch0N-candidate-X.md`; staging
+branch is `campus/b2-ch05-08-wave`; wave-1's chapter briefs,
+board-artifact count ("two board ARTIFACTS"), ending registers,
+anchor slots, and edge deal are replaced by this directive's;
+and the wave-1 scrub WATCH list gains the three 2026-08-30 line
+pass watches (`studio/agents/variance/RECENT.md`, appended
+2026-08-30: repeat-and-extend shape ≤1/chapter;
+"which"-appendix rationed hard; arrival-clock uses earn their
+slot). FLAG-10 RESTATED (still open — `DECISIONS.md:57-58`
+"author call before ch 1 briefs (open; drafters describe
+nothing unruled)"): describe NO fixed physical traits for
+either lead — presence, motion, wardrobe-in-action, voice only;
+pinning hair/eyes/skin/build is a staging strike.
+OFFSTAGE-STUDENT MECHANIC RESTATED for wave 2
+(`premise.md:233-235`: "OFFSTAGE ABSOLUTELY (R1/R5): jersey,
+broadcast glimpse, MRI dates, a voicemail described, never a
+line, never a POV"): Trey and ALL students stay offstage in
+every wave-2 candidate — no student caller, no student line,
+ch 8's phone-in included.
 
 ## What changed since wave 1 (binding)
 
@@ -19,23 +42,32 @@ one; the wave-1 chapter briefs do not apply.
   displacement; the printed 4:15–4:45 check; nightly tab read
   to the bottom; kickoff 2:30; dark ambulance; third-floor
   lounge; board usernames).
-- The phone-face-down wording is SPENT (ch 2→ch 4 plant/turn);
-  never reuse the gesture phrasing.
-- The "Six months…" sentence scaffold is at quota; build no new
-  ones (plain "since June" mid-sentence is fine).
-- The ch 1 anchor's echo is SPENT (ch 3); no further reuse of
-  "one Saturday plays for the whole year."
+- The phone-face-down wording is SPENT (`THREADS.md:40-41`:
+  "the motif's plant/turn; do NOT reuse the gesture wording
+  again"; pages: manuscript/ch02.md:346 → ch04.md:418); never
+  reuse the gesture phrasing.
+- FRESH WAVE-2 DEAL (showrunner): ZERO new "Six months…"
+  sentence-scaffold constructions this wave (the per-chapter
+  cap is ruled at `plots/wave1-staging-order.md:176`; the sweep
+  named the scaffold the wave's signature phrase — this deal
+  tightens it for ch 5–8). Plain "since June" mid-sentence is
+  fine, rationed per the arrival-clock watch.
+- The ch 1 anchor's echo is SPENT (`THREADS.md:33-36`: "the
+  ch 1→ch 3 'one Saturday plays for the whole year' echo is the
+  priced-bravado payoff, the motif's one echo, SPENT"); no
+  further reuse.
 - The narrator-tag construction "said the X, undefeated" is
   1.1's and may not be echoed (`b12-outline.md:383-387`,
   resolution note).
-- NO quiet-band dialogue slot remains in Q1: all four chapters
-  ≥15% quoted dialogue.
+- NO quiet-band dialogue slot remains in Q1 (`THREADS.md:35-36`:
+  "Q1 spent on ch 3 (13.1%)"): all four chapters ≥15% quoted
+  dialogue.
 
 ## Cards dealt (LRU; D6 rides every wave; D5 = jewel-forge slot C)
 
 | Ch | A | B | C (jewel-forge) |
 |---|---|---|---|
-| 5 | D7 open mid-motion | D2 hands and objects | D5 lyric-dense |
+| 5 | D7 open mid-motion | D2 hands and objects | D5 weather-as-texture, briefed lyric-dense (NEW 17) |
 | 6 | D1 sound-forward | D6 run past comfortable | D5 lyric-dense |
 | 7 | D3 short-declarative | D4 minor-character competence | D5 lyric-dense |
 | 8 | D6 run past comfortable (2nd) | D1 sound-forward (2nd) | D5 lyric-dense |
@@ -64,7 +96,9 @@ over safety; every ban still binds).
   spend of ONE — drafters may render it plain ("a microphone
   never healed anybody") if the rhythm holds; either way the
   book-wide count caps at one this wave.
-- EDGE RATION: 1 of 10 spent (ch 4). This wave deals ONE
+- EDGE RATION: 1 of 10 spent (`THREADS.md:31-33`: "1 spent —
+  'Goddamn,' Dan, ch 4, the empty lot. 9 remain."; page:
+  manuscript/ch04.md:318). This wave deals ONE
   optional swear — Dan's interiority, ch 8 only, at the
   want-naming's cost or not at all. Ch 5–7: zero. Chorus never.
 - WANT NAMING — the spark ledger's two slots arrive
@@ -85,8 +119,10 @@ over safety; every ban still binds).
 - THE TOTEM spends at ch 5 (`:387-389`: "the totem's first
   spend (the coach's slice set in front of her, unasked)");
   the banked catchphrase "I'm eating it where he can see me"
-  (`premise.md:263`) is licensed for ch 5 ONLY, once, speaker
-  chosen in voice at the Table; slice canon per the furniture
+  (`premise.md:263`) is licensed for ch 5 ONLY, once, at the
+  Table — speaker in voice (the estate harvest note reads
+  "Aisha Cole mic material"; Aisha is the lean, a chorus woman
+  is legal — deviation from the harvest note is knowing); slice canon per the furniture
   registry.
 
 ## CH 5 BRIEF — "Two Calendars" (Aisha · Wk2 Tue) — D7/D2/D5
@@ -177,9 +213,10 @@ hint, wink, or interior-monologue any provenance beyond the
 equipment manager's shrug about "a lost order"; Dan does not
 appear near the coat beat; the severable ch 29 line may not be
 paraphrased. The equipment manager speaks here — this is scene
-ONE of his two-scene budget (`premise.md:246-247` "two scenes;
-keeper of the coat's secret"); card D4's competence moment may
-be his, small. Kat cameo is BY TEXT only. The vacate order is
+ONE of his two-scene budget (`premise.md:245` "two scenes");
+his page handle is "the equipment manager" (name [TK] per flag
+7 — the handle is licensed; no invented name); card D4's
+competence moment may be his, small. Kat cameo is BY TEXT only. The vacate order is
 institutional weather (the AD/campus mail voice), not Boyd
 on-page. Verna's anchor lands at the motel desk — back-room /
 room-nine furniture per registry.
