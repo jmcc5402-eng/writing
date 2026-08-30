@@ -326,3 +326,4 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-30 | drafting-assistant (B1.2 ch02 staging, winner B) | — (mechanical) | book2/manuscript/ch02.md on campus/b2-ch01-04-wave |
 | 2026-08-30 | drafting-assistant (B1.2 ch03 staging, winner C + SR-B2-1/-4 close restage) | — (mechanical) | book2/manuscript/ch03.md on campus/b2-ch01-04-wave |
 | 2026-08-30 | drafting-assistant (B1.2 ch04 staging, winner A) | — (mechanical) | book2/manuscript/ch04.md on campus/b2-ch01-04-wave |
+| 2026-08-30 | line-copy-editor (B1.2 ch01-04 post-merge line pass) | E1 sentence-template hunt (LRU for this agent) | manuscript in place + report (filed by orchestrator) |
