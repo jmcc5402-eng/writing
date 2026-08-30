@@ -97,3 +97,18 @@ three cheap items:
    promise-keeping). Their one collision (both read outlines)
    is a feature: the twin read just caught what neither alone
    would. Keep separate.
+
+## 2026-08-30 — author listens on TTS audio (calibration note)
+
+The author reports consuming chapters as AUDIO via the ElevenReader
+app ("ch 1–3 on audio were really good" — first wave of 1.2, day of
+staging). Implications, standing:
+- Audio is a REAL author channel, not a persona hypothesis — the 1.2
+  P-deck deal (developmental-editor = P3 audio ear) is validated;
+  keep an audio-posture instrument in every book's deal.
+- Line passes watch for audio-tells: clock strings ("6:10"),
+  jersey-number renderings ("#7" vs "the seven" — the house's
+  "the seven" reads aloud correctly), homographs, and dialogue
+  attribution that only works by eye.
+- Reading-page/manuscript markdown already TTS-friendly (semantic
+  line breaks read as phrasing); keep it that way.
