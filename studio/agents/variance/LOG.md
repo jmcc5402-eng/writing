@@ -322,3 +322,7 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-30 | romance-reader-panel (B1.2 wave-1 judging, ch04 — shuffled labels) | P1 binge (1.2 book deal) | judging report (filed by orchestrator) |
 | 2026-08-30 | romance-reader-panel (B1.2 wave-1 judging, ch02 — shuffled labels) | P1 binge (1.2 book deal) | judging report (filed by orchestrator) |
 | 2026-08-30 | continuity-keeper (B1.2 wave-1 cross-batch canon sweep, 4 winners + graft packages + 8 panel-deferred questions) | E1 sentence-template hunt (LRU) | sweep report (filed by orchestrator) |
+| 2026-08-30 | drafting-assistant (B1.2 ch01 staging, winner C, executes wave1-staging-order) | — (mechanical) | book2/manuscript/ch01.md on campus/b2-ch01-04-wave |
+| 2026-08-30 | drafting-assistant (B1.2 ch02 staging, winner B) | — (mechanical) | book2/manuscript/ch02.md on campus/b2-ch01-04-wave |
+| 2026-08-30 | drafting-assistant (B1.2 ch03 staging, winner C + SR-B2-1/-4 close restage) | — (mechanical) | book2/manuscript/ch03.md on campus/b2-ch01-04-wave |
+| 2026-08-30 | drafting-assistant (B1.2 ch04 staging, winner A) | — (mechanical) | book2/manuscript/ch04.md on campus/b2-ch01-04-wave |
