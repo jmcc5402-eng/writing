@@ -91,9 +91,17 @@ his, inside the helmet, fast and working at it, and hers.
 "Be still," she said, at the earhole. "It's Doc.
 You're not moving till I say. Squeeze my fingers."
 
-He squeezed. Both sides. Toes next.
-A trainer held the helmet in two hands the way they'd
-drilled it since August, and she went along the neck
+He squeezed. Both sides.
+
+"Good. Toes. Push down like a gas pedal. Good."
+
+"Helmet stays on," she said, over the crown. "You have
+the head?"
+
+"Got it," the trainer said, and had it, two hands,
+the way they'd drilled it since August.
+
+She went along the neck
 through the collar of the pads, one bone at a time,
 asking her questions low and getting what she needed back,
 none of it hers to repeat.
@@ -115,7 +123,9 @@ and the crowd said both, quietly, to each other,
 forty thousand times.
 
 Neck clear. Story consistent. Everything moving.
-"Sit him up on my go," she said. "Stages. We're not racing."
+"We're going to sit you up in stages," she told him.
+"You race me, we start over."
+Then, to the trainers, "On my go. Go."
 Up to sitting, and the bowl inhaled.
 Up to a knee, to his feet, a trainer under each arm,
 and the sound that came down was rain crossing a lake,
@@ -146,6 +156,11 @@ and ten minutes later she ran it again.
 The second set is the honest one.
 What the second set told her, she wrote down
 instead of saying out loud.
+
+"Call County," she said, not looking up from the clipboard.
+"Precaution, nonemergent, we're coming.
+Baseline's on file with them from August — have them pull it.
+And keep this radio traffic off the open channel."
 
 She was glad of the protocol
 in a way she'd never admit to a living soul —
@@ -201,7 +216,10 @@ second symptom screen worse than the first.
 This is a precaution, so drive it like one.
 No lights through town. He's had enough soundtrack."
 
-The medic nodded and pulled the doors,
+"Sitting up and riding easy," the medic said.
+"We'll keep it boring."
+
+The medic pulled the doors,
 and the game came back up over the wall in pieces
 while she repacked her kit:
 a swell that broke wrong, a whistle, a flat official voice
@@ -223,13 +241,17 @@ describing to people who were there.
 
 ***
 
-A trooper ran her out on a gator through streets
+"Hold on, Doc," the trooper said,
+and ran her out on a gator through streets
 already filling, horns finding each other block to block,
 somebody's trombone loose and happy on a porch.
 At the Magnolia Court the lot was emptying and refilling
 at once, and Verna stood in the office doorway
 with the radio turned up hoarse behind her,
 the winning call getting its second replay already.
+
+"Radio says it's the tent," Verna said.
+"Radio don't know one thing past that, and says so hourly."
 She lifted the cone off herself and held it to her chest
 like a hymnal while Aisha got the door open.
 
@@ -254,10 +276,13 @@ like water behind a boat.
 Then the last block let them go, and the road opened,
 and the town shrank in her mirrors to a glow with a voice.
 The radio ran the call a third time, the announcer gone
-to gravel, and then his partner said they'd have more
-on the injury when there was more to have,
-which was the first honest sentence the county had been
-handed all night, and it held for almost a mile.
+to gravel on it.
+"Folks, we will play that drive on this station
+till the tower falls over," he said, and his partner said,
+"And we'll have more on the young man
+when there's more to have."
+The first honest sentence the county had been handed
+all night, and it held for almost a mile.
 
 She cut the engine under the hospital canopy lights
 in the middle of the town's third listen.

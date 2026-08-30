@@ -91,7 +91,8 @@ where the annex stood now,
 brick and window units and a roof he'd been told about twice.
 He liked the picture better every week.
 A program ought to say plainly what it thinks it's worth,
-and a building said it plainer than a coach could.
+and there was no plainer sentence than glass
+and lit turf you could see from the interstate.
 
 "Rivalry thread's been running since Tuesday," the graduate
 assistant said, sorting cut-ups.
