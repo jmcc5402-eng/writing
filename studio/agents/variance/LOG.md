@@ -333,3 +333,4 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-30 | drafting-assistant (B1.2 ch07 blind, candidates A/B/C) | D3 / D4 / D5-jewel | book2/drafts/2026-08-30-wave2/ch07-candidate-{A,B,C}.md |
 | 2026-08-30 | drafting-assistant (B1.2 ch08 blind, candidates A/B/C) | D6(2nd) / D1(2nd) / D5-jewel | book2/drafts/2026-08-30-wave2/ch08-candidate-{A,B,C}.md |
 | 2026-08-30 | orchestrator (B1.2 wave-2 label shuffle, NEW 16 — sealed BEFORE drafts landed) | — (mechanical; seed 20260831) | studio/agents/variance/sealed/wave2-b12-permutation.b64 (SHA256 406e58431d0259c73fef33af81bf9f46e0d84f45e23d8b716940a269a4351a3d); unmask at Book-2 retro |
+| 2026-08-30 | romance-reader-panel (B1.2 wave-2 judgings ch05/ch06/ch08 — shuffled labels, sealed perm seed 20260831) | P1 binge (1.2 book deal) | judging reports (filed by orchestrator) |
