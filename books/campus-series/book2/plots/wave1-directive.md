@@ -43,10 +43,10 @@ standards.
 
 ## Format and frame (all candidates)
 
-- POV/tense: `plots/b12-outline.md:7-10` — "POV dual
+- POV/tense: `plots/b12-outline.md:8-10` — "POV dual
   alternating, third past (standard 11): **Aisha odd, Dan
   even.**" Wave 1: ch 1/3 Aisha, ch 2/4 Dan.
-- Length ~2,000 words per chapter (`b12-outline.md:6`:
+- Length ~2,000 words per chapter (`b12-outline.md:7-8`:
   "30 chapters, ~2k words each, ≈60k").
 - Markdown, 80 columns, SEMANTIC LINE BREAKS (break at clause/
   sentence boundaries — checked at staging, RETRO NEW 21).
@@ -61,28 +61,32 @@ standards.
 - `book2/DECISIONS.md:10-13` (B2-D01, RULED): "Lead pair as
   penciled and MODERNIZED, not recast: **Dr. Aisha Cole, 41,
   never-married, head team physician × Coach Dan Merritt, 38,
-  divorced — the young up-and-coming coach; SHE is older**."
+  divorced — the young up-and-coming coach; SHE is older**…"
 - Physical descriptions: OPEN (gate flag 10,
-  `b12-outline.md:931-933` — "[TK] per standard 25 and census
+  `b12-outline.md:934-936` — "[TK] per standard 25 and census
   §8; author call before ch 1 briefs" — the call has NOT been
   made). Drafters: describe NO fixed physical traits for either
   lead — presence, motion, wardrobe-in-action, and voice only.
   A candidate that pins hair/eyes/skin/build is a staging
   strike.
 - Voice refs (read before drafting): the leads' 1.1 debut,
-  `../manuscript/ch17.md` lines 171–195 (their supper-table
-  argument register — already canon); chorus voices from any
+  `../manuscript/ch17.md` lines 171–205 (their supper-table
+  argument register through its signature exchange — already
+  canon); chorus voices from any
   accepted 1.1 chapter; `../manuscript/ch01.md` for town-scene
   register.
-- Modernity register (`studio/VISION.md:78-82`): "leads modern
+- Modernity register (`studio/VISION.md:78-83`): "leads modern
   (2020s trades and registers) against the country chorus";
   "props carry decades — meal train, never casserole; Book 1's
   casseroles stay, per the grain rule." Her sports-med is
   telehealth-era; his football is portal-era; the chorus keeps
   its own furniture.
-- Trade diction is the voice fingerprint (RETRO §II item 10):
-  her medicine charted precisely, his football called
-  precisely; neither lead ever vague about their own trade.
+- Trade diction (`studio/RETRO-BOOK1.md:98-100`, verbatim):
+  "Trade-diction discipline is the voice fingerprint… it never
+  drifts. Keep the rule in every 1.2 brief." Showrunner
+  elaboration: her medicine charted precisely, his football
+  called precisely; neither lead ever vague about their own
+  trade.
 
 ## Laws riding every brief (verbatim, as ratified)
 
@@ -100,7 +104,7 @@ standards.
   with the metaphor for MOST things, but throw in some anchor
   lines" — ONE per chapter, chorus-voiced, "counted in BOTH
   directions (a chapter with zero is a miss; a chapter with
-  three is plainness creep)." Slots dealt per chapter below;
+  three is plainness creep — the sweep flags either)." Slots dealt per chapter below;
   final wording is yours, in the speaker's voice; never inside
   a swear.
 - CLOSENESS LAW from ch 1 (`studio/STYLE.md:164-173`): "A
@@ -110,39 +114,45 @@ standards.
   admission per chapter"; "Reticent characters get motive
   clauses." NOT: backstory blocks, rumination paragraphs,
   flashbacks (`STYLE.md:179-181`).
-- ENTRANCE LAW (`studio/STYLE.md:119-121`): "The lead's first
+- ENTRANCE LAW (`studio/STYLE.md:119-122`): "The lead's first
   chapter shows them at their best: competent, generous,
   admired — good works completed on the page, thanks received,
   compliments deflected." Ch 1 is Aisha's entrance; ch 2 is
   Dan's. Both are highlight reels — the doubt comes later.
-- HEAT this wave (`b12-outline.md:277`): "Spark ledger | 1–14 |
+- HEAT this wave (`b12-outline.md:279`): "Spark ledger | 1–14 |
   the six-month argument AS courtship; want named in
   interiority from ch 5 (hers) / ch 8 (his) | 9 (clothed,
   charged)." Wave 1 is BEFORE both naming slots: charged,
   clothed, want UNNAMED — the argument is the courtship and
   nobody says so, including interiority.
-- EDGE RATION, wave-1 deal (gate flag 9, `b12-outline.md:286-
-  289`: "ten swears book-wide, leads and the admissions
-  director only; the chorus never swears… never inside an
-  anchor line"): this wave deals ONE optional swear — Dan's
+- EDGE RATION, wave-1 deal (gate flag 9, ratified default,
+  verbatim `b12-outline.md:931-933`: "ten swears book-wide,
+  leads + Mack only, chorus never, none in anchor lines; dealt
+  per wave like the endings budget" — Mack is the admissions
+  director, `premise.md` cast sheet): this wave deals ONE
+  optional swear — Dan's
   POV, ch 4 only, spent on the night's cost or not at all.
   Unused does not bank. Ch 1–3: zero.
-- OFFSTAGE-STUDENT MECHANIC (`b12-outline.md:344-345`):
+- OFFSTAGE-STUDENT MECHANIC (`b12-outline.md:346-347`):
   "Offstage-student mechanic absolute: Trey is a jersey, a
   stretcher protocol, a number the PA won't say." No student
   speaks a line in any wave-1 candidate.
 
 ## Scrub bans (verbatim from
-## `studio/agents/variance/RECENT.md:15-28` + live watches)
+## `studio/agents/variance/RECENT.md:15-28`, `studio/STYLE.md`,
+## and live watches — each line cited)
 
 - BANNED: "before s/he could vote on it" and all
   committee-of-the-self variants; one involuntary-body beat per
   chapter max.
 - BANNED: the words "unhurried", "declined to [verb of
   thought]", "That was the whole ___ of it", "and meant it".
-- BANNED: filing/ledger metaphors for feelings — ALL POVs in
-  1.2 (Cal's license was Cal's; nobody in this book holds it.
-  Marisol's counting register is hers alone and she is not POV).
+- BANNED (source verbatim, `RECENT.md:19-20`): "filing/ledger
+  metaphors for feelings outside Cal's POV; in Cal's POV max
+  two, never in the last ten lines." 1.2 DERIVED RULING
+  (showrunner, this wave): Cal is not a 1.2 POV, so the ban is
+  total in every 1.2 POV. Marisol's counting register is hers
+  alone and she is not POV (`studio/STYLE.md:195-204`).
 - BANNED: ending the chapter on a wry button, antithesis pair
   ("Nobody X. Everybody Y."), or a character traveling home
   alone. End per your dealt register below.
@@ -151,7 +161,10 @@ standards.
   for a named character and let it lie there (someone's joke
   dies, uncommented).
 - QUOTA: three personifications per chapter, no more.
-- QUOTA: one "for exactly N seconds"-family gauge per chapter.
+- QUOTA: one "for exactly N seconds"-family gauge per chapter
+  (`studio/STYLE.md:79-81`).
+- QUOTA: sentence-initial vague "Somewhere…" max 2 per chapter
+  (`studio/STYLE.md:77-78`).
 - No paragraph ends in a colon or a dash (`STYLE.md:38-42`).
 - Double-em-dash: max ONE sentence per chapter with two or more
   em dashes; never a dash-pair plus a dash-continuation in the
@@ -159,17 +172,23 @@ standards.
 - WATCH — do not increase: "never once" (plain "never" unless
   the once does arithmetic, `RECENT.md:58-63`); "which was its
   own [X]" (name the meaning fresh or leave it unnamed,
-  `RECENT.md:64-70`); scene changes marked by bell — the tower
-  is 1.1 campus furniture anyway; 1.2 winter chapters should
-  barely hear it (`RECENT.md:71-76`).
+  `RECENT.md:64-70`); the time-bell as scene transition —
+  verbatim cap (`RECENT.md:75-76`): "A chapter may mark at most
+  two scene changes by bell."
+
 - 1.1 protected signatures are OFF LIMITS in 1.2 prose: "still
-  winning," the terms' wording, the door-smile figure, "inside
-  of four minutes," "ya'll" (Book-1 forensic protections stay
-  Book-1's).
+  winning," the terms' wording, the door-smile figure
+  (registry, `studio/RETRO-BOOK1.md:94-97`); "inside of four
+  minutes," "ya'll" (1.1 forensic protections,
+  `books/campus-series/STATE.md:184-185`).
 
 ## Grapevine register (binding; the rulebook is canon)
 
-Wave 1 has two board moments. Both run
+Wave 1 has two board ARTIFACTS — the ch 1 hype thread and the
+ch 4 clarity thread. Ch 2's board material (the wrong version
+of the scandal, the nightly tab) reaches the page secondhand,
+in Dan's POV, summarized — NO quoted thread in ch 2. Both
+artifacts run
 `book2/notes/grapevine-realism-2026-08-29.md` §2:
 
 - Rule 1 (`:169-174`): "DO run every grievance through a child.
@@ -181,19 +200,21 @@ Wave 1 has two board moments. Both run
   devotion… DON'T have parents publicly allege incompetence or
   misconduct by name — that jump is the story-event, not the
   baseline."
-- §3 rule (`:251-253`): "the board may lionize and tease its
+- §3 rule (`:259-261`): "the board may lionize and tease its
   own public figures in daylight; it may NOT speculate about
   private adults' romances in plain text."
-- On-page board text reads as posts, not summary — short
-  quoted threads, usernames plausible for 35–45 parents, never
-  more than ~6 posts per artifact. The vicious version is never
-  on the main board (rule 8).
+- Board-artifact composition (`:201-207`, added to the rulebook
+  at this wave's brief audit): "On-page board text reads as
+  POSTS, not summary: short quoted threads; usernames plausible
+  for 35–45 parents; never more than ~6 posts per artifact."
+  The vicious version is never on the main board (rule 8,
+  `:224-234`).
 
 ---
 
 ## CH 1 BRIEF — "Bonfire Night" (Aisha POV · Wk1 Thu) — cards D4/D7/D5
 
-Outline entry, verbatim manifest (`b12-outline.md:300-317`):
+Outline entry, verbatim manifest (`b12-outline.md:302-319`):
 "The rivalry-week bonfire on the square (energy-bank winter
 opener 1): the fire department's controlled burn, the band down
 Millrow, adults on the hardware-store roof — and Aisha working
@@ -214,35 +235,36 @@ Conditions:
 - ENTRANCE LAW governs: her first-aid table is the highlight
   reel — competence completed on the page, thanks received,
   compliments deflected.
-- B2-T01 plant (`b12-outline.md:241`): the hype thread carries
+- B2-T01 plant (`b12-outline.md:243`): the hype thread carries
   "the Wikipedia years" speculation — seven missing seasons on
   his public record, theories only, NOTHING confirmed. The S11
-  rider binds (`plots/premise.md`, S11 rider): drafters "MAY
+  rider binds (`plots/premise.md:159-161`): drafters "MAY
   NOT: name countries, organizations, people, dates, or events
   inside the gap, or let any character verify a theory." The
   ch 16 severable line is BANKED — it may not appear or be
   paraphrased in wave 1.
-- F13 plant (`b12-outline.md:266`): "the board retells the
+- F13 plant (`b12-outline.md:268`): "the board retells the
   square kiss fondly, wrong, uncorrected" — lionizing lore per
   Grapevine §3; nobody corrects it on the page.
 - The coach's-slice totem named at the Checkerboard's stand
-  (`premise.md` strand budget: "the coach's slice — the
-  Checkerboard's oversized pie cut… 'I'm eating it where he can
-  see me'"): named only; the catchphrase line is NOT spent in
-  ch 1.
+  (`premise.md:261-263`: "the coach's slice — the
+  Checkerboard's oversized pie cut, estate entry 29 assigned;
+  'I'm eating it where he can see me'"): named only; the
+  totem's first spend is ch 5 (`b12-outline.md:383-385`) — the
+  catchphrase line is NOT spent in ch 1.
 - Her SC3 clock visible: the Magnolia Court motel room,
   unpacked-ness as a fact of the room, not a rumination.
 - The leads do NOT share a scene; she watches him work a crowd
   from distance. Charged, unnamed (spark ledger).
 - ANCHOR slot (Earlene, at the fire), gist per
-  `b12-outline.md:316-317`: "one Saturday plays for the whole
+  `b12-outline.md:318-319`: "one Saturday plays for the whole
   year in this county — win it."
 - END REGISTER: image OR flat (dealt: no button — the wave's
   button is ch 4's).
 
 ## CH 2 BRIEF — "Everything to Prove" (Dan POV · Wk1 Fri) — cards D6/D2/D5
 
-Outline entry, verbatim manifest (`b12-outline.md:319-333`):
+Outline entry, verbatim manifest (`b12-outline.md:321-335`):
 "Walkthrough Friday in the Fieldhouse: Dan runs the cleanest
 program in the league because he has read what a dirty one costs
 off the inside — the board's version of his decade-old scandal
@@ -260,14 +282,16 @@ nightly-tab habit (echo pays 29)."
 Conditions:
 - ENTRANCE LAW governs: coaching craft as the highlight reel —
   the walkthrough run clean, players served, credit deflected.
-- B2-T03 plant (`b12-outline.md:243`): the board's version of
-  the scandal is on the page "secondhand and wrong." The TRUE
-  shape ("separated first; the colleague in his charge paid
-  with her career") is WITHHELD until ch 14 — wave-1 prose may
-  not state, hint, or interior-monologue the true shape; his
-  reaction to the wrong version is guarded, not corrective. The
-  ch 14 severable line is BANKED — no appearance, no
-  paraphrase.
+- B2-T03 plant (`b12-outline.md:245`, plant column): "ch 2 (the
+  board's version, wrong, on the page)." What is actually true
+  is WITHHELD until ch 14 and is NOT in this brief on purpose —
+  wave-1 prose may not state, hint at, or interior-monologue
+  any truer version; his reaction to the wrong version is
+  guarded, not corrective. The public facts a drafter may use
+  (`premise.md:135-136`): "the decade-old fraternization
+  scandal from his young-assistant years — a season lost, a
+  marriage lost." The ch 14 severable line is BANKED — no
+  appearance, no paraphrase.
 - The nightly-tab habit is shown "without comment" — no
   interiority explaining it (the echo pays at ch 29).
 - He is on Boyd's facilities side OUT LOUD — likable,
@@ -275,14 +299,14 @@ Conditions:
   wrong.
 - Aisha in this chapter: felt as scheduling weather, one
   sideline-check crossing at most; charged, unnamed.
-- ANCHOR slot (Tick, on WDSS), gist (`b12-outline.md:332-333`):
+- ANCHOR slot (Tick, on WDSS), gist (`b12-outline.md:334-335`):
   "win tomorrow and December finally means something here."
 - END REGISTER: flat — plain information that sits there being
   true.
 
 ## CH 3 BRIEF — "Rivalry Saturday" (Aisha POV · Wk1 Sat) — cards D3/D1/D5
 
-Outline entry, verbatim manifest (`b12-outline.md:335-350`):
+Outline entry, verbatim manifest (`b12-outline.md:337-352`):
 "The game, from her sideline: ninety thousand people and one
 person watching for the wrong kind of stillness. Fourth quarter,
 the county already tasting the bracket — and #7 gets up slow,
@@ -305,24 +329,24 @@ Conditions:
   trainer/physician would actually run its first minutes (gate
   flag 5 default: "concussion (the documented pressure case;
   CDC/AT-research register; near-miss discipline — no
-  second-impact catastrophe staged)," `b12-outline.md:911-913`).
+  second-impact catastrophe staged)," `b12-outline.md:914-916`).
   Her competence is procedure, not heroics; no diagnosis
   pronounced on-field.
-- F10 plant, exactly ONE line (`b12-outline.md:346-348`): "the
+- F10 plant, exactly ONE line (`b12-outline.md:348-349`): "the
   backup package the walk-on ran all week" — no name weight, no
   underline.
 - Trey: jersey, protocol, a number the PA won't say. No lines,
   no face, no POV. His parents do not appear in ch 3.
 - ANCHOR slot (Verna, radio on in the motel office), gist
-  (`b12-outline.md:348-349`): "that's somebody's boy under that
+  (`b12-outline.md:350-351`): "that's somebody's boy under that
   tent."
 - END REGISTER: ache / held-quiet — NOT a button
-  (`b12-outline.md:350`: "Wave 1 button lives in ch 4, not
+  (`b12-outline.md:352`: "Wave 1 button lives in ch 4, not
   here.").
 
 ## CH 4 BRIEF — "The Quiet Tent" (Dan POV · Wk1 Sat night) — cards D6/D4/D5
 
-Outline entry, verbatim manifest (`b12-outline.md:352-367`):
+Outline entry, verbatim manifest (`b12-outline.md:354-369`):
 "Winningest night of his life and he spends it in a hospital
 family lounge doing the thing he's best at — managing a verdict
 — for a family that wants a date he can't give. First real
@@ -341,9 +365,9 @@ Conditions:
 - The two-hander is the chapter's peak; staging clause applies.
   Spark-ledger discipline: what he feels watching her work is
   RESPECT arriving before he has a word for it — want stays
-  unnamed (naming slot is ch 8, his; `b12-outline.md:277`).
+  unnamed (naming slot is ch 8, his; `b12-outline.md:279`).
 - The Gaults: Denny's board voice begins (RH2,
-  `b12-outline.md:261`: "Denny Gault, loudest voice, obvious
+  `b12-outline.md:263`: "Denny Gault, loudest voice, obvious
   author of the complaint" — honest-signal discipline starts
   now: loud, aggrieved, sincere; never cartoon). Missy in
   person: watchful, not yet thawed (her turn is F12, ch 21+).
@@ -356,10 +380,10 @@ Conditions:
 - The dealt swear (wave's ONE, optional): Dan's POV only, this
   chapter only, spent on the night's cost or not at all.
 - ANCHOR slot (Peanut, at the Mule), gist
-  (`b12-outline.md:365-366`): "the county forgives a loss
+  (`b12-outline.md:367-368`): "the county forgives a loss
   before it forgives being told to wait."
 - END REGISTER: BUTTON — the wave's only one, dealt
-  (`b12-outline.md:366-367`): "his last look at the board,
+  (`b12-outline.md:368-369`): "his last look at the board,
   unread, pocketed."
 
 ---

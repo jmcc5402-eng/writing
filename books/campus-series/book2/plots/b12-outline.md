@@ -227,8 +227,10 @@ uncounted)
 
 Discipline note: four recurring is the ceiling, used because the
 workplace (Fieldhouse) is unavoidable; the emotional traffic
-runs Annex ↔ Checkerboard ↔ Delmar's porch. Single-visit sites:
-the square bonfire, the Blind Mule (ch 11), the Magnolia Court
+runs Annex ↔ Checkerboard ↔ Delmar's porch. [Brief-audit A8 fix,
+2026-08-30: the Blind Mule recurs — ch 4, 10, 11 — and moves to
+the recurring list; the ceiling note stands.] Single-visit sites:
+the square bonfire, the Magnolia Court
 office (ch 17), the trustees' boardroom (seats forty — canon; ch
 27), the Ashford High gym (ch 28's broadcast watch), Mt. Nebo's
 February program (ch 25, one scene, per §12 representation
@@ -258,9 +260,9 @@ standard 24)
 | F5 | S01 letter | 9 | the wall cavity behind the key hook, staged plainly | 25 local rent (her stay/leave counterweight); series texture thereafter |
 | F6 | The hookup leak chain: friend-chat screenshot escapes ring by ring; no villain, only physics | 11 (the rings shown), 12 (the artifact) | "Who types a pause?" — the screenshot's giveaway formatting (estate 31 assigned) | 12–13; dignity repair 18–30 |
 | F7 | RH1 (red herring, declared): the board decodes the 9 a.m. vaguepost as the coach and the doctor | 12 | the truck in the vaguepost is a crew cab; Dan's is canon-visible otherwise — Earlene names it at the Table | cleared 13 |
-| F8 | RH2 (red herring, declared): Denny Gault, loudest voice, obvious author of the complaint | 6, 12 (his threads) | his posts go SILENT the week the letter circulates — he refused to sign | cleared 28 (his refusal named; the quiet family who did sign was recruited, F3) |
+| F8 | RH2 (red herring, declared): Denny Gault, loudest voice, obvious author of the complaint | 4 (his board voice begins), 6, 12 (his threads) | his posts go SILENT the week the letter circulates — he refused to sign | cleared 28 (his refusal named; the quiet family who did sign was recruited, F3) |
 | F9 | Dan's defense costs his season | 20 (Boyd names the price if "the medical situation embarrasses the program"), 22 (extension on the spring agenda) | Boyd's threat is explicit, priced, on the page | 27–28 (pledge pulled, the portal QB un-signs [CHECK mechanics at drafting time], extension shelved) |
-| F10 | The walk-on stays, on merit | 12 (the campaign), 18 (Dan's file review, alone, told to no one) | the scout-team reps plant (6): the walk-on ran the star's plays all December | 28 (one line in the signing-day notes; Marisol's voicemail from her son — artifact, R5) |
+| F10 | The walk-on stays, on merit | 12 (the campaign), 18 (Dan's file review, alone, told to no one) | the scout-team reps plant (3, 6): rivalry week's one line in ch 3, then the walk-on ran the star's plays all December | 28 (one line in the signing-day notes; Marisol's voicemail from her son — artifact, R5) |
 | F11 | The outside offer's timing is Boyd-nudged, never litigated | 19 ("I pass names along. Lists write themselves.") | said in his own voice, unpunished per his pattern | never proven; noted as designed (gate flag 4) |
 | F12 | Missy Gault's turn | 21 (the thaw: Aisha's scout-portfolio work for Trey, on the page) | she watches Aisha build the kid's pro path THROUGH the hold | 28 |
 | F13 | The county's official wrong story (1.1 hand-forward) as engine thesis | 1 (the board retells the square kiss fondly, wrong, uncorrected) | Marisol laughing at it — canon precedent | 23 (the same gift aimed), 28 (the correction) |

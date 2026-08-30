@@ -198,6 +198,14 @@ these are the ones the book visits.
    compare children by comparing expenditures and schedules — never by
    saying the child's name in a ranking.
 
+### Board-artifact composition (showrunner condition, wave 1,
+2026-08-30 — added at the wave-1 brief audit's direction, B8)
+
+On-page board text reads as POSTS, not summary: short quoted
+threads; usernames plausible for 35–45 parents; never more than
+~6 posts per artifact. The vicious version is never on the main
+board (rule 8).
+
 ### The Town Room (separate group — background texture, NOT the engine)
 
 6. **DO keep the mix boring-with-flares:** services, lost pets (1 in 14),
