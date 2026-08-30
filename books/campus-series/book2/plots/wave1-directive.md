@@ -129,7 +129,7 @@ standards.
   verbatim `b12-outline.md:931-933`: "ten swears book-wide,
   leads + Mack only, chorus never, none in anchor lines; dealt
   per wave like the endings budget" — Mack is the admissions
-  director, `premise.md` cast sheet): this wave deals ONE
+  director, `premise.md:223-224`): this wave deals ONE
   optional swear — Dan's
   POV, ch 4 only, spent on the night's cost or not at all.
   Unused does not bank. Ch 1–3: zero.
@@ -164,7 +164,7 @@ standards.
 - QUOTA: one "for exactly N seconds"-family gauge per chapter
   (`studio/STYLE.md:79-81`).
 - QUOTA: sentence-initial vague "Somewhere…" max 2 per chapter
-  (`studio/STYLE.md:77-78`).
+  (`studio/STYLE.md:76-79`).
 - No paragraph ends in a colon or a dash (`STYLE.md:38-42`).
 - Double-em-dash: max ONE sentence per chapter with two or more
   em dashes; never a dash-pair plus a dash-continuation in the
@@ -290,7 +290,8 @@ Conditions:
   guarded, not corrective. The public facts a drafter may use
   (`premise.md:135-136`): "the decade-old fraternization
   scandal from his young-assistant years — a season lost, a
-  marriage lost." The ch 14 severable line is BANKED — no
+  marriage lost…" (truncation deliberate: the continuation is
+  the banked material). The ch 14 severable line is BANKED — no
   appearance, no paraphrase.
 - The nightly-tab habit is shown "without comment" — no
   interiority explaining it (the echo pays at ch 29).
