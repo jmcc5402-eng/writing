@@ -316,3 +316,4 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-30 | drafting-assistant (B1.2 ch04 blind, candidate A) | D6 run past comfortable (2nd deal this wave — NEW 18 + deck wrap) | book2/drafts/2026-08-30-wave1/ch04-candidate-A.md |
 | 2026-08-30 | drafting-assistant (B1.2 ch04 blind, candidate B) | D4 minor-character competence (2nd deal this wave, deck wrap) | book2/drafts/2026-08-30-wave1/ch04-candidate-B.md |
 | 2026-08-30 | drafting-assistant (B1.2 ch04 blind, candidate C) | D5 (jewel-forge) | book2/drafts/2026-08-30-wave1/ch04-candidate-C.md |
+| 2026-08-30 | orchestrator (B1.2 wave-1 label shuffle, RETRO NEW 16) | — (mechanical; seed 20260830) | sealed permutation at studio/agents/variance/sealed/wave1-b12-permutation.b64 (SHA256 f963132ed20e9c2b827827522baf182490aba6eb10d374496c2b5e0d0e83e305); unmask at Book-2 retro |
