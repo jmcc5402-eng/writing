@@ -336,3 +336,4 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-30 | romance-reader-panel (B1.2 wave-2 judgings ch05/ch06/ch08 — shuffled labels, sealed perm seed 20260831) | P1 binge (1.2 book deal) | judging reports (filed by orchestrator) |
 | 2026-08-30 | romance-reader-panel (B1.2 wave-2 judging ch07 — shuffled labels, widened packet sanitizer) | P1 binge (1.2 book deal) | judging report (filed by orchestrator) |
 | 2026-08-30 | continuity-keeper (B1.2 wave-2 cross-batch canon sweep, 4 winners + grafts) | E3 reverse-order (LRU; sweep ch 8 back to ch 5) | sweep report (filed by orchestrator) |
+| 2026-08-30 | drafting-assistant (B1.2 ch05-08 staging ×4, executes wave2-staging-order) | — (mechanical) | book2/manuscript/ch05-08.md on campus/b2-ch05-08-wave |
