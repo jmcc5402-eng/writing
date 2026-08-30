@@ -66,3 +66,34 @@ are still pending.)*
   nothing has invoked red-team-critic yet; the junior critic has five runs.
 - **Publish the plugin** (`../plugin/`) once versions stabilize, so other
   workspaces can install the room.
+
+## 2026-08-30 — Instrument-consolidation review (author asked; showrunner ruling: DEFER the big one, do three cheap items)
+
+The Book-1 retro's escape analysis already audited gate VALUE
+with data (it retired the staging lint, reassigned its checks
+with named owners, and set instrument trust levels) — a fresh
+judgment-based consolidation review now would violate our own
+rule 7 (decisions from data, thresholds before instruments).
+The FULL roster-consolidation review is scheduled for the
+BOOK-2 RETRO, when we have a second book's data under the new
+rules (label shuffle, brief audit, jewel forge). Until then,
+three cheap items:
+1. **DEBT — the "deck TK" backlog.** romance-reader-panel,
+   superfan, dev-editor, market-pitch, and culture-researcher
+   have logged "no card; deck TK" ~30 times. Either deal them
+   decks (a P-deck for reception instruments) or rule formally
+   that reception instruments run card-free — the LOG should
+   stop apologizing either way. [author-gate PR candidate,
+   small]
+2. **CONSOLIDATION CANDIDATE — the sampling trio.** Browse,
+   warmth map, and voice-dating ran as three separate specs;
+   at Book-2's milestones they can run as ONE "book health
+   panel" spec (one seeded sampler, three scores per window,
+   one note) — same signal, one launch instead of three.
+3. **NON-CANDIDATE, recorded so it isn't re-litigated:**
+   romance-reader-panel vs superfan look adjacent but measured
+   differently all book — panels SELECT (blind candidates, craft
+   verdicts), superfan predicts RECEPTION (reviews, stars,
+   promise-keeping). Their one collision (both read outlines)
+   is a feature: the twin read just caught what neither alone
+   would. Keep separate.
