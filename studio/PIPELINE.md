@@ -105,3 +105,12 @@ book's latest canon is re-gated before use.
 **Momentum clause:** when the current book is blocked on an author
 gate, the showrunner's dispatchable jobs preferentially advance
 future-book rungs — momentum never competes with shipping.
+
+## Wave deliverable — the author's listening file (2026-08-30)
+
+At every wave PR (and at the fold, if the line pass changed
+text), the orchestrator SENDS THE AUTHOR AN .MD FILE of the
+wave's chapters — production headers stripped, prose only,
+TTS-friendly (the author reads/listens via ElevenReader). The
+reading-page artifact is optional garnish; the .md file is the
+deliverable.
