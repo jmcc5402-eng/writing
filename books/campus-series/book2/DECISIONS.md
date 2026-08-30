@@ -7,10 +7,16 @@ docs; Book-1.1 decisions remain in ../DECISIONS.md (historical).
 
 **"Go 1.2" (author, 2026-08-29, in chat).** Lead pair as
 penciled and MODERNIZED, not recast: **Dr. Aisha Cole, 41,
-never-married, head team physician × Coach Dan Merritt, 48,
-divorced** — forbidden, chain-of-command: her return-to-play
-calls overrule him weekly; his old fraternization scandal cost
-him a season and a marriage, so the rule has reasons. The
+never-married, head team physician × Coach Dan Merritt, 38,
+divorced — the young up-and-coming coach; SHE is older (author
+re-penciled the age at kickoff, 2026-08-29; the planning doc's
+48 never reached an accepted page — verified, zero conflicts).**
+Forbidden, chain-of-command: her return-to-play calls overrule
+him weekly; the fraternization scandal that cost him a season
+and his marriage hit a decade back, when he was a young
+assistant — so the rule has reasons, and the wound is fresh.
+The board adores the young winner and dogpiles HER — the
+power inversion at full voltage. The
 extremely-online conflict is NATIVE: the athlete-parent board
 second-guesses her medical calls on Grapevine in real time,
 and Dan reads the board's verdicts on himself nightly. Aisha

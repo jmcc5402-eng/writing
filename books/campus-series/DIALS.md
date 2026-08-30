@@ -29,11 +29,11 @@ panels, and packaging. Scale: 1–10 unless noted.
 | Modernity | 5 (Grapevine ON STAGE; meal trains; group chats; telehealth-era sports med; the modernity register binds props) | +1 |
 | Humor register | online-dry (faster banter; the chorus stays country — the CONTRAST is the engine) | +1 |
 | Anchor lines | 1/chapter, chorus-voiced, counted both ways | new law (VISION) |
-| Leads | Dr. Aisha Cole 41 × Coach Dan Merritt 48 | canon (ADULT-CAST-IDEAS 1.2) |
+| Leads | Dr. Aisha Cole 41 × Coach Dan Merritt 38 — she is older (author, 2026-08-29) | age re-penciled at kickoff; zero accepted-page conflict (verified) |
 
 ## The braid, sketched (full rows set at each book's own PR)
 
-1.1 cozy 40–55 → **1.2 modern 35–45** → 1.3 (Priya 33 ×
+1.1 cozy 43×47 → **1.2 modern 41×38** → 1.3 (Priya 33 ×
 Marcus 36, fake dating — YES-ruled) younger/edgier again →
 1.4 (Jo 45 × Ray 46) swings BACK warm-cozy — the slate as
 penciled already braids; keep that shape as sets 2–4 fill in.
