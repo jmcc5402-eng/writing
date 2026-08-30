@@ -144,7 +144,8 @@ researched.**
   National Guard armory. Same three families have taken Best Bloom
   since 1958; the standing scandal is whether a winning japonica was
   actually grown eighty miles south and driven up in a cooler.
-- **First Warm Friday.** Unscheduled and unofficial: the first Friday
+- **First Warm Friday.** ADOPTED AS CANON (1.2 outline PR #105,
+  gate flag 8, 2026-08-30). Unscheduled and unofficial: the first Friday
   over seventy degrees, when the whole town eats outside without
   anyone deciding to. The Blind Mule props its door, Delmar's sells
   out by two, and the schools lose the last hour of the day. A
@@ -154,7 +155,8 @@ researched.**
   of Millrow, run by the volunteer fire department, judged by Odell
   Fountain, trophy welded from an exhaust manifold. Students think it
   is deeply uncool, which is the joke and the point.
-- **Coach's Table.** Thursday nights on WDSS, live from Delmar's
+- **Coach's Table.** ADOPTED AS CANON (1.2 outline PR #105, gate
+  flag 8, 2026-08-30). Thursday nights on WDSS, live from Delmar's
   screen porch, the coach takes actual phone calls. Referent: only
   about ten schools out of eighty-plus surveyed still let fans call in
   live, four of them in the SEC [F] — so a town that still does it is
@@ -371,7 +373,9 @@ What follows is only what the census does not have.
   important one [R].
 - The rivalry game in late November is the natural climax the census
   already assigns to 1.2.
-- **Ashford's win-signal [I].** After a home win, Delmar's flies a
+- **Ashford's win-signal [I].** ADOPTED AS CANON — the smokestack
+  flag (1.2 outline PR #105, gate flag 8, 2026-08-30). After a home
+  win, Delmar's flies a
   flag from the smokestack; after a loss it does not. Half the town
   checks the smokestack before it checks its phone. Cheap, visible
   from six blocks, and adult.

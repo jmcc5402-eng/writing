@@ -1,7 +1,8 @@
 # Book 1.2 Outline — Snowflake rev 1 (premise PR)
 
-**STATUS: PROPOSED — pairs with `premise.md`; nothing canon until
-the PR merges.** Produced 2026-08-30 by `plot-architect`, card A4
+**STATUS: CANON — PR #105 merged 2026-08-30, bare merge; all 13
+gate-flag defaults ratified (see GATE FLAGS below for what each
+default locked).** Produced 2026-08-30 by `plot-architect`, card A4
 (finding and defusal in premise §8; applied atop the ruled
 blurb-backwards method). 30 chapters, ~2k words each, ≈60k
 (standard 10). POV dual alternating, third past (standard 11):

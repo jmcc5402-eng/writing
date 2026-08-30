@@ -1,7 +1,8 @@
 # Book 1.2 — Premise (blurb-backwards)
 
-**STATUS: PROPOSED — the premise PR. Nothing below is canon until
-merged; every new name carries [TK] or a gate flag.**
+**STATUS: CANON — PR #105 merged 2026-08-30, bare merge; all 13
+gate-flag defaults ratified. New names remain [TK] working names
+until the flag-10/flag-7 castings are ruled.**
 Produced 2026-08-30 by `plot-architect`.
 Variance card: **A4 — contrarian comp** (LRU, first draw), applied
 in §8 on top of the plan's ruled method (blurb-backwards, A10

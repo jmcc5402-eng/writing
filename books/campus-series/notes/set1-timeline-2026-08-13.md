@@ -24,9 +24,10 @@ is the statement, pending ratification.)
 |      |        |          |           | Dan × Aisha already argued at the  |
 |      |        |          |           | 1.1 town hall (seed on record).    |
 | 1.2  | Winter | Nov Y1   | early Feb | Nov–Jan is the SEC's sharpest      |
-|      |        | (rivalry | (post-    | stretch (sweep §1). Hands 1.3 the  |
-|      |        | prep)    | signing   | review's fallout + gala-season     |
-|      |        |          | day)      | invitations landing in Feb.        |
+|      |        | (rivalry | (Feb's    | stretch (sweep §1). Hands 1.3 the  |
+|      |        | prep)    | inert     | review's fallout + gala-season     |
+|      |        |          | signing   | invitations landing in Feb. (FC1:  |
+|      |        |          | day)      | Dec loud, Feb inert — ratified.)   |
 | 1.3  | Spring | Feb/Mar  | late May  | Closes on the leak going public    |
 |      |        | (gala    | (demo     | under Jo's byline — the byline is  |
 |      |        | season)  | survey    | 1.4's opening fact; students leave |

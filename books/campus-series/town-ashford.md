@@ -275,7 +275,11 @@ TV goes dark. Smells shrink indoors: radiator dust at the Courier,
 collards and smoke at the Fifth-Sunday dinners that keep the
 calendar alive, cold rain on red clay. The stadium stands empty and
 audible — wind in the upper deck — while Boyd's survey crews chalk
-the Millrow curbs. Signing day in February is the one loud week.
+the Millrow curbs. December's early signing period is the one loud
+week; the January transfer window is winter's real roster
+earthquake; February's official signing day is theater without a
+play, kept alive as WDSS's comic ritual. (FC1 fix, ratified with
+the 1.2 outline PR, 2026-08-30.)
 
 **Spring (1.3).** Azaleas detonate; pollen films every windshield
 yellow-green and is the town's genuine small talk (§8, kept). The
