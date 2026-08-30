@@ -66,3 +66,19 @@ planted fair, lands later); the climb out REQUIRES Dan
 defending her call publicly at full cost to his season before
 anything private repairs. Alternative kept: outright firing
 (harsher, harder to reverse credibly in the window).
+
+## Grapevine architecture (author, 2026-08-29, in chat — RULED)
+
+Grapevine is the PLATFORM; the story engine is **the PARENTS'
+BOARD** — "it's more about the insecurities of the parents and
+less about the town." (Canon already agrees: accepted ch29
+"the parents' board"; ADULT-CAST-IDEAS "athlete-parent board";
+The Shed Thread proves the platform hosts multiple groups.)
+Register: playing-time grievance, performative concern,
+safety-as-cudgel, recruiting anxiety, parent-vs-parent status.
+**SEPARATE town-wide room** (author likes it, kept distinct):
+lost dogs, road work, the real-world absurdity register —
+background texture, NOT the drama engine. Realism rulebook
+(culture-researcher, in flight) governs both registers + how
+content leaks between layers. Guard: never over-the-top —
+"real life chat rooms are outrageous enough."
