@@ -9,20 +9,26 @@ production runs under them: brief audit, label shuffle,
 jewel-forge slot, staging clause, furniture registry, anchor
 lines, carryover-reader gate).**
 
-## PICK UP HERE
+## PICK UP HERE (2026-08-30)
 
-Phase 0 (foundation) in flight:
-1. Kickoff PR OPEN (dials + lead pair, B2-D01) — the author
-   merges or strikes.
-2. Comp-shelf refresh dispatched (market-pitch, background) —
-   feeds the premise.
-3. NEXT after the kickoff merge: premise + Snowflake outline PR
-   (plot-architect, blurb-backwards per A10 precedent; banked
-   withholds with named spend-slots FROM CH 1; anchor-line
-   ration and modernity register inside; the wrong-story canon
-   and Cal×Marisol cameo economy planned in).
-4. Then the storefront test on the draft blurb BEFORE prose.
-5. Then waves, 8 × 4 chapters, per the ratified conveyor.
+Phase 0 nearly complete:
+1. ✅ Kickoff PR #104 MERGED — dials law; B2-D01 pair ruled
+   (Aisha 41 × Merritt 38, she's older).
+2. ✅ Comp shelf filed (notes/comp-shelf-2026-08-29.md — the
+   seam is open); Grapevine realism rulebook filed and binding;
+   all premise seeds ruled (S11, heat spike as leak artifact,
+   low-point shape).
+3. ✅ Premise + 30-ch outline drafted (plot-architect, card A4,
+   blurb-backwards) on campus/book2-premise; outline gate run
+   (superfan TWIN READ, first under NEW 19): CLEAR; three
+   mandatory fixes applied (heat-copy honesty; ch 9 carryover
+   sighting; January-tunnel endings law).
+   **PR #105 OPEN at the author's gate** — 13 gate flags,
+   defaults apply on bare merge.
+4. ON MERGE: the storefront test on the ratified blurb BEFORE
+   prose (RETRO NEW 20); then wave 1 under the full ratified
+   stack (brief audit, shuffled labels, jewel-forge slot,
+   anchor lines dealt, withholds banked from ch 1).
 
 Inherited hand-forwards (from ../STATE.md, Book 1.1 close):
 Boyd's calendar (moved-up survey; "somebody else's planning
