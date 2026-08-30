@@ -160,3 +160,17 @@ confirmed" SPENT, Thursday-free SPENT, flat-schedule bookends
 CLOSED at two, truck-radio plant/payoff CLOSED, "heard X hear
 Y" capped at two; edge 2/10; diplomas-boxed/annex-unpacked =
 canon pair (ch 25 guard-note per Q3).
+
+## POST-STAGING LINT (2026-08-30)
+
+Dialogue: 34.5 / 18.2 / 16.7 / 26.9% — all four over floor, no
+quiet slot used. Edges zero; double-dash ≤1/chapter; watches
+zero; one swear (ch 8, as dealt); 80-col clean. Shingle run:
+45 hits — WAIVED as designed: the ch 5 Table reading the ch 4
+thread verbatim (ordered, sweep Q6), the licensed supper echo
+(ch 8), the nine-minute-pack motif (ch 7 = the motif's one
+echo, now SPENT), and the protected ch 6 deciding line vs a
+1.1 idiom. THREE fixed: ch 5 Table-in-session formula reworded;
+ch 6 "better part of an hour" idiom; ch 6 ritual frame varied
+("sat down on the end of the bed") per sweep finding 15's
+if-lint-objects clause.
