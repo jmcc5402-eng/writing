@@ -1,0 +1,295 @@
+# Chapter 5 — Two Calendars
+
+POV: Aisha, third person limited, past tense.
+(FIRST DRAFT — 2026-08-30 wave 2, blind candidate A.
+Card D7: every scene opens mid-motion.)
+
+---
+
+The blue marker quit halfway through STEP FIVE,
+and Aisha finished the word in red before she caught herself,
+rubbed it out with the side of her fist,
+and did it over in black from the box she had carried in.
+Red had one job on this board.
+It was already doing it.
+
+At the top, boxed off from everything else,
+DEC 19 stood circled twice in red.
+The county had that date circled on the feed-store calendar,
+on the radio, on the back bar of the Blind Mule,
+and in twelve thousand coat pockets on the parents' board,
+so she had put a copy up where she could watch it work.
+Under the copy ran the ladder — six rungs stacked,
+REST at the bottom and GAME at the top,
+each rung gated on the one below it holding overnight.
+There were no dates on the ladder. Not one, nowhere,
+and the blank column was not an oversight.
+The circle had a date and no patient.
+The ladder had a patient and no date.
+Her job in December was the space between them.
+
+The Annex was one corridor at the cold end of campus,
+four rehab rooms, a water fountain that ran cold or not at all,
+and a wall of cabinets holding thirty years
+of other people's taped ankles.
+The university had forgotten the building so completely
+that in June nobody could tell her whose key they were handing her.
+She had taken the office at the warm end,
+leaned her diploma frames against the baseboard
+still in their mailing box,
+and quit explaining to people how to find her.
+The ones who needed her found her.
+
+The imaging center came off hold with a click.
+
+"I can do Thursday, six-forty in the morning," the scheduler said.
+"It's a cancellation. Billing won't even be in yet."
+
+"He'll take it. His mother will have him there at six-fifteen."
+
+"I've got the standard concussion set on this order.
+The added sequence isn't on that set, so it's flagging me."
+
+"It flags because it's not protocol. It's on top of protocol.
+Baseline-plus — everything we took in August, taken again,
+plus the two sequences August didn't include.
+Ordering physician is Cole, the authority is mine,
+and if billing wants a conversation,
+they can have my cell number and my Thursday morning."
+
+A pause, and the sound of a pen.
+"You'll be here at six-forty, then."
+
+"I'll be there at six-thirty."
+
+She wrote the order into the chart the long way,
+indication, rationale, her name at the bottom,
+though no form on earth required the rationale.
+Charting like that was older than this job.
+She had learned young, and nowhere near a classroom,
+what an uncharted thing could cost a family,
+and she did not visit that anymore.
+She wrote everything down instead.
+
+Probably the pictures would show nothing.
+She was not ordering them to find something.
+She was ordering them so that no January version of this,
+however it went, would ever contain the sentence
+*we didn't look.*
+
+***
+
+Tick Moran was most of the way through the post
+by the time her eggs came,
+phone held at arm's length, glasses far down his nose,
+giving Denny Gault's punctuation more respect than it had earned.
+
+"'Just asking for clarity on the evaluation timeline
+so families know what to expect going forward.
+That's all this is.'"
+
+He set the phone down among the jam packets.
+"That's all this is," he said again, flat as a forecast,
+and picked his fork back up.
+
+The Checkerboard was down to one cook,
+and the one cook had the griddle, the pass-through,
+and the register in his care, in that order,
+so the coffee had gone self-serve,
+and Earlene had been up the counter twice with the pot
+without being asked or thanked.
+The Liars' Table sat in full session at the front window,
+Tick, Tunk Ferrell, Peanut Kyzer, Earlene Tatum,
+and Sonny Dillard standing at the end of it in half his gear,
+either off a shift or on his way to one.
+Aisha had the second stool at the counter and her coat still on.
+
+"Read the other one," Earlene said.
+
+Tick thumbed down the thread.
+"'Nobody here is questioning anybody. We love this program.
+Clarity is not criticism.'"
+
+"Hm," Earlene said, and salted her eggs.
+
+"Nobody writes *that's all this is* unless it isn't," Peanut said.
+
+"There's more," Tick said. "Fellow's brother-in-law
+'does sports medicine two counties over.
+Says days not weeks, most cases. Not saying that's this case.
+Just perspective for everybody.'"
+
+"Perspective," Earlene said, and let the word sit out
+on the table by itself a while.
+"Here's where I land. There's no meanness in that thread.
+Denny Gault's been asking somebody for a ballpark
+since the ninth grade; he can't help it.
+It's the amen line under it I don't care for."
+
+"It'll stay polite while they're winning," Tick said.
+
+"They ought to get the boy one of them oxygen chambers,"
+Tunk said. "The pros use them. I seen it on TV."
+
+Nobody said anything to that. The griddle carried on.
+
+Sonny turned his mug a quarter turn on the wood.
+"I can order a relief valve for the pumper tonight
+and have it Friday.
+You could order that boy a new helmet and have it Thursday.
+Brains aren't a part you can order twice."
+
+The Table let it sit.
+
+"Doctor's sitting right there," Tunk said, lower,
+as if she had just now walked in
+instead of being most of the way through her second cup.
+
+"We know where the doctor's sitting," Earlene said.
+"Why do you think we said all of it out loud."
+
+The cook left the griddle for the first time all morning,
+came the length of the counter,
+and set a plate in front of her, unasked —
+a quarter of a whole pie, cut as one piece,
+standing up off the plate like architecture.
+
+"I didn't order this," Aisha said.
+
+"Table sent it," the cook said, already going back.
+"Sign price. They paid."
+
+She looked at the slice.
+The Table looked at her, all five of them, patient.
+
+She picked up the fork.
+"Then I'm eating it where he can see me."
+
+"He'll know by noon," Tick said.
+
+"He'll know before she's done chewing," Earlene said.
+
+Half an hour of jury duty over eggs,
+and she had come out of it with pie.
+She had stood in front of friendlier review boards
+and come away with less.
+
+***
+
+"Give it to me one more time," Merritt said. "In coach."
+
+He had the whiteboard by the frame,
+quarter-turned to catch what was left of the window light.
+He had come in somewhere in the middle of her four-o'clock
+charting and skipped the knock,
+and she had let both of those go for now.
+
+"Step one, he's a student and barely that.
+Half days when the symptoms allow,
+and his mother meters the screens.
+Her notebook is better than my portal, and I've told her so."
+
+"Two."
+
+"Light aerobic. A bike in a quiet room, heart rate capped,
+nobody talking scheme at him.
+If the headache comes back, we step down
+and the clock starts over."
+
+"Three, football-shaped. Four, noncontact with the team.
+Five, full practice." He was reading her board. "Six."
+
+"Six is a Saturday. Whichever Saturday it turns out to be."
+
+"And the space between rungs."
+
+"Twenty-four hours at a minimum,
+and the rung has to hold overnight.
+That's all the math there is, Coach.
+You're looking at the whole column."
+
+He looked up at the top of the board.
+"You've got my calendar up here."
+
+"I keep it where I can see it."
+
+"Sunday tells us who and where," he said.
+"The nineteenth we've known since Saturday night."
+He studied the circle without touching it.
+"What happens when my calendar and yours want different answers?"
+
+"Nothing happens. The ladder doesn't know the circle's up there."
+
+"Trainers tell me you ordered extra pictures."
+
+"Baseline-plus. Everything August gave me, run again,
+plus what August didn't include.
+Thursday, six-forty in the morning, first slot that existed."
+
+"Protocol call for that?"
+
+"No," she said. "I do. My order, my authority, my Thursday."
+
+"What's it going to show?"
+
+"Most likely nothing, and I'll be glad to see it.
+If any part of this turns on us in January,
+I will not be standing in front of Missy Gault
+explaining what I didn't look at in December."
+
+He was quiet a second.
+"Okay," he said, and there was no fight anywhere in the word.
+
+"One thing," he said. "Not the field. The meeting room.
+He stands in the back, hood up if he wants, projector off.
+Sixty kids see him upright. That's worth a practice to me."
+
+"When step two holds overnight,
+he can have twenty minutes of your meeting room,
+no film, no playbook, and somebody drives him.
+His brain doesn't know the difference
+between a defense and a chemistry exam. Twenty minutes."
+
+"I'll take twenty."
+He wrote it on a card from his jacket, TWENTY, block letters,
+and put the card away.
+The board drifted an inch on its bad caster
+the minute his hand was off the frame.
+He crouched, took out a second card, folded it twice,
+and chocked the wheel with it.
+
+"Your floor's out of level," he said, to the caster.
+
+At the door he knocked twice on the frame,
+the knock he had skipped on the way in.
+
+"You've fought me all season."
+
+"And I'm undefeated."
+
+Whatever he had lined up to say to that, he kept.
+He nodded — the nod he gave an official
+when the flag was right — and went down her corridor,
+and the outside door did its two-stage bang.
+
+The heater clanked.
+The board stood level on his folded card and did not drift.
+
+She wanted him.
+
+She let it all the way through, once, alone in her own room.
+She wanted the man. Not the coach, not the whistle,
+not the argument,
+though the argument had been the best part of her fall.
+The man.
+
+Inadvisable, she told herself, and that was also true,
+and neither truth moved the other one an inch.
+For once in her working life she wrote nothing down.
+
+Out the window the practice-field lights came on
+across the lot, one bank at a time,
+orange warming into white.
+The whiteboard caught them and held them,
+small and bright, just under the red circle,
+while she worked.
