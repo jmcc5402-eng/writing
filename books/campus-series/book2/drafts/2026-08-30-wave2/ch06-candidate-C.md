@@ -187,6 +187,13 @@ Tonight I've got this one."
 "Tonight we've got this one," Denny said,
 and gripped his shoulder, and went back toward the screen.
 
+Somebody hollered for words.
+Dan gave them thirty,
+his seniors named one at a time
+so the clapping had somewhere else to land,
+Ray thanked for the fire and Delores for the cake,
+and not one calendar word anywhere in it.
+
 The light went off the square before five,
 the fast December dusk with no color in it,
 and the television turned lantern,
@@ -258,6 +265,8 @@ at the same second of the same afternoon,
 parking questions three weeks early,
 a report that the visiting county would come up
 a hundred motel rooms short and serve it right,
+an argument, friendly, about reprinting the season shirts
+with one more line on them,
 and no hard question anywhere in the column.
 
 He read the board down to the last reply,

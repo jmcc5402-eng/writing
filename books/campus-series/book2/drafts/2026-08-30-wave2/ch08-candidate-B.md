@@ -92,6 +92,25 @@ Best coaching I've taken all year, and I'm keeping it.
 The day I know a thing this county can have,
 this county will have it."
 
+The third caller had a church-basement steadiness to her.
+"My mother cut your speech from the supper this fall
+out of the paper, Coach. It's up on her refrigerator.
+All she wants for Christmas is to hear you
+put that word of yours on the playoff.
+You know the word. She'd sleep better."
+
+"Ma'am, if I could coach sleep, I'd have retired rich,"
+Dan said, and got his laugh,
+and gave her the roster's bedtime instead —
+film at six, weights at seven, curfew at ten.
+"That part I can promise you personally.
+The rest of it I leave to the people
+who went to school for it."
+
+He heard how close that came to being enough,
+and how far it stopped short,
+and the caller thanked him kindly and hung up wanting.
+
 Tick rode a station break in over the top.
 "Delmar says if the ribs run out
 he's got opinions instead, and those stay free."

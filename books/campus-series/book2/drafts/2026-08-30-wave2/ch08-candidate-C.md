@@ -69,6 +69,12 @@ Sleep good tonight."
 
 "Bless you, Coach. See you on the nineteenth."
 
+The show went out over the porch's own heads
+and came back at it from the lot,
+truck radios running the same hour with the doors open,
+his voice everywhere twice and a half second apart.
+Steam came up off the plate line and quit within the yard.
+
 He didn't see her come in.
 He knew anyway; the air on his right side changed its mind.
 When he let himself look, between calls,
@@ -112,6 +118,12 @@ so they're not mine to break."
 "A doctor's," Dan said.
 
 Tick took it to the feed-store ad.
+
+Delores came by during the ad and topped off his mug,
+and he toed Tick's loose cable square while he drank.
+Three calls in, and every one of them had come to collect.
+He had signed the word safe out in October in his own voice,
+and the county had kept the receipt.
 
 The fourth caller had a voice he half knew and couldn't place.
 "Charlene, out by the fairgrounds.
@@ -262,6 +274,9 @@ Delores sent the last plates out the door with the stragglers.
 Delmar cut the heaters,
 and the cold came back through the mesh
 and took the porch for itself again.
+The frost let go of the screens where the crowd had stood
+and ran in beads when the heat died,
+little clean lines down through everybody's breath.
 
 By nine tomorrow the board would have her forty seconds
 word for word,

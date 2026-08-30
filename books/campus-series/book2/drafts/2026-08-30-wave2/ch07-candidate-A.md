@@ -14,26 +14,28 @@ Aisha worked her sideline in her own wool coat.
 It was a good coat. It was a city coat.
 The wind went straight through it.
 
-The equipment manager came down the fence at four fifteen
-with a coat over his arm.
+The head trainer came down the fence at four fifteen
+with a coat over one arm and two cups from the fieldhouse,
+steam going sideways off both.
 
-"Staff winter gear came in, Doc," he said.
-He held it up by the shoulders. Navy, staff patch, enormous.
-"Men's large. It's the smallest we were sent."
+"Staff winter gear came in," he said,
+and held the coat up by the shoulders.
+Navy, staff patch, enormous.
+"Men's large. Smallest in the whole shipment.
+Equipment went through every box twice to be sure."
 
 "Sent, or ordered?"
 
-He turned the tag out and looked at it
-as if it might have changed on the walk over.
-"Ordered. The order sheet's got one column on it.
-It's had one column since before my time."
+"Ordered. He says the order sheet's got one column on it,
+and it's had one column since before his time."
 
-"Whose time does the column change in?"
+"Whose sizes are in the column?"
 
-"Mine," he said. "I wrote a second one in this morning.
-It'll be on the spring order. That doesn't help you today."
+"Not yours," he said,
+and handed her a cup instead of an answer.
+She drank it too fast and was glad of the burn.
 
-Today, she put the loaner on over the wool,
+The loaner went on over the wool,
 and it was warm and wrong at the same time.
 The shoulders sat halfway down her arms.
 The cuffs reached past her fingers.
@@ -43,39 +45,27 @@ and typed three letters into somebody's chart.
 She deleted them. She pushed that cuff back too.
 By the next entry both cuffs were down again.
 
-He came back at the water horn with field gloves,
-having looked at her hands exactly once.
-They were the right size.
-She would have had to ask for that size
-anywhere else in this building.
-He cracked two heat packs and dropped one into each glove
-before he handed them over.
-
-"Chemistry," he said. "Twenty minutes a pack.
-There's four more in the right pocket.
-Count your fingers for me now and then.
-I'll believe whatever you report."
-
-The head trainer brought two cups down from the fieldhouse,
-steam going sideways off both of them.
-"Calling for nine tonight," he said, handing one across.
-
-"Nine."
-
-"Nine."
-
-She drank hers too fast and was glad of the burn.
-
+The cold ran its own protocol.
+Below twenty the tape quit sticking
+unless the rolls rode inside somebody's coat,
+so the rolls rode inside hers.
+The water bottles went to slush on the cart.
 Down the field the periods ran on the horn,
 and the drills went on regardless of the temperature,
 and she made her checks and came back to the fence each time
 with less feeling in her hands than she'd left with.
 
+"Calling for nine tonight," the head trainer said,
+the last time through.
+
+"Nine."
+
+"Nine."
+
 The coat was wrong,
 ordered by a column that had never imagined her.
-The gloves were right,
-picked by a man who had looked.
-This county kept doing both things at once,
+The cups kept coming anyway, handed across by people who had.
+This county did both things at once, all day,
 and she had quit waiting for it to choose.
 
 ***
