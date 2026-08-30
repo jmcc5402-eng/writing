@@ -443,8 +443,13 @@ gives up an envelope: Cordelia Hartwell, to the infirmary's
 night nurse, a hundred years dead and still in someone's
 handwriting (S01; B2-T06). She reads it once, tells no one,
 pockets it the way you pocket a thing that read YOU. Up
-Millrow, the House winters under tarps, Cal's crew audible; the
-town's two rescues rhyme without a word of apparatus. Verna,
+Millrow, the House winters under tarps — and the carryover
+reader gets her toll (outline gate, MANDATORY fix 2): Marisol
+comes down the scaffold path with coffee for the crew, Cal
+takes his cup without either of them saying a word that means
+anything, and the town camera moves on — two lines, no stakes,
+her couple upright and easy before ch 11 asks anything of her.
+The town's two rescues rhyme without a word of apparatus. Verna,
 delivering towels, says what she says about room nine.
 — *Introduces: S01 on the page; the annex's town history (the
 fevers, the WPA ward). Plants: B2-T06, F5; the letter's line
@@ -937,3 +942,17 @@ promised scenes land at ch 5/12 (Table), 17 (Cal × Marisol), 9
 13. **Title** — [TK; market-pitch pass gated by the storefront
     test. Parked: *Return to Play*, *The Precautionary Hold*,
     *Cleared*.]
+
+## Wave-deal law — the January tunnel (outline gate, MANDATORY fix 3)
+
+Binding on the wave-6 and wave-7 directives, recorded here so it
+cannot be inherited by accident: chapters 21–27 may NOT carry
+seven consecutive down-endings as the register table above
+implies. At least ONE ending in ch 21–24 is dealt with lift or
+forward-pull; and ch 24's chapter must let the reader SEE the
+silence costing Dan on the page (the turn-signal decision stays
+at 26, but no reader spends two chapters believing he is fine
+with it). The C7 endings-cadence read and the three-star band
+both live in this stretch; the endings are dealt at brief time,
+deliberately, on the record.
+

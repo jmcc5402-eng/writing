@@ -49,7 +49,11 @@ energy-bank + estate-sale shelf.
 > open, and the only call she can't make by the book.
 
 Register promises stated on the package (comp-shelf §2 and §4):
-closed door named plainly; over-35 leads as a selling line ("she
+closed door named plainly — **with the honesty clause (outline
+gate, MANDATORY fix 1): "closed door for the leads, one
+door-ajar scene for a side couple" appears wherever the register
+is stated** (the two-star "false advertising" band cut in half
+for eleven words); over-35 leads as a selling line ("she
 is older" stays in copy); trope-forward ("forbidden,
 chain-of-command — inverted"); *Friday Night Lights* for the
 group-chat generation. Storefront test (RETRO NEW 20) gates this
