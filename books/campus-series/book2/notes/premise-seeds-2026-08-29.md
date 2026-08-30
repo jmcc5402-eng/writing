@@ -31,3 +31,38 @@ question.
 Note for the record: 38 is not even young for head coaches in
 reality; the genre reader will read him as the story tells her
 to. No apparatus needed on the page.
+
+## The sub-couple heat spike (author, 2026-08-29, in chat — RULED in principle)
+
+ONE extra-steamy scene for a SUB-couple: a post-bar hookup that
+goes too far — a mistake with a morning-after cost (Grapevine
+has it by 9 a.m.). Purposes: heat signal for the edgier shelf
+while the LEADS' door stays closed (standard 9 holds for
+Aisha/Dan); a CONTRAST COUPLE — they rush and pay for exposure,
+dramatizing the leads' exact fear without a lecture. Candidate
+(premise PR rules): the admissions director (bench plant, ~32)
+— auditions the 2.x lead with edge; alternative: two new
+crew-adjacent townies. Mechanics for the premise PR: state TWO
+heat standards explicitly (leads = standard 9; the side scene =
+"door ajar" — past Book 1's line, cut before explicit) so no
+drafter guesses.
+
+## The low point (author direction: "Aisha gets fired or something")
+
+Proposed shape (premise PR presents; author rules):
+**suspended pending independent review** — crueler and more
+2020s than fired (the dogpile gets OFFICIAL validation; a
+public trial that keeps trending). Trigger: the tailgate-photo
+reveal (the penciled dance-replacement) — every call she made
+on his roster reads retroactively as conflict of interest.
+No-luck rule: the complaint is quietly Boyd-adjacent —
+sidelining the county's one credible "safety" voice clears the
+annex survey's path; SAME WEEK, the annex demolition greenlights.
+Her bottom: the never-married woman reverts to alone — a clean
+prestigious offer elsewhere (the series' tailored-temptation
+move) and she starts packing; not fired, CHOOSING to leave.
+Ick-lines hold: her call is never proven wrong (vindication
+planted fair, lands later); the climb out REQUIRES Dan
+defending her call publicly at full cost to his season before
+anything private repairs. Alternative kept: outright firing
+(harsher, harder to reverse credibly in the window).
