@@ -13,6 +13,9 @@ Nineteen degrees at four o'clock. Wind out of the north.
 Aisha worked her sideline in her own wool coat.
 It was a good coat. It was a city coat.
 The wind went straight through it.
+By morning the county had been through its pipes
+and its jumper cables.
+By afternoon it was the field's turn.
 
 The head trainer came down the fence at four fifteen
 with a coat over one arm and two cups from the fieldhouse,
@@ -50,6 +53,10 @@ Below twenty the tape quit sticking
 unless the rolls rode inside somebody's coat,
 so the rolls rode inside hers.
 The water bottles went to slush on the cart.
+Twice she re-taped a wrist held out through the rail,
+gloves off for the work and back on after,
+and the log's pen had to be thawed in her fist
+before it would sign anything.
 Down the field the periods ran on the horn,
 and the drills went on regardless of the temperature,
 and she made her checks and came back to the fence each time
@@ -71,7 +78,8 @@ and she had quit waiting for it to choose.
 ***
 
 The parka was on her chair Wednesday morning at seven,
-in an office still two rooms ahead of its radiator.
+in an office still two rooms ahead of its radiator,
+her breath showing at her own desk.
 
 Team issue, navy, the staff patch on the chest,
 and over the staff patch, stitched in block letters, C. COLE.
@@ -82,6 +90,8 @@ and it kept going well past where a coat needed to.
 Behind it, on the whiteboard, DEC 19 sat circled in red,
 and beside the circle the ladder went down the board
 with no dates on it, same as yesterday.
+The seven's next evaluation sat where the ladder put it,
+and nowhere else.
 
 She carried the parka to the equipment cage.
 The cage smelled like dryer heat and new leather,
@@ -177,6 +187,9 @@ and ate all of it inside the coat with the zipper up
 while the Table went back to the cold,
 and whether the church pipes would hold through Sunday,
 and whose fault it would be if they didn't.
+Odell held that it would be the deacons'.
+Sonny held that the deacons held nothing, including heat tape.
+Nobody asked the doctor, and the doctor did not rule.
 
 They did not tease visitors here.
 She had been introduced twice to half this room.
@@ -288,7 +301,7 @@ all her life.
 
 Room nine was cold at the edges,
 the furnace running behind, the wind north,
-Verna's blanket on the bed where it had lived since October.
+Verna's blanket on the bed where it lived now.
 Her phone lit three times
 while she hung the wool coat on the closet rod,
 where it kept its month-old smell of woodsmoke.
