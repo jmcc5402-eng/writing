@@ -320,3 +320,4 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-30 | romance-reader-panel (B1.2 wave-1 judging, ch01 — shuffled labels X/Y/Z, sealed perm) | P1 binge (1.2 book deal) | judging report (filed by orchestrator) |
 | 2026-08-30 | romance-reader-panel (B1.2 wave-1 judging, ch03 — shuffled labels) | P1 binge (1.2 book deal) | judging report (filed by orchestrator) |
 | 2026-08-30 | romance-reader-panel (B1.2 wave-1 judging, ch04 — shuffled labels) | P1 binge (1.2 book deal) | judging report (filed by orchestrator) |
+| 2026-08-30 | romance-reader-panel (B1.2 wave-1 judging, ch02 — shuffled labels) | P1 binge (1.2 book deal) | judging report (filed by orchestrator) |
