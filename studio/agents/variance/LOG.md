@@ -328,3 +328,7 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-30 | drafting-assistant (B1.2 ch04 staging, winner A) | — (mechanical) | book2/manuscript/ch04.md on campus/b2-ch01-04-wave |
 | 2026-08-30 | line-copy-editor (B1.2 ch01-04 post-merge line pass) | E1 sentence-template hunt (LRU for this agent) | manuscript in place + report (filed by orchestrator) |
 | 2026-08-30 | continuity-keeper (B1.2 wave-2 BRIEF AUDIT) | E2 weakest-chapter-first (LRU; read as: riskiest brief first — ch 7 coat withhold) | audit report on wave2-directive.md (filed by orchestrator) |
+| 2026-08-30 | drafting-assistant (B1.2 ch05 blind, candidates A/B/C) | D7 / D2 / D5-jewel (LRU per wave2-directive card table) | book2/drafts/2026-08-30-wave2/ch05-candidate-{A,B,C}.md |
+| 2026-08-30 | drafting-assistant (B1.2 ch06 blind, candidates A/B/C) | D1 / D6 / D5-jewel | book2/drafts/2026-08-30-wave2/ch06-candidate-{A,B,C}.md |
+| 2026-08-30 | drafting-assistant (B1.2 ch07 blind, candidates A/B/C) | D3 / D4 / D5-jewel | book2/drafts/2026-08-30-wave2/ch07-candidate-{A,B,C}.md |
+| 2026-08-30 | drafting-assistant (B1.2 ch08 blind, candidates A/B/C) | D6(2nd) / D1(2nd) / D5-jewel | book2/drafts/2026-08-30-wave2/ch08-candidate-{A,B,C}.md |
