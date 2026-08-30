@@ -16,7 +16,8 @@ stages), "Format and frame (all candidates)", "The leads
 `book2/drafts/2026-08-30-wave2/ch0N-candidate-X.md`; staging
 branch is `campus/b2-ch05-08-wave`; wave-1's chapter briefs,
 board-artifact count ("two board ARTIFACTS"), ending registers,
-anchor slots, and edge deal are replaced by this directive's;
+anchor slots, edge deal, and HEAT deal (the wave-1 "want
+ UNNAMED" scoping) are replaced by this directive's;
 and the wave-1 scrub WATCH list gains the three 2026-08-30 line
 pass watches (`studio/agents/variance/RECENT.md`, appended
 2026-08-30: repeat-and-extend shape ≤1/chapter;
@@ -27,7 +28,7 @@ nothing unruled)"): describe NO fixed physical traits for
 either lead — presence, motion, wardrobe-in-action, voice only;
 pinning hair/eyes/skin/build is a staging strike.
 OFFSTAGE-STUDENT MECHANIC RESTATED for wave 2
-(`premise.md:233-235`: "OFFSTAGE ABSOLUTELY (R1/R5): jersey,
+(`premise.md:233-236`: "OFFSTAGE ABSOLUTELY (R1/R5): jersey,
 broadcast glimpse, MRI dates, a voicemail described, never a
 line, never a POV"): Trey and ALL students stay offstage in
 every wave-2 candidate — no student caller, no student line,
@@ -52,7 +53,7 @@ ch 8's phone-in included.
   named the scaffold the wave's signature phrase — this deal
   tightens it for ch 5–8). Plain "since June" mid-sentence is
   fine, rationed per the arrival-clock watch.
-- The ch 1 anchor's echo is SPENT (`THREADS.md:33-36`: "the
+- The ch 1 anchor's echo is SPENT (`THREADS.md:32-34`: "the
   ch 1→ch 3 'one Saturday plays for the whole year' echo is the
   priced-bravado payoff, the motif's one echo, SPENT"); no
   further reuse.
@@ -96,7 +97,7 @@ over safety; every ban still binds).
   spend of ONE — drafters may render it plain ("a microphone
   never healed anybody") if the rhythm holds; either way the
   book-wide count caps at one this wave.
-- EDGE RATION: 1 of 10 spent (`THREADS.md:31-33`: "1 spent —
+- EDGE RATION: 1 of 10 spent (`THREADS.md:29-30`: "1 spent —
   'Goddamn,' Dan, ch 4, the empty lot. 9 remain."; page:
   manuscript/ch04.md:318). This wave deals ONE
   optional swear — Dan's interiority, ch 8 only, at the

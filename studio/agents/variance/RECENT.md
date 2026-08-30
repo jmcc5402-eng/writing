@@ -75,9 +75,6 @@ list in the agent's invocation as "banned moves this run."
   register rules stand; the concern is reflex, not existence. A
   chapter may mark at most two scene changes by bell.
 
-## junior-literary-critic
-
-- (nothing banned yet — first entries come from the next review of a review)
 - WATCH (campus 1.2 line pass, 2026-08-30): the REPEAT-AND-EXTEND
   emphasis shape ("She signed the empty clipboard herself / so the
   clipboard would not be empty") — five instances in accepted
@@ -92,3 +89,7 @@ list in the agent's invocation as "banned moves this run."
   ("since June" / "Six months") rings in every ch 1–4 chapter —
   thematically load-bearing, but at ch 8 it becomes a bell. New
   uses earn their slot; scaffold constructions stay at quota.
+
+## junior-literary-critic
+
+- (nothing banned yet — first entries come from the next review of a review)
