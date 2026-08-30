@@ -39,22 +39,27 @@ energy-bank + estate-sale shelf.
 > Then the star takes a hit in the rivalry game, the playoff is
 > three weeks out, and the whole county — the diner, the radio,
 > and every parent with a login — wants one signature she won't
-> give. Dan knows exactly what a rule broken in this business
+> give. The diner splits the question down the middle and feeds
+> both sides anyway. Dan knows exactly what a rule broken in this business
 > costs; he paid a decade ago, and he's still paying. Falling for
 > the one person whose judgment he can't overrule isn't a
 > complication. It's the thing that can end them both — and it is
 > already, gloriously, too late.
 >
-> A closed-door romance with its want said out loud: two grown
-> professionals, one small town with the comment section always
-> open, and the only call she can't make by the book.
+> A closed-door romance with its want said out loud — closed
+> door for the leads, one steamy scene for a side couple: two
+> grown professionals, one small town with the comment section
+> always open, and the only call she can't make by the book.
 
 Register promises stated on the package (comp-shelf §2 and §4):
 closed door named plainly — **with the honesty clause (outline
-gate, MANDATORY fix 1): "closed door for the leads, one
-door-ajar scene for a side couple" appears wherever the register
-is stated** (the two-star "false advertising" band cut in half
-for eleven words); over-35 leads as a selling line ("she
+gate, MANDATORY fix 1; wording amended by the storefront test,
+2026-08-30): "closed door for the leads, one steamy scene for a
+side couple" appears wherever the register is stated** (the
+storefront run's two-star persona proved "door-ajar" is not
+established shorthand — the one reader the clause must reach
+could not decode it; internally the scene keeps its DOOR AJAR
+standard name and fences, §7); over-35 leads as a selling line ("she
 is older" stays in copy); trope-forward ("forbidden,
 chain-of-command — inverted"); *Friday Night Lights* for the
 group-chat generation. Storefront test (RETRO NEW 20) gates this

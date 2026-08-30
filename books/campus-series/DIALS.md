@@ -19,7 +19,7 @@ panels, and packaging. Scale: 1–10 unless noted.
 | Interiority | intermittent → Closeness law from ch 25 | D14 |
 | Leads | 43 × 47, widower × divorcée | D01-era canon |
 
-## Book 1.2 — PROPOSED (this PR; every move ≤1 click)
+## Book 1.2 — LAW (ratified at PR #104, 2026-08-30; every move ≤1 click)
 
 | Dial | Setting | The click |
 |---|---|---|
