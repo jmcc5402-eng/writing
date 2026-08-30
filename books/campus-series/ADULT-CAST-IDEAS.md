@@ -100,7 +100,7 @@ rank data after launch.
 | Book | Leads | Ages | Young-book slot? |
 |---|---|---|---|
 | 1.1 | Marisol × Cal | 43 × 47 | — |
-| 1.2 | Dan × Aisha | 48 × 41 | — |
+| 1.2 | Dan × Aisha | **38 × 41** | **YES (author, 2026-08-29 — young up-and-comer; she is older)** |
 | 1.3 | Priya × Marcus | **33 × 36** | **YES (ruled)** |
 | 1.4 | Jo × Ray | 45 × 46 | — |
 | 2.x | (admissions director lead, see bench note) | ~32–34 | candidate |
@@ -131,9 +131,11 @@ capture. *Earns its pages:* the A-story is two people; the B-story
 makes the antagonist's method visible town-wide, plants S11, and
 establishes the board as battlefield for the whole series.
 
-**1.2 — Forbidden (chain of command).** *Coach Dan Merritt, 48,
-divorced* — the old fraternization scandal cost him a season and his
-marriage, so the rule has *reasons* × *Dr. Aisha Cole, 41,
+**1.2 — Forbidden (chain of command).** *Coach Dan Merritt, 38,
+divorced* (age re-penciled 38 at kickoff, author 2026-08-29 — the
+young up-and-comer; the decade-old fraternization scandal, from his
+young-assistant years, cost him a season and his marriage, so the
+rule has *reasons*) × *Dr. Aisha Cole, 41,
 never-married,* new head team physician, whose return-to-play calls
 overrule him weekly. **Obstacle:** she holds medical authority over
 his roster; any relationship taints every call she makes, in both
