@@ -1036,3 +1036,23 @@ line). 1.2's directive shops there FIRST; nothing may graft
 without the note's own echo-checks ([CHECK] flags on
 "undefeated", "home by dark", the engineer's [TK]).
 
+
+## TEXTURE SEEDS (author, 2026-08-30 — bank for any campus book)
+
+1. **The thrown-away plate set.** College kids grieving parents
+   who discarded the family's original cheap-but-loved objects —
+   the original plate and bowl set, "old and cheap but the kids
+   love them." The ache is object-grief across a generation gap:
+   the parent thinks they decluttered; the kid lost the artifact
+   of every childhood dinner. Plays on the parents' board (a kid
+   posting from a dorm; a parent realizing too late), in a lead's
+   backstory, or as a chorus beat. Rhymes with the series spine
+   (the House = the town's plate set nobody got to throw away).
+2. **The repurposed bedroom.** Parents converting a college
+   kid's room (gym, office, guest room) or a younger sibling
+   claiming it — the kid discovering home moved on without them
+   at Thanksgiving. Both directions carry: the parent's guilt
+   and defiance (35-45 reader IS this parent), the kid's
+   displacement. Parents' board gold ("Is it too soon to touch
+   his room? Asking for me.") and a natural walk-on-son beat for
+   1.2's Marisol thread if a slot wants it.
