@@ -163,14 +163,20 @@ everybody taking some.
 Ray wrote it on the window glass in shoe polish,
 backwards, so it read right from Millrow.
 
+Hats went up and came down on the wrong heads,
+and nobody traded back.
+Delores let the rail be as loud as it wanted,
+recess rules suspended for the afternoon,
+and the heaters hissed on unheard under all of it.
+
 "Alphabet," Sonny said, to anybody. "I told you. Alphabet."
 
 Earlene Tatum filled her thermos cup all the way to the brim
 and handed it to a stranger.
 "It's a day," she said, by way of explanation.
 
-Tick Moran was in the corner with his remote rig,
-one hand cupped over his ear, grinning at his own meters.
+In the far corner Tick was live over all of it,
+one hand cupped to his ear, grinning at his own meters.
 "Folks, whatever you can hear underneath me right now,"
 he said into the microphone,
 "it is exactly what it sounds like."

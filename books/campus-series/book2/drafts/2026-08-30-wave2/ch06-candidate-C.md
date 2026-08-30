@@ -25,6 +25,9 @@ sat up on two feed crates at the end of the rail,
 tilted down so the whole length of the porch could see it,
 the cord run through the kitchen window
 and the window shut on the cord.
+Folding chairs had come from the fellowship hall,
+and blankets off truck seats,
+and nobody sat in the chairs or under the blankets for long.
 
 "Plate first," Ray said at the door, to everyone, all afternoon.
 "Screen'll keep. Brisket won't."
@@ -34,6 +37,12 @@ Sixty coats and a pit's worth of borrowed heat,
 sixty breaths riding up under the rafters in one slow cloud,
 and the cold coming through the wire anyway, fine as sifted flour,
 sifting the whole afternoon, and not one word said about it.
+
+Out past the screens the square sat in its Sunday winter light,
+frost holding gray in the shade lines, the sun thin and without
+weight, the storefronts dark except the hardware store,
+whose owner had locked up at noon
+and crossed over rather than miss it.
 
 Sonny Dillard had the near rail staked out with a thermos.
 "They'll fly that flag off the smokestack on the nineteenth,"
@@ -96,10 +105,17 @@ DEC 19. FIRST ROUND. ON CAMPUS.
 
 The sound had no shape to it at first, no words in it anywhere,
 just sixty coats' worth of held breath let go at volume.
-Then it found the fight song, and the fight song found the square,
+Then it turned into the fight song,
+and the fight song spilled off the porch and into the square,
 and car horns took it up on Millrow,
 and dogs answered from three streets over,
 and the smoke wavered where the porch screens shook.
+
+Ray came out of the kitchen with the serving fork still in his hand
+and stood in the doorway and let it all go past him.
+Sonny beat the rail flat-palmed till the thermos jumped.
+Somebody's grandmother got both arms straight up over her head
+like a referee calling the whole day good.
 
 Denny reached Dan through the crowd, took his hand in both of his,
 and pumped it like a jack handle.
