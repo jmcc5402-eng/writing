@@ -78,3 +78,17 @@ list in the agent's invocation as "banned moves this run."
 ## junior-literary-critic
 
 - (nothing banned yet — first entries come from the next review of a review)
+- WATCH (campus 1.2 line pass, 2026-08-30): the REPEAT-AND-EXTEND
+  emphasis shape ("She signed the empty clipboard herself / so the
+  clipboard would not be empty") — five instances in accepted
+  ch 1–4. Wave-2+ drafters: at most one per chapter; do not increase.
+- WATCH (campus 1.2 line pass, 2026-08-30): the wry
+  "which"-appendix as the default meaning-namer ("…, which was the
+  answer he wanted") — eight instances in ch 1–4, five in ch 2
+  alone; the legal cousin of the banned "which was its own X."
+  Wave-2+ drafters: ration hard — let the gesture sit unnamed;
+  the reader was already doing the naming.
+- WATCH (campus 1.2 line pass, 2026-08-30): the arrival clock
+  ("since June" / "Six months") rings in every ch 1–4 chapter —
+  thematically load-bearing, but at ch 8 it becomes a bell. New
+  uses earn their slot; scaffold constructions stay at quota.
