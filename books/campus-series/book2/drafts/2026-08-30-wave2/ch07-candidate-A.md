@@ -70,7 +70,8 @@ and she had quit waiting for it to choose.
 
 ***
 
-The parka was on her chair Wednesday morning at seven.
+The parka was on her chair Wednesday morning at seven,
+in an office still two rooms ahead of its radiator.
 
 Team issue, navy, the staff patch on the chest,
 and over the staff patch, stitched in block letters, C. COLE.
@@ -228,9 +229,12 @@ that had a survey on it now.
 She would not have said any of that at the Table at noon,
 and she did not say it now, alone, out loud, either.
 
-She put the memo under the stapler,
-where it could go be institutional at something else,
-and got out the afternoon's charts.
+She put the memo under the stapler and squared the edge.
+Then she walked one more lap with the tablet
+and charted the building itself,
+tables in use, evaluations run, records pulled in a week,
+a baseline for a patient nobody had asked her to take.
+After that she got out the afternoon's charts.
 
 ***
 
@@ -286,7 +290,8 @@ Room nine was cold at the edges,
 the furnace running behind, the wind north,
 Verna's blanket on the bed where it had lived since October.
 Her phone lit three times
-while she hung the wool coat on the closet rod.
+while she hung the wool coat on the closet rod,
+where it kept its month-old smell of woodsmoke.
 Kat, with listings.
 A brick two-bedroom four blocks from the clinic —
 *cute as a button and priced like it.*
