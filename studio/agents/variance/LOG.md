@@ -335,3 +335,4 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-30 | orchestrator (B1.2 wave-2 label shuffle, NEW 16 — sealed BEFORE drafts landed) | — (mechanical; seed 20260831) | studio/agents/variance/sealed/wave2-b12-permutation.b64 (SHA256 406e58431d0259c73fef33af81bf9f46e0d84f45e23d8b716940a269a4351a3d); unmask at Book-2 retro |
 | 2026-08-30 | romance-reader-panel (B1.2 wave-2 judgings ch05/ch06/ch08 — shuffled labels, sealed perm seed 20260831) | P1 binge (1.2 book deal) | judging reports (filed by orchestrator) |
 | 2026-08-30 | romance-reader-panel (B1.2 wave-2 judging ch07 — shuffled labels, widened packet sanitizer) | P1 binge (1.2 book deal) | judging report (filed by orchestrator) |
+| 2026-08-30 | continuity-keeper (B1.2 wave-2 cross-batch canon sweep, 4 winners + grafts) | E3 reverse-order (LRU; sweep ch 8 back to ch 5) | sweep report (filed by orchestrator) |
