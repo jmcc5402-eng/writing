@@ -422,7 +422,8 @@ that woman's coat.* *End: image (the sleeves rolled twice).*
 Live from Delmar's screen porch on 1340: the county's open phone
 line to its coach, and every caller wants the same word —
 *safety*, lent out the way he lent it at the supper in
-September. Aisha is in the crowd with a plate. Caller four asks
+October (sweep fix 2026-08-30; the accepted page rules —
+manuscript/ch17.md:103). Aisha is in the crowd with a plate. Caller four asks
 if a "precautionary hold" is a real medical category or a
 coaching decision (rulebook starter 4, verbatim register), and
 Dan hedges — gives the callers a shrug that leaves her standing
