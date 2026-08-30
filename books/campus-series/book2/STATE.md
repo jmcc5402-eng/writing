@@ -16,6 +16,41 @@ lines, carryover-reader gate).**
 them). Fold applied: STATUS flips, FC1 census fix, flag-8
 adoptions annotated in the energy bank.**
 
+## PICK UP HERE — WAVE 2 MID-CONVEYOR (2026-08-30, late)
+
+If this thread dies, resume EXACTLY here:
+1. ✅ Wave-2 directive (plots/wave2-directive.md) audited CLEAR
+   (2 rounds; coat-secret leak caught + cut).
+2. ✅ 12 blind drafts complete in drafts/2026-08-30-wave2/
+   (ch07-B was the straggler; all committed).
+3. ✅ 4 panel judgings filed: notes/wave2-panel-ch0{5,6,7,8}-*.md.
+   WINNERS (true labels, from the sealed-perm resolution):
+   ch 5 = candidate A · ch 6 = A · ch 7 = A · ch 8 = B —
+   each "ships with grafts" per its note's §4.
+4. ⏳ RUNNING: cross-batch canon sweep (continuity-keeper, E3,
+   4 winners + grafts + 8 deferred questions: Ray/flag-keeper,
+   invented names incl. "Tunk"/callers, diplomas-vs-unpacked,
+   ch4-echo graft, ch8 button/grafts, Table-reads-thread
+   verbatim check, deal compliance, template collisions).
+5. NEXT, in order: wave-2 staging order (SR rulings embedded,
+   strikeable) → stage winners+grafts on campus/b2-ch05-08-wave
+   (worktree; mechanical agents) → lint battery (floor 15% ALL
+   FOUR — no Q1 quiet slot left; never-once ≤1 via Odell
+   anchor; swear ≤1 ch 8; shingle dedup vs 1.1 + 1.2 accepted;
+   furniture-registry grep) → ONE wave PR + SEND THE AUTHOR THE
+   .MD LISTENING FILE (studio/PIPELINE.md convention — headers
+   stripped, prose only) → on merge: fold (THREADS/CHANGELOG/
+   registry; new canon incl. flag-keeper ruling, walk-on caller
+   names as ruled) → line pass → wave-3 directive (ch 9–12:
+   B2-T06 Cordelia letter plant ch 9 — letter text is
+   [TK: author blesses wording], surface at the PR; F1 chain
+   ch 9; sub-couple ch 11 DOOR-AJAR fenced scene + ch 12 leak
+   artifact — reread premise §6/§7 and the realism rulebook
+   before briefing).
+Author state: at 80% of their token limit (2026-08-30) — keep
+everything committed continuously; wave PRs remain the only
+gates.
+
 **WAVE 1 ACCEPTED (PR #106 MERGED bare, 2026-08-30 — ch 1–4
 canon; all SR-B2-1..7 stand). FOLD DONE: headers flipped,
 THREADS.md + CHANGELOG.md started, furniture registry started
