@@ -380,7 +380,11 @@ inadvisable. The Checkerboard at one cook; the Liars' Table
 reads the board's clarity thread aloud and rules on it over
 eggs (the contrast engine's first full scene). Estate line 29
 assigned here: "You've fought me all season." / "And I'm
-undefeated." [CHECK ch04:196 echo]. — *Introduces: the annex as
+undefeated." [CHECK ch04:196 echo — RESOLVED CLEAR 2026-08-30:
+1.1 ch04:202 is a narrator tag on the consultant ("said the
+sneakers, undefeated"), different speaker/register; the dialogue
+line is licensed; the narrator-tag CONSTRUCTION stays 1.1's and
+may not be echoed]. — *Introduces: the annex as
 HER room; the totem's first spend (the coach's slice set in
 front of her, unasked). Plants: F1.* *ANCHOR (Sonny, at the
 Table): brains aren't a part you can order twice.* *End: image.*
