@@ -399,10 +399,20 @@ engine), **The Shed Thread** (ch 3, market vendors). The
 series model: each book's cast brings its NATIVE room — a
 room's register matches its clientele, not the town's — and
 rooms recur, splinter, or die between books the way real
-groups do. Moderation lineage is canon material: Marisol's
-house rules ("where to park, my loves") are the platform's
-founding constitution; who inherits mod power in any room is
-always a story lever. Guard (author): rooms stay in line with
+groups do. Moderation is PER-ROOM (author, 2026-08-29, RULED):
+**Marisol moderates the parents' board only** — her badge, her
+pinned posts, and the ch 15 coup's stripped "seat" were always
+that one room's; every other room has its own moderator (the
+Shed Thread's is unnamed; the town room's mod is open — a
+chorus role 1.2 may cast or [TK]). Her house rules ("where to
+park, my loves") are the parents' board's constitution, widely
+imitated on the platform; who holds mod power in any room is
+always a story lever. 1.2 note: the Aisha dogpile happens in
+THE ROOM MARISOL MODERATES, while her own son is the walk-on
+the board campaigns against — she cannot delete her way out
+without feeding the "biased mod" narrative; her cameo carries
+real stakes and rhymes with the book's conflict-of-interest
+theme. Guard (author): rooms stay in line with
 real-life group behavior — "real life chat rooms are
 outrageous enough" — per the realism rulebook
 (book2/notes/grapevine-realism-*.md).
