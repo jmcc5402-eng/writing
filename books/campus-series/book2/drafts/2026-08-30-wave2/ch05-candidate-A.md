@@ -112,6 +112,10 @@ Tick, Tunk Ferrell, Peanut Kyzer, Earlene Tatum,
 and Sonny Dillard standing at the end of it in half his gear,
 either off a shift or on his way to one.
 Aisha had the second stool at the counter and her coat still on.
+Her eggs had come late and apologized-for.
+She'd have waited longer.
+The clinic didn't open till nine on Tuesdays,
+and the Table was better listening than the radio.
 
 "Read the other one," Earlene said.
 
@@ -178,6 +182,11 @@ She picked up the fork.
 
 "He'll know before she's done chewing," Earlene said.
 
+The slice went down the way the sign promised.
+The Table went back to the bracket,
+to whether Delmar's would have the porch heaters out Sunday,
+to a dog somebody was still missing out past the fairgrounds.
+
 Half an hour of jury duty over eggs,
 and she had come out of it with pie.
 She had stood in front of friendlier review boards
@@ -216,6 +225,10 @@ Five, full practice." He was reading her board. "Six."
 and the rung has to hold overnight.
 That's all the math there is, Coach.
 You're looking at the whole column."
+
+They stood on the two sides of the board a while,
+him reading her ladder, her watching him read it,
+the marker tray between them like a net.
 
 He looked up at the top of the board.
 "You've got my calendar up here."

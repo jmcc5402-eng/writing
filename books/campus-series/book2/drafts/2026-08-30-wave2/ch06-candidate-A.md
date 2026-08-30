@@ -58,6 +58,15 @@ From the second row somebody hollered,
 "Flag flies for wins," Ray said, without turning around.
 "Not for television."
 
+Tick Moran had a remote rig set up in the far corner,
+a card table, a mixer, one microphone in a wool sock,
+and he kept touching his headphone with two fingers
+like a man listening to a safe.
+WDSS was carrying the porch live to everybody
+who could not get on it,
+which by the sound of the parked trucks
+was most of the county.
+
 Delores Fountain-Mabry was seating the porch
 with two fingers and no argument,
 elders down front where the sound was,
@@ -124,6 +133,12 @@ The porch got quieter by regions.
 By the third pairing the heaters were the loudest thing on it,
 then the pit fan,
 then the baby.
+
+Dan could have run the seeding math for them cold.
+He had run it all week, privately, against his own advice.
+But a county this old does not want arithmetic on a Sunday.
+It wants its name said out loud off a national desk.
+He drank Ray's coffee and kept the numbers in his coat.
 
 He did not hear the television say the name.
 He heard the front row hear it.
