@@ -304,3 +304,15 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-30 | BOOK-SCOPED P-deck DEALT for Book 1.2 (author ruling: steady within a book, rotated across books) — romance-reader-panel: P1 binge posture · superfan-reviewer: P2 serialized posture · developmental-editor: P3 audio ear | first deals, LRU order | rides every 1.2 run of each instrument; redealt at 1.3 kickoff |
 | 2026-08-30 | romance-reader-panel | P1 (binge — 1.2 book deal) | storefront test, 1.2 blurb pre-prose baseline (RETRO NEW 20; thresholds pre-set in book2/notes/storefront-test-2026-08-30.md) |
 | 2026-08-30 | continuity-keeper (Book 1.2 wave-1 BRIEF AUDIT — first run of the ratified pre-flight gate) | E5 dialogue-mechanics-first (LRU; read as: verify the directive's verbatim quotes character-for-character first — deviation documented for a brief-audit target) | audit report on wave1-directive.md (filed by orchestrator) |
+| 2026-08-30 | drafting-assistant (B1.2 ch01 blind, candidate A) | D4 minor-character competence (LRU) | book2/drafts/2026-08-30-wave1/ch01-candidate-A.md |
+| 2026-08-30 | drafting-assistant (B1.2 ch01 blind, candidate B) | D7 open mid-motion (LRU) | book2/drafts/2026-08-30-wave1/ch01-candidate-B.md |
+| 2026-08-30 | drafting-assistant (B1.2 ch01 blind, candidate C) | D5 weather-as-texture (jewel-forge slot, NEW 17 — fixed to slot C all wave) | book2/drafts/2026-08-30-wave1/ch01-candidate-C.md |
+| 2026-08-30 | drafting-assistant (B1.2 ch02 blind, candidate A) | D6 run past comfortable (NEW 18: dealt every wave) | book2/drafts/2026-08-30-wave1/ch02-candidate-A.md |
+| 2026-08-30 | drafting-assistant (B1.2 ch02 blind, candidate B) | D2 hands and objects (LRU) | book2/drafts/2026-08-30-wave1/ch02-candidate-B.md |
+| 2026-08-30 | drafting-assistant (B1.2 ch02 blind, candidate C) | D5 (jewel-forge) | book2/drafts/2026-08-30-wave1/ch02-candidate-C.md |
+| 2026-08-30 | drafting-assistant (B1.2 ch03 blind, candidate A) | D3 short-declarative (LRU) | book2/drafts/2026-08-30-wave1/ch03-candidate-A.md |
+| 2026-08-30 | drafting-assistant (B1.2 ch03 blind, candidate B) | D1 sound-forward (LRU) | book2/drafts/2026-08-30-wave1/ch03-candidate-B.md |
+| 2026-08-30 | drafting-assistant (B1.2 ch03 blind, candidate C) | D5 (jewel-forge) | book2/drafts/2026-08-30-wave1/ch03-candidate-C.md |
+| 2026-08-30 | drafting-assistant (B1.2 ch04 blind, candidate A) | D6 run past comfortable (2nd deal this wave — NEW 18 + deck wrap) | book2/drafts/2026-08-30-wave1/ch04-candidate-A.md |
+| 2026-08-30 | drafting-assistant (B1.2 ch04 blind, candidate B) | D4 minor-character competence (2nd deal this wave, deck wrap) | book2/drafts/2026-08-30-wave1/ch04-candidate-B.md |
+| 2026-08-30 | drafting-assistant (B1.2 ch04 blind, candidate C) | D5 (jewel-forge) | book2/drafts/2026-08-30-wave1/ch04-candidate-C.md |
