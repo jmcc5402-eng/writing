@@ -109,6 +109,22 @@ The shrug stood.
 "Yes ma'am. And it won't shrink to you, either.
 Don't run it through my dryers hoping."
 
+He set the sock bin down, reached under the counter,
+and laid a pair of field gloves on it, her size,
+having looked at her hands exactly once.
+He cracked two heat packs and dropped one into each glove.
+
+"Chemistry," he said. "Twenty minutes a pack.
+Box of them on that shelf — take four.
+Count your fingers now and then.
+I'll believe whatever you report."
+
+"And the order sheet?"
+
+"Wrote a second column in this morning.
+It'll be on the spring order.
+That doesn't help you today, but there it is."
+
 She put the parka on in the doorway of the cage.
 The hem landed below her knees.
 The sleeves went past her hands with length to spare.
