@@ -16,28 +16,40 @@ lines, carryover-reader gate).**
 them). Fold applied: STATUS flips, FC1 census fix, flag-8
 adoptions annotated in the energy bank.**
 
-NOW RUNNING, in order:
-1. **Storefront test (RETRO NEW 20)** on the ratified blurb,
-   BEFORE prose — blind panel (romance-reader-panel, P1 per the
-   1.2 P-deck deal), blurb text only, no repo. Threshold set in
-   advance in notes/storefront-test-2026-08-30.md.
-2. **Wave 1 (ch 1–4)** under the full ratified stack: wave-1
-   directive → BRIEF AUDIT (continuity-keeper reads briefs vs
-   canon, verbatim-quote rule) → 12 blind drafts + the
-   jewel-forge slot → shuffled labels / rotated order (sealed
-   permutation logged) → panels (P1 rides) → cross-batch sweep
-   → staging order → stage on campus/b2-ch01-04-wave → ONE
-   author PR. Withholds banked FROM CH 1 (B2-T02 coat, B2-T03
-   scandal shape — spend-slots + severable lines in the
-   outline's table); anchor lines dealt per chapter with named
-   chorus speakers; edge ration dealt (flag 9); staging clause
-   + warmth-engine sentence verbatim in every brief.
+**WAVE 1 COMPLETE THROUGH THE GATE (2026-08-30 evening): PR
+#106 OPEN — ch 1–4 staged on campus/b2-ch01-04-wave.** The
+whole ratified conveyor ran same-day: storefront test (2
+blocking copy fixes applied — "door-ajar"→"one steamy scene";
+diner warmth line); wave-1 directive; BRIEF AUDIT (blocked
+once, 10 findings, re-issued, CLEAR); 12 blind drafts (one
+relaunch after a server error); 4 shuffled-label panel
+judgings (P1; all "winner with grafts"); cross-batch sweep
+(12 mandatory + 5 ruling-needed + 8 deferred questions —
+notes/wave1-canon-sweep-2026-08-30.md); staging order with
+SR-B2-1..7 embedded (plots/wave1-staging-order.md); 4
+mechanical stagings; lint battery clean (ch 3 = Q1's quiet
+slot, dealt; ch 1 dialogue-lifted to 15.3%). Reading page:
+https://claude.ai/code/artifact/c5709bfe-89c2-4e4e-b328-44351a17785f
 
-STILL OPEN (author calls, none blocking wave 1 briefs except
-#10 if drafters must describe the leads): flag-10 lead
-descriptions [TK — briefs will carry "describe nothing beyond
-canon" until ruled]; flag-7 name castings ([TK] working names
-fine for drafts); flag-13 title (gated on storefront test).
+ON MERGE OF #106 (= ch 1–4 ACCEPTED): (1) fold — start
+book2/THREADS.md (B2-T01/T03/F10/F13/RH2 plant rows; Denny
+authored the clarity thread), book2/CHANGELOG.md, new-canon
+registry into town-ashford/bible (kickoff 2:30; slice
+quarter/$4/standing order; room nine hers; back-room
+displacement mechanic; Doss County closed; lounge floor 3;
+Aisha silent board member since June; board usernames);
+premise stays unamended per SR-B2-1. (2) line pass (mechanical
+applied, style proposed — flags waiting: ch 4 cup-rim
+doubling; ch 3 eleven-vs-twelve-minutes wobble). (3) wave-2
+directive (ch 5–8): first spends — the totem catchphrase
+(ch 5, "I'm eating it where he can see me"), want named HERS
+ch 5 / HIS ch 8, Coach's Table debut ch 8 (supper is OCTOBER
+per sweep fix); resolve [CHECK ch04:196 echo] (1.1 estate
+flag) BEFORE ch 5 briefs; no quiet-band slot left in Q1.
+
+STILL OPEN (author calls, defaults hold): flag-10 lead
+descriptions [TK]; flag-7 castings (working names); flag-13
+title (post-prose storefront rerun).
 
 Inherited hand-forwards (from ../STATE.md, Book 1.1 close):
 Boyd's calendar (moved-up survey; "somebody else's planning

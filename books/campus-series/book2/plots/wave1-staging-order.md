@@ -215,3 +215,15 @@ the wave button verbatim).
   third; room nine hers; Doss County closed; Denny authored
   the clarity thread (THREADS); board usernames on record;
   Dan's Friday 4:15–4:45 printed check.
+
+## POST-STAGING DEALS (lint battery, 2026-08-30)
+
+- **Q1's one quiet-chapter slot is SPENT on ch 3** (13.1%
+  dialogue — the tent chapter's register earns it; ch 1 was
+  lifted to 15.3% by ten reported-to-quoted conversions, no new
+  beats). Chapters 5–8 have no quiet slot left this quarter.
+- Shingle verdicts: the ch 1→ch 3 "one Saturday plays for the
+  whole year" echo is the outline's planned bravado-priced
+  payoff (KEPT, motif's one echo); the ch 2→ch 4 phone-face-down
+  pair is the nightly-tab plant/turn rhyme (KEPT, deliberate);
+  one generic 7-gram vs 1.1 ch 5 reworded in ch 3.
