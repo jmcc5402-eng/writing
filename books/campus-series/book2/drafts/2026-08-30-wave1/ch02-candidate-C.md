@@ -109,6 +109,9 @@ and nobody had lost anything yet.
 ***
 
 At ten the staff broke to the film room for the last install.
+Nothing new went in on a Friday.
+Friday you took plays out,
+until what was left was only what they owned.
 Boyd's rendering was taped to the wall beside the screen,
 where Dan had taped it himself two weeks ago:
 the performance center in watercolor and steel,
@@ -148,6 +151,8 @@ Dan squared the period cards against the tabletop once.
 Tick Moran came up the ramp at noon
 with the recorder already running,
 which was Tick's version of knocking.
+He signed the visitors' sheet without being asked.
+Everybody signed Merritt's sheet.
 
 "Two minutes for WDSS, Coach. County's hungry."
 
@@ -197,6 +202,12 @@ His mama says whatever you did, thank you."
 
 "His mama did that," Dan said. "We just gave him reps."
 
+Tick went down the ramp holding his hat on.
+Dan stood in the doorway a minute,
+cold turf and propane,
+the county out there getting louder by the hour,
+and went back inside to the cards.
+
 ***
 
 The Friday sideline check sat on his practice plan
@@ -204,6 +215,9 @@ in the only handwriting on it that wasn't his.
 It said one o'clock. It never meant one o'clock.
 It meant whenever the training room turned her loose,
 which on rivalry week could be any hour with a one in it.
+He built his practice plan in five-minute blocks,
+laminated, initialed,
+and had learned by July to write her line in pencil.
 
 She came through at one forty
 with the annex's cold still on her coat,
