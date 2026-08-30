@@ -34,7 +34,7 @@ It's had one column since before my time."
 It'll be on the spring order. That doesn't help you today."
 
 Today, she put the loaner on over the wool,
-and the loaner won on warmth and lost everywhere else.
+and it was warm and wrong at the same time.
 The shoulders sat halfway down her arms.
 The cuffs reached past her fingers.
 She pushed the right one back to sign the treatment log,
@@ -55,6 +55,16 @@ before he handed them over.
 There's four more in the right pocket.
 Count your fingers for me now and then.
 I'll believe whatever you report."
+
+The head trainer brought two cups down from the fieldhouse,
+steam going sideways off both of them.
+"Calling for nine tonight," he said, handing one across.
+
+"Nine."
+
+"Nine."
+
+She drank hers too fast and was glad of the burn.
 
 Down the field the periods ran on the horn,
 and the drills went on regardless of the temperature,
@@ -83,8 +93,8 @@ and beside the circle the ladder went down the board
 with no dates on it, same as yesterday.
 
 She carried the parka to the equipment cage.
-The cage smelled like detergent and new leather,
-and the first dryer of the day was already turning.
+The cage smelled like dryer heat and new leather,
+and the first load of the day was already turning.
 
 "There's a parka on my chair," she said.
 
@@ -111,8 +121,7 @@ Don't run it through my dryers hoping."
 
 She put the parka on in the doorway of the cage.
 The hem landed below her knees.
-The sleeves went past her hands
-and kept a little back for themselves.
+The sleeves went past her hands with length to spare.
 Inside it, the morning quit having a temperature.
 
 Her name, block letters, straight. It was warm.
@@ -126,8 +135,8 @@ in December. She kept it on.
 She took her lunch at the Checkerboard,
 because the annex heat stayed close to the radiators
 and she had been three rooms from one all morning.
-The Liars' Table was seated and dealt in
-before the door shut behind her.
+The Liars' Table was full and mid-argument
+by the time the door had swung to.
 
 "That coat sleeps two," Sonny Dillard said.
 "Three if they're friendly."
@@ -148,6 +157,13 @@ and rolled the left one once to prove it,
 and it came down again by the sugar.
 
 "Mm," Earlene said.
+
+"You hear that?" Sonny said. "They roll."
+
+"Leave the doctor's coat alone," Earlene said.
+
+"It's the most coat this table has ever seen.
+I'm admiring it."
 
 "Eggs and coffee," Aisha told the counter, "and a biscuit,"
 and ate all of it inside the coat with the zipper up
@@ -186,6 +202,9 @@ in some other decade.
 The records room: thirty years of files in four cabinets,
 and two walls of boxes that were already boxes,
 her predecessors' handwriting going back past ballpoint.
+A shelf of X-ray film in brown sleeves
+that no machine left on this campus could read.
+A taped carton marked KNEES, 1994.
 All of it, inventoried and boxed by February.
 The memo did not say where the building's winter went
 after that. It said subsequent communication.
@@ -229,6 +248,15 @@ and frowned at the seam.
 "It's warm."
 
 "I didn't say it wasn't warm."
+
+"It's the warmest thing in the county."
+
+"Did you eat?"
+
+"At the Checkerboard. Noon."
+
+"Noon was noon," Verna said,
+and set a sleeve of saltines on the desk between them.
 She picked the receiver back up.
 "Delores. The doctor's got herself a team coat.
 No, I am not exaggerating one inch of it.

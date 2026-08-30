@@ -40,6 +40,15 @@ still in their mailing box,
 and quit explaining to people how to find her.
 The ones who needed her found her.
 
+Missy Gault's morning report had come in at seven,
+a photograph of the notebook page, dated, timed,
+her handwriting straight as a fence row.
+Slept nine hours. Headache a two, down from a three.
+Ten minutes of television and he quit it on his own.
+Aisha copied every line of it into the chart
+and sent back the same two words she sent every morning.
+*Good record.*
+
 The imaging center came off hold with a click.
 
 "I can do Thursday, six-forty in the morning," the scheduler said.

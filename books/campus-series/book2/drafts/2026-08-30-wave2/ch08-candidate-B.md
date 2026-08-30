@@ -33,7 +33,7 @@ brisket, beans, a roll riding the edge of it.
 He got one bite down before the on-air bulb lit,
 and set the plate on the rail behind him,
 staged where he could find it in the dark later,
-the way he staged anything he meant to come back to.
+like everything he meant to come back to.
 
 He heard her arrive before he saw her.
 The crowd noise at the yard steps opened a seam,
@@ -187,7 +187,8 @@ in the same even time they had come up in,
 and nobody on that porch said a word while they went.
 
 The mic sat live in front of him.
-Tick's eyebrows asked it first, and the silence asked it next.
+Tick's eyebrows asked the question,
+and the whole porch waited on the answer.
 Anything he put on the air now would be a rescue
 she had not asked for, or another dollar of the same
 soft money he'd just spent, and he sat there and spent neither.
@@ -216,7 +217,7 @@ She had been holding a line,
 and every Friday of his clean, careful program
 was lived out on the safe side of it.
 
-The show found its way back, the way shows do.
+The show found its way back, because shows do.
 A man wanted to know about parking on the nineteenth.
 A woman reported a casserole dish three potlucks overdue,
 described it down to the chip in the lid,
@@ -251,12 +252,12 @@ and the door clapped shut behind him.
 
 The heaters ticked as they cooled.
 The smoker was down to coals.
-The yard gave up its last engine
+The last engine faded off up the road,
 and after that there was just the cold
-and the creek of the boards under his own weight.
+and the creak of the boards under his own weight.
 
 Dan stood at the rail and ran the tape honest,
-the way he would run it for any kid
+the same tape he'd run for any kid
 who bailed out of a clean pocket.
 The protection had held all night. The line had held.
 The line was her.

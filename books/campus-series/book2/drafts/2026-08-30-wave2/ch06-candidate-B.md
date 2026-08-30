@@ -245,7 +245,7 @@ would be in everybody's legs by three o'clock.
 
 Last thing, lamp still on, he opened the board.
 
-The bracket thread was four hundred replies deep and gaining.
+The bracket thread was six hundred replies deep and gaining.
 Somebody had the ticket rules wrong,
 and nine people were correcting them,
 each a different way.
