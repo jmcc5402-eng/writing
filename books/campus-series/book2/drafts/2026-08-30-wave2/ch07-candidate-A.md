@@ -216,9 +216,11 @@ She read it twice, the second time slower,
 like a chart with one value out of range.
 
 Then she walked the building with the memo in one hand.
-The rehab room: two tables, the whirlpool,
+The rehab rooms: two tables, the whirlpool,
 the parallel bars somebody had bolted true
-in some other decade.
+in some other decade,
+a cot with an army blanket
+for anybody the whirlpool heat took lightheaded.
 The records room: thirty years of files in four cabinets,
 and two walls of boxes that were already boxes,
 her predecessors' handwriting going back past ballpoint.
@@ -228,6 +230,9 @@ A taped carton marked KNEES, 1994.
 All of it, inventoried and boxed by February.
 The memo did not say where the building's winter went
 after that. It said subsequent communication.
+She called the number for Facilities Planning.
+Facilities Planning was a voice mailbox,
+and the mailbox was full.
 
 The whiteboard held its two calendars.
 The mail had brought a third.
@@ -239,6 +244,10 @@ because the annex was the one she'd unpacked.
 Splints by size. Records by year. Shelf by shelf, since June,
 her whole trade squared away into a building
 that had a survey on it now.
+A person could rent her sleep by the month
+and still be all the way moved in somewhere.
+Nobody had warned her it would be a building with a boiler
+and somebody else's name on the deed.
 She would not have said any of that at the Table at noon,
 and she did not say it now, alone, out loud, either.
 
@@ -257,6 +266,8 @@ Verna had the phone at her ear
 and rapped the glass with one knuckle
 as Aisha crossed the gravel.
 Aisha came in with the cold.
+The county paper lay open on the desk to the bracket,
+a church bulletin marking the place.
 
 "Hold on, Delores." Verna set the receiver
 against her shoulder. "Turn around."
