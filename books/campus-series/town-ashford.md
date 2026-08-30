@@ -386,3 +386,23 @@ What this census adds:
   the House — the House sits at Millrow's high end (ch09:257,
   ch19:14, ch06; staged consistently ch19/ch27). Book 1.2
   stages Millrow against this line.
+
+## Grapevine — the PLATFORM model (author, 2026-08-29, RULED)
+
+Grapevine is a platform that hosts ROOMS — any number, any
+shape, size, or clientele, opened and retired as the series
+needs. Established rooms so far: **the parents' board** (Book
+1.2's engine — parent-insecurity register; canon since ch29
+"the parents' board"), **the town room** (separate; lost-dog /
+road-work register; background texture, never the drama
+engine), **The Shed Thread** (ch 3, market vendors). The
+series model: each book's cast brings its NATIVE room — a
+room's register matches its clientele, not the town's — and
+rooms recur, splinter, or die between books the way real
+groups do. Moderation lineage is canon material: Marisol's
+house rules ("where to park, my loves") are the platform's
+founding constitution; who inherits mod power in any room is
+always a story lever. Guard (author): rooms stay in line with
+real-life group behavior — "real life chat rooms are
+outrageous enough" — per the realism rulebook
+(book2/notes/grapevine-realism-*.md).
