@@ -2,6 +2,32 @@
 
 Manuscript-affecting changes, newest first. (Hard rule 6.)
 
+## 2026-08-30 — Line pass, ch 1–4 (mechanical only; style proposed in report)
+
+- ch04: struck donor furniture "over the rim of her cup" from the
+  NO CALENDAR WORDS graft beat (carried flag 1) — the winner's own
+  "She looked at him over the cup" twelve lines below now lands
+  once, at the pivot it was written for (strip-donor-furniture
+  law; mate re-read).
+- ch03: "the eleven minutes under that gray nylon" → "the twelve
+  minutes" (carried flag 2, ruled a true same-page contradiction:
+  her own tape marks 6:10→6:22 make eleven arithmetically
+  impossible, and Aisha is the book's arithmetic conscience;
+  gauge count unchanged at one).
+- ch02: rewrapped the mid-phrase line break "two fingers on the /
+  shoulder" to clause boundaries (semantic-line-break law; no
+  word changes).
+- ch04: rewrapped "asked for / straight" to clause boundaries
+  (same law; no word changes).
+- ch03: rewrapped the over-80-column header acceptance line
+  (80-column law; header furniture only).
+- Sweeps verified clean: zero dangling colon/dash paragraph ends;
+  exactly one double-dash sentence per chapter; no banned words
+  ("never once", "which was its own", etc.); "Somewhere" ×1
+  book-to-date; no [TK]/[CHECK]; no time-bell transitions.
+  Personification strict counts ch 1 ≈ 5 and ch 4 ≈ 4 flagged as
+  findings in the line report, fixes proposed not applied.
+
 ## 2026-08-30 — Wave 1 ACCEPTED (ch 1–4; PR #106, bare merge)
 
 - ~9,100 words accepted: Bonfire Night · Everything to Prove ·
