@@ -77,3 +77,29 @@ emphasis — a fact is a fact under every card.
 | A8 | `[romance]` Set-piece-first: name the three big fun events before any plot beat |
 | A9 | `[romance]` Appetite pass: what people eat, drink, wear, and want — one beat built around each |
 | A10 | `[romance]` Blurb-backwards: write the cover copy first and outline the book that earns it |
+
+## P-deck — measurement instruments (BOOK-SCOPED; ruled by the
+## author 2026-08-30: "steady over a book but slightly different
+## perspective across books or sets")
+
+Dealt ONE PER INSTRUMENT PER BOOK at kickoff (Phase 0), logged
+once, and rides EVERY run of that instrument for that book —
+never redealt mid-book (the measuring stick stays steady). LRU
+per instrument across books. Applies to reception/measurement
+instruments (romance-reader-panel, superfan-reviewer,
+developmental-editor; kid-reader-panel when active). Producer
+decks (D/E/A/C) are unchanged — producers vary per run,
+measurers vary per book. Book 1.1 is the retroactive baseline
+(card-free). Cards shift READING POSTURE, never standards:
+
+| P1 | Binge posture: judge as one-sitting consumption — where does momentum snap |
+| P2 | Serialized posture: a chapter a night — each chapter judged as a night's portion |
+| P3 | The audio ear: judge as heard, not seen — rhythm, attribution, accidental rhyme |
+| P4 | The re-reader: judge what pays on a SECOND pass — plants, ironies, reread value |
+| P5 | The skimmer: judge what survives a fast, description-skipping read |
+| P6 | Comp-native: judge explicitly against the book's own dial-sheet comps |
+
+Resolves the "no card; deck TK" backlog debt (2026-08-30 entry):
+reception instruments now log their book-card, and the TK
+apology retires.
+
