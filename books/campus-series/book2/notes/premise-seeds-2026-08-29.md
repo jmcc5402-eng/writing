@@ -35,8 +35,10 @@ to. No apparatus needed on the page.
 ## The sub-couple heat spike (author, 2026-08-29, in chat — RULED in principle)
 
 ONE extra-steamy scene for a SUB-couple: a post-bar hookup that
-goes too far — a mistake with a morning-after cost (Grapevine
-has it by 9 a.m.). Purposes: heat signal for the edgier shelf
+goes too far — a mistake with a morning-after cost. Per the
+realism rulebook: Grapevine has it by 9 a.m. AS A LEAK ARTIFACT
+— a screenshot escaped from a side chat, or a vaguepost the
+whole board can decode — never a named main-board thread. Purposes: heat signal for the edgier shelf
 while the LEADS' door stays closed (standard 9 holds for
 Aisha/Dan); a CONTRAST COUPLE — they rush and pay for exposure,
 dramatizing the leads' exact fear without a lecture. Candidate
