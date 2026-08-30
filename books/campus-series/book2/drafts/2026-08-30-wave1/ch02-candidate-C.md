@@ -261,6 +261,16 @@ the compliance binder square on its shelf
 where any auditor in America could find it without asking.
 The last car out of the lot was his. It usually was.
 
+The square on the way home was already tomorrow.
+Sawhorses stacked outside the hardware store,
+flags zip-tied to the light poles,
+the Checkerboard's window soaped with the score
+everybody wanted,
+and out at the fairgrounds the first motorhomes
+had taken the good corners,
+generator exhaust standing straight up in the cold
+like the smoke of a small, patient army.
+
 At home he ate supper standing over the sink,
 found the whistle still on his neck at nine,
 and left it where it was.

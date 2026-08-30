@@ -273,7 +273,7 @@ hats coming off in a ring that traveled with it,
 and closed up loud again behind her car
 like water behind a boat.
 
-Then the last block let them go, and the road opened,
+Then they were past the last block, and the road opened,
 and the town shrank in her mirrors to a glow with a voice.
 The radio ran the call a third time, the announcer gone
 to gravel on it.
