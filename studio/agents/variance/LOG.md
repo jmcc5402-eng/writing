@@ -299,3 +299,4 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-29 | drafting-assistant (campus ch2-4 closeness top-up, D14 polish — author "go polish") | D1 sound-forward (LRU; read as: reaction beats keyed to what the POV lead HEARS) | manuscript on campus/ch2-4-closeness |
 | 2026-08-29 | market-pitch-agent (book 1.2 comp-shelf refresh, modern lane — kickoff pre-flight) | — (no card; deck TK) | book2/notes/comp-shelf-2026-08-29.md |
 | 2026-08-29 | culture-researcher (Grapevine realism study — do real community groups gossip about romances) | — (no card; deck TK) | book2/notes/grapevine-realism-2026-08-29.md |
+| 2026-08-30 | plot-architect (book 1.2 premise + Snowflake outline, blurb-backwards method per plan) | A4 contrarian comp (LRU, first draw — find the comp arguing this book should not work) | book2/plots/ for the premise PR |
