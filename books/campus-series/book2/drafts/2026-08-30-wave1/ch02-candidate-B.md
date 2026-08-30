@@ -1,0 +1,303 @@
+# Chapter 2 — Everything to Prove
+
+POV: Dan Merritt, third person limited, past tense.
+(Book 1.2, wave 1 blind draft — candidate B, variance card D2:
+hands and objects. FIRST DRAFT for the author's own pass.)
+
+---
+
+The script cards were laminated because Friday palms sweat
+the same as game palms,
+and Dan Merritt dealt them off the top of the stack
+one play at a time.
+
+"Trips right, orbit, check-with-me," he said,
+at conversation volume,
+and the first offense walked the play out at half speed
+under the Fieldhouse lights.
+He didn't watch the ball. He watched feet.
+
+The X receiver split two yards too tight to the numbers.
+Dan crossed the turf and moved him with two fingers on the
+shoulder, eighteen inches toward the sideline,
+then stood in the spot the kid had left
+so the spot itself would do the teaching.
+They ran it again. The eighteen inches held,
+and Dan tapped the kid's helmet once
+on his way back to the stack.
+
+The day ran off a printed schedule taped to the podium,
+four periods, the minutes down the left margin,
+and it ran on time because he had built it to run on time.
+Managers wheeled the ball carts to the next station
+thirty seconds before anybody needed them there.
+A visiting coach had asked him once what the secret was,
+and he had said good managers, and had not been joking.
+
+Outside, somebody's air horn went off on the highway
+about every tenth car, all afternoon.
+By the third hour nobody in the building looked up.
+
+Rivalry week put extra trucks in the parking lot
+and the old story back into circulation,
+the same lap it took every November.
+The board's version was ten years old and traveled well:
+a young assistant, two states east,
+a woman on the same staff, a wife at home,
+and one season that swallowed the job and the marriage both.
+The woman got half a sentence in it,
+and the half sentence changed with the teller.
+The school sat him down for a year,
+he came back leaner and hungrier and better,
+and the record since was the proof,
+and the county liked the story best
+with the redemption at the end.
+It got told fondly now, settled,
+a thing the county had decided long ago how to feel about.
+
+Dan squared the stack of cards against the podium
+until the edges were one edge,
+and called the next play.
+
+They walked the visitors' pressure package
+with the scout team holding cards overhead,
+and the protection slid the right way six times out of six.
+They walked the two-minute drill against a dead clock,
+huddle to snap in fourteen seconds,
+and number seven carried out a fake
+ten yards past where the card said the play died,
+at something no honest man would call half speed.
+Dan let it go.
+Some things you coach out of a kid.
+Some things you drive to other towns to find.
+
+They walked the field-goal operation last,
+snap to hold to kick with nobody rushing,
+and Dan stood behind the holder with his stopwatch.
+One point three, twice running.
+He showed the long snapper the watch face
+instead of saying anything,
+and the third snap came back a hair quicker,
+which was the answer he wanted.
+
+The athletic director came down the wall at three thirty
+with two visitors in quarter-zips,
+and the three of them watched the offense
+re-rack the same third-and-medium
+until it was smooth enough to bore a stranger.
+
+"Cleanest Friday in the league," the athletic director said
+on his way out. "The league says it, not me."
+
+"You're watching the kids," Dan said.
+"They'd run it right if I stayed home.
+Tell the league that part."
+
+When the period ended he kept one receiver back —
+the kid who had needed the eighteen inches —
+and walked the landmark with him three more times,
+no whistle, no audience,
+until the kid's feet found it without looking down.
+Then he handed him the card to take home.
+The kid nodded like a man being trusted with money.
+
+What he would not have told the athletic director,
+or anybody, was that this hour was his favorite of the week.
+Not the game. This.
+Sixty-odd things in a row happening exactly as the card
+said they would, and nothing at stake yet,
+and nothing in the building he hadn't checked twice himself.
+
+***
+
+The Friday medical check ran four fifteen to four forty-five,
+and it moved for nobody.
+Back in September he had asked, through the trainers,
+politely, whether it might move to mornings.
+The answer came back the same afternoon, also polite,
+and it was no.
+
+Dr. Cole came onto the turf at four fifteen
+with a tablet and one sheet of paper,
+because the tablet was for the university
+and the paper was for him.
+
+"Fifty-six," she said. "Stinger, Tuesday night.
+Symptom-free at forty-eight hours,
+full painless range this morning,
+strength equal side to side.
+He's probable. He takes no contact today."
+
+"It's a walkthrough, Doc. Nobody takes contact today."
+
+"Then today will go well for both of us."
+
+He rolled the ball cart out of her lane with one hand
+and read the sheet with the other. "Twenty-two?"
+
+"Low ankle sprain, grade one, taped and braced. Full-go.
+It's on the sheet."
+
+"I read the sheet."
+
+"You'll read it at six," she said,
+"and again at ten, and again tomorrow at seven,
+in case it changed overnight.
+It doesn't change overnight.
+If it changes, you're my first call."
+
+She turned the tablet around
+and showed him tomorrow's sideline map,
+her thumb on the stretch behind the bench.
+"The tent goes up at noon.
+Your bench crew staged coolers on my north edge last game.
+The north edge is mine."
+
+"I'll move the coolers," he said,
+and wrote COOLERS on the back of a script card
+in block letters.
+
+There was nothing in the sheet to push on.
+He had pushed anyway, in June and twice in August,
+and lost on the merits both times.
+Six months of Fridays
+and the paper had come back right every one of them,
+which he had quit calling luck sometime around October.
+
+She spent ten minutes at the far wall with fifty-six,
+running the shoulder through its range with her own hands,
+watching the kid's face instead of the arm.
+She said something short.
+The kid shook his head, and she watched him shake it,
+and only then wrote on the tablet.
+She was gone by four forty.
+
+The practice schedule had a line through that half hour,
+printed, every Friday of the season.
+He had typed the line in himself.
+
+***
+
+Boyd's people had sent the rendering over on Tuesday,
+rolled in a tube,
+and somebody had taped it to the film-room wall
+beside the depth chart.
+The performance center sat in architect's dusk,
+three stories of glass with a sunset loaded into it,
+silhouettes crossing a lobby
+bigger than the current weight room.
+One corner of the tape had started to curl.
+Dan pressed it flat with his thumb
+on his way to the projector.
+
+"You keep petting that thing,"
+his offensive coordinator said.
+
+"I keep liking it. I'm not shy about it."
+He pulled up the first cutup.
+"Every kid we host in January
+walks our weight room with the portal open on his phone.
+I can out-scheme anybody in this league
+and I cannot out-scheme a roof leak.
+That building answers the one question film can't."
+
+"It's Boyd money."
+
+"It's a squat rack, not a handshake.
+The kids lift in it either way."
+
+The coordinator looked at the rendering a while longer
+with his arms crossed,
+and then went back to the clicker.
+
+They ran the visitors' nickel cutups
+until the projector fan was the loudest thing in the room.
+Third-and-seven was where their coordinator got brave.
+Dan ran the same six plays until the bravery had a shape,
+field pressure off the nickel, corner soft behind it,
+and the answer was a smoke to the boundary
+with the back swinging opposite.
+Their corners were grabby and their nickel was sound,
+and he had three answers scripted
+and a fourth he would hold until the half.
+He drew the check he wanted on the whiteboard,
+capped the marker,
+and laid it in the tray square with the rail.
+He felt fine about all four answers,
+which on a Friday night
+was as close to peace as the job sold.
+
+***
+
+The equipment cage smelled like detergent and new leather,
+and WDSS rode underneath the sound of the dryers.
+Tick Moran was deep into his Friday show.
+He read the forecast
+and called Sunday's cold front
+"more of a suggestion than a front,"
+and the equipment manager went on
+counting game socks into dozens without looking up.
+
+Tick gave out the visitor parking,
+told everybody the Booster Club needed propane
+and folding tables more than it needed advice,
+and played a song older than the stadium.
+Somebody had called in about a dog
+gone missing out past the fairgrounds,
+and Tick read the description twice,
+brown, sixty pounds, answers to nothing.
+
+Dan initialed the laundry loop sheet
+where the man slid it across the counter,
+and stood a minute at the rack
+where the home whites hung pressed and in numerical order,
+and straightened a sleeve that did not need straightening.
+
+Tick came back from the feed-store ad
+and dropped the radio polish for one sentence,
+the flat voice he kept for tornado warnings
+and final scores.
+"You know what tomorrow is, friends.
+Win tomorrow, and December finally means something
+in this county."
+
+Dan had coached in counties where December was a birthright
+and in counties where it was a rumor,
+and he knew which kind this one was.
+He took the spare script stack off the counter,
+said good night to the equipment manager,
+and left him to the socks.
+
+***
+
+He ate standing at the kitchen counter,
+Wednesday's chili gone thick,
+the game plan open next to the pot
+and not being read so much as visited.
+
+He laid out Saturday on the dresser.
+Polo, khakis, the sideline jacket,
+the lanyard coiled on top with the whistle in the middle,
+the last thing off tonight and the first thing on tomorrow.
+
+He checked that the truck keys were on the hook
+and the headset bag was by the door
+with the script stack squared inside it,
+COOLERS riding on top where he would see it first.
+
+He set the alarm for five
+and plugged the phone into the charger across the room.
+Then he took it off the charger again
+and sat on the edge of the bed with the lamp still on.
+
+Last thing, every night.
+He opened Grapevine and read the parents' board on himself.
+The rivalry thread ran long tonight
+and his name ran all through it,
+twelve thousand people sure of him, sure of tomorrow,
+up and down the page.
+He read to the end of the new posts,
+put the phone face down on the charger,
+and turned off the lamp.
+
+Kickoff was at two thirty.
