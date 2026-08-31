@@ -202,3 +202,45 @@ container: feelings filed, foldered, drawered, or kept in
 ledgers-as-hearts stay banned in every POV. Cal's ledger tic
 stays Cal's, capped at two per chapter, never the final ten
 lines.
+
+## The varnish ration (author law, 2026-08-30)
+
+> "It's almost like 'too witty', or too small-talkish."
+
+THE VARNISH: dialogue or narration whose real purpose is to be
+enjoyed rather than meant. The test, per exchange: WHAT DOES THE
+SPEAKER WANT FROM THIS LINE? If the only honest answer is "to be
+enjoyed by the reader," it's varnish. Three costs: voices flatten
+(when everyone is equally clever, everyone is the author); stakes
+evaporate (a character performing for the reader wants nothing
+from the person across the table — "too small-talkish" is the
+same failure at zero wit); trust erodes (a run of rewarded lines
+is a tell, exactly like a run of composed chapter endings).
+
+The audited diagnosis (notes/varnish-audit-2026-08-30.md, card
+C3): this house's varnish concentrates in the REPLY POSITION in
+chorus scenes — a second clever line capping a first that already
+did the work. Crisis scenes and two-handers discipline
+themselves; the wants are loud enough.
+
+The law:
+
+1. **When a line lands, the next speaker's job is to want, not
+   to match it.** The first witty line in a beat belongs to the
+   character; the second usually belongs to the writer. Cut
+   yours. One epigram per beat.
+2. **Rewarded lines are rationed and CAST-CONCENTRATED.** The
+   chorus's licensed performers (per the book's roster) hold the
+   wit; a witty line from a character with no performing bone is
+   the author's hand. A flat line from a witty character is
+   characterization.
+3. **Performance can BE the want** — holding court, disarming a
+   room, handing someone a way to stand back up. Wit at full
+   load is the house voice and is protected; this law prosecutes
+   decoration, not charm.
+4. **Small talk earns its place only when its emptiness is
+   dramatized** (the thing not being said must be on the page as
+   weather).
+5. **Gate hooks:** panels ask "who in this scene is performing
+   for me instead of wanting something?"; line passes flag
+   reply-position quips; drafting briefs carry rule 1 verbatim.
