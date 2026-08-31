@@ -114,3 +114,13 @@ wave's chapters — production headers stripped, prose only,
 TTS-friendly (the author reads/listens via ElevenReader). The
 reading-page artifact is optional garnish; the .md file is the
 deliverable.
+
+## The audio gate (author ruling, 2026-08-31)
+
+The author LISTENS to every wave's .md file (TTS) BEFORE ruling
+on its PR — the listening file is not just a deliverable, it is
+part of the gate. Wave PRs are expected to sit until the listen
+happens; comments arriving from a listen are rulings like any
+other (decode gaps, pacing, couple-beat thinness, varnish — the
+classes the Book One audio pass surfaced). The showrunner never
+treats a quiet wave PR as stalled.

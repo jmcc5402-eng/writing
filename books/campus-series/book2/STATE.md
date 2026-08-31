@@ -18,8 +18,11 @@ adoptions annotated in the energy bank.**
 
 ## PICK UP HERE — WAVE 2 AT THE GATE (2026-08-30, latest)
 
-**PR #107 OPEN — ch 5–8 staged on campus/b2-ch05-08-wave;
-listening .md sent to the author in chat.** Full conveyor ran
+**PR #107 OPEN — HELD BY THE AUTHOR FOR THE AUDIO LISTEN
+(2026-08-31 ruling: every wave is listened to before merge —
+studio/PIPELINE.md, the audio gate). Listening file is in chat;
+comments from the listen = rulings. Do not treat the wait as a
+stall.** Full conveyor ran
 (audit 2 rounds → 12 drafts → 4 panels → sweep → staging with
 SR-B2-8..14 → lint clean, appendix in wave2-staging-order.md).
 ON MERGE: fold per the staging order's FOLD NOTES (Ray flag
