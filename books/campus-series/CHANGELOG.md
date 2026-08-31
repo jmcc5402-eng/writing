@@ -3,6 +3,24 @@
 Tracks edits to manuscripts and adopted drafts (house rule 6), so the
 author can see what changed and why. Newest first.
 
+## 2026-08-31 — couple-beat repairs (author-greenlit; ch 2, 3, 7, 19)
+
+From the couple-beat ledger's three cheapest repairs plus the
+author's jealousy concept, sanity-trimmed (plan + ruling in
+notes/couple-beat-ledger-2026-08-31.md): ch 2 — the wrench now
+calls up HER (palm out, the hostage line, the laugh) so his
+appetite lands four chapters early; ch 3 — one deniable
+cap-brim at the north door, returned look, breaks the book's
+only three-chapter dry run; ch 7 — Earlene reports Cal's
+one not-about-pie question (the debt goes active from his
+side); ch 19 — the clipboard discovery moves to the FIRST
+coffee round (gravity before the labor; the ten-o'clock round
+now pours against the list) and the jealousy beat lands
+(one crooked nail, a man who looks at everything not looking,
+saved for later, unhurried at the mirror). Ch 12 protected on
+purpose. **Book 1.1's audio pass is DONE — the book freezes
+except author-reported comprehension failures.**
+
 ## 2026-08-31 — varnish cuts F1–F3 (PR #108, merged; audit 2026-08-30)
 
 Three reply-position quips cut per the author-commissioned
