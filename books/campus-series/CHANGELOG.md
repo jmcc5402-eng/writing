@@ -3,6 +3,18 @@
 Tracks edits to manuscripts and adopted drafts (house rule 6), so the
 author can see what changed and why. Newest first.
 
+## 2026-08-31 — varnish cuts F1–F3 (PR #108, merged; audit 2026-08-30)
+
+Three reply-position quips cut per the author-commissioned
+varnish audit: ch 17 — Marisol's "How tall is he again?" wink
+replaced with her established silence beat ("said nothing at
+all, again, and it was worse the second time"); ch 11 — the mug
+parade's candle-holder unit cut ("fill it to the handle" is the
+button; the moon-landing toast survives); ch 11 — Earlene ends
+at "Keep the pen." (one epigram per beat). F4 deliberately left
+as grain. The varnish ration is now house law (STYLE.md, PR
+#109).
+
 ## 2026-08-31 — the audio explicitness fixes (author-directed; ch 13/14/16)
 
 The author's relisten findings, greenlit ("worth it given my new
