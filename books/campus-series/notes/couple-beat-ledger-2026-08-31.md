@@ -141,3 +141,40 @@ Two beats I scored high sit exactly on a locked line and I report them and defer
 - **ch16, closing lines 410–416** and **ch23, lines 153–155** both end on a garment reaching the floor and cut there — ch16: *"and it went down onto the swept concrete, the first thing either of them had let fall all night"*; ch23: *"His one good jacket slipped from her shoulders and landed on the hall floor."* Both appear to honor STANDARDS item 9's bright line ("the scene cuts there") rather than cross it, and ch23's garment is an outer coat rather than the leads' own clothing. Whether the ch16 construction sits on the line or a hair past it is a gate call, not mine. Flagging, not ruling.
 - No student appears on page as a scene participant or focalized figure anywhere in the thirty chapters; the leads' kids reach the page only as texts and voicemails (ch07, ch11, ch21, ch29). Consistent with R1/R5 as far as this read goes. Reported, not adjudicated.
 - Nothing in this report establishes canon. Where the manuscript left something unnamed, it stays unnamed here — e.g. the ch18/ch26 engineer is written around and unnamed in prose per the chapter's own header flag `[TK per flag 2]`, and I have not given him one.
+
+---
+
+## AUTHOR RULING + IMPLEMENTATION PLAN (2026-08-31, in chat)
+
+Author: "implement these," order mine. SANITY CHECK ruled first
+(imperfection law + varnish law as the guardrails):
+
+APPROVED, smallest denomination each:
+1. ch 2 — +3 lines inside the wrench paragraph: the object calls
+   up something specific of HER (his appetite arrives ch 2, not
+   ch 6).
+2. ch 3 — +2–4 lines at his shed exit: ONE returned look (breaks
+   the book's only 3-chapter dry run).
+3. ch 7 — one small artifact arriving FROM his side into an
+   existing scene (debt active, not nostalgic). MUST NOT touch
+   the wrench (the wrench pays at ch 16 — protected).
+4. ch 19 — TWO interventions only (trimmed from five at sanity
+   check): (a) the clipboard discovery moves to the FIRST coffee
+   round so the labor reads as gravity, not description; (b) the
+   author's jealousy beat, ashamed-of-his-own-claim calibration:
+   a beloved crew man easy with her a beat too long; Cal feels
+   something small and ugly, puts it away badly; SHE notices the
+   putting-away, not the jealousy; nothing discussed; she turns
+   it over later. The crew man stays innocent and likable.
+
+RULED OUT at sanity check (over-the-top guard): ch 12 untouched
+(the side couple keeps their dawn; Cal-through-the-gate is
+itself the beat); ch 19 catch-her-looking and "Jacks first"
+re-aim dropped (redundant with the jealousy beat; line 80's
+fingers-crossing beat already exists); no new wit anywhere; no
+touching the borderline 2s.
+
+AFTER THIS: Book 1.1's audio pass is DONE — declare the book
+frozen except author-reported comprehension failures. This is
+the third post-complete edit session; the imperfection law says
+repair measured failures and STOP.
