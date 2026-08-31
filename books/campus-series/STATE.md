@@ -187,6 +187,17 @@ SR-14 apparatus edit + the re-read-the-mate rule) → stage on
    minutes" = probable plant — confirmed no new uses in wave 5).
 7. Book-2 parked questions: notes/book1-retrospective-seeds.md.
 
+## AUDIO-DOCKET (author's relisten findings, 2026-08-31 — see
+## notes/author-audio-comments-2026-08-31.md; author-gated, unapplied)
+
+1. ch 14 twelve-kitchens line → layered render (image + gloss +
+   consequence).
+2. ch 13 church sock-puppet beat → one chorus decode line.
+3. ch 16 first kiss → 2–4 held beats before "Motion carries"
+   (audio pacing; most protected scene — author-gated hard).
+Plus: "too not on the nose" reframe pending against PR #109;
+audio plot-spine summaries = candidate pipeline deliverable.
+
 ## POLISH-PASS items (deliberately deferred to the full-book read)
 
 Not waves, not debts — questions that can only be judged with a
