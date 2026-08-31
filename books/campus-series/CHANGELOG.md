@@ -3,6 +3,20 @@
 Tracks edits to manuscripts and adopted drafts (house rule 6), so the
 author can see what changed and why. Newest first.
 
+## 2026-08-31 — the audio explicitness fixes (author-directed; ch 13/14/16)
+
+The author's relisten findings, greenlit ("worth it given my new
+audio perspective"): (1) ch 14 twelve-kitchens line rendered in
+layers — image, plain gloss, consequence ("twelve tables' worth
+of mouths, and the hours on that letter would feed them all");
+(2) ch 13 gains the sock-puppet decode line, Earlene-voiced as a
+recall at the alibi deduction's peak ("some of these new users
+ain't real users… they can sway a riled-up group with just a few
+clicks") — the on-the-nose line for the reader who doesn't live
+online; (3) ch 16 first kiss slowed by four held beats before
+"Second vote" (audio carries duration only as beats). See
+notes/author-audio-comments-2026-08-31.md.
+
 ## 2026-08-30 — ch 11: the Tunk trial gets its charge (author-directed, audio read)
 
 The author, listening on TTS, could not tell what the 11 p.m.
