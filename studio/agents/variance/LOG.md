@@ -337,3 +337,4 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-30 | romance-reader-panel (B1.2 wave-2 judging ch07 — shuffled labels, widened packet sanitizer) | P1 binge (1.2 book deal) | judging report (filed by orchestrator) |
 | 2026-08-30 | continuity-keeper (B1.2 wave-2 cross-batch canon sweep, 4 winners + grafts) | E3 reverse-order (LRU; sweep ch 8 back to ch 5) | sweep report (filed by orchestrator) |
 | 2026-08-30 | drafting-assistant (B1.2 ch05-08 staging ×4, executes wave2-staging-order) | — (mechanical) | book2/manuscript/ch05-08.md on campus/b2-ch05-08-wave |
+| 2026-08-30 | red-team-critic (B1.1 VARNISH AUDIT, 4-scene sample: ch11 Mule trial, ch17 supper, ch24 leak, ch20 confession — author-named concept "too witty / too small-talkish") | C3 dialogue-only first pass (LRU; the instrument for the concept) | audit report (filed by orchestrator; proposals only under the imperfection law) |
