@@ -203,9 +203,42 @@ ledgers-as-hearts stay banned in every POV. Cal's ledger tic
 stays Cal's, capped at two per chapter, never the final ten
 lines.
 
-## The varnish ration (author law, 2026-08-30)
+## The explicitness dial — varnish and the on-the-nose ration
+## (author law, 2026-08-30; amended 2026-08-31 by author ruling)
 
 > "It's almost like 'too witty', or too small-talkish."
+> "Another way to say varnish I realized: 'too NOT on the
+> nose.' We need a good mix of on-the-nose writing, which is
+> more explicit — but if we use too much of it, it'll be
+> boring. We have to be more on the nose sometimes."
+
+ONE DIAL, TWO FAILURE ENDS. Every beat sits somewhere on the
+explicitness dial:
+- **Too on-the-nose** → boring; plainness creep (the anchor-line
+  law already counts this direction: a chapter with three plain
+  stakes lines is a miss the same as a chapter with zero).
+- **Too oblique** → the reader can't decode the beat at all —
+  and AUDIO is the reference reader for this end, because a
+  listener cannot flip back. If a beat's decode depends on text
+  sixty lines away, it fails the audio test.
+Varnish (wit serving the writer) and obliqueness (subtlety
+serving the writer) are the same sin at opposite ends: the line
+serves its author, not its reader.
+
+THE DECODE DUTY (the oblique end's ration): each chapter's
+briefs name its LOAD-BEARING BEATS — the one or two things every
+reader must hold leaving the chapter. Each load-bearing beat
+owes ONE plain decode within a page: **the LAYERED RENDER —
+image first, plain gloss second, consequence third** ("Twelve
+names on that roll. Twelve kitchens attached to them, / twelve
+tables' worth of mouths, / and the hours on that letter would
+feed them all."). Say it slant, then say it straight once.
+Texture beats stay slant — that is the mix. Modern mechanics the
+whole audience may not carry (sock-puppet accounts, portal
+windows, return-to-play categories) get their decode
+chorus-voiced, in dialect, once ("some of these new users ain't
+real users… they can sway a riled-up group with just a few
+clicks").
 
 THE VARNISH: dialogue or narration whose real purpose is to be
 enjoyed rather than meant. The test, per exchange: WHAT DOES THE
