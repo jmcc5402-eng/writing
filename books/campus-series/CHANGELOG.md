@@ -3,6 +3,20 @@
 Tracks edits to manuscripts and adopted drafts (house rule 6), so the
 author can see what changed and why. Newest first.
 
+## 2026-08-30 — ch 11: the Tunk trial gets its charge (author-directed, audio read)
+
+The author, listening on TTS, could not tell what the 11 p.m.
+Blind Mule "trial" was about — the charge lived only in
+Marisol's private phone scene sixty lines earlier, and the
+House stakes had gone quiet. Sonny's gavel line now names both
+in voice: "Somebody local's behind that Concerned4Ashford
+account, / sweet-talking this county into letting the House go.
+/ I'll tell you whose thumbs I like for it. / …And nobody pours
+a deck till Boyd gets his dirt." Everything after (the Wi-Fi
+line, "not a man who types," the conviction, the ch 13
+back-page callback) unchanged. Measured-failure repair under
+the imperfection law; author-reported.
+
 ## 2026-08-29 — Ch 3–4 closeness top-up, TRIMMED TO THREE (POLISH item 1; author ruling at PR #103)
 
 - The author ruled at the PR: "Let's do three of these 10… if we
