@@ -338,3 +338,4 @@ card, flag it in `../BACKLOG.md`.
 | 2026-08-30 | continuity-keeper (B1.2 wave-2 cross-batch canon sweep, 4 winners + grafts) | E3 reverse-order (LRU; sweep ch 8 back to ch 5) | sweep report (filed by orchestrator) |
 | 2026-08-30 | drafting-assistant (B1.2 ch05-08 staging ×4, executes wave2-staging-order) | — (mechanical) | book2/manuscript/ch05-08.md on campus/b2-ch05-08-wave |
 | 2026-08-30 | red-team-critic (B1.1 VARNISH AUDIT, 4-scene sample: ch11 Mule trial, ch17 supper, ch24 leak, ch20 confession — author-named concept "too witty / too small-talkish") | C3 dialogue-only first pass (LRU; the instrument for the concept) | audit report (filed by orchestrator; proposals only under the imperfection law) |
+| 2026-08-31 | romance-reader-panel (B1.1 COUPLE-BEAT LEDGER, all 30 chapters — author-directed; retroactive audit of 1.1 against the ratified post-kiss two-chapter law) | — (card-free: 1.1 is the P-deck baseline) | ledger report (filed by orchestrator) |
