@@ -187,6 +187,23 @@ SR-14 apparatus edit + the re-read-the-mate rule) → stage on
    minutes" = probable plant — confirmed no new uses in wave 5).
 7. Book-2 parked questions: notes/book1-retrospective-seeds.md.
 
+## AUDIO SWEEP IN PROGRESS (author, 2026-09-01) — THE BOOK IS
+## THE ACTIVE JOB
+
+The author is doing a full audio sweep of Book 1.1 and is
+HOLDING Book 1.2 (PR #107) until it finishes. Operationally:
+1.1's freeze stands, with its one exception wide open —
+author-reported comprehension failures get fixed on request, one
+commit each, changelog entry each, affected Part file rebuilt
+and sent. Findings so far, all landed: ch 11 (Tunk trial's
+charge + House stakes), ch 13 (sock-puppet decode), ch 14
+(layered kitchens), ch 16 (kiss slowed), ch 24 (Verna absolves
+the twelve + names the missing signature), plus the couple-beat
+repairs in ch 2/3/7/19 and the varnish cuts in ch 11/17.
+DO NOT start 1.2 work, dispatch 1.2 instruments, or nudge on
+#107 until the sweep is called done. Nightly shifts: verify,
+report, and stay out of the way.
+
 ## AUDIO-DOCKET (author's relisten findings, 2026-08-31 — see
 ## notes/author-audio-comments-2026-08-31.md; author-gated, unapplied)
 
