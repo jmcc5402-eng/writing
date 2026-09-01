@@ -124,3 +124,16 @@ happens; comments arriving from a listen are rulings like any
 other (decode gaps, pacing, couple-beat thinness, varnish — the
 classes the Book One audio pass surfaced). The showrunner never
 treats a quiet wave PR as stalled.
+
+## The audio plot spine (author want, 2026-08-31; first built
+## 2026-09-01)
+
+At outline ratification — and refreshed at every fold — the
+orchestrator builds an AUDIO PLOT SPINE: one plain paragraph per
+chapter, no craft language, TTS-clean, sent as an .md listening
+file. Purpose, in the author's words: "I didn't fully ingest the
+plot when I was reading it piecemeal… I really want to do more
+audio listening for the paragraph summaries of each chapter so I
+really internalize the plot well." Lives at
+book2/notes/plot-spine-audio.md (per book); refreshed so accepted
+chapters read as written and outline chapters read as planned.
