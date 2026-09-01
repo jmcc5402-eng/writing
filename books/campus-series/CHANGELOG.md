@@ -3,6 +3,21 @@
 Tracks edits to manuscripts and adopted drafts (house rule 6), so the
 author can see what changed and why. Newest first.
 
+## 2026-09-01 — ch 24: Verna absolves the twelve and names the claim
+
+Author-reported comprehension failure (the freeze's one standing
+exception), caught on the relisten: Verna's motivation misread as
+a warning that the winter work might fall through, when she is
+correcting the record about Cal. Two problems, one insertion, in
+her voice, placed on the line that made the room culpable: "I
+know what you're glad about. / Winter work and your families fed,
+/ and that's worth a round. / But you're drinking to a signature.
+There isn't one." The twelve are now explicitly forgiven their
+joy (they are load-bearing across ch 14/19/26/28 and must stay
+sympathetic), and the decode lands plainly before "you don't trim
+a thing that fits" carries it in metaphor. Speech, its ending,
+and the never-looking-at-the-dark beat untouched.
+
 ## 2026-08-31 — couple-beat repairs (author-greenlit; ch 2, 3, 7, 19)
 
 From the couple-beat ledger's three cheapest repairs plus the
