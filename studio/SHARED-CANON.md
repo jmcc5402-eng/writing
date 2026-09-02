@@ -24,7 +24,7 @@ UI verbs, and running jokes carry across series for free.
 - All posts invented; never lifted or near-paraphrased from real
   posts or identifiable people
 
-## The Grapevine epigraph (series device — PROPOSED 2026-09-02)
+## The Grapevine epigraph (series device — **LOCKED** 2026-09-02)
 
 **Author directive, 2026-09-02:** *"At the beginning of each chapter
 we put a quote from the grapevine. This could be something we do all
@@ -106,7 +106,7 @@ Roughly a third each, never a fixed rotation:
 Recurring handles are the running joke; a one-off poster wastes the
 device. Keep each book's room to four or five regulars.
 
-**Campus 1.1 — the town room** *(PROPOSED; canon on merge)*
+**Campus 1.1 — the town room** *(CANON — PR #111 merged bare, 2026-09-02)*
 
 | Poster | Register |
 |---|---|
@@ -118,7 +118,7 @@ device. Keep each book's room to four or five regulars.
 | *Concerned4Ashford* | CANON (ch 7). Bad-faith account: performative reluctance, "new here." |
 | *AshfordSafetyMom* | CANON (ch 7). Never posts without the one above. |
 
-**Campus 1.2 — the parents' board** *(PROPOSED; canon on merge)*
+**Campus 1.2 — the parents' board** *(CANON — PR #111 merged bare, 2026-09-02)*
 
 | Poster | Register |
 |---|---|
@@ -155,3 +155,8 @@ crossover is a canon decision in BOTH series' logs, plus a row here.
   room; 35-word cap; no timestamps; real names for citizens and
   handles for bad-faith accounts. Applied to campus 1.1 ch 1–30 and
   1.2 ch 1–4; 1.2 ch 5–8 written and parked for the #107 fold.
+- 2026-09-02 — **PR #111 MERGED BARE.** The epigraph device is LOCKED
+  and both poster registries are canon. No comment on either ruling,
+  so **SR-EPI-1 stands** (the sock campaign works both rooms —
+  recorded in campus-series/town-ashford.md) and **SR-EPI-2 stands**
+  (the epigraph frame keeps its colon; the in-scene render keeps none).

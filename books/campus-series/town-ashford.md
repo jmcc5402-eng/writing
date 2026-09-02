@@ -428,7 +428,7 @@ real-life group behavior — "real life chat rooms are
 outrageous enough" — per the realism rulebook
 (book2/notes/grapevine-realism-*.md).
 
-## SR-EPI-1 — the sock campaign works BOTH rooms (2026-09-02, STRIKEABLE)
+## SR-EPI-1 — the sock campaign works BOTH rooms (2026-09-02, **RATIFIED**)
 
 Raised by the continuity gate on the epigraph pass. On the page,
 *Concerned4Ashford* and *AshfordSafetyMom* appear only in **the
@@ -436,7 +436,7 @@ parents' board Marisol moderates** (ch 7, ch 15). Three of the new
 chapter epigraphs put them in **the town room** instead, under Book
 1.1's frame line.
 
-**Ruling (strikeable by author comment):** the Kudzu campaign works
+**RULING — ratified at the bare merge of PR #111, 2026-09-02 (not struck):** the Kudzu campaign works
 both rooms. It is what astroturf does — the same accounts seeded into
 every room that will have them — and it makes ch 25's forensics
 bigger, not smaller: thirty-one accounts across a platform reads
