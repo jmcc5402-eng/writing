@@ -50,3 +50,25 @@ Manuscript-affecting changes, newest first. (Hard rule 6.)
 - Line-pass flags carried to the pass: ch 4 cup-rim doubling;
   ch 3 eleven-vs-twelve-minute wobble (both logged, unfixed at
   staging by discipline).
+
+## 2026-09-02 — Grapevine epigraphs, ch 1–4
+
+The series epigraph device (author directive 2026-09-02,
+`studio/SHARED-CANON.md`) applied to the accepted chapters. Book 1.2's
+room is **the parents' board**, not the town room — the frame line
+differs from Book 1.1 by design, because each cast brings its native
+room and the rotation is what makes the device a series signature
+rather than a Book One habit.
+
+Register follows the realism rulebook: Tim Brasher runs a grievance
+through his son and then says it is not about his son (rule 1); Rhonda
+Sipes asks whether anyone else's son is still waiting on an evaluation
+(rule 4); nobody speculates about an adult's love life in plain text
+(rule 2).
+
+**ch 5–8 are NOT in this change** — they exist only on
+`campus/b2-ch05-08-wave`, which the author is holding for the audio
+listen, and editing them mid-listen would have changed the text under
+them. Their four epigraphs are written and parked in
+`plots/wave2-staging-order.md` (FOLD ADDENDUM) to be applied verbatim
+at the fold.

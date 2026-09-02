@@ -174,3 +174,40 @@ echo, now SPENT), and the protected ch 6 deciding line vs a
 ch 6 "better part of an hour" idiom; ch 6 ritual frame varied
 ("sat down on the end of the bed") per sweep finding 15's
 if-lint-objects clause.
+
+---
+
+## FOLD ADDENDUM — Grapevine epigraphs for ch 5–8 (2026-09-02)
+
+The Grapevine epigraph is a series device as of the author's
+2026-09-02 directive (`studio/SHARED-CANON.md`). Book 1.2 ch 1–4 got
+theirs in the epigraph PR; **ch 5–8 could not, because they live only
+on `campus/b2-ch05-08-wave` and that PR is held by the author for the
+audio listen.** Adding them there would have changed the text mid-listen.
+
+Apply these four verbatim AT THE FOLD, after #107 merges — same form
+as ch 1–4, frame line `On Grapevine, the Ashford parents' board —`,
+inserted after the production header's rule.
+
+**ch 5 — Two Calendars**
+> **Rhonda Sipes:** Is anyone else's son still waiting on an
+> evaluation? Just asking. He feels fine.
+
+**ch 6 — Selection Sunday**
+> **Kendra Voyles:** ASHFORD IS ON THE BOARD.
+>
+> **Tim Brasher:** DECEMBER 19. START THE COUNT.
+>
+> **Rhonda Sipes:** I have already looked at hotels.
+
+**ch 7 — The Coat**
+> **Rhonda Sipes:** Nineteen degrees on that sideline yesterday and
+> the staff stood out in it same as the kids. Say what you want about
+> them. They stood in it.
+
+**ch 8 — Coach's Table**
+> **Tim Brasher:** Coach's Table is going out live in December for the
+> first time ever. Somebody put that in the paper.
+
+Wave 3 onward: every chapter brief carries its epigraph slot, drafted
+with the chapter, not bolted on after.
