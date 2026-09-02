@@ -1081,3 +1081,35 @@ locked canon; no beat, voice, or plot change.
   runners-up proposed, none applied — awaiting the author's ruling
   on the winner. Candidates A and C remain in `drafts/2026-08-15/`
   as the graft bank.
+
+## 2026-09-02 — Grapevine epigraphs, ch 1–30 (author directive)
+
+Every chapter now opens with a short excerpt from Grapevine's Ashford
+County room, above the first line of prose. Author directive of
+2026-09-02; device spec and poster registry in
+`studio/SHARED-CANON.md`.
+
+**No scene prose changed.** The device is pure addition above the
+first line — 30 blocks, all at or under the 35-word cap, none
+carrying a load-bearing beat.
+
+Why it earns its place here: Grapevine is series-locked canon (PR #89)
+that this book named exactly three times in thirty chapters. The
+epigraphs make the town's collective voice structural instead of
+incidental, and the room rotates per book, so the device carries the
+whole series.
+
+Two things it does beyond texture:
+- **The bookend.** DeeAnn Whitlow's "the fairground gate is not a
+  road" opens ch 1 and returns in ch 30, where Marv notes it has been
+  a road four times this fall and she holds the line anyway.
+- **The sock-puppet drumbeat.** Concerned4Ashford is born in the ch 7
+  epigraph ("New here. Just moved to the area…") and recurs at ch 16
+  and ch 24, always with AshfordSafetyMom directly underneath. By the
+  time ch 13 reads the clocks on those posts, the reader has watched
+  the pair arrive together six times. The in-scene decode (Earlene's
+  line) is untouched; the epigraphs make it land.
+- **The invented kiss** gets its plant: the ch 25 epigraph has Patti
+  Ann Roby's cousin's girl adding rain that never fell, which ch 29
+  already pays off on the page ("Somebody's cousin was at our first
+  kiss on the square").
