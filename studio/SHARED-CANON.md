@@ -110,11 +110,11 @@ device. Keep each book's room to four or five regulars.
 
 | Poster | Register |
 |---|---|
-| **DeeAnn Whitlow** | The county's unofficial clerk. Posts rules nobody asked for. Bookends the book: the fairground gate is not a road (ch 1, ch 30). |
+| **Glenda Whitlow** | The county's unofficial clerk. Posts rules nobody asked for. Bookends the book: the fairground gate is not a road (ch 1, ch 30). |
 | **Marv Kessler** | Millrow. Has opinions about other people's projects. Documents rather than complains. |
 | **Patti Ann Roby** | Lost-and-found, church news, food. Traffics in what her cousin's girl saw. |
 | **Junior Pettit** | Asks questions with no context and would just like to be told things. |
-| **Hollis Deeter** | Agrees with everything. Was definitely there. |
+| **Wendell Crouse** | Agrees with everything. Was definitely there. |
 | *Concerned4Ashford* | CANON (ch 7). Bad-faith account: performative reluctance, "new here." |
 | *AshfordSafetyMom* | CANON (ch 7). Never posts without the one above. |
 

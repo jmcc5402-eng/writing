@@ -387,15 +387,15 @@ What this census adds:
 
 ## Recorded 2026-08-29 (continuity-fuzz surfacings — on-page accepted facts)
 
-- Coach **Dan Merritt** is named on the page (ch17:173).
+- Coach **Dan Merritt** is named on the page (ch17:178).
 - Verna–Cal history: she has known him "since he alphabetized
-  the church pantry" (ch24:207–208).
+  the church pantry" (ch24:213–214).
 - The parts house sits four doors up the block from the Blind
-  Mule (ch24:157).
-- The trustees' boardroom seats forty (ch28:13).
+  Mule (ch24:163).
+- The trustees' boardroom seats forty (ch28:18).
 - **Millrow's grade:** the street climbs from Delmar's end to
-  the House — the House sits at Millrow's high end (ch09:257,
-  ch19:14, ch06; staged consistently ch19/ch27). Book 1.2
+  the House — the House sits at Millrow's high end (ch09:265,
+  ch19:23, ch06; staged consistently ch19/ch27). Book 1.2
   stages Millrow against this line.
 
 ## Grapevine — the PLATFORM model (author, 2026-08-29, RULED)
@@ -427,3 +427,26 @@ theme. Guard (author): rooms stay in line with
 real-life group behavior — "real life chat rooms are
 outrageous enough" — per the realism rulebook
 (book2/notes/grapevine-realism-*.md).
+
+## SR-EPI-1 — the sock campaign works BOTH rooms (2026-09-02, STRIKEABLE)
+
+Raised by the continuity gate on the epigraph pass. On the page,
+*Concerned4Ashford* and *AshfordSafetyMom* appear only in **the
+parents' board Marisol moderates** (ch 7, ch 15). Three of the new
+chapter epigraphs put them in **the town room** instead, under Book
+1.1's frame line.
+
+**Ruling (strikeable by author comment):** the Kudzu campaign works
+both rooms. It is what astroturf does — the same accounts seeded into
+every room that will have them — and it makes ch 25's forensics
+bigger, not smaller: thirty-one accounts across a platform reads
+worse than thirty-one accounts in one group.
+
+This does NOT weaken the realism rulebook's rule 7 (crossing the
+streams is an escalation beat and should cost someone something).
+What crosses rooms here is the *campaign*, which was never organic;
+no organic story jumps rooms uncosted anywhere in the book.
+
+**If struck:** the ch 7, 16 and 24 epigraphs move to non-sock posts
+and the drumbeat is lost. The device survives; the ch 13 head start
+does not.
