@@ -98,3 +98,23 @@ orchestrator misread it as a constraint. No collision exists.
 Still open from the same listen: item 1 (Verna's bourbon, ch 3) and
 item 3 (introduce the sub-couple before ch 11 — ch 8 porch, ch 10
 Fieldhouse). Both wait for the author's word at the #107 gate.
+
+## B2-D04 — flag 10 PROPOSED on #112 as SR-B2-15 / SR-B2-16 (2026-09-03)
+
+Author ("go ahead… these changes need more information for me"):
+the leads' physical slate is proposed as strikeable rulings on the
+ch 1–4 PR, so the author rules by merge or comment rather than by
+writing it cold.
+
+- **SR-B2-15 — Dan Merritt:** a big man, an honest XXL; a former
+  player's frame settling into a coach's; forearms and shoulders are
+  what she notices; dark hair cut short, no gray; the stillness
+  (STANDARDS 25 — restraint with heat under it).
+- **SR-B2-16 — Aisha Cole:** small (the coat's shoulders sit halfway
+  down her arms); dark curls tied back hard on duty and loose by the
+  end of a long day — the second thing he notices; her hands are the
+  first (already canon: ch 3, ch 7).
+- **The rule, on the page:** stated once, ch 2, Dan's POV, as canon
+  shapes it (premise §2 — his rule, not HR's; he paid its bill).
+
+Canon on the merge of #112; struck items revert to [TK].

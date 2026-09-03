@@ -211,3 +211,43 @@ inserted after the production header's rule.
 
 Wave 3 onward: every chapter brief carries its epigraph slot, drafted
 with the chapter, not bolted on after.
+
+## FOLD ADDENDUM 2 — the author's 2026-09-03 rulings for ch 5–8 (apply at the fold)
+
+Author: "go ahead… I'm still reading 5–8 but it's worth it to get on
+it now." These apply the moment #107 merges, alongside Addendum 1's
+epigraphs. Each traces to `notes/author-audio-notes-2026-09-03.md`.
+
+**A. Beverage register (B2-D03):** ch 6 Ray's coffee at the evening
+show → a beer; ch 8 Tick's coffee at Dan's elbow on the December
+porch → stays coffee (the cold earns it) OR a whiskey if the motif
+"somebody sets a cup at Dan's elbow" needs the third one to vary.
+
+**B. Noticing beats (note 10; slate = SR-B2-15/16 on #112):** one per
+chapter, in POV, plain.
+- ch 5 (hers): the twenty-minutes negotiation — she notices the size
+  of him in her small office; the door frame he knocks on.
+- ch 6 (his): Selection Sunday, Ray's — her curls in the room's heat;
+  "She never looked at him while she said it" gets his noticing that
+  she didn't.
+- ch 7 (hers): the coat — she already notices its size; add the man
+  it was cut for, once.
+- ch 8 (his): the porch — her hands around the mic; then the plates.
+
+**C. The fight, on the page (note 8), dry:** sharpen ch 5's
+negotiation into a fight she wins in scene (two exchanges, the
+"undefeated" line as her last word); make ch 8's on-air hedge land as
+a betrayal so "when it comes out of my mouth, it's medicine" lands as
+the counterpunch. Editorial agent at the fold, winners in hand.
+
+**D. The sub-couple sighted (note 3):** ch 8's porch, two lines —
+Mack Doyle and Ty Beaumont leave together, seen from Dan's rail,
+while he sits with the plates.
+
+**E. Wave-3 directive lines (carry into the ch 9–12 briefs):** a
+staged clash in ch 10 (a step he pushes back on and loses) and the
+leak day ch 12; a sub-couple sighting in ch 10, Dan's POV, the
+Fieldhouse doorway; the sub-couple's morning-after cost as a fenced
+side scene at ch 13 or 14; every brief names its load-bearing beats
+and their decode (STYLE.md); write Dan young, never spend a line on
+his age; the beverage register; the noticing beat per chapter.
