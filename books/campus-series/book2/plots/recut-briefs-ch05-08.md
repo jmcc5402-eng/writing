@@ -1,0 +1,273 @@
+# Re-cut briefs — Book 1.2, ch 5–8
+
+**Written 2026-09-03 under the say-it test, the REVERSAL slot and the
+ARC BEAT (studio/STYLE.md · DRAFTING-PROTOCOL.md · PIPELINE.md §3b).
+Executes `notes/first-half-conflict-plan-2026-09-03.md` and
+`plots/arc-docs.md`, both canon.**
+
+**These are RE-CUTS of accepted chapters, not new drafts.** Each brief
+names the argument, the reversal, the arc beat, exactly what to add,
+where it goes, and a protect list. **Under the single-chapter cadence
+(PIPELINE §3c) they ship one at a time, in order, ch 5 first.** The
+author's ruling on each chapter rides into the next chapter's brief.
+
+**The problem all four are solving, in one sentence:** chapters 5
+through 8 contain a great deal of activity and not one loss, so the
+first quarter reads flat and every conflict in the book is being
+saved for the second half.
+
+**Binding on all four** — beer/whiskey/seltzer and no coffee at night ·
+Merritt is 38 and no line spends his age · young, fit, loud · the
+leads' noticing beats stay as folded · modernity binds the props ·
+"7" only from the rail, the board and Tick, "Trey" from his parents
+and his doctor · no "somebody's ___" chorus construction · the
+epigraph stays as folded · every added scene states its argument in a
+sentence before any subtext starts.
+
+---
+
+## CH 5 — Two Calendars (Aisha POV · Wk2 Tue) — FIRST
+
+**THE ARGUMENT, SAID.** Dan wants Trey Gault in his meeting room this
+week so sixty players can see their quarterback upright. Aisha will
+give him twenty minutes with no film and a driver, and not one thing
+more. Dan agrees to her face, then asks the athletic director to
+overrule her, and the athletic director says no in writing with her
+copied on it.
+
+**REVERSAL — who loses what.** Dan loses, in writing, in front of his
+own boss, and it is the first time all season anyone has told him no
+on paper. Aisha wins and pays for it: she now has an angry head coach,
+and an email that will be a screenshot on the parents' board by
+supper. Winning by record is exactly what her armor is for, and the
+chapter should let the reader see it work and see what it costs in the
+same beat.
+
+**ARC BEAT (Aisha).** She wins this by having documented everything,
+which confirms the false belief — a perfect record is protection — on
+the one day it is true. She does not ask a single person for help,
+does not tell the Table, and does not answer the coach's anger. She
+files the email and goes back to the ladder. *(Arc doc, ch 5: "She
+knows what she wants and has already decided not to ask.")*
+
+**ARC BEAT (Dan, seen from her POV).** His move is not confrontation,
+it is management: agree in the room, escalate outside it. The reader
+learns what he is before he learns it himself, and it makes his "I
+did" on the ch 8 porch land as a pattern rather than a lapse.
+
+**WHAT TO ADD.**
+1. **Keep the negotiation exactly as written**, including "I'll take
+   twenty," the card that says TWENTY, the second card chocking her
+   whiteboard caster, and "You've fought me all season." / "And I'm
+   undefeated." That scene works and the author has praised its end.
+2. **New: the email, later the same day.** The AD's reply lands in her
+   inbox with her copied on it — Dan asked for the meeting room
+   Thursday, film on, and the AD declined and cited her protocol by
+   name. Roughly 25–40 lines. It must contain, plainly: what Dan
+   asked for, that he asked after agreeing to twenty minutes, and that
+   the AD's answer is no. A stranger reading the scene must be able to
+   say what happened.
+3. **Her reaction is the arc beat.** No call to Dan, no reply to the
+   AD beyond an acknowledgement, no mention to anyone. One line that
+   says what she does with a win: she puts it in the chart.
+4. **The cost, one beat:** the board has the AD's language by evening —
+   not the email, the language. Two lines, epigraph-adjacent register,
+   nobody named.
+
+**PROTECT — may not move.** The whiteboard opening as folded (the
+Checkerboard reorder is NOT in this pass; hold it). The Table over
+eggs. The slice set down unasked. The twenty-minutes negotiation and
+both cards. Her want passage and its new obstacle ("he had never once
+looked at her and seen a woman…"). The noticing beat. Trey's name
+where it now appears. The chapter's ending image (the practice-field
+lights on the whiteboard) — the new material goes BEFORE it.
+
+**END REGISTER.** Unchanged: the lights coming up on the board while
+she works. The win sits under it, unspent.
+
+---
+
+## CH 6 — Selection Sunday (Dan POV · Wk2 Sun)
+
+**THE ARGUMENT, SAID.** Denny Gault wants Dan's name on a letter that
+eleven fathers have drafted, asking the program to keep the
+scout-team walk-on and to review how medical decisions are being
+made on this roster. The walk-on is Marisol Pruett's son. Dan refuses
+on Ray's porch in front of the corner, and the letter goes to the
+athletic director without him.
+
+**REVERSAL — who loses what.** Denny loses Dan, publicly, and knows
+it in front of eight men who will repeat it. Dan loses Denny — the
+loudest voice in the county and the father of his quarterback — on
+the best day the program has had in forty years. And the campaign
+against Aisha starts here, in chapter six, where the reader watches
+it get its first signature, instead of arriving finished in chapter
+eighteen.
+
+**ARC BEAT (Dan).** First public cost, and a small one. He refuses out
+loud instead of managing it, which the chapter-two Dan would not have
+done — and the reason he can is that he watched Aisha refuse a family
+a date in a hospital lounge and survive it. He does not say that. He
+does look at the doctor down the rail once afterward.
+
+**WHAT TO ADD.**
+1. **Make Denny's ask specific and put a threat in it.** Currently it
+   is a vague roster favor and Dan deflects with "Rosters get built in
+   the building." Now: a drafted letter, eleven families, a CC line, a
+   sentence about "clarity on medical decision-making." Denny is not
+   lying and not a villain — he is a frightened father who has found
+   the one lever available to him, and the brief must keep him
+   sympathetic. Say the walk-on's name and whose son he is.
+2. **Dan refuses in public**, and it costs. Denny's face closes. Two
+   or three lines of the corner registering it.
+3. **The letter goes anyway.** One line, at the chapter's end or near
+   it, that tells the reader the thing exists and is moving.
+4. **Boyd, once, on the porch, listening** — the pledge as "big news
+   coming" in Tick's mouth, and Boyd doing nothing, audibly. Three
+   lines maximum. He does not speak to Dan.
+5. **One Aisha exchange at the quiet end of the rail** after the date
+   goes up. Short and dry. This is the author's note that they read as
+   separate characters.
+6. **Re-stage the announcement** per the author's note: hold the beat
+   when ASHFORD comes up on the screen, then three cheers with a
+   reason each — Ray and forty years of Saturdays on that porch;
+   Denny cheering with his boy home in the dark, which is the
+   chapter's real ache; the doctor reading the date like the bottom
+   line of a chart.
+
+**PROTECT.** The Selection Sunday decode at the top as folded.
+Delores Kyzer and Verna Poteat by name. "Every winter he had
+coached." Ray's beer. The relay passing matchups over shoulders. Ray
+writing DEC 19 backwards in shoe polish on the window glass. The
+noticing beat.
+
+**END REGISTER.** Flat, per the outline — but flat with the letter in
+it now.
+
+---
+
+## CH 7 — The Coat (Aisha POV · Wk3 Tue)
+
+**THE ARGUMENT, SAID.** The university has given Aisha thirty days to
+empty the annex so Boyd's demolition survey can proceed, which means
+thirty years of records and four rehab rooms have to move before
+Christmas while she is running a concussion protocol alone. Dan finds
+out the same afternoon and offers to look into it, which is the soft
+version, and she knows it when she hears it.
+
+**REVERSAL — who loses what.** Aisha loses her building, and the
+deadline stops being the quarterback's and becomes hers. Dan loses
+something the reader can see and he cannot: the first chance he has
+had to spend anything on her, declined because the wrecking money is
+Boyd's and Boyd's money is the performance center he still believes
+his program needs.
+
+**ARC BEAT (Aisha).** She tells nobody, asks for nothing, and adds it
+to the list. The false belief in one action: a woman who has never
+been kept does not request help, she packs. *(Arc doc: "unpacking is
+a request and she does not make requests.")*
+
+**ARC BEAT (Dan).** The soft version, again, out loud — the same move
+he caught himself making in the hospital in ch 4 and stopped. Here he
+does not stop. This is the chapter where the reader should be angry at
+him, and it is what makes ch 15 and ch 19 worth anything.
+
+**WHAT TO ADD.**
+1. **Give the vacate order its number.** It currently arrives as an
+   event; it now has thirty days on it and a date, and the date lands
+   before Christmas. She reads it standing up. Say what it means for
+   her, in a sentence: four rooms, four cabinets, thirty years,
+   nobody assigned to help.
+2. **Dan hears about it and hedges, to her face.** Put it in or beside
+   the coat scene, where they are already together. His line is the
+   managerial one — he will see what he can find out, he will ask.
+   Hers is not an accusation. She says thank you and means nothing by
+   it, and the reader hears the difference. **Do not let him promise
+   anything he can be held to; do not let her call him on it.** The
+   silence is the beat.
+3. **One line naming why he will not push:** the survey is the
+   performance center's first step and he has been nodding along in
+   the film room since ch 10's plan was laid — in his absence from
+   this POV, this can be her reading it off him, not him admitting it.
+
+**PROTECT.** The coat, all of it — XXL, "C. COLE" stitched over the
+staff patch, the lost-order shrug, the sleeves past her hands, "Leave
+the doctor's coat alone." Her noticing beat about the shape of the man
+it was cut for. The Table's breakfast coffee (the register rule is
+nights and bars). The chapter's ending image.
+
+**END REGISTER.** Held-quiet, as staged — the order on the box, the
+coat on her shoulders, nothing said.
+
+---
+
+## CH 8 — Coach's Table (Dan POV · Wk3 Thu)
+
+**THE ARGUMENT, SAID.** A caller asks the radio coach for the one word
+the county wants — that its quarterback is safe to play in three
+weeks — and Dan hedges instead of answering, so Aisha takes the
+microphone and says the protocol is medicine and does not keep a
+calendar. She wins the porch. That night the parents' board turns on
+her for the first time, not politely, and Dan reads every word of it
+and posts nothing.
+
+**REVERSAL — who loses what.** Aisha loses the town. Up to tonight the
+board has been "just asking for clarity"; tonight it is *who does she
+think she is*, and it is about her rather than her protocol. Dan
+loses his nerve in the one hour it was worth something, and he knows
+it — the chapter already has him running the tape on himself. Boyd,
+on his way out, prices what he saw.
+
+**ARC BEAT (Dan).** The weakness gets named to his face by the one
+person qualified to name it, and he does not answer. *"You read that
+board like it's a chart. It isn't. It's the weather. You can't treat
+weather, Coach, and you can't win it either."* Nobody has ever said it
+to him. This is the line his whole arc turns on; ch 22 is him not
+opening the board and ch 29 is the app deleted, and neither pays
+without this.
+
+**WHAT TO ADD.**
+1. **Aisha's diagnosis**, in or right after the rail exchange folded
+   in yesterday ("You hedged." / "I did."). Her register is clinical
+   and not cruel: she is a doctor naming a thing. He does not have an
+   answer, and the chapter does not give him one.
+2. **The board turns, that night, on her.** Two or three posts,
+   sharper than anything the board has done yet, at least one of them
+   about her personally rather than her decision — and the board
+   itself should flinch a little at its own jump, per the realism
+   rulebook. Dan reads all of it, to the bottom, like always. **He
+   does not post.** Say plainly that he did not.
+3. **Boyd on the porch during the broadcast**, and one line to Dan on
+   the way out: that he liked the doctor's spirit, and spirit is
+   expensive. Boyd does nothing else. He never raises his voice and
+   he is never punished.
+4. **The book's goal, said once, plainly**, beside his want — the
+   anchor-line law applied to the whole book: Trey Gault does not play
+   again until she signs a form saying his brain has healed, the
+   playoff is in three weeks, the county wants the form signed by
+   then, and she will not sign it until it is true.
+
+**PROTECT.** Her mic moment entire, including "When it comes out of my
+mouth, it's medicine" and "Roberta, this is Aisha Cole. I'm the hold."
+The rail exchange as folded. His want passage and its new hill
+("Wanting it was the easy half…"). The two plates on the rail and
+Dan building himself one he did not want. Odell's "a microphone never
+healed anybody." The cooler/cans register. Tick's beer.
+
+**END REGISTER.** The chapter's button holds: the last look at the
+board, pocketed. But now the reader knows what he read and did not
+answer.
+
+---
+
+## Production notes
+
+- **Ch 5 first, alone.** One drafter (the chapter is accepted prose;
+  a re-cut needs continuity of voice, not competition), variance card
+  drawn and logged, brief audited before dispatch.
+- **Then the author reads and listens to ch 5 and rules.** That
+  ruling rides into ch 6's brief, per PIPELINE §3c.
+- Continuity sweep after ch 8 is folded, against all four.
+- Nothing in these briefs licenses new canon. Anything a drafter needs
+  that is not here or in the bible comes back as a question, not an
+  invention.
