@@ -72,6 +72,49 @@ arc docs, gets them approved, and re-briefs from there. Accepted
 chapters are re-cut only where the arc doc says a beat is
 missing.
 
+## 3c. THE SINGLE-CHAPTER CADENCE (author law, 2026-09-03)
+
+> "I've decided I want to do one chapter at a time. Multiple
+> chapters was too much for me to chew and I didn't dive into it
+> enough. It might be a little slower, but I think we'll move
+> faster overall."
+
+**The wave is retired as the unit of production.** The unit is ONE
+CHAPTER: brief → drafts → panel → staging → lint → **one PR with a
+one-chapter listening file** → author reads and listens → merge →
+fold → next chapter's brief.
+
+The wave survives only as a PLANNING unit (the outline still groups
+chapters, the canon sweep still runs across a batch). It is no longer
+a gate.
+
+**Why the author is right, on the evidence:** ch 5-8 shipped as one
+wave, and the listen surfaced eighteen findings across four
+chapters at once — a decode gap in ch 6 that also existed in ch 5,
+a register problem in ch 8 that ran through all four, and two leads
+who never spoke to each other. Every one of those would have been
+caught in chapter five and fixed before chapters six, seven and
+eight inherited it. A four-chapter gate spends four chapters'
+drafting before the first correction arrives.
+
+**What changes:**
+- **One chapter per PR.** The listening file is that chapter alone,
+  ~2,000-2,500 words, ten minutes of audio.
+- **Fewer drafters per chapter, not more gates.** Blind competition
+  stays where the chapter is new (2-3 candidates); a RE-CUT of an
+  accepted chapter gets one drafter working from a brief that names
+  exactly what to add and a protect list of what may not move.
+- **The cross-batch canon sweep still runs per batch**, not per
+  chapter — after every fourth accepted chapter, against the four.
+- **The author's ruling on chapter N is in the brief for chapter
+  N+1.** That is the whole point of the cadence: corrections
+  compound forward instead of arriving in a pile.
+
+**What does not change:** the brief audit remains a blocking gate;
+variance cards are still drawn and logged; the anchor line, the
+decode duty, the say-it test, the REVERSAL slot and the ARC BEAT are
+per chapter as always; merge still means accepted.
+
 ## 4. Draft
 
 Write it through. Resist revising backward — leave `[TK ...]` and keep going.
