@@ -72,3 +72,30 @@ listen, and editing them mid-listen would have changed the text under
 them. Their four epigraphs are written and parked in
 `plots/wave2-staging-order.md` (FOLD ADDENDUM) to be applied verbatim
 at the fold.
+
+## 2026-09-03 — ch 3 + ch 4: the author's audio-listen rulings (B2-D03)
+
+Staged for author gate. Source: `notes/author-audio-notes-2026-09-03.md`
+and `DECISIONS.md` B2-D03.
+
+- **ch 3** — Verna offers bourbon as well as coffee ("and there's
+  bourbon if you can't"). The author's "a bit more edgy" note, one
+  line, in her voice. Whose bottle it is stays unsaid.
+- **ch 4** — three ruled moves plus the decode duty:
+  - The prose that aged him goes; canon 38 stands. "Fifteen years"
+    (×2) → "Years"; the chair now "had opinions about everybody."
+  - Aisha's clinical delivery compressed (the imaging explanation and
+    the vitals-whiteboard lines); every medical fact survives.
+  - The Mule at midnight pours whiskey, not coffee (the beverage
+    register: Book 1.2 drinks beer, whiskey, seltzers).
+  - The lounge two-hander plays dry: one "studying me like I'm film"
+    exchange in, two lines of held silence out, and the closing
+    tender line ("the first call he didn't want to challenge")
+    replaced with the drier "the first one all season he let stand
+    without an argument."
+  - Three decode lines (STYLE.md, the decode duty — ch 1–8 predate
+    it): "The bracket" gets its gloss and consequence; Dan's turn is
+    named ("the first time in his working life he'd let a family
+    leave without a number"); and Denny's board post gets its layered
+    render — sincere all night, started it anyway, "how this county
+    went to war. Politely, in writing, under its own name."
