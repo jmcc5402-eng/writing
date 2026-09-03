@@ -936,9 +936,9 @@ promised scenes land at ch 5/12 (Table), 17 (Cal × Marisol), 9
 9. **Edge ration** — default: ten swears book-wide, leads +
    Mack only, chorus never, none in anchor lines; dealt per
    wave like the endings budget.
-10. **Lead descriptions** — Aisha's and Dan's physical
-    descriptions and casting details [TK] per standard 25 and
-    census §8; author call before ch 1 briefs.
+10. **Lead descriptions** — RULED 2026-09-03 (B2-D04 amended,
+    author "Take it"; young, fit, loud). Slate in DECISIONS.md;
+    briefs carry it verbatim.
 11. **Walk-on fate** — default: KEEPS his spot on merit (F10);
     the owed 1.2 voicemail delivered at ch 28 as artifact.
     Alternative (cut) tangles R4 and dents Dan; not recommended.

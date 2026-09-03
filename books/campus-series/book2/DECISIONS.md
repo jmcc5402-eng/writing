@@ -120,8 +120,9 @@ writing it cold.
 Canon on the merge of #112; struck items revert to [TK].
 
 **B2-D04 AMENDED — the slate RULED (author, 2026-09-03, "Take it";
-register: "younger crowd, young vibe, fit, loud"). Canon on the
-merge of #112.** Supersedes the SR-B2-15/16 text above.
+register: "younger crowd, young vibe, fit, loud"). CANON — #112
+merged 2026-09-03; the retune landed on main by cherry-pick the same
+hour.** Supersedes the SR-B2-15/16 text above. Gate flag 10 CLOSED.
 
 - **SR-B2-15 — Dan Merritt, 38.** Big and fit, not big and settled:
   six-three, an honest XXL through the shoulders, a former player

@@ -49,7 +49,25 @@ the studio executes those rulings but starts no new 1.2 production
 them). Fold applied: STATUS flips, FC1 census fix, flag-8
 adoptions annotated in the energy bank.**
 
-## PICK UP HERE — WAVE 2 AT THE GATE (2026-08-30, latest)
+## PICK UP HERE (2026-09-03, latest) — #112 MERGED; #107 and #113 open
+
+**#112 merged (ch 1–4 EDIT):** the author's audio rulings are on the
+page — bourbon (3), ch 4's three moves + decode lines, the leads
+described (B2-D04 slate, CANON: young, fit, loud), the rule said once
+(ch 2), one dry Friday exchange (ch 2). **Gate flag 10 CLOSED.**
+**Open:** #107 (ch 5–8, at the author's listen — do not nudge) ·
+#113 (series name + pen name: MILLROW by ANNIE FARROW, default on
+bare merge). **Parked for the #107 fold:** staging-order Addenda 1
+(epigraphs) and 2 (noticing beats, night coffees, the fight
+sharpened in 5 and 8, the sub-couple from Dan's rail in 8).
+**Wave-3 directive must carry:** Addendum 2 §E (staged clash ch 10
+and 12; sub-couple sighted ch 10, their cost at 13/14; decode duty
+per brief; write Dan young; beverage register; noticing beat per
+chapter; the slate verbatim). Audio notes: book2/notes/
+author-audio-notes-2026-09-03.md (items 1, 3 now applied or parked;
+8, 9, 10 applied ch 1–4).
+
+## Historical — WAVE 2 AT THE GATE (2026-08-30)
 
 **PR #107 OPEN — HELD BY THE AUTHOR FOR THE AUDIO LISTEN
 (2026-08-31 ruling: every wave is listened to before merge —
