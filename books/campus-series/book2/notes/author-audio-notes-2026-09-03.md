@@ -202,3 +202,40 @@ if the reader has watched him relitigate. Cheapest sites:
 
 Status: OPEN — the author's word turns this into wave-3 directive
 text and a fold item.
+
+## 9. "Do they need to fight, or make it clear this is forbidden?" (2026-09-03)
+
+**Recommendation: the forbidden lever, first and cheapest.** Verified
+on the page: ch 1–8 never state the rule. "The rule" in ch 3 is the
+concussion protocol; "Compliance did it" in ch 2 is a different rule;
+"clean" in ch 8 is Dan's interiority with nothing named behind it.
+The book's category is forbidden and the listener has no way to know
+anything is forbidden. A trope the reader can't see is no trope.
+
+**Canon already rules the shape** (premise §2, "the rule with reasons,
+inverted"): the no-entanglement rule is REAL, and **HE is its
+believer — he paid its bill once.** So it is not an HR policy the
+reader has to imagine; it is Dan's own rule, and it belongs in his
+mouth, early, in his POV, without spending ch 14's specifics.
+
+**Where and how (proposed, not applied):**
+- **ch 2, Dan's first POV** — the layered render: his clean program
+  (image) → the rule, plain (gloss: a coach does not get close to the
+  person who decides when his players play) → the reason (consequence:
+  because the day she clears a boy, somebody asks why — and he has
+  lived that day once). Three lines. Pays at ch 14's anchor, "the
+  rule's got her face on it, not mine."
+- **one outside voice, once** — a chorus line that the town knows the
+  rule about him ("that man won't so much as eat lunch with the
+  training staff"). The Grapevine epigraph device can carry this for
+  free in ch 2's or ch 5's head.
+- The sub-couple's contrast (no rule between them; their cost is
+  exposure) only works once the leads' rule is visible.
+
+**Then the fight, as flavor** — note 8's sites (ch 5 fold, ch 8 fold,
+ch 10 and 12 briefs), dry. Fights without the rule are workplace
+friction; the rule without fights is a slow burn, which the sweet
+shelf accepts. Both is the book as ruled.
+
+Status: OPEN. On the author's word the ch 2 lines ride #112 as a
+second commit; the epigraph line is a one-line swap.
