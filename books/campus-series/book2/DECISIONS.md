@@ -63,3 +63,38 @@ endings law). Bare merge = **all 13 gate-flag defaults locked**:
 13. Title stays [TK]; market-pitch pass gated by the
     storefront test. Parked: *Return to Play*, *The
     Precautionary Hold*, *Cleared*.
+
+## B2-D03 — Audio-listen rulings, ch 1–8 (author, 2026-09-03, in chat — RULED)
+
+Source: `notes/author-audio-notes-2026-09-03.md` (items 4, 5, 6).
+Three rulings; the prose edits wait for the author's go and land as
+ONE PR.
+
+1. **The beverage register is per book.** Coffee is Book One's
+   object — Marisol's, the couple's (the thermos lid, coffee for
+   twelve, the cup crossing). **Book 1.2 is younger: it drinks beer,
+   whiskey, and seltzers.** Nobody drinks coffee at night; at a bar
+   the cup is a beer or a whiskey. Applies to every wave from here
+   (brief line) and retroactively to ch 1–8 at the fold: the three
+   night coffees (ch 4 Mule, ch 6 Ray's, ch 8 porch) and the
+   accidental "somebody sets a coffee at Dan's elbow" motif, which
+   survives only if the cup varies. Furniture-registry entry owed:
+   Dan's own drink [TK].
+2. **Coach Merritt stays 38. LOCKED, re-affirmed.** "That is young
+   enough." The number does not move; the PROSE that ages him does —
+   the chair line (ch04:216, "had opinions about a man his age") and
+   "fifteen years of living rooms" (twice, ch 4). Wave-3+ brief line:
+   write him young; never spend a line on his age.
+3. **Ch 4 stays a non-low-point and gets the three moves.** Not a low
+   point (24–26 owns that). Compress the clinical delivery by about a
+   third; the Mule warms (whiskey, not coffee, at midnight); the
+   lounge two-hander plays dry, not tender — one more "You're
+   looming" exchange, one fewer held silence.
+
+Closed without ruling: notes item 2 ("no romance until ch 11") was
+the author's observation of the plan, not a directive. The
+orchestrator misread it as a constraint. No collision exists.
+
+Still open from the same listen: item 1 (Verna's bourbon, ch 3) and
+item 3 (introduce the sub-couple before ch 11 — ch 8 porch, ch 10
+Fieldhouse). Both wait for the author's word at the #107 gate.

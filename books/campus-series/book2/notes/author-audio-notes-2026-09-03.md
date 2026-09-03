@@ -1,7 +1,9 @@
 # Author audio notes — Book 1.2, ch 1–8 (2026-09-03)
 
 Live notes from the author's ElevenReader listen of the wave-1 and
-wave-2 chapters. **STATUS: NOTED — NO ACTION.** The author's words:
+wave-2 chapters. **STATUS: items 4, 5, 6 RULED 2026-09-03 (B2-D03);
+item 2 CLOSED (was an observation, not a directive — orchestrator
+misread); items 1 and 3 still open. No prose applied yet.** The author's words:
 "just note this for now, no action yet… these are live notes so just
 think on them." Nothing below has been applied. Rulings happen at the
 #107 gate or by a later word.
