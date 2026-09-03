@@ -239,3 +239,39 @@ shelf accepts. Both is the book as ruled.
 
 Status: OPEN. On the author's word the ch 2 lines ride #112 as a
 second commit; the epigraph line is a one-line swap.
+
+## 10. "We don't describe the two leads — we need the hint this is a romance" (2026-09-03)
+
+**Why it's missing: by construction, not by taste.** Gate flag 10
+(outline:939) — *"Lead descriptions: Aisha's and Dan's physical
+descriptions [TK] — author call before ch 1 briefs"* — was never
+ruled, and DECISIONS item 10 told drafters to *"describe nothing
+unruled."* They obeyed. Verified: zero physical canon for either lead
+in premise, DECISIONS, or ADULT-CAST. The only physical facts on the
+page are implied by the coat (ch 7): he wears XXL; its shoulders sit
+halfway down her arms.
+
+**Book One's precedent proves the fix.** The author ruled Cal's hair
+as a ch 1 line edit, and ch 1 then carried it in Marisol's noticing:
+*"Green facilities polo. Light brown hair the August sun had clearly
+…"*, the forearms in ch 2. The noticing was possible because the
+noun existed.
+
+**The governing standard is already ratified** (STANDARDS 25, "Leads
+are named and described to be wanted"): no unattractive adjective at
+introduction; the grump's heat lives underneath his restraint.
+
+**The fix has two parts and the first is the author's:**
+1. **RULE flag 10** — a short slate for each lead (hair, build, one
+   detail the other lead will keep noticing). Author call; a
+   DECISION PR with proposed defaults is the studio's mechanism.
+2. **The noticing pass, ch 1–8** — once the nouns exist, one beat per
+   chapter IN POV: what she notices about him (ch 1, 3, 5, 7), what
+   he notices about her (ch 2, 4, 6, 8). The author's own examples
+   are the register: *"she looked at his arms and saw how strong they
+   were… he noticed the way her hair curled."* Plain, on the nose by
+   design — noticing is the one place the dial should sit near the
+   explicit end, because it is the romance's genre signal.
+
+Status: OPEN — waits on the author's flag-10 slate. Ch 1–4 ride
+#112; ch 5–8 join the #107 fold list.
