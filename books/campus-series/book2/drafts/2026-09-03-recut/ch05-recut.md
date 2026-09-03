@@ -337,9 +337,9 @@ making good and sure she could not have it.
 
 For once in her working life she wrote nothing down.
 
-She was four lines into the athletic director's reply
-before she understood why she had it at all,
-her name under Merritt's on the tablet,
+She was four lines into the athletic director's email
+before she understood why she had it at all.
+It was to Merritt. Her name was under his on the tablet,
 still lit from her four-o'clock charting.
 
 *You have asked that your quarterback be permitted
@@ -360,14 +360,11 @@ So she had an angry head coach now,
 and a no in writing she had not asked for.
 She had known men who agreed in the room
 and went out the door to try the next one.
-She had not had him down as one of them,
-and being wrong about a man was a thing she preferred
-to find out early, in writing, at no cost to the patient.
+She had not had him down as one of them.
+The board was still level on his card.
 
 She did not call him.
-There was nothing to say that his boss had not said,
-and calling a man to tell him he had lost
-was for people who needed to hear it out loud. She didn't.
+There was nothing to say that his boss had not said.
 She told nobody.
 She answered the athletic director alone, *Received, thank you,*
 and sent nothing to Merritt.
@@ -388,7 +385,7 @@ That was all she ever did with a win.
 She wrote it down where it would keep.
 
 She got out her phone and read the parents' board.
-The athletic director was already on it, two words of him,
+Two of the athletic director's words were already on it,
 "medical determination" in quotation marks,
 with a question under it about who made those
 and how a family was supposed to find out,

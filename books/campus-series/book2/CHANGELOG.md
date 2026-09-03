@@ -2,6 +2,46 @@
 
 Manuscript-affecting changes, newest first. (Hard rule 6.)
 
+## 2026-09-03 — ch 5 RE-CUT (at the gate; the first single-chapter PR)
+
+Executes `plots/recut-briefs-ch05-08.md` §CH 5 under the reversal
+slot, the arc beat and the say-it test. One passage added (55
+lines, ~370 → ~340 words after panel grafts) between "For once in
+her working life she wrote nothing down." and the protected lights
+image; nothing else in the chapter moved.
+
+- The athletic director's email, on her tablet with her copied:
+  Merritt asked for his quarterback in Thursday's meeting with film
+  on, called her twenty-minute offer insufficient, and the athletic
+  director declined because "Return-to-play is a medical
+  determination. / The protocol is Dr. Cole's, and the timeline
+  under it is hers."
+- The argument said straight: "He had agreed to twenty minutes to
+  her face, / gone to the athletic director to get around her, / and
+  the athletic director had told him no." The cost in the same beat:
+  an angry head coach and a no in writing she had not asked for.
+- Her arc beat as action: no call, nobody told, "Received, thank
+  you" to the athletic director alone, the request and refusal
+  entered in Trey's chart the long way. "That was all she ever did
+  with a win. / She wrote it down where it would keep."
+- The board already has "medical determination" in quotation
+  marks, nobody named. She picks the black marker back up; the
+  lights come on as before.
+- Panel (P1) shipped it with four grafts, applied: "email" named
+  once; two reply-position caps cut ("being wrong about a man…",
+  "calling a man to tell him he had lost…"); "two words of him" →
+  "Two of the athletic director's words"; the loss staged on his
+  card ("The board was still level on his card."). Orchestrator
+  fix before the panel: the phone-face-down gesture (spent ch 2 →
+  ch 4) replaced by the marker.
+- Lint: 27.2% dialogue; zero dangling edges; no new double-dash,
+  never-once, six-months, which-appendix; no [TK]. The athletic
+  director stays unnamed; "your quarterback" in his mouth.
+- New canon to register at the fold: email as a prop (tablet, no
+  header, italic lines in her reading); "medical determination" as
+  the athletic director's phrase; Dan's pattern (agree in the room,
+  escalate outside it) on the page from her side.
+
 ## 2026-08-30 — Line pass, ch 1–4 (mechanical only; style proposed in report)
 
 - ch04: struck donor furniture "over the rim of her cup" from the
