@@ -118,3 +118,36 @@ writing it cold.
   shapes it (premise §2 — his rule, not HR's; he paid its bill).
 
 Canon on the merge of #112; struck items revert to [TK].
+
+**B2-D04 AMENDED — the slate RULED (author, 2026-09-03, "Take it";
+register: "younger crowd, young vibe, fit, loud"). Canon on the
+merge of #112.** Supersedes the SR-B2-15/16 text above.
+
+- **SR-B2-15 — Dan Merritt, 38.** Big and fit, not big and settled:
+  six-three, an honest XXL through the shoulders, a former player
+  who still runs the conditioning drills and can; forearms,
+  shoulders, the neck of a man who wore pads. Dark hair cut short,
+  no gray; shaved for TV on Saturdays and not by Tuesday. Dark eyes,
+  holds a look a beat past comfortable. **LOUD:** a sideline voice
+  that carries to the upper deck without a headset and a laugh that
+  carries further; moves constantly — paces, claps, pulls a kid in
+  by the facemask. **Stillness is only ever a tell** (when it happens,
+  something is wrong). Quarter-zip and cap; the cap turned in his
+  hands off the field; the XXL coat. *What she notices:* his arms,
+  and the size of him in a small room; that he fills her office
+  doorway and knocks anyway.
+- **SR-B2-16 — Aisha Cole, 41.** Small and built like she trains,
+  because she does: a runner's frame, quick, the fit that makes 41
+  read as 34; the coat's shoulders sit halfway down her arms. Dark
+  curls, tied back hard on duty, loose and everywhere by the fourth
+  quarter of a long day. Brown eyes, direct, no blink on delivery.
+  **Loud by velocity, not volume:** moves fast, talks fast, takes a
+  room by being the most certain person in it; laughs rarely and all
+  at once. Sideline polo, credential lanyard, tape on her wrist with
+  the clock on it, the tablet; off duty, the one good jacket she came
+  to town with. *What he notices:* her hands first (canon), the curls
+  coming loose second — which he reads as the clock on her day.
+- **The pairing is the romance signal:** she notices size and arms;
+  he notices hands and hair. Each is visible on a sideline, so the
+  beat is available every chapter. Wave-3+ briefs carry this slate
+  verbatim; drafters describe from it and nothing else.
