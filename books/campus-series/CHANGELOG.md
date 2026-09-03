@@ -1113,3 +1113,14 @@ Two things it does beyond texture:
   Ann Roby's cousin's girl adding rain that never fell, which ch 29
   already pays off on the page ("Somebody's cousin was at our first
   kiss on the square").
+
+## 2026-09-03 — epigraph frame corrected: "Ashford County" → "Ashford"
+
+The 30 epigraph frames merged in #111 read "On Grapevine, Ashford
+County —". There is no Ashford County: the county is **Doss** (canon,
+SR-B2-6, ratified at the #106 merge; the Doss County Curb Market is on
+the page from ch 3). The orchestrator's error, caught by the
+market-pitch-agent's series-name research the next day. The frame
+now names the TOWN, which is what the town room is: "On Grapevine,
+Ashford —". Mechanical correction, 30 files, one line each; the
+SHARED-CANON spec and examples conformed.

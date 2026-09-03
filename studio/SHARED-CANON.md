@@ -44,7 +44,7 @@ platform model):
 
 | Book | Frame line | Room |
 |---|---|---|
-| Campus 1.1 | `On Grapevine, Ashford County —` | the town room |
+| Campus 1.1 | `On Grapevine, Ashford —` | the town room |
 | Campus 1.2 | `On Grapevine, the Ashford parents' board —` | the parents' board |
 
 Never change a book's frame line mid-book.
@@ -52,7 +52,7 @@ Never change a book's frame line mid-book.
 ### Form
 
 ```
-> **On Grapevine, Ashford County —**
+> **On Grapevine, Ashford —**
 >
 > **DeeAnn Whitlow:** Reminder that the fairground gate is not a
 > road. It has never been a road. It was not a road last year
