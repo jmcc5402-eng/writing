@@ -38,10 +38,10 @@ copied on it.
 **REVERSAL — who loses what.** Dan loses, in writing, in front of his
 own boss, and it is the first time all season anyone has told him no
 on paper. Aisha wins and pays for it: she now has an angry head coach,
-and an email that will be a screenshot on the parents' board by
-supper. Winning by record is exactly what her armor is for, and the
-chapter should let the reader see it work and see what it costs in the
-same beat.
+and an athletic director's phrase that the parents' board is already
+using before the light is gone. Winning by record is exactly what her
+armor is for, and the chapter should let the reader see it work and
+see what it costs in the same beat.
 
 **ARC BEAT (Aisha).** She wins this by having documented everything,
 which confirms the false belief — a perfect record is protection — on
@@ -62,17 +62,18 @@ did" on the ch 8 porch land as a pattern rather than a lapse.
    undefeated." That scene works and the author has praised its end.
 2. **New: the email, later the same day.** The AD's reply lands in her
    inbox with her copied on it — Dan asked for the meeting room
-   Thursday, film on, and the AD declined and cited her protocol by
-   name. Roughly 25–40 lines. It must contain, plainly: what Dan
+   Thursday, film on, and the AD declined and cited the protocol as
+   hers. Roughly 25–40 lines. It must contain, plainly: what Dan
    asked for, that he asked after agreeing to twenty minutes, and that
    the AD's answer is no. A stranger reading the scene must be able to
    say what happened.
 3. **Her reaction is the arc beat.** No call to Dan, no reply to the
    AD beyond an acknowledgement, no mention to anyone. One line that
    says what she does with a win: she puts it in the chart.
-4. **The cost, one beat:** the board has the AD's language by evening —
-   not the email, the language. Two lines, epigraph-adjacent register,
-   nobody named.
+4. **The cost, once:** by the time she looks up from the email, the
+   parents' board is already using the athletic director's phrase —
+   not the email, the language — and no post names him, the coach, or
+   her. Two lines, in her reading of the board, before the lights.
 
 **PROTECT — may not move.** The whiteboard opening as folded (the
 Checkerboard reorder is NOT in this pass; hold it). The Table over
@@ -84,6 +85,75 @@ lights on the whiteboard) — the new material goes BEFORE it.
 
 **END REGISTER.** Unchanged: the lights coming up on the board while
 she works. The win sits under it, unspent.
+
+### CH 5 — AUDIT ADDENDUM (re-issued CLEAR, 2026-09-03)
+
+The pre-flight audit (continuity-keeper, card E6; report at
+`notes/recut-ch05-brief-audit-2026-09-03.md`) BLOCKED the brief on
+three lines, amended above in place: "cited her protocol by name"
+(canon gives the protocol no proper name), "by supper" / "by evening"
+(the board beat must land before the protected lights image, and the
+clock between Dan's exit and dusk is on the order of twenty minutes),
+and "screenshot" (a screenshot of an administrator's email on the
+main board is the daylight jump canon reserves for ch 23–24; the
+LANGUAGE leaks, not the email). The following bind the drafter with
+the brief; where canon is silent the default is the orchestrator's
+and is surfaced on the PR for the author to strike.
+
+1. **The athletic director may not be named** (premise `[TK name]`).
+   He is "the athletic director" in narration, never "the AD." The
+   email is rendered without a header block, signature, or
+   timestamp. Pronoun: he.
+2. **The protocol has no proper name.** Allowed renders in the AD's
+   email: "the protocol," "Dr. Cole's protocol," "the team
+   physician's protocol," "the return-to-play protocol." No policy
+   title or number.
+3. **Projector off / film on.** To her face Dan asked for the
+   meeting room with the projector off; the email shows him asking
+   the AD for film on. That gap is the escalation and the reader
+   must be able to see it — the AD restates what the coach asked,
+   including that the coach called the physician's twenty-minute
+   offer insufficient. That one line is how the email shows he
+   asked after agreeing.
+4. **The AD's no reads as "the call is the physician's,"** not "I
+   weighed it and chose her." Premise: "She can bench his star. He
+   can't overrule her." An email that implies the AD could have said
+   yes moves the book's power line.
+5. **The boy in the AD's mouth** (an administrator is on neither
+   name list): "your quarterback." Not "Trey," not "7."
+6. **Her acknowledgement goes to the athletic director alone.** No
+   reply-all, no contact with Dan. "Puts it in the chart" is literal:
+   an entry in Trey's record — date, who asked for what, what was
+   declined — the way she charted the imaging order.
+7. **The board beat is narration, not posts:** she reads the board
+   on her phone (she has been a silent member since June, ch 1), one
+   fragment of the athletic director's phrasing appears in it in
+   quotes, and no poster is named. No clock word, no "by supper."
+   The lights come on as she looks up. It must not read as the board
+   answering Rhonda's epigraph, and it may not become a second
+   chorus stakes line (the chapter's anchor is Sonny's, spent).
+8. **Trey is on no stated rung.** Nobody in the passage names which
+   step he is on or predicts when step two holds. Thursday is the
+   day he cannot have; that is why the no is medicine, not
+   deference.
+9. **The seam.** The passage follows "For once in her working life
+   she wrote nothing down." and then has her chart the email. The
+   two objects differ (her want; the email) and the juxtaposition is
+   the point — make it explicit so a listener does not hear a
+   contradiction inside three lines.
+10. **Budgets already spent in ch 5 — add zero:** the double-dash
+    sentence; "never once"; "six months" / "since June"; the
+    repeat-and-extend shape; personification (over quota already);
+    the noticing beat; the private admission; "copied" (already used
+    in its charting sense at ch05:55 — avoid it for the cc, or echo
+    it on purpose). No paragraph ends on a colon or dash. Owed by the
+    new passage: one reaction beat in her voice (~40 words).
+11. **LOAD-BEARING (decode within a page):** Dan asked his boss to get
+    around the doctor, and the boss said no.
+12. **Email is a first-time prop in this series.** Modernity binds it
+    (tablet or phone, no header, quoted lines in her reading). The
+    convention set here is registered as furniture at the fold.
+13. **Hand-forward:** ch 6's brief inherits Dan's Tuesday loss.
 
 ---
 
