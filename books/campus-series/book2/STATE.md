@@ -9,7 +9,58 @@ production runs under them: brief audit, label shuffle,
 jewel-forge slot, staging clause, furniture registry, anchor
 lines, carryover-reader gate).**
 
-## PICK UP HERE (2026-09-03, nightly shift)
+## PICK UP HERE (2026-09-03, post-#115 — CURRENT)
+
+**ch 1-8 ACCEPTED AND FOLDED. THE ARC GATE IS OPEN. WAVE 3 IS CLEAR
+TO BRIEF.** Everything below this block is historical.
+
+Merged today: #107 (ch 5-8 accepted) - #112 (ch 1-4 audio rulings,
+the leads described, the rule said once) - #114 (**the arc docs,
+CANON**) - #115 (the ch 5-8 fold + the author's four merge notes).
+Still open: **#113**, series name + pen name (Millrow / Annie Farrow
+on a bare merge). It blocks launch packaging only, not writing.
+
+**Canon as of today, binding on every brief from here:**
+1. **The arc docs** (`plots/arc-docs.md`) - every brief carries an
+   ARC BEAT from those tables, as a sentence.
+2. **The reversal slot** (`studio/DRAFTING-PROTOCOL.md`) - every
+   chapter names who loses what, on the page. A chapter without a
+   loser is not a chapter.
+3. **The say-it test** (`studio/STYLE.md`) - every scene states its
+   argument once in a sentence a stranger could repeat, before the
+   subtext starts. Beats in briefs are sentences, never noun-phrase
+   clusters.
+4. **B2-D03** - beer, whiskey, seltzer; no coffee at night. Merritt
+   stays 38 and no line spends his age.
+5. **B2-D04 / SR-B2-15,16** - the leads' slate: young, fit, loud.
+   One noticing beat per chapter, in POV.
+6. **Modernity binds props** (DIALS 5) - the author's "not a campy
+   80s country vibe" ruling. Coolers and cans, not casseroles and
+   foil.
+7. Epigraphs per chapter; the drafting bans (no "somebody's ___"
+   chorus; "7" only from the rail, the board and Tick, "Trey" from
+   his parents and his doctor).
+
+**NEXT, in order:**
+1. **The ch 5-8 RE-CUT, before wave 3.** The four reversals held out
+   of #115: Dan goes over her head and his own boss says no (5);
+   Denny asks him to sign the letter and he refuses in public (6);
+   the vacate order becomes her thirty-day deadline and he says
+   nothing (7); she wins on the radio and the town punishes her that
+   night while he stays quiet, and she names his board habit to his
+   face (8). Plus Boyd seeded on the porch and ch 6's announcement
+   re-staged. Source: `notes/first-half-conflict-plan-2026-09-03.md`
+   + `plots/arc-docs.md`. These ADD SCENES: brief -> draft -> panel
+   -> one PR with a listening file. This is the author's flatness
+   complaint and it is in the first half, so it goes first.
+2. **Wave-3 directive (ch 9-12)** - ARC BEAT + REVERSAL + the
+   argument-said line per chapter, the epigraph slot, the sub-couple
+   sighted at ch 10, a staged clash at 10 and 12.
+3. Book One: the scene-break pass before EPUB
+   (`notes/scene-break-instrument-2026-09-03.md`).
+
+
+## Historical - nightly shift (2026-09-03)
 
 **TWO PRs OPEN, both author gates, both listening files in chat:**
 - **#107** — wave 2, ch 5–8 (held for the author's listen since
@@ -42,14 +93,14 @@ author has since listened to and ruled on 1.2 ch 1–8 themselves;
 the studio executes those rulings but starts no new 1.2 production
 (no wave 3) until the sweep is called done or the author says go.
 
-## PICK UP HERE (2026-08-30, post-#105)
+## Historical - post-#105 (2026-08-30)
 
 **Phase 0 COMPLETE. PR #105 MERGED bare (no comments) — premise
 + outline are CANON; all 13 flag defaults locked (B2-D02 lists
 them). Fold applied: STATUS flips, FC1 census fix, flag-8
 adoptions annotated in the energy bank.**
 
-## PICK UP HERE (2026-09-03, latest) — #112 MERGED; #107 and #113 open
+## Historical - #112 merged (2026-09-03)
 
 **#112 merged (ch 1–4 EDIT):** the author's audio rulings are on the
 page — bourbon (3), ch 4's three moves + decode lines, the leads

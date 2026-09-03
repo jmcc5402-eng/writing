@@ -152,3 +152,15 @@ hour.** Supersedes the SR-B2-15/16 text above. Gate flag 10 CLOSED.
   he notices hands and hair. Each is visible on a sideline, so the
   beat is available every chapter. Wave-3+ briefs carry this slate
   verbatim; drafters describe from it and nothing else.
+
+## B2-D05 - the arc docs are CANON (#114 merged bare, 2026-09-03)
+
+Aisha's and Dan's arcs in `plots/arc-docs.md` are canon, unamended.
+Wave 3 is unblocked. Every brief from here carries its ARC BEAT from
+those tables next to its REVERSAL (studio/PIPELINE.md 3b,
+studio/DRAFTING-PROTOCOL.md).
+
+Held from #115 and now clear to brief: the four reversals, Aisha's
+ch 8 diagnosis of Dan's board habit, Boyd on the porch, ch 6's
+announcement re-staging.
+
