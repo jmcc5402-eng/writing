@@ -240,6 +240,57 @@ chorus-voiced, in dialect, once ("some of these new users ain't
 real users… they can sway a riled-up group with just a few
 clicks").
 
+THE SAY-IT TEST (author law, 2026-09-03 — "if you don't actually
+tell the reader what the heck you're talking about, it's just
+babble"):
+
+> The orchestrator proposed the book's goal line as: "three
+> weeks, one signature, twelve thousand people who wanted it
+> Friday. What she wants, what he wants, what stands between."
+> The author: "Notice how you don't actually say anything. It's
+> just a bunch of phrases. Great for the visual concept, but if
+> you don't tell the reader what you're talking about, it's
+> babble. Your writing style is completely off the nose. It's
+> what makes some chapters seem long and boring — too much
+> flutter back and forth between people, and it's hard to tell
+> what they're actually talking about, because we never state
+> it."
+
+The failure has a shape: a STACK OF NOUN PHRASES standing where a
+SENTENCE should be. Fragments evoke; they do not inform. A reader
+(and a listener, who cannot reread) needs, once per scene, one
+complete sentence with a subject, a verb, and an object that a
+stranger could repeat back: who wants what from whom, and what
+happens if they don't get it.
+
+The test, applied to any scene, brief, or proposal: **cover the
+page and say out loud what the two people are arguing about.**
+If the answer is a sentence, the scene has passed. If the answer
+is "it's about the porch, and the date, and what she won't
+lend," the scene has not said anything yet.
+
+The goal line above, said: *Trey Gault will not play again until
+Dr. Cole signs a form saying his brain has healed. The playoff
+is in three weeks. The whole county wants the form signed by
+then, and she will not sign it until it is true.* That is the
+plot of the first half of Book 1.2 in three sentences, and by
+chapter eight somebody on the page should say it.
+
+Where the rule bites:
+1. **Every scene states its argument once, in a sentence, before
+   the subtext starts.** Subtext is what people do around a thing
+   they have said; it is not a substitute for saying it.
+2. **Briefs and staging orders write beats as sentences**, never
+   as noun-phrase clusters. "The coat: XXL, C. COLE, a lost-order
+   shrug" is a shopping list; a drafter cannot tell what happens.
+   "He gives her his own coat and lies about where it came from,
+   and she lets him" is a beat.
+3. **The orchestrator's proposals to the author obey the same
+   rule.** A recommendation the author cannot repeat back is not a
+   recommendation.
+4. The anchor-line law and the decode duty are this rule's
+   special cases. This is the general one.
+
 THE VARNISH: dialogue or narration whose real purpose is to be
 enjoyed rather than meant. The test, per exchange: WHAT DOES THE
 SPEAKER WANT FROM THIS LINE? If the only honest answer is "to be

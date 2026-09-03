@@ -257,3 +257,13 @@ the retirement of the standalone staging lint (checks
 reassigned, named owners). Where that list and older text here
 conflict, the ratified list wins.
 
+## The reversal slot and the say-it test (author law, 2026-09-03)
+
+Every chapter brief carries two lines the drafter must be able to
+read back as sentences:
+- **REVERSAL:** who loses what in this chapter, on the page, and
+  what it costs them. A chapter without a loser is not a chapter.
+- **THE ARGUMENT, SAID:** the one complete sentence a stranger could
+  repeat that states what the scene's people want from each other.
+  See studio/STYLE.md, "The say-it test." Beats in briefs are
+  written as sentences, never as noun-phrase clusters.
