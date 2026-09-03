@@ -271,3 +271,16 @@ read back as sentences:
   person they were in chapter one would not have done, and why.
   From the author-approved arc doc (studio/PIPELINE.md §3b). A
   chapter may have no arc beat only if the arc doc says so.
+- **COUPLE LINE:** whether the leads share a scene, whether they
+  speak, and which rung the chapter's proximity beat plays
+  (`studio/STYLE.md`, the closeness ladder), in one sentence. Two
+  apart-chapters may not run in a row; an apart-chapter says why.
+- **END REGISTER carries a direction:** UP or DOWN, relative to where
+  the chapter opened. No two consecutive chapters end at the same
+  level. (Author, 2026-09-03: "more ups and downs.")
+- **THE STAKES, RESTATED:** from the chapter where the book's goal is
+  first said whole (campus 1.2: ch 8), every brief restates that
+  sentence and adds what THIS chapter puts at risk.
+- **NAMING, FULL LIST:** any naming rule in the brief lists every
+  speaker class and a default for the rest; the chapter lint reports
+  each use with its speaker.

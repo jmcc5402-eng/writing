@@ -192,6 +192,79 @@ Measured by the CLOSENESS meter (campus METERS.md), added by
 author waiver — see `studio/DRAFTING-PROTOCOL.md`, instrument
 governance.
 
+## The closeness ladder — proximity beats (author law, 2026-09-03)
+
+> "By touch, I mean almost any close or almost-close contact: she
+> walks past him and he smells her hair; he hands her a jacket and
+> she sees how strong his shoulders are; they're sitting at a table
+> arguing and they're so close that they can feel the attention. The
+> goal is for the reader to understand that these people are getting
+> closer and closer all the time, and eventually they'll be very
+> close."
+
+Diagnosed on campus 1.2 ch 5–8: the leads shared one scene in four
+chapters and never spoke until a fold added the ch 8 rail exchange.
+The romance was happening in two separate interiorities, and a
+listener could not feel the two people approaching each other.
+
+The law, for every romance here:
+
+1. **One proximity beat per chapter in which both leads are on the
+   page.** A proximity beat is the other person's nearness, in the
+   POV character's SENSES — smell, heat, the air moved, a hand near a
+   hand, the size of a shoulder as it reaches past — never a stated
+   feeling and never a repeat of a beat already used. Each beat is
+   NEW information about the other's body or presence.
+2. **The rungs.** Beats are measured on one ladder:
+   - 1 — sighted across a room; one physical fact noticed
+   - 2 — same room, standing distance; the POV reads a face
+   - 3 — passing close: smell, heat, the air moved
+   - 4 — an object passed hand to hand, or put on the other's body;
+     hands near, no skin
+   - 5 — close enough to feel attention: across a table, a rail, a
+     board, arguing; neither steps back
+   - 6 — first incidental contact: skin, a second, unremarked
+   - 7 — a deliberate touch that means it
+   - 8 — the kiss, where the book's kiss chart puts it
+3. **The high-water mark only rises.** A chapter may play a lower
+   rung as texture, but every new high is exactly one rung up, at
+   least one new high lands per quarter, and once a rung is reached
+   the leads are never again written as strangers. The kiss chart
+   sets each quarter's ceiling; the ladder climbs toward it, never
+   past it.
+4. **Two chapters with the leads apart may not run in a row.** A
+   chapter without both leads on the page states in its brief why it
+   earns the absence.
+5. **The COUPLE LINE** carries this in every brief
+   (`studio/DRAFTING-PROTOCOL.md`): whether the leads share a scene,
+   speak, and which rung the proximity beat plays, in one sentence.
+   The panel judges its presence the way it judges the anchor line.
+6. **What this is NOT:** a heat slot. Rungs 1–5 are closed-door by
+   nature; the heat map and the kiss chart govern 6–8. Nor is it the
+   noticing beat — the noticing beat describes a body; the proximity
+   beat measures a distance.
+
+## Rules are full lists; rations are per book (author, 2026-09-03)
+
+Two lessons from the same listen, generalized:
+
+- **A name rule names every speaker class**, including the ones
+  nobody expected to speak. The campus quarterback rule listed
+  parents, doctor, rail, board, and one old man; the athletic
+  director was on no list and his email had to be ruled at the gate.
+  From here a naming rule is written as narration + every speaker
+  class + a default for everyone else, and the chapter lint reports
+  every use with its speaker.
+- **A phrase the author names is once per BOOK, not once per
+  chapter**, and the book's ledger records which chapter spent it.
+  Where the phrase already sits in accepted pages, the earliest
+  accepted use is the spend and the rest are polish-pass debt, logged
+  at the fold, never silently rewritten.
+- **The modernity register is a grep, not a taste.** Each book keeps
+  a furniture blacklist in the chapter lint (campus 1.2: casserole,
+  foil, pans, "them oxygen chambers" register, grandma-at-the-elbow);
+  a hit is a finding before any panel reads.
+
 ## The bookkeeper's register (D16.1, 2026-08-28)
 
 Marisol prices things. Costs said in her voice as COUNTING —
