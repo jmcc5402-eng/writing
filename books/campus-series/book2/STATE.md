@@ -9,7 +9,24 @@ production runs under them: brief audit, label shuffle,
 jewel-forge slot, staging clause, furniture registry, anchor
 lines, carryover-reader gate).**
 
-## PICK UP HERE (2026-09-03, post-#115 — CURRENT)
+## PICK UP HERE (2026-09-03, evening — CURRENT)
+
+**PR #116 OPEN — the ch 5 re-cut, at the author's listen.** Do not
+chase. On merge: fold (THREADS, furniture registry: "medical
+determination", email as prop), then brief ch 6 from the standing
+addenda in `plots/recut-briefs-ch05-08.md` + the author's ruling on
+ch 5. **B2-D06 is RULED** (the author's go on the seven traps, and
+"touch" defined as proximity in the POV's senses): the closeness
+ladder (STYLE.md), COUPLE LINE / END REGISTER direction / stakes
+restated / full-list naming (DRAFTING-PROTOCOL.md), the chapter lint
+(`studio/tools/chapter-lint.sh`), the once-per-book ledger (THREADS).
+**Wave-3 directive must also carry:** the COUPLE LINE per chapter with
+the ladder mark (rung 5 entering; ch 13 near-miss, ch 15 kiss), a
+shared scene in ch 10 and ch 12 (the staged clashes already ruled),
+UP/DOWN per chapter, the stakes sentence restated, the furniture
+blacklist, and the quarterback naming list.
+
+## Historical — post-#115 (2026-09-03, afternoon)
 
 **ch 1-8 ACCEPTED AND FOLDED. THE ARC GATE IS OPEN. WAVE 3 IS CLEAR
 TO BRIEF.** Everything below this block is historical.

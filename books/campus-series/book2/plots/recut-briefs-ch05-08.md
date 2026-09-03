@@ -258,6 +258,59 @@ healed anybody." The cooler/cans register. Tick's beer.
 board, pocketed. But now the reader knows what he read and did not
 answer.
 
+## STANDING ADDENDA FOR CH 6–8 (the author's go, 2026-09-03 — B2-D06)
+
+These bind the ch 6, 7 and 8 re-cuts alongside their briefs above.
+Each proximity beat below is PROPOSED as a sentence for the drafter;
+the author strikes by comment. The ladder's high-water mark entering
+ch 6 is rung 5 (ch 5, the board). Rungs are in `studio/STYLE.md`.
+
+**CH 6 — Selection Sunday (Dan POV).**
+- COUPLE LINE: they share the porch and speak once, dry, at the quiet
+  end of the rail (brief item 5). Proximity beat, rung 3, new sense:
+  when the porch empties she passes behind him in the crowd on her
+  way to the steps and he gets her hair, given up in the room's heat,
+  and does not turn around. The rail exchange stays dry.
+- END REGISTER: DOWN. Opens on the best day in forty years; ends with
+  the letter moving without his name.
+- Fix in the re-cut: "somebody's baby wore earmuffs" (:51) → name the
+  baby's mother or say "a baby"; "the bottom line of somebody's
+  chart" (:186) → "of a chart." Ray's beer stays. "7" from the rail;
+  Dan's own usage per RECENT.md.
+- Rider on this PR: ch 3's foil-wrapped plate (:301–302) → a lidded
+  container or a paper plate with a napkin over it; Verna's line
+  stands. Flagged in the PR body as a separate line edit.
+
+**CH 7 — The Coat (Aisha POV).**
+- COUPLE LINE: they share the scene where he hedges about the vacate
+  order (brief item 2). Proximity beat, rung 4, new sense: he hands
+  her the folded order back across the box and she sees, as he
+  reaches, the shoulders of the man the coat was cut for — his,
+  though she does not know it, and the page does not say so. Hands
+  near, no skin. (B2-T02 stays sealed; nothing he does claims the
+  coat.)
+- END REGISTER: DOWN. Opens with a coat on a chair; ends with thirty
+  days on a box.
+- Fix in the re-cut: "typed three letters into somebody's chart"
+  (:55) → "into a chart"; "inside somebody's coat" (:61) → "inside a
+  coat."
+
+**CH 8 — Coach's Table (Dan POV).**
+- COUPLE LINE: the rail exchange as folded, plus her diagnosis (brief
+  item 1). Proximity beat, rung 5 held, new sense: she stops a plate's
+  width short of him at the rail and stays there through the
+  diagnosis, and in the cold he can feel the heat off her through
+  two coats; neither steps back. No new rung — the mark is spent for
+  the quarter and ch 13 is the next climb.
+- END REGISTER: DOWN. Opens with her winning a porch; ends with the
+  board turned on her and his phone pocketed with nothing posted.
+- THE STAKES, SAID WHOLE (brief item 4), then restated in every brief
+  from ch 9.
+
+**All three:** the chapter lint (`studio/tools/chapter-lint.sh`) runs
+before the panel; the panel's first finding is "cover the page and
+say what happened" and its second is the COUPLE LINE's presence.
+
 ---
 
 ## Production notes
