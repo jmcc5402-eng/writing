@@ -170,3 +170,35 @@ All seven wait for the #107 gate. Items 1, 5 (the three lines) and 6
 are line-level and could ride the wave-2 fold if ruled. Items 2, 3, 4
 are directive-level: they re-cut accepted chapters or change wave-3+
 briefs, and want the author's word before anything moves.
+
+## 8. "I thought it was when they fight at first. I don't read much fight." (2026-09-03, later)
+
+**The ruled category is FORBIDDEN (chain of command)** — ADULT-CAST
+§1.2, premise:63 "trope-forward ('forbidden…')". The fighting was
+never the category; it is the flavor — premise:34, *"who has fought
+him on every call since June"* — and the outline placed it BEFORE
+page one: the book opens in rivalry week, November, after six months
+of offstage argument.
+
+**What the page does with that:** it tells and never shows. Ch 4 is
+explicitly *"the first two-hander since June that isn't a fight"* —
+so every fight is pre-book. Ch 5: *"You've fought me all season." /
+"And I'm undefeated."* Ch 8: *"you have fought me on every call since
+June."* Three references to a fight the reader never gets to watch.
+The author's ear is exact.
+
+**Read:** keep the category; put the fight on the page. The protocol
+is a fight per step by design, and ch 13's turn (*"instead of
+relitigating the answer he asks his first real question"*) only pays
+if the reader has watched him relitigate. Cheapest sites:
+- **wave 3 briefs (ch 9–12):** at least one staged clash — ch 10, Dan's
+  POV, a step he pushes back on and loses; ch 12, the leak day.
+- **the 5–8 fold:** sharpen ch 5's twenty-minutes negotiation into a
+  fight she wins on the page; make ch 8's on-air hedge land as a
+  betrayal so *"when it comes out of my mouth, it's medicine"* lands
+  as the counterpunch it already is.
+- The fights play DRY (B2-D03's register) — banter-combat, not
+  hostility; the sweet shelf enjoys the sparring, not the anger.
+
+Status: OPEN — the author's word turns this into wave-3 directive
+text and a fold item.
