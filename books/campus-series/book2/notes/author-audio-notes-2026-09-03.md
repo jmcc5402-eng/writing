@@ -275,3 +275,104 @@ introduction; the grump's heat lives underneath his restraint.
 
 Status: OPEN — waits on the author's flag-10 slate. Ch 1–4 ride
 #112; ch 5–8 join the #107 fold list.
+
+## 11–18. The #107 listen, ch 5–6 (author, 2026-09-03, evening)
+
+**11. ch 5 "too cold, too much boring description."** Dialogue is
+34.5% — not a ratio problem, a register problem. The first 45 lines
+are apparatus: the whiteboard, the ladder, the Annex geography, the
+diploma box, the scheduler. The chapter's warm material — the Liars'
+Table reading the board over eggs, the coach's slice set down
+unasked, the Dan negotiation — all arrives after the cold. **Fix
+(fold): reorder — open on the Checkerboard and the slice, whiteboard
+second;** and render Missy's morning report as a mother's handwriting
+Aisha *feels*, not data she copies. Plus the parked ch 5 noticing
+beat.
+
+**12. ch 6 "unclear what Selection Sunday is."** Verified: the page
+never says. "The selection show went on the air at noon" and nothing
+explains that a committee names the twelve playoff teams, that
+Ashford has never once been one, and that the name either comes up
+or the season ends at noon. "First playoff in this town's whole
+life" sits at line 240. **Fix (fold): the decode duty, two lines at
+the top** — image (TV on the pie shelf) → gloss (the day the
+committee names the twelve) → consequence (name or nothing) — and
+move the "first in this town's life" line up under it.
+
+**13. ch 6 the Denny conversation "confusing, no conflict."** It is
+the walk-on plant (F10 — Denny lobbying a roster spot for the
+scout-team kid, who is Marisol's son; the dogpile's future target
+"planted as love"). Confusing because the kid is never named and the
+stakes never said; Dan's decode is interior and oblique ("went
+shopping for a problem with a lever on it"). **Fix (fold): one plain
+line** — the scout-team kid is Marisol Pruett's boy, and Denny wants
+his spot for somebody — and let Dan refuse a half-inch harder so the
+exchange costs something.
+
+**14. "Somebody's grandmother" — the AI tell.** Verbatim ×2 in ch 6
+(:81, :177); the "somebody's ___" construction runs 4 in ch 6, 7
+across ch 5–8, 5 across ch 1–4. **Rule → RECENT.md (drafting bans):
+"somebody's [relative/object]" once per chapter at most, never as
+the cheer.** Fold: both grandmothers become named chorus.
+
+**15. ch 6 "the announcement doesn't hit."** The NAME on the screen
+is never staged — the passage picks up after it, with facts passed
+"like a plate" and a montage (hats, a grandmother, Delores, Sonny,
+Earlene, Tick) that has no one person's *because*. **Fix (fold):
+hold the beat when ASHFORD comes up (the ch 16 kiss lesson: beats,
+not white space); then three specific cheers with a reason each** —
+Ray (forty years of Saturdays on that porch), Denny (cheering with
+his boy home in the dark, which is the chapter's real ache), and the
+doctor reading the date as a chart. Also **ch 6:195 "Fifteen winters
+Dan had coached"** — the aging phrase again (B2-D03); fold: "Every
+winter he'd coached."
+
+**16. "Calling the QB '7' is overdone."** Precise count of 7-as-name
+across ch 1–8 is small (list above; concentrated in ch 4's hospital
+night and ch 1). **The real finding: the boy's name — Trey — appears
+ZERO times in eight chapters.** The jersey register is the only
+register, so every use lands as the same tic. Canon (R1/R5) keeps
+him offstage; it does not require him nameless. **Rule (brief line +
+fold): fans, the rail, the board and Tick say "7"; his parents and
+the doctor say "Trey."** That halves the count and fixes the ear.
+
+**17. Dan's Grapevine habit "makes him seem weird; he needs a
+reason."** ch 2:356–366 gives the habit ("He read to the bottom
+every night") and no reason. The reason exists in canon and never on
+the page — premise: the verdict-manager reading the board's judgment
+"like a man checking a wound"; the last time a county turned on him
+the board knew a week before he did. Same disease as the rule and the
+fight: told nowhere. **Fix: ch 2, three lines, layered** — reads to
+the bottom (image) → because the last time a town turned on him the
+board knew first (gloss) → so he reads it every night to see it
+coming (consequence). Pays ch 29 (the app deleted). ch 2 is on main:
+small EDIT PR on the author's word.
+
+**18. "Was there anything with Aisha in ch 6? No plot yet — what's
+the goal at 25%?"** Aisha in ch 6: two mentions, no exchange ("the
+doctor's rules"; "the doctor stood still, reading the date like a
+chart"). A designed gap (couple-beat ration allows it); the ear says
+it hurts. **Fold: the parked ch 6 noticing beat plus ONE exchange at
+the quiet end of the rail after the date goes up.**
+   The 25% question, honestly: the outline's Q1 turn (ch 8) is a
+VALUES event — she takes the mic — not a plot event. Inciting
+incident ch 3; the first plot EVENT (the no-go) is ch 15, the
+midpoint. Between them the plot is a wait by design (a protocol is
+waiting; "brains don't read schedules") and the antagonist in motion
+— Boyd — does not appear until ch 10. That is what "no plot yet"
+is hearing. **Two fixes, neither a restructure:**
+   (a) **Say the goal once, plainly, by ch 8** — the anchor-line law
+   applied to the BOOK, not the chapter: three weeks, one signature,
+   twelve thousand people who wanted it Friday; what she wants (to be
+   right and stay), what he wants (the win, clean), what stands
+   between (her pen). ch 8's porch, beside his want.
+   (b) **Seed Boyd at ch 8** — on Delmar's porch, listening, one line;
+   the performance-center money as "big news coming" in Tick's mouth.
+   The pressure becomes visible two chapters early at no structural
+   cost. Wave-3 directive: one visible pressure per chapter from 9 on
+   (the board escalating — now also in the epigraphs — Boyd's clock,
+   the recruits).
+
+All eight: NOTED; fold items go to staging-order Addendum 2; item 17
+is a ch 2 EDIT PR on the author's word; item 14's rule is filed to
+RECENT.md now (a ban is studio process, not prose).

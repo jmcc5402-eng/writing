@@ -23,6 +23,11 @@ list in the agent's invocation as "banned moves this run."
   End your chapter per its dealt ending register; the brief says if
   yours is a button chapter.
 - BANNED: "one beat" in any timing construction (motif closed at five).
+- BANNED (2026-09-03, author's audio ear, 1.2 ch 6): the "somebody's
+  [grandmother/baby/chart]" chorus construction — at most once per
+  chapter, never as the cheer; name the person instead. Also: the
+  QB is "7" only in the rail's, the board's and Tick's mouths; his
+  parents and the doctor say "Trey."
 - BANNED: giving every speaker a punchline; write one flat line for a
   named character and let it lie there.
 - QUOTA: three personifications per chapter, no more.

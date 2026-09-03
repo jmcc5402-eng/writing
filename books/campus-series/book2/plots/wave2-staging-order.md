@@ -251,3 +251,16 @@ Fieldhouse doorway; the sub-couple's morning-after cost as a fenced
 side scene at ch 13 or 14; every brief names its load-bearing beats
 and their decode (STYLE.md); write Dan young, never spend a line on
 his age; the beverage register; the noticing beat per chapter.
+
+**F. From the ch 5–6 listen (audio notes 11–18, 2026-09-03):** ch 5
+reorder (open on the slice; Missy's handwriting felt, not copied) ·
+ch 6 Selection Sunday decoded in two lines at the top, "first in this
+town's life" moved up · ch 6 Denny: name the kid as Marisol's boy,
+say what Denny wants, Dan refuses a half-inch harder · ch 6 both
+"somebody's grandmother" → named chorus · ch 6 the NAME on screen
+staged as a held beat, then three cheers with a because (Ray, Denny,
+the doctor) · ch 6:195 "Fifteen winters" → "Every winter" · "7" only
+from the rail/board/Tick; parents and the doctor say "Trey" (ch 5–8
+pass) · ch 6 one Aisha exchange at the quiet end of the rail · ch 8
+the book's goal said once, plain, beside his want; Boyd on the porch
+listening, one line; the pledge as "big news coming" in Tick's mouth.
