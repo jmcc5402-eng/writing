@@ -99,3 +99,14 @@ and `DECISIONS.md` B2-D03.
     leave without a number"); and Denny's board post gets its layered
     render — sincere all night, started it anyway, "how this county
     went to war. Politely, in writing, under its own name."
+- **2026-09-03, second commit — the leads described, the rule made
+  visible (author: "go ahead").** Flag 10 proposed on the PR as
+  SR-B2-15 (Dan) and SR-B2-16 (Aisha); one noticing beat per chapter
+  in POV — ch 1 her/his size and forearms on the flatbed; ch 2
+  his/her curls and hands; ch 3 her/up close, bigger and quieter;
+  ch 4 his/the curls come loose after sixteen hours "and he noticed
+  that, and then noticed that he had." **The rule stated once, plain,
+  ch 2, in his POV:** not Compliance's, his; a coach does not get
+  close to the person who decides when his players play; he has
+  lived that day once. Kendra Voyles carries the outside voice in
+  ch 2's epigraph.
