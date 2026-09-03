@@ -267,3 +267,7 @@ read back as sentences:
   repeat that states what the scene's people want from each other.
   See studio/STYLE.md, "The say-it test." Beats in briefs are
   written as sentences, never as noun-phrase clusters.
+- **ARC BEAT:** what this character does in this chapter that the
+  person they were in chapter one would not have done, and why.
+  From the author-approved arc doc (studio/PIPELINE.md §3b). A
+  chapter may have no arc beat only if the arc doc says so.

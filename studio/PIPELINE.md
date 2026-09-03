@@ -25,6 +25,53 @@ blocks them, and what changes by the end of the scene.
 
 *Leaves when:* no scene exists only to move information.
 
+## 3b. Character arcs — THE ARC GATE (author law, 2026-09-03)
+
+> "Did we do a character arc for the main characters for this
+> book — the internal struggle and how they change? I think for
+> this book we focused on plot line but not the character part,
+> and that's leading to this flatness. Let's make that a rule
+> going forward: I have to approve each character's arc
+> throughout the story before we write."
+
+Between the outline and the first chapter brief, every lead (and
+any secondary character who changes) gets an ARC DOC, and the
+author approves it as ONE PR before a single brief is written.
+Book 1.2's outline had a "two journeys" paragraph in craft
+shorthand ("wound → identity → essence per premise §3") that was
+never its own gate and never reached a brief — the wave-1 and
+wave-2 directives contain zero arc lines. That is the flatness.
+
+**What the arc doc says, per character, in plain sentences (the
+say-it test applies):**
+1. **The wound** — what happened to them before the book, in one
+   sentence a stranger could repeat.
+2. **The false belief** — the wrong lesson they took from it, and
+   the behavior it produces on the page (the thing the reader
+   watches them DO every chapter).
+3. **What they want** vs. **what they need** — and why the want,
+   if they got it, would not fix them.
+4. **The turns** — chapter by chapter, where the false belief is
+   tested, where it fails them, where they first act against it,
+   and where they change. At least one arc beat per quarter, and
+   the beat is an ACTION the reader can see, not a realization.
+5. **The moment of change** — the scene where they do the thing
+   the false belief exists to prevent, and what it costs.
+6. **What the other lead gives them** — the romance is the
+   instrument of the change, or it is decoration.
+
+**Downstream:** every chapter brief carries its ARC BEAT as a
+sentence ("In this chapter Dan does X, which the old Dan would
+not have done, because Y"), next to the REVERSAL slot and the
+argument-said line. The panels judge the arc beat's presence the
+way they judge the anchor line. The fold checks it.
+
+**Retroactive:** a book already in drafting when this law lands
+(1.2 at ch 8 of 30) stops at the next wave boundary, writes the
+arc docs, gets them approved, and re-briefs from there. Accepted
+chapters are re-cut only where the arc doc says a beat is
+missing.
+
 ## 4. Draft
 
 Write it through. Resist revising backward — leave `[TK ...]` and keep going.
