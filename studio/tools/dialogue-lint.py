@@ -31,6 +31,8 @@ def measure(path):
         body = "\n".join(lines[lines.index("---") + 1:])
     except ValueError:
         body = "\n".join(lines)
+    # Grapevine epigraph blockquotes are not scene prose (2026-09-03)
+    body = "\n".join(l for l in body.split("\n") if not l.startswith(">"))
     total = len(body.split())
     quoted = sum(len(m.split()) for m in re.findall(r'"([^"]+)"', body))
     return total, quoted

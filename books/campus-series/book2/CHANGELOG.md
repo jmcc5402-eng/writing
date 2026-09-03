@@ -72,3 +72,41 @@ listen, and editing them mid-listen would have changed the text under
 them. Their four epigraphs are written and parked in
 `plots/wave2-staging-order.md` (FOLD ADDENDUM) to be applied verbatim
 at the fold.
+
+## 2026-09-03 — ch 3 + ch 4: the author's audio-listen rulings (B2-D03)
+
+Staged for author gate. Source: `notes/author-audio-notes-2026-09-03.md`
+and `DECISIONS.md` B2-D03.
+
+- **ch 3** — Verna offers bourbon as well as coffee ("and there's
+  bourbon if you can't"). The author's "a bit more edgy" note, one
+  line, in her voice. Whose bottle it is stays unsaid.
+- **ch 4** — three ruled moves plus the decode duty:
+  - The prose that aged him goes; canon 38 stands. "Fifteen years"
+    (×2) → "Years"; the chair now "had opinions about everybody."
+  - Aisha's clinical delivery compressed (the imaging explanation and
+    the vitals-whiteboard lines); every medical fact survives.
+  - The Mule at midnight pours whiskey, not coffee (the beverage
+    register: Book 1.2 drinks beer, whiskey, seltzers).
+  - The lounge two-hander plays dry: one "studying me like I'm film"
+    exchange in, two lines of held silence out, and the closing
+    tender line ("the first call he didn't want to challenge")
+    replaced with the drier "the first one all season he let stand
+    without an argument."
+  - Three decode lines (STYLE.md, the decode duty — ch 1–8 predate
+    it): "The bracket" gets its gloss and consequence; Dan's turn is
+    named ("the first time in his working life he'd let a family
+    leave without a number"); and Denny's board post gets its layered
+    render — sincere all night, started it anyway, "how this county
+    went to war. Politely, in writing, under its own name."
+- **2026-09-03, second commit — the leads described, the rule made
+  visible (author: "go ahead").** Flag 10 proposed on the PR as
+  SR-B2-15 (Dan) and SR-B2-16 (Aisha); one noticing beat per chapter
+  in POV — ch 1 her/his size and forearms on the flatbed; ch 2
+  his/her curls and hands; ch 3 her/up close, bigger and quieter;
+  ch 4 his/the curls come loose after sixteen hours "and he noticed
+  that, and then noticed that he had." **The rule stated once, plain,
+  ch 2, in his POV:** not Compliance's, his; a coach does not get
+  close to the person who decides when his players play; he has
+  lived that day once. Kendra Voyles carries the outside voice in
+  ch 2's epigraph.
