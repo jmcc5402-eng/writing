@@ -9,6 +9,39 @@ production runs under them: brief audit, label shuffle,
 jewel-forge slot, staging clause, furniture registry, anchor
 lines, carryover-reader gate).**
 
+## PICK UP HERE (2026-09-03, nightly shift)
+
+**TWO PRs OPEN, both author gates, both listening files in chat:**
+- **#107** — wave 2, ch 5–8 (held for the author's listen since
+  2026-08-30; the audio gate, not a stall).
+- **#112** — ch 3–4 EDIT: the author's 2026-09-03 audio rulings
+  (B2-D03) applied — Verna's bourbon, ch 4's three moves, three
+  decode lines. Merge = applied.
+
+**PARKED FOR THE #107 FOLD** (apply verbatim on merge, then line
+pass): Grapevine epigraphs ch 5–8 (plots/wave2-staging-order.md,
+FOLD ADDENDUM) · the ch 6 and ch 8 night coffees → beer/whiskey
+(B2-D03 item 1) · a decode-duty pass on ch 5–8 (they predate the
+law; STYLE.md) · the FOLD NOTES already in the staging order.
+
+**WAVE-3 DIRECTIVE MUST CARRY** (new since ratification): the
+epigraph slot per chapter (SHARED-CANON) · the beverage register
+(B2-D03) · "write him young, never spend a line on his age" (B2-D03)
+· the sub-couple sighted BEFORE ch 11 — ch 10 Fieldhouse from Dan's
+POV, plus ch 8 porch at the fold; door-ajar stays ONCE (author
+"crank up the steam a notch," 2026-09-03; awaiting a formal yes) ·
+the decode duty per load-bearing beat (STYLE.md).
+
+**Open author calls:** the sub-couple-before-11 shape (above) · flag-10
+lead descriptions [TK] · flag-7 castings · flag-13 title · SERIES
+NAME + PEN NAME (memo in flight, market-pitch-agent, 2026-09-03 —
+blocks every piece of KDP packaging).
+
+**The 1.1 audio-sweep hold** (../STATE.md) is still recorded. The
+author has since listened to and ruled on 1.2 ch 1–8 themselves;
+the studio executes those rulings but starts no new 1.2 production
+(no wave 3) until the sweep is called done or the author says go.
+
 ## PICK UP HERE (2026-08-30, post-#105)
 
 **Phase 0 COMPLETE. PR #105 MERGED bare (no comments) — premise
