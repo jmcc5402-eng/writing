@@ -110,3 +110,48 @@ and `DECISIONS.md` B2-D03.
   close to the person who decides when his players play; he has
   lived that day once. Kendra Voyles carries the outside voice in
   ch 2's epigraph.
+
+## 2026-09-03 — ch 5–8 fold (#107 merged) + the author's post-merge notes
+
+**Mechanical fold** (Addenda 1, 2, F): four Grapevine epigraphs
+(parents'-board frame) · Ray's coffee and Tick's coffee → beers ·
+"Fifteen winters" → "Every winter he had coached" · both "somebody's
+grandmother" → Delores Kyzer and Verna Poteat · Selection Sunday
+decoded in two lines at the top (a committee names the twelve; a
+season or nothing by noon) · the boy is **Trey** in his parents' and
+the doctor's mouths, "7" and "the boy" everywhere else · one noticing
+beat per chapter, in POV (ch 5 he fills her office; ch 6 her hair
+given up on the rail; ch 7 the shape of the man the coat was cut
+for; ch 8 in the new exchange).
+
+**The author's four post-merge notes**
+- **They finally share the scene (ch 8).** Verified before fixing:
+  Dan and Aisha never once spoke in the chapter — she appears at
+  three removes and he thinks about her alone on the porch. The
+  chapter's own button ("side by side where the two of them had left
+  them") had been implying a moment the page never staged. Now she
+  comes down the rail after the bulb goes dark, tells him he hedged,
+  and he agrees with her for the first time since June — the fight
+  and the interaction in the same beat, dry.
+- **Modern, not campy** (DIALS Modernity 5, "the modernity register
+  binds props"): the casserole dish three potlucks overdue → a cooler
+  three tailgates overdue; "foil going over pans" → "tailgates down,
+  cans coming out of coolers, lids going on pans"; the porch beer
+  "cold, no cap on it." Breakfast coffee at the Checkerboard stays —
+  the rule is nights and bars.
+- **His want becomes a goal (ch 8).** "He wanted her" now carries the
+  hill: he fought her on every call since June and let her stand up
+  into a microphone alone tonight, and "a man does not get handed the
+  back half of a season because he finally noticed what he had."
+- **Her want gets its obstacle (ch 5).** After "Inadvisable": he has
+  never once looked at her and seen a woman, he has looked at her and
+  seen the answer he did not want, and she wrote every page of that
+  record herself, on purpose, because it was the only way the job
+  worked.
+
+**Still held for the arc gate (#114):** the four reversals from the
+conflict plan (Dan losing to the AD, Denny's letter refused on the
+porch, the thirty-day vacate order, the town turning on her the night
+she wins), Aisha's ch 8 diagnosis of the board habit, Boyd seeded on
+the porch, and ch 6's announcement re-staging. Those add scenes and
+change chapter endings; they get briefed, drafted and panel-read.
