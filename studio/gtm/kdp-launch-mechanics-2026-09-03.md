@@ -86,25 +86,28 @@ default for a reason), **Atticus** (~$147, cross-platform), or
 **pandoc** (free, scriptable, and the natural fit for a manuscript that
 already lives in git).
 
-**THE PROBLEM — found by inspection, 2026-09-03:**
+**THE SCENE-BREAK JOB — corrected 2026-09-03 (same day):**
 
-> **There is not a single scene-break marker in the entire book.**
-> Zero chapters carry one. Every chapter is one unbroken run of
-> paragraphs.
+The first version of this doc claimed the manuscript had *zero*
+scene-break markers. **That was wrong** — the orchestrator sampled
+one chapter and extrapolated. The line-copy-editor's instrument
+(`books/campus-series/notes/scene-break-instrument-2026-09-03.md`)
+read all 30: **22 chapters carry markers (53 in all, a mix of `---`
+and `***`); 5 are single continuous scenes; 3 need breaks they lack.**
 
-In markdown this is invisible, because paragraphs are just paragraphs.
-In an EPUB it is not: the reader gets no visual signal at a time jump
-or a location change, and the book reads as though scenes are running
-into each other. Example, `ch24.md:159-163` — the shop scene ends and
-the parts house four doors up the block begins, with nothing between
-them but a paragraph break.
+What is actually owed before EPUB, per that report:
+- **12 breaks missing** (1 HIGH, 4 MEDIUM, 7 LOW — e.g. ch 23, kitchen
+  morning to diner noon, no marker).
+- **10 existing markers that fail the time/place test** — section
+  dividers inside one continuous scene (five in ch 3's market
+  morning, two fencing a three-line vignette in ch 19). A human
+  should look at these with a view to removing, not adding.
+- **One form.** `studio/STYLE.md` names `***`; 43 of the 53 markers
+  are `---`. Conform in the same pass, because the EPUB converter
+  will render the two differently.
 
-**This is a real pre-publication job**, not a formatting nicety: a pass
-over all 30 chapters marking every scene break, then a decision on how
-it renders (blank line, centered asterisks, or a small ornament).
-It is mechanical work with an editorial judgment inside it — where
-exactly the breaks fall — so it wants a human eye or an editorial
-agent pass, not a regex.
+Still a real pre-publication pass with editorial judgment inside it;
+much smaller than first stated.
 
 ### 2b. Front and back matter — none of it exists
 
