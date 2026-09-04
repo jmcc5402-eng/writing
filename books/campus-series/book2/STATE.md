@@ -28,26 +28,25 @@ next brief:**
    two on accepted pages. Odell's ch 8 anchor takes the plain "never"
    render and the ch 7/8 briefs ban the construction.
 
-**THE CH 7 BRIEF IS WRITTEN AND AT ITS AUDIT** —
-`plots/recut-brief-ch07.md`, issued on the 2026-09-04 nightly shift.
-It overturns its own source on two points and flags both rather than
-drafting them: (1) FEBRUARY STANDS — the original brief's "thirty
-days, before Christmas" contradicts the ratified outline's own ch 7
-entry and at least three later February dependencies, so the deadline
-keeps its month and gains a date and her arithmetic instead; (2) DAN
-IS NOT IN CH 7 AT ALL — verified, not one mention of him in the
-chapter — and B2-D06 item 7 says the leads share a scene in ch 7, so
-the added scene is the re-cut's real work, not a garnish. The audit
-is blocking; nothing drafts until it clears.
+**PR #122 OPEN — the ch 7 re-cut, at the author's listen. Do not
+chase.** Full conveyor ran on the nightly shift: brief → audit
+(BLOCKED on 17, amended, CLEAR) → one drafter (D6) → panel (P1, ships
+with six grafts, all applied) → lint clean at 22.9% → one PR with a
+listening file. Carries SR-B2-21/22/23/24 strikeable and four author
+questions that are NOT decided: the C. COLE initial, the outline's
+contradictory weekdays, the arc-doc row that cannot be played
+literally, and whether the chapter's missing anger gets fixed or
+accepted.
 
-**NEXT (was): the ch 7 re-cut**, briefed from `plots/recut-briefs-ch05-08.md`
-§CH 7 + the standing addenda + the ruling on ch 6 (bare merge — the
-only thing that crosses the seam is fact, not correction). What
-crosses: the December letter exists, is unsent, moves to the athletic
-director after Christmas without Dan's name; the corner repeats the
-refusal; the board carries Denny's sentence but not Dan's no; and
-**Aisha does not know Dan refused** — she was a whole crowd away.
-The ch 7 brief may not assume she knows.
+**On merge:** fold (THREADS ch 7 entry; registry rows for the memo's
+date, Dan's errand, his second annex visit, her working unit; the
+ladder ledger at rung 4 with the mark holding at 5), then brief ch 8
+from `recut-briefs-ch05-08.md` §CH 8 + the standing addenda + the
+ruling on ch 7.
+
+**Binding on the ch 8 brief already:** Odell's anchor takes the plain
+"never" render — the dealt "never once" spend is off, because two are
+on accepted pages (`ch05:330`, `ch06:22`).
 
 **Then:** ch 8; the wave-3 directive (must carry: the COUPLE LINE
 with the ladder mark, shared scenes ch 10 and 12, UP/DOWN, the stakes
