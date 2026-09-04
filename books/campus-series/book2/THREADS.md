@@ -58,8 +58,10 @@ docs); F## fair-play rows (b12-outline.md table governs).
   :176); wave-2 deal = zero new in ch 5–8.
 - **The closeness ladder (STYLE.md, author 2026-09-03) — high-water
   mark by chapter:** ch 1 rung 1 (flatbed, forearms, at a distance)
-  · ch 3 rung 2 (up close in the tent) · ch 4 rung 2 (the lounge,
-  "You're looming") · **ch 5 rung 5** (the board, the marker tray
+  · ch 3 rung 2 (up close in the tent) · ch 4 rung 4–5 (the cup
+  handed over; two plastic chairs and "neither of them got up" —
+  corrected 2026-09-04 by the romance count; the ledger had said 2)
+  · **ch 5 rung 5** (the board, the marker tray
   like a net, neither stepped back) · **ch 6 rung 3** (the rail
   exchange, dry, about the date; then the pass-behind as the porch
   empties — he gets her hair, keeps his hands on the rail, does not
