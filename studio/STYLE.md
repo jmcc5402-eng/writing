@@ -244,7 +244,7 @@ The law, for every romance here:
    noticing beat — the noticing beat describes a body; the proximity
    beat measures a distance.
 
-## The romance floor — a wall (author law, 2026-09-04)
+## Romance first — the rule (author law, 2026-09-04)
 
 > "I think the writers don't understand fundamentally that this is a
 > romance novel. They are writing great plots, but we have to
@@ -252,13 +252,21 @@ The law, for every romance here:
 > care about the feeling of romance. The plot is a nice to have and
 > I want it to be great, but every chapter has to have multiple
 > romance aspects to it. They can be tiny, but they need to be. That
-> should be a fundamental wall."
+> should be a fundamental wall." And, the same day, on being shown
+> the wall: "Rule not wall. It's like I have to work to convince the
+> writers to include romance where it should be a core fundamental
+> piece."
 
-A wall, not a meter: it is not scored, it is passed or failed, and a
-chapter that fails it is not staged. It joins HEA, consent and the
-safety rules as the things no better-looking chapter may trade away.
+Not a gate the chapter is checked against afterward — the thing the
+writer is told the job is before starting. The romance is the book;
+the plot is what the two of them are doing while they fall. So the
+rule lives at the front: in the drafter's persona
+(`studio/agents/personas/drafter-campus.md`, the first thing every
+campus brief hands the drafter), in the first line of every brief,
+and only then in the count. The count exists so nobody has to argue
+for the romance chapter by chapter; it is not where the rule lives.
 
-**The rule.** Every chapter of a romance carries at least THREE
+**The floor.** Every chapter of a romance carries at least THREE
 romance beats, of at least TWO different kinds, with at least one in
 the first third of the chapter and one in the last third. A beat may
 be one sentence. A chapter in which the leads are apart still owes
@@ -294,13 +302,13 @@ with kinds. The drafter delivers them and reports each with its line
 number. The romance-reader-panel finds them independently, counts,
 names the kinds, and checks the spread; its count is the one that
 stands. Fewer than three, fewer than two kinds, or a first or last
-third with none: the chapter is returned before staging. The
-orchestrator may not waive it; only the author may, by a WAIVED line
-on the chapter's PR.
+third with none: the chapter goes back to the drafter with the
+persona re-read, before staging. The orchestrator may not waive it;
+only the author may, by a WAIVED line on the chapter's PR.
 
 **Instrument governance.** Added on the author's word; the
 one-in-one-out rule is honored by folding the COUPLE LINE into this
-wall (kind 1 is the ladder beat; the couple line becomes part of the
+rule (kind 1 is the ladder beat; the couple line becomes part of the
 ROMANCE BEATS list rather than a separate line).
 
 ## Rules are full lists; rations are per book (author, 2026-09-03)

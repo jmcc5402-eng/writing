@@ -262,12 +262,12 @@ conflict, the ratified list wins.
 Every chapter brief opens with THE ROMANCE MOVE and carries the
 lines below, each one the drafter must be able to read back as a
 sentence:
-- **THE ROMANCE MOVE (first line of every brief — the romance floor,
+- **THE ROMANCE MOVE (first line of every brief — Romance first,
   studio/STYLE.md):** what this chapter does to the feeling between
   the leads — closer, farther, or a new thing known — in one
   sentence. Plot comes after it.
 - **ROMANCE BEATS:** at least three, of at least two kinds from the
-  wall's list, planned as a numbered list with kinds and placement
+  rule's list, planned as a numbered list with kinds and placement
   (first third / middle / last third). The COUPLE LINE lives here as
   kind 1 (the ladder rung). The panel's independent count is the one
   that stands; under three, the chapter is returned before staging.
