@@ -9,7 +9,38 @@ production runs under them: brief audit, label shuffle,
 jewel-forge slot, staging clause, furniture registry, anchor
 lines, carryover-reader gate).**
 
-## PICK UP HERE (2026-09-03, evening — CURRENT)
+## PICK UP HERE (2026-09-04 — CURRENT)
+
+**#116 (ch 5 re-cut), #117 (the closeness ladder + B2-D06) and #113
+(MILLROW by ANNIE FARROW, campus D19) all MERGED BARE.** Ch 5 is
+folded (THREADS ch 5 entry, B2-T09 opened, registry rows, header
+flipped). Every default in those PR bodies stands.
+
+**PR #118 OPEN — the ch 6 re-cut, at the author's listen.** Do not
+chase. Carries SR-B2-17/18/19/20 strikeable (letter polarity, "Marisol
+Pruett's boy," Earlene in the front row, the plate exchange) plus the
+ch 5 fold and the ch 3 foil rider. On merge: fold (THREADS ch 6 entry;
+registry: Denny's letter sentence, the porch geometry; "never once"
+ledger corrected to two on the page), then brief ch 7 from §CH 7 +
+the standing addenda + the ruling on ch 6.
+
+**Done this shift: the ch 6 re-cut** — brief = `plots/recut-briefs-ch05-08.md`
+§CH 6 + the STANDING ADDENDA (COUPLE LINE rung 3, END DOWN, the two
+"somebody's" fixes, the ch 3 foil rider) + the author's ruling on
+ch 5 (bare merge: nothing to carry except that Dan enters Sunday
+having lost to the athletic director on Tuesday). Sequence per
+PIPELINE §3c: brief audit (blocking) → one drafter → panel → lint
+(`studio/tools/chapter-lint.sh`) → one PR with a listening file.
+Audit question to settle first: the ch 6 letter vs. the outline's
+ch 10 phrase plant and ch 18 landing (F3, B2-T07).
+
+**Then:** ch 7, ch 8 in order; the wave-3 directive (must carry: the
+COUPLE LINE with the ladder mark, shared scenes ch 10 and 12, UP/DOWN,
+the stakes sentence, the furniture blacklist, the naming list); Book
+One's scene-break pass before EPUB.
+
+## Historical — 2026-09-03, evening
+
 
 **PR #116 OPEN — the ch 5 re-cut, at the author's listen.** Do not
 chase. On merge: fold (THREADS, furniture registry: "medical

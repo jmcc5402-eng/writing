@@ -481,3 +481,14 @@ Boyd expansion footprint is the NORTH end-zone tower and decks;
 the census line is amended in this diff. Surfaced by the
 2026-08-29 continuity fuzz (finding I5). Alternative (strike
 this PR): rule south and reword the two accepted pages.
+
+## D19 — series name + pen name: MILLROW by ANNIE FARROW
+
+**RULED (PR #113, bare merge 2026-09-03).** The series is
+**Millrow**; the byline is **Annie Farrow**. Memo and runners-up in
+`book2/notes/series-name-pen-name-memo-2026-09-03.md` (Ashford
+rejected: five existing romance properties plus a defunct online
+university on the college association; Jenna Rutledge the byline
+runner-up). Unblocks KDP packaging (studio/gtm/kdp-launch-mechanics
+§4 item 2). Book 1.2's own title is still [TK].
+

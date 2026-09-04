@@ -18,6 +18,7 @@ docs); F## fair-play rows (b12-outline.md table governs).
 | B2-T06 | The Cordelia letter (S01) | ch 9 | **ch 25** reread | not yet planted |
 | B2-T07 | The complaint's authorship (the consultant's pet phrase) | ch 10 | **ch 27** decode | not yet planted |
 | B2-T08 | Dan's nightly board tab — last thing before lights out, read to the bottom | ch 2 (shown without comment) | echo pays **ch 29**; FIRST TURN spent ch 4 (button: board pocketed unread, film instead) | OWED (the ch 29 echo) |
+| B2-T09 | Dan's move: agree in the room, escalate outside it (the verdict-manager on the page, seen from her side) | ch 5 (the athletic director's email; "Projector off, he had said… Film on, to his boss.") | echoes **ch 8** ("You hedged." / "I did."), inverts **ch 15** (backs her call before she knows), spends **ch 27** | OWED (the ch 15 inversion) |
 | F8/RH2 | Denny Gault, loudest voice, obvious complaint author — DECLARED red herring | ch 4: **Denny AUTHORED the "just asking for clarity on the evaluation timeline" thread** (ruled, sweep Q3) + ch 6, 12 | cleared **ch 28** (he refused to sign the letter) | OWED |
 | F10 | The walk-on stays on merit | honest signal ch 3 (one line: the backup package the walk-on ran all week) + 6, 12, 18 | **ch 28** | OWED |
 | F13 | The county's official wrong story as engine thesis | ch 1 (square kiss retold fondly, wrong, uncorrected — "It's how we tell it") | **ch 23** aimed, **ch 28** corrected | OWED |
@@ -96,6 +97,33 @@ swear spent; the wave button — his last look at the board,
 unread, pocketed (B2-T08's first turn). Third-floor lounge;
 hospital "twenty minutes up the highway" (SR-B2-7).
 
+### Ch 5 — Two Calendars (ACCEPTED #107; RE-CUT ACCEPTED #116)
+Introduces: the annex as HER room (diploma frames still in their
+mailing box); the two calendars on one board (DEC 19 circled twice
+in red; the ladder with no dates); baseline-plus imaging on her own
+authority, Thursday 6:40 (F1 plant); the Table reads Denny's clarity
+thread aloud and rules on it (B. Hollis's brother-in-law, "wrong
+knee"); the slice set down unasked — catchphrase SPENT ("Then I'm
+eating it where he can see me"); the twenty-minutes negotiation
+(the TWENTY card; the second card chocking the caster — persists in
+later annex scenes); her want named and its obstacle; the noticing
+beat (he fills her office). RE-CUT (#116): the athletic director's
+email on her tablet with her copied — Dan asked for Thursday with
+film on after agreeing to twenty minutes projector-off, and the
+athletic director declined: "Return-to-play is a medical
+determination. / The protocol is Dr. Cole's, and the timeline under
+it is hers."; her acknowledgement ("Received, thank you"); the
+request and refusal entered in Trey's chart; the board already
+using "medical determination." REVERSAL: Dan loses on paper to his
+own boss; she wins and pays (an angry head coach; the phrase on the
+board). ARC BEATS: hers — documents everything, asks nobody, tells
+nobody; his, seen from her POV — B2-T09 planted. Anchor: Sonny
+("Brains aren't a part you can order twice"), SPENT. Ladder: rung 5
+(the board, the marker tray like a net). Ends: image, the lights on
+the board, the win under it unspent. Hands forward: Dan enters ch 6
+having lost to the athletic director on Tuesday; the athletic
+director's phrase is loose on the board.
+
 ## New canon recorded at this fold
 
 Kickoff (rivalry game) 2:30 · Doss County RATIFIED (SR-B2-6;
@@ -105,3 +133,16 @@ slice canon · Aisha silent board member since June · board
 usernames on record (PieBeforeKickoff, DossCoDadx3,
 GrammyInSectionC, FirstDownMom…) · Dan's Friday check printed
 4:15–4:45 · supper (1.1 ch 17) is OCTOBER (outline corrected).
+
+## New canon recorded at the ch 5 re-cut fold (2026-09-04)
+
+Email as a prop (tablet, no header, no signature, no timestamp,
+italic lines in the reader's POV; the acknowledgement "Received,
+thank you") · "medical determination" is the athletic director's
+phrase, loose on the parents' board from ch 5 · the athletic
+director stays unnamed ("the athletic director," never "the AD," in
+prose; he) · the AD's no reads as "the call is the physician's" ·
+"your quarterback" is the administrator's name for the boy · Aisha
+charts non-medical administrative events (a request and its
+refusal) the long way · B2-T09 opened.
+

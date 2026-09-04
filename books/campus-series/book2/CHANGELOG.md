@@ -2,7 +2,67 @@
 
 Manuscript-affecting changes, newest first. (Hard rule 6.)
 
-## 2026-09-03 — ch 5 RE-CUT (at the gate; the first single-chapter PR)
+## 2026-09-04 — ch 6 RE-CUT (at the gate; the second single-chapter PR)
+
+Executes `plots/recut-briefs-ch05-08.md` §CH 6 as amended at the
+audit (SR-B2-17/18/19) plus the standing addenda. Five passages
+added or re-staged; the protect list is byte-identical.
+
+- Denny's ask (replaces the vague roster favor): he keeps the letter
+  of his promise to Missy and tells Dan a letter exists on his
+  phone, drafted by some of the dads for the athletic director,
+  going after Christmas, asking that roster spots be reviewed "for
+  kids who've earned it" and, in his own register, that "Families
+  would appreciate clarity, going forward, on how the medical
+  decisions are being made." Dan says the argument out loud in front
+  of the corner: "That letter's about Marisol Pruett's boy losing
+  his spot, / and it's about the doctor, / and I'm not putting my
+  name on it." Denny's face closes; the coat buttons over the phone;
+  nobody comes to Dan's wall for a while. One interior clause: the
+  athletic director told Dan no on Tuesday, Denny does not know it,
+  Dan does not tell him.
+- The announcement re-staged: the porch holds; Ray hollers because
+  he has stood on this porch every Saturday for forty years and never
+  had a December; Denny goes up on his toes with his phone over his
+  head because his boy is watching the same screen alone in a dark
+  den; the doctor does not cheer and reads the date like the bottom
+  line of a chart.
+- The leads speak once at the rail, dry, about the date ("You gave
+  them a date." … "I'm not on Millrow, Coach."). As the porch
+  empties she passes behind him toward the steps and he gets her
+  hair, cold and clean under the pit smoke, keeps his hands on the
+  rail, and does not turn around (ladder rung 3; mark holds at 5).
+- The plate to Gault's house stays kindness, not a settlement:
+  "That doesn't change the letter, Coach." / "Didn't bring it for
+  the letter." (panel graft 3 — SR-B2-20, strikeable; it touches an
+  accepted beat).
+- The board read says the letter is moving to the athletic director
+  after Christmas without Dan's name. "The game was on the
+  nineteenth." stays the last line.
+- Lint fixes: "somebody's baby" → "a baby"; "somebody's chart" → "a
+  chart"; "Delores Kyzer" → Earlene Tatum (SR-B2-19); "thermos cup"
+  → "a cup"; "nobody's grandmother stood in the cold" → "the older
+  folks didn't stand in the cold." Header flipped.
+- Panel (P1) shipped it with grafts, applied: the letter's polarity
+  in Dan's mouth ("losing his spot"); Dan's cost on the page; the
+  plate exchange; one gauge and one heaters line in the hold; the
+  Tuesday clause moved after the corner beat. Offered on the PR, not
+  applied (accepted prose, pacing only): cut the fourth heaters line,
+  Sonny's "Alphabet" callback, and the "county this old" pair.
+- Lint: 16.8% dialogue; zero dangling edges; no double-dash sentence;
+  no new never-once, six-months, somebody's, which-appendix; no
+  furniture hits; no [TK].
+
+## 2026-09-04 — ch 3: the foil rider (B2-D06 item 6; rides the ch 6 PR)
+
+- ch03:301–302: Verna's "foil-wrapped plate… thumbed the foil down
+  where it had lifted" → "a takeout clamshell… snapped the lid down
+  where it had popped." The modernity register binds props (DIALS 5;
+  the author's "not so 80s country and campy"); the gesture and
+  Delores's plates stand. Book 1.2 now has zero foil and zero
+  casseroles.
+
+## 2026-09-03 — ch 5 RE-CUT (ACCEPTED, PR #116 bare merge; folded 09-04)
 
 Executes `plots/recut-briefs-ch05-08.md` §CH 5 under the reversal
 slot, the arc beat and the say-it test. One passage added (55
