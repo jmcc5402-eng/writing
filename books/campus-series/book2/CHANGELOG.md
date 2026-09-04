@@ -2,6 +2,40 @@
 
 Manuscript-affecting changes, newest first. (Hard rule 6.)
 
+## 2026-09-04 — ch 1–6 ROMANCE TOP-UP (at the gate; one PR)
+
+Under "Romance first" (PR #123) and the author's ask ("we could add a
+handful of lines to each that add romance value"). The panel's blind
+count (`notes/romance-count-ch01-06-2026-09-04.md`) found ch 2, 3
+and 5 under the floor, each on an empty first third, ch 3 on both
+ends; ch 1, 4 and 6 pass and were not touched for beats. Four
+sentences added, all kind 4 (the absent lead present as a person),
+each paying a line the page already had; first run under the campus
+romance drafter persona (card D4):
+
+- ch02:42–44 — her printed half hour on his practice sheet, in his
+  own typing, and his eye going to it first. Pays ch02:242–244.
+- ch03:30–32 — at the eleven o'clock plan walk, the bench coolers
+  clear of her north edge: "Merritt's word from Friday, kept." Pays
+  ch02:203–208 (COOLERS on the card).
+- ch03:348–349 — in the motel back room with the phone face-up:
+  "*What do you need,* Merritt had said at the flap, / and that
+  afternoon she had known the answer." Pays ch03:201.
+- ch05:30–31 — him added to the list of where DEC 19 is circled:
+  "Merritt had it circled somewhere too, in block letters most
+  likely." Pays ch05:250 ("You've got my calendar up here").
+- ch06:233 and :328 — Aisha named once at the rail ("Whatever Aisha
+  Cole had tied her hair back with") and once in the exchange
+  ("Aisha said"); the author's ear, 2026-09-04: "Was there any
+  Ayesha in chapter 6?" Say-it item 6.
+- ch02:309–310 — Tick's radio line converted from reported to quoted
+  in the same words, because the added narration had dropped ch 2
+  from 15.1% to 14.9% dialogue, two sub-floor chapters in a row with
+  ch 3 (the quarter's quiet slot). Ch 2 now 15.4%.
+- Lint: zero dangling edges; zero new budget spends in any of the
+  four files; no [TK]. Ladder ledger corrected: ch 4 plays rung 4–5
+  on the page (the cup; the chairs), not the rung 2 the ledger said.
+
 ## 2026-09-04 — ch 6 RE-CUT (ACCEPTED #118, bare merge; folded same day)
 
 Executes `plots/recut-briefs-ch05-08.md` §CH 6 as amended at the
