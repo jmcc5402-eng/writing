@@ -2,6 +2,15 @@
 
 Manuscript-affecting changes, newest first. (Hard rule 6.)
 
+## 2026-09-04 — ch 3: the foil rider (B2-D06 item 6; rides the ch 6 PR)
+
+- ch03:301–302: Verna's "foil-wrapped plate… thumbed the foil down
+  where it had lifted" → "a takeout clamshell… snapped the lid down
+  where it had popped." The modernity register binds props (DIALS 5;
+  the author's "not so 80s country and campy"); the gesture and
+  Delores's plates stand. Book 1.2 now has zero foil and zero
+  casseroles.
+
 ## 2026-09-03 — ch 5 RE-CUT (ACCEPTED, PR #116 bare merge; folded 09-04)
 
 Executes `plots/recut-briefs-ch05-08.md` §CH 5 under the reversal
