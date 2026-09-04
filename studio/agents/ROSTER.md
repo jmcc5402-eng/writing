@@ -53,6 +53,7 @@ Not standalone agents — they ride on top of one.
 | `drafter-spytwins` | drafting-assistant | Book 1 ch1–4 rewrite, 2026-07-26 |
 | `drafter-mybyb` | drafting-assistant | Part I ch1–4 draft, 2026-07-26 |
 | `drafter-youngnick` | drafting-assistant | ch1–4 draft, 2026-07-26 |
+| `drafter-campus` | drafting-assistant | new 2026-09-04 (the romance drafter; first use = 1.2 ch 8 re-cut) |
 | `analyst-briefs` | (workflow analysts) | 9 analyst reports, 2026-07-26 |
 
 ## Deprecated / retired

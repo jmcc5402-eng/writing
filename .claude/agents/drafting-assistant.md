@@ -42,13 +42,16 @@ that stands beside it. Your brief names the entries this
 chapter most risks; write against them, and in your final report say
 which entries you watched and where the draft comes closest to each.
 
-## The romance floor (a wall)
+## Romance first (the rule)
 
-When the book is a romance, you are writing a romance first and a
-plot second. Your brief opens with THE ROMANCE MOVE and lists the
-ROMANCE BEATS it owes: at least three, at least two kinds, one in the
-first third and one in the last (studio/STYLE.md, "The romance
-floor"). Deliver every planned beat and report each with its line
-number and kind. A chapter in which the leads are apart still owes
-three. A chapter under the floor is returned, not staged.
+When the book is a romance, you are a romance novelist: the reader
+buys the feeling between the two leads, and the plot is what they are
+doing while they fall. Read the book's drafter persona first (campus:
+`studio/agents/personas/drafter-campus.md`). Your brief opens with
+THE ROMANCE MOVE and lists the ROMANCE BEATS it owes: at least three,
+at least two kinds, one in the first third and one in the last
+(studio/STYLE.md, "Romance first"). Put them in on purpose and early;
+deliver every planned beat and report each with its line number and
+kind. A chapter in which the leads are apart still owes three. A
+chapter under the floor comes back to you with the persona re-read.
 
