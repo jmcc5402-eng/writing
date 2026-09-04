@@ -4,7 +4,34 @@ _Runbook for the automation that drives the studio. Anything a thread
 needs in order to start, fire, or rebuild the nightly showrunner lives
 here — because a session is disposable and the repo is the brain._
 
-## Author priority window (EXPIRES 2026-08-21)
+## Author priority window — EXPIRED 2026-08-21
+
+**STATUS, recorded on the nightly shift of 2026-09-04.** The window
+expired fifteen days ago and the job it created — reopening the three
+parked PRs — was never done. The shift that expired the window went
+straight back to campus work and nobody read this section again.
+That is the failure this block now records so it cannot repeat: an
+expiry date with a job attached is not self-executing.
+
+| Parked PR | Branch (verified present, 2026-09-04) | Reopened as | State |
+|---|---|---|---|
+| #43 | `mybyb/part2-rung3` @ `5371712` | **#120**, 2026-09-04 | at the author |
+| #42 | `youngnick/dock-ruling` @ `6942db2` | — | **STILL PARKED** |
+| #41 | `spytwins/b3-vote-mechanism` @ `065833b` | — | **STILL PARKED** |
+
+All three branches are intact. #43 could not be merged as a branch —
+it predated the Part I revision and would have reverted four adopted
+chapters — so it was re-lifted file by file; expect the other two to
+need the same treatment rather than a straight reopen. The remaining
+two are the first non-campus job on the next shift.
+
+Note for whoever picks up #42: tonight's youngnick decision sheet
+(`books/youngnick/notes/decision-sheet-2026-09-04.md`, D7) lands on
+the same ground — it recommends retiring the ch2 balk upgrade and
+spending the leads' dialogue budget at the dock instead. The dock
+ruling parked in #42 *is* that decision. Read them together.
+
+### The window as it was called (historical)
 
 **Strengthened by the author, 2026-08-13: FULL focus.** Through
 2026-08-21 the studio works `books/campus-series` exclusively — the
