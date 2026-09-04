@@ -159,15 +159,20 @@ and is surfaced on the PR for the author to strike.
 
 ## CH 6 — Selection Sunday (Dan POV · Wk2 Sun)
 
-**THE ARGUMENT, SAID.** Denny Gault wants Dan's name on a letter that
-eleven fathers have drafted, asking the program to keep the
-scout-team walk-on and to review how medical decisions are being
-made on this roster. The walk-on is Marisol Pruett's son. Dan refuses
-on Ray's porch in front of the corner, and the letter goes to the
-athletic director without him.
+**THE ARGUMENT, SAID.** Denny Gault wants Dan's name on a letter some
+of the dads have drafted for the athletic director, asking that
+roster spots after Christmas be reviewed for "kids who've earned it"
+and that families get clarity on how medical decisions are being
+made. The letter never names a kid; Dan is the one who says who it
+means — Marisol Pruett's boy, the scout-team walk-on — and he refuses
+on Ray's porch in front of the corner. The letter will go without
+his name. *(Amended at the audit: canon's campaign is to CUT the
+walk-on — F10, outline Q3, ch 18 — so the letter's ask is "review,"
+not "keep," and Dan's public no protects the kid and the doctor in
+one sentence. SR-B2-17, strikeable.)*
 
 **REVERSAL — who loses what.** Denny loses Dan, publicly, and knows
-it in front of eight men who will repeat it. Dan loses Denny — the
+it in front of the corner, who will repeat it. Dan loses Denny — the
 loudest voice in the county and the father of his quarterback — on
 the best day the program has had in forty years. And the campaign
 against Aisha starts here, in chapter six, where the reader watches
@@ -183,36 +188,111 @@ does look at the doctor down the rail once afterward.
 **WHAT TO ADD.**
 1. **Make Denny's ask specific and put a threat in it.** Currently it
    is a vague roster favor and Dan deflects with "Rosters get built in
-   the building." Now: a drafted letter, eleven families, a CC line, a
-   sentence about "clarity on medical decision-making." Denny is not
-   lying and not a villain — he is a frightened father who has found
-   the one lever available to him, and the brief must keep him
-   sympathetic. Say the walk-on's name and whose son he is.
+   the building." Now: a drafted letter on Denny's phone, addressed to
+   the athletic director, "some of the dads" on it (no count — eleven
+   arrives at ch 12), going "after Christmas," with one sentence about
+   clarity on medical decision-making in Denny's own register
+   ("families," "going forward," "that's all this is"). Denny keeps
+   the letter of his promise to Missy: he does not ask, he tells Dan
+   the letter exists and where it is going "so you don't hear it from
+   the athletic director first," and Dan answers the ask that was not
+   made. Denny is not lying and not a villain — he is a frightened
+   father who has found the one lever available to him, and the brief
+   must keep him sympathetic. Dan names the kid the letter means:
+   "Marisol Pruett's boy." No first name (none exists in canon —
+   SR-B2-18). Denny paraphrases; one quoted sentence at most; the
+   wording must be unlike ch 18's manufactured letter on purpose.
 2. **Dan refuses in public**, and it costs. Denny's face closes. Two
    or three lines of the corner registering it.
-3. **The letter goes anyway.** One line, at the chapter's end or near
-   it, that tells the reader the thing exists and is moving.
-4. **Boyd, once, on the porch, listening** — the pledge as "big news
-   coming" in Tick's mouth, and Boyd doing nothing, audibly. Three
-   lines maximum. He does not speak to Dan.
+3. **The letter goes anyway.** One line, inside the nightly board read
+   (Denny's post at :316–321 already carries the roster-spots
+   sentence), that tells the reader the thing exists and is moving.
+   It is not sent in ch 6; ch 12 opens the whip count and ch 18 lands
+   it.
+4. **Boyd — DROPPED from ch 6 at the audit.** The author placed his
+   first porch and Tick's "big news coming" at ch 8 (audio notes F);
+   ch 10 plants the pledge. Ch 6 adds no Boyd.
 5. **One Aisha exchange at the quiet end of the rail** after the date
    goes up. Short and dry. This is the author's note that they read as
    separate characters.
 6. **Re-stage the announcement** per the author's note: hold the beat
    when ASHFORD comes up on the screen, then three cheers with a
-   reason each — Ray and forty years of Saturdays on that porch;
-   Denny cheering with his boy home in the dark, which is the
-   chapter's real ache; the doctor reading the date like the bottom
-   line of a chart.
+   reason each, as sentences. Ray cheers because he has stood on this
+   porch every Saturday of his life and never had a December ("forty
+   years" is licensed for Ray's Saturdays only; no program-history
+   number exists). Denny cheers with his phone over his head because
+   his boy is watching the same screen alone in a dark den, which is
+   the chapter's real ache. The doctor does not cheer; she reads the
+   date off the screen the way she reads the bottom line of a chart.
+   The gasp (:161–166), the relay (:173–179) and Ray's shoe polish
+   (:188–189) stand; "heard X hear Y" is capped at two (SR-B2-13c).
 
 **PROTECT.** The Selection Sunday decode at the top as folded.
-Delores Kyzer and Verna Poteat by name. "Every winter he had
+Delores Fountain-Mabry and Verna Poteat by name ("Delores Kyzer" is
+struck — see the audit addendum, SR-B2-19). "Every winter he had
 coached." Ray's beer. The relay passing matchups over shoulders. Ray
 writing DEC 19 backwards in shoe polish on the window glass. The
 noticing beat.
 
 **END REGISTER.** Flat, per the outline — but flat with the letter in
 it now.
+
+### CH 6 — AUDIT ADDENDUM (re-issued CLEAR, 2026-09-04)
+
+The pre-flight audit (continuity-keeper, card E4; report at
+`notes/recut-ch06-brief-audit-2026-09-04.md`) BLOCKED the brief on
+five points, amended above in place. Three are rulings canon never
+made; they ride the ch 6 PR as strikeable SR lines, defaults applied:
+
+- **SR-B2-17 — the letter's polarity.** Canon's campaign is to CUT the
+  walk-on (F10: "the walk-on stays, on merit — Dan's file review
+  vindicates him against a campaign"). The December letter therefore
+  asks for a "review" of roster spots after Christmas for "kids
+  who've earned it," never names the kid, and Dan is the one who
+  names him and refuses. Ch 18's letter is the same campaign after
+  the consultant's wording arrives (B2-T07 stays at ch 10).
+- **SR-B2-18 — the walk-on's designation.** Marisol's son has no
+  first name anywhere in Book One or 1.2, and whether he carries
+  Pruett is unestablished. On the page he is "Marisol Pruett's boy."
+  A first name, surname, year and position are the author's to add
+  to the bible; the drafter invents none.
+- **SR-B2-19 — the front-row grandmother.** "Delores Kyzer" (a fold
+  coinage) collides with Delores Fountain-Mabry seating the same
+  porch and invents kin for Peanut Kyzer. Lines :93–94 go to Earlene
+  Tatum ("Earlene Tatum was already patting the wood. / 'I don't
+  bite,' she said."); "Miss Delores" at :96 then answers
+  Fountain-Mabry alone.
+
+Orchestrator defaults, also strikeable:
+1. "Some of the dads," no count; the letter is drafted and addressed
+   to the athletic director, going "after Christmas"; not sent in
+   ch 6. Its medium is Denny's phone; Dan never takes the phone.
+2. The Tuesday seam: one interior clause inside the refusal, after
+   the no — the athletic director told Dan no in writing on Tuesday,
+   Denny does not know it (no name was on the board), and Dan does
+   not tell him.
+3. Boyd and Tick's "big news" drop from ch 6 (the author placed them
+   at ch 8).
+4. The exchange sits between Delores's anchor (:263) and "Dan stood
+   with it a while" (:268); the pass-behind sits after the plate
+   handoff (:294) as the porch empties, before "***".
+5. "The room's heat" is struck; the porch is cold (:49–50); the sense
+   is smell.
+6. Lint fixes in the re-cut: "thermos cup" (:201) → "a cup";
+   "nobody's grandmother stood in the cold" (:312) → "the
+   grandmothers didn't stand in the cold"; "the grandmother said"
+   (:94) → "she said" (SR-B2-19); the two "somebody's" per the
+   standing addenda. Header flips to ACCEPTED in this PR.
+7. Ledger correction at the fold: "never once" is on the page twice
+   (ch05:330 protected; ch06:21 the decode); THREADS says zero.
+8. Budgets already spent in ch 6 — add zero: personification (over
+   quota), "the way X" (:253), sentence-initial "Somewhere" (:217).
+   One double-dash sentence remains available; prefer none.
+9. Dialogue was 18.2% at staging; the re-cut adds Denny's lines and
+   the exchange and should rise. Lint after.
+10. Load-bearing (decode within a page): Denny asked the coach to put
+    his name on a letter against the doctor's process, and the coach
+    refused him in front of the corner.
 
 ---
 
@@ -339,7 +419,7 @@ ch 6 is rung 5 (ch 5, the board). Rungs are in `studio/STYLE.md`.
 - COUPLE LINE: they share the porch and speak once, dry, at the quiet
   end of the rail (brief item 5). Proximity beat, rung 3, new sense:
   when the porch empties she passes behind him in the crowd on her
-  way to the steps and he gets her hair, given up in the room's heat,
+  way to the steps and he gets her hair — smell, on a cold porch —
   and does not turn around. The rail exchange stays dry.
 - END REGISTER: DOWN. Opens on the best day in forty years; ends with
   the letter moving without his name.
@@ -347,9 +427,8 @@ ch 6 is rung 5 (ch 5, the board). Rungs are in `studio/STYLE.md`.
   baby's mother or say "a baby"; "the bottom line of somebody's
   chart" (:186) → "of a chart." Ray's beer stays. "7" from the rail;
   Dan's own usage per RECENT.md.
-- Rider on this PR: ch 3's foil-wrapped plate (:301–302) → a lidded
-  container or a paper plate with a napkin over it; Verna's line
-  stands. Flagged in the PR body as a separate line edit.
+- Rider on this PR: ch 3's foil-wrapped plate → a takeout clamshell.
+  DONE on the branch 2026-09-04 (CHANGELOG); flagged in the PR body.
 
 **CH 7 — The Coat (Aisha POV).**
 - COUPLE LINE: they share the scene where he hedges about the vacate
