@@ -3,6 +3,23 @@
 Newest first. Every entry: version, what changed, and the evidence that
 drove it.
 
+## 2026-09-04 — the romance floor: drafting-assistant 1.5.0, romance-reader-panel 1.2.0
+
+Author, 2026-09-04: "I think the writers don't understand
+fundamentally that this is a romance novel. They are writing great
+plots… the reader here doesn't care about the plot, they care about
+the feeling of romance… every chapter has to have multiple romance
+aspects to it. They can be tiny, but they need to be. That should be
+a fundamental wall." Evidence: 1.2 ch 5–8 as first shipped carried
+one romance beat a chapter against a full plot; every instrument
+added this week (reversal, arc beat, stakes, the ladder) counts plot
+mechanics or one proximity beat. The wall (studio/STYLE.md; campus
+STANDARDS 26) requires three beats of two kinds per chapter, first
+and last third. The drafter's brief now opens with THE ROMANCE MOVE
+and the drafter reports each beat by line; the panel inventories the
+beats blind and its count stands — a WALL FAILURE returns the chapter
+before any other finding is weighed.
+
 ## 2026-09-04 — the author's taste sheet wired into five agents
 
 drafting-assistant 1.4.0 · developmental-editor 1.4.0 ·
