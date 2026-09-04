@@ -244,6 +244,65 @@ The law, for every romance here:
    noticing beat — the noticing beat describes a body; the proximity
    beat measures a distance.
 
+## The romance floor — a wall (author law, 2026-09-04)
+
+> "I think the writers don't understand fundamentally that this is a
+> romance novel. They are writing great plots, but we have to
+> remember that the reader here doesn't care about the plot, they
+> care about the feeling of romance. The plot is a nice to have and
+> I want it to be great, but every chapter has to have multiple
+> romance aspects to it. They can be tiny, but they need to be. That
+> should be a fundamental wall."
+
+A wall, not a meter: it is not scored, it is passed or failed, and a
+chapter that fails it is not staged. It joins HEA, consent and the
+safety rules as the things no better-looking chapter may trade away.
+
+**The rule.** Every chapter of a romance carries at least THREE
+romance beats, of at least TWO different kinds, with at least one in
+the first third of the chapter and one in the last third. A beat may
+be one sentence. A chapter in which the leads are apart still owes
+three; apartness is not an exemption, it is the harder case.
+
+**The kinds** (a beat is one of these, in the POV character's
+experience, on the page):
+1. **Proximity** — the other's nearness in the POV's senses (the
+   closeness ladder; this is the rung the chapter plays).
+2. **Noticing** — one physical fact about the other, seen.
+3. **Wanting** — the POV's want for the other, plain once or slant.
+4. **The other in absence** — apart, the absent lead present in the
+   POV's head as a person: a line remembered, an object that is
+   them, a habit caught. Never as an obstacle only.
+5. **Between them** — a line of dialogue between the leads, or an
+   object passed hand to hand.
+6. **The town ships them** — the chorus notices the pair: a look, a
+   line, a post, within the realism rulebook.
+7. **The want against its wall** — jealousy, a rival's flicker, the
+   forbidden rule felt in the body; the want pressing on what
+   forbids it.
+8. **The private admission** — the thing about the other the POV
+   would never say aloud (Closeness, rule 3).
+
+**The reframe that comes with it.** The first line of every chapter
+brief is THE ROMANCE MOVE: one sentence saying what this chapter
+does to the feeling between the leads — closer, farther, or a new
+thing known. The plot's argument comes second. A drafter who cannot
+say the romance move has not been briefed.
+
+**How it is counted.** The brief plans the beats as a numbered list
+with kinds. The drafter delivers them and reports each with its line
+number. The romance-reader-panel finds them independently, counts,
+names the kinds, and checks the spread; its count is the one that
+stands. Fewer than three, fewer than two kinds, or a first or last
+third with none: the chapter is returned before staging. The
+orchestrator may not waive it; only the author may, by a WAIVED line
+on the chapter's PR.
+
+**Instrument governance.** Added on the author's word; the
+one-in-one-out rule is honored by folding the COUPLE LINE into this
+wall (kind 1 is the ladder beat; the couple line becomes part of the
+ROMANCE BEATS list rather than a separate line).
+
 ## Rules are full lists; rations are per book (author, 2026-09-03)
 
 Two lessons from the same listen, generalized:
