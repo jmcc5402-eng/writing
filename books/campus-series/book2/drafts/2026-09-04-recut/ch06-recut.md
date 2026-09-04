@@ -147,7 +147,7 @@ as if the wall had been the one holding out on him.
 
 Dan did not drop his voice for it.
 
-"That letter's about Marisol Pruett's boy and his spot,
+"That letter's about Marisol Pruett's boy losing his spot,
 and it's about the doctor,
 and I'm not putting my name on it."
 
@@ -163,11 +163,13 @@ that needed both hands,
 and when the corner's talk came back
 it came back a notch lower and about the weather.
 
+Denny went back to his corner and the corner took him back.
+Nobody came to Dan's stretch of wall for a while after that.
+
 The athletic director had told Dan no in writing on Tuesday,
 and Denny did not know that,
 and Dan did not tell him.
 
-Denny went back to his corner and the corner let him in.
 What Dan had heard under the whole of it was plain enough.
 A man whose own boy could not be handed a date
 had gone shopping for a problem with a lever on it.
@@ -199,10 +201,9 @@ He drank Ray's beer and kept the numbers in his coat.
 
 He did not hear the television say the name.
 He heard the front row hear it.
-For a second the porch held,
+The porch held,
 the whole hundred and some coats of it,
-the relay with the name and not passing it yet,
-the heaters the only thing on Millrow making a sound.
+the relay with the name and not passing it yet.
 One breath, all together, the gasp a congregation gives up
 when the name read out is family,
 and then the porch came down on the moment
@@ -365,6 +366,11 @@ the volume went all the way out of him.
 "I'll tell her," he said. "She'll want to know who asked."
 
 "Tell her all of them."
+
+Denny nodded at the plate.
+"That doesn't change the letter, Coach."
+
+"Didn't bring it for the letter."
 
 The porch was going to its trucks by then,
 coats and plates and the last of the hum
