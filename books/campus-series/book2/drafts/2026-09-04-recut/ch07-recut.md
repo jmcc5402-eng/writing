@@ -267,9 +267,9 @@ and she had not found them yet.
 The whiteboard held its two calendars.
 The mail had brought a third.
 
-Nine weeks to the eleventh, two of them the university closed.
-That left seven working weeks for four rooms and four cabinets,
-half a cabinet a week with the clinic open the whole time.
+Nine weeks to the eleventh, and the university closed for two of them.
+Seven working weeks for four rooms and thirty years of paper.
+Half a cabinet a week, with the clinic open the whole time.
 
 Room nine went into the truck in nine minutes.
 She had timed it.
@@ -330,17 +330,18 @@ Projector unplugged, not off. Whoever you name drives him."
 "Then read the mail," she said.
 
 The memo was under the stapler.
-She got it out and took it to him,
-because he had just asked for standing time in a building
-and was owed the paper on the building.
 He had walked the length of the room twice while she talked
 and stopped at the far wall,
-where her frames stood on the baseboard in the box they had come in.
+where her diploma frames stood on their edge against the baseboard,
+still in the box they had come in.
+She got the memo out and took it to him there,
+because he had just asked for standing time in a building
+and was owed the paper on the building.
 
 The paper went hand to hand over the top of the box,
 and both of them kept hold of it a second longer than the handing took.
-Four inches of cardboard, and the cold of the room in it.
-She stayed on her side.
+Four inches of cardboard stood between them and nothing else did.
+She stayed on her side of it.
 
 He read it standing up.
 Then he read it again, top to bottom,
@@ -364,9 +365,13 @@ He looked up from the page when she said it, and back down.
 
 "It doesn't say. It says subsequent communication."
 
+He read the last two sentences over.
+
 "That's not an answer."
 
 "It's the one in the mail," she said.
+
+He said the next thing lower than the rest of it.
 
 "Who's doing the boxing?"
 
@@ -382,16 +387,15 @@ He looked up from the page when she said it, and back down.
 
 He turned the memo over, found the back of it empty,
 and handed it back.
+His mouth had gone flat in the second read and stayed flat,
+and what she read in it was a man deciding what to do about a thing,
+not what he thought of it.
 
 "Let me ask around before you start carrying anything," he said.
 "A building doesn't get on a phase-two list by itself.
 That work gets done in the spring and this one moved.
 I know the people who'd know how it moved.
 Give me a few days and let me see what I can find out."
-
-His mouth had gone flat in the second read and stayed flat,
-and what she read in it was a man deciding what to do about a thing,
-not what he thought of it.
 
 She knew the sentence. It came out of men while they were still
 working out what a thing was going to cost them,
@@ -401,8 +405,8 @@ It had just never come to anything.
 "Thank you," she said.
 
 Nobody said the next thing.
-He turned the cap over once in his hands.
-The quiet went past comfortable and stayed there, and she let it.
+He turned the cap over once in his hands, and then again.
+Neither of them filled it.
 
 "Five fifteen tomorrow," he said. "It'll be printed."
 

@@ -2,6 +2,60 @@
 
 Manuscript-affecting changes, newest first. (Hard rule 6.)
 
+## 2026-09-04 — ch 7 RE-CUT (at the gate; the third single-chapter PR)
+
+Executes `plots/recut-brief-ch07.md` v2 — the brief audit BLOCKED v1
+on seventeen findings and the amended version cleared. Panel (P1)
+shipped it with six grafts, all applied. The protect list is
+byte-identical.
+
+- **Dan is on the page.** He did not appear in this chapter at all —
+  not in body, not in dialogue, not by name — which broke B2-D06 item
+  7 (the leads share a scene in ch 7). He comes over after practice on
+  an errand that concedes her authority completely: the Friday medical
+  check moves to 5:15 for playoff weeks and he means to type it into
+  the schedule himself, exactly as ch 2 says he did in September. He
+  holds the meeting room at seven for Trey's twenty minutes —
+  "Projector unplugged, not off" — and asks for nothing off the hold.
+  Then she hands him the memo and he reads it cold.
+- **The vacate order gets a date: February eleventh.** Nine weeks from
+  the chapter's Wednesday, two of them the university closed, seven
+  working weeks, half a cabinet a week with the clinic open. Her
+  working unit, said flat and uncommented, above the nine-minute pack.
+- **One plain sentence naming what the annex is for**, before the
+  inventory: the four rooms are where every athlete on this campus
+  goes when something tears or comes loose or quits working, and the
+  records room holds the paper on the ones before them.
+- **The proximity beat, rung 4** — the memo hand to hand over the box
+  her diploma frames are still in, both of them holding it a second
+  longer than the handing took, "Four inches of cardboard stood
+  between them and nothing else did. / She stayed on her side of it."
+  It measures a distance, not a body. B2-T02 stays sealed to ch 29 and
+  the panel did not deduce it.
+- **The soft version, and her reading of it:** "Let me ask around
+  before you start carrying anything." She says thank you and means
+  nothing by it — "none of the ones who had said it to her had been
+  lying. / It had just never come to anything." Then a silence nobody
+  fills, and he ends on the one small thing he can actually deliver:
+  "Five fifteen tomorrow. It'll be printed."
+- **`ch07:99` graft repaired.** Not a style quirk — the wave-2
+  winner's sentence was one sentence and the staging pass inserted the
+  noticing beat between its halves, orphaning the second
+  (`drafts/2026-08-30-wave2/ch07-candidate-A.md:87-88`). Restored, with
+  the noticing beat intact inside it.
+- `ch07:104` "The seven's next evaluation" → "Trey's" (narration in
+  her POV; the naming list).
+- Three "somebody" cuts: "somebody's chart" → "a chart"; "somebody's
+  coat" → "a coat"; "somebody else's name on the deed" → "the
+  university's name on the deed."
+- Header flipped off the wave-2 staging note.
+- Lint: 22.9% dialogue (floor 15, no quiet slot left), zero over-80
+  lines, zero "somebody's ___", zero new "since June", the
+  double-em-dash budget unspent, no [TK], no furniture hits.
+
+Flagged, not fixed: `ch07:343` "its month-old smell of woodsmoke" —
+nothing in the county is a month old. Polish-pass debt.
+
 ## 2026-09-04 — ch 6 RE-CUT (ACCEPTED #118, bare merge; folded same day)
 
 Executes `plots/recut-briefs-ch05-08.md` §CH 6 as amended at the
