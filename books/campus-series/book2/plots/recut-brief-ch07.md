@@ -292,7 +292,7 @@ Then he goes and she goes back to the charts.
 (`STYLE.md:165-167`), naming plainly what she was handed and what it
 is worth.
 
-### 5. Cut the "somebody" count to TWO in narration.
+### 5. Cut the "somebody" count — the three named uses go.
 
 *(v1's arithmetic was self-cancelling.)* Seven on the page: `:55`,
 `:61`, `:236`, `:256`, `:275`, `:324`, `:335`.
@@ -300,9 +300,16 @@ is worth.
 **`:55`, `:61` and `:275` go** — "typed three letters into somebody's
 chart" → "into a chart"; "the rolls rode inside somebody's coat" →
 "inside a coat"; "somebody else's name on the deed" → recast.
-**`:324` is inside Verna's protected anchor and is exempt.** `:236`
-and `:256` are different constructions and stay. **Do not substitute
-"someone."**
+**`:324` is inside Verna's protected anchor and is exempt.** `:236`,
+`:256` and `:335` are different constructions — not the banned
+possessive — and stay. **Do not substitute "someone."**
+
+*(Arithmetic corrected 2026-09-04 after the drafter caught it: v2's
+headline said "down to two in narration," but the enumeration cuts
+three, exempts Verna's, and keeps three non-possessive uses — `:236`,
+`:256`, `:335`. `:335` went unruled in v2 and is ruled here: it stays.
+Three non-possessive narration uses is the correct target; the banned
+construction goes to zero.)*
 
 ### 6. Repair the broken graft at `ch07:99`.
 

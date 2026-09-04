@@ -106,6 +106,33 @@ married to the board.
 | 6 | Denny asks him to sign the letter; **he refuses on the porch, in front of the corner** (conflict plan). | First public cost, small. |
 | 7 | Gives her his own coat and lies about it. **Hears about the vacate order and says nothing**, because the building is Boyd's money. | Kindness in private, cowardice in public. That is the identity exactly. |
 | 8 | On air, hedges on her protocol. She takes the mic. **That night the board turns on her and he reads all of it and posts nothing. Aisha tells him: "You read that board like it's a chart. It isn't. It's the weather."** | The weakness, diagnosed to his face by the one person qualified. He doesn't answer. |
+
+> **ANNOTATION to the ch 7 row — added 2026-09-04 at the ch 7 re-cut,
+> as a reading, not a rewrite. The row is CANON (#114) and its words
+> are unchanged. This records how it is performed, because the ch 7
+> brief audit found three ways the row cannot be played literally, and
+> without this note the next audit re-opens all three.**
+>
+> 1. **"Gives her his own coat and lies about it."** He gives it, but
+>    **he never lies on the page and is never asked.** The coat arrives
+>    by proxy on her chair, and the lie about the lost order belongs to
+>    the equipment manager (`b12-outline.md:244`). An on-page lie from
+>    Dan would make ch 29 the exposure of a lie instead of the landing
+>    of a gift. What the row means is that he lets a lie stand — which
+>    is worse, and quieter, and exactly him.
+> 2. **"Hears about the vacate order and says nothing."** In the re-cut
+>    he says something, and it amounts to nothing: he offers to ask
+>    around and promises her not one thing he could be held to. The
+>    row's substance survives intact and reads sharper — *saying
+>    nothing* rendered as a man talking. If the author would rather he
+>    literally not speak to it, that is a strike on the ch 7 PR.
+> 3. **"because the building is Boyd's money."** That is the reason he
+>    will *discover* at ch 10, where the outline deals him his first
+>    splinter (`b12-outline.md:468-478`). It is not a reason available
+>    to him in ch 7 and he may not connect it here. The row states the
+>    true cause of his behavior; the character does not yet know it.
+>
+> All three go to the author on the ch 7 re-cut PR.
 | 12 | Watches the county guess about his life, midnight tab in hand — and notices he has read it three times. | The weakness visible to him as a habit, not a duty. |
 | 13 | Asks his first real question: "walk me through Tuesday, medically." | Stops managing the answer; starts wanting to understand it. Rung 1. |
 | 14 | Tells her the whole scandal, including the part where the colleague paid more than he did. | Stops managing his own story. |

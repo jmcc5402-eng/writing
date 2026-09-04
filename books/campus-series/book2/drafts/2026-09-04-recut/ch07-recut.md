@@ -1,0 +1,487 @@
+# Chapter 7 — The Coat
+
+POV: Aisha, third person limited, past tense.
+(Accepted #107, folded #115. Re-cut 2026-09-04 per
+plots/recut-brief-ch07.md — Dan added after the building lap, the
+deadline dated to February, the :99 graft repaired; FIRST DRAFT of the
+re-cut, not staged until the re-cut PR merges.)
+
+---
+
+> **On Grapevine, the Ashford parents' board —**
+>
+> **Rhonda Sipes:** Nineteen degrees on that sideline yesterday and
+> the staff stood out in it same as the kids. Say what you want
+> about them. They stood in it.
+
+
+The freeze came in Monday night and stayed.
+By Tuesday practice the field rang under cleats,
+and every breath on it stood up white and hung around.
+Nineteen degrees at four o'clock. Wind out of the north.
+Aisha worked her sideline in her own wool coat.
+It was a good coat. It was a city coat.
+The wind went straight through it.
+By morning the county had been through its pipes
+and its jumper cables.
+By afternoon it was the field's turn.
+
+The head trainer came down the fence at four fifteen
+with a coat over one arm and two cups from the fieldhouse,
+steam going sideways off both.
+
+"Staff winter gear came in," he said,
+and held the coat up by the shoulders.
+Navy, staff patch, enormous.
+"Men's large. Smallest in the whole shipment.
+Equipment went through every box twice to be sure."
+
+"Sent, or ordered?"
+
+"Ordered. He says the order sheet's got one column on it,
+and it's had one column since before his time."
+
+"Whose sizes are in the column?"
+
+"Not yours," he said,
+and handed her a cup instead of an answer.
+She drank it too fast and was glad of the burn.
+
+The loaner went on over the wool,
+and it was warm and wrong at the same time.
+The shoulders sat halfway down her arms.
+The cuffs reached past her fingers.
+She pushed the right one back to sign the treatment log,
+and the left one dragged across the tablet on its way by
+and typed three letters into a chart.
+She deleted them. She pushed that cuff back too.
+By the next entry both cuffs were down again.
+
+The cold ran its own protocol.
+Below twenty the tape quit sticking
+unless the rolls rode inside a coat,
+so the rolls rode inside hers.
+The water bottles went to slush on the cart.
+Twice she re-taped a wrist held out through the rail,
+gloves off for the work and back on after,
+and the log's pen had to be thawed in her fist
+before it would sign anything.
+Down the field the periods ran on the horn,
+and the drills went on regardless of the temperature,
+and she made her checks and came back to the fence each time
+with less feeling in her hands than she'd left with.
+
+"Calling for nine tonight," the head trainer said,
+the last time through.
+
+"Nine."
+
+"Nine."
+
+The coat was wrong,
+ordered by a column that had never imagined her.
+The cups kept coming anyway, handed across by people who had.
+This county did both things at once, all day,
+and she had quit waiting for it to choose.
+
+***
+
+The parka was on her chair Wednesday morning at seven,
+in the office at the warm end of a cold building,
+still two rooms ahead of its radiator,
+her breath showing at her own desk.
+
+Team issue, navy, the staff patch on the chest,
+and over the staff patch, stitched in block letters, C. COLE.
+The tag said XXL.
+She held it up by the shoulders,
+and it kept going well past where a coat needed to,
+and she thought, before she could stop the thought,
+about the shape of the man it had been cut for.
+
+Behind it, on the whiteboard, DEC 19 sat circled in red,
+and beside the circle the ladder went down the board
+with no dates on it, same as yesterday.
+Trey's next evaluation sat where the ladder put it,
+and nowhere else.
+
+She carried the parka to the equipment cage.
+The cage smelled like dryer heat and new leather,
+and the first load of the day was already turning.
+
+"There's a parka on my chair," she said.
+
+"Yes ma'am."
+
+"It has my name on it."
+
+"Where did it come from?"
+
+He shrugged with the sock bin still in both hands.
+"Order goes missing around here about once a year.
+A box turns up. That's the whole story I've got."
+
+She waited. He counted socks into dozens.
+The shrug stood.
+
+"It's a double X."
+
+"Yes ma'am. And it won't shrink to you, either.
+Don't run it through my dryers hoping."
+
+He set the sock bin down, reached under the counter,
+and laid a pair of field gloves on it, her size,
+having looked at her hands exactly once.
+He cracked two heat packs and dropped one into each glove.
+
+"Chemistry," he said. "Twenty minutes a pack.
+Box of them on that shelf — take four.
+Count your fingers now and then.
+I'll believe whatever you report."
+
+"And the order sheet?"
+
+"Wrote a second column in this morning.
+It'll be on the spring order.
+That doesn't help you today, but there it is."
+
+She was at the door when he said, "Doc."
+He tapped two fingers on his own wrist.
+"Roll the cuff under, not over. Twice around.
+The liner grips itself. It'll hold all day."
+
+She put the parka on in the doorway of the cage.
+The hem landed below her knees.
+The sleeves went past her hands with length to spare.
+Inside it, the morning quit having a temperature.
+There was a doctor in it somewhere.
+
+Her name, block letters, straight. It was warm.
+She wore it back across the lot
+and was still warm on the far side,
+and warm was not a thing she was prepared to argue with
+in December. She kept it on.
+What she would not have told one soul
+between here and the state line
+was that she had put it on
+for the name as much as for the down.
+
+***
+
+She took her lunch at the Checkerboard,
+because the annex heat stayed close to the radiators
+and she had been three rooms from one all morning.
+The Liars' Table was full and mid-argument
+by the time the door had swung to.
+
+"Doc," Sonny Dillard said, "did you walk over, or migrate?"
+
+"It's warm," she said.
+
+"Big coat," Odell Fountain said.
+
+Earlene moved the cream pitcher out of the flight path
+of her left cuff and went on with her coffee.
+"Sit. You're letting winter in.
+And roll those before you reach over my eggs."
+
+"They roll," Aisha said,
+and rolled the left one once to prove it,
+and it came down again by the sugar.
+
+"Mm," Earlene said.
+
+"You hear that?" Sonny said. "They roll."
+
+"Leave the doctor's coat alone," Earlene said.
+
+"It's the most coat this table has ever seen.
+I'm admiring it."
+
+"Eggs and coffee," Aisha told the counter, "and a biscuit,"
+and ate all of it inside the coat with the zipper up
+while the Table went back to the cold,
+and whether the church pipes would hold through Sunday,
+and whose fault it would be if they didn't.
+Odell held that it would be the deacons'.
+Sonny held that the deacons held nothing, including heat tape.
+Nobody asked the doctor, and the doctor did not rule.
+
+They did not tease visitors here.
+She had been introduced twice to half this room.
+Jokes were for fixtures,
+and the Table had jokes for her now,
+and she let every one of them land.
+
+***
+
+The campus mail reached the annex after lunch.
+One envelope, addressed to no person.
+OCCUPANT PROGRAMS, ATHLETICS ANNEX.
+The memo inside ran five sentences.
+
+> Please be advised that the Athletics Annex has been added
+> to the Phase II capital facilities survey, previously
+> scheduled for spring. Resident programs should plan for
+> all contents, including stored records, to be inventoried
+> and boxed by February 11. Program relocation will be
+> addressed in a subsequent communication. Questions may be
+> directed to Facilities Planning. Facilities will provide
+> boxes.
+
+She read it twice, the second time slower,
+like a chart with one value out of range.
+
+Those four rooms were where every athlete on this campus went
+when something tore or came loose or quit working,
+and the records room held the paper on the ones before them.
+
+Then she walked the building with the memo in one hand.
+The rehab rooms: two tables, the whirlpool,
+the parallel bars somebody had bolted true
+in some other decade,
+a cot with an army blanket
+for anybody the whirlpool heat took lightheaded.
+The records room: thirty years of files in four cabinets,
+and two walls of boxes that were already boxes,
+her predecessors' handwriting going back past ballpoint.
+A shelf of X-ray film in brown sleeves
+that no machine left on this campus could read.
+A taped carton marked KNEES, 1994.
+All of it, inventoried and boxed by February eleventh.
+There was no line on a survey for warm in winter.
+Facilities would provide boxes.
+She stood in the records room a while with that sentence.
+The memo did not say where the building's winter went
+after that. It said subsequent communication.
+She called the number for Facilities Planning.
+Facilities Planning was a voice mailbox,
+and the mailbox was full.
+
+Somebody had already drawn the building that wanted the ground.
+She had seen it taped to the film-room wall,
+three stories of glass holding a permanent sunset.
+She had looked for the rehab rooms in that drawing before,
+and she had not found them yet.
+
+The whiteboard held its two calendars.
+The mail had brought a third.
+
+Nine weeks to the eleventh, two of them the university closed.
+That left seven working weeks for four rooms and four cabinets,
+half a cabinet a week with the clinic open the whole time.
+
+Room nine went into the truck in nine minutes.
+She had timed it.
+Nobody had ever timed the annex,
+because the annex was the one she'd unpacked.
+Splints by size. Records by year. Shelf by shelf, since June,
+her whole trade squared away into a building
+that had a survey on it now.
+A person could rent her sleep by the month
+and still be all the way moved in somewhere.
+Nobody had warned her it would be a building with a boiler
+and the university's name on the deed.
+She would not have said any of that at the Table at noon,
+and she did not say it now, alone, out loud, either.
+
+She put the memo under the stapler and squared the edge.
+Then she walked one more lap with the tablet
+and charted the building itself,
+tables in use, evaluations run, records pulled in a week,
+a baseline for a patient nobody had asked her to take.
+After that she got out the afternoon's charts.
+
+The outside door went at the cold end a little after six,
+and boots came down the corridor.
+He knocked twice on the frame.
+The last time, he had saved the knock for the way out.
+
+"Coach."
+
+"Doc." Merritt came in with the field still on him,
+the cold coming off his jacket, his cap in one hand.
+"Two minutes. Practice moves to five tomorrow
+and stays there till the nineteenth. Film first, then the field.
+Everything behind it slides. Lift, meals, meetings."
+
+"And the medical check."
+
+"And the medical check. That's what I walked over for.
+Give me the time you want it and I'll type it in tonight."
+
+"Five fifteen. Same half hour, on the turf."
+
+"Five fifteen." He wrote it on a card out of his jacket.
+"And Trey. When the rung holds and you give me the twenty minutes,
+I don't want a thing to have to move that day.
+I'm holding the meeting room at seven from here on.
+Projector unplugged, not off. Whoever you name drives him."
+
+"His mother drives him."
+
+"His mother." He wrote that down too.
+"If it never comes, I've held a room three weeks. I can stand it."
+
+"You're holding rooms in this building into January."
+
+"Into whatever we get."
+
+"Then read the mail," she said.
+
+The memo was under the stapler.
+She got it out and took it to him,
+because he had just asked for standing time in a building
+and was owed the paper on the building.
+He had walked the length of the room twice while she talked
+and stopped at the far wall,
+where her frames stood on the baseboard in the box they had come in.
+
+The paper went hand to hand over the top of the box,
+and both of them kept hold of it a second longer than the handing took.
+Four inches of cardboard, and the cold of the room in it.
+She stayed on her side.
+
+He read it standing up.
+Then he read it again, top to bottom,
+the way he read a call sheet.
+
+"February," he said.
+
+"The eleventh."
+
+He looked up from the page when she said it, and back down.
+
+"Four rooms and the records."
+
+"Four cabinets and two walls. Thirty years of it."
+
+"Who signed this?"
+
+"Nobody signed it. It came addressed to the occupant."
+
+"Does it move you off this campus?"
+
+"It doesn't say. It says subsequent communication."
+
+"That's not an answer."
+
+"It's the one in the mail," she said.
+
+"Who's doing the boxing?"
+
+"I am."
+
+"By yourself."
+
+"By myself."
+
+"What do you want out of me on this?"
+
+"Nothing. You asked me for a time and I gave you one."
+
+He turned the memo over, found the back of it empty,
+and handed it back.
+
+"Let me ask around before you start carrying anything," he said.
+"A building doesn't get on a phase-two list by itself.
+That work gets done in the spring and this one moved.
+I know the people who'd know how it moved.
+Give me a few days and let me see what I can find out."
+
+His mouth had gone flat in the second read and stayed flat,
+and what she read in it was a man deciding what to do about a thing,
+not what he thought of it.
+
+She knew the sentence. It came out of men while they were still
+working out what a thing was going to cost them,
+and none of the ones who had said it to her had been lying.
+It had just never come to anything.
+
+"Thank you," she said.
+
+Nobody said the next thing.
+He turned the cap over once in his hands.
+The quiet went past comfortable and stayed there, and she let it.
+
+"Five fifteen tomorrow," he said. "It'll be printed."
+
+He went down her corridor.
+She sat back down to the afternoon's charts
+and heard the outside door do its two-stage bang.
+
+***
+
+The office window at the Magnolia Court glowed
+at the end of the lot, the television on for nobody.
+Verna had the phone at her ear
+and rapped the glass with one knuckle
+as Aisha crossed the gravel.
+Aisha came in with the cold.
+The county paper lay open on the desk to the bracket,
+a church bulletin marking the place.
+
+"Hold on, Delores." Verna set the receiver
+against her shoulder. "Turn around."
+
+Aisha turned around.
+
+"Mm." Verna came out from behind the desk,
+took a cuff in both hands, folded it back,
+and frowned at the seam.
+"They hem these with a mower."
+
+"It's warm."
+
+"I didn't say it wasn't warm."
+
+"It's the warmest thing in the county."
+
+"Did you eat?"
+
+"At the Checkerboard. Noon."
+
+"Noon was noon," Verna said,
+and set a sleeve of saltines on the desk between them.
+She picked the receiver back up.
+"Delores. The doctor's got herself a team coat.
+No, I am not exaggerating one inch of it.
+Well, that's what I keep telling everybody.
+Doctors get cold same as the rest of us —
+somebody see to that woman's coat
+before she loses a hand up a sleeve."
+
+She listened a while, said "Sunday, then,"
+and hung up on the rest of it.
+"Bring it by after church. Ten minutes with pins.
+You'll keep your hands."
+
+"The sleeves roll."
+
+"Mm," Verna said,
+like somebody who had watched sleeves come back down
+all her life.
+
+Room nine was cold at the edges,
+the furnace running behind, the wind north,
+Verna's blanket on the bed where it lived now.
+Her phone lit three times
+while she hung the wool coat on the closet rod,
+where it kept its month-old smell of woodsmoke.
+Kat, with listings.
+A brick two-bedroom four blocks from the clinic —
+*cute as a button and priced like it.*
+A rental with a woodstove and a carport — *winterized!!*
+A farmhouse out the county road —
+*good bones, bad roof, it would love you.*
+
+She read all three to the end and answered none of them.
+Every one of them had a February in it somewhere.
+The screen went dark on its own on the nightstand.
+
+She kept the coat on.
+She sat on the made bed with the blanket over her knees.
+She turned the left cuff back on itself, twice.
+Then the right, twice.
+Her hands came out the ends into the lamplight.
+The sleeves held the roll.
