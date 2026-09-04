@@ -44,6 +44,17 @@ docs); F## fair-play rows (b12-outline.md table governs).
   deal — plain "never" render offered; cap = one book-wide).
 - **"Six months…" scaffold:** per-chapter cap 1 (staging order
   :176); wave-2 deal = zero new in ch 5–8.
+- **The closeness ladder (STYLE.md, author 2026-09-03) — high-water
+  mark by chapter:** ch 1 rung 1 (flatbed, forearms, at a distance)
+  · ch 3 rung 2 (up close in the tent) · ch 4 rung 2 (the lounge,
+  "You're looming") · **ch 5 rung 5** (the board, the marker tray
+  like a net, neither stepped back) · ch 6–8: hold or climb, per
+  the standing addenda · ch 13 near-miss · ch 15 the kiss (kiss
+  chart ceiling). Mark today: **5**.
+- **"Somebody's ___" (narration, once per BOOK — B2-D06):** SPENT
+  ch 1 ("Somebody's grandmother appeared at her elbow"). Debt on
+  accepted pages: ch 3 ×2 (air horn, trombone) → polish pass. Ch 6
+  ×2 and ch 7 ×2 → fixed in their re-cuts.
 
 ## Per-chapter ledger
 

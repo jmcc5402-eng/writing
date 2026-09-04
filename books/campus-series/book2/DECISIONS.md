@@ -164,3 +164,41 @@ Held from #115 and now clear to brief: the four reversals, Aisha's
 ch 8 diagnosis of Dan's board habit, Boyd on the porch, ch 6's
 announcement re-staging.
 
+## B2-D06 — the go on the seven traps; "touch" defined (2026-09-03, RULED)
+
+Source: the author's reply to the showrunner's trap-by-trap plan
+(after PR #116 opened), quoted in `studio/STYLE.md`, "The closeness
+ladder." The author agreed to every recommendation ("I agree with all
+the recommendations, go") and defined the one open term:
+
+1. **"Touch" means proximity in the POV's senses, not contact.**
+   "She walks past him and he smells her hair; he hands her a jacket
+   and she sees how strong his shoulders are; they're sitting at a
+   table arguing and they're so close that they can feel the
+   attention. The goal is for the reader to understand that these
+   people are getting closer and closer all the time." → the
+   closeness ladder (STYLE.md) and the COUPLE LINE in every brief.
+   1.2's high-water mark today: **rung 5, spent ch 5** (the board,
+   the marker tray "like a net," neither stepped back). Ch 6–8 hold
+   or climb; ch 13 is the near-miss, ch 15 the kiss (kiss chart).
+2. **Every chapter ends UP or DOWN**, never level with the last.
+3. **The stakes sentence** is said whole in ch 8 and restated in
+   every brief from ch 9.
+4. **Naming rules are full lists** (RECENT.md carries the
+   quarterback's). Dan's own usage is a PROPOSED default there.
+5. **"Somebody's ___" is once per book.** Spent ch 1 (narration).
+   Ch 3's two narration uses (air horn, trombone) are accepted-page
+   debt for the polish pass; ch 6's two and ch 7's two are fixed in
+   their re-cuts. Dialogue uses are speech and not counted.
+6. **The furniture blacklist is a grep** in
+   `studio/tools/chapter-lint.sh`. 1.2 has zero casseroles; ch 3's
+   two "foil" lines (Verna's foil-wrapped plate, :301–302) are a
+   line edit that rides the ch 6 re-cut PR as a rider, flagged.
+7. **The leads share a scene in ch 6, 7, 8, 10 and 12**; ch 9 and
+   11 are hers alone by outline and earn it (the letter; the booth).
+   No two apart-chapters run in a row.
+
+Recorded the same day in: STYLE.md (law), DRAFTING-PROTOCOL.md (the
+brief lines), RECENT.md (bans), THREADS.md (the ladder + the
+once-per-book ledger), recut-briefs-ch05-08.md (standing addenda for
+ch 6–8), STATE.md (wave-3 directive must carry).

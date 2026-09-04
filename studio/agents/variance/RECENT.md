@@ -23,11 +23,25 @@ list in the agent's invocation as "banned moves this run."
   End your chapter per its dealt ending register; the brief says if
   yours is a button chapter.
 - BANNED: "one beat" in any timing construction (motif closed at five).
-- BANNED (2026-09-03, author's audio ear, 1.2 ch 6): the "somebody's
-  [grandmother/baby/chart]" chorus construction — at most once per
-  chapter, never as the cheer; name the person instead. Also: the
-  QB is "7" only in the rail's, the board's and Tick's mouths; his
-  parents and the doctor say "Trey."
+- BANNED (2026-09-03, author's audio ear, 1.2 ch 6; TIGHTENED the
+  same day by the author: "those should be once a book each"): the
+  "somebody's [grandmother/baby/chart]" chorus construction — ONCE
+  PER BOOK in narration, and the book's ledger records the spend
+  (campus 1.2: spent ch 1, "Somebody's grandmother appeared at her
+  elbow"). Name the person instead. In dialogue it is speech, not
+  counted, but rationed.
+- THE QUARTERBACK'S NAME — full list (STYLE.md, "Rules are full
+  lists"): narration says "Trey" / "Trey Gault" / "the boy"; his
+  parents and the doctor say "Trey"; the rail, the board, Tick and
+  the chorus say "7" / "the boy" / "the quarterback"; administrators
+  say "your quarterback" / "the student"; Dan says "7" at the rail
+  and to the team and "Trey" in private [PROPOSED default — strike
+  by comment]. The chapter lint reports every use with its line.
+- FURNITURE BLACKLIST (author, 2026-09-03: "not so 80s country and
+  campy — like the word casserole"): casserole, foil, tinfoil, pans
+  going over, "them oxygen chambers" register, a grandma at anyone's
+  elbow. Coolers, cans, seltzers, phones, group chats. The chapter
+  lint greps it; a hit is a finding.
 - BANNED: giving every speaker a punchline; write one flat line for a
   named character and let it lie there.
 - QUOTA: three personifications per chapter, no more.
