@@ -284,3 +284,6 @@ read back as sentences:
 - **NAMING, FULL LIST:** any naming rule in the brief lists every
   speaker class and a default for the rest; the chapter lint reports
   each use with its speaker.
+- **TASTE:** the two or three entries of `studio/AUTHOR-TASTE.md`
+  this chapter most risks, by number, and the check that catches
+  each. Panels and editors answer it as their last finding.
