@@ -16,14 +16,14 @@ expiry date with a job attached is not self-executing.
 | Parked PR | Branch (verified present, 2026-09-04) | Reopened as | State |
 |---|---|---|---|
 | #43 | `mybyb/part2-rung3` @ `5371712` | **#120**, 2026-09-04 | at the author |
-| #42 | `youngnick/dock-ruling` @ `6942db2` | — | **STILL PARKED** |
+| #42 | `youngnick/dock-ruling` @ `6942db2` | **#121**, 2026-09-04 | at the author |
 | #41 | `spytwins/b3-vote-mechanism` @ `065833b` | — | **STILL PARKED** |
 
 All three branches are intact. #43 could not be merged as a branch —
 it predated the Part I revision and would have reverted four adopted
 chapters — so it was re-lifted file by file; expect the other two to
-need the same treatment rather than a straight reopen. The remaining
-two are the first non-campus job on the next shift.
+need the same treatment rather than a straight reopen. #41 is the last one, and it
+is the first non-campus job on the next shift.
 
 Note for whoever picks up #42: tonight's youngnick decision sheet
 (`books/youngnick/notes/decision-sheet-2026-09-04.md`, D7) lands on
