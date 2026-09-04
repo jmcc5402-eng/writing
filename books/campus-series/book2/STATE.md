@@ -16,7 +16,15 @@ lines, carryover-reader gate).**
 folded (THREADS ch 5 entry, B2-T09 opened, registry rows, header
 flipped). Every default in those PR bodies stands.
 
-**NOW: the ch 6 re-cut** — brief = `plots/recut-briefs-ch05-08.md`
+**PR #118 OPEN — the ch 6 re-cut, at the author's listen.** Do not
+chase. Carries SR-B2-17/18/19/20 strikeable (letter polarity, "Marisol
+Pruett's boy," Earlene in the front row, the plate exchange) plus the
+ch 5 fold and the ch 3 foil rider. On merge: fold (THREADS ch 6 entry;
+registry: Denny's letter sentence, the porch geometry; "never once"
+ledger corrected to two on the page), then brief ch 7 from §CH 7 +
+the standing addenda + the ruling on ch 6.
+
+**Done this shift: the ch 6 re-cut** — brief = `plots/recut-briefs-ch05-08.md`
 §CH 6 + the STANDING ADDENDA (COUPLE LINE rung 3, END DOWN, the two
 "somebody's" fixes, the ch 3 foil rider) + the author's ruling on
 ch 5 (bare merge: nothing to carry except that Dan enters Sunday
