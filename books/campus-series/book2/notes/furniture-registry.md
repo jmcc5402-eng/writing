@@ -26,3 +26,8 @@ finding). Started at the wave-1 fold (2026-08-30).
 | "medical determination" | the athletic director's phrase; on the parents' board in quotation marks the same dusk, nobody named | ch 5 re-cut (#116) |
 | The folded card under the caster | Dan's second card, folded twice, chocking her whiteboard's bad wheel; "The board was still level on his card" | ch 5 |
 | The chart, the long way | indication, rationale, her name at the bottom — for the imaging order AND for the coach's request and its refusal | ch 5 |
+| The December letter | Denny's own draft, on his phone, for the athletic director, going after Christmas; ask = roster spots "reviewed," "kids who've earned it," "clarity, going forward, on how the medical decisions are being made"; never names the walk-on; never rendered as a document — paraphrased aloud, at most one quoted sentence in Denny's register; must NOT match ch 18's wording | ch 6 re-cut (#118); SR-B2-17 |
+| The porch geometry | Ray's wall by the serving window (where Dan stands) · the quiet end of the rail (where she stands) · the steps down to Millrow; wall to quiet end is "a whole crowd away" | ch 6 |
+| "Marisol Pruett's boy" | the walk-on's only name on the page — no first name, no surname of his own; a name is the author's call and goes to the bible with year and position | ch 6 re-cut (#118); SR-B2-18 |
+| The front-row grandmother | Earlene Tatum (NOT "Delores Kyzer" — one Delores per porch) | ch 6 re-cut (#118); SR-B2-19 |
+| The plate to the Gaults' | kindness, not a settlement: "That doesn't change the letter, Coach." / "Didn't bring it for the letter." | ch 6 re-cut (#118); SR-B2-20 |

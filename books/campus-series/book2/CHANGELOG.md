@@ -2,7 +2,7 @@
 
 Manuscript-affecting changes, newest first. (Hard rule 6.)
 
-## 2026-09-04 — ch 6 RE-CUT (at the gate; the second single-chapter PR)
+## 2026-09-04 — ch 6 RE-CUT (ACCEPTED #118, bare merge; folded same day)
 
 Executes `plots/recut-briefs-ch05-08.md` §CH 6 as amended at the
 audit (SR-B2-17/18/19) plus the standing addenda. Five passages
