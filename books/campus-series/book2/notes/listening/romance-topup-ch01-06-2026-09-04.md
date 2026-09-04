@@ -12,6 +12,14 @@ Every room two adults deep, every door open, every minute of every practice on f
 
 * * *
 
+The equipment cage smelled like detergent and new leather, and WDSS rode underneath the sound of the dryers. Tick Moran was deep into his Friday show. He read the forecast and called Sunday's cold front "more of a suggestion than a front," and the equipment manager went on counting game socks into dozens without looking up.
+
+NEW. Tick gave out the visitor parking, told everybody "the Booster Club needs propane and folding tables more than it needs advice," and played a song older than the stadium. Somebody had called in about a dog gone missing out past the fairgrounds, and Tick read the description twice, brown, sixty pounds, answers to nothing.
+
+Dan initialed the laundry loop sheet where the man slid it across the counter, and stood a minute at the rack where the home whites hung pressed and in numerical order, and straightened a sleeve that did not need straightening.
+
+* * *
+
 ## Chapter 3
 
 The cold had been living in the stadium's concrete all week, and by noon on Saturday it had nowhere left to sit, so it climbed — up through the aluminum benches, up through ninety thousand pairs of boots, up into the breath that hung over the bowl in one slow silver sheet. Kickoff was half past two. The flags stood straight out from their poles and stayed there.
@@ -34,7 +42,7 @@ She sat down on the end of the made bed and did not turn on the light. Her hand 
 
 The blue marker quit halfway through STEP FIVE, and Aisha finished the word in red before she caught herself, rubbed it out with the side of her fist, and did it over in black from the box she had carried in. Red had one job on this board. It was already doing it.
 
-NEW. At the top, boxed off from everything else, DEC 19 stood circled twice in red. The county had that date circled on the feed-store calendar, on the radio, on the back bar of the Blind Mule, and in twelve thousand coat pockets on the parents' board, so she had put a copy up where she could watch it work. Merritt had it circled somewhere too, in block letters most likely, and she did not need to see it to know that. Under the copy ran the ladder — six rungs stacked, REST at the bottom and GAME at the top, each rung gated on the one below it holding overnight. There were no dates on the ladder. Not one, nowhere, and the blank column was not an oversight. The circle had a date and no patient. The ladder had Trey Gault and no date. Her job in December was the space between them.
+NEW. At the top, boxed off from everything else, DEC 19 stood circled twice in red. The county had that date circled on the feed-store calendar, on the radio, on the back bar of the Blind Mule, and in twelve thousand coat pockets on the parents' board, so she had put a copy up where she could watch it work. Merritt had it circled somewhere too, the date in his block letters most likely, and she did not need to see it to know that. Under the copy ran the ladder — six rungs stacked, REST at the bottom and GAME at the top, each rung gated on the one below it holding overnight. There were no dates on the ladder. Not one, nowhere, and the blank column was not an oversight. The circle had a date and no patient. The ladder had Trey Gault and no date. Her job in December was the space between them.
 
 The Annex was one corridor at the cold end of campus, four rehab rooms, a water fountain that ran cold or not at all, and the records room's four cabinets holding thirty years of other people's taped ankles. The university had forgotten the building so completely that in June nobody could tell her whose key they were handing her. She had taken the office at the warm end, leaned her diploma frames against the baseboard still in their mailing box, and quit explaining to people how to find her. The ones who needed her found her.
 

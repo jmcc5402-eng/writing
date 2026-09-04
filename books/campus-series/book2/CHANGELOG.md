@@ -22,8 +22,9 @@ romance drafter persona (card D4):
   "*What do you need,* Merritt had said at the flap, / and that
   afternoon she had known the answer." Pays ch03:201.
 - ch05:30–31 — him added to the list of where DEC 19 is circled:
-  "Merritt had it circled somewhere too, in block letters most
-  likely." Pays ch05:250 ("You've got my calendar up here").
+  "Merritt had it circled somewhere too, / the date in his block
+  letters most likely" (panel graft: a circle is not lettered). Pays
+  ch05:250 ("You've got my calendar up here").
 - ch06:233 and :328 — Aisha named once at the rail ("Whatever Aisha
   Cole had tied her hair back with") and once in the exchange
   ("Aisha said"); the author's ear, 2026-09-04: "Was there any
