@@ -28,7 +28,19 @@ next brief:**
    two on accepted pages. Odell's ch 8 anchor takes the plain "never"
    render and the ch 7/8 briefs ban the construction.
 
-**NEXT: the ch 7 re-cut**, briefed from `plots/recut-briefs-ch05-08.md`
+**THE CH 7 BRIEF IS WRITTEN AND AT ITS AUDIT** —
+`plots/recut-brief-ch07.md`, issued on the 2026-09-04 nightly shift.
+It overturns its own source on two points and flags both rather than
+drafting them: (1) FEBRUARY STANDS — the original brief's "thirty
+days, before Christmas" contradicts the ratified outline's own ch 7
+entry and at least three later February dependencies, so the deadline
+keeps its month and gains a date and her arithmetic instead; (2) DAN
+IS NOT IN CH 7 AT ALL — verified, not one mention of him in the
+chapter — and B2-D06 item 7 says the leads share a scene in ch 7, so
+the added scene is the re-cut's real work, not a garnish. The audit
+is blocking; nothing drafts until it clears.
+
+**NEXT (was): the ch 7 re-cut**, briefed from `plots/recut-briefs-ch05-08.md`
 §CH 7 + the standing addenda + the ruling on ch 6 (bare merge — the
 only thing that crosses the seam is fact, not correction). What
 crosses: the December letter exists, is unsent, moves to the athletic
