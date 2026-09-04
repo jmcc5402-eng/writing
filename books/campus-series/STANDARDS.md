@@ -13,7 +13,8 @@ the unit of work and of launch; sixteen is long-term vision, not a
 plan of record. And every rule below is negotiable by PR: rules
 exist to protect the books, not to veto great ideas — when an idea
 collides with a rule, open the PR and argue it; only the genre walls
-(HEA, consent, safety rules R1–R2) are non-negotiable.
+(HEA, consent, safety rules R1–R2, and the romance floor — standard
+26) are non-negotiable.
 
 ## Locked (author, 2026-08-06)
 
@@ -268,3 +269,20 @@ student-definition and adult-power-ceiling open questions.
   *better* fit for 35–45 buyers (small-town is a proven steady shelf)
   but the sports-romance-adjacent packaging changes. Re-aim comps
   before covers/blurbs. [TK: re-run market positioning at bible time]
+
+26. **The romance floor — WALL (author, 2026-09-04).** *"Every
+    chapter has to have multiple romance aspects to it. They can be
+    tiny, but they need to be."* Every chapter carries at least
+    three romance beats of at least two kinds (proximity, noticing,
+    wanting, the other in absence, between them, the town ships
+    them, the want against its wall, the private admission), one in
+    the first third and one in the last, whether or not the leads
+    share the page. Every brief opens with THE ROMANCE MOVE. The
+    romance-reader-panel's count stands; a chapter under the floor
+    is returned, not staged. Waivable only by the author, per
+    chapter, by a WAIVED line. Full text: `studio/STYLE.md`, "The
+    romance floor." Evidence: 1.2 ch 5–8 as first shipped — great
+    plot, one romance beat a chapter, and the author's read: "the
+    writers don't understand fundamentally that this is a romance
+    novel."
+

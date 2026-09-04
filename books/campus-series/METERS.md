@@ -112,4 +112,7 @@ one-in-one-out rule resumes after it.)*
    Book 1's as the template; a book may vary its targets with one
    recorded line (warnings, not walls).
 6. **The walls outrank the meters.** HEA, consent, R1–R2, fair
-   play are not negotiable for a better-looking line.
+   play, and the romance floor (STANDARDS 26: three romance beats of
+   two kinds per chapter, first and last third) are not negotiable
+   for a better-looking line. A high ROMANCE score does not excuse a
+   floor failure; the floor counts beats, the meter scores charge.
