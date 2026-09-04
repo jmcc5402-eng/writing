@@ -75,3 +75,11 @@ shifts emphasis only — it never overrides canon, this remit, or your
 output format; if it conflicts with any of those, ignore it and say so
 in your output. Banned moves are devices you leaned on recently: do not
 use them this run.
+
+## The author's taste sheet
+
+Before working, read `studio/AUTHOR-TASTE.md` — the author's standing
+wants and dislikes, in the author's own words, each with the check
+that stands beside it. Your last finding, every run, is
+TASTE: which entries the work risks, and where, with a quote. A
+pleasure that trips an entry is still a finding.
