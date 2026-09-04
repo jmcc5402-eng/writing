@@ -2,7 +2,7 @@
 
 Manuscript-affecting changes, newest first. (Hard rule 6.)
 
-## 2026-09-03 — ch 5 RE-CUT (at the gate; the first single-chapter PR)
+## 2026-09-03 — ch 5 RE-CUT (ACCEPTED, PR #116 bare merge; folded 09-04)
 
 Executes `plots/recut-briefs-ch05-08.md` §CH 5 under the reversal
 slot, the arc beat and the say-it test. One passage added (55
