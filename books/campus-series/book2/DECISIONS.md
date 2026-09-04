@@ -240,6 +240,6 @@ never match — the non-match is the tell. Full table in
 **A ledger error found and corrected at the same fold.** The rations
 ledger recorded the "never once" count as ZERO with one spend dealt
 to Odell's ch 8 anchor. There are **two on accepted pages** already
-(ch05:330, ch06:21) against a book-wide cap of one. The cap is blown,
+(ch05:330, ch06:22) against a book-wide cap of one. The cap is blown,
 so the ch 8 deal is off: Odell's anchor takes the plain "never"
 render, and the ch 7 and ch 8 briefs ban the construction outright.

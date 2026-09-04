@@ -47,7 +47,7 @@ docs); F## fair-play rows (b12-outline.md table governs).
 - **"Never once" (RECENT watch) — CORRECTED at the ch 6 fold
   (2026-09-04):** the ledger said ZERO. It is **TWO, both on
   accepted pages**: ch05:330 ("he had never once looked at her and
-  seen a woman") and ch06:21 ("Ashford had never once been one" —
+  seen a woman") and ch06:22 ("Ashford had never once been one" —
   the Selection Sunday decode gloss, pre-re-cut). The cap is one
   book-wide, so the cap is **blown and the ch 8 deal is off**:
   Odell's ch 8 anchor takes the plain "never" render, not the
