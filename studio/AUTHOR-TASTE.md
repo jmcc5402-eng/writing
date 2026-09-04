@@ -31,7 +31,21 @@ once in a sentence a stranger could repeat; the decode duty; the
 naming report in the chapter lint; the panel's first finding is
 "cover the page and say what happened."
 Fails when: the argument is only in subtext; a beat's decode sits
-sixty lines away; a rule is a list with a hole in it.
+sixty lines away; a rule is a list with a hole in it; a lead is only
+"the doctor" for a whole chapter in the other lead's POV (ch 6,
+caught by the author's ear 2026-09-04: "Was there any Ayesha in
+chapter 6?").
+
+**The positive form — the explicit opening.** *"I really liked how
+the very first paragraph was very explicit, that gets us off the
+hook and we can do a lot of implicit stuff later."* (2026-09-04, on
+ch 6: "the day a committee in a room somewhere names the twelve
+teams that get to keep playing… by noon the county would have a
+season or it would have nothing.") A chapter's first paragraph says
+plainly what today is and what is at stake in it; having paid that,
+the chapter may run as slant as it likes. Check: THE OPENING, SAID
+in every brief; the panel reads the first paragraph alone and says
+what the chapter is about; if it cannot, finding.
 
 ## 2. Ups and downs — somebody loses
 

@@ -363,6 +363,19 @@ Where the rule bites:
    recommendation.
 4. The anchor-line law and the decode duty are this rule's
    special cases. This is the general one.
+5. **The explicit opening (author, 2026-09-04).** *"I really liked
+   how the very first paragraph was very explicit, that gets us off
+   the hook and we can do a lot of implicit stuff later."* The
+   chapter's first paragraph states plainly what today is and what
+   is at stake in it (campus 1.2 ch 6: a committee names twelve
+   teams; by noon the county has a season or nothing). That paragraph
+   is the chapter's one mandatory on-the-nose beat; it buys the
+   subtext that follows. Briefs carry it as THE OPENING, SAID.
+6. **A lead is named in the other lead's POV.** "The doctor" and
+   "the coach" are the chorus's words and the POV lead's private
+   register; the name still appears at least once in narration per
+   chapter, before pronouns do the work, or a listener cannot tell
+   which "she" is the woman he wants (ch 6, caught 2026-09-04).
 
 THE VARNISH: dialogue or narration whose real purpose is to be
 enjoyed rather than meant. The test, per exchange: WHAT DOES THE
