@@ -1,10 +1,9 @@
 # Chapter 5 — Two Calendars
 
 POV: Aisha, third person limited, past tense.
-(Accepted #107, folded #115. RE-CUT 2026-09-03 per
-plots/recut-briefs-ch05-08.md §CH 5 — the athletic director's email
-added after the want passage; PROPOSED, not accepted until the
-re-cut PR merges.)
+(Staged from wave-2 winner per plots/wave2-staging-order.md,
+2026-08-30 — grafts and fixes as ordered; PROPOSED, not accepted
+until the wave PR merges.)
 
 ---
 
