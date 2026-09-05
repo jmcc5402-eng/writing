@@ -22,6 +22,7 @@ docs); F## fair-play rows (b12-outline.md table governs).
 | F8/RH2 | Denny Gault, loudest voice, obvious complaint author — DECLARED red herring | ch 4: **Denny AUTHORED the "just asking for clarity on the evaluation timeline" thread** (ruled, sweep Q3) + **ch 6 (the DECEMBER letter is his own draft, on his phone, and Dan refuses it in public)** + 12 | cleared **ch 28** — **and the letter he refuses to sign is the JANUARY one**, the same campaign rewritten by other hands (ch 18, "Eleven Families," where his name is absent from the eleven). Two letters, not one; the December draft is his and honest, the January rewrite is not his and is the knife | OWED |
 | F10 | The walk-on stays on merit | honest signal ch 3 (one line: the backup package the walk-on ran all week) + **ch 6 SPENT (the December letter never names him; Dan names him — "That letter's about Marisol Pruett's boy losing his spot" — and refuses; F10's rehearsal logic starts here)** + 12, 18 | **ch 28** | OWED |
 | F13 | The county's official wrong story as engine thesis | ch 1 (square kiss retold fondly, wrong, uncorrected — "It's how we tell it") | **ch 23** aimed, **ch 28** corrected | OWED |
+| B2-T10 | The romance's ladder (plots/romance-arc.md, CANON #130): stage 2 "admitted inside" reached ch 5 (hers) and ch 8 (his); stage 3 opens ch 11 (inside) / ch 13 (outside) | ch 5, ch 8 | the build check runs before ch 11, 13, 15, 27 briefs | **OWED: ch 2 fight shown; ch 4 one more exchange** (both approved) |
 | S01 | Cordelia (series) | room nine IS Cordelia's room — Aisha lives in it (SR-B2-2, ruled at #106) | letter beats from ch 9 | live, light |
 | S11 | Merritt's relief years (series) | B2-T01 carries its only permitted surface | spends ~set 3 | DORMANT by design |
 
@@ -209,7 +210,28 @@ is ch 8's and ch 24's. Ends held-quiet: the sleeves hold the roll.
 Hands forward: February eleventh is her clock now; the meeting room
 is held; the check is at 5:15; Dan said he would ask around.
 
-### Ch 8 — Coach's Table (ACCEPTED #107; RE-CUT at the gate — PR pending)
+### Ch 8 — Coach's Table (ACCEPTED #107; RE-CUT ACCEPTED #127; the author's three fixes #129, folded 2026-09-05)
+**As accepted:** opens explicit ("The county wanted to hear him say
+that Trey Gault was safe to play on the nineteenth"; "safe" decoded
+at the granddad's call). Boyd sighted on the porch ("I liked the
+doctor's spirit." / "Spirit is expensive, Coach."); Tick's tease
+("big news coming out of the Fieldhouse after the first of the
+year… I'm not told what"). Aisha takes the mic and wins the porch;
+the board turns on her that night (Tim Brasher, Rhonda Sipes "Coach
+stayed in his lane tonight", Kendra Voyles "group chats"); he reads
+to the bottom and does not post. The rail: "You hedged." / "I did."
+— she quotes his dodge back, he nearly laughs ("Being caught by her
+had never felt much like being caught. It felt like the good part of
+a Friday."), she steps in the last plate's width, the heat through
+two coats, "Neither of them stepped back" (second and LAST spend),
+her diagnosis (the board is the weather), "He did not answer her."
+Introduces: B2-T10 (below). Carries: B2-T08 (read, did not post —
+the habit named to his face), B2-T09 ("You hedged"). Hands forward:
+"the good part of a Friday" → **OWED to ch 2** (the add: the reader
+must watch what that phrase means before ch 8 uses it). Ends DOWN
+("film at five").
+
+*Ledger history:*
 *Ledger entry opened at the ch 6 fold (2026-09-04), same repair.*
 Carries: Boyd and Tick's "big news" (dropped back here from ch 6 per
 the author's note); Odell's anchor; the Coach's Table debut. His want
