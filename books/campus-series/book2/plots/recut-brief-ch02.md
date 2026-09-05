@@ -236,3 +236,35 @@ before and after, the lint counts, and one paragraph answering
    books/campus-series/book2/plots/romance-arc.md` — it must PASS
    with ch 2's row as written ("The Friday check as a fight, two
    pages, both enjoying it (TO ADD)"); this brief is the TO ADD.
+
+---
+
+### CH 2 — AUDIT ADDENDUM (continuity-keeper, E3, 2026-09-05 — CLEAR WITH ADDENDA)
+
+Report: `notes/recut-ch02-audit-2026-09-05.md`. The build check was
+run by the orchestrator: PASS (one WARN, the ch 26 `[CHECK]`). These
+eight bind the drafter on top of the brief above:
+
+1. **The em-dash budget is already spent** (ch02:132–134). The new
+   section contains NO sentence with two em dashes.
+2. **The sheet does not pass hand to hand on the page**, and no heads
+   go over the tablet or the paper. Both are rung 4 and ch 4's climb.
+   The sheet is simply in his hands, as accepted. The ball cart and
+   the script card stay in his hands only.
+3. **Ch 4's beats are ch 4's:** no medical call is let stand
+   unargued (ch04:311 says the lounge is the first); no praise of
+   her no; no noticing-that-he-noticed; no "looming."
+4. **The noon rule is new canon.** If she says fifty-six is decided
+   at noon on game day, frame it as what PROBABLE already means, so
+   "It doesn't change overnight. / If it changes, you're my first
+   call." stays true if kept. It goes to the bible at the fold.
+5. **If the one history sentence survives,** "both times" becomes
+   three (June, August, August), and "the paper came back right"
+   stays in it so ch 4's "Six months of her calls" keeps its partner.
+6. **The earshot witness is a trainer or a manager.** Fifty-six sees
+   from the far wall; he does not hear her. (Dan carries; she does
+   not.)
+7. **Neither boy is called a starter.** The page never says.
+8. **Fact manifest governs.** The audit's FACT MANIFEST is the whole
+   list of names, numbers, times, and objects available. Anything
+   else is `[TK]`.
