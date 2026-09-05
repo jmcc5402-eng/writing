@@ -18,9 +18,9 @@ docs); F## fair-play rows (b12-outline.md table governs).
 | B2-T06 | The Cordelia letter (S01) | ch 9 | **ch 25** reread | not yet planted |
 | B2-T07 | The complaint's authorship (the consultant's pet phrase) | ch 10 | **ch 27** decode | not yet planted |
 | B2-T08 | Dan's nightly board tab — last thing before lights out, read to the bottom | ch 2 (shown without comment) | echo pays **ch 29**; FIRST TURN spent ch 4 (button: board pocketed unread, film instead) | OWED (the ch 29 echo) |
-| B2-T09 | Dan's move: agree in the room, escalate outside it (the verdict-manager on the page, seen from her side) | ch 5 (the athletic director's email; "Projector off, he had said… Film on, to his boss.") | echoes **ch 8** ("You hedged." / "I did."), inverts **ch 15** (backs her call before she knows), spends **ch 27** | OWED (the ch 15 inversion) |
-| F8/RH2 | Denny Gault, loudest voice, obvious complaint author — DECLARED red herring | ch 4: **Denny AUTHORED the "just asking for clarity on the evaluation timeline" thread** (ruled, sweep Q3) + ch 6, 12 | cleared **ch 28** (he refused to sign the letter) | OWED |
-| F10 | The walk-on stays on merit | honest signal ch 3 (one line: the backup package the walk-on ran all week) + 6, 12, 18 | **ch 28** | OWED |
+| B2-T09 | Dan's move: agree in the room, escalate outside it (the verdict-manager on the page, seen from her side) | ch 5 (the athletic director's email; "Projector off, he had said… Film on, to his boss.") + **ch 6, from HIS side, one interior clause: the athletic director told him no on Tuesday, Denny does not know it, and he does not tell him** | echoes **ch 8** ("You hedged." / "I did."), inverts **ch 15** (backs her call before she knows), spends **ch 27** | OWED (the ch 15 inversion) |
+| F8/RH2 | Denny Gault, loudest voice, obvious complaint author — DECLARED red herring | ch 4: **Denny AUTHORED the "just asking for clarity on the evaluation timeline" thread** (ruled, sweep Q3) + **ch 6 (the DECEMBER letter is his own draft, on his phone, and Dan refuses it in public)** + 12 | cleared **ch 28** — **and the letter he refuses to sign is the JANUARY one**, the same campaign rewritten by other hands (ch 18, "Eleven Families," where his name is absent from the eleven). Two letters, not one; the December draft is his and honest, the January rewrite is not his and is the knife | OWED |
+| F10 | The walk-on stays on merit | honest signal ch 3 (one line: the backup package the walk-on ran all week) + **ch 6 SPENT (the December letter never names him; Dan names him — "That letter's about Marisol Pruett's boy losing his spot" — and refuses; F10's rehearsal logic starts here)** + 12, 18 | **ch 28** | OWED |
 | F13 | The county's official wrong story as engine thesis | ch 1 (square kiss retold fondly, wrong, uncorrected — "It's how we tell it") | **ch 23** aimed, **ch 28** corrected | OWED |
 | S01 | Cordelia (series) | room nine IS Cordelia's room — Aisha lives in it (SR-B2-2, ruled at #106) | letter beats from ch 9 | live, light |
 | S11 | Merritt's relief years (series) | B2-T01 carries its only permitted surface | spends ~set 3 | DORMANT by design |
@@ -30,9 +30,13 @@ docs); F## fair-play rows (b12-outline.md table governs).
 - **Edge (10 swears, leads + Mack only):** 1 spent — "Goddamn,"
   Dan, ch 4, the empty lot. 9 remain.
 - **Anchor lines:** ch 1 Earlene · ch 2 Tick · ch 3 Verna ·
-  ch 4 Peanut (exactly one per chapter; the ch 1→ch 3 "one
-  Saturday plays for the whole year" echo is the priced-bravado
-  payoff, the motif's one echo, SPENT).
+  ch 4 Peanut · ch 5 Sonny ("Brains aren't a part you can order
+  twice") · ch 6 Delores, on the porch (first playoff in this
+  town's whole life — pray for whoever has to say no to any of
+  it; the anchor is the turn into the plate gesture, and the
+  re-cut left it untouched) — exactly one per chapter; the
+  ch 1→ch 3 "one Saturday plays for the whole year" echo is the
+  priced-bravado payoff, the motif's one echo, SPENT.
 - **Quiet-band dialogue slots (one per quarter):** Q1 spent on
   ch 3 (13.1%).
 - **Coach's-slice catchphrase** ("I'm eating it where he can
@@ -40,22 +44,35 @@ docs); F## fair-play rows (b12-outline.md table governs).
   (quarter of a whole pie, $4, one piece, his standing order).
 - **Phone-face-down pair:** ch 2 (ritual) → ch 4 (turn) is the
   motif's plant/turn; do NOT reuse the gesture wording again.
-- **"Never once" (RECENT watch):** 1.2 count stands at ZERO;
-  ONE conscious spend is dealt to Odell's ch 8 anchor (wave-2
-  deal — plain "never" render offered; cap = one book-wide).
+- **"Never once" (RECENT watch) — CORRECTED at the ch 6 fold
+  (2026-09-04):** the ledger said ZERO. It is **TWO, both on
+  accepted pages**: ch05:330 ("he had never once looked at her and
+  seen a woman") and ch06:22 ("Ashford had never once been one" —
+  the Selection Sunday decode gloss, pre-re-cut). The cap is one
+  book-wide, so the cap is **blown and the ch 8 deal is off**:
+  Odell's ch 8 anchor takes the plain "never" render, not the
+  dealt spend, and the ch 7 and ch 8 briefs ban the construction
+  outright. The two accepted uses are debt for the polish pass;
+  ch 6's is the cheaper of the two and goes first if only one goes.
 - **"Six months…" scaffold:** per-chapter cap 1 (staging order
   :176); wave-2 deal = zero new in ch 5–8.
 - **The closeness ladder (STYLE.md, author 2026-09-03) — high-water
   mark by chapter:** ch 1 rung 1 (flatbed, forearms, at a distance)
   · ch 3 rung 2 (up close in the tent) · ch 4 rung 2 (the lounge,
   "You're looming") · **ch 5 rung 5** (the board, the marker tray
-  like a net, neither stepped back) · ch 6–8: hold or climb, per
-  the standing addenda · ch 13 near-miss · ch 15 the kiss (kiss
-  chart ceiling). Mark today: **5**.
+  like a net, neither stepped back) · **ch 6 rung 3** (the rail
+  exchange, dry, about the date; then the pass-behind as the porch
+  empties — he gets her hair, keeps his hands on the rail, does not
+  turn around) · ch 7–8: hold or climb, per the standing addenda ·
+  ch 13 near-miss · ch 15 the kiss (kiss chart ceiling). Mark
+  today: **5** (ch 6 played at 3; the high-water mark holds).
 - **"Somebody's ___" (narration, once per BOOK — B2-D06):** SPENT
   ch 1 ("Somebody's grandmother appeared at her elbow"). Debt on
-  accepted pages: ch 3 ×2 (air horn, trombone) → polish pass. Ch 6
-  ×2 and ch 7 ×2 → fixed in their re-cuts.
+  accepted pages: ch 3 ×2 (air horn, trombone) → polish pass.
+  **Ch 6 ×2 CLEARED at the re-cut** ("somebody's baby" → "a baby";
+  "somebody's chart" → "a chart"; and "nobody's grandmother stood
+  in the cold" → "the older folks didn't stand in the cold").
+  Ch 7 ×2 → fixed in its re-cut.
 
 ## Per-chapter ledger
 
@@ -124,6 +141,61 @@ the board, the win under it unspent. Hands forward: Dan enters ch 6
 having lost to the athletic director on Tuesday; the athletic
 director's phrase is loose on the board.
 
+### Ch 6 — Selection Sunday (ACCEPTED #107; RE-CUT ACCEPTED #118)
+Introduces: **the December letter** — Denny's own draft, on his
+phone, for the athletic director, going after Christmas, asking that
+roster spots be reviewed "for kids who've earned it" and that
+"Families would appreciate clarity, going forward, on how the
+medical decisions are being made." It never names the walk-on. Dan
+names him, out loud, in front of the corner: "That letter's about
+Marisol Pruett's boy losing his spot, / and it's about the doctor, /
+and I'm not putting my name on it." Also introduces the porch
+geometry (Ray's wall by the serving window; the quiet end of the
+rail; the steps), Earlene Tatum in the front row, and the playoff
+berth itself — December 19, on campus, the county's two clocks now
+one date. REVERSAL: Denny loses Dan in public on the county's best
+day; Dan loses the loudest father in the county and nobody comes to
+his stretch of wall for a while. The chapter ends lower than it
+opened. ARC BEAT (Dan): he refuses out loud instead of managing it,
+five days after he managed it upstairs and lost — and one interior
+clause carries the irony (the athletic director told him no on
+Tuesday; Denny does not know it; Dan does not tell him). COUPLE
+LINE: they speak once at the rail, dry, about the date ("You gave
+them a date." … "I'm not on Millrow, Coach."); as the porch empties
+she passes behind him toward the steps and he gets her hair, cold
+and clean under the pit smoke, and does not turn around. Ladder:
+rung 3 (mark holds at 5). Anchor: Delores, on the porch — SPENT.
+Ends: "The game was on the nineteenth." Hands forward: the December
+letter exists, is unsent, and is moving to the athletic director
+after Christmas **without Dan's name**; the corner will repeat the
+refusal; the board carries Denny's sentence but not Dan's no.
+**Aisha does not know he refused** — she was a whole crowd away at
+the quiet end of the rail, and no brief may assume she knows.
+
+### Ch 7 — The Coat (ACCEPTED #107; RE-CUT PENDING)
+*Ledger entry opened at the ch 6 fold (2026-09-04) — the wave-2 fold
+never wrote entries for ch 6, 7 or 8, and this repairs the gap.*
+Introduces: the hard-freeze Tuesday practice; the re-badged staff
+parka (B2-T02 planted — it is HIS spare, and the equipment manager
+pays it at ch 29). Carries: the annex; the walk-on; the board.
+Re-cut owed per `plots/recut-briefs-ch05-08.md` §CH 7 — the vacate
+order becomes her thirty-day deadline, Dan hears the same afternoon
+and offers the soft version. Debt entering the re-cut: "somebody's
+___" ×2 (B2-D06), and the "never once" construction is banned
+outright (the cap is blown; see the rations ledger).
+
+### Ch 8 — The Rail (ACCEPTED #107; RE-CUT PENDING)
+*Ledger entry opened at the ch 6 fold (2026-09-04), same repair.*
+Carries: Boyd and Tick's "big news" (dropped back here from ch 6 per
+the author's note); Odell's anchor; the Coach's Table debut. His want
+becomes a goal ("Wanting it was the easy half"); "You hedged." / "I
+did." echoes B2-T09. Re-cut owed per §CH 8 — she takes the mic and
+wins, the board turns on her personally that night, Dan reads every
+word and posts nothing, and she names his board habit to his face.
+Constraint entering the re-cut: **Odell's anchor takes the plain
+"never" render** — the dealt "never once" spend is off, because two
+are already on accepted pages.
+
 ## New canon recorded at this fold
 
 Kickoff (rivalry game) 2:30 · Doss County RATIFIED (SR-B2-6;
@@ -146,3 +218,44 @@ prose; he) · the AD's no reads as "the call is the physician's" ·
 charts non-medical administrative events (a request and its
 refusal) the long way · B2-T09 opened.
 
+
+## New canon recorded at the ch 6 re-cut fold (2026-09-04)
+
+**Two letters, not one — the correction that matters most at this
+fold.** F8/RH2 is cleared at ch 28 by Denny refusing to sign a
+letter, and the ch 6 re-cut makes Denny the author of *a* letter, so
+the two objects had to be separated in the record or the red herring
+collapses. They are separate and both are canon:
+
+| | The DECEMBER letter | The JANUARY letter |
+|---|---|---|
+| Whose | Denny's own draft, on his phone | the same campaign, rewritten by other hands |
+| Ask | roster spots "reviewed," "kids who've earned it," "clarity, going forward, on how the medical decisions are being made" — the walk-on is never named in it | "clarity on medical decision-making and roster priorities" — the walk-on and the doctor, one letter now |
+| Count | "some of the dads" — a small number, well under eleven | eleven families (ch 12 opens the whip count, ch 18 is titled for it) |
+| Denny | wrote it, carried it, was refused by Dan | **name absent from the eleven — he refused to sign** |
+| Where | ch 6, refused on Delmar's porch, goes anyway | ch 18 arrives as a courtesy copy; ch 28 clears him |
+
+The tell that someone else rewrote it is that the December sentence
+and the January sentence **do not match**. No brief may make them
+match.
+
+Also recorded: the porch geometry (Ray's wall by the serving window ·
+the quiet end of the rail · the steps down to Millrow — and the
+distance between the wall and the quiet end is a whole crowd, which
+is why Aisha cannot have heard the refusal) · **Earlene Tatum** is
+the front-row grandmother, and "Delores Kyzer" was a fold coinage
+that put two Deloreses on one porch (SR-B2-19) · **"Marisol Pruett's
+boy"** is the walk-on's only name on the page; no first name, no
+surname of his own, and naming him is the author's call and goes to
+the bible with year and position (SR-B2-18) · the plate to the
+Gaults' house is kindness and not a settlement ("That doesn't change
+the letter, Coach." / "Didn't bring it for the letter." — SR-B2-20)
+· the letter is never rendered as a document: Denny paraphrases it
+aloud, at most one quoted sentence, in his own register (SR-B2-17) ·
+Boyd and Tick's "big news" belongs to ch 8, not ch 6.
+
+Rulings that stood on a bare merge of #118: SR-B2-17, SR-B2-18,
+SR-B2-19, SR-B2-20. The three optional trims offered on that PR (the
+fourth heaters line, Sonny's second "Alphabet," the "county this old
+does not want arithmetic" pair) were **not** taken and the prose
+stands as written.

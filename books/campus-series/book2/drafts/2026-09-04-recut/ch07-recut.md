@@ -3,8 +3,8 @@
 POV: Aisha, third person limited, past tense.
 (Accepted #107, folded #115. Re-cut 2026-09-04 per
 plots/recut-brief-ch07.md — Dan added after the building lap, the
-deadline dated to February eleventh, the :99 graft repaired; PROPOSED,
-not accepted until the re-cut PR merges.)
+deadline dated to February, the :99 graft repaired; FIRST DRAFT of the
+re-cut, not staged until the re-cut PR merges.)
 
 ---
 

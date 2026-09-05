@@ -112,3 +112,28 @@ staging). Implications, standing:
   attribution that only works by eye.
 - Reading-page/manuscript markdown already TTS-friendly (semantic
   line breaks read as phrasing); keep it that way.
+
+## 2026-09-04 — brief an agent that can write the file you asked for
+
+Both instrument jobs on tonight's shift (youngnick decision sheet,
+mybyb gap map) were briefed to `developmental-editor` with a named
+output path. `developmental-editor` has Read, Grep and Glob and no
+write tool (`.claude/agents/`, roster), so both agents did the full
+job, produced the document in chat, and could not file it. Each
+opened its reply by saying so. The orchestrator transcribed both by
+hand — roughly 1,500 lines through the conversation for no reason.
+
+Standing fix, for whoever dispatches:
+- **Check the agent's tools before naming an output path.** The
+  writing-capable analysts are `junior-literary-critic`,
+  `plot-architect`, `market-pitch-agent` and `gtm-strategist`. The
+  editorial three — developmental, line, continuity — are read-only
+  by design and report to the orchestrator, who files.
+- If a read-only agent is the right specialist (it usually is for
+  judgment work), brief it to **return** the report, and say so, so
+  the agent does not waste its opening paragraph apologizing for a
+  tool it was never given.
+- The mybyb run also flagged that it was dispatched with no variance
+  card and declined to pick one for itself. Correct behavior. The
+  dispatcher draws the card; MYBYB has never been dealt a P-deck
+  card and that gap is real.
