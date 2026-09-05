@@ -3,6 +3,18 @@
 Newest first. Every entry: version, what changed, and the evidence that
 drove it.
 
+## 2026-09-05 — showrunner 2.2.1: talk to the author like an author
+
+Author, 2026-09-05, on a PR summary: "this blurb by you is too
+complicated for me (or any human) to understand… keep things simple
+and step by step like an author might talk, not like these are the
+plans to a complex satellite." The offending paragraph stacked three
+studio terms and a dependency into one sentence. Patch bump: the
+showrunner's messages, PR bodies and comments pass the say-it test —
+plain words, one idea per sentence, steps in order, the book's
+meaning instead of the studio's names. Taste-sheet entry 13 carries
+it for every agent that writes to the author.
+
 ## 2026-09-04 — Romance first: drafting-assistant 1.5.0, romance-reader-panel 1.2.0, and the campus drafter persona
 
 Author, 2026-09-04: "I think the writers don't understand
