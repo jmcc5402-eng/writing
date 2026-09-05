@@ -3,6 +3,26 @@
 Newest first. Every entry: version, what changed, and the evidence that
 drove it.
 
+## 2026-09-05 — The arc gate becomes an instrument: plot-architect 1.5.0, developmental-editor 1.5.0, continuity-keeper 1.4.0
+
+Author, 2026-09-05, after ch 8 of Book 1.2 passed the romance count
+with thirteen beats and still felt abrupt: "we need one [arc] for
+the romance overall to show how early on the romance is hidden and
+just shows some signs of life, but over the book it grows and turns
+external." Then: "I want this to be another instrument we use so
+eventually we can build these books really fast." The finding: the
+arc gate (§3b, 2026-09-03) existed in PIPELINE and nowhere else — no
+kit template, no tool, no agent whose job it was. Now:
+`series-kit/11-arc-docs.md` is the template (the leads' arcs and the
+relationship's arc with a ladder table); `tools/romance-build-check.py`
+reads the ladder and fails an unearned want, kiss, or claim, an
+inside more than one stage ahead, or a stage that jumps or reverses
+(it fails Book 1.2 as the page stands, at ch 8, for the author's
+reason; it passes with the ch 2 add). plot-architect writes the
+three docs after every outline and runs the check; the developmental
+editor names the scenes that earn a spend; the continuity-keeper's
+brief audit runs the tool and blocks on FAIL.
+
 ## 2026-09-05 — showrunner 2.2.1: talk to the author like an author
 
 Author, 2026-09-05, on a PR summary: "this blurb by you is too

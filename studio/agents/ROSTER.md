@@ -24,11 +24,11 @@ Rules of the project:
 
 | Agent | Ver | Model / effort | Remit (one line) |
 |---|---|---|---|
-| `plot-architect` | 1.4.0 | inherit / high | Premise → chapter-by-chapter outline (Snowflake + Hauge timing + location roster) |
+| `plot-architect` | 1.5.0 | inherit / high | Premise → chapter-by-chapter outline (Snowflake + Hauge timing + location roster) |
 | `drafting-assistant` | 1.5.0 | inherit | Approved outline → first-draft prose in the author's voice |
-| `developmental-editor` | 1.4.0 | inherit / high | Story-level critique; non-fiction mode = the argument is the plot |
+| `developmental-editor` | 1.5.0 | inherit / high | Story-level critique; non-fiction mode = the argument is the plot |
 | `line-copy-editor` | 1.3.0 | inherit | Sentence-level; mechanical fixes applied, style proposed |
-| `continuity-keeper` | 1.3.0 | inherit | Facts vs canon + scene staging; classifies contradiction / unestablished / deliberate |
+| `continuity-keeper` | 1.4.0 | inherit | Facts vs canon + scene staging; classifies contradiction / unestablished / deliberate |
 | `kid-reader-panel` | 1.1.0 | inherit | Simulated 8–12 reader reactions |
 | `red-team-critic` | 1.2.0 | inherit / high | Adversarial read before anything goes out |
 | `romance-reader-panel` | 1.2.0 | inherit / high | Simulated 35–45 romance reader: engagement, skim, swoon, DNF |

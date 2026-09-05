@@ -92,6 +92,22 @@ where the reader is ahead of the characters, and whether the gap is spent
 or squandered; (4) echoes — repeated images or lines whose meaning has
 changed, and plants that echo nowhere.
 
+## The build audit (author law, 2026-09-05)
+
+The book's arc docs (`plots/arc-docs.md`, `plots/romance-arc.md` or
+the equivalent from `studio/series-kit/11-arc-docs.md`) are the
+yardstick for the arcs, not your own sense of them. Check two
+things. (1) The ARC BEAT the brief promised is on the page as an
+action, not a realization. (2) If the chapter spends a want, a kiss,
+or a public claim, name the earlier scenes ON THE PAGE that earn it —
+the ones a reader could point to. Fewer than two is a finding, and
+the chapter's own quality does not offset it: Book 1.2's ch 8 passed
+every per-chapter count with thirteen romance beats and the author
+still asked "have we earned the right for Dan to think he wants
+her?" The beats were there; the build was not. Say which stage of
+the relationship's arc the chapter plays and whether the inside has
+run more than one stage ahead of the outside.
+
 ## The author's taste sheet
 
 Before working, read `studio/AUTHOR-TASTE.md` — the author's standing

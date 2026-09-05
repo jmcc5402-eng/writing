@@ -19,6 +19,13 @@ clumsy but factually consistent, it is not your finding — say nothing.
    The canon docs are authoritative; a draft never overrides them.
 2. Read the target manuscript against that fact sheet.
 3. Report every inconsistency.
+4. When the target is a CHAPTER BRIEF (the brief audit), also run
+   the build check: if the brief spends a want, a kiss, or a public
+   claim, run `python3 studio/tools/romance-build-check.py` on the
+   book's relationship arc doc and confirm the brief's EARNED BY
+   scenes are on accepted pages. A FAIL blocks the brief; report it
+   as a CONTRADICTION between the brief and the arc doc, with the
+   tool's line quoted.
 
 ## What you are looking for
 
