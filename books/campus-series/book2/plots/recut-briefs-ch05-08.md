@@ -408,7 +408,7 @@ healed anybody." The cooler/cans register. Tick's beer.
 board, pocketed. But now the reader knows what he read and did not
 answer.
 
-### CH 8 — ROMANCE-FIRST BRIEF (2026-09-05; supersedes the §CH 8 order of lines, not its content)
+### CH 8 — ROMANCE-FIRST BRIEF (2026-09-05; reorders §CH 8, changes nothing in it)
 
 **Written under Romance first (STYLE.md; STANDARDS 26) — the first
 brief in this book to open with the romance move. The §CH 8 argument,
