@@ -437,3 +437,11 @@ in `manuscript/ch08.md`; nothing else in the chapter moved.
 - **Not fixed here, by design:** the author's fourth note — is "he
   wanted her" earned — is answered by the romance arc PR, which
   proposes the fight scene in ch 2 that ch 8 was leaning on.
+
+## 2026-09-05 — fold: #129 (ch 8 fixes), #130 (the romance arc), #131 (the instrument)
+
+No prose changed. THREADS: ch 8 accepted with the fixes; B2-T10 (the
+romance's ladder) opened; "the good part of a Friday" owed to ch 2.
+Registry: Coach's Table, Tick's tease, Boyd's line, the "safe"
+decode, the porch beer. DECISIONS: B2-D09. `plots/romance-arc.md`
+marked CANON with both adds owed. Next: ch 2's fight scene, one PR.

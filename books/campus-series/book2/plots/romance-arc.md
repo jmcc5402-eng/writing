@@ -1,7 +1,10 @@
 # Book 1.2 — The romance's own arc (THE ARC GATE, third arc)
 
-**PROPOSED 2026-09-05 for the author's approval. Nothing below is
-canon until this PR merges. Written in plain sentences.**
+**CANON — #130 merged 2026-09-05 (author: "Merged"). The arc, the
+five stages, the build check, and BOTH adds (ch 2's Friday-check
+fight shown; ch 4's one more exchange) are approved. The two adds
+are OWED: ch 2 first, ch 4 next, one chapter per PR. Written in
+plain sentences.**
 
 **The author's ask (2026-09-05):** *"Much like the Michael Hauge
 concept of a character having an internal and external change
