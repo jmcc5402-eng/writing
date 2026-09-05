@@ -46,3 +46,19 @@ Return ~50%, Major Setback ~75%, Climax ~90% — and make both journeys
 turn at the same beats. Place the ticking clock where the reader SEES it
 early; plan foreshadow/echo pairs and superior-position beats (what the
 reader knows before the characters) as deliberately as clues.
+
+## The arc docs (author law, 2026-09-03 and 2026-09-05)
+
+The outline is not done when the chapters are listed. After it, write
+the ARC DOCS from `studio/series-kit/11-arc-docs.md`: one per lead
+(the wound, the false belief and what it makes them DO, want vs.
+need, the turns as visible actions, the moment of change and its
+cost, what the other lead gives them) and one for the relationship
+itself — its inside journey and its outside journey, staged hidden →
+admitted inside → shown between them → seen → public, with the
+chapter-by-chapter ladder table. Run
+`python3 studio/tools/romance-build-check.py` on the file and fix
+every FAIL before you deliver; leave every hole as a `[CHECK: …]` in
+the table, never quietly filled. The author approves all three docs
+as one PR before any brief is written (`studio/PIPELINE.md` §3b). An
+outline delivered without them is half an outline.
