@@ -72,6 +72,39 @@ arc docs, gets them approved, and re-briefs from there. Accepted
 chapters are re-cut only where the arc doc says a beat is
 missing.
 
+**The romance gets its own arc doc (author law, 2026-09-05).** The
+author, after ch 8: *"Much like the Michael Hauge concept of a
+character having an internal and external change throughout the
+book, I think we need one for the romance overall to show how early
+on the romance is hidden and just shows some signs of life, but over
+the book it grows and turns external. The pattern in book one made
+more sense."* So the arc gate has three docs, not two: hers, his,
+and the romance's. The romance's arc doc says, in plain sentences:
+1. **The inside journey** — what each lead feels about the other,
+   stage by stage.
+2. **The outside journey** — what the two of them DO together and
+   what the town can SEE, stage by stage.
+3. **The stages by chapter** — hidden, admitted inside, shown
+   between them, seen, public — with the chapter range for each.
+4. **The ladder** — chapter by chapter, the rung on the page, and
+   any hole.
+5. **The build check** — the inside may run ahead of the outside by
+   at most one stage. A want may not be named inside until the
+   reader has watched the two of them enjoy each other on the page
+   at least twice. A kiss waits for help accepted. A public claim
+   waits for a private repair. Before a brief spends a want, a kiss,
+   or a claim, the audit lists the earlier scenes that earn it;
+   fewer than two and the brief is blocked. The romance floor counts
+   beats inside a chapter; this counts steps across the book.
+Book 1.2's is `books/campus-series/book2/plots/romance-arc.md`.
+The template for all three docs is `studio/series-kit/11-arc-docs.md`;
+`studio/tools/romance-build-check.py` reads the ladder table and
+fails the doc when a want, kiss, or claim is not earned, when the
+inside runs more than one stage ahead, or when a stage jumps or goes
+backward. The author (2026-09-05): *"I want this to be another
+instrument we use so eventually we can build these books really
+fast."*
+
 ## 3c. THE SINGLE-CHAPTER CADENCE (author law, 2026-09-03)
 
 > "I've decided I want to do one chapter at a time. Multiple
