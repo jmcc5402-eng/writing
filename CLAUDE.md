@@ -163,6 +163,12 @@ Every agent reads the target book's own canon before working. They serve three
 very different books; none of them should assume an audience the book's docs
 haven't stated.
 
+Every agent that drafts or judges prose also reads `studio/AUTHOR-TASTE.md`
+— the author's standing wants and dislikes, in the author's words — and
+names which entries the work risks. The raw ledger behind it is
+`studio/AUTHOR-NOTES.md`; a PR comment or chat ruling goes there the day it
+is made (`studio/PIPELINE.md`, "The author's notes").
+
 ## Working style
 
 Agile: one small, finished increment at a time. Ship it, learn, pick the next
