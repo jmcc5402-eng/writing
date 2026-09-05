@@ -2,6 +2,59 @@
 
 Manuscript-affecting changes, newest first. (Hard rule 6.)
 
+## 2026-09-05 — ch 8 RE-CUT (at the gate; the first romance-first chapter)
+
+Executes `plots/recut-briefs-ch05-08.md` §CH 8 in its romance-first
+order (the romance move first, six beats planned) as amended at the
+audit (the calendar, Tick's tease, the diagnosis's license). One
+drafter under the campus romance persona (card D3). The protect list
+is byte-identical. Six additions:
+
+- The opening, said (ch08:22–23): "The county wanted to hear him say
+  / that Trey Gault was safe to play on the nineteenth."
+- Boyd sighted at the top of the yard steps, canvas jacket, volume
+  one, doing nothing; Tick's tease on air: "And I'm hearing big news
+  coming out of the Fieldhouse after the first of the year, friends.
+  I'm not told what." (B2-D07's ch 8 placement.)
+- In the rail exchange: the heat off her through two coats, her
+  hands bare on the rail, neither steps back (rung 5 held, new
+  sense); her diagnosis licensed by tonight ("You knew Roberta's
+  phrase… A man who doesn't read that board asks the caller what she
+  means.") then the weather line verbatim; "He did not answer her."
+- Boyd's line on the way out: "I liked the doctor's spirit." … "Spirit
+  is expensive, Coach." Dan says nothing; Boyd goes down the steps
+  she went down.
+- The stakes said whole, in his voice: Trey Gault does not play again
+  until she signs a form saying his brain has healed; the playoff is
+  on the nineteenth; the county wants the form signed by then; she
+  will not sign it until it is true.
+- The board turns that night, on the porch: "She was right about the
+  board. He opened it anyway." Three posts (Tim Brasher, Rhonda
+  Sipes — "Coach stayed in his lane tonight. Thank you Coach." —
+  Kendra Voyles's flinch); "He read to the bottom, like always. / He
+  did not post. / He put the phone in his coat." The two plates last.
+- Riders: "film at six" → "film at five" (ch 7 moved practice); the
+  audit's ledger fixes (edge 2/10; the ch 8 title).
+- Panel (P1): blind count 13 beats of 7 kinds, PASS; five grafts
+  applied (doubled "tonight"; the cold returned to the ending; "It
+  was a finding." cut; one repeat-and-extend cut; "phones" → "group
+  chats"). Lint: 26% dialogue; zero edges; no new budget spends; two
+  standing waivers ("somebody's choice" :149, Dan's interior; "pans"
+  :280, the author's own modernity render).
+
+## 2026-09-05 — ch 2: the self-knowledge lines (rider on the ch 8 PR)
+
+- ch02:372–376, after "He read to the bottom every night.": the five
+  short lines the conflict plan wrote and the arc doc (B2-D05, canon)
+  lists as "proposed lines, on main" — they were never on main. "He
+  knew what it was. / Ten years ago a town had decided what he was,
+  / and the board had known it a week before anyone said it to his
+  face. / So he read the board every night to see it coming. / He
+  knew that was a weakness. He did it anyway." Without them the
+  reader meets the ch 8 diagnosis having watched the habit four times
+  and never heard why (the author's own complaint, 2026-09-03). The
+  ch 8 audit flagged it (finding 14). Ch 2 dialogue 15.5% → 15.2%.
+
 ## 2026-09-05 — ch 7 fold: the four #122 rulings applied
 
 - ch07:95 "C. COLE" → "A. COLE" (ruling 1: a slip); conformed in

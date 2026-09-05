@@ -27,8 +27,9 @@ docs); F## fair-play rows (b12-outline.md table governs).
 
 ## Rations ledger (book-wide budgets, spent-to-date)
 
-- **Edge (10 swears, leads + Mack only):** 1 spent — "Goddamn,"
-  Dan, ch 4, the empty lot. 9 remain.
+- **Edge (10 swears, leads + Mack only):** 2 spent — "Goddamn,"
+  Dan, ch 4, the empty lot; "Hell of a scouting report," Dan, ch 8
+  (SR-B2-12). 8 remain. (Ledger corrected 2026-09-05.)
 - **Anchor lines:** ch 1 Earlene · ch 2 Tick · ch 3 Verna ·
   ch 4 Peanut · ch 5 Sonny ("Brains aren't a part you can order
   twice") · ch 6 Delores, on the porch (first playoff in this
@@ -66,7 +67,10 @@ docs); F## fair-play rows (b12-outline.md table governs).
   exchange, dry, about the date; then the pass-behind as the porch
   empties — he gets her hair, keeps his hands on the rail, does not
   turn around) · **ch 7 rung 4** (the memo over the diploma box, held
-  a second longer than the handing took) · ch 8: hold at 5 ·
+  a second longer than the handing took) · **ch 8 rung 5 held, new
+  sense** (the heat off her through two coats at the rail; her hands
+  bare) · "Neither of them stepped back" now SPENT TWICE (ch 5, ch 8)
+  — not at ch 13's climb ·
   ch 13 near-miss · ch 15 the kiss (kiss chart ceiling). Mark
   today: **5** (ch 6 played at 3; the high-water mark holds).
 - **"Somebody's ___" (narration, once per BOOK — B2-D06):** SPENT
@@ -205,7 +209,7 @@ is ch 8's and ch 24's. Ends held-quiet: the sleeves hold the roll.
 Hands forward: February eleventh is her clock now; the meeting room
 is held; the check is at 5:15; Dan said he would ask around.
 
-### Ch 8 — The Rail (ACCEPTED #107; RE-CUT PENDING)
+### Ch 8 — Coach's Table (ACCEPTED #107; RE-CUT at the gate — PR pending)
 *Ledger entry opened at the ch 6 fold (2026-09-04), same repair.*
 Carries: Boyd and Tick's "big news" (dropped back here from ch 6 per
 the author's note); Odell's anchor; the Coach's Table debut. His want

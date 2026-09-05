@@ -408,6 +408,190 @@ healed anybody." The cooler/cans register. Tick's beer.
 board, pocketed. But now the reader knows what he read and did not
 answer.
 
+### CH 8 — ROMANCE-FIRST BRIEF (2026-09-05; reorders §CH 8, changes nothing in it)
+
+**Written under Romance first (STYLE.md; STANDARDS 26) — the first
+brief in this book to open with the romance move. The §CH 8 argument,
+reversal, arc beat, protect list and the standing addenda all still
+bind; this section puts them in the order the drafter reads them.**
+
+**THE ROMANCE MOVE.** She tells him what is wrong with him, standing
+a plate's width away in the cold, and he agrees with her for the
+first time since June — and then she leaves and the town turns on
+her while he reads it and does nothing. The chapter brings them
+closer than they have been (rung 5 held, a new sense) and shows the
+reader, in the same hour, exactly what his help is still worth.
+
+**THE OPENING, SAID.** The first paragraph says what tonight is and
+what the county wants out of it: Coach's Table is live from Delmar's
+porch for the first December in its history, and the county has one
+word it wants from him tonight — that its quarterback is safe to
+play on the nineteenth. (The page currently says the first half and
+holds the second until line 60; add one sentence to the first
+paragraph so a listener has both before the first caller.)
+
+**ROMANCE BEATS (planned; at least three, two kinds, first and last
+third — the panel's blind count stands).** Existing, protected:
+1. Kind 1 (proximity, first third): "He heard her arrive before he
+   saw her" — the seam in the crowd, her laugh under the smoker.
+2. Kind 5 (between them, last third): the rail exchange as folded —
+   "You hedged." / "I did." … "a large check to write on a porch."
+3. Kind 3 (wanting, last third): "He wanted her… Aisha Cole, who
+   would stand up alone on a cold porch."
+4. Kind 4 (the other in absence, last third): the two paper plates,
+   one bite gone from each.
+Added by this re-cut:
+5. Kind 1, new sense (last third, in the exchange): she stops a
+   plate's width short of him and stays there through the
+   diagnosis, and in the cold he can feel the heat off her through
+   two coats; neither steps back. Rung 5 held — no new rung; ch 13
+   is the next climb.
+6. Kind 8 (the private admission, last third): what he would never
+   say to her about the diagnosis — that she is right and that he
+   will open the board anyway tonight. One clause, in his head, not
+   announced.
+
+**THE ARGUMENT, SAID** — unchanged from §CH 8: a caller asks for the
+one word, he hedges, she takes the microphone and says the protocol
+is medicine and keeps no calendar, she wins the porch, the board
+turns on her that night, and he reads every word and posts nothing.
+
+**REVERSAL** — unchanged: she loses the town; he loses his nerve in
+the one hour it was worth something; Boyd prices what he saw.
+
+**ARC BEAT (Dan)** — unchanged: the weakness named to his face by
+the one person qualified to name it — *"You read that board like
+it's a chart. It isn't. It's the weather. You can't treat weather,
+Coach, and you can't win it either."* — and he does not answer.
+
+**WHAT TO ADD, in page order.**
+A. One sentence at the end of the first paragraph (THE OPENING,
+   SAID) — the county's one word, tonight, named plainly.
+B. Boyd on the porch during the broadcast: Rex Boyd, seen once, doing
+   nothing, audibly — at most three lines, before the fourth caller.
+   He does not speak on air. And Tick's tease, on air, in the station
+   break: "big news coming out of the Fieldhouse after the first of
+   the year, and I'm not told what" — no noun, no number, no
+   "pledge," no "performance center" (B2-D07 put it here; ch 10
+   plants the thing itself). Boyd is on the porch as Tick says it.
+C. In the rail exchange, after "that is a large check to write on a
+   porch." and before she takes the plate: her diagnosis, LICENSED BY
+   TONIGHT — one clause from her first: he knew Roberta's phrase
+   before she finished saying it and told the county he didn't; a
+   man who doesn't read the board asks the caller what she means.
+   Then the weather line verbatim, clinical and not cruel: "You read
+   that board like it's a chart. It isn't. It's the weather. You
+   can't treat weather, Coach, and you can't win it either." She may
+   not claim to have seen him read (no such scene exists) and nobody
+   told her offstage. The proximity beat (heat through two coats,
+   neither steps back; the two coats stay unnamed — nothing in his
+   head about whose spare she wears); her hands bare on the rail in
+   the cold (the noticing beat, kind 2); he does not answer; she
+   takes the rib as written. Aisha named once in narration inside
+   the exchange (say-it item 6). No fourth "since June."
+D. Boyd's one line to Dan on his way out, after she has gone down
+   the steps and before Odell: that he liked the doctor's spirit, and
+   that spirit is expensive. Nothing else; never raised; never
+   punished. Dan does not reply, or replies with nothing.
+E. THE STAKES, SAID WHOLE, beside his want — inside or right after
+   "He would have to go and get it, call by call": Trey Gault does
+   not play again until she signs a form saying his brain has healed;
+   the playoff is on the nineteenth; the county wants the form
+   signed by then; she will not sign it until it is true. Four plain
+   sentences or one, in his voice. (Not "three weeks" — under every
+   reading of the calendar it is wrong; the page owns the date.)
+F. The board turns, that night, on the porch: replace "By nine
+   tomorrow the board would have her forty seconds / word for word,
+   / and he would read all of it to the bottom, like always." with
+   the read itself — he opens the board at the rail; two or three
+   posts, rendered as posts (registry names: Kendra Voyles, Tim
+   Brasher, Rhonda Sipes; realism rulebook: performative concern
+   with an edge, one post about her personally rather than her
+   decision — "who does she think she is" register — and the board
+   flinching at its own jump in the next post); the vicious version
+   stays off the main board; he reads to the bottom, like always;
+   **he does not post — say it plainly**; the phone goes in his
+   pocket. Then the kitchen light, the porch bulb, the two plates —
+   the ending image unchanged and last.
+
+**TASTE** (studio/AUTHOR-TASTE.md): this chapter most risks entry 1
+(say the actual thing — the stakes have never been said whole; the
+board posts must be decodable by ear), entry 2 (the loss must land:
+her losing the town is posts on a screen, so the flinch and his
+silence carry it), and entry 12 (the fight shown — the diagnosis is
+a fight she wins standing still).
+
+**END REGISTER: DOWN.** Opens with her winning a porch; ends with the
+board turned on her, his phone pocketed with nothing posted, and two
+plates.
+
+**BUDGETS already spent in ch 8 — add zero:** "since June" ×3 (over
+cap; add none); the one swear (the edge ledger, "Hell of a scouting
+report"); "never" plain in Odell's anchor (no "never once" anywhere);
+personification (over quota); the double-dash sentence; "somebody's
+choice" at :139 is Dan's interior, not the chorus construction —
+leave it, add no other. Beverage register: Tick's beer, cans; no
+coffee. "7" from the rail; "Trey" in his private register and hers.
+
+**PROTECT** — unchanged from §CH 8, plus: the opening two lines as
+written (the added sentence follows them); the four callers; "He
+heard every kitchen in Doss County hear him say nothing"; "the six
+feet of rail around the doctor / got emptier without one person
+moving"; the paper plate on the rail; the courtroom-quiet passage.
+
+### CH 8 — AUDIT ADDENDUM (re-issued CLEAR, 2026-09-05)
+
+The audit (continuity-keeper, E5; `notes/recut-ch08-brief-audit-2026-09-05.md`)
+BLOCKED on three lines, amended above in place: "three weeks" →
+"on the nineteenth"; Tick's "big news" tease added to B; the
+diagnosis licensed by tonight's fourth caller in C. Defaults where
+canon is silent (strikeable on the PR):
+
+1. **The private admission folds into F**, one clause as he opens the
+   board (she was right, and he opened it anyway); no second
+   paragraph; no "What he would never have said… was" scaffold (ch 6
+   and ch 7 both used it — a third is the tic).
+2. **The board posts:** three, real names, no handles (1.2 has no
+   bad-faith account yet), no timestamps, in-scene form (bold name,
+   no colon). (1) Tim Brasher — concern with an edge, "it can live
+   there" thrown back, "not about my son." (2) Rhonda Sipes — the
+   personal one: who does she think she is, new in the county,
+   talking down to families on the radio; "the doctor" or "Dr.
+   Cole," never "Aisha," never "six months." (3) Kendra Voyles or
+   DeeAnn Prewitt — the flinch, one mild line ("we're all adults";
+   "take the rest to your phones"). Denny absent tonight. No medical
+   allegation, no motive, no love life — the content jump is ch 23's;
+   this is a jump of tone. Optional, and the knife: one clause of the
+   board approving HIM ("Coach stayed in his lane").
+3. **Boyd:** at the top of the yard steps in the canvas jacket, volume
+   one, smiling; Dan knows him by sight and the rendering; "Coach";
+   the two clauses and nothing else — no program, pledge, building,
+   annex, number, date, or the boy; Dan says nothing; Boyd goes down
+   the steps she went down; out of earshot of the rail exchange. Dan
+   may not connect Boyd to the annex memo (that is ch 10's).
+4. **The opening sentence (A)** names the word, the boy and the date
+   plainly and does not use the phrase "one word" (the granddad and
+   :79 already carry it).
+5. **The stakes sentence** says "the playoff is on the nineteenth."
+   The hit's date and the count from the porch to the game are OPEN
+   (audit A1) and route to the wave-3 directive.
+6. **Budgets, corrected:** the double-dash budget is NOT spent (zero
+   on the page) — prefer none anyway; personification is over quota
+   (six) — add none; "somebody's choice" at :139 stays and is waived
+   on the PR; "since June" ×3 — add none; "never once" — none.
+7. **The ending:** replace ch08:368–370 ("By nine tomorrow…") with the
+   read; the phone goes in his pocket in plain new words (the ch 4
+   "unread, pocketed" wording is spent); the two plates stay last.
+8. **The sub-couple on the porch:** not in this pass (the author's go
+   was never recorded); it waits for the wave-3 directive.
+9. **Riders on this PR (mechanical, strikeable):** ch08:108–109 "film
+   at six" → "film at five" (the ch 7 schedule moved practice to
+   five); THREADS edge ledger to 2 spent / 8 remain; THREADS ch 8
+   title to "Coach's Table"; the header flip; and the ch 2
+   self-knowledge lines from the conflict plan, which the arc doc
+   says are "on main" and are not — three lines after "He read to
+   the bottom every night," as the plan wrote them.
+
 ## STANDING ADDENDA FOR CH 6–8 (the author's go, 2026-09-03 — B2-D06)
 
 These bind the ch 6, 7 and 8 re-cuts alongside their briefs above.
