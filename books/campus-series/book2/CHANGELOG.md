@@ -510,3 +510,4 @@ vanilla, Coach. There's nothing on it." Nothing else moved.
 - No object moved; no new canon; no new personification, which,
   clock, or calendar word. Lint: 30.8% dialogue, no lines over 80,
   no dangling edges, one two-dash sentence (pre-existing).
+- **Panel: PASS, no fixes.** "Protect the bad-room lines verbatim; it is the chapter's screenshot beat and the only laugh in the chapter. It is a hospital. is the brake that keeps the add at Stage 1."
