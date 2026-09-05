@@ -202,3 +202,44 @@ Recorded the same day in: STYLE.md (law), DRAFTING-PROTOCOL.md (the
 brief lines), RECENT.md (bans), THREADS.md (the ladder + the
 once-per-book ledger), recut-briefs-ch05-08.md (standing addenda for
 ch 6–8), STATE.md (wave-3 directive must carry).
+
+---
+
+## B2-D07 — the ch 6 re-cut, accepted on a bare merge (#118, 2026-09-04)
+
+The author merged #118 with no comment. Under the standing model a
+bare merge accepts every default in the PR body, so all four
+strikeable rulings STAND and are now canon:
+
+- **SR-B2-17** — the December letter asks for a *review*, not for the
+  walk-on to be kept, and it never names him. Dan names him. The
+  letter is never rendered as a document; Denny paraphrases it aloud.
+- **SR-B2-18** — the walk-on is **"Marisol Pruett's boy"** and has no
+  other name on the page. Giving him a first name is an author call
+  and goes to the bible with year and position.
+- **SR-B2-19** — the front-row grandmother is **Earlene Tatum**.
+  "Delores Kyzer" was a fold coinage that put two Deloreses on one
+  porch and is struck.
+- **SR-B2-20** — the plate carried to the Gaults' house is kindness,
+  not a settlement.
+
+Also standing: Boyd and Tick's "big news" belongs to **ch 8**, not
+ch 6. The three optional trims offered on the PR were not requested
+and the prose stands as written.
+
+**The fold's one substantive correction — two letters, not one.**
+F8/RH2 is cleared at ch 28 by "Denny's refusal to sign the letter,"
+and this re-cut makes Denny the author of a letter. Those are two
+different objects and the record now says so: the DECEMBER letter is
+Denny's honest draft, refused by Dan on the porch; the JANUARY letter
+is the same campaign rewritten by other hands, and *that* is the one
+Denny won't sign, which is what clears him. The two sentences must
+never match — the non-match is the tell. Full table in
+`THREADS.md`, "New canon recorded at the ch 6 re-cut fold."
+
+**A ledger error found and corrected at the same fold.** The rations
+ledger recorded the "never once" count as ZERO with one spend dealt
+to Odell's ch 8 anchor. There are **two on accepted pages** already
+(ch05:330, ch06:22) against a book-wide cap of one. The cap is blown,
+so the ch 8 deal is off: Odell's anchor takes the plain "never"
+render, and the ch 7 and ch 8 briefs ban the construction outright.
