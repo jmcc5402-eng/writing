@@ -2,6 +2,19 @@
 
 Manuscript-affecting changes, newest first. (Hard rule 6.)
 
+## 2026-09-05 — ch 2: the self-knowledge lines (rider on the ch 8 PR)
+
+- ch02:372–376, after "He read to the bottom every night.": the five
+  short lines the conflict plan wrote and the arc doc (B2-D05, canon)
+  lists as "proposed lines, on main" — they were never on main. "He
+  knew what it was. / Ten years ago a town had decided what he was,
+  / and the board had known it a week before anyone said it to his
+  face. / So he read the board every night to see it coming. / He
+  knew that was a weakness. He did it anyway." Without them the
+  reader meets the ch 8 diagnosis having watched the habit four times
+  and never heard why (the author's own complaint, 2026-09-03). The
+  ch 8 audit flagged it (finding 14). Ch 2 dialogue 15.5% → 15.2%.
+
 ## 2026-09-05 — ch 7 fold: the four #122 rulings applied
 
 - ch07:95 "C. COLE" → "A. COLE" (ruling 1: a slip); conformed in
