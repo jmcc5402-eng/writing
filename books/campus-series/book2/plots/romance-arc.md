@@ -58,18 +58,64 @@ crossing (19) → the sleeve (21) → the smile withheld twenty-two
 chapters (22) → the public claim (25) → the pen (28) → the square
 (29). Twelve rungs before the public claim, every one an action.
 
-Book 1.2 as it stands on the page:
+Book 1.2, chapter by chapter, AS PROPOSED (the two adds below are in
+it, marked TO ADD; chapters 9–30 are from the outline and the stage
+table). **In** and **Out** are the inside and outside stage the
+chapter reaches. **Spends** marks the three moves that must be
+earned. **Earned by** lists the earlier scenes the reader can point
+to. This table is what `studio/tools/romance-build-check.py` reads.
 
-| Ch | Rung on the page | Stage | Hole |
-|---|---|---|---|
-| 1 | She watches him handle a crowd; his size on the flatbed | 1 | — |
-| 2 | The Friday check: she reads a sheet at him; one dry exchange | 1 | **The fight is told, not shown.** "You say that every Friday, Doc" is one line. This is where the reader must watch them go a full round and both enjoy it. |
-| 3 | The tent: "What do you need?" — he hands her the call whole | 1 | — |
-| 4 | The lounge: "You're looming"; the cup; "Good win" | 1→2 | Thin but real. One more beat of them liking it would carry more. |
-| 5 | The whiteboard: neither steps back; her want named | 2 | Her want lands because the whiteboard scene is right before it. **Passes.** |
-| 6 | The rail: "I'm not on Millrow, Coach"; her hair as she passes | 2 | — |
-| 7 | The memo over the box; "let me ask around" | 2 | — |
-| 8 | The rail: "You hedged"; the heat; the weather line; his want named | 2 | **His want does not land** because ch 2 never showed the fight and ch 4's warmth is one beat. The only scene in his POV where they enjoy each other is the lounge. Fix ch 2, and ch 8 earns it. |
+| Ch | In | Out | Rung on the page | Spends | Earned by | Hole |
+|---|---|---|---|---|---|---|
+| 1 | 1 | 1 | She watches him handle a crowd; his size on the flatbed | — | — | — |
+| 2 | 1 | 1 | The Friday check as a fight, two pages, both enjoying it (TO ADD) | — | — | — |
+| 3 | 1 | 1 | The tent: "What do you need?" — he hands her the call whole | — | — | — |
+| 4 | 1 | 1 | The lounge: "You're looming"; the cup; one more exchange (TO ADD) | — | — | — |
+| 5 | 2 | 2 | The whiteboard: neither steps back; her want named | want | 2, 3, 4 | — |
+| 6 | 2 | 2 | The rail: "I'm not on Millrow, Coach"; her hair as she passes | — | — | — |
+| 7 | 2 | 2 | The memo over the box; "let me ask around" | — | — | — |
+| 8 | 2 | 2 | The rail: "You hedged"; he nearly laughs; the heat; his want named | want | 2, 4 | — |
+| 9 | 2 | 2 | Apart: the Cordelia letter; he is in her head as a person | — | — | — |
+| 10 | 2 | 2 | Apart: the staged clash (B2-D06.7); the town half-pairs them | — | — | — |
+| 11 | 3 | 2 | She says the want out loud, to women | — | — | — |
+| 12 | 3 | 2 | The board guesses; the second staged clash | — | — | — |
+| 13 | 3 | 3 | The film room: he asks instead of arguing; heads over the scans | — | — | — |
+| 14 | 3 | 3 | Boxes: he shows up with a truck and tells her the truth of the decade | — | — | — |
+| 15 | 3 | 3 | The annex kiss and the terms | kiss | 13, 14 | — |
+| 16 | 4 | 4 | Couple beats begin, rationed | — | — | — |
+| 17 | 4 | 4 | The one lit room | — | — | — |
+| 18 | 4 | 4 | (planned) | — | — | — |
+| 19 | 4 | 4 | The packing in public; she lets him carry | — | — | — |
+| 20 | 4 | 4 | The supper table | — | — | — |
+| 21 | 4 | 4 | A photo exists | — | — | — |
+| 22 | 4 | 4 | He defends the hold on air, everything but her name | — | — | — |
+| 23 | 5 | 5 | Their own image weaponized | — | — | — |
+| 24 | 5 | 5 | His silence | — | — | — |
+| 25 | 5 | 5 | Her packing | — | — | — |
+| 26 | 5 | 5 | The standoff: each offers the other the exit | — | — | [CHECK: is the standoff the private repair the ch 27 claim needs, or does ch 26 owe one?] |
+| 27 | 5 | 5 | The hearing: his name spent in public | claim | 22, 26 | — |
+| 28 | 5 | 5 | Missy Gault stands up; the town shows up | — | — | — |
+| 29 | 5 | 5 | The car: she unpacks and lets him carry half | — | — | — |
+| 30 | 5 | 5 | Two parkas on one hook | — | — | — |
+
+**Run the check.** As the page stands today (ch 2's fight told, not
+shown; ch 4 thin), the check fails at ch 8 for the same reason the
+author did: his want is earned by one scene on the page and it needs
+two. With the two adds, it passes. Ch 26 carries a `[CHECK]`: the
+claim at 27 needs a private repair before it, and the outline's
+standoff may or may not be one. That is the wave-6 directive's first
+question, not this PR's.
+
+The holes, in words:
+- **Ch 2 — the fight is told, not shown.** "You say that every
+  Friday, Doc" is one line. This is where the reader must watch them
+  go a full round and both enjoy it.
+- **Ch 4 — thin but real.** One more beat of them liking it would
+  carry more.
+- **Ch 8 — his want does not land** because ch 2 never showed the
+  fight and ch 4's warmth is one beat. Fix ch 2, and ch 8 earns it.
+- **Ch 5 passes.** Her want lands because the whiteboard scene is
+  right before it.
 
 **The two adds this arc requires, both in accepted chapters:**
 1. **Ch 2, the Friday check, becomes the fight the book keeps
