@@ -97,6 +97,13 @@ and the romance's. The romance's arc doc says, in plain sentences:
    fewer than two and the brief is blocked. The romance floor counts
    beats inside a chapter; this counts steps across the book.
 Book 1.2's is `books/campus-series/book2/plots/romance-arc.md`.
+The template for all three docs is `studio/series-kit/11-arc-docs.md`;
+`studio/tools/romance-build-check.py` reads the ladder table and
+fails the doc when a want, kiss, or claim is not earned, when the
+inside runs more than one stage ahead, or when a stage jumps or goes
+backward. The author (2026-09-05): *"I want this to be another
+instrument we use so eventually we can build these books really
+fast."*
 
 ## 3c. THE SINGLE-CHAPTER CADENCE (author law, 2026-09-03)
 
