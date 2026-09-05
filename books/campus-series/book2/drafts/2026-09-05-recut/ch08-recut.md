@@ -1,9 +1,11 @@
 # Chapter 8 — Coach's Table
 
 POV: Dan, third person limited, past tense.
-(Staged from wave-2 winner per plots/wave2-staging-order.md,
-2026-08-30 — grafts and fixes as ordered; PROPOSED, not accepted
-until the wave PR merges.)
+(Accepted #107, folded #115. Re-cut 2026-09-05 per
+plots/recut-briefs-ch05-08.md §CH 8, the first romance-first brief —
+the opening said, Boyd and Tick's tease, the diagnosis, the stakes,
+the board turning that night; PROPOSED, not accepted until the
+re-cut PR merges.)
 
 ---
 
@@ -19,7 +21,7 @@ one hour on WDSS, 1340 anywhere in the county you stood,
 and in all its years on the air the season had always quit
 before December could get at it.
 Tonight the show wore coats.
-The county wanted to hear him say, tonight,
+The county wanted to hear him say
 that Trey Gault was safe to play on the nineteenth.
 
 Ray had the smoker drafting sweet at the yard end,
@@ -309,9 +311,7 @@ the flat clinical one she used on a man saying he felt fine.
 
 "Coach," she said, "that is a large check to write on a porch."
 
-She had not moved off.
-The cold came up through the boards and in off the yard,
-and she stood in it at his shoulder,
+She stood in the cold at his shoulder,
 close enough that the heat off her came through two coats.
 Her hands were on the rail, bare in the cold.
 Neither of them stepped back.
@@ -321,7 +321,7 @@ Neither of them stepped back.
 A man who doesn't read that board
 asks the caller what she means.
 You told the county you couldn't say where it came from."
-She was not angry. It was a finding.
+She was not angry.
 "You read that board like it's a chart.
 It isn't. It's the weather.
 You can't treat weather, Coach,
@@ -340,7 +340,7 @@ so that hers would not be sitting up there by itself.
 Rex Boyd came along the rail on his way out.
 He stopped beside Dan.
 "I liked the doctor's spirit," he said.
-He said it quiet. He said everything quiet.
+He said everything quiet.
 "Spirit is expensive, Coach."
 Dan said nothing.
 Boyd went down the steps she had gone down.
@@ -432,7 +432,7 @@ and under it the board had turned on her.
 >
 > **Kendra Voyles** We are all adults here. She answered
 > the question she was asked. Take the rest of it to your
-> phones.
+> group chats.
 
 He read to the bottom, like always.
 He did not post.
