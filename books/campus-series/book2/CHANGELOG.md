@@ -476,3 +476,11 @@ Only the section between the first and second `***` changed.
   found the ledger had skipped it).
 - Lint: dialogue 15.1% → 17.3%; no lines over 80; no dangling edges;
   the chapter's one two-dash sentence stands; hits are pre-existing.
+- **Panel (PASS WITH FIXES), applied:** the far-wall paragraph cut to
+  Dan's own senses ("He was looking this way anyway."); the POV
+  step-out "From there he could see the coach's mouth close" removed;
+  "Aisha Cole" moved to her entrance ("Dr. Aisha Cole came onto the
+  turf"), her hands line now "Her hands…". Left for the author's ear:
+  ch 2:140–142 ("this hour was his favorite of the week", the
+  walkthrough) beside the check as "the one half hour in his week"
+  where the no holds — two different pleasures, both accepted text.
