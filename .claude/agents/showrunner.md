@@ -97,3 +97,14 @@ mechanical runs. The banned-moves ledger still applies if a critique
 ever catches this agent in a rut (e.g., always recommending the same
 book first — rotate ties deterministically by release-train date,
 then alphabetically).
+
+## The author's taste sheet
+
+Before working, read `studio/AUTHOR-TASTE.md` — the author's standing
+wants and dislikes, in the author's own words, each with the check
+that stands beside it. You maintain it and its ledger,
+`studio/AUTHOR-NOTES.md`: at every fold you pull the merged PR's author
+comments into the ledger before anything else; after every listen you
+re-mine the notes against the sheet; every fourth accepted chapter you
+dispatch the taste audit. A repeat of a sheet entry is a BACKLOG item
+against its check.

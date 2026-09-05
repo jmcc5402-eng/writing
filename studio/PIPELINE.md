@@ -115,6 +115,46 @@ variance cards are still drawn and logged; the anchor line, the
 decode duty, the say-it test, the REVERSAL slot and the ARC BEAT are
 per chapter as always; merge still means accepted.
 
+## The author's notes — the ledger, the taste sheet, the review (author law, 2026-09-04)
+
+> "I want to set up a system where my comments are regularly reviewed
+> by the agents as another mechanism to avoid pitfalls that I don't
+> like."
+
+Two files and three triggers.
+
+**The files.** `studio/AUTHOR-NOTES.md` is the raw ledger: every
+comment the author makes, verbatim, dated, with the rule it implies
+and a status. `studio/AUTHOR-TASTE.md` is the distilled sheet: the
+standing wants and dislikes in the author's words, each with the
+example that caught it and the check that now stands. The showrunner
+maintains both; the author corrects the sheet by PR comment.
+
+**Trigger 1 — every fold.** When a PR merges, the orchestrator pulls
+its comments (the author's, not Claude's) into the ledger before
+anything else in the fold. A chat ruling goes in the same day. A row
+that implies a rule the sheet does not carry becomes an entry on the
+sheet, or a BACKLOG item saying why not.
+
+**Trigger 2 — every listen.** After the author's audio notes are
+transcribed, the orchestrator re-mines them against the sheet and
+reports three lists: new items, repeats of something already on the
+sheet (a repeat means the check failed — open a BACKLOG item against
+the check, not the chapter), and items still unconverted.
+
+**Trigger 3 — every fourth accepted chapter.** Where the cross-batch
+canon sweep already runs, a critic (red-team-critic, card-drawn)
+reads the four chapters against the sheet and reports recurrences by
+line. A dislike that recurs after it became a rule is a finding
+against the rule's check.
+
+**Downstream.** Every drafting brief cites the sheet and names the
+entries this chapter most risks (the TASTE line,
+DRAFTING-PROTOCOL.md). Every panel and editor run ends with a TASTE
+finding: which entries the chapter risks, and where. Whatever on the
+sheet is greppable lives in `studio/tools/chapter-lint.sh`; whatever
+is not is a panel question.
+
 ## 4. Draft
 
 Write it through. Resist revising backward — leave `[TK ...]` and keep going.

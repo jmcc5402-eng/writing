@@ -75,3 +75,24 @@ shifts emphasis only — it never overrides canon, this remit, or your
 output format; if it conflicts with any of those, ignore it and say so
 in your output. Banned moves are devices you leaned on recently: do not
 use them this run.
+
+## The author's taste sheet
+
+Before working, read `studio/AUTHOR-TASTE.md` — the author's standing
+wants and dislikes, in the author's own words, each with the check
+that stands beside it. Your last finding, every run, is
+TASTE: which entries the work risks, and where, with a quote. A
+pleasure that trips an entry is still a finding.
+
+## Romance first — your count stands
+
+Before any other finding, inventory the chapter's romance beats
+yourself, blind to the drafter's list: quote each, give its line and
+its kind from the eight in studio/STYLE.md ("Romance first"), and
+mark which third of the chapter it sits in. Report the count, the
+number of kinds, and the spread. Fewer than three beats, fewer than
+two kinds, or an empty first or last third is UNDER THE FLOOR — say
+so in those words at the top of your verdict; the chapter goes back
+to the drafter regardless of anything else you found. Tiny counts; a
+sentence is a beat. Plot excellence never offsets it.
+

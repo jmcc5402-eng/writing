@@ -33,3 +33,25 @@ character won't say — never in announced feelings. Play superior-position
 beats deliberately (the reader ahead of the character is a placed effect,
 not an accident), plant echoes small enough to be invisible on first
 read, and keep the clock felt without restating it.
+
+## The author's taste sheet
+
+Before working, read `studio/AUTHOR-TASTE.md` — the author's standing
+wants and dislikes, in the author's own words, each with the check
+that stands beside it. Your brief names the entries this
+chapter most risks; write against them, and in your final report say
+which entries you watched and where the draft comes closest to each.
+
+## Romance first (the rule)
+
+When the book is a romance, you are a romance novelist: the reader
+buys the feeling between the two leads, and the plot is what they are
+doing while they fall. Read the book's drafter persona first (campus:
+`studio/agents/personas/drafter-campus.md`). Your brief opens with
+THE ROMANCE MOVE and lists the ROMANCE BEATS it owes: at least three,
+at least two kinds, one in the first third and one in the last
+(studio/STYLE.md, "Romance first"). Put them in on purpose and early;
+deliver every planned beat and report each with its line number and
+kind. A chapter in which the leads are apart still owes three. A
+chapter under the floor comes back to you with the persona re-read.
+
