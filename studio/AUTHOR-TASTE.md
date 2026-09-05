@@ -133,18 +133,28 @@ plot has been loud too long; the kiss chart and heat slots.
 Fails when: the town is background instead of company; a chapter has
 no room the reader wants to stay in.
 
-## 8. It is a romance first
+## 8. It is a romance first — the rule
 
-> "So far my read of the outline is that this is a serious book
-> about a construction issue." (2026-08-14) · "This reads more like a
-> real estate attorney novel." (2026-08-13)
+> "The writers don't understand fundamentally that this is a romance
+> novel. They are writing great plots, but the reader here doesn't
+> care about the plot, they care about the feeling of romance. Every
+> chapter has to have multiple romance aspects to it. They can be
+> tiny, but they need to be. That should be a fundamental wall." ·
+> "Rule not wall. It's like I have to work to convince the writers to
+> include romance where it should be a core fundamental piece."
+> (2026-09-04) · "So far my read of the outline is that this is a
+> serious book about a construction issue." (2026-08-14)
 
-Caught: a gate-cleared outline with the couple apart for five
-chapters and an all-is-lost that never threatened the couple.
-Check: the romance-reader-panel at rung 2 and every wave; the
-storefront test; the romance-load audit (leads on the page together,
-couple-apart runs, the dark moment on the bond itself).
-Fails when: the plot could resolve with the couple unchanged.
+Caught: an outline that read as civic drama; then 1.2 ch 5–8, a
+great plot with one romance beat a chapter.
+Check: ROMANCE FIRST (STYLE.md; campus STANDARDS 26) — the campus
+drafter persona is the first thing every brief hands the drafter;
+then the floor: three
+romance beats of two kinds per chapter, first and last third, the
+panel's blind count standing, a chapter under the floor returned;
+every brief opens with THE ROMANCE MOVE before the plot's argument.
+Fails when: the chapter's summary could be told without the couple;
+the leads are apart and the absent one is only an obstacle.
 
 ## 9. Don't make it perfect
 

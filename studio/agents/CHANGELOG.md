@@ -3,6 +3,30 @@
 Newest first. Every entry: version, what changed, and the evidence that
 drove it.
 
+## 2026-09-04 — Romance first: drafting-assistant 1.5.0, romance-reader-panel 1.2.0, and the campus drafter persona
+
+Author, 2026-09-04: "I think the writers don't understand
+fundamentally that this is a romance novel. They are writing great
+plots… the reader here doesn't care about the plot, they care about
+the feeling of romance… every chapter has to have multiple romance
+aspects to it. They can be tiny, but they need to be. That should be
+a fundamental wall." Then, shown the wall: "Rule not wall. It's like
+I have to work to convince the writers to include romance where it
+should be a core fundamental piece." The finding that answers that:
+the campus drafter had no persona — Spytwins, MYBYB and Young
+Nicholas each had one; the romance did not — so nothing ever told
+the drafter what book it was writing. `personas/drafter-campus.md`
+is new and is the first thing every campus brief hands the drafter.
+Evidence for the count: 1.2 ch 5–8 as first shipped carried
+one romance beat a chapter against a full plot; every instrument
+added this week (reversal, arc beat, stakes, the ladder) counts plot
+mechanics or one proximity beat. The rule (studio/STYLE.md; campus
+STANDARDS 26) requires three beats of two kinds per chapter, first
+and last third. The drafter's brief now opens with THE ROMANCE MOVE
+and the drafter reports each beat by line; the panel inventories the
+beats blind and its count stands — a chapter under the floor goes
+back to the drafter before any other finding is weighed.
+
 ## 2026-09-04 — the author's taste sheet wired into five agents
 
 drafting-assistant 1.4.0 · developmental-editor 1.4.0 ·

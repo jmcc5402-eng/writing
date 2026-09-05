@@ -25,13 +25,13 @@ Rules of the project:
 | Agent | Ver | Model / effort | Remit (one line) |
 |---|---|---|---|
 | `plot-architect` | 1.4.0 | inherit / high | Premise → chapter-by-chapter outline (Snowflake + Hauge timing + location roster) |
-| `drafting-assistant` | 1.4.0 | inherit | Approved outline → first-draft prose in the author's voice |
+| `drafting-assistant` | 1.5.0 | inherit | Approved outline → first-draft prose in the author's voice |
 | `developmental-editor` | 1.4.0 | inherit / high | Story-level critique; non-fiction mode = the argument is the plot |
 | `line-copy-editor` | 1.3.0 | inherit | Sentence-level; mechanical fixes applied, style proposed |
 | `continuity-keeper` | 1.3.0 | inherit | Facts vs canon + scene staging; classifies contradiction / unestablished / deliberate |
 | `kid-reader-panel` | 1.1.0 | inherit | Simulated 8–12 reader reactions |
 | `red-team-critic` | 1.2.0 | inherit / high | Adversarial read before anything goes out |
-| `romance-reader-panel` | 1.1.0 | inherit / high | Simulated 35–45 romance reader: engagement, skim, swoon, DNF |
+| `romance-reader-panel` | 1.2.0 | inherit / high | Simulated 35–45 romance reader: engagement, skim, swoon, DNF |
 | `superfan-reviewer` | 1.0.0 | inherit / high | The retail review section, predicted: star math, pet peeves, promise-keeping; the anti-professional-critic |
 | `culture-researcher` | 1.1.0 | inherit | Setting/culture research + fact-check, web access |
 | `market-pitch-agent` | 1.1.0 | inherit | Comps, queries, synopses, publishing strategy |
@@ -53,6 +53,7 @@ Not standalone agents — they ride on top of one.
 | `drafter-spytwins` | drafting-assistant | Book 1 ch1–4 rewrite, 2026-07-26 |
 | `drafter-mybyb` | drafting-assistant | Part I ch1–4 draft, 2026-07-26 |
 | `drafter-youngnick` | drafting-assistant | ch1–4 draft, 2026-07-26 |
+| `drafter-campus` | drafting-assistant | new 2026-09-04 (the romance drafter; first use = 1.2 ch 8 re-cut) |
 | `analyst-briefs` | (workflow analysts) | 9 analyst reports, 2026-07-26 |
 
 ## Deprecated / retired
