@@ -31,11 +31,15 @@ only WITH the two approved adds, so they come before anything else:
    accepted otherwise.
 2. **Ch 4 — one more exchange in the lounge** (NEXT, its own PR).
 
-**Then:** the wave-3 directive (ch 9–12), written to stage 3 (inside
-3 at ch 11, outside 3 at ch 13); first questions: the hit's date
-(audit A1 from ch 8) and the sub-couple sighting. The build check
-runs before the ch 11 brief. Ch 26's `[CHECK]` (is the standoff the
-private repair ch 27 needs) belongs to the ch 23–27 directive.
+**Then: CHAPTER 9 ALONE.** Author (2026-09-05): "Make sure to just do
+chapter 9. I want to go ch by chapter for a bit." No wave-3
+directive. Ch 9 gets its own brief (stage 2 → the first apart
+chapter carrying him in her head; the Cordelia letter; the
+carryover toll), its own audit, drafter, panel, lint, PR. The hit's
+date (audit A1 from ch 8) is answered in the ch 9 brief if ch 9
+needs it, else carried. The sub-couple sighting waits for ch 11's
+brief. The build check runs before the ch 11 brief. Ch 26's
+`[CHECK]` belongs to whoever briefs ch 27.
 
 **Standing:** do not chase a quiet PR; talk to the author plainly
 (taste 13); every lesson becomes an instrument the same day (taste
