@@ -9,64 +9,37 @@ production runs under them: brief audit, label shuffle,
 jewel-forge slot, staging clause, furniture registry, anchor
 lines, carryover-reader gate).**
 
-## PICK UP HERE (2026-09-05, evening — CURRENT)
+## PICK UP HERE (2026-09-05, night — CURRENT)
 
 **AUTHOR FOCUS: ROMANCE ONLY until Books 1.1–1.4 are done**
 (studio/OPERATIONS.md, 2026-09-04). No other book gets a job.
 
-**#122 (ch 7 re-cut) MERGED with four rulings; FOLDED 2026-09-05
-(B2-D08):** the patch is A. COLE everywhere; December 19 is a
-Saturday, February 6 a Saturday, February 11 a Thursday; the arc-doc
-annotation stands; the chapter's register is disappointed, not
-angry; Dan added to the first third in her senses. Ch 1–7 accepted.
+**Merged today:** #127 (ch 8 re-cut) · #128 (talk plainly) · #129
+(the author's three ch 8 fixes) · #130 (the romance's own arc —
+CANON, B2-D09) · #131 (the arc gate as an instrument: kit template
+11, `studio/tools/romance-build-check.py`, plot-architect 1.5.0 /
+developmental-editor 1.5.0 / continuity-keeper 1.4.0). All folded.
+Ch 1–8 accepted.
 
-**OPEN, at the author:** #119 (the taste sheet), #123 (Romance first
-+ the campus drafter persona), #124 (the ch 1–6 romance top-up: four
-sentences, all three under-floor chapters now pass), #125 (the focus
-ruling), and this fold.
+**Where the romance stands (plots/romance-arc.md):** stage 2,
+admitted inside — hers at ch 5, his at ch 8. The build check passes
+only WITH the two approved adds, so they come before anything else:
+1. **Ch 2 — the Friday-check fight, shown** (IN PROGRESS): brief
+   `plots/recut-brief-ch02.md`; audit (E3) running; then ONE drafter
+   (D1, LRU), panel, lint, ONE PR with a listening file. Only the
+   section between the first and second `***` moves. Chapter stays
+   accepted otherwise.
+2. **Ch 4 — one more exchange in the lounge** (NEXT, its own PR).
 
-**#127 (ch 8 re-cut) MERGED 2026-09-05 with four comments.** Three
-were fixed in place and are in **#129 (OPEN, MINOR)**: the arrival
-names Aisha Cole; "safe" is explained at the granddad's call; the
-"you hedged" exchange is human (she quotes him back, he nearly
-laughs, the heat line sits inside her stepping in). Listening file:
-`notes/listening/ch08-fixes-2026-09-05.md`.
+**Then:** the wave-3 directive (ch 9–12), written to stage 3 (inside
+3 at ch 11, outside 3 at ch 13); first questions: the hit's date
+(audit A1 from ch 8) and the sub-couple sighting. The build check
+runs before the ch 11 brief. Ch 26's `[CHECK]` (is the standoff the
+private repair ch 27 needs) belongs to the ch 23–27 directive.
 
-**The fourth comment — "have we earned 'he wanted her'?" — became
-the author's ask for a romance arc**, and that is **#130 (OPEN,
-DECISION)**: `plots/romance-arc.md`. The romance gets its own inside
-and outside journey, five stages (hidden 1–4; admitted inside 5–8;
-shown between them 9–15; seen 16–22; public 23–30), the ladder with
-holes marked, and THE BUILD CHECK (the inside may lead the outside by
-one stage; a want needs two watched, enjoyed exchanges on the page;
-a kiss waits for help accepted; a public claim waits for a private
-repair). It asks the author's yes on two adds in accepted chapters:
-ch 2's Friday check becomes the fight, shown, two pages; ch 4's
-lounge gets one more exchange. **Nothing in 1–8 moves until #130
-merges.** The wave-3 directive is written to stage 3 and waits on it
-too. Do not chase either PR.
-
-**Earlier note on #127, kept for the record:** Do not chase. The first chapter briefed and drafted romance-first;
-carries the ch 2 self-knowledge rider and the ledger fixes. On merge:
-fold (THREADS ch 8 entry accepted; registry: Tick's tease, Boyd's
-line, the three posts, "Neither of them stepped back" spent twice),
-then the WAVE-3 DIRECTIVE (ch 9–12), romance-first, with audit A1 —
-the hit's date and the porch-to-nineteenth count — routed to it as
-its first question, and the sub-couple sighting as its second.
-
-**Done this shift — the ch 8 re-cut** —
-brief = `plots/recut-briefs-ch05-08.md` §CH 8 + the standing addenda
-+ THE ROMANCE MOVE on line one + three planned ROMANCE BEATS of two
-kinds (first and last third) + the campus drafter persona handed to
-the drafter first. Wait for #123 to merge so the drafter reads the
-persona from main, or pass it inline on the author's word. Ch 8
-inherits: Dan lost to the AD (Tue), lost Denny (Sun), offered the
-soft version on the annex (Tue); the letter is moving; Boyd's first
-porch is here; the board turns on her tonight; Odell's anchor takes
-the plain "never" render; Aisha named in narration at least once.
-
-**Then:** the wave-3 directive (ch 9–12) romance-first; Book One's
-scene-break pass before EPUB.
+**Standing:** do not chase a quiet PR; talk to the author plainly
+(taste 13); every lesson becomes an instrument the same day (taste
+14).
 
 ## Historical — 2026-09-04, nightly shift
 

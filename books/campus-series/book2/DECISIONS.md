@@ -261,3 +261,28 @@ render, and the ch 7 and ch 8 briefs ban the construction outright.
 SR-B2-21 (February eleventh), 22 (the 5:15 check), 23 (Dan's private
 "Trey"), 24 (the :99 graft repair) all stand.
 
+
+## B2-D09 — the romance's own arc is CANON; two adds approved (#130 merged 2026-09-05; #131 makes it an instrument)
+
+Author: "we need one [arc] for the romance overall to show how early
+on the romance is hidden and just shows some signs of life, but over
+the book it grows and turns external." Then: "Merged."
+
+1. **`plots/romance-arc.md` is canon.** Five stages: hidden (1–4),
+   admitted inside (5–8), shown between them (9–15), seen (16–22),
+   public (23–30). The ladder table is the record; it updates on
+   acceptance like THREADS.
+2. **The build check is law** (studio/PIPELINE.md §3b; STYLE
+   "Romance first"): inside may lead outside by one stage; a want
+   needs two watched, enjoyed exchanges on the page; a kiss waits
+   for help accepted; a public claim waits for a private repair.
+   `studio/tools/romance-build-check.py` runs on the arc doc before
+   any brief that spends a want, kiss, or claim (ch 11, 13, 15, 27).
+3. **Two adds in accepted chapters, APPROVED:** ch 2's Friday check
+   becomes the fight, shown, two pages, both enjoying it, his POV,
+   dry; ch 4's lounge gets one more exchange where they like each
+   other. One chapter per PR; ch 2 first.
+4. **Open, routed:** is ch 26's standoff the private repair the ch 27
+   claim needs? `[CHECK]` in the ladder; the ch 23–27 directive's
+   first question.
+5. **Ch 5 and ch 8 stay as written.**

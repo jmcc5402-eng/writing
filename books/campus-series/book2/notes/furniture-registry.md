@@ -37,3 +37,9 @@ finding). Started at the wave-1 fold (2026-08-30).
 | The diploma box | her frames on their edge against the baseboard, still boxed; the memo passes hand to hand over it, four inches of cardboard between them (ladder rung 4) | ch 5, ch 7 |
 | Kat's listings | by text, three at a time, each with a February in it; the brick two-bedroom, the woodstove rental, the farmhouse with the bad roof | ch 7 |
 
+| Coach's Table | Delmar's screen porch, Thursdays, one hour on WDSS 1340; Tick Moran on a mixer "older than most of the roster"; porch heaters, Ray's smoker; the on-air bulb; December debut ("Tonight the show wore coats") | ch 8 re-cut (#127) |
+| Tick's tease | "big news coming out of the Fieldhouse after the first of the year, friends. I'm not told what." — the Boyd announcement, dropped back from ch 6 | ch 8 (#127) |
+| Boyd on the porch | first sighting; "I liked the doctor's spirit." / Dan: "Spirit is expensive, Coach." (Boyd's line, Dan's answer) | ch 8 (#127) |
+| "Safe" | decoded once: safe, in this county, this December, means Trey Gault — the doctor saying his brain has healed, the coach saying it on air so it counts | ch 8 (#129) |
+| The porch beer | Tick's, "cold, no cap on it" (reads as a bottle; the coolers hold cans — author's call, flagged #129) | ch 8 |
+| "The good part of a Friday" | ch 8: being caught by her "felt like the good part of a Friday" — the phrase's meaning is OWED to ch 2's Friday-check fight | ch 8 → ch 2 (owed) |
