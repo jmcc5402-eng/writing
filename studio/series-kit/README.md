@@ -39,6 +39,7 @@ Per-book artifacts (each installment):
 | 5 | `05-book-premise.md` | Locked premise: Q1–Q4 + banked ingredients | the author locks the shape |
 | 6 | `06-snowflake-outline.md` | Full chapter outline with audits | plot-architect expands the premise |
 | 7 | `10-production-notes.md` | Draft handoff notes, reviews, adoption pass | drafting begins |
+| 7a | `11-arc-docs.md` | The leads' arcs and the relationship's arc, with the ladder the build check reads | between the outline and the first brief; **author approves as one PR** |
 
 Living ledgers (updated on acceptance, forever):
 
@@ -67,6 +68,12 @@ gates), `studio/craft/hauge.md` (structure overlay), the writers' room
    (culture-researcher) before drafting; unused nuggets → the bank.
 5. **Outline** (`06`). Expand via snowflake + Hauge; audit against the
    ingredient checklist; mark PROPOSED. **Author approves.**
+5b. **Arcs** (`11`). Each lead's wound, false belief, want vs. need,
+   turns, moment of change; and the relationship's own arc, staged
+   hidden → public, with the ladder table. Run
+   `studio/tools/romance-build-check.py` on it. **Author approves all
+   three as ONE PR.** No brief is written before this merges
+   (`studio/PIPELINE.md` §3b).
 6. **Draft.** Persona + variance card + banned moves + the relevant
    THREADS index entries in the brief. Output to `drafts/DATE/`, never
    into the manuscript. Handoff notes per `10`.

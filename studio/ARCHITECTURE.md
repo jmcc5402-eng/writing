@@ -193,6 +193,17 @@ The battery, cheapest first:
    winning concepts; the winner absorbs the runners-up's best single
    ideas. This is how old material gets creative pressure without
    anyone touching canon.
+7. **Arc gate + build check** — before any unit is briefed, each
+   changing character and the central relationship get an arc doc
+   (wound, false belief, turns as visible actions, the moment of
+   change; for the relationship, an inside journey and an outside
+   journey staged across the product). A script reads the
+   relationship's ladder table and fails the doc when a step is
+   spent before it is earned, when the inside runs more than one
+   stage ahead of the outside, or when a stage jumps or reverses.
+   Per-unit checks count beats inside a unit; this one counts steps
+   across the whole. (Template: `series-kit/11-arc-docs.md`; tool:
+   `tools/romance-build-check.py`.)
 
 Supporting disciplines: **state chains** (every unit declares
 STATE IN/OUT — day, who-knows-what, object locations — and N's OUT
