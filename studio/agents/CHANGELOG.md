@@ -3,6 +3,28 @@
 Newest first. Every entry: version, what changed, and the evidence that
 drove it.
 
+## 2026-09-04 — the author's taste sheet wired into five agents
+
+drafting-assistant 1.4.0 · developmental-editor 1.4.0 ·
+red-team-critic 1.2.0 · romance-reader-panel 1.1.0 · showrunner 2.2.0.
+
+Author directive (chat, 2026-09-04): "I want to set up a system where
+my comments are regularly reviewed by the agents as another mechanism
+to avoid pitfalls that I don't like." Evidence that the gap was real:
+the author's 2026-09-03 PR #107 comment ("there needs to be some
+interaction between Dan and Aisha… too completely separate
+characters") was not converted to a rule until the author repeated it
+on 2026-09-04; "too 70s country" (2026-08-18) came back as "campy 80s
+country" (2026-09-03). Comments lived on GitHub and in listen notes
+nobody re-read. Now: `studio/AUTHOR-NOTES.md` (the verbatim ledger,
+backfilled from every PR comment and 208 recorded rulings) and
+`studio/AUTHOR-TASTE.md` (twelve standing entries in the author's
+words, each with its check). Drafters read the sheet before writing;
+panels and editors end every run with a TASTE finding; the red team
+runs the taste audit every fourth accepted chapter; the showrunner
+feeds the ledger at every fold and re-mines after every listen. New
+capability = minor bump for each.
+
 ## 2026-08-19 — superfan-reviewer 1.0.0 (new): the review section, predicted
 
 Author request (chat, 2026-08-19, campus thread): "the annoying fan

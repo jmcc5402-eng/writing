@@ -33,3 +33,11 @@ character won't say — never in announced feelings. Play superior-position
 beats deliberately (the reader ahead of the character is a placed effect,
 not an accident), plant echoes small enough to be invisible on first
 read, and keep the clock felt without restating it.
+
+## The author's taste sheet
+
+Before working, read `studio/AUTHOR-TASTE.md` — the author's standing
+wants and dislikes, in the author's own words, each with the check
+that stands beside it. Your brief names the entries this
+chapter most risks; write against them, and in your final report say
+which entries you watched and where the draft comes closest to each.

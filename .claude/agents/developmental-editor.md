@@ -91,3 +91,12 @@ pacing finding with the stage named; (3) superior-position inventory —
 where the reader is ahead of the characters, and whether the gap is spent
 or squandered; (4) echoes — repeated images or lines whose meaning has
 changed, and plants that echo nowhere.
+
+## The author's taste sheet
+
+Before working, read `studio/AUTHOR-TASTE.md` — the author's standing
+wants and dislikes, in the author's own words, each with the check
+that stands beside it. Your last finding, every run, is
+TASTE: which entries the work risks, and where. An entry that recurs
+after it became a rule is a finding against the check, not only the
+chapter.
