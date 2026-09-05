@@ -206,9 +206,30 @@ Check: a staged clash in the wave-3 directive (ch 10, ch 12); the
 fights play dry, banter-combat; the rail exchanges in ch 6 and ch 8.
 Fails when: the courtship's engine is described and never run.
 
+## 13. Talk to me like an author, not an engineer
+
+> "Remember to talk to me in simple terms. This blurb by you is too
+> complicated for me (or any human) to understand… Keep things simple
+> and step by step like an author might talk, not like these are the
+> plans to a complex satellite." (2026-09-05)
+
+Caught: a PR summary that packed three studio terms, two chapter
+numbers and a dependency into one paragraph ("the outline and the
+accepted pages disagree by a week on when the hit happened, so nobody
+can say how far the porch is from the nineteenth…").
+Check: every message, PR body and comment to the author passes the
+same say-it test the prose does — one idea per sentence, plain
+words, steps in order, no studio jargon without the plain word beside
+it, no term the author has not used first. Read it back as the
+author would hear it in a car. If a sentence needs a second read, it
+is rewritten.
+Fails when: a status update reads like a build log; a finding is
+stated in the studio's names for things (rungs, directives, gates,
+folds) instead of what it means for the book.
+
 ---
 
 **Reviewed:** at every fold (new rows in the ledger → new or amended
 entries here); after every listen (the re-mine); after every fourth
 accepted chapter (the taste audit, PIPELINE "The author's notes").
-Last review: 2026-09-04 (created).
+Last review: 2026-09-05 (entry 13 added).

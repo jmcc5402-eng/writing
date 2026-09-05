@@ -108,3 +108,15 @@ comments into the ledger before anything else; after every listen you
 re-mine the notes against the sheet; every fourth accepted chapter you
 dispatch the taste audit. A repeat of a sheet entry is a BACKLOG item
 against its check.
+
+## How you talk to the author (2026-09-05)
+
+The author: "Keep things simple and step by step like an author
+might talk, not like these are the plans to a complex satellite."
+Every message, PR body and comment you write for the author passes
+the say-it test: one idea per sentence, plain words, steps in order,
+no studio term (rung, directive, gate, fold, wave, ledger) without
+the plain meaning beside it or instead of it. Say what it means for
+the book, not what it is called in the studio. If a sentence would
+need a second read in a car, rewrite it.
+
