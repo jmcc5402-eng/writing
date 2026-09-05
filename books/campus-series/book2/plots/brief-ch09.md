@@ -287,3 +287,73 @@ text, never in a spoken line).
 8. Run `python3 studio/tools/romance-build-check.py` on the arc
    doc — must PASS (no spend here).
 9. FACT MANIFEST for the drafter, with cites.
+
+---
+
+### CH 9 — AUDIT ADDENDUM (continuity-keeper, E4, 2026-09-05 — CLEAR WITH ADDENDA)
+
+Report: `notes/ch09-brief-audit-2026-09-05.md`. Build check PASS.
+These bind the drafter on top of the brief; where they conflict
+with the brief above, the addendum wins.
+
+1. **Cordelia is dead and UNDATED.** Strike "a hundred years dead"
+   and "a hundred years." Canon (the town file, Book One) has her
+   alive within Verna's lifetime; the outline's "a hundred years" is
+   a gloss. The paper and the hand are old; no number, no year on
+   the page, no arithmetic from KNEES, 1994. Her era goes to the
+   author as a question on the PR.
+2. **Romance beat 1 is a line of his from the rail, or her own
+   plate** (one rib, one bite). She never saw two plates; that image
+   is Dan's, after she left.
+3. **Friday's 5:15 check happened, off the page.** One line may say
+   so — printed, on the turf, and neither of them said the word
+   porch — that is "He did not answer her" carried forward, and a
+   clean kind-4 beat. Saturday is the roster's off day by default;
+   say it once or not at all. No Saturday check on the page.
+4. **Scene 4's place is the annex door or the Checkerboard
+   counter**, where Earlene sits. NOT the Curb Market (its winter
+   hours are the author's to rule).
+5. **Verna's towels are new canon** — say the arrangement plainly
+   once. Verna walks everywhere on accepted pages; how the towels
+   get to campus is the drafter's to stage in one clause, and it is
+   canon after. **Keep Verna out of the records room** (she is the
+   gossip clearinghouse and the vacate order is not public): the
+   handoff is at the cold-end door or in a rehab room by the
+   whirlpool. The letter is already in the coat's inside pocket when
+   Verna speaks.
+6. **She drives UP Millrow on purpose, by daylight**, before the
+   crew's dark — the House is not on her way home (the motel is off
+   past the square the other way). One clause says she chose to.
+   Say "Hartwell House" once for the new reader. She KNOWS Marisol
+   and Cal (wine nights in Book One); the camera moving on is her
+   not stopping.
+7. **Her vehicle is "the truck."** Never "her car" in this chapter.
+8. **The whiteboard is in her office, not the records room, and
+   holds TWO calendars** (DEC 19 circled twice in red; the six-rung
+   ladder with no dates); the memo under the stapler is the third.
+   FEB 11 is on the board only if she writes it there today.
+9. **The epigraph's hard limits:** 35 words for the whole thing, one
+   to three posts, no timestamps, real names (Tim Brasher, Rhonda
+   Sipes, Kendra Voyles; one new name allowed), frame line exactly
+   `On Grapevine, the Ashford parents' board —`. It continues
+   Thursday's thread in daylight; it may not sharpen "Coach stayed
+   in his lane" into a pairing.
+10. **"One person she has treated" is a townsperson** (the bonfire's
+    burn table, the Scout's thumb) — never an athlete. Nobody thanked
+    her in the tent on the page; the memory stays unnamed.
+11. **Ch 8's DOWN ending is the two plates in the dark**, not "film
+    at five" (that is Dan's on-air line). The register stands.
+12. **The calendar (A1)** goes to the author on the PR with option
+    one as the default (keep the outline's week table; fix three
+    words on accepted pages). The chapter carries no day-of-month.
+
+**Seams (card E4):** in from ch 8's Thursday porch via Friday's
+check (off page); the key hook is in the records room; Verna
+enters by the cold-end door (two-stage bang) and never reaches the
+paper; up Millrow by day; down across the square to the Magnolia
+Court, room nine (no game, so not the back room): the wool coat on
+the rod, Verna's blanket, the near suitcase open, the far one
+latched — do not pack the far suitcase (ch 25's) or move the
+diploma box (ch 29's). Out to ch 10: the annex still hers, the
+order still private, the letter kept, the boxes begun; nothing may
+pre-empt ch 10's discovery that the annex is Boyd's money.
