@@ -63,7 +63,8 @@ docs); F## fair-play rows (b12-outline.md table governs).
   like a net, neither stepped back) · **ch 6 rung 3** (the rail
   exchange, dry, about the date; then the pass-behind as the porch
   empties — he gets her hair, keeps his hands on the rail, does not
-  turn around) · ch 7–8: hold or climb, per the standing addenda ·
+  turn around) · **ch 7 rung 4** (the memo over the diploma box, held
+  a second longer than the handing took) · ch 8: hold at 5 ·
   ch 13 near-miss · ch 15 the kiss (kiss chart ceiling). Mark
   today: **5** (ch 6 played at 3; the high-water mark holds).
 - **"Somebody's ___" (narration, once per BOOK — B2-D06):** SPENT
@@ -172,17 +173,35 @@ refusal; the board carries Denny's sentence but not Dan's no.
 **Aisha does not know he refused** — she was a whole crowd away at
 the quiet end of the rail, and no brief may assume she knows.
 
-### Ch 7 — The Coat (ACCEPTED #107; RE-CUT PENDING)
-*Ledger entry opened at the ch 6 fold (2026-09-04) — the wave-2 fold
-never wrote entries for ch 6, 7 or 8, and this repairs the gap.*
-Introduces: the hard-freeze Tuesday practice; the re-badged staff
-parka (B2-T02 planted — it is HIS spare, and the equipment manager
-pays it at ch 29). Carries: the annex; the walk-on; the board.
-Re-cut owed per `plots/recut-briefs-ch05-08.md` §CH 7 — the vacate
-order becomes her thirty-day deadline, Dan hears the same afternoon
-and offers the soft version. Debt entering the re-cut: "somebody's
-___" ×2 (B2-D06), and the "never once" construction is banned
-outright (the cap is blown; see the rations ledger).
+### Ch 7 — The Coat (ACCEPTED #107; RE-CUT ACCEPTED #122, folded 2026-09-05)
+Introduces: the hard-freeze Tuesday practice, Merritt heard from the
+far end of the field before she sees him (first-third beat, added at
+the fold on the author's ruling); the loaner coat, then the parka on
+her chair — XXL, "A. COLE" over the staff patch (the initial ruled at
+#122: a slip, conformed everywhere) — B2-T02 planted, the equipment
+manager's shrug and the second column on the spring order; the
+Table's coat jokes ("Leave the doctor's coat alone"); the Phase II
+memo addressed to OCCUPANT, all contents boxed by February eleventh,
+"Facilities will provide boxes" (SR-B2-21 — February, not "before
+Christmas"; nine weeks, two of them closed); her charting the
+building itself; Dan at a little after six on the medical-check
+errand (SR-B2-22: practice moves to five, the check to 5:15, typed by
+him), the meeting room held at seven with the projector unplugged
+(SR-B2-23: his private "Trey"); the memo hand to hand over the
+diploma box, held a second longer than the handing took, four inches
+of cardboard between them (ladder rung 4); "Who's doing the boxing?"
+/ "I am." / "By yourself." / "By myself."; his soft version ("Let me
+ask around") and her reading of it ("She knew the sentence… It had
+just never come to anything"); "Five fifteen tomorrow. It'll be
+printed."; Verna's pins on Sunday; Kat's three listings, every one
+with a February in it. REVERSAL: she loses the one room she unpacked;
+he declines the first chance to spend anything on her and leaves
+thinking it went well. ARC BEAT: the soft version out loud, unstopped
+(arc doc ch 7 row read per the annotation kept at #122). Ruled at
+#122: not angry, disappointed, and that is right for ch 7 — the anger
+is ch 8's and ch 24's. Ends held-quiet: the sleeves hold the roll.
+Hands forward: February eleventh is her clock now; the meeting room
+is held; the check is at 5:15; Dan said he would ask around.
 
 ### Ch 8 — The Rail (ACCEPTED #107; RE-CUT PENDING)
 *Ledger entry opened at the ch 6 fold (2026-09-04), same repair.*
@@ -259,3 +278,19 @@ SR-B2-19, SR-B2-20. The three optional trims offered on that PR (the
 fourth heaters line, Sonny's second "Alphabet," the "county this old
 does not want arithmetic" pair) were **not** taken and the prose
 stands as written.
+
+## New canon recorded at the ch 7 re-cut fold (2026-09-05)
+
+The patch reads A. COLE (#122 ruling 1; conformed in the outline,
+the wave-2 directive, the kiss chart, the re-cut briefs) · December
+19 is a Saturday, February 6 is a Saturday, February 11 is a
+Thursday (#122 ruling 2; outline conformed) · the arc-doc ch 7 row
+is read per its annotation (ruling 3) · ch 7's register is
+disappointed, not angry (ruling 4) · the Phase II survey memo:
+addressed to OCCUPANT PROGRAMS, ATHLETICS ANNEX; five sentences;
+boxed by February 11; Facilities provides boxes; relocation "in a
+subsequent communication" · practice at five through the nineteenth;
+the medical check at 5:15, typed by Dan · the meeting room held at
+seven, projector unplugged · Dan says "Trey" in private · Kat sends
+listings by text · Verna hems with pins on Sundays.
+

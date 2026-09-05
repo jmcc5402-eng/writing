@@ -31,3 +31,9 @@ finding). Started at the wave-1 fold (2026-08-30).
 | "Marisol Pruett's boy" | the walk-on's only name on the page — no first name, no surname of his own; a name is the author's call and goes to the bible with year and position | ch 6 re-cut (#118); SR-B2-18 |
 | The front-row grandmother | Earlene Tatum (NOT "Delores Kyzer" — one Delores per porch) | ch 6 re-cut (#118); SR-B2-19 |
 | The plate to the Gaults' | kindness, not a settlement: "That doesn't change the letter, Coach." / "Didn't bring it for the letter." | ch 6 re-cut (#118); SR-B2-20 |
+| The parka | team issue, navy, XXL, "A. COLE" in block letters over the staff patch (initial ruled at #122); the equipment manager's "order goes missing about once a year"; the cuff rolled under twice, the liner grips itself | ch 7; B2-T02 |
+| The Phase II memo | one envelope to OCCUPANT PROGRAMS, ATHLETICS ANNEX; five sentences; inventoried and boxed by February 11; relocation in a subsequent communication; "Facilities will provide boxes"; lives under her stapler | ch 7 re-cut (#122); SR-B2-21 |
+| The moved schedule | practice at five through the nineteenth, film first; the medical check at 5:15 on the turf, typed by Dan; the meeting room held at seven, projector unplugged, "whoever you name drives him" / "His mother drives him" | ch 7 re-cut; SR-B2-22/23 |
+| The diploma box | her frames on their edge against the baseboard, still boxed; the memo passes hand to hand over it, four inches of cardboard between them (ladder rung 4) | ch 5, ch 7 |
+| Kat's listings | by text, three at a time, each with a February in it; the brick two-bedroom, the woodstove rental, the farmhouse with the bad roof | ch 7 |
+

@@ -193,7 +193,7 @@ airing (`notes/grapevine-realism-2026-08-29.md:169-174`).
 Manifest verbatim (`b12-outline.md:409-423`): "Hard freeze at
 Tuesday practice and the program's staff gear was ordered in
 men's sizes by habit — the institution not fitting her, in one
-prop. Next morning a team parka is on her chair, XXL, 'C. COLE'
+prop. Next morning a team parka is on her chair, XXL, 'A. COLE'
 stitched over the staff patch; the equipment manager shrugs
 about a lost order (B2-T02 planted — the reader learns the
 truth with her, ch 29). Same day, the vacate order: the Annex

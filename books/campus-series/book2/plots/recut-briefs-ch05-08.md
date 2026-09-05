@@ -340,7 +340,7 @@ him, and it is what makes ch 15 and ch 19 worth anything.
    the film room since ch 10's plan was laid — in his absence from
    this POV, this can be her reading it off him, not him admitting it.
 
-**PROTECT.** The coat, all of it — XXL, "C. COLE" stitched over the
+**PROTECT.** The coat, all of it — XXL, "A. COLE" stitched over the
 staff patch, the lost-order shrug, the sleeves past her hands, "Leave
 the doctor's coat alone." Her noticing beat about the shape of the man
 it was cut for. The Table's breakfast coffee (the register rule is

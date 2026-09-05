@@ -195,7 +195,7 @@ proven in 1.1; energy-bank FC1 honored)
 | 7 | Jan 2–16 | TRANSFER PORTAL WINDOW (winter's earthquake) | 19–22 |
 | 8 | ~Jan 19–23 | the photo; suspension pending review; annex greenlit | 23–24 |
 | 9 | ~Jan 26–30 | the bottom; the standoff | 25–26 |
-| 10 | Feb wk1 | the hearing (Mon); FEBRUARY SIGNING DAY, inert, broadcast anyway (Wed); the answer (Fri) | 27–29 |
+| 10 | Feb wk1 | the hearing (Mon); FEBRUARY SIGNING DAY, inert, broadcast anyway (Wed); the answer (Sat the 6th) | 27–29 |
 | 11 | mid-Feb | FIRST WARM FRIDAY (unscheduled by nature) | 30 |
 
 Modernity register (dial 5) props ride the calendar: playoff-era
@@ -410,7 +410,7 @@ whole life — pray for whoever has to say no to any of it.*
 Hard freeze at Tuesday practice and the program's staff gear was
 ordered in men's sizes by habit — the institution not fitting
 her, in one prop. Next morning a team parka is on her chair,
-XXL, "C. COLE" stitched over the staff patch; the equipment
+XXL, "A. COLE" stitched over the staff patch; the equipment
 manager shrugs about a lost order (B2-T02 planted — the reader
 learns the truth with her, ch 29). Same day, the vacate order:
 the Annex is on Boyd's moved-up survey list (1.1 hand-forward on
@@ -729,7 +729,8 @@ The bottom. Her office packs itself in an afternoon because she
 never unpacked a life here to begin with — the whole six months
 fits back in the car it came in. The offer formalizes: clean,
 prestigious, a city that never heard of Grapevine, answer by
-Friday the 6th (the clock stated). She folds the coat for
+Saturday the 6th (the clock stated; Dec 19 is a Saturday, so
+Feb 6 is too — ruled at #122). She folds the coat for
 return, flat on the box like a flag. Mt. Nebo's February program
 (one scene, by the census's working-institution rules) hands her
 the county's other memory of the annex; the Cordelia letter gets
@@ -846,7 +847,7 @@ proud of it; Boyd, glimpsed once, measuring somebody else's
 block — unbeaten, smiling, next book's weather. The object echo
 paid in full: her whiteboard wiped clean of red, and TWO parkas
 on the one hook inside the Annex's temporary successor office —
-his and hers, "C. COLE" and no name at all, because everyone
+his and hers, "A. COLE" and no name at all, because everyone
 knows whose the other one is. The want said in both directions,
 plainly, door closed, the county at supper in the warm light
 outside the window. — *Pays: the outer image, the coat echo's

@@ -243,3 +243,21 @@ to Odell's ch 8 anchor. There are **two on accepted pages** already
 (ch05:330, ch06:22) against a book-wide cap of one. The cap is blown,
 so the ch 8 deal is off: Odell's anchor takes the plain "never"
 render, and the ch 7 and ch 8 briefs ban the construction outright.
+
+## B2-D08 — the ch 7 rulings (#122, author comment 2026-09-04 — RULED)
+
+1. **The patch reads A. COLE.** "C. COLE" was a slip that propagated;
+   conformed in every canon file. Ch 30's two-hooks image inherits it.
+2. **December 19 is a Saturday.** Therefore February 6 is a Saturday
+   (the offer's answer-by date) and February 11 a Thursday (the
+   annex deadline). Outline conformed.
+3. **The arc-doc ch 7 row is read per its annotation** (the lie is
+   the equipment manager's; Boyd is ch 10's discovery).
+4. **Not angry, disappointed — and that is right for ch 7.** No
+   visible cost added; the anger is ch 8's (the on-air hedge) and
+   ch 24's.
+5. **One addition before the fold:** Dan on the far end of the field
+   in the opening practice scene, in her senses. Applied at the fold.
+SR-B2-21 (February eleventh), 22 (the 5:15 check), 23 (Dan's private
+"Trey"), 24 (the :99 graft repair) all stand.
+

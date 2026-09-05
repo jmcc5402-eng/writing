@@ -9,7 +9,38 @@ production runs under them: brief audit, label shuffle,
 jewel-forge slot, staging clause, furniture registry, anchor
 lines, carryover-reader gate).**
 
-## PICK UP HERE (2026-09-04 — CURRENT, nightly shift)
+## PICK UP HERE (2026-09-05 — CURRENT)
+
+**AUTHOR FOCUS: ROMANCE ONLY until Books 1.1–1.4 are done**
+(studio/OPERATIONS.md, 2026-09-04). No other book gets a job.
+
+**#122 (ch 7 re-cut) MERGED with four rulings; FOLDED 2026-09-05
+(B2-D08):** the patch is A. COLE everywhere; December 19 is a
+Saturday, February 6 a Saturday, February 11 a Thursday; the arc-doc
+annotation stands; the chapter's register is disappointed, not
+angry; Dan added to the first third in her senses. Ch 1–7 accepted.
+
+**OPEN, at the author:** #119 (the taste sheet), #123 (Romance first
++ the campus drafter persona), #124 (the ch 1–6 romance top-up: four
+sentences, all three under-floor chapters now pass), #125 (the focus
+ruling), and this fold.
+
+**NEXT: the ch 8 re-cut, the first chapter briefed ROMANCE FIRST** —
+brief = `plots/recut-briefs-ch05-08.md` §CH 8 + the standing addenda
++ THE ROMANCE MOVE on line one + three planned ROMANCE BEATS of two
+kinds (first and last third) + the campus drafter persona handed to
+the drafter first. Wait for #123 to merge so the drafter reads the
+persona from main, or pass it inline on the author's word. Ch 8
+inherits: Dan lost to the AD (Tue), lost Denny (Sun), offered the
+soft version on the annex (Tue); the letter is moving; Boyd's first
+porch is here; the board turns on her tonight; Odell's anchor takes
+the plain "never" render; Aisha named in narration at least once.
+
+**Then:** the wave-3 directive (ch 9–12) romance-first; Book One's
+scene-break pass before EPUB.
+
+## Historical — 2026-09-04, nightly shift
+
 
 **#118 (ch 6 re-cut) MERGED BARE. Ch 6 is ACCEPTED and FOLDED.**
 SR-B2-17/18/19/20 all stand (B2-D07). The three optional trims were
