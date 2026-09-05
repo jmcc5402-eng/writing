@@ -135,3 +135,56 @@ chapter's lint counts, and which taste entries it risks.
    the lounge scene the add may touch.
 7. `python3 studio/tools/romance-build-check.py
    books/campus-series/book2/plots/romance-arc.md` — must PASS.
+
+---
+
+### CH 4 — AUDIT ADDENDUM (continuity-keeper, E6, 2026-09-05 — CLEAR WITH ADDENDA)
+
+Report: `notes/recut-ch04-audit-2026-09-05.md`. Build check PASS
+(run by the orchestrator). These bind the drafter on top of the
+brief:
+
+1. **What the scene lacks (the card's finding), and so what the add
+   must supply:** his pleasure is never SAID in ch 4, and nothing he
+   says in the lounge is off the job. So: the narration line that
+   says the exchange was the easy part of his night is REQUIRED,
+   not optional (do not use the word "minute" — :303–304 own it);
+   and his line is off the job.
+2. **Slot (a) is the safe slot** — right after "It's French vanilla,
+   Coach. There's nothing on it." and before "She looked at him over
+   the cup." The add opens with HIS line (she spoke last). She still
+   holds her cup at the end of it. If the drafter chooses slot (b),
+   the add's last line must be something a visit could end on, and
+   no staying beat (the staying is the protected :283–305).
+3. **The two behavior examples in the brief ("He stays. She keeps
+   her eyes open…") are register, not staging** — both live in the
+   protected passage after either slot. Do not stage them.
+4. **Bans added:** "never once"; ZERO new personifications (the
+   chapter is at seven against a quota of three); ZERO "which"
+   appendixes (two already); ZERO repeat-and-extend shapes ("and he
+   noticed that, and then noticed that he had" is the chapter's);
+   ZERO "a man [doing X]" scaffolds (three already); no stated clock
+   or calendar word.
+5. **Objects:** the card reads NO CALENDAR WORDS — his words, not
+   hers; she "didn't say anything about it" (:237), so an add about
+   the card turns that silence into a delay — avoid the card. Four
+   of the five suggested topics are already spent in the scene (cup,
+   chairs, machine, card); "the hour" is fresh but carries no
+   number. Unspent in the room: the two lamps, the window and the
+   glow over the square, the dead coffee machine as an object. Say
+   "the machine by the elevators" if the working one is meant; the
+   one in the room is dead.
+6. **Loaded words:** "Coach" is in her mouth three times already; a
+   fourth is legal and is where the tic starts. "Cup" ×4, "French
+   vanilla" ×2. Prefer none of them.
+7. **A laugh nobody has heard:** ch 6 says he knows her laugh "at
+   one hearing," and no page before ch 6 has him hear it. The slate
+   says she "laughs rarely and all at once." This is the last
+   Stage-1 scene with the two of them alone. The drafter MAY spend
+   it here if the exchange earns it (she can be funny once; he can
+   make her laugh once). Only the scaffold "the laugh came up out
+   of" is banned. If spent, report it; it goes to the ledger.
+8. **Fact manifest governs.** Touch as few unstated object
+   positions as possible (the cap before :289, the tablet between
+   :224 and :269, the card after :236, either cup set down) and
+   report each one touched.
