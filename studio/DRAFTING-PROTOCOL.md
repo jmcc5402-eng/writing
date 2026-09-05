@@ -265,7 +265,11 @@ sentence:
 - **THE ROMANCE MOVE (first line of every brief — Romance first,
   studio/STYLE.md):** what this chapter does to the feeling between
   the leads — closer, farther, or a new thing known — in one
-  sentence. Plot comes after it.
+  sentence. Plot comes after it. It names the stage from the
+  book's romance arc doc ("Stage 3: shown between them") and the
+  rung it climbs; a move above its stage is returned at the audit,
+  and a want, kiss, or public claim lists the earlier scenes that
+  earn it (the build check, studio/PIPELINE.md §3b).
 - **ROMANCE BEATS:** at least three, of at least two kinds from the
   rule's list, planned as a numbered list with kinds and placement
   (first third / middle / last third). The COUPLE LINE lives here as

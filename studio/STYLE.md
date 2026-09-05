@@ -297,6 +297,19 @@ does to the feeling between the leads — closer, farther, or a new
 thing known. The plot's argument comes second. A drafter who cannot
 say the romance move has not been briefed.
 
+**The build check (author, 2026-09-05).** The floor is per chapter;
+the romance also has to add up across the book, and the floor
+cannot see that. Ch 8 of 1.2 passed the count with thirteen beats
+and the author still asked, "Have we earned the right for Dan to
+think that he wants her? It almost seems to come out of nowhere."
+So: the book's romance arc doc (PIPELINE §3b) stages the romance —
+hidden, admitted inside, shown between them, seen, public — and the
+inside may run ahead of the outside by at most one stage. A want is
+not named until the reader has watched the two of them enjoy each
+other twice on the page. A kiss waits for help accepted. A public
+claim waits for a private repair. The reader must be able to point
+to the scene where the next step started.
+
 **How it is counted.** The brief plans the beats as a numbered list
 with kinds. The drafter delivers them and reports each with its line
 number. The romance-reader-panel finds them independently, counts,

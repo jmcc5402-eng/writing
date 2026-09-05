@@ -146,7 +146,16 @@ no room the reader wants to stay in.
 > serious book about a construction issue." (2026-08-14)
 
 Caught: an outline that read as civic drama; then 1.2 ch 5–8, a
-great plot with one romance beat a chapter.
+great plot with one romance beat a chapter. · "We need one
+> [arc] for the romance overall to show how early on the romance is
+> hidden and just shows some signs of life, but over the book it
+> grows and turns external. The pattern in book one made more
+> sense." (2026-09-05)
+
+Caught: an outline that read as civic drama; then 1.2 ch 5–8, a
+great plot with one romance beat a chapter; then 1.2 ch 8 passing
+the count with thirteen beats while "he wanted her" came out of
+nowhere — the beats were there, the build was not.
 Check: ROMANCE FIRST (STYLE.md; campus STANDARDS 26) — the campus
 drafter persona is the first thing every brief hands the drafter;
 then the floor: three
@@ -155,6 +164,8 @@ panel's blind count standing, a chapter under the floor returned;
 every brief opens with THE ROMANCE MOVE before the plot's argument.
 Fails when: the chapter's summary could be told without the couple;
 the leads are apart and the absent one is only an obstacle.
+A want, a kiss, or a public claim arrives without two earlier
+on-page scenes the reader can point to (the build check, STYLE.md).
 
 ## 9. Don't make it perfect
 
