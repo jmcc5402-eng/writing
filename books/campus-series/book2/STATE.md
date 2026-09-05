@@ -25,7 +25,16 @@ angry; Dan added to the first third in her senses. Ch 1–7 accepted.
 sentences, all three under-floor chapters now pass), #125 (the focus
 ruling), and this fold.
 
-**NEXT: the ch 8 re-cut, the first chapter briefed ROMANCE FIRST** —
+**PR #127 OPEN — the ch 8 re-cut, at the author's listen (2026-09-05).**
+Do not chase. The first chapter briefed and drafted romance-first;
+carries the ch 2 self-knowledge rider and the ledger fixes. On merge:
+fold (THREADS ch 8 entry accepted; registry: Tick's tease, Boyd's
+line, the three posts, "Neither of them stepped back" spent twice),
+then the WAVE-3 DIRECTIVE (ch 9–12), romance-first, with audit A1 —
+the hit's date and the porch-to-nineteenth count — routed to it as
+its first question, and the sub-couple sighting as its second.
+
+**Done this shift — the ch 8 re-cut** —
 brief = `plots/recut-briefs-ch05-08.md` §CH 8 + the standing addenda
 + THE ROMANCE MOVE on line one + three planned ROMANCE BEATS of two
 kinds (first and last third) + the campus drafter persona handed to
