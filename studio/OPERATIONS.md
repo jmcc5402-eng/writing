@@ -4,7 +4,41 @@ _Runbook for the automation that drives the studio. Anything a thread
 needs in order to start, fire, or rebuild the nightly showrunner lives
 here — because a session is disposable and the repo is the brain._
 
-## Author priority window — EXPIRED 2026-08-21
+## Author focus — ROMANCE ONLY until the first four campus books are done (CURRENT, 2026-09-04)
+
+**Author ruling, 2026-09-04, in chat:** *"Halt all work on anything
+but the romance series. Pull the mybyb and nick PRs back. I've
+decided to laser focus on romance until the first 4 are done."*
+
+**What it means, plainly.** The studio works `books/campus-series`
+(Millrow) exclusively until Books 1.1 through 1.4 are accepted. No
+new non-campus jobs, drafts, instrument runs, briefs, or PRs. The
+nightly shift spends its whole budget on the campus queue and does
+not survey the other books for work. The Stagger (PIPELINE.md) still
+runs future CAMPUS books ahead in rungs; it does not touch Spytwins,
+MYBYB or Young Nicholas.
+
+**This window has no expiry date on purpose.** The last one expired
+on a date and the job attached to the expiry was never done (the
+block below). This one ends on a milestone: the acceptance of Book
+1.4, or the author's word. Nothing is self-executing; the shift that
+folds 1.4 reads this section and reopens the parked work.
+
+**Parked PRs (closed 2026-09-04 "parked, not rejected"; branches
+preserved; REOPEN when 1.4 is accepted):**
+
+| PR | Branch | What it holds |
+|---|---|---|
+| #120 (was #43) | `mybyb/part2-rung3-relift` | Part II ch. 5–8 outline + the coupled lexicon questions (OQ 1/4/12) |
+| #121 (was #42) | `youngnick/dock-ruling-relift` | Grace hears Nick at the dock at 60% (1A applied) |
+| #41 | `spytwins/b3-vote-mechanism` | Book 3 vote-mechanism decision (never reopened) |
+
+Each reopen is a re-lift onto the main of that day, not a branch
+merge — the branches predate later adoptions and would revert them.
+
+---
+
+## Author priority window — EXPIRED 2026-08-21 (historical)
 
 **STATUS, recorded on the nightly shift of 2026-09-04.** The window
 expired fifteen days ago and the job it created — reopening the three
@@ -15,8 +49,8 @@ expiry date with a job attached is not self-executing.
 
 | Parked PR | Branch (verified present, 2026-09-04) | Reopened as | State |
 |---|---|---|---|
-| #43 | `mybyb/part2-rung3` @ `5371712` | **#120**, 2026-09-04 | at the author |
-| #42 | `youngnick/dock-ruling` @ `6942db2` | **#121**, 2026-09-04 | at the author |
+| #43 | `mybyb/part2-rung3` @ `5371712` | **#120**, 2026-09-04 | **RE-PARKED 2026-09-04** (see the current window above) |
+| #42 | `youngnick/dock-ruling` @ `6942db2` | **#121**, 2026-09-04 | **RE-PARKED 2026-09-04** (see the current window above) |
 | #41 | `spytwins/b3-vote-mechanism` @ `065833b` | — | **STILL PARKED** |
 
 All three branches are intact. #43 could not be merged as a branch —
