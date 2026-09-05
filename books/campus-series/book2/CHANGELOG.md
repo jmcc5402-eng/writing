@@ -492,3 +492,21 @@ once" cite corrected to ch05:333, "Six months" spend zero in ch 2,
 B2-T10's ch 2 owed closed. Registry: the noon rule; the fight's
 shape. Arc ladder: ch 2 row marked done. Next: ch 4's one more
 exchange.
+
+## 2026-09-05 — ch 4, one more exchange in the lounge (B2-D09 add; PR pending)
+
+Twelve lines added in the two-hander, right after "It's French
+vanilla, Coach. There's nothing on it." Nothing else moved.
+- "This is a bad room," he said. / "It's the best one on the floor."
+  / "Then it's a bad floor." / She laughed, all of it at once, and he
+  had not heard that before. / "It's a hospital." / Past the cold
+  glass the glow was still up over the square, and arguing with her
+  about a room was the easy part of his night.
+- **What it supplies** (the audit's finding): his pleasure is now
+  SAID in ch 4, and one thing he says in the lounge is off the job.
+  This is the second scene that earns ch 8's "he wanted her".
+- **The laugh is spent here** — the plant for ch 6's "at one
+  hearing." Ledger row at the fold.
+- No object moved; no new canon; no new personification, which,
+  clock, or calendar word. Lint: 30.8% dialogue, no lines over 80,
+  no dangling edges, one two-dash sentence (pre-existing).
