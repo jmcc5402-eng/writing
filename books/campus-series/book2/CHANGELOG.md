@@ -445,3 +445,34 @@ romance's ladder) opened; "the good part of a Friday" owed to ch 2.
 Registry: Coach's Table, Tick's tease, Boyd's line, the "safe"
 decode, the porch beer. DECISIONS: B2-D09. `plots/romance-arc.md`
 marked CANON with both adds owed. Next: ch 2's fight scene, one PR.
+
+## 2026-09-05 — ch 2, the Friday check becomes the fight (B2-D09 add; PR pending)
+
+Only the section between the first and second `***` changed.
+- **Two rounds, both lost.** He asks for tomorrow's word on
+  fifty-six today ("Probable's a Friday word. Give me the Saturday
+  one."); she says why not in one sentence ("Probable means he plays
+  if he's the same at noon tomorrow"). He argues her own facts back
+  and loses. Then he pushes on twenty-two, whom she has already
+  cleared: "Coach. That was a yes." / "You're arguing with a yes… You
+  had three arguments today and I only had two boys."
+- **He enjoys it, plainly, and she can tell.** "He liked this part.
+  He knew that about himself and had not done a thing about it." Her
+  tell: both hands stopped flat on the tablet, "It meant she was done
+  and he wasn't." No want, no woman — Stage 1 stays hidden.
+- **Sound carries the witness** (card D1): his voice reaches the far
+  wall, hers reaches him; the trainer cutting tape hears his half,
+  "and his was the half that lost"; fifty-six sees the coach's mouth
+  close.
+- **Absorbed:** "You say that every Friday, Doc." / "And every Friday
+  it turns out I was right." **Rewritten:** the history paragraph —
+  "all three times," "the paper had come back right," no "Six months
+  of Fridays," no luck line. "You'll read it at six…" now closes
+  round two.
+- **Named:** "Aisha Cole" once in narration (her hands), the first
+  time the name appears in ch 2.
+- **New canon on acceptance:** PROBABLE on the Friday sheet means a
+  game-day decision at noon. Ladder: ch 2 plays rung 2 (the audit
+  found the ledger had skipped it).
+- Lint: dialogue 15.1% → 17.3%; no lines over 80; no dangling edges;
+  the chapter's one two-dash sentence stands; hits are pre-existing.
