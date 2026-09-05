@@ -227,9 +227,31 @@ Fails when: a status update reads like a build log; a finding is
 stated in the studio's names for things (rungs, directives, gates,
 folds) instead of what it means for the book.
 
+## 14. Make it an instrument, so the next book is fast
+
+> "I want this to be another instrument we use so eventually we can
+> build these books really fast that made all of these instrument
+> criteria." (2026-09-05) · "Those should be once a book each."
+> (2026-09-03) · "Let's make that a rule going forward: I have to
+> approve each character's arc throughout the story before we write."
+> (2026-09-03)
+
+Caught: the arc gate lived in one pipeline paragraph for two days
+with no template, no tool, and no agent whose job it was — so the
+romance arc had to be discovered by ear at ch 8 instead of checked at
+the outline.
+Check: every lesson the author's ear catches becomes, the same day,
+one of three things: a greppable ban (the lint), a kit template (the
+next book starts with it), or a tool that fails a doc (the check).
+The series kit is the list of what a new book starts with; a lesson
+that is not in the kit will be relearned on the next book.
+Fails when: a rule exists only in a PR comment, a chat, or a
+paragraph nobody's brief reads; the same note arrives on a second
+book.
+
 ---
 
 **Reviewed:** at every fold (new rows in the ledger → new or amended
 entries here); after every listen (the re-mine); after every fourth
 accepted chapter (the taste audit, PIPELINE "The author's notes").
-Last review: 2026-09-05 (entry 13 added).
+Last review: 2026-09-05 (entries 13 and 14 added).

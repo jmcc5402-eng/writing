@@ -9,7 +9,7 @@ production runs under them: brief audit, label shuffle,
 jewel-forge slot, staging clause, furniture registry, anchor
 lines, carryover-reader gate).**
 
-## PICK UP HERE (2026-09-05 — CURRENT)
+## PICK UP HERE (2026-09-05, evening — CURRENT)
 
 **AUTHOR FOCUS: ROMANCE ONLY until Books 1.1–1.4 are done**
 (studio/OPERATIONS.md, 2026-09-04). No other book gets a job.
@@ -25,8 +25,28 @@ angry; Dan added to the first third in her senses. Ch 1–7 accepted.
 sentences, all three under-floor chapters now pass), #125 (the focus
 ruling), and this fold.
 
-**PR #127 OPEN — the ch 8 re-cut, at the author's listen (2026-09-05).**
-Do not chase. The first chapter briefed and drafted romance-first;
+**#127 (ch 8 re-cut) MERGED 2026-09-05 with four comments.** Three
+were fixed in place and are in **#129 (OPEN, MINOR)**: the arrival
+names Aisha Cole; "safe" is explained at the granddad's call; the
+"you hedged" exchange is human (she quotes him back, he nearly
+laughs, the heat line sits inside her stepping in). Listening file:
+`notes/listening/ch08-fixes-2026-09-05.md`.
+
+**The fourth comment — "have we earned 'he wanted her'?" — became
+the author's ask for a romance arc**, and that is **#130 (OPEN,
+DECISION)**: `plots/romance-arc.md`. The romance gets its own inside
+and outside journey, five stages (hidden 1–4; admitted inside 5–8;
+shown between them 9–15; seen 16–22; public 23–30), the ladder with
+holes marked, and THE BUILD CHECK (the inside may lead the outside by
+one stage; a want needs two watched, enjoyed exchanges on the page;
+a kiss waits for help accepted; a public claim waits for a private
+repair). It asks the author's yes on two adds in accepted chapters:
+ch 2's Friday check becomes the fight, shown, two pages; ch 4's
+lounge gets one more exchange. **Nothing in 1–8 moves until #130
+merges.** The wave-3 directive is written to stage 3 and waits on it
+too. Do not chase either PR.
+
+**Earlier note on #127, kept for the record:** Do not chase. The first chapter briefed and drafted romance-first;
 carries the ch 2 self-knowledge rider and the ledger fixes. On merge:
 fold (THREADS ch 8 entry accepted; registry: Tick's tease, Boyd's
 line, the three posts, "Neither of them stepped back" spent twice),

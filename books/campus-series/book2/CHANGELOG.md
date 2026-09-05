@@ -413,3 +413,27 @@ porch, the thirty-day vacate order, the town turning on her the night
 she wins), Aisha's ch 8 diagnosis of the board habit, Boyd seeded on
 the porch, and ch 6's announcement re-staging. Those add scenes and
 change chapter endings; they get briefed, drafted and panel-read.
+
+## 2026-09-05 — ch 8, the author's three fixes (#127 comments)
+
+The author merged #127 and asked for three fixes. All three applied
+in `manuscript/ch08.md`; nothing else in the chapter moved.
+- **The arrival says who.** "He heard her arrive" became "He heard
+  Aisha Cole arrive before he saw her." The long second sentence is
+  now three short ones, and the ", then" is gone.
+- **"Safe" is explained the first time it is used.** Seven lines
+  after the granddad's ask: safe, in this county, this December,
+  means Trey Gault — the doctor saying his brain has healed, and the
+  coach saying it on the air so it counts.
+- **The rail exchange is human.** Aisha quotes his radio dodge back
+  at him ("Paperwork words." "Not my end of the building."), he cops
+  to it, she tells him it does not fit him, he nearly laughs. The
+  heat line now sits inside her stepping in; it no longer floats.
+  The four diagnosis sentences and "He did not answer her." are
+  untouched.
+- **Flagged, not changed:** Tick's porch beer is "cold, no cap on
+  it" (a bottle) while the coolers hold cans. One word if the author
+  wants it.
+- **Not fixed here, by design:** the author's fourth note — is "he
+  wanted her" earned — is answered by the romance arc PR, which
+  proposes the fight scene in ch 2 that ch 8 was leaning on.
