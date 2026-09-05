@@ -2,7 +2,23 @@
 
 Manuscript-affecting changes, newest first. (Hard rule 6.)
 
-## 2026-09-04 — ch 1–6 ROMANCE TOP-UP (at the gate; one PR)
+## 2026-09-05 — ch 7 fold: the four #122 rulings applied
+
+- ch07:95 "C. COLE" → "A. COLE" (ruling 1: a slip); conformed in
+  b12-outline (:413, :849), wave2-directive, the kiss chart, and the
+  ch 5–8 re-cut briefs' protect list.
+- ch07:17–19, added on the author's ruling — Dan in the first third,
+  in her senses: "From the far end of the field Merritt's voice
+  carried / without a headset, same as on a Saturday, / and she
+  heard it before she saw him." The chapter now carries a romance
+  beat in each third (Romance first, #123).
+- Outline weekday fixed (ruling 2): December 19 is a Saturday, so
+  February 6 is a Saturday and February 11 a Thursday.
+- Arc-doc annotation kept (ruling 3); register ruled disappointed,
+  not angry (ruling 4) — no cost added.
+- Header flipped; THREADS ch 7 entry written; registry rows; B2-D08.
+
+## 2026-09-04 — ch 1–6 ROMANCE TOP-UP (ACCEPTED, PR #124 bare merge; folded 2026-09-05)
 
 Under "Romance first" (PR #123) and the author's ask ("we could add a
 handful of lines to each that add romance value"). The panel's blind
@@ -37,7 +53,7 @@ romance drafter persona (card D4):
   four files; no [TK]. Ladder ledger corrected: ch 4 plays rung 4–5
   on the page (the cup; the chairs), not the rung 2 the ledger said.
 
-## 2026-09-04 — ch 7 RE-CUT (at the gate; the third single-chapter PR)
+## 2026-09-04 — ch 7 RE-CUT (ACCEPTED, PR #122 with four rulings)
 
 Executes `plots/recut-brief-ch07.md` v2 — the brief audit BLOCKED v1
 on seventeen findings and the amended version cleared. Panel (P1)

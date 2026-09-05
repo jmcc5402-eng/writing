@@ -72,7 +72,7 @@ fighting since June and the book treats the fight as the flirtation.
 | 04 | ● PAGE | **The first two-hander since June that isn't a fight.** The quiet tent, ice water, cap turned over in his hands. *"She looked at him over the cup."* |
 | 05 | ● PAGE | **HER WANT NAMED**, alone, in her own room: *"She wanted him… Not the coach, not the whistle."* Immediately filed: *"Inadvisable, she told herself, and that was also true."* Earlier the same day: *"You've fought me all season." / "And I'm undefeated."* |
 | 06 | ● PAGE | Selection Sunday. *"She never looked at him while she said it."* |
-| 07 | ● PAGE | The coat — XXL, "C. COLE" stitched over the staff patch, handed over as a lost order. *"Her hands came out the ends into the lamplight."* He *"looked at her hands exactly once."* Neither says what it is. |
+| 07 | ● PAGE | The coat — XXL, "A. COLE" stitched over the staff patch, handed over as a lost order. *"Her hands came out the ends into the lamplight."* He *"looked at her hands exactly once."* Neither says what it is. |
 | 08 | ● PAGE | **HIS WANT NAMED**, after the porch empties: *"He wanted her… Aisha Cole, who would stand up alone on a cold porch in front of the whole listening county and hold the line for a boy who would never even know it got held."* And the button: **two paper plates on the rail, one bite gone from each.** |
 | 09 | ◐ PLAN | Apart. She finds the Cordelia letter; the carryover couple gets a two-line cameo. |
 | 10 | ◐ PLAN | Apart. He feels the first splinter — the rendering's footprint starts where her rooms stand. |
@@ -95,7 +95,7 @@ fighting since June and the book treats the fight as the flirtation.
 | 27 | ◐ PLAN | He testifies unscheduled, at full cost, and says her name plainly — **public defense BEFORE private repair, as ruled.** |
 | 28 | ◐ PLAN | Vindication. Apart — *"his name spent; hers not yet answered."* |
 | 29 | ◐ PLAN | **HEAT 3 + the private repair.** No speech: he shows her the phone with the board app gone; she shows him the car, unpacked one box at a time, and lets him carry half. |
-| 30 | ◐ PLAN | Two parkas on one hook — *"C. COLE" and no name at all, because everyone knows whose the other one is.* |
+| 30 | ◐ PLAN | Two parkas on one hook — *"A. COLE" and no name at all, because everyone knows whose the other one is.* |
 
 ---
 

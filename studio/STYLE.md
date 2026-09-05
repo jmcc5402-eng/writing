@@ -421,7 +421,7 @@ Where the rule bites:
    the subtext starts.** Subtext is what people do around a thing
    they have said; it is not a substitute for saying it.
 2. **Briefs and staging orders write beats as sentences**, never
-   as noun-phrase clusters. "The coat: XXL, C. COLE, a lost-order
+   as noun-phrase clusters. "The coat: XXL, A. COLE, a lost-order
    shrug" is a shopping list; a drafter cannot tell what happens.
    "He gives her his own coat and lies about where it came from,
    and she lets him" is a beat.
