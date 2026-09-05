@@ -22,7 +22,7 @@ docs); F## fair-play rows (b12-outline.md table governs).
 | F8/RH2 | Denny Gault, loudest voice, obvious complaint author — DECLARED red herring | ch 4: **Denny AUTHORED the "just asking for clarity on the evaluation timeline" thread** (ruled, sweep Q3) + **ch 6 (the DECEMBER letter is his own draft, on his phone, and Dan refuses it in public)** + 12 | cleared **ch 28** — **and the letter he refuses to sign is the JANUARY one**, the same campaign rewritten by other hands (ch 18, "Eleven Families," where his name is absent from the eleven). Two letters, not one; the December draft is his and honest, the January rewrite is not his and is the knife | OWED |
 | F10 | The walk-on stays on merit | honest signal ch 3 (one line: the backup package the walk-on ran all week) + **ch 6 SPENT (the December letter never names him; Dan names him — "That letter's about Marisol Pruett's boy losing his spot" — and refuses; F10's rehearsal logic starts here)** + 12, 18 | **ch 28** | OWED |
 | F13 | The county's official wrong story as engine thesis | ch 1 (square kiss retold fondly, wrong, uncorrected — "It's how we tell it") | **ch 23** aimed, **ch 28** corrected | OWED |
-| B2-T10 | The romance's ladder (plots/romance-arc.md, CANON #130): stage 2 "admitted inside" reached ch 5 (hers) and ch 8 (his); stage 3 opens ch 11 (inside) / ch 13 (outside) | ch 5, ch 8 | the build check runs before ch 11, 13, 15, 27 briefs | **OWED: ch 2 fight shown; ch 4 one more exchange** (both approved) |
+| B2-T10 | The romance's ladder (plots/romance-arc.md, CANON #130): stage 2 "admitted inside" reached ch 5 (hers) and ch 8 (his); stage 3 opens ch 11 (inside) / ch 13 (outside) | ch 5, ch 8 | the build check runs before ch 11, 13, 15, 27 briefs | ch 2 fight shown — DONE (#132). **OWED: ch 4 one more exchange** (approved) |
 | S01 | Cordelia (series) | room nine IS Cordelia's room — Aisha lives in it (SR-B2-2, ruled at #106) | letter beats from ch 9 | live, light |
 | S11 | Merritt's relief years (series) | B2-T01 carries its only permitted surface | spends ~set 3 | DORMANT by design |
 
@@ -48,7 +48,7 @@ docs); F## fair-play rows (b12-outline.md table governs).
   motif's plant/turn; do NOT reuse the gesture wording again.
 - **"Never once" (RECENT watch) — CORRECTED at the ch 6 fold
   (2026-09-04):** the ledger said ZERO. It is **TWO, both on
-  accepted pages**: ch05:330 ("he had never once looked at her and
+  accepted pages**: ch05:333 ("he had never once looked at her and
   seen a woman") and ch06:22 ("Ashford had never once been one" —
   the Selection Sunday decode gloss, pre-re-cut). The cap is one
   book-wide, so the cap is **blown and the ch 8 deal is off**:
@@ -57,9 +57,16 @@ docs); F## fair-play rows (b12-outline.md table governs).
   outright. The two accepted uses are debt for the polish pass;
   ch 6's is the cheaper of the two and goes first if only one goes.
 - **"Six months…" scaffold:** per-chapter cap 1 (staging order
-  :176); wave-2 deal = zero new in ch 5–8.
+  :176); wave-2 deal = zero new in ch 5–8. **Ch 2's spend went to
+  ZERO at the fight add (#132)**; ch 4:311 "Six months of her calls"
+  keeps its partner in ch 2's "the paper had come back right every
+  one of those weeks."
+- **Arrival clock in ch 2 after #132:** "Every Friday since June"
+  (once, protected); "in June and twice in August"; no "six months".
 - **The closeness ladder (STYLE.md, author 2026-09-03) — high-water
   mark by chapter:** ch 1 rung 1 (flatbed, forearms, at a distance)
+  · ch 2 rung 2 (the check: standing distance, the sheet between
+  them; her voice reaches only him — added to the ledger 2026-09-05)
   · ch 3 rung 2 (up close in the tent) · ch 4 rung 4–5 (the cup
   handed over; two plastic chairs and "neither of them got up" —
   corrected 2026-09-04 by the romance count; the ledger had said 2)
@@ -94,7 +101,18 @@ they know you"); room nine via Verna's blanket note (SR-B2-2);
 the slice sign + origin (SR-B2-5). Plants: B2-T01, F13, totem
 named-not-spent. Hands forward: the county's bravado, unpriced.
 
-### Ch 2 — Everything to Prove (ACCEPTED #106)
+### Ch 2 — Everything to Prove (ACCEPTED #106; the fight add ACCEPTED #132, 2026-09-05)
+**The add (B2-D09):** the Friday check is now two rounds, both lost,
+both enjoyed — "Probable's a Friday word… Give me the Saturday one."
+/ "Probable means he plays if he's the same at noon tomorrow."; then
+"Coach. That was a yes." / "You're arguing with a yes. You had three
+arguments today and I only had two boys." He likes this part and the
+page says so; her tell is both hands flat on the tablet; the trainer
+hears his half, "and his was the half that lost." "Dr. Aisha Cole"
+named once at her entrance. Rung 2 (standing distance; her voice
+reaches only him). This is the FIRST of the two scenes that earn
+ch 8's "he wanted her" (ch 4's lounge is the second); ch 8's "the
+good part of a Friday" now means this half hour.
 Introduces: Dan's entrance reel (walkthrough craft, curfew
 kindness); verdict-manager identity; rules-as-insurance (the
 clean program as scar tissue); Boyd's rendering liked OUT LOUD;

@@ -484,3 +484,11 @@ Only the section between the first and second `***` changed.
   ch 2:140–142 ("this hour was his favorite of the week", the
   walkthrough) beside the check as "the one half hour in his week"
   where the no holds — two different pleasures, both accepted text.
+
+## 2026-09-05 — fold: #132 (ch 2 fight add) accepted
+
+No prose changed. THREADS: ch 2 entry, ladder rung 2 added, "never
+once" cite corrected to ch05:333, "Six months" spend zero in ch 2,
+B2-T10's ch 2 owed closed. Registry: the noon rule; the fight's
+shape. Arc ladder: ch 2 row marked done. Next: ch 4's one more
+exchange.

@@ -3,7 +3,7 @@
 **CANON — #130 merged 2026-09-05 (author: "Merged"). The arc, the
 five stages, the build check, and BOTH adds (ch 2's Friday-check
 fight shown; ch 4's one more exchange) are approved. The two adds
-are OWED: ch 2 first, ch 4 next, one chapter per PR. Written in
+are OWED: ch 2 DONE (#132, 2026-09-05); ch 4 next, its own PR. Written in
 plain sentences.**
 
 **The author's ask (2026-09-05):** *"Much like the Michael Hauge
@@ -71,7 +71,7 @@ to. This table is what `studio/tools/romance-build-check.py` reads.
 | Ch | In | Out | Rung on the page | Spends | Earned by | Hole |
 |---|---|---|---|---|---|---|
 | 1 | 1 | 1 | She watches him handle a crowd; his size on the flatbed | — | — | — |
-| 2 | 1 | 1 | The Friday check as a fight, two pages, both enjoying it (TO ADD) | — | — | — |
+| 2 | 1 | 1 | The Friday check as a fight: two rounds, both lost, both enjoyed; "You're arguing with a yes." (#132) | — | — | — |
 | 3 | 1 | 1 | The tent: "What do you need?" — he hands her the call whole | — | — | — |
 | 4 | 1 | 1 | The lounge: "You're looming"; the cup; one more exchange (TO ADD) | — | — | — |
 | 5 | 2 | 2 | The whiteboard: neither steps back; her want named | want | 2, 3, 4 | — |

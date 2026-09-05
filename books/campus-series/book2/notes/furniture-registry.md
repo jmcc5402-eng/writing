@@ -43,3 +43,5 @@ finding). Started at the wave-1 fold (2026-08-30).
 | "Safe" | decoded once: safe, in this county, this December, means Trey Gault — the doctor saying his brain has healed, the coach saying it on air so it counts | ch 8 (#129) |
 | The porch beer | Tick's, "cold, no cap on it" (reads as a bottle; the coolers hold cans — author's call, flagged #129) | ch 8 |
 | "The good part of a Friday" | ch 8: being caught by her "felt like the good part of a Friday" — the phrase's meaning is OWED to ch 2's Friday-check fight | ch 8 → ch 2 (owed) |
+| PROBABLE on the Friday sheet | a game-day decision at noon, not before ("Probable means he plays if he's the same at noon tomorrow"); the sheet itself does not change overnight | ch 2 fight add (#132) |
+| The Friday check as a fight | he pushes, she holds, he loses on the merits and likes it; her tell: both hands stopped flat on the tablet; the trainer cutting tape hears his half only | ch 2 (#132) |
