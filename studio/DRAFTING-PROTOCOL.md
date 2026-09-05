@@ -259,8 +259,18 @@ conflict, the ratified list wins.
 
 ## The reversal slot and the say-it test (author law, 2026-09-03)
 
-Every chapter brief carries two lines the drafter must be able to
-read back as sentences:
+Every chapter brief opens with THE ROMANCE MOVE and carries the
+lines below, each one the drafter must be able to read back as a
+sentence:
+- **THE ROMANCE MOVE (first line of every brief — Romance first,
+  studio/STYLE.md):** what this chapter does to the feeling between
+  the leads — closer, farther, or a new thing known — in one
+  sentence. Plot comes after it.
+- **ROMANCE BEATS:** at least three, of at least two kinds from the
+  rule's list, planned as a numbered list with kinds and placement
+  (first third / middle / last third). The COUPLE LINE lives here as
+  kind 1 (the ladder rung). The panel's independent count is the one
+  that stands; under three, the chapter is returned before staging.
 - **REVERSAL:** who loses what in this chapter, on the page, and
   what it costs them. A chapter without a loser is not a chapter.
 - **THE ARGUMENT, SAID:** the one complete sentence a stranger could
@@ -271,10 +281,10 @@ read back as sentences:
   person they were in chapter one would not have done, and why.
   From the author-approved arc doc (studio/PIPELINE.md §3b). A
   chapter may have no arc beat only if the arc doc says so.
-- **COUPLE LINE:** whether the leads share a scene, whether they
-  speak, and which rung the chapter's proximity beat plays
-  (`studio/STYLE.md`, the closeness ladder), in one sentence. Two
-  apart-chapters may not run in a row; an apart-chapter says why.
+- **COUPLE LINE (now inside ROMANCE BEATS as kind 1):** which rung
+  the chapter's proximity beat plays and whether the leads share a
+  scene and speak. Two apart-chapters may not run in a row; an
+  apart-chapter says why, and still owes three beats.
 - **END REGISTER carries a direction:** UP or DOWN, relative to where
   the chapter opened. No two consecutive chapters end at the same
   level. (Author, 2026-09-03: "more ups and downs.")
@@ -284,3 +294,10 @@ read back as sentences:
 - **NAMING, FULL LIST:** any naming rule in the brief lists every
   speaker class and a default for the rest; the chapter lint reports
   each use with its speaker.
+- **THE OPENING, SAID:** the chapter's first paragraph, as a plain
+  sentence a stranger could repeat — what today is and what is at
+  stake in it (STYLE.md, the explicit opening). The panel reads the
+  first paragraph alone and says what the chapter is about.
+- **TASTE:** the two or three entries of `studio/AUTHOR-TASTE.md`
+  this chapter most risks, by number, and the check that catches
+  each. Panels and editors answer it as their last finding.
