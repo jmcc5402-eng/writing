@@ -639,3 +639,4 @@ first (the author: "before makes sense"). `manuscript/ch10.md`,
   patch; the thing he did not say. Ends DOWN.
 - Dialogue came in at 13.2% and was topped up in the film room and
   the Mule to 15.5%. Lint clean otherwise.
+- **Panel 1.3.0: PASS WITH FIXES, applied** — 18 beats, seven kinds; the coat in his POV is the swoon; the clash a real fight with Dan the loser; Boyd frightens without threatening. Fixes: the house named; the thing he did not say, said; ch 9's phrase cut; her in the doorway scene (a coat handed hand to hand by a man who could); one clever line cut; "the card" and "about boxes" made plain; the tables counted against hers; her jaw in the cold.
