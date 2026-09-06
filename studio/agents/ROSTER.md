@@ -37,7 +37,7 @@ Rules of the project:
 | `market-pitch-agent` | 1.1.0 | inherit | Comps, queries, synopses, publishing strategy |
 | `junior-literary-critic` | 1.1.0 | inherit / high | Two-part outside read: one-page critique + one-page prioritized recommendations |
 | `gtm-strategist` | 1.0.0 | inherit / high | Go-to-market strategy and portfolio economics; materials stay with market-pitch-agent |
-| `showrunner` | 2.2.1 | inherit / high | The ambitious publisher-author: nightly all-books shift, publisher's-eye + author's-eye per book, dispatches the instrument battery, momentum mandate; still never writes prose, decides canon, or merges |
+| `showrunner` | 2.3.0 | inherit / high | The ambitious publisher-author: nightly all-books shift, publisher's-eye + author's-eye per book, dispatches the instrument battery, momentum mandate; still never writes prose, decides canon, or merges |
 
 Plus the skills `/new-book-outline` (`.claude/skills/new-book-outline/`)
 and `/triage` 1.0.0 (`.claude/skills/triage/` — the author's PR queue

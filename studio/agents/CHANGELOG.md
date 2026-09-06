@@ -3,6 +3,18 @@
 Newest first. Every entry: version, what changed, and the evidence that
 drove it.
 
+## 2026-09-06 — showrunner 2.3.0: the chapter card before every chapter read
+
+Author, 2026-09-06: "For each new chapter I would like a very
+concise overview of where we are in the plot (plot arc), same for
+character arcs for both leads, and a same for romance arc." Then:
+"Yes this was great. Make this a standing review before each chapter
+read." The showrunner writes the card from the arc docs, the outline
+and THREADS before any chapter PR opens; it is the top of the PR
+body and, via the new `studio/tools/listening-file.py` (the scratch
+generator promoted to a tool), the top of the listening file. Kit
+template 12; PIPELINE §3c; PR-WORKFLOW rule 10.
+
 ## 2026-09-06 — romance-reader-panel 1.3.0: every scene, and the apart test
 
 Author, 2026-09-06, returning ch 9 of Book 1.2 after the panel
