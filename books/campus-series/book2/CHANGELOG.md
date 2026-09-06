@@ -579,3 +579,15 @@ the drafter for a weave pass (Merritt in every scene, in her head,
 warm and plain) plus the four fixes. **The car:** Aisha drives a
 RAV4 from here; "the truck" conformed in ch 1 and ch 7 (one word
 each).
+- **Rewrite landed (2026-09-06):** the opening slow and true (the
+  boxes are the people before him; the boy's record is hers, on the
+  tablet); Earlene plain; the RAV4; room nine said in the section's
+  first sentence; Merritt in every scene (the coat cut for a big man
+  and his shoulders when the cuff falls; his voice come down to one
+  person at Friday's check; "So would I." beside the letter; his
+  hands on his knees through the three seconds; looking for his
+  truck on the square; the cup she watches Marisol hand Cal; the
+  want in room nine as a sum). Panel 1.3.0 (the first apart test):
+  PASS WITH FIXES, applied — the hidden-coat rule (no "Merritt's
+  size"), the Checkerboard named, Verna's arrival in order, the
+  banked ch 25 phrase kept off the page, his hands off the rail.
