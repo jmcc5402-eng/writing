@@ -45,3 +45,4 @@ finding). Started at the wave-1 fold (2026-08-30).
 | "The good part of a Friday" | ch 8: being caught by her "felt like the good part of a Friday" — the phrase's meaning is OWED to ch 2's Friday-check fight | ch 8 → ch 2 (owed) |
 | PROBABLE on the Friday sheet | a game-day decision at noon, not before ("Probable means he plays if he's the same at noon tomorrow"); the sheet itself does not change overnight | ch 2 fight add (#132) |
 | The Friday check as a fight | he pushes, she holds, he loses on the merits and likes it; her tell: both hands stopped flat on the tablet; the trainer cutting tape hears his half only | ch 2 (#132) |
+| The bad-room exchange | ch 4 lounge: "This is a bad room." / "It's the best one on the floor." / "Then it's a bad floor." / her laugh, all at once, first heard / "It's a hospital." | ch 4 (#133) |

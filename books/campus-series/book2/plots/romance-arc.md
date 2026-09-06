@@ -3,7 +3,7 @@
 **CANON — #130 merged 2026-09-05 (author: "Merged"). The arc, the
 five stages, the build check, and BOTH adds (ch 2's Friday-check
 fight shown; ch 4's one more exchange) are approved. The two adds
-are OWED: ch 2 DONE (#132, 2026-09-05); ch 4 next, its own PR. Written in
+are DONE: ch 2 (#132) and ch 4 (#133), 2026-09-05. The build is on the page. Written in
 plain sentences.**
 
 **The author's ask (2026-09-05):** *"Much like the Michael Hauge
@@ -51,6 +51,11 @@ scene where the next step started.
 | **4. Seen** | 16–22 | Hope; the firewall's tax. | Couple beats, rationed. The town half-sees: a photo exists (21), the board guesses (12 → 23). He defends the hold on air, everything but her name (22). | The one lit room (17). The packing in public (19). The supper table (20). |
 | **5. Public** | 23–30 | Each would rather be the one who pays. | Their own image weaponized (23). His silence (24). Her packing (25). The standoff (26). His name spent in public (27). Her unpacking, and letting him carry half (29). Two parkas on one hook (30). | The hearing (27). The car (29). The hook (30). |
 
+*Stage ranges are the arc's shape; the ladder table below is the
+record the check reads. Where they differ at an edge (ch 9–10 sit in
+"9–15" above but carry In 2 / Out 2 below), the ladder wins: stage 3
+opens inside at ch 11 and outside at ch 13.*
+
 ## 3. The ladder, chapter by chapter, with the holes marked
 
 Book One's ladder for comparison, from its kiss chart: meet (1) →
@@ -73,7 +78,7 @@ to. This table is what `studio/tools/romance-build-check.py` reads.
 | 1 | 1 | 1 | She watches him handle a crowd; his size on the flatbed | — | — | — |
 | 2 | 1 | 1 | The Friday check as a fight: two rounds, both lost, both enjoyed; "You're arguing with a yes." (#132) | — | — | — |
 | 3 | 1 | 1 | The tent: "What do you need?" — he hands her the call whole | — | — | — |
-| 4 | 1 | 1 | The lounge: "You're looming"; the cup; one more exchange (TO ADD) | — | — | — |
+| 4 | 1 | 1 | The lounge: "You're looming"; the cup; "This is a bad room."; her laugh heard; "the easy part of his night" (#133) | — | — | — |
 | 5 | 2 | 2 | The whiteboard: neither steps back; her want named | want | 2, 3, 4 | — |
 | 6 | 2 | 2 | The rail: "I'm not on Millrow, Coach"; her hair as she passes | — | — | — |
 | 7 | 2 | 2 | The memo over the box; "let me ask around" | — | — | — |

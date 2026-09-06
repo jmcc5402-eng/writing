@@ -22,7 +22,7 @@ docs); F## fair-play rows (b12-outline.md table governs).
 | F8/RH2 | Denny Gault, loudest voice, obvious complaint author — DECLARED red herring | ch 4: **Denny AUTHORED the "just asking for clarity on the evaluation timeline" thread** (ruled, sweep Q3) + **ch 6 (the DECEMBER letter is his own draft, on his phone, and Dan refuses it in public)** + 12 | cleared **ch 28** — **and the letter he refuses to sign is the JANUARY one**, the same campaign rewritten by other hands (ch 18, "Eleven Families," where his name is absent from the eleven). Two letters, not one; the December draft is his and honest, the January rewrite is not his and is the knife | OWED |
 | F10 | The walk-on stays on merit | honest signal ch 3 (one line: the backup package the walk-on ran all week) + **ch 6 SPENT (the December letter never names him; Dan names him — "That letter's about Marisol Pruett's boy losing his spot" — and refuses; F10's rehearsal logic starts here)** + 12, 18 | **ch 28** | OWED |
 | F13 | The county's official wrong story as engine thesis | ch 1 (square kiss retold fondly, wrong, uncorrected — "It's how we tell it") | **ch 23** aimed, **ch 28** corrected | OWED |
-| B2-T10 | The romance's ladder (plots/romance-arc.md, CANON #130): stage 2 "admitted inside" reached ch 5 (hers) and ch 8 (his); stage 3 opens ch 11 (inside) / ch 13 (outside) | ch 5, ch 8 | the build check runs before ch 11, 13, 15, 27 briefs | ch 2 fight shown — DONE (#132). **OWED: ch 4 one more exchange** (approved) |
+| B2-T10 | The romance's ladder (plots/romance-arc.md, CANON #130): stage 2 "admitted inside" reached ch 5 (hers) and ch 8 (his); stage 3 opens ch 11 (inside) / ch 13 (outside) | ch 5, ch 8 | the build check runs before ch 11, 13, 15, 27 briefs | ch 2 fight shown — DONE (#132); ch 4 one more exchange — DONE (#133). Both earning scenes for ch 8's want are on the page. |
 | S01 | Cordelia (series) | room nine IS Cordelia's room — Aisha lives in it (SR-B2-2, ruled at #106) | letter beats from ch 9 | live, light |
 | S11 | Merritt's relief years (series) | B2-T01 carries its only permitted surface | spends ~set 3 | DORMANT by design |
 
@@ -40,7 +40,9 @@ docs); F## fair-play rows (b12-outline.md table governs).
   ch 1→ch 3 "one Saturday plays for the whole year" echo is the
   priced-bravado payoff, the motif's one echo, SPENT.
 - **Quiet-band dialogue slots (one per quarter):** Q1 spent on
-  ch 3 (13.1%).
+  ch 3 (13.1%). Q2 open (ch 9 came in at 15.5% after a top-up).
+- **Her laugh (once heard, then known):** first heard ch 4 (#133,
+  "all of it at once"); ch 6 "at one hearing" now has its hearing.
 - **Coach's-slice catchphrase** ("I'm eating it where he can
   see me"): BANKED — first spend ch 5. Slice canon set
   (quarter of a whole pie, $4, one piece, his standing order).
@@ -130,7 +132,14 @@ the page (SR-B2-1); Verna's note register. Pays: the bonfire's
 bravado, priced (the ch 1 anchor echo, spent). Plants: F10's
 honest signal. Offstage-student mechanic held absolutely.
 
-### Ch 4 — The Quiet Tent (ACCEPTED #106)
+### Ch 4 — The Quiet Tent (ACCEPTED #106; B2-D03 rulings folded #112; the lounge exchange added #133, 2026-09-05)
+**The add (B2-D09):** twelve lines in the two-hander — "This is a
+bad room." / "It's the best one on the floor." / "Then it's a bad
+floor." / She laughed, all of it at once, and he had not heard that
+before. / "It's a hospital." / "…arguing with her about a room was
+the easy part of his night." His pleasure said; one line off the
+job; **her laugh heard for the first time** (plants ch 6's "at one
+hearing"). The SECOND scene that earns ch 8's "he wanted her".
 The first real two-hander (registers aligned: "Nobody knows
 yet; that's the answer"); NO CALENDAR WORDS card beat; Missy in
 person + the notebook (F12 seeding); Denny in person AND as

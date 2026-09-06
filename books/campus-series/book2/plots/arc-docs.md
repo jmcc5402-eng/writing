@@ -1,7 +1,6 @@
 # Book 1.2 — Character arcs (THE ARC GATE, studio/PIPELINE.md §3b)
 
-**PROPOSED 2026-09-03 for the author's approval. Nothing below is
-canon until this PR merges. Written under the say-it test: every
+**CANON — #114 merged bare 2026-09-03 (B2-D05). Written under the say-it test: every
 line is a sentence a stranger could repeat.**
 
 Sources: premise §3 (wound / identity / essence, ratified at #105);

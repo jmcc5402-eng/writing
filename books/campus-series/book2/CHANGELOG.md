@@ -511,3 +511,55 @@ vanilla, Coach. There's nothing on it." Nothing else moved.
   clock, or calendar word. Lint: 30.8% dialogue, no lines over 80,
   no dangling edges, one two-dash sentence (pre-existing).
 - **Panel: PASS, no fixes.** "Protect the bad-room lines verbatim; it is the chapter's screenshot beat and the only laugh in the chapter. It is a hospital. is the brake that keeps the add at Stage 1."
+## 2026-09-05 — ch 9, The Wall in the Annex — FIRST DRAFT (PR pending)
+
+The first new chapter under the romance's arc (B2-D09), briefed,
+audited, drafted, and panel-read alone (author: "just do chapter
+9"). `manuscript/ch09.md`, ~2,900 words, card D7.
+- **What happens.** Saturday, no game. Aisha packs the records room
+  herself (Merritt asked her Wednesday to wait; she did not),
+  inventorying every folder because the paper is the proof. Friday's
+  check ran at 5:15 and neither of them said the word porch; his
+  "So would I." from the rail is the line she kept, and her plate
+  with one bite gone. The key hook comes off the wall and the wall
+  gives up an envelope: Cordelia Hartwell, to the night nurse. She
+  reads it once; its text is not on the page; what it did to her is
+  said plainly (it was not written to her and she was in it anyway
+  — being wanted in this building on purpose). Verna brings the
+  whirlpool towels (new arrangement: Sonny's truck up, the motel's
+  washers, twelve owed back), says her one sideways line about the
+  coach's three seconds of silence, and says "Cordelia Hartwell
+  stayed in room nine" to the corridor; Aisha says nothing about the
+  letter. The Checkerboard: the Table had jokes for her Wednesday
+  and has the paper today; one man looks past her, the den mother
+  does not; Earlene's anchor (the WPA infirmary, the fevers,
+  "Buildings remember"); "By myself" heard twice in three days. She
+  drives up Millrow on purpose to see Hartwell House: Marisol Pruett
+  with the thermos, Cal Sutter taking his cup, two words and one.
+  Room nine: the letter into the wool coat's breast pocket; "She
+  wanted him."; "She would like to see him try."; boots under the
+  rack; the next check, five fifteen, Merritt across the sheet.
+- **Panel: PASS WITH FIXES, applied** — the middle hears him (the
+  "By myself" echo); the letter's effect said; the Table's paper as
+  the down; why Millrow said; the ending off ch 7's bed-and-blanket
+  picture; trims (the custody sermon, the room inventory, one
+  "two-stage bang").
+- **Dialogue** came in under the floor after the fixes (11.5%) and
+  was topped up inside Verna's and Earlene's scenes.
+- **Canon caught by the audit:** the outline's "a hundred years
+  dead" for Cordelia contradicts the town file and Book One (alive
+  within Verna's lifetime). The chapter leaves her undated. Routed
+  to the author with the calendar question (A1).
+- **New canon on acceptance:** the key hook and the cavity; the
+  envelope; the parka's inside pocket; the letter lives in the wool
+  coat's breast pocket; the towel arrangement; Saturday as the
+  roster's off day; the scaffold path; "Hartwell House" named in
+  1.2; "the truck"; Merritt's "wait" not waited on.
+
+## 2026-09-06 — fold: #133 (ch 4 lounge exchange) accepted
+
+No prose changed. THREADS: ch 4 entry; B2-T10 both adds DONE; her
+laugh ledger row; Q2 quiet band still open. Arc ladder: ch 4 row
+done; a note that the ladder wins over the stage ranges at the
+edges (ch 9–10 are stage 2). Registry: the bad-room exchange. Ch 4
+header records #112 and #133. arc-docs header marked CANON (#114).
