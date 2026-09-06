@@ -9,7 +9,8 @@ finding). Started at the wave-1 fold (2026-08-30).
 | The coach's slice | quarter of a whole pie, $4, one piece, named for Dan's standing order; on the sign; catchphrase banked for ch 5 | ch 1; SR-B2-5 |
 | Room nine | Aisha's month-to-month room = Cordelia's room; blanket note "Furnace in 9 runs behind when the wind comes north" | ch 1; SR-B2-2 |
 | The back-room displacement | home Saturdays: her room goes at game rates; Verna moves her to the back room off the office; traffic cone marks her space | ch 3; SR-B2-1 |
-| The nine-minute pack | she can have the whole room in the truck in nine minutes; timed June + October | ch 1 |
+| The nine-minute pack | she can have the whole room in the RAV4 in nine minutes; timed June + October | ch 1 (conformed #134) |
+| Aisha's car | a RAV4 (author, 2026-09-06: "She should drive a rav4 or Camry" — RAV4 by default, the nine-minute pack needs the hatch; strike by comment). Never "the truck"; no gears, no transmission talk — "this is a modern book." Ch 12's honest signal (a crew-cab truck that is not Dan's) is cleaner for it. | ch 1, 7, 9 (#134) |
 | Dan's Friday check | 4:15–4:45, printed into the practice schedule; he typed the line himself; asked once (September, via trainers), took the no | ch 2 |
 | The nightly tab | last thing before lights out; reads to the bottom every night; phone face-down = the plant/turn motif (spent ch 2→ch 4; do not reuse wording) | ch 2, 4 |
 | The whistle | comes off with the keys onto the charger tray, back on before the phone | ch 2 |
@@ -45,3 +46,4 @@ finding). Started at the wave-1 fold (2026-08-30).
 | "The good part of a Friday" | ch 8: being caught by her "felt like the good part of a Friday" — the phrase's meaning is OWED to ch 2's Friday-check fight | ch 8 → ch 2 (owed) |
 | PROBABLE on the Friday sheet | a game-day decision at noon, not before ("Probable means he plays if he's the same at noon tomorrow"); the sheet itself does not change overnight | ch 2 fight add (#132) |
 | The Friday check as a fight | he pushes, she holds, he loses on the merits and likes it; her tell: both hands stopped flat on the tablet; the trainer cutting tape hears his half only | ch 2 (#132) |
+| The bad-room exchange | ch 4 lounge: "This is a bad room." / "It's the best one on the floor." / "Then it's a bad floor." / her laugh, all at once, first heard / "It's a hospital." | ch 4 (#133) |

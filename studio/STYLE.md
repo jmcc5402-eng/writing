@@ -310,6 +310,22 @@ other twice on the page. A kiss waits for help accepted. A public
 claim waits for a private repair. The reader must be able to point
 to the scene where the next step started.
 
+**Woven, not counted (author, 2026-09-06).** Ch 9 of 1.2 passed the
+floor — six beats, four kinds, both edge thirds — and the author
+returned it: *"She doesn't think about Dan the entire chapter and
+then just says to herself that she wants him. Too abrupt. This book
+seems to have none of the romance vibe of book one. There's nothing
+woven in to the various scenes."* The floor counts thirds; the
+reader feels scenes. So the rule is per SCENE, not per third: the
+other lead is present in every scene of the chapter — in the POV's
+head or senses, as a person, warm, physical, and said plainly — and
+a want named at the end is the sum of what every scene before it
+carried. An apart chapter is the hard case and gets no exemption:
+the coat he was cut for, the line of his she kept, the place she
+looks for him and he is not, the couple she watches and measures
+against a rail. A chapter whose beats sit at the two ends with a
+cold middle fails, whatever the count says.
+
 **How it is counted.** The brief plans the beats as a numbered list
 with kinds. The drafter delivers them and reports each with its line
 number. The romance-reader-panel finds them independently, counts,

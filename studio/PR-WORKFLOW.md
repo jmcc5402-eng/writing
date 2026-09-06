@@ -235,6 +235,15 @@ and published only when the author says they're ready to read
 (so the approval prompt arrives when they're looking at it).
 Same URL discipline once a page exists for a given read.
 
+## Rule 10 — the chapter card (author, 2026-09-06)
+
+Every CHAPTER PR opens with the chapter card: where we are in the
+plot, each lead's arc, the romance, the town, and the clock, one
+paragraph each, with chapter numbers. It is filed at
+`notes/cards/chNN-card.md` and rides on top of the listening file.
+The author reads it before the chapter. Template:
+`studio/series-kit/12-chapter-card.md`; law: PIPELINE §3c.
+
 ## Rule 9 — PRs are written for a stranger (author, 2026-08-13;
 ## campus-series scope for now)
 

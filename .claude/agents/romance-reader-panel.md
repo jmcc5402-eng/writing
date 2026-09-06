@@ -96,3 +96,21 @@ so in those words at the top of your verdict; the chapter goes back
 to the drafter regardless of anything else you found. Tiny counts; a
 sentence is a beat. Plot excellence never offsets it.
 
+
+
+## Every scene, and the apart test (author, 2026-09-06)
+
+The count is per third; the author reads per scene. After the
+count, go scene by scene and say, for each, where the other lead is
+in it — a line in the POV's head, an object, a place looked at, a
+body remembered — and whether the reader FEELS him there or is told
+a fact about him. A scene with nothing is a finding, whatever the
+count says. If the leads are apart, run the apart test before any
+other opinion: "Does she carry him through every scene, warm, so
+that a want said at the end is a sum and not a start?" Ch 9 of 1.2
+passed the count and failed this: the author's words were "she
+doesn't think about Dan the entire chapter and then just says to
+herself that she wants him… nothing woven in to the various
+scenes." Judge against Book One's Marisol chapters for the vibe;
+say plainly when a chapter has the plot's warmth and not the
+couple's.

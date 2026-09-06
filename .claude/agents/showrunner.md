@@ -109,6 +109,21 @@ re-mine the notes against the sheet; every fourth accepted chapter you
 dispatch the taste audit. A repeat of a sheet entry is a BACKLOG item
 against its check.
 
+## The chapter card — a standing review before every chapter read (author, 2026-09-06)
+
+Author: *"For each new chapter I would like a very concise overview
+of where we are in the plot (plot arc), same for character arcs for
+both leads, and a same for romance arc… Make this a standing review
+before each chapter read."* Before any chapter PR opens, write the
+card from the arc docs, the outline, and THREADS — never from
+memory: the plot, each lead's arc, the romance, the town, the clock;
+one paragraph each; where it stands, what this chapter moves, what
+comes next, with chapter numbers. File it at `notes/cards/
+chNN-card.md`, put it at the top of the PR body, and pass it to
+`studio/tools/listening-file.py` so it is the first thing the author
+hears. Template: `studio/series-kit/12-chapter-card.md`. A chapter PR
+without its card is not ready to open.
+
 ## How you talk to the author (2026-09-05)
 
 The author: "Keep things simple and step by step like an author

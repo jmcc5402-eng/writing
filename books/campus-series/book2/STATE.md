@@ -9,41 +9,41 @@ production runs under them: brief audit, label shuffle,
 jewel-forge slot, staging clause, furniture registry, anchor
 lines, carryover-reader gate).**
 
-## PICK UP HERE (2026-09-05, night — CURRENT)
+## PICK UP HERE (2026-09-06 — CURRENT)
 
 **AUTHOR FOCUS: ROMANCE ONLY until Books 1.1–1.4 are done**
-(studio/OPERATIONS.md, 2026-09-04). No other book gets a job.
+(studio/OPERATIONS.md). **CHAPTER BY CHAPTER** (author, 2026-09-05:
+"just do chapter 9… ch by chapter for a bit"): one chapter, one
+brief, one audit, one drafter, one panel, one lint, one PR with a
+listening file; the next chapter's brief starts after the PR merges.
 
-**Merged today:** #127 (ch 8 re-cut) · #128 (talk plainly) · #129
-(the author's three ch 8 fixes) · #130 (the romance's own arc —
-CANON, B2-D09) · #131 (the arc gate as an instrument: kit template
-11, `studio/tools/romance-build-check.py`, plot-architect 1.5.0 /
-developmental-editor 1.5.0 / continuity-keeper 1.4.0). All folded.
-Ch 1–8 accepted.
+**Merged 2026-09-05:** #132 (ch 2's Friday-check fight, shown) and
+#133 (ch 4's lounge exchange, her laugh heard) — the two adds the
+romance arc ordered. Both folded. Ch 1–8 accepted; the build check
+passes on the page, not just the table.
 
-**Where the romance stands (plots/romance-arc.md):** stage 2,
-admitted inside — hers at ch 5, his at ch 8. The build check passes
-only WITH the two approved adds, so they come before anything else:
-1. **Ch 2 — the Friday-check fight, shown** (IN PROGRESS): brief
-   `plots/recut-brief-ch02.md`; audit (E3) running; then ONE drafter
-   (D1, LRU), panel, lint, ONE PR with a listening file. Only the
-   section between the first and second `***` moves. Chapter stays
-   accepted otherwise.
-2. **Ch 4 — one more exchange in the lounge** (NEXT, its own PR).
+**OPEN: the chapter 9 PR** (`campus/ch09`) — "The Wall in the
+Annex," first draft, panel PASS WITH FIXES applied, dialogue 15.5%.
+Two questions ride it: **A1, the hit's date** (default: keep the
+outline's week table; fix three words on accepted pages — ch 7
+"Nine weeks" → "Ten weeks", "Seven working weeks" → "Eight", ch 4
+"Two weeks out" → "Four weeks out") and **Cordelia's era** (the
+outline's "a hundred years dead" contradicts the town file and Book
+One; the page leaves her undated). Do not chase.
 
-**Then: CHAPTER 9 ALONE.** Author (2026-09-05): "Make sure to just do
-chapter 9. I want to go ch by chapter for a bit." No wave-3
-directive. Ch 9 gets its own brief (stage 2 → the first apart
-chapter carrying him in her head; the Cordelia letter; the
-carryover toll), its own audit, drafter, panel, lint, PR. The hit's
-date (audit A1 from ch 8) is answered in the ch 9 brief if ch 9
-needs it, else carried. The sub-couple sighting waits for ch 11's
-brief. The build check runs before the ch 11 brief. Ch 26's
-`[CHECK]` belongs to whoever briefs ch 27.
+**On merge:** fold (THREADS ch 9 entry; registry: the key hook, the
+cavity, the envelope, the parka's inside pocket, the letter in the
+wool coat's breast pocket, the towel arrangement, Saturday as the
+off day, the scaffold path, "Hartwell House"; the arc ladder ch 9
+row; apply A1's three words if the default stands; a `[TK]` for
+Cordelia's era in the town file). **Then chapter 10 alone** (Dan ·
+Wk4 Mon · the Fieldhouse; Boyd on stage; the consultant; the leads
+share a scene — the staged clash ruled in B2-D06.7; END not quiet;
+the panel asked for a pull into ch 10 and ch 9 now ends on the next
+check). Audit card next: E1 or E2 (LRU); drafter next: D2.
 
-**Standing:** do not chase a quiet PR; talk to the author plainly
-(taste 13); every lesson becomes an instrument the same day (taste
-14).
+**Standing:** do not chase a quiet PR; talk plainly (taste 13);
+every lesson becomes an instrument the same day (taste 14).
 
 ## Historical — 2026-09-04, nightly shift
 

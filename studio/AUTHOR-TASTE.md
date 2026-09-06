@@ -21,17 +21,24 @@ the first time. The check that now stands. How a chapter fails it.
 > talking about, it's just babble." (2026-09-03) · "Too NOT on the
 > nose. We need a good mix of on-the-nose writing." (2026-08-31) ·
 > "Sometimes we need to tell the reader what is going on. Like how
-> we never referred to the QB by his name." (2026-09-04)
+> we never referred to the QB by his name." (2026-09-04) · "I think
+> the writer is trying to be too clever. This is a modern book." ·
+> "Very last section, door of nine? Where is she?" (2026-09-06)
 
 Caught: a goal line that was a stack of noun phrases; a quarterback
 never named across four chapters; a listener who could not say what
-two people were arguing about.
+two people were arguing about; ch 9's truck "in second by the first
+block" (a stick shift, for cleverness), Earlene's "that paper's been
+there thirty years," and "the door of nine" with no motel in sight.
 Check: the say-it test (STYLE.md) — every scene states its argument
 once in a sentence a stranger could repeat; the decode duty; the
 naming report in the chapter lint; the panel's first finding is
 "cover the page and say what happened."
 Fails when: the argument is only in subtext; a beat's decode sits
-sixty lines away; a rule is a list with a hole in it; a lead is only
+sixty lines away; a line is clever instead of true (a gear, a pun on
+"paper," a place named by a nickname before the reader has been
+told where they are); a scene does not say where the POV is standing
+in its first sentence; a rule is a list with a hole in it; a lead is only
 "the doctor" for a whole chapter in the other lead's POV (ch 6,
 caught by the author's ear 2026-09-04: "Was there any Ayesha in
 chapter 6?").
@@ -150,7 +157,10 @@ great plot with one romance beat a chapter. · "We need one
 > [arc] for the romance overall to show how early on the romance is
 > hidden and just shows some signs of life, but over the book it
 > grows and turns external. The pattern in book one made more
-> sense." (2026-09-05)
+> sense." (2026-09-05) · "She doesn't think about Dan the entire
+> chapter and then just says to herself that she wants him. Too
+> abrupt. This book seems to have none of the romance vibe of book
+> one. There's nothing woven in to the various scenes." (2026-09-06)
 
 Caught: an outline that read as civic drama; then 1.2 ch 5–8, a
 great plot with one romance beat a chapter; then 1.2 ch 8 passing
@@ -166,6 +176,13 @@ Fails when: the chapter's summary could be told without the couple;
 the leads are apart and the absent one is only an obstacle.
 A want, a kiss, or a public claim arrives without two earlier
 on-page scenes the reader can point to (the build check, STYLE.md).
+**Woven, not counted (2026-09-06):** the other lead is in EVERY
+scene of the chapter, in the POV's head or senses, warm and plain —
+an apart chapter carries him in every scene, so the want at the end
+is a sum the reader has been adding. A chapter that passes the count
+with its beats at the two ends and a cold middle FAILS this entry;
+ch 9's first draft did (six beats, four kinds, and the author: "she
+doesn't think about Dan the entire chapter").
 
 ## 9. Don't make it perfect
 

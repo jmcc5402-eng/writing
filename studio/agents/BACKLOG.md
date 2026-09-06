@@ -4,6 +4,19 @@ Known issues and wanted improvements, with the production evidence that
 surfaced them. Fixing one = edit the definition, bump the version, move the
 item to CHANGELOG.
 
+## The romance floor (studio/STYLE.md "Romance first")
+
+- **A passing count is not a passing chapter.** Evidence: 1.2 ch 8
+  (thirteen beats; the author: "have we earned the right… it almost
+  seems to come out of nowhere") and 1.2 ch 9 (six beats, four kinds,
+  both edge thirds; the author: "she doesn't think about Dan the
+  entire chapter… nothing woven in to the various scenes"). The
+  floor counts thirds and kinds; the author feels scenes and warmth.
+  Mitigated 2026-09-06 by "Woven, not counted" (per scene) and panel
+  1.3.0's apart test. Still wanted: a way to measure WARMTH (Book
+  One's vibe) rather than presence — the panel's judgment is the
+  only instrument for it today.
+
 ## drafting-assistant
 
 *(All three items below are mitigated at run time by the banned-moves seed
