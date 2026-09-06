@@ -80,7 +80,7 @@ docs); F## fair-play rows (b12-outline.md table governs).
   a second longer than the handing took) · **ch 8 rung 5 held, new
   sense** (the heat off her through two coats at the rail; her hands
   bare) · "Neither of them stepped back" now SPENT TWICE (ch 5, ch 8)
-  — not at ch 13's climb ·
+  — not at ch 13's climb · ch 9 apart (texture only: the coat cut for a big man; his hands remembered) ·
   ch 13 near-miss · ch 15 the kiss (kiss chart ceiling). Mark
   today: **5** (ch 6 played at 3; the high-water mark holds).
 - **"Somebody's ___" (narration, once per BOOK — B2-D06):** SPENT
@@ -269,6 +269,28 @@ word and posts nothing, and she names his board habit to his face.
 Constraint entering the re-cut: **Odell's anchor takes the plain
 "never" render** — the dealt "never once" spend is off, because two
 are already on accepted pages.
+
+### Ch 9 — The Wall in the Annex (ACCEPTED #134, 2026-09-06, with four comments applied in the fold PR)
+Introduces: the key hook and the wall cavity; the Cordelia letter
+(B2-T06 planted: from Cordelia Hartwell to the night nurse, read
+once, text withheld, kept in the wool coat's breast pocket in room
+nine); Verna's towel arrangement (Sonny's truck up, the motel's
+washers, twelve owed back); Saturday as the roster's off day;
+"Hartwell House" named in 1.2; the scaffold path; F1's second plant
+(the records inventoried in her own typing, chain of custody).
+Carries: B2-T02 (the coat cut for a big man — never his on the
+page); B2-T08/T09 (his three seconds of silence, read by Verna as
+him doing something); the town cooling (the Table has the paper;
+one man looks past her). Romance: stage 2, apart, him in every
+scene (the coat, Friday's check, "So would I." beside the letter,
+his hands through the three seconds, his truck she looks for, the
+cup she watches Marisol hand Cal); "She wanted him." as a sum; the
+want said at the sweet-shelf register (his hands, the heat through
+two coats, the size of him). ANCHOR (Earlene): "That annex buried
+more fevers than the hospital ever did. Buildings remember." Ends
+UP, quiet, on the next check with Merritt across the sheet.
+Carryover toll paid: Marisol Pruett and Cal Sutter, two words and
+one.
 
 ## New canon recorded at this fold
 

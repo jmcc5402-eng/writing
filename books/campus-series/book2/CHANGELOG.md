@@ -591,3 +591,15 @@ each).
   PASS WITH FIXES, applied — the hidden-coat rule (no "Merritt's
   size"), the Checkerboard named, Verna's arrival in order, the
   banked ch 25 phrase kept off the page, his hands off the rail.
+
+## 2026-09-06 — fold: #134 (ch 9) accepted with four comments
+
+The author merged ch 9 with four notes, applied here: (1) in her
+POV the boy is Trey / Trey Gault ("She is the doctor, she should
+use his name"); (2) the whirlpool room described — a clinical tank,
+not a hot tub (drafter, a few lines); (3) the Magnolia Court said
+plainly as the motel she lives in; (4) "let Dan Merritt into the
+room" — his name where a pronoun followed Verna's. The calendar
+default stands (B2-D10): ch 7 "Ten weeks" / "Eight working weeks",
+ch 4 "Four weeks out". Cordelia undated (`[TK]` in the town file).
+THREADS ch 9 entry; registry rows; arc ladder ch 9 row.

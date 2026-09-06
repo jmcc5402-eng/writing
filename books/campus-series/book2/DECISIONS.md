@@ -286,3 +286,18 @@ the book it grows and turns external." Then: "Merged."
    claim needs? `[CHECK]` in the ladder; the ch 23–27 directive's
    first question.
 5. **Ch 5 and ch 8 stay as written.**
+
+## B2-D10 — the calendar, and Cordelia's era (#134 merged 2026-09-06)
+
+1. **The hit is Saturday of week one; the outline's week table
+   stands.** December 19 (Saturday) is week five's Saturday, so ch 9
+   is December 5 and ch 8 December 3. Three words conformed on
+   accepted pages: ch 7 "Ten weeks to the eleventh," "Eight working
+   weeks"; ch 4 "Four weeks out." Ch 9 carries no day-of-month.
+2. **Cordelia is undated.** The outline's "a hundred years dead"
+   contradicts the town file and Book One; the page says only that
+   she is dead and the paper is old. `[TK]` in town-ashford.md until
+   the author names a number.
+3. **In Aisha's POV, narration says "Trey" / "Trey Gault."** Others
+   keep their nicknames and numbers (the full list in RECENT.md).
+4. **Aisha drives a RAV4** (2026-09-06; conformed ch 1, 7, 9).

@@ -83,7 +83,7 @@ to. This table is what `studio/tools/romance-build-check.py` reads.
 | 6 | 2 | 2 | The rail: "I'm not on Millrow, Coach"; her hair as she passes | — | — | — |
 | 7 | 2 | 2 | The memo over the box; "let me ask around" | — | — | — |
 | 8 | 2 | 2 | The rail: "You hedged"; he nearly laughs; the heat; his want named | want | 2, 4 | — |
-| 9 | 2 | 2 | Apart: the Cordelia letter; he is in her head as a person | — | — | — |
+| 9 | 2 | 2 | Apart: the Cordelia letter; him in every scene in her head (the coat, "So would I.", his hands, his truck, the cup); "She wanted him." as a sum (#134) | — | — | — |
 | 10 | 2 | 2 | Apart: the staged clash (B2-D06.7); the town half-pairs them | — | — | — |
 | 11 | 3 | 2 | She says the want out loud, to women | — | — | — |
 | 12 | 3 | 2 | The board guesses; the second staged clash | — | — | — |
