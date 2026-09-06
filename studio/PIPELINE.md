@@ -107,6 +107,17 @@ fast."*
 
 ## 3c. THE SINGLE-CHAPTER CADENCE (author law, 2026-09-03)
 
+**The chapter card (author, 2026-09-06).** *"For each new chapter I
+would like a very concise overview of where we are in the plot
+(plot arc), same for character arcs for both leads, and a same for
+romance arc."* Every chapter PR opens with the card — the plot,
+each lead's arc, the romance, plus the town and the clock — one
+paragraph each: where the arc stands, what this chapter moves, what
+comes next. Filed at `notes/cards/chNN-card.md`; template
+`studio/series-kit/12-chapter-card.md`; written from the arc docs
+and the outline, never from memory.
+
+
 > "I've decided I want to do one chapter at a time. Multiple
 > chapters was too much for me to chew and I didn't dive into it
 > enough. It might be a little slower, but I think we'll move
