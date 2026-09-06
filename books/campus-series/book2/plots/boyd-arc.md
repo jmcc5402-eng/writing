@@ -46,6 +46,13 @@ half the book.
 
 ## 4. What he is NOT (the walls)
 
+**RULED (author, 2026-09-06):** asked whether Boyd is the bad guy or
+a character in parallel, and shown the choice — the unproven hand
+whose defeat waits for Book 1.4, or a villain caught and priced in
+this book — the author chose the first: *"I agree a longer burn is
+better."* So the walls below are law for 1.2.
+
+
 He never threatens on the page. He is never a cartoon; the comedy
 lives in his consultant, not in him. He is never proven: the wire
 from the complaint to Boyd is said out loud once (27) and never
