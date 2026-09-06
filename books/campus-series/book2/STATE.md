@@ -9,41 +9,47 @@ production runs under them: brief audit, label shuffle,
 jewel-forge slot, staging clause, furniture registry, anchor
 lines, carryover-reader gate).**
 
-## PICK UP HERE (2026-09-06 — CURRENT)
+## PICK UP HERE (2026-09-06, evening — CURRENT)
 
-**AUTHOR FOCUS: ROMANCE ONLY until Books 1.1–1.4 are done**
-(studio/OPERATIONS.md). **CHAPTER BY CHAPTER** (author, 2026-09-05:
-"just do chapter 9… ch by chapter for a bit"): one chapter, one
-brief, one audit, one drafter, one panel, one lint, one PR with a
-listening file; the next chapter's brief starts after the PR merges.
+**AUTHOR FOCUS: ROMANCE ONLY; CHAPTER BY CHAPTER.** One chapter,
+one brief, one card (written BEFORE drafting and sent to the author
+first), one audit, one drafter, one panel (1.3.0, scene by scene),
+one lint, one PR with the card on top of the listening file.
 
-**Merged 2026-09-05:** #132 (ch 2's Friday-check fight, shown) and
-#133 (ch 4's lounge exchange, her laugh heard) — the two adds the
-romance arc ordered. Both folded. Ch 1–8 accepted; the build check
-passes on the page, not just the table.
+**Merged 2026-09-06:** #134 (ch 9, with four comments), #135 (the
+comments applied; the calendar default B2-D10; ch 10 briefed),
+#136 (Boyd's arc — CANON, Part 4 of the arc docs; the walls ruled:
+"a longer burn is better"). Ch 1–9 accepted and folded.
 
-**OPEN: the chapter 9 PR** (`campus/ch09`) — "The Wall in the
-Annex," first draft, panel PASS WITH FIXES applied, dialogue 15.5%.
-Two questions ride it: **A1, the hit's date** (default: keep the
-outline's week table; fix three words on accepted pages — ch 7
-"Nine weeks" → "Ten weeks", "Seven working weeks" → "Eight", ch 4
-"Two weeks out" → "Four weeks out") and **Cordelia's era** (the
-outline's "a hundred years dead" contradicts the town file and Book
-One; the page leaves her undated). Do not chase.
+**OPEN: the chapter 10 PR** (`campus/ch10`) — "The Performance
+Center," Dan's Monday; panel PASS WITH FIXES applied; dialogue
+15.3%. Two strikeable defaults ride it: signing week unsaid (the
+early period opens midweek, no date on the page) and the sub-couple
+sighted in a doorway by title only (their names still `[TK]`,
+working Mack Doyle / Ty Beaumont — the author's to rule). Do not
+chase.
 
-**On merge:** fold (THREADS ch 9 entry; registry: the key hook, the
-cavity, the envelope, the parka's inside pocket, the letter in the
-wool coat's breast pocket, the towel arrangement, Saturday as the
-off day, the scaffold path, "Hartwell House"; the arc ladder ch 9
-row; apply A1's three words if the default stands; a `[TK]` for
-Cordelia's era in the town file). **Then chapter 10 alone** (Dan ·
-Wk4 Mon · the Fieldhouse; Boyd on stage; the consultant; the leads
-share a scene — the staged clash ruled in B2-D06.7; END not quiet;
-the panel asked for a pull into ch 10 and ch 9 now ends on the next
-check). Audit card next: E1 or E2 (LRU); drafter next: D2.
+**On merge:** fold (THREADS ch 10 entry; registry: the consultant's
+look, nine boards, the film-room window across the lot, the
+footprint at the whirlpool, the pins Monday, the mate on his hook,
+34's hamstring, the Mule on a weeknight, the doorway; B2-T02
+annotated — the reader knows from ch 10, Aisha at 29; the arc doc
+annotated — ch 10 a no-turn chapter for Dan, the identity priced;
+the kiss chart's row 10 conformed to "together"; B2-D03 item 3
+closed by the sighting; the edge: 3 of 10 spent). **Then chapter 11
+alone** — Aisha · Wk4 Fri · wine night (Marisol's cameo 1, Kat
+pouring; she says the want OUT LOUD to women — stage 3 opens
+inside; the build check runs before the brief; then the town camera
+to the Mule's last call: the sub-couple's one door-ajar scene,
+side-POV, fenced). The ch 11 brief needs: the sub-couple's names
+(author), the Marisol cameo economy (three per book; this is 1 of
+3), the heat map's door-ajar rules (premise §7), a room full of
+people (two alone-at-night endings in a row are behind us). Audit
+card next: E1 (LRU); drafter: D6 (LRU).
 
 **Standing:** do not chase a quiet PR; talk plainly (taste 13);
-every lesson becomes an instrument the same day (taste 14).
+every lesson becomes an instrument the same day (taste 14); the card
+before the chapter (PIPELINE §3c).
 
 ## Historical — 2026-09-04, nightly shift
 

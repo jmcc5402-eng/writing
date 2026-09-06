@@ -603,3 +603,40 @@ room" — his name where a pronoun followed Verna's. The calendar
 default stands (B2-D10): ch 7 "Ten weeks" / "Eight working weeks",
 ch 4 "Four weeks out". Cordelia undated (`[TK]` in the town file).
 THREADS ch 9 entry; registry rows; arc ladder ch 9 row.
+
+## 2026-09-06 — ch 10, The Performance Center — FIRST DRAFT (PR pending)
+
+Written chapter by chapter, with its card in the drafter's hands
+first (the author: "before makes sense"). `manuscript/ch10.md`,
+~2,900 words, card D2. Dan's Monday of signing week.
+- **The film room.** Boyd sits in the second row and says nothing.
+  His consultant walks nine laminated boards through; board four is
+  "proactive risk posture" in forty-point type (B2-T07 planted);
+  two fingers on the window put the annex in the footprint — "The
+  footprint starts at the near corner and runs to the fence," and
+  the near corner is her whirlpool room. Dan says "Hell" to himself
+  (the edge: 3 of 10 spent) and nothing out loud. Boyd's one line:
+  "Go sign your class, Coach. I don't need a thing from you this
+  week." — and a silence Dan does not fill.
+- **The doorway.** The admissions director and the receivers coach,
+  a coat handed over, a laugh, a second longer than the handing took.
+  Titles only; the names wait on the author.
+- **The check, 5:15, under the lights.** Her hands out of the
+  sleeves for the first time, the cuffs pinned by Verna; his coat,
+  and in his POV the whole of it — the tags cut at his counter, the
+  cage asked for her name straight, never told her; "another woman's
+  hands had turned his cuffs back on her… nearer her sleeves than he
+  had ever been." Thirty-four's hamstring; Trey held overnight. The
+  clash: "Did you ask?" / "I'm working on it." / "You've had a few
+  days." / "Give me the week." / "Keep the week, Coach. Don't ask
+  anybody on my account." The trainer hears his half. She thanks
+  nobody.
+- **The Mule.** Peanut sets the beer down; Tick saw Boyd's truck and
+  knows nothing; Tick's fries; Peanut's anchor: "Boyd doesn't buy
+  buildings. He buys the men who sign for them." The board read to
+  the bottom; her name not on it; he had looked.
+- **Home.** The mate of the parka on his hook, nothing over the
+  patch; the thing he did not say. Ends DOWN.
+- Dialogue came in at 13.2% and was topped up in the film room and
+  the Mule to 15.5%. Lint clean otherwise.
+- **Panel 1.3.0: PASS WITH FIXES, applied** — 18 beats, seven kinds; the coat in his POV is the swoon; the clash a real fight with Dan the loser; Boyd frightens without threatening. Fixes: the house named; the thing he did not say, said; ch 9's phrase cut; her in the doorway scene (a coat handed hand to hand by a man who could); one clever line cut; "the card" and "about boxes" made plain; the tables counted against hers; her jaw in the cold.

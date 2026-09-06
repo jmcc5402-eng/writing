@@ -71,6 +71,16 @@ of the change, or the romance is decoration.>
 same chapter or in the order they do. What each lead's change asks
 of the other.>
 
+## Part 4 — The antagonist's arc (where the book has one)
+
+_Proven by `books/campus-series/book2/plots/boyd-arc.md`._ Who they
+are in one sentence. What they want. What they believe and what it
+makes them do. What they are NOT (the walls: never a cartoon; how
+much is proven). The escalation table — chapter, what they do on
+the page, what it shows. What they give the leads (the price). The
+reader's superior position. The register, binding on every brief
+that stages them. Open questions.
+
 ## Part 3 — The relationship's own arc
 
 _For a romance this is the romance. For any other book it is the

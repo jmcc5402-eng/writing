@@ -264,3 +264,70 @@ furniture, the pins, the mate on the hook); taste entries risked.
    that ch 8 did not use.
 9. Build check on the arc doc — PASS required.
 10. FACT MANIFEST.
+
+---
+
+### CH 10 — AUDIT ADDENDUM (continuity-keeper, E2, 2026-09-06 — CLEAR WITH ADDENDA)
+
+Report: `notes/ch10-brief-audit-2026-09-06.md`. Build check PASS.
+Where these conflict with the brief above, the addendum wins.
+
+1. **The film room is "that morning,"** not "two hours earlier."
+   Boyd favors mornings. The check is 5:15 p.m., after sunset, under
+   the field lights; breath shows.
+2. **The soft version's count:** ch 4 he loaded it and did NOT say
+   it. So this is "the soft version again — ch 7 to her, ch 8 on the
+   air." Never "third time" on the page.
+3. **Signing week (default, strikeable on the PR):** the early
+   signing period opens this week, midweek, never said. Permitted
+   words: "the nineteenth," "this week," "signing week." No date, no
+   "signing day," no day of the week. His "first full class" may be
+   said; his years here may not be numbered.
+4. **The sub-couple sighting (default YES, strikeable on the PR):**
+   a doorway, not a truck. Two grown professionals easy with each
+   other; a look held a second; a laugh; a coat handed over. Only Dan
+   sees; he thinks nothing of it. No touch that means it, no leaving
+   together, no line that names it, nobody else notices. Titles
+   only; no names in dialogue. Ch 10 may NOT describe Dan's own
+   truck's cab (ch 12's honest signal is a crew cab that is not his).
+5. **Bans added:** "lists write themselves" or any near form in
+   Boyd's mouth (ch 19's line); the "somebody's ___" phrasing (the
+   admission is "another woman's hands" or "Verna's pins," never
+   "somebody's"); the equipment manager's banked ch 29 line; any lie
+   aloud from Dan about the coat — if it comes up he deflects or
+   says nothing; "unhurried" (Book One's word for Boyd, now banned).
+6. **The coat, in his POV, may say:** it is his; he took the tags off
+   his own spare; he asked the cage to sew her name straight; he has
+   never told her and she has never asked; the mate hangs on his
+   hook with no name over the patch. The reader knows from here.
+   Aisha does not learn it (ch 29). Nobody else on the page knows.
+   "Hemmed" is wrong; the cuffs are PINNED (Sunday, Verna), pins
+   still in Monday; the sewing is off the page.
+7. **Boyd's lines on the porch were BOTH his** ("I liked the doctor's
+   spirit." / "Spirit is expensive, Coach."); Dan said nothing. Dan
+   may not remember the second line as his own.
+8. **The new sense at rung 5:** her breath standing white, and the
+   pins — the glint at her wrist and, for the first time in his
+   sight, her hands out of the sleeves. Not the heat, not her hair
+   (spent). The sheet passing hand to hand is old texture, not the
+   new sense.
+9. **Trey:** off the page; his step on the ladder unnumbered ("held
+   overnight" / "same as Friday"); he has not had his twenty minutes.
+   Dan says "Trey" to her at the check (as in ch 7). The one other
+   player on the sheet gets a number that is not 56 or 22.
+10. **Boyd's man:** the consultant is a different man from Book
+    One's young man with the tablet; unnamed ("the consultant,"
+    "Boyd's man"); his look is the drafter's to set (canon after).
+    The pledge session is private — nothing at the Mule knows it.
+11. **The Mule Monday:** the TV dark for December; Peanut sets the
+    beer down, Dan does not order (his drink stays open); the
+    furniture is Book One's (jars, pegboard mugs, the rail, the back
+    bar with DEC 19 circled, the pool table, Peanut's bell).
+12. **The film-room window looks across the lot to the Annex** (new,
+    consistent with ch 5); the consultant's two fingers on the glass
+    echo Boyd's own gesture from Book One — allowed.
+13. **Arc:** ch 10 is a no-turn chapter for Dan by the doc; the
+    identity priced. Annotation at the fold, not a row.
+
+**Fact manifest governs** (the audit's manifest). Anything not on it
+is `[TK]`, never in a spoken line.

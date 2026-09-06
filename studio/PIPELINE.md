@@ -113,7 +113,15 @@ would like a very concise overview of where we are in the plot
 romance arc."* Every chapter PR opens with the card — the plot,
 each lead's arc, the romance, plus the town and the clock — one
 paragraph each: where the arc stands, what this chapter moves, what
-comes next. Filed at `notes/cards/chNN-card.md` and placed on top of the chapter's
+comes next. **Written BEFORE the chapter is drafted** (author,
+2026-09-06: "I kind of think before makes sense"), with the brief,
+from the arc docs — it is the plan the drafter is handed, and it
+goes to the author in chat before drafting starts, so a wrong turn
+is caught at the cheap end. Drafting does not wait on a reply; a
+correction that lands later is a brief addendum or a redraft. The
+card carries a paragraph for the ANTAGONIST too where the book has
+one (author, 2026-09-06: "I'd also like to include Boyd's arc… the
+other important character"). Filed at `notes/cards/chNN-card.md` and placed on top of the chapter's
 listening file by `studio/tools/listening-file.py`, so it is the first
 thing the author hears; template
 `studio/series-kit/12-chapter-card.md`; written from the arc docs
