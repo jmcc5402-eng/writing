@@ -38,7 +38,11 @@ Fails when: the argument is only in subtext; a beat's decode sits
 sixty lines away; a line is clever instead of true (a gear, a pun on
 "paper," a place named by a nickname before the reader has been
 told where they are); a scene does not say where the POV is standing
-in its first sentence; a rule is a list with a hole in it; a lead is only
+in its first sentence; a pronoun for the other lead follows some
+other name ("she let him into the room" after a paragraph about
+Verna — author, 2026-09-06: "say his name or at least the coach"); a
+place is named without saying what it is ("The magnolia court is
+her hotel?"); a rule is a list with a hole in it; a lead is only
 "the doctor" for a whole chapter in the other lead's POV (ch 6,
 caught by the author's ear 2026-09-04: "Was there any Ayesha in
 chapter 6?").
