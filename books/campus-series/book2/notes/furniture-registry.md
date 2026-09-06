@@ -47,3 +47,12 @@ finding). Started at the wave-1 fold (2026-08-30).
 | PROBABLE on the Friday sheet | a game-day decision at noon, not before ("Probable means he plays if he's the same at noon tomorrow"); the sheet itself does not change overnight | ch 2 fight add (#132) |
 | The Friday check as a fight | he pushes, she holds, he loses on the merits and likes it; her tell: both hands stopped flat on the tablet; the trainer cutting tape hears his half only | ch 2 (#132) |
 | The bad-room exchange | ch 4 lounge: "This is a bad room." / "It's the best one on the floor." / "Then it's a bad floor." / her laugh, all at once, first heard / "It's a hospital." | ch 4 (#133) |
+| The key hook | brass gone brown, one prong, by the records-room door at hand height; held nothing all season; removed and logged | ch 9 (#134) |
+| The wall cavity | plaster over lath, a hand-sized gap behind the hook | ch 9 |
+| The Cordelia letter | small card envelope, tea-colored, unstamped; "For the night nurse"; "Cordelia Hartwell" on the flap; one sheet folded twice, brown ink; read once; text NEVER on the page before ch 25; lives in the wool coat's inside breast pocket, buttoned, on the closet rod in room nine | ch 9 (#134); B2-T06 |
+| The parka's inside pocket | left side, zippered; the letter rode there Saturday | ch 9 |
+| Verna's towels | the annex's whirlpool towels go down to the Magnolia Court's washers on Saturdays and come back up; fourteen delivered, twelve owed; Verna rides up with Sonny Dillard and he collects her at four | ch 9 (#134) |
+| The rehab rooms | two tables, the whirlpool (a clinical tank — not a hot tub, author 2026-09-06), the parallel bars, the cot with the army blanket | ch 7; described ch 9 (fold PR) |
+| Saturday | the roster's off day in playoff prep | ch 9 |
+| The scaffold path | a plank walk the crew laid along the House's east wall from the porch to the scaffold's foot; Marisol carries the steel thermos and a stack of cups | ch 9 |
+| Hartwell House in 1.2 | named on the page; Millrow runs out of pavement past it with gravel to turn in | ch 9 |

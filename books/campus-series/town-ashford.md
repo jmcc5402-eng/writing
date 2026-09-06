@@ -260,6 +260,10 @@ online. All PROPOSED.
    elder per mega-theme 4 (one 70s–80s character per set). Voice:
    flirtatious past tense. "Cordelia Hartwell stayed in room nine.
    I don't say that to everybody."
+   [TK: Cordelia's era — the 1.2 outline said "a hundred years dead";
+   this file and Book One have her alive within Verna's lifetime; 1.2
+   ch 9 leaves her undated (author merged #134 silently, 2026-09-06 —
+   undated stands until the author names a number).]
 5. **Sonny Dillard, 38** — Farm & Feed counterman, volunteer fire
    lieutenant. Voice: hardware-store literal. "The House? Good bones,
    bad wiring. Same as the rest of us."

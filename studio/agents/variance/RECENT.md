@@ -31,7 +31,10 @@ list in the agent's invocation as "banned moves this run."
   elbow"). Name the person instead. In dialogue it is speech, not
   counted, but rationed.
 - THE QUARTERBACK'S NAME — full list (STYLE.md, "Rules are full
-  lists"): narration says "Trey" / "Trey Gault" / "the boy"; his
+  lists"): narration says "Trey" / "Trey Gault" / "the boy" — and in
+  AISHA'S POV narration says "Trey" / "Trey Gault", never "the boy"
+  (author, 2026-09-06: "She is the doctor, she should use his name.
+  Let others use nicknames or numbers."); his
   parents and the doctor say "Trey"; the rail, the board, Tick and
   the chorus say "7" / "the boy" / "the quarterback"; administrators
   say "your quarterback" / "the student"; Dan says "7" at the rail
