@@ -1,6 +1,6 @@
 # Book 1.2 — Rex Boyd's arc (THE ARC GATE, the antagonist)
 
-**PROPOSED 2026-09-06 for the author's approval.** Author: *"I'd
+**CANON — #136 merged 2026-09-06 (author: "I merged the latest"; the walls ruled: a longer burn). Part 4 of the arc docs.** Author: *"I'd
 also like to include Boyd's arc in there, he's the other important
 character and development that I wanna make sure that I fully
 track."* On merge this becomes Part 4 of `plots/arc-docs.md`, and
