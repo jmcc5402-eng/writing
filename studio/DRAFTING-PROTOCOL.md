@@ -272,9 +272,12 @@ sentence:
   earn it (the build check, studio/PIPELINE.md §3b).
 - **ROMANCE BEATS:** at least three, of at least two kinds from the
   rule's list, planned as a numbered list with kinds and placement
-  (first third / middle / last third). The COUPLE LINE lives here as
+  (first third / middle / last third) — AND one per scene: every
+  scene in the brief names the beat that carries the other lead in
+  it (STYLE, "Woven, not counted"). The COUPLE LINE lives here as
   kind 1 (the ladder rung). The panel's independent count is the one
-  that stands; under three, the chapter is returned before staging.
+  that stands; under three, or any scene with none, the chapter is
+  returned before staging.
 - **REVERSAL:** who loses what in this chapter, on the page, and
   what it costs them. A chapter without a loser is not a chapter.
 - **THE ARGUMENT, SAID:** the one complete sentence a stranger could
