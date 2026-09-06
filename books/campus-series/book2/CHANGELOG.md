@@ -563,3 +563,19 @@ laugh ledger row; Q2 quiet band still open. Arc ladder: ch 4 row
 done; a note that the ladder wins over the stage ranges at the
 edges (ch 9–10 are stage 2). Registry: the bad-room exchange. Ch 4
 header records #112 and #133. arc-docs header marked CANON (#114).
+
+## 2026-09-06 — ch 9 returned by the author; the car ruled
+
+The author's five notes on the ch 9 draft (PR #134): the opening
+rushed and its evidence claim untrue (the boxes hold other people's
+paper, not the boy's record); Earlene's "that paper's been there
+thirty years" too clever; the truck in second gear — "Is this line
+suggesting Aisha is driving a stick shift? She should drive a rav4
+or Camry"; "door of nine" — where is she; and the big one: "she
+doesn't think about Dan the entire chapter and then just says to
+herself that she wants him. Too abrupt… none of the romance vibe of
+book one… nothing woven in to the various scenes." Ch 9 goes back to
+the drafter for a weave pass (Merritt in every scene, in her head,
+warm and plain) plus the four fixes. **The car:** Aisha drives a
+RAV4 from here; "the truck" conformed in ch 1 and ch 7 (one word
+each).
