@@ -340,3 +340,24 @@ kiss; `[CHECK]` at the ch 15 brief) and the town until 24.
 "Proactive risk posture" is the group's own language. Boyd never
 says "her job." The weave by chapter is in `plots/provider-partner.md`
 §3. New thread B2-T11.
+
+## B2-D14 — the author's three #139 rulings on ch 11 (2026-09-07)
+
+1. **The stake is the loans.** Aisha, 41, still owes on medical
+   school; a state-school sports-medicine salary is the kind you take
+   because you picked the work. No dollar figure on any page. She has
+   never been fired and never been kept (arc-docs §1); one more
+   program that does not keep her and the next athletic director
+   reads the CV, not the record. The author offered "the disgrace
+   of her family" as the alternative — NOT taken: Aisha has no family
+   canon on any page, and inventing one for a stake is the wrong
+   kind of canon. Open if the author wants it: `[TK Aisha's family]`.
+2. **Wine night is playful, even carrying the plain moment.** Kat
+   gets her line back after the silence; one of the women says, in
+   her own words, that the stakes are high and sometimes it's worth
+   it. Taste entry 7, amended.
+3. **Grown professionals go indoors.** The sub-couple's door-ajar
+   scene plays in Ty's apartment (a staff rental; no landmark, no
+   street), not the crew cab. The lot, the dome light and the drive
+   stay; the truck outside his place is the exposure. RECENT ban.
+4. **More third-party scenes** in 1.3 and 1.4 — series D08 amended.

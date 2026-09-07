@@ -62,6 +62,14 @@ finding). Started at the wave-1 fold (2026-08-30).
 | The coat, Monday | cuffs turned back and pinned flat at both wrists (Verna, Sunday); her hands out and staying out; the mate on Dan's hook by the door, nothing stitched over its patch; he wears the sideline jacket daily | ch 10 |
 | Thirty-four | hamstring, low grade, off the sled Friday; limited, no cutting, sleeve stays on | ch 10 |
 | The Mule on a weeknight | the TV dark over the back bar; DEC 19 circled beside the register; the brick inside the door; Peanut sets the beer down unasked (Dan's drink still open); Tick's fries | ch 10 |
+| The Mule's one booth (wine night's winter room) | at the back past the pool table, under the dark TV; wine night has it for the winter (a porch is a September room; the Checkerboard runs one cook in winter); Marisol takes the wall side, phone face down; Aisha sits with her back to the rail | ch 11 |
+| Peanut's outside-bottle rule | "Outside bottle, I keep the cork and I charge by the jar" — the cork goes in his shirt pocket; mason jars; a seltzer set at Aisha's elbow unasked after she says the name (he hears everything and puts it nowhere) | ch 11 |
+| Kat, on wine night | drives in for the weekend with two bottles on the passenger seat and a phone full of listings; goes back up the road Sunday; "Honey" to Aisha; the farmhouse with the bad roof is where she'd put the two of them ("He can reach the gutters") | ch 11 |
+| The Zinnia Wagon in December | Birdie Pham at the curb with the tailgate down, loading wreaths and bundled greenery back into the bed by phone light — what the square's storefronts had not taken | ch 11 |
+| Mackenzie Doyle (SR) | Ashford State's new director of admissions, 32, this fall; a semester in; hair down at eleven; two beers in two hours; sober enough that it is a choice — "the only kind she made"; nobody at home | ch 11 |
+| Ty Beaumont (SR) | receivers, 34, on Coach Merritt's staff and nowhere on hers; built like the position he coaches, long and quick; keeps his hands on his own side of the rail; the staff jacket; his crew cab, four doors, at the far edge of the lot — no make on the page (Earlene names it ch 12) | ch 11 |
+| The registrar's-office friend | a woman from the registrar's office Mackenzie knows to nod to; her phone lights down the rail at last call (F6 planted — a friend's group chat, not the board) | ch 11 |
+| Peanut's last call | rings the bell on the rail once: "That's it. Settle up. Lot's icy. Mind the step." (Book One's "Last call meant something in this town once" NOT reused) | ch 11 |
 | The doorway | Mackenzie Doyle (the admissions director, folders on one hip, in the Fieldhouse for signing week) and Ty Beaumont (the receivers coach), a coat handed over, a laugh, a second longer than the handing took; titles only on the ch 10 page | ch 10; names RULED B2-D12 |
 
 ## Name map (who calls whom what — STYLE "Names are relationships"; started 2026-09-07)
@@ -69,7 +77,7 @@ finding). Started at the wave-1 fold (2026-08-30).
 | Character | Narration | Who says what | The one-person name |
 |---|---|---|---|
 | Trey Gault | "Trey" / "Trey Gault" in Aisha's POV; "the boy" elsewhere | Aisha, his parents: "Trey"; the rail, the board, Tick, the chorus: "7" / "the boy" / "the quarterback"; administrators, Boyd: "your quarterback" / "the boy" / "the student-athlete"; Dan: "7" at the rail, "Trey" in private and to her | the doctor's "Trey" on the field |
-| Aisha Cole | "Aisha" / "Dr. Cole" / "the doctor" | Dan: "Doc"; Verna: "my winter doctor"; the board: "Dr. Cole" / "she"; Boyd: "the doctor" | Dan's "Doc"; Verna's "my winter doctor" |
+| Aisha Cole | "Aisha" / "Dr. Cole" / "the doctor" | Dan: "Doc"; Verna: "my winter doctor"; Kat: "Honey" (and "Aisha," low, at the door); the board: "Dr. Cole" / "she"; Boyd: "the doctor" | Dan's "Doc"; Verna's "my winter doctor" |
 | Dan Merritt | "Dan" / "Merritt" | Aisha: "Coach" (aloud), "Merritt" (in her head), "Dan" once (ch 11, to the women); the town: "Coach" / "Coach Merritt"; Boyd: "Coach" | Aisha's "Dan," said to women, not to him |
-| Mackenzie Doyle | "Mackenzie" | the Fieldhouse: "the admissions director" | Ty's "Mack" |
-| Ty Beaumont | "Ty" / "the receivers coach" | Dan's staff: "Ty"; the board: "the receivers coach" | — |
+| Mackenzie Doyle | "Mackenzie" (her own POV, ch 11) | the Fieldhouse: "the admissions director"; the board (ch 12+): a title, never a name | Ty's "Mack" — said once, in the dark; "Nobody else called her that. / She had told him so once, and he had kept it." (ch 11) |
+| Ty Beaumont | "Ty" / "the receivers coach" (ch 11, in her head: "Ty Beaumont, receivers") | Dan's staff: "Ty"; the board: "the receivers coach"; Mackenzie: "Ty" | — (open: who gets a name for him that only they use) |
