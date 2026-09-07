@@ -38,15 +38,15 @@ outside-bottle rule, Kat drove in, the Zinnia Wagon's December
 stock, Ty's crew cab by silhouette, the registrar's-office friend,
 Mackenzie's and Ty's looks, Peanut hears everything and puts it
 nowhere, Aisha's first "Dan"; the name map rows; the arc ladder row
-11; B2-T11 unchanged). **Then chapter 12 alone** — Dan · Wk4 Sat ·
-"By Nine A.M.": the leak by the rulebook (no named thread; a
-screenshot one ring too far by 8:40; a vaguepost the board decodes
-WRONG as the coach and the doctor — RH1); he reads it three times
-and notices; Marisol mods by her own constitution; the walk-on
-letter opens its whip count; Earlene names the truck's make at the
-Table (the honest signal: a crew cab that is not Dan's); the wave's
-one BUTTON ending. Ladder: apart is allowed (ch 11 shared the
-check). Cards next: audit E3 or E5 (LRU), drafter D4.
+11). **Then chapter 12 alone** — Dan · Wk4 Sat · "By Nine A.M.": the
+leak by the rulebook (no named thread; a screenshot one ring too far
+by 8:40; a vaguepost the board decodes WRONG as the coach and the
+doctor — RH1); he reads it three times and notices; Marisol mods by
+her own constitution; the walk-on letter opens its whip count;
+Earlene names the truck's make at the Table (the honest signal: a
+crew cab that is not Dan's); the wave's one BUTTON ending. Apart is
+allowed (ch 11 shared the check). Cards next: audit E3 or E5 (LRU),
+drafter D4.
 
 **Standing:** do not chase; talk plainly (taste 13); every lesson an
 instrument (taste 14); the card before the chapter (§3c).
