@@ -252,3 +252,92 @@ want, and the F6 line.
    not multiply.
 10. Build check — PASS required (In 3 / Out 2 at row 11).
 11. FACT MANIFEST.
+
+---
+
+### CH 11 — AUDIT ADDENDUM (continuity-keeper, E1, 2026-09-07 — CLEAR WITH ADDENDA)
+
+Report: `notes/ch11-brief-audit-2026-09-07.md`. Build check PASS
+(In 3 / Out 2 at row 11). Where these conflict with the brief above,
+the addendum wins.
+
+1. **STATE IN:** Dan has NOT told her where the footprint starts.
+   She knows the memo ("relocation in a subsequent communication")
+   and that the rendering has no rehab rooms she can find. Her booth
+   line about February rests on those two facts only. She may not
+   say "partner," "contractor," or who staffs a recovery floor. The
+   town may know Boyd's truck sat at the Fieldhouse Monday morning
+   (Tick said so at the Mule); nobody knows what was said.
+2. **Marisol does not mention the coach and Denny's letter** — that
+   is ch 15's turn (she hears secondhand that he spent something for
+   her). If Marisol names the board's campaign against her son, the
+   coach is not in the sentence.
+3. **Wine night owes an interrupted story** (Book One's standing
+   rule, T13): Kat's, cut by something that is not a horn and not a
+   phone; the narration never explains the device.
+4. **Kat drove in for the weekend** (she is non-local on every page;
+   one clause says so) — unless the author rules she has moved.
+5. **No shaker, no espresso martini** at the Mule. Wine in the mason
+   jars (canon glassware); Kat brings the bottles; Peanut's
+   outside-bottle rule is his to invent in his ch 10 register
+   ("Since I said it"). She has one glass and then a seltzer, she is
+   driving; say so in half a line.
+6. **Wine night's winter venue is the Mule** (new; the porch is a
+   September room and the Checkerboard drops to one cook). The
+   booth is at the back, past the pool table, under the dark TV.
+   The scene's first sentence says it is the Mule and where the
+   booth sits.
+7. **Birdie's anchor** is prompted by Aisha's own evening (Kat's
+   tease following her out the door), NOT by the sub-couple, who
+   leave hours later. The "internet wasn't there for mine" line is a
+   kind lie from a woman in her thirties; one clause in Aisha's POV
+   hears it as a kind lie, with no number. Birdie's truck (the
+   Zinnia Wagon) is at the Mule's curb loading out December stock
+   (wreaths, greenery); Eli if anyone is named; the peach man is
+   closed; Birdie never swears and is never online.
+8. **Trey:** no rung number; the twenty-minute meeting-room visit has
+   NOT happened; Missy's page at seven. Kat and Marisol say "Trey"
+   or "the Gault boy."
+9. **The side scene's defaults:** both unattached (one clause in her
+   head); both sober enough to choose (one line); the receivers
+   coach's crew-cab truck by silhouette in the lot, NO make (ch 12
+   names it); nothing of Dan's truck; the friend with the phone is
+   not chorus (someone from the university side at the rail,
+   unnamed) and no text is shown; last call at midnight; Saturday
+   is the roster's off day (unsaid). The section's first sentence
+   says where and when. It is side-POV (her head), not the town
+   camera; do not blend the two. Her one optional swear counts
+   against the seven remaining.
+10. **Names:** write the side scene with the working names, Mack
+    Doyle and Ty Beaumont, flagged as placeholders; the author's
+    ruling swaps them in one pass.
+11. **The E1 caps, verbatim bans for ch 11:** ONE "She had X. She had
+    not Y."; ONE "It was not X. It was Y." and not on the want; the
+    want is a plain sentence with his name, never a list; three
+    "and…and…and" runs at most; NO "That was the rule" / "That was
+    all of it."; NO "she would not have told a soul" scaffold; ONE
+    "nobody asked"; NO "his voice came down to say it," "the size it
+    was for one person," "held a second longer than the handing
+    took," "the one thing in the room that smelled like the county,"
+    "It was hers."; NO third echo of "So would I."; "a while" once;
+    noticing-herself-noticing once; one counted-time gauge. The
+    chapter's last line lands MID-GESTURE (the cut), never on a
+    flat one-liner.
+12. **Her new sense at rung 5 (her POV): SMELL** — what a man carries
+    off a December practice field, across a sheet's width. Second
+    choice: his Friday jaw (shaved for TV Saturdays, not by
+    Tuesday). NOT breath into the same light (his POV, three days
+    ago), NOT the sheet hand to hand, NOT hands.
+13. **Her part does not end at the Magnolia Court** — the Mule's curb
+    or the car. If the date is said, "December eleventh," never "the
+    eleventh" (that means February 11 on accepted pages).
+14. **Banked Book One lines** (verbatim reuse banned): "I contain
+    multitudes"; "Last call meant something in this town once"; "How
+    tall is he?"; "Say it again" / "Twice makes it true"; "You've
+    gone somewhere"; "Drink it or wear it"; "Mind the flowers!";
+    "Every wine night owed the room one interrupted story"; "He gets
+    under every nerve I own." Echo the register, not the line.
+15. **Aisha's first spoken "Dan":** no page has it. If she says his
+    first name in the booth it is the first time on any page — say
+    so in the report; default: she says "Merritt" to the women and
+    "Dan" once, when she says the want.
