@@ -672,3 +672,38 @@ No new prose beyond the ch 10 lines that rode #138. B2-D13; the
 premise's §4 annotated; Boyd's arc §2; Aisha's arc §3; B2-T11 in
 THREADS; the naming list carries "the group." The ch 11 brief
 already assumed she does not know.
+
+## 2026-09-07 — ch 11, Last Call at the Mule — FIRST DRAFT (PR pending)
+
+Written with its card first. `manuscript/ch11.md`, ~2,800 words,
+card D6, dialogue 27.5%. Aisha's Friday, December eleventh, eight
+days out.
+- **The check.** The fourth day of not asking; the sheet; Trey
+  held; the new sense in her POV — the smell of the field on him,
+  and Friday's jaw; "Doc." / "Coach."; she goes without asking.
+- **Wine night in the Mule's back booth** (winter's room, new):
+  Kat drove in with two bottles; Peanut's outside-bottle rule ("I
+  keep the cork and I charge by the jar" / "Since you walked in
+  with it"); Marisol's true thing — she could delete the posts about
+  Aisha in four minutes and leaves them up so nobody can call the
+  mod biased with her own son the board's other target; Kat's
+  interrupted story (the county-road farmhouse, a man on a bucket,
+  cut by the dark TV coming on by itself); "So. The coach." / "No."
+  / **"Fine," she said. "I want Dan."** — the first time she has
+  said his first name on any page; the silence nobody rescues her
+  from; then the other plain thing: she may not have a job here in
+  February, the memo and the drawing being all she knows; Kat ships
+  them ("I'd put the two of you in the farmhouse… He can reach the
+  gutters."); Marisol keeps it off the board. One jar, then a
+  seltzer.
+- **The curb.** Birdie Pham loading the Zinnia Wagon's wreaths; the
+  ANCHOR: "Everybody's twenty-five once. The internet just wasn't
+  there for mine, thank God." — heard as a kind lie; Aisha in the
+  RAV4 with him in her head.
+- **The side scene, last call, in Mackenzie Doyle's head:** Ty
+  Beaumont on the stool beside her since ten, hands on his side of
+  the rail; nobody at home for either; sober enough that it is a
+  choice; the phone down the rail (a woman from the registrar's
+  office — F6 planted); his crew cab at the far edge of the lot, no
+  make; "Mack," in the dark; the coats; the cut at the handle over
+  the door with the windows going white. UP.
