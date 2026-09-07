@@ -3,6 +3,23 @@
 Newest first. Every entry: version, what changed, and the evidence that
 drove it.
 
+## 2026-09-07 — instrument-auditor 1.0.0: the audit of the instruments
+
+Author, 2026-09-07, after catching that campus 1.2 ch 10–12 opened on
+the same calendar recital (one stake sentence in all three, word for
+word — a rule that said "state the day and the stake" had become a
+template, and no instrument noticed): "Thinking for the long-term,
+let's add some type of agent that scanned all of our agents for
+potential mistakes like this one. Maybe it only runs every few
+chapters." New agent: runs after every fourth accepted chapter with
+the cross-batch canon sweep, or on demand after an author catch.
+Seven passes — MISS, CONVERGENCE, DRIFT, CONTRADICTION, LEDGER,
+BLIND SPOT, OVER-TOOLING — and a classified report in
+`studio/agents/audits/`. Judges instruments, never prose; proposes,
+never edits. Ships with a four-item test set from the day it was
+born (the calendar opening; the one-drafter drift; the FirstDownMom
+ghost; the ch 11 edge miscount).
+
 ## 2026-09-07 — showrunner 2.4.0: set pieces get a competition; connecting chapters get one drafter
 
 Author, 2026-09-07, on "the idea that we had 3 drafters write each

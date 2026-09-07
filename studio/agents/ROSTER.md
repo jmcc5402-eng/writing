@@ -38,6 +38,7 @@ Rules of the project:
 | `junior-literary-critic` | 1.1.0 | inherit / high | Two-part outside read: one-page critique + one-page prioritized recommendations |
 | `gtm-strategist` | 1.0.0 | inherit / high | Go-to-market strategy and portfolio economics; materials stay with market-pitch-agent |
 | `showrunner` | 2.4.0 | inherit / high | The ambitious publisher-author: nightly all-books shift, publisher's-eye + author's-eye per book, dispatches the instrument battery, momentum mandate; still never writes prose, decides canon, or merges |
+| `instrument-auditor` | 1.0.0 | inherit / high | The audit of the instruments themselves, every four accepted chapters: rules that became templates, author catches no instrument caught, rule-vs-practice drift, agent contradictions, stale references, ledger ghosts, blind spots, over-tooling. Proposes; never edits |
 
 Plus the skills `/new-book-outline` (`.claude/skills/new-book-outline/`)
 and `/triage` 1.0.0 (`.claude/skills/triage/` — the author's PR queue

@@ -204,6 +204,14 @@ The battery, cheapest first:
    Per-unit checks count beats inside a unit; this one counts steps
    across the whole. (Template: `series-kit/11-arc-docs.md`; tool:
    `tools/romance-build-check.py`.)
+8. **The instrument audit** — every four units, an agent audits the
+   battery itself: which rules produced sameness (a "must state X"
+   slot becomes a template), which author catches no gate caught,
+   where the written process and the practice diverged, which agent
+   definitions contradict the law or each other, which ledgers carry
+   ghosts, and which checks cannot fail. Proposes; never edits. The
+   review of the reviewers (`agents/instrument-auditor.md`;
+   reports in `agents/audits/`).
 
 Supporting disciplines: **state chains** (every unit declares
 STATE IN/OUT — day, who-knows-what, object locations — and N's OUT
