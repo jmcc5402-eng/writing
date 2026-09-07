@@ -73,6 +73,6 @@ will. At 12 the board pairs the wrong couple. **The clock.** December
 bench plant (ADULT-CAST-IDEAS, author 2026-08-16): the admissions
 director is a woman, 32, Ashford State's new director of admissions,
 the lead candidate for a later book; the receivers coach is a man,
-34, on Dan's staff, no reporting line between them. Their NAMES are
-still working names — Mack Doyle and Ty Beaumont. Rule: keep them,
-or give two new ones. The door-ajar scene is in her head.
+34, on Dan's staff, no reporting line between them. RULED (B2-D12,
+2026-09-07): **Mackenzie Doyle** and **Ty Beaumont**; only Ty calls
+her "Mack." The door-ajar scene is in her head.

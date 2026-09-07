@@ -220,12 +220,11 @@ through March; drive-by presence; one settled-couple scene
 (ch 17) from the estate-sale cameo file.
 
 *New, PROPOSED:*
-- **The admissions director** — [TK name; working name **Mack
-  Doyle**], 32, Ashford State's new director of admissions (the
+- **The admissions director** — **Mackenzie Doyle** (RULED B2-D12), 32, Ashford State's new director of admissions (the
   RULED bench plant, ADULT-CAST §Set 1 seeding): fluent in yield
   season, sharp, extremely on the record for a living. One half
   of the sub-couple (gate flag 1). Auditions the 2.x lead.
-- **[TK name; working name **Ty Beaumont**]**, 34, wide
+- ****Ty Beaumont** (RULED B2-D12)**, 34, wide
   receivers coach — the sub-couple's other half (gate flag 1):
   no reporting line between them; the cost of their night is
   exposure, not a rule — which is the point.

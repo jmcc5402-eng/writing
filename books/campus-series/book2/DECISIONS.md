@@ -314,3 +314,15 @@ the book it grows and turns external." Then: "Merged."
    Aisha learns at 29 via the equipment manager (B2-T02 annotated).
 4. **The author's annex note** ("no nostalgia for the annex; nostalgia
    for her job") is PROPOSED as the provider partner (#138).
+
+## B2-D12 — the sub-couple's names (author, 2026-09-07: "Make the women's slightly more female sounding. Then you choose")
+
+- **Mackenzie Doyle**, 32, Ashford State's new director of admissions
+  — the woman; the bench plant for a later book's lead. Narration
+  says "Mackenzie"; **only Ty calls her "Mack."**
+- **Ty Beaumont**, 34, wide receivers coach on Dan's staff — the man.
+  No reporting line between them.
+Sound check: Doyle and Beaumont collide with no cast surname
+(Sutter, Boyd, Fountain, Kyzer, Dillard, Ferrell, Pruett, Cole,
+Merritt, Gault, Poteat, Tatum, Moran, Pham). Gate flag 1 closed.
+The working names in older docs read as these.

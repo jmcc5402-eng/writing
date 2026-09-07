@@ -62,4 +62,4 @@ finding). Started at the wave-1 fold (2026-08-30).
 | The coat, Monday | cuffs turned back and pinned flat at both wrists (Verna, Sunday); her hands out and staying out; the mate on Dan's hook by the door, nothing stitched over its patch; he wears the sideline jacket daily | ch 10 |
 | Thirty-four | hamstring, low grade, off the sled Friday; limited, no cutting, sleeve stays on | ch 10 |
 | The Mule on a weeknight | the TV dark over the back bar; DEC 19 circled beside the register; the brick inside the door; Peanut sets the beer down unasked (Dan's drink still open); Tick's fries | ch 10 |
-| The doorway | the admissions director (folders on one hip, in the Fieldhouse for signing week) and the receivers coach, a coat handed over, a laugh, a second longer than the handing took; titles only | ch 10; names `[TK]` |
+| The doorway | Mackenzie Doyle (the admissions director, folders on one hip, in the Fieldhouse for signing week) and Ty Beaumont (the receivers coach), a coat handed over, a laugh, a second longer than the handing took; titles only on the ch 10 page | ch 10; names RULED B2-D12 |
