@@ -18,51 +18,34 @@ selective competition, DRAFTING-PROTOCOL item 5; #143), panel 1.3.0
 (scene by scene; blind A/B/C for a competition, then the
 scoreboard), lint, one PR with the card on top of the listening file.
 
-**Merged 2026-09-07:** #137 (ch 10, with the "too small town" note:
-the ch 6 war-room line; "supper" banned; the board's parents live
-out of state), #138 (the provider partner — CANON, B2-D13: the annex
-is her JOB; Dan knows from 10; she learns at 15; the town at 24).
-Ch 1–10 accepted and folded. The sub-couple named (B2-D12):
-Mackenzie Doyle and Ty Beaumont; only Ty says "Mack." Names are
-relationships (STYLE): every major character gets a name map; the
-1.2 map is in the registry.
+**Ch 1–12 ACCEPTED (#141 merged 2026-09-07) and FOLDED** in this
+PR: THREADS ch 12 entry; F6 PAID; RH1 PLANTED (F7 row); B2-T08's
+second turn; ladder row 12; the registry (the artifact, the counter,
+the vaguepost and replies, the deletions, the whip count's first
+post, the staff morning, the Monday step, the trucks SR, Earlene
+doesn't type, her eyes, the phone face up); the ledger pass the
+instrument audit asked for (anchors 7–12; the ch 11 edge; "somebody's"
+debt; T06/T07 PLANTED; FirstDownMom struck from THREADS). Also here:
+the listening-file fix (bold card lines were being dropped) and the
+lint that fails on the opening check.
 
-**#139 (ch 11) MERGED with three comments (2026-09-07)** — all
-three applied on the designated branch in the fold PR (B2-D14): the
-loans as the concrete stake; Kat's pokes and her worth-it line; the
-side scene moved from the crew cab to Ty's apartment ("they're way
-too old for that"). Plus the author's standing want: more
-third-party scenes without the leads over the next couple of books
-— series D08 amended (two to three side-POV scenes per book in 1.3
-and 1.4; 1.2's Q3/Q4 cards each look for one). Ch 1–11 accepted
-and folded once that PR merges. Do not chase.
+**OPEN:** #144 (ch 11's opening rewritten — the calendar recital
+retired); #145 (instrument-auditor 1.0.0 with its first report; the
+backlog carries its thirteen open proposals). Merged today: #142 (the
+stakes of the nineteenth, B2-D15), #143 (selective competition).
 
-**OPEN: the chapter 12 PR** (designated branch) — "By Nine A.M.":
-the leak decoded wrong as the coach and the doctor; the three reads;
-the second staged clash at the annex (he loses the day and the room);
-Earlene counts the doors; ends DOWN. Panel PASS WITH FIXES applied;
-17.1%. SR on the page: the two truck makes; Coach's truck has two
-doors; Earlene doesn't type. Do not chase.
-
-**On merge:** fold (THREADS ch 12 entry; registry rows per the audit's
-list — the artifact's form, the vaguepost's author, both trucks, the
-Saturday staff morning, Dan at the counter, the Monday step, the whip
-count's first post, the un-pairing, Earlene's anchor count; the arc
-ladder row 12; F6 PAID / RH1 PLANTED; B2-T08's turn). **Then chapter
-13 alone** — Aisha · Wk5 Mon · "The Exertion Test": the bike in the
-quiet room brings the symptoms back; she tells him the playoff is
-likely out; he asks his first real question ("walk me through
-Tuesday, medically") — stage 3 opens OUTSIDE; HEAT 1 in the film
-room, heads over the scans, interrupted by the building; RH1 dies at
-the Table offstage. **Ch 13 is a SET PIECE** (the first heat scene):
-three blind drafters, three cards (D1, D5, then the next LRU), the
-panel reads A/B/C blind, the showrunner's scoreboard, one line in
-the PR on which won and why; the author reads only the winner. Card
-first, with the clock PRICED (B2-D15: the announcement, the
-extension, the town's second December, her double bind). The ch 13
-brief retires the "Doc." / "Coach." scene-close (three chapters
-running) or makes it the turn, and quotes the last two openings
-under THE OPENING, SAID. Audit card next: E6 or E3 (LRU).
+**Then chapter 13 — THE FIRST SET PIECE** — Aisha · Wk5 Mon · "The
+Exertion Test": the bike in the quiet room brings the symptoms back;
+she tells him the playoff is likely out; he asks his first real
+question ("walk me through Tuesday, medically") — stage 3 opens
+OUTSIDE; HEAT 1 in the film room, heads over the scans, interrupted
+by the building; RH1 dies at the Table offstage; the town's second
+December said once (B2-D15 stake 4); the announcement sighted.
+Three blind drafters (D1, D5, then the next LRU), the panel reads
+A/B/C blind, the scoreboard, one line in the PR on which won. Card
+first, with the clock PRICED. The brief retires the "Doc." /
+"Coach." scene-close or makes it the turn, and quotes the last two
+openings under THE OPENING, SAID. Audit card next: E6 or E3 (LRU).
 
 **Standing:** do not chase; talk plainly (taste 13); every lesson an
 instrument (taste 14); the card before the chapter (§3c).
