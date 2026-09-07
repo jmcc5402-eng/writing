@@ -150,3 +150,52 @@ Standing fix, for whoever dispatches:
   card and declined to pick one for itself. Correct behavior. The
   dispatcher draws the card; MYBYB has never been dealt a P-deck
   card and that gap is real.
+
+## From the first instrument audit (2026-09-07 — `audits/2026-09-07-instrument-audit.md`)
+
+Fixed the same day on the ch 12 PR: F1 (the listening file dropped
+bold card lines), F2 (STATE's ch 13 hand-forward said one drafter),
+F6 (the chapter lint could not fail). Open, each with its proposed
+fix in the report:
+
+- **F3 / F14 — the seams.** The opening check reads paragraph one
+  only; the Mule, the house, the check and "the annex across the lot"
+  enter the same way across ch 10–12, and 13 of 21 sections close on
+  an "and [small action]" tail. Proposed: opening-check.py runs on
+  the first paragraph after every `***` and prints each section's
+  first and last line. No new rule.
+- **F4 — the manifest as a voice sample.** The continuity-keeper's
+  FACT MANIFEST hands the drafter neighboring narration verbatim.
+  Proposed: furniture as nouns with cites; verbatim quotes are
+  dialogue only; "do not repeat" cites the line, never prints it.
+- **F5 — the repetition scan runs after the author reads.** Proposed:
+  per chapter, in the lint, before the PR.
+- **F7 — the build check cannot fail an unearned stage opening**
+  (a blank Spends cell skips rule 4); the arc doc's stage table and
+  ladder disagree at 9–10. Proposed: any In/Out increment is a spend.
+- **F8 — the continuity-keeper is told to run a tool it has no shell
+  for.** Proposed: the orchestrator runs it and pastes the output.
+- **F9 — eleven author catches, tabled** with the instrument each ran
+  past. Proposed: the continuity-keeper reads the brief's OPENING,
+  ARGUMENT and REVERSAL against the manifest, and gets the
+  taste-sheet section; the panel's TASTE finding lists all fourteen
+  entries; the LOG notes author reactions that land on a card.
+- **F10 — two ban lists.** Briefs restate RECENT by hand; caught tics
+  never reach RECENT; a capped move ("Doc."/"Coach.") ran a third
+  time. Proposed: briefs point at RECENT as of a date; the fold
+  appends; the addendum gets a CAPS line.
+- **F11 / F12 — ghosts and miscounts**: FirstDownMom survives in
+  THREADS:363; registry rows recording intent not on the page; the
+  ch 11 entry still says "none spent"; "somebody's" and "since June"
+  undercounted; anchors ledger stops at ch 6. Proposed: one ledger
+  pass at the ch 12 fold; Source cites required.
+- **F13 — two laws give the review stack in opposite orders.**
+  Proposed: DRAFTING-PROTOCOL conformed to PIPELINE.
+- **F15 — over-tooled**: retire D7; drop the personification quota
+  from the brief template; discharge the "which" and "Somewhere"
+  WATCHes.
+- **F16 — stale**: "twelve specialists" (now fourteen); three agents
+  missing from CLAUDE.md's table; "the wave-3 directive" never
+  written; AUTHOR-TASTE's review date; DECKS rule numbering; kit 11
+  part numbering; showrunner "variance-EXEMPT" vs a drawn card.
+  Proposed: one housekeeping PR.
