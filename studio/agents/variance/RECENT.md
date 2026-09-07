@@ -43,8 +43,17 @@ list in the agent's invocation as "banned moves this run."
 - FURNITURE BLACKLIST (author, 2026-09-03: "not so 80s country and
   campy — like the word casserole"): casserole, foil, tinfoil, pans
   going over, "them oxygen chambers" register, a grandma at anyone's
-  elbow. Coolers, cans, seltzers, phones, group chats. The chapter
-  lint greps it; a hit is a finding.
+  elbow, and (author, 2026-09-06) SUPPER — "Nobody in the modern
+  world says the word supper." Coolers, cans, seltzers, phones, group
+  chats. The chapter lint greps it; a hit is a finding.
+- THE BOARD'S PARENTS LIVE IN OTHER STATES (author, 2026-09-06): a
+  Division I roster's parents watch the stream, run group chats
+  across time zones, book the hotel block, drive in for games; a
+  board post never has a boy late to a meal or a kitchen in it
+  (grapevine-realism rule 12). And the program is not small-town:
+  a head coach on selection day would be in a war room with his
+  staff; when the page puts him on a porch instead, it SAYS he chose
+  the town's way (ch 6, added 2026-09-07).
 - BANNED: giving every speaker a punchline; write one flat line for a
   named character and let it lie there.
 - QUOTA: three personifications per chapter, no more.
