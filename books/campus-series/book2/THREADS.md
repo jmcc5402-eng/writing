@@ -11,7 +11,7 @@ docs); F## fair-play rows (b12-outline.md table governs).
 | ID | Thread | Planted | Spends | Status |
 |---|---|---|---|---|
 | B2-T01 | The gap years (S11 rider): seven missing seasons; board theories bloom, never confirmed | ch 1 ("the Wikipedia years" hype-thread speculation) | **ch 16** postgame porch (severable line banked) | OWED |
-| B2-T02 | The coat: the re-badged staff parka was HIS spare | ch 7 | **ch 29** via the equipment manager | not yet planted |
+| B2-T02 | The coat: the re-badged staff parka was HIS spare | ch 7 | **ch 29** via the equipment manager | planted ch 7; **the reader knows from ch 10 (Dan's POV)**; Aisha learns ch 29; the manager's line banked |
 | B2-T03 | The scandal's true shape: separated first; the colleague paid worse | ch 2 (the board's WRONG version on the page: "a wife at home… sat him down for a year… came back leaner") | **ch 14** the annex, before PONR | OWED |
 | B2-T04 | The Birmingham second opinion | ch 17 | **ch 28** Missy | not yet planted |
 | B2-T05 | The tailgate photo | ch 16 | **ch 23** | not yet planted |
@@ -28,9 +28,9 @@ docs); F## fair-play rows (b12-outline.md table governs).
 
 ## Rations ledger (book-wide budgets, spent-to-date)
 
-- **Edge (10 swears, leads + Mack only):** 2 spent — "Goddamn,"
+- **Edge (10 swears, leads + Mack only):** 3 spent — "Goddamn,"
   Dan, ch 4, the empty lot; "Hell of a scouting report," Dan, ch 8
-  (SR-B2-12). 8 remain. (Ledger corrected 2026-09-05.)
+  (SR-B2-12); "Hell." Dan, ch 10, the splinter. 7 remain.
 - **Anchor lines:** ch 1 Earlene · ch 2 Tick · ch 3 Verna ·
   ch 4 Peanut · ch 5 Sonny ("Brains aren't a part you can order
   twice") · ch 6 Delores, on the porch (first playoff in this
@@ -80,7 +80,7 @@ docs); F## fair-play rows (b12-outline.md table governs).
   a second longer than the handing took) · **ch 8 rung 5 held, new
   sense** (the heat off her through two coats at the rail; her hands
   bare) · "Neither of them stepped back" now SPENT TWICE (ch 5, ch 8)
-  — not at ch 13's climb · ch 9 apart (texture only: the coat cut for a big man; his hands remembered) ·
+  — not at ch 13's climb · ch 9 apart (texture only: the coat cut for a big man; his hands remembered) · ch 10 rung 5 held (his POV: her hands out of the sleeves, the pins, breath into the same light; the sheet hand to hand) ·
   ch 13 near-miss · ch 15 the kiss (kiss chart ceiling). Mark
   today: **5** (ch 6 played at 3; the high-water mark holds).
 - **"Somebody's ___" (narration, once per BOOK — B2-D06):** SPENT
@@ -291,6 +291,29 @@ more fevers than the hospital ever did. Buildings remember." Ends
 UP, quiet, on the next check with Merritt across the sheet.
 Carryover toll paid: Marisol Pruett and Cal Sutter, two words and
 one.
+
+### Ch 10 — The Performance Center (ACCEPTED #137, 2026-09-07)
+Introduces: Boyd's consultant (narrow, forties, gray fleece vest,
+glasses, a lanyard from another university turned backward, a
+clicker); nine laminated boards; **"proactive risk posture" in
+forty-point type (B2-T07 PLANTED)**; the film-room window across
+the lot to the annex; the footprint starting at her whirlpool room
+(Dan knows from here); the sub-couple SIGHTED in a doorway by title
+(B2-D03 item 3 CLOSED; names still `[TK]`); the Mule on a weeknight;
+34's hamstring; Verna's pins on Monday. Carries: B2-T02 — **the
+reader knows from ch 10, in Dan's POV, that the coat was his** (tags
+cut at his counter; the cage asked for her name straight; the mate
+on his hook with nothing over the patch); Aisha learns at 29; the
+equipment manager's line stays banked. B2-T08 (the board read for
+her name; "he had looked"). The staged clash (B2-D06.7): "Did you
+ask?" → "Keep the week, Coach. Don't ask anybody on my account." —
+she stops asking; Dan loses. Edge: "Hell," Dan's, 3 of 10 spent.
+ANCHOR (Peanut): "Boyd doesn't buy buildings. He buys the men who
+sign for them." Romance: together at the 5:15 check; rung 5 held
+with new senses (her hands out of the sleeves, the pins, breath into
+the same light); no touch; ends DOWN. Boyd's one line: "Go sign
+your class, Coach. I don't need a thing from you this week."
+Hands forward: the "later board" (the partner — PROPOSED, #138).
 
 ## New canon recorded at this fold
 

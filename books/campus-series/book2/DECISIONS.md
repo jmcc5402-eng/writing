@@ -301,3 +301,16 @@ the book it grows and turns external." Then: "Merged."
 3. **In Aisha's POV, narration says "Trey" / "Trey Gault."** Others
    keep their nicknames and numbers (the full list in RECENT.md).
 4. **Aisha drives a RAV4** (2026-09-06; conformed ch 1, 7, 9).
+
+## B2-D11 — ch 10 accepted (#137, 2026-09-07): the two defaults stand; the sighting closes B2-D03.3
+
+1. **Signing week is unsaid on the page** (the early period opens
+   midweek in week 4; no date, no day of the week).
+2. **The sub-couple is sighted at ch 10** in a doorway, by title.
+   B2-D03 item 3 ("the sub-couple sighted before ch 11") is CLOSED.
+   Their names remain `[TK]` (working Mack Doyle / Ty Beaumont) —
+   the author has not ruled; ch 11's card asks again.
+3. **The reader knows the coat was Dan's from ch 10**, in his POV;
+   Aisha learns at 29 via the equipment manager (B2-T02 annotated).
+4. **The author's annex note** ("no nostalgia for the annex; nostalgia
+   for her job") is PROPOSED as the provider partner (#138).

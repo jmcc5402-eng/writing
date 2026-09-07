@@ -132,6 +132,7 @@ married to the board.
 >    true cause of his behavior; the character does not yet know it.
 >
 > All three go to the author on the ch 7 re-cut PR.
+| 10 | *(annotation, #137)* No turn. He nods along in the room where the drawing takes her rooms, gives her the soft version again, reads the board for her name. The identity at full strength, priced: she stops asking. |
 | 12 | Watches the county guess about his life, midnight tab in hand — and notices he has read it three times. | The weakness visible to him as a habit, not a duty. |
 | 13 | Asks his first real question: "walk me through Tuesday, medically." | Stops managing the answer; starts wanting to understand it. Rung 1. |
 | 14 | Tells her the whole scandal, including the part where the colleague paid more than he did. | Stops managing his own story. |

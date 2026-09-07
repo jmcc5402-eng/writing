@@ -75,7 +75,7 @@ fighting since June and the book treats the fight as the flirtation.
 | 07 | ● PAGE | The coat — XXL, "A. COLE" stitched over the staff patch, handed over as a lost order. *"Her hands came out the ends into the lamplight."* He *"looked at her hands exactly once."* Neither says what it is. |
 | 08 | ● PAGE | **HIS WANT NAMED**, after the porch empties: *"He wanted her… Aisha Cole, who would stand up alone on a cold porch in front of the whole listening county and hold the line for a boy who would never even know it got held."* And the button: **two paper plates on the rail, one bite gone from each.** |
 | 09 | ◐ PLAN | Apart. She finds the Cordelia letter; the carryover couple gets a two-line cameo. |
-| 10 | ◐ PLAN | Apart. He feels the first splinter — the rendering's footprint starts where her rooms stand. |
+| 10 (conformed 2026-09-07: TOGETHER at the 5:15 check; rung 5 held) | ◐ PLAN | Apart. He feels the first splinter — the rendering's footprint starts where her rooms stand. |
 | 11 | ◐ PLAN | Apart. She says it out loud to women, in a booth: *"the book's one frank girlfriend-conversation about wanting the coach, gone exactly nowhere out loud."* |
 | 12 | ◐ PLAN | The county speculates about a version of his life he hasn't earned yet. Apart, and misread together. |
 | 13 | ◐ PLAN | **HEAT 1.** His first real question — *"walk me through Tuesday, medically."* |

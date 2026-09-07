@@ -656,3 +656,12 @@ first (the author: "before makes sense"). `manuscript/ch10.md`,
   83-year-old's own hand; strike it by comment if you want it gone.
 - The board's parents live in other states from here (grapevine
   rule 12); "supper" is on the lint's furniture list.
+
+## 2026-09-07 — fold: #137 (ch 10) accepted
+
+No prose changed here (the annex lines ride #138). THREADS ch 10
+entry; B2-T07 planted; B2-T02 annotated (the reader knows from 10);
+edge 3 of 10; ladder row 10; registry rows (the consultant, the
+boards, the window, the coat Monday, 34, the Mule weeknight, the
+doorway); the arc doc's ch 10 annotation; the kiss chart's row 10
+conformed to together; B2-D11.
