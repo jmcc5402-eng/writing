@@ -340,6 +340,17 @@ sentence:
   sentence a stranger could repeat — what today is and what is at
   stake in it (STYLE.md, the explicit opening). The panel reads the
   first paragraph alone and says what the chapter is about.
+  **AMENDED (author, 2026-09-07: "the first paragraph seems very
+  similar to previous first paragraphs"):** SAID, NOT RECITED. The
+  opening begins on a THING in the room, mid-motion (a tape gun
+  running out, a phone lighting on a counter) — never on the date,
+  the count of days, or the stake sentence. The day and the stake
+  come inside the paragraph, in words no earlier opening used. The
+  brief quotes the last two chapters' openings under this heading
+  so the drafter can see what not to write. `studio/tools/
+  opening-check.py` runs in the chapter lint: three shared
+  five-word runs with any earlier opening, or one sentence already
+  on an earlier page, is a FAIL.
 - **TASTE:** the two or three entries of `studio/AUTHOR-TASTE.md`
   this chapter most risks, by number, and the check that catches
   each. Panels and editors answer it as their last finding.

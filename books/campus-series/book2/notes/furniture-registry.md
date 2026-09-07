@@ -21,7 +21,7 @@ finding). Started at the wave-1 fold (2026-08-30).
 | Family lounge | third floor; coffee "the last one that isn't varnish" | ch 4 |
 | The hospital | "twenty minutes up the highway" — distance stays unnumbered | ch 4; SR-B2-7 |
 | Missy's notebook | logged times; "what means I push the button tonight" | ch 4 |
-| Board fixtures | rivalry hype thread w/ pinned story; "the Wikipedia years" standing joke; usernames: PieBeforeKickoff, DossCoDadx3, GrammyInSectionC, FirstDownMom; Denny authored the clarity thread | ch 1, 4 |
+| Board fixtures | rivalry hype thread w/ pinned story; "the Wikipedia years" standing joke; usernames on the page: FridayNightFaye, AshfordBornAndBred, GrammyInSectionC, PieBeforeKickoff, DossCoDadx3 (ch 1); Denny G., DeeAnn Prewitt, B. Hollis, PomPoms&Prayers (ch 4); Kendra Voyles, Tim Brasher, Rhonda Sipes (epigraph regulars) — "FirstDownMom" is on NO page (struck at the ch 12 audit); Denny authored the clarity thread | ch 1, 4 |
 | NO CALENDAR WORDS | written on the back of Dan's opener card, watched over the cup rim | ch 4 |
 | The athletic director's email | on her tablet, her name under Merritt's; no header, signature, or timestamp; italic lines in her reading; her reply is two words, "Received, thank you"; the sender is "the athletic director" (unnamed, he) | ch 5 re-cut (#116) |
 | "medical determination" | the athletic director's phrase; on the parents' board in quotation marks the same dusk, nobody named | ch 5 re-cut (#116) |
