@@ -37,7 +37,10 @@ list in the agent's invocation as "banned moves this run."
   Let others use nicknames or numbers."); his
   parents and the doctor say "Trey"; the rail, the board, Tick and
   the chorus say "7" / "the boy" / "the quarterback"; administrators
-  say "your quarterback" / "the student"; Dan says "7" at the rail
+  say "your quarterback" / "the student"; THE PROVIDER PARTNER
+  (B2-D13) is "the group" / "the partner" / "our clinical partner"
+  (the consultant), never named until the author names it, never
+  "her replacement" in anyone's mouth; Dan says "7" at the rail
   and to the team and "Trey" in private [PROPOSED default — strike
   by comment]. The chapter lint reports every use with its line.
 - FURNITURE BLACKLIST (author, 2026-09-03: "not so 80s country and

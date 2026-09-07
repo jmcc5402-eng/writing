@@ -301,3 +301,42 @@ the book it grows and turns external." Then: "Merged."
 3. **In Aisha's POV, narration says "Trey" / "Trey Gault."** Others
    keep their nicknames and numbers (the full list in RECENT.md).
 4. **Aisha drives a RAV4** (2026-09-06; conformed ch 1, 7, 9).
+
+## B2-D11 — ch 10 accepted (#137, 2026-09-07): the two defaults stand; the sighting closes B2-D03.3
+
+1. **Signing week is unsaid on the page** (the early period opens
+   midweek in week 4; no date, no day of the week).
+2. **The sub-couple is sighted at ch 10** in a doorway, by title.
+   B2-D03 item 3 ("the sub-couple sighted before ch 11") is CLOSED.
+   Their names remain `[TK]` (working Mack Doyle / Ty Beaumont) —
+   the author has not ruled; ch 11's card asks again.
+3. **The reader knows the coat was Dan's from ch 10**, in his POV;
+   Aisha learns at 29 via the equipment manager (B2-T02 annotated).
+4. **The author's annex note** ("no nostalgia for the annex; nostalgia
+   for her job") is PROPOSED as the provider partner (#138).
+
+## B2-D12 — the sub-couple's names (author, 2026-09-07: "Make the women's slightly more female sounding. Then you choose")
+
+- **Mackenzie Doyle**, 32, Ashford State's new director of admissions
+  — the woman; the bench plant for a later book's lead. Narration
+  says "Mackenzie"; **only Ty calls her "Mack."**
+- **Ty Beaumont**, 34, wide receivers coach on Dan's staff — the man.
+  No reporting line between them.
+Sound check: Doyle and Beaumont collide with no cast surname
+(Sutter, Boyd, Fountain, Kyzer, Dillard, Ferrell, Pruett, Cole,
+Merritt, Gault, Poteat, Tatum, Moran, Pham). Gate flag 1 closed.
+The working names in older docs read as these.
+
+## B2-D13 — the provider partner is CANON (#138 merged 2026-09-07)
+
+Boyd's pledge comes with a regional sports-medicine group (`[TK
+name]`; "the group" / "the partner" on the page) that runs the
+performance center's recovery floor and provides team physician
+services under contract; the university stops carrying its own
+sports-medicine line. Her stake is her JOB, never the building —
+"no nostalgia for the annex." Dan knows from ch 10 (on the page);
+she does not know until he tells her (default ch 15, before the
+kiss; `[CHECK]` at the ch 15 brief) and the town until 24.
+"Proactive risk posture" is the group's own language. Boyd never
+says "her job." The weave by chapter is in `plots/provider-partner.md`
+§3. New thread B2-T11.

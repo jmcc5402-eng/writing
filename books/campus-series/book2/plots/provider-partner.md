@@ -1,6 +1,6 @@
 # Book 1.2 — The provider partner (the annex is her JOB, not a building)
 
-**PROPOSED 2026-09-07 for the author's approval.** The author, on
+**CANON — #138 merged 2026-09-07 (author: "I merged 138"). B2-D13.** The author, on
 the ch 10 listening file: *"I'm a little confused exactly why he's
 thinking about [the annex]. Is he just thinking about her? Does not
 want the annex to go away? Is he worried she'd leave if the new

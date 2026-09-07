@@ -898,8 +898,7 @@ promised scenes land at ch 5/12 (Table), 17 (Cal × Marisol), 9
 
 ## GATE FLAGS (numbered; defaults apply on a bare "go")
 
-1. **Sub-couple casting** — admissions director ([TK name; wkg
-   Mack Doyle]) × receivers coach ([TK name; wkg Ty Beaumont]).
+1. **Sub-couple casting** — admissions director (Mackenzie Doyle, RULED B2-D12) × receivers coach (Ty Beaumont, RULED B2-D12).
    Default: YES as drawn (the seed's named candidate plus a
    staff partner so the exposure-echo lands close to the
    program; no reporting line between them). Alternative: two

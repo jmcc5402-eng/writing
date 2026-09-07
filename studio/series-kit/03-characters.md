@@ -37,6 +37,12 @@ appearance is a continuity error, not a choice._
 <Per character: Public role / Secret (if any) / Traits. Include the
 rotation rules — e.g. "describe the dog in ch1 of every book.">
 
+## Who calls them what (the name map — studio/STYLE.md, "Names are relationships")
+
+| Character | Narration says | Who says what | The one name only one person uses |
+|---|---|---|---|
+| <Lead 1> | <name / surname> | <Lead 2>: "<…>"; <the chorus>: "<…>"; <the antagonist>: "<…>" | <"…" — <who>> |
+
 ## Desires & fears (✅ = author-stated, locked)
 
 | | <Lead 1> | <Lead 2> |

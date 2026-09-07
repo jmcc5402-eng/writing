@@ -340,6 +340,24 @@ one-in-one-out rule is honored by folding the COUPLE LINE into this
 rule (kind 1 is the ladder beat; the couple line becomes part of the
 ROMANCE BEATS list rather than a separate line).
 
+## Names are relationships (author, 2026-09-07 — "a light idea")
+
+> "I like your idea how only the man calls her Mac. I think having
+> different people call different characters by unique names is
+> kind of a good signature. We could have across many books. Sort
+> of like how Aisha should always call a quarterback by his name,
+> but other people can call him by number seven or the boy."
+
+Who calls a character what is a relationship the reader can hear.
+So every major character carries a **name map** in the book's
+characters doc: the name each other character uses for them, and
+the one name that belongs to one person only (the doctor says
+"Trey" while the town says "7"; only Ty says "Mack"; Verna's "my
+winter doctor"). The naming rule that is a full list (below) is
+the enforcement; this is the design. A name that only one person
+uses is a spend: it goes in the registry the first time it is
+said, and it is never handed to a second speaker by accident.
+
 ## Rules are full lists; rations are per book (author, 2026-09-03)
 
 Two lessons from the same listen, generalized:

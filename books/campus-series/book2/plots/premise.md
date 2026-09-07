@@ -186,7 +186,12 @@ dissolvable by honesty — SC4)
    it works, because in 2020s institutional life a polite letter
    campaign IS power. Dan reads the board's verdicts on himself
    nightly; his recovery from that habit is an arc beat.
-4. **The values / annex split.** Boyd's moved-up survey (1.1
+4. **The values / annex split — RULED B2-D13 (2026-09-07): the
+   annex is her JOB.** Boyd's pledge comes with a sports-medicine
+   provider partner that takes over team physician services; the
+   university stops carrying her line; the drawing has no place for
+   her. Dan knows from ch 10; she learns at 15; the town at 24. See
+   `plots/provider-partner.md`. Boyd's moved-up survey (1.1
    hand-forward) needs the annex — the old WPA infirmary the
    athletic department long ago swallowed for overflow sports
    medicine: her rehab rooms, her records, the town's memory of
@@ -220,12 +225,11 @@ through March; drive-by presence; one settled-couple scene
 (ch 17) from the estate-sale cameo file.
 
 *New, PROPOSED:*
-- **The admissions director** — [TK name; working name **Mack
-  Doyle**], 32, Ashford State's new director of admissions (the
+- **The admissions director** — **Mackenzie Doyle** (RULED B2-D12), 32, Ashford State's new director of admissions (the
   RULED bench plant, ADULT-CAST §Set 1 seeding): fluent in yield
   season, sharp, extremely on the record for a living. One half
   of the sub-couple (gate flag 1). Auditions the 2.x lead.
-- **[TK name; working name **Ty Beaumont**]**, 34, wide
+- ****Ty Beaumont** (RULED B2-D12)**, 34, wide
   receivers coach — the sub-couple's other half (gate flag 1):
   no reporting line between them; the cost of their night is
   exposure, not a rule — which is the point.

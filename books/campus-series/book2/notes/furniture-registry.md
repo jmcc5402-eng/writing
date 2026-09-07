@@ -56,3 +56,20 @@ finding). Started at the wave-1 fold (2026-08-30).
 | Saturday | the roster's off day in playoff prep | ch 9 |
 | The scaffold path | a plank walk the crew laid along the House's east wall from the porch to the scaffold's foot; Marisol carries the steel thermos and a stack of cups | ch 9 |
 | Hartwell House in 1.2 | named on the page; Millrow runs out of pavement past it with gravel to turn in | ch 9 |
+| Boyd's consultant | narrow, forties, gray fleece vest over a checked shirt, glasses, a lanyard from another university turned backward, a clicker never set down; says "the student-athlete"; one punchline ("We don't promise weather"); a different man from Book One's young man with the tablet; `[TK name]` | ch 10 (#137) |
+| The nine boards | laminated, stood along the film-room whiteboard's marker tray and thrown by the projector; board one the rendering; four = "proactive risk posture" in forty-point; the recovery floor: six tables, two tanks, an office with a window; "The university staffs it. That's a later board." | ch 10 |
+| The film-room window | one, on the lot side; the annex across the lot under the practice-field light poles; the consultant's thumb and forefinger; "the footprint starts at the near corner and runs to the fence" — the near corner is the whirlpool room | ch 10 |
+| The coat, Monday | cuffs turned back and pinned flat at both wrists (Verna, Sunday); her hands out and staying out; the mate on Dan's hook by the door, nothing stitched over its patch; he wears the sideline jacket daily | ch 10 |
+| Thirty-four | hamstring, low grade, off the sled Friday; limited, no cutting, sleeve stays on | ch 10 |
+| The Mule on a weeknight | the TV dark over the back bar; DEC 19 circled beside the register; the brick inside the door; Peanut sets the beer down unasked (Dan's drink still open); Tick's fries | ch 10 |
+| The doorway | Mackenzie Doyle (the admissions director, folders on one hip, in the Fieldhouse for signing week) and Ty Beaumont (the receivers coach), a coat handed over, a laugh, a second longer than the handing took; titles only on the ch 10 page | ch 10; names RULED B2-D12 |
+
+## Name map (who calls whom what — STYLE "Names are relationships"; started 2026-09-07)
+
+| Character | Narration | Who says what | The one-person name |
+|---|---|---|---|
+| Trey Gault | "Trey" / "Trey Gault" in Aisha's POV; "the boy" elsewhere | Aisha, his parents: "Trey"; the rail, the board, Tick, the chorus: "7" / "the boy" / "the quarterback"; administrators, Boyd: "your quarterback" / "the boy" / "the student-athlete"; Dan: "7" at the rail, "Trey" in private and to her | the doctor's "Trey" on the field |
+| Aisha Cole | "Aisha" / "Dr. Cole" / "the doctor" | Dan: "Doc"; Verna: "my winter doctor"; the board: "Dr. Cole" / "she"; Boyd: "the doctor" | Dan's "Doc"; Verna's "my winter doctor" |
+| Dan Merritt | "Dan" / "Merritt" | Aisha: "Coach" (aloud), "Merritt" (in her head), "Dan" once (ch 11, to the women); the town: "Coach" / "Coach Merritt"; Boyd: "Coach" | Aisha's "Dan," said to women, not to him |
+| Mackenzie Doyle | "Mackenzie" | the Fieldhouse: "the admissions director" | Ty's "Mack" |
+| Ty Beaumont | "Ty" / "the receivers coach" | Dan's staff: "Ty"; the board: "the receivers coach" | — |

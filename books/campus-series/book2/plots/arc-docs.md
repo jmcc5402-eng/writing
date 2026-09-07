@@ -28,7 +28,10 @@ not make requests. The reader watches her do this every chapter: the
 diploma frames still in their box (ch 5), the plate she never asked a
 table for, the coat she tries to return.
 
-**3. Want vs. need.** She wants him, and she wants one town where her
+**3. Want vs. need.** *(B2-D13, 2026-09-07: the job she stands to
+lose is on the page as a JOB — the provider partner takes over team
+medicine; the drawing has no office for her — never as a building
+she is fond of.)* She wants him, and she wants one town where her
 name means what she says it means. She needs to let somebody defend
 her without booking it as a debt she has to repay by leaving. If she
 got the want without the need, she would win the hearing and drive
@@ -132,6 +135,7 @@ married to the board.
 >    true cause of his behavior; the character does not yet know it.
 >
 > All three go to the author on the ch 7 re-cut PR.
+| 10 | *(annotation, #137)* No turn. He nods along in the room where the drawing takes her rooms, gives her the soft version again, reads the board for her name. The identity at full strength, priced: she stops asking. |
 | 12 | Watches the county guess about his life, midnight tab in hand — and notices he has read it three times. | The weakness visible to him as a habit, not a duty. |
 | 13 | Asks his first real question: "walk me through Tuesday, medically." | Stops managing the answer; starts wanting to understand it. Rung 1. |
 | 14 | Tells her the whole scandal, including the part where the colleague paid more than he did. | Stops managing his own story. |
