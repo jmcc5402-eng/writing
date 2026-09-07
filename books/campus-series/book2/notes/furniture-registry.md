@@ -63,3 +63,13 @@ finding). Started at the wave-1 fold (2026-08-30).
 | Thirty-four | hamstring, low grade, off the sled Friday; limited, no cutting, sleeve stays on | ch 10 |
 | The Mule on a weeknight | the TV dark over the back bar; DEC 19 circled beside the register; the brick inside the door; Peanut sets the beer down unasked (Dan's drink still open); Tick's fries | ch 10 |
 | The doorway | Mackenzie Doyle (the admissions director, folders on one hip, in the Fieldhouse for signing week) and Ty Beaumont (the receivers coach), a coat handed over, a laugh, a second longer than the handing took; titles only on the ch 10 page | ch 10; names RULED B2-D12 |
+
+## Name map (who calls whom what — STYLE "Names are relationships"; started 2026-09-07)
+
+| Character | Narration | Who says what | The one-person name |
+|---|---|---|---|
+| Trey Gault | "Trey" / "Trey Gault" in Aisha's POV; "the boy" elsewhere | Aisha, his parents: "Trey"; the rail, the board, Tick, the chorus: "7" / "the boy" / "the quarterback"; administrators, Boyd: "your quarterback" / "the boy" / "the student-athlete"; Dan: "7" at the rail, "Trey" in private and to her | the doctor's "Trey" on the field |
+| Aisha Cole | "Aisha" / "Dr. Cole" / "the doctor" | Dan: "Doc"; Verna: "my winter doctor"; the board: "Dr. Cole" / "she"; Boyd: "the doctor" | Dan's "Doc"; Verna's "my winter doctor" |
+| Dan Merritt | "Dan" / "Merritt" | Aisha: "Coach" (aloud), "Merritt" (in her head), "Dan" once (ch 11, to the women); the town: "Coach" / "Coach Merritt"; Boyd: "Coach" | Aisha's "Dan," said to women, not to him |
+| Mackenzie Doyle | "Mackenzie" | the Fieldhouse: "the admissions director" | Ty's "Mack" |
+| Ty Beaumont | "Ty" / "the receivers coach" | Dan's staff: "Ty"; the board: "the receivers coach" | — |
