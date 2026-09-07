@@ -361,3 +361,24 @@ says "her job." The weave by chapter is in `plots/provider-partner.md`
    street), not the crew cab. The lot, the dome light and the drive
    stay; the truck outside his place is the exposure. RECENT ban.
 4. **More third-party scenes** in 1.3 and 1.4 — series D08 amended.
+
+## B2-D15 — the stakes of the nineteenth (author, 2026-09-07: "I'll take your recommendations")
+
+The game had a clock and no price. Four stakes, RULED, in
+`plots/game-stakes.md`: (1) **the win is Boyd's STAGE** — the
+performance center is announced on the field after a playoff win;
+the pledge is never conditioned on the win (Ashford loses at 16, and
+the loss is what moves Boyd at 20); (2) **Dan's extension, priced**
+— on the February board agenda, a formality after a win, "a review"
+after a first-round exit with the star sitting; the athletic
+director folded in as frightened weather, one line ("a board meeting
+in February and a donor who counts doors"), not a villain; (4) **the
+town's money** — a home playoff game is a second week of the town's
+year, said once by the town; (5) **her double bind, said once** — sign
+and he goes down, she is done; hold and they lose, she is the reason.
+(Stake 3, the athletic director's job, folded into 2; stake 6, the
+class and the portal, left working underneath, unstated.) Weave: 13
+(the town's money; the announcement sighted), 14 (1, 2 and 5 in
+Dan's mouth), 16 (all four carried into the loss), 20 (Boyd's price
+pays the plant), 24, 27. New thread B2-T12. Instrument: the chapter
+card's plot paragraph prices the clock (kit 12).

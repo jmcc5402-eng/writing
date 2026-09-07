@@ -36,6 +36,9 @@ name means what she says it means. She needs to let somebody defend
 her without booking it as a debt she has to repay by leaving. If she
 got the want without the need, she would win the hearing and drive
 away anyway — which is exactly what ch 25 has her decide to do.
+*(B2-D15: her double bind is SAID ONCE on the page, ch 14, in Dan's
+mouth — sign and he goes down, she is done; hold and they lose, she
+is the reason — and never explained again.)*
 
 **4. The turns.**
 | Ch | What she does | What it shows |
@@ -154,7 +157,11 @@ staged as the opposite of ch 2: the man who checked the verdict every
 night walks into a room to be judged without having read one word of
 what the county thinks of him that morning. It costs him the pledge,
 the recruits, the extension — the season's whole spine — and he
-knows the price before he opens the door.
+knows the price before he opens the door. *(B2-D15, 2026-09-07: the
+extension is PRICED on the page from ch 14 — on the February board
+agenda, a formality after a playoff win, "a review" after a
+first-round exit with the star sitting; the athletic director's one
+frightened line is its voice. See `plots/game-stakes.md`.)*
 
 **6. What Aisha gives him.** A diagnosis, and a model. She names the
 weakness in ch 8 as a doctor names a thing, without cruelty and

@@ -530,7 +530,10 @@ watching-eyes theme in furniture). RH1 dies at the Table
 offstage. — *Pays: RH1 cleared; his ladder rung 1.* *Plants: the
 no-go's medical inevitability (F1).* *ANCHOR (Sonny): you don't
 rush concrete and you don't rush a brain.* *End: ache (want
-named, hers, plainly — and shelved).*
+named, hers, plainly — and shelved).* *B2-D15 carries: stake 4
+(what a second home game is worth to the town — one line, Verna or
+Peanut); stake 1 sighted (the announcement exists — the rendering,
+the suite — heard secondhand).*
 
 ### Ch 14 — The Rule Has Reasons (Dan · Wk5 Tue)
 He shows up at the Annex with a truck "because boxes," and packs
@@ -547,7 +550,12 @@ Birmingham (reader sees the calendar hold; B2-T04's trip is
 ch 17). — *Pays: B2-T03. Plants: his conversion's foundation.*
 *ANCHOR (Delores, at the church hall where the records go): ten
 years is long enough to pay a thing, if you paid it honest.*
-*End: held-quiet.*
+*End: held-quiet.* *B2-D15 carries: stakes 1 and 2 in Dan's mouth
+(the announcement on the field after a win; the extension on the
+February agenda — a formality or "a review"); stake 5 said once
+("If you sign and he goes down, you're done. If you don't and we
+lose, you're the reason. I know the math."); the athletic
+director's line reported or on the page (14 or 15).*
 
 ### Ch 15 — Precautionary Hold (Aisha · Wk5 Thu)
 The no-go goes out: Trey Gault will not play December 19, her
@@ -584,7 +592,9 @@ wrong). — *Pays: B2-T01, the season's outer clock (bracket
 closed). Plants: B2-T05/F4.* *ANCHOR (Tick, signing off): win or
 lose, we walk home together — always have.* *End: BUTTON (wave
 4's one) — the loss ball in the equipment cage, and Dan writes
-the backup's name on it.*
+the backup's name on it.* *B2-D15 carries ALL FOUR: the suite; the
+rendering that never goes up; the town's second December that does
+not come; the extension's word turning to "review" by Monday.*
 
 ### Ch 17 — The Gray Season (Aisha · Wk6)
 The exodus; the town at parking-space size; Christmas loud for
