@@ -111,10 +111,13 @@ and a phone wants a picture.
    window of the motel, or with the phone (Kat texting a listing,
    "it would love you").
 4. **The side scene: the Mule at last call, side-POV** (the end).
-   `***` and the camera moves. The POV is the admissions director
-   (`[TK name; working Mack Doyle]` — the author rules names and who
-   they are BEFORE this section is drafted). The receivers coach
-   (`[TK name; working Ty Beaumont]`). Two grown professionals, no
+   `***` and the camera moves. The POV is the admissions director — a
+   woman, 32, Ashford State's new director of admissions, the bench
+   plant for a later book's lead (ADULT-CAST-IDEAS, RULED
+   2026-08-16); working name Mack Doyle, `[TK name]`. The receivers
+   coach — a man, 34, on Dan's staff; working name Ty Beaumont,
+   `[TK name]`. The author rules the NAMES before this section is
+   drafted; who they are is canon. Two grown professionals, no
    reporting line between them, one bad-good idea. Peanut's last
    call ("Last call meant something in this town once" is Book One's
    line — not reused). They leave together. The door-ajar standard:
