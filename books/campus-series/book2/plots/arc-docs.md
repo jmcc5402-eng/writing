@@ -28,7 +28,10 @@ not make requests. The reader watches her do this every chapter: the
 diploma frames still in their box (ch 5), the plate she never asked a
 table for, the coat she tries to return.
 
-**3. Want vs. need.** She wants him, and she wants one town where her
+**3. Want vs. need.** *(B2-D13, 2026-09-07: the job she stands to
+lose is on the page as a JOB — the provider partner takes over team
+medicine; the drawing has no office for her — never as a building
+she is fond of.)* She wants him, and she wants one town where her
 name means what she says it means. She needs to let somebody defend
 her without booking it as a debt she has to repay by leaving. If she
 got the want without the need, she would win the hearing and drive

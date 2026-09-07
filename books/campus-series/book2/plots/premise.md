@@ -186,7 +186,12 @@ dissolvable by honesty — SC4)
    it works, because in 2020s institutional life a polite letter
    campaign IS power. Dan reads the board's verdicts on himself
    nightly; his recovery from that habit is an arc beat.
-4. **The values / annex split.** Boyd's moved-up survey (1.1
+4. **The values / annex split — RULED B2-D13 (2026-09-07): the
+   annex is her JOB.** Boyd's pledge comes with a sports-medicine
+   provider partner that takes over team physician services; the
+   university stops carrying her line; the drawing has no place for
+   her. Dan knows from ch 10; she learns at 15; the town at 24. See
+   `plots/provider-partner.md`. Boyd's moved-up survey (1.1
    hand-forward) needs the annex — the old WPA infirmary the
    athletic department long ago swallowed for overflow sports
    medicine: her rehab rooms, her records, the town's memory of

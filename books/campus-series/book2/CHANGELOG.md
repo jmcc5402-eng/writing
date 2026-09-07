@@ -665,3 +665,10 @@ edge 3 of 10; ladder row 10; registry rows (the consultant, the
 boards, the window, the coat Monday, 34, the Mule weeknight, the
 doorway); the arc doc's ch 10 annotation; the kiss chart's row 10
 conformed to together; B2-D11.
+
+## 2026-09-07 — fold: #138 (the provider partner) canon
+
+No new prose beyond the ch 10 lines that rode #138. B2-D13; the
+premise's §4 annotated; Boyd's arc §2; Aisha's arc §3; B2-T11 in
+THREADS; the naming list carries "the group." The ch 11 brief
+already assumed she does not know.

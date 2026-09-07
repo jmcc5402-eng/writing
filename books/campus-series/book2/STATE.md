@@ -9,47 +9,47 @@ production runs under them: brief audit, label shuffle,
 jewel-forge slot, staging clause, furniture registry, anchor
 lines, carryover-reader gate).**
 
-## PICK UP HERE (2026-09-06, evening — CURRENT)
+## PICK UP HERE (2026-09-07 — CURRENT)
 
-**AUTHOR FOCUS: ROMANCE ONLY; CHAPTER BY CHAPTER.** One chapter,
-one brief, one card (written BEFORE drafting and sent to the author
-first), one audit, one drafter, one panel (1.3.0, scene by scene),
-one lint, one PR with the card on top of the listening file.
+**AUTHOR FOCUS: ROMANCE ONLY; CHAPTER BY CHAPTER.** Card before
+drafting (sent to the author first), brief, audit, one drafter,
+panel 1.3.0 (scene by scene), lint, one PR with the card on top of
+the listening file.
 
-**Merged 2026-09-06:** #134 (ch 9, with four comments), #135 (the
-comments applied; the calendar default B2-D10; ch 10 briefed),
-#136 (Boyd's arc — CANON, Part 4 of the arc docs; the walls ruled:
-"a longer burn is better"). Ch 1–9 accepted and folded.
+**Merged 2026-09-07:** #137 (ch 10, with the "too small town" note:
+the ch 6 war-room line; "supper" banned; the board's parents live
+out of state), #138 (the provider partner — CANON, B2-D13: the annex
+is her JOB; Dan knows from 10; she learns at 15; the town at 24).
+Ch 1–10 accepted and folded. The sub-couple named (B2-D12):
+Mackenzie Doyle and Ty Beaumont; only Ty says "Mack." Names are
+relationships (STYLE): every major character gets a name map; the
+1.2 map is in the registry.
 
-**OPEN: the chapter 10 PR** (`campus/ch10`) — "The Performance
-Center," Dan's Monday; panel PASS WITH FIXES applied; dialogue
-15.3%. Two strikeable defaults ride it: signing week unsaid (the
-early period opens midweek, no date on the page) and the sub-couple
-sighted in a doorway by title only (their names still `[TK]`,
-working Mack Doyle / Ty Beaumont — the author's to rule). Do not
-chase.
+**OPEN: the chapter 11 PR** (`campus/ch11`) — "Last Call at the
+Mule": Friday's check; wine night in the Mule's back booth (new
+winter room); "Fine," she said. "I want Dan." (her first "Dan" on
+any page); the job said plainly as the stake; Birdie's anchor; the
+side scene at last call in Mackenzie's head, door ajar, the phone
+down the rail (F6 planted). Panel PASS WITH FIXES applied; 27.1%.
+Do not chase.
 
-**On merge:** fold (THREADS ch 10 entry; registry: the consultant's
-look, nine boards, the film-room window across the lot, the
-footprint at the whirlpool, the pins Monday, the mate on his hook,
-34's hamstring, the Mule on a weeknight, the doorway; B2-T02
-annotated — the reader knows from ch 10, Aisha at 29; the arc doc
-annotated — ch 10 a no-turn chapter for Dan, the identity priced;
-the kiss chart's row 10 conformed to "together"; B2-D03 item 3
-closed by the sighting; the edge: 3 of 10 spent). **Then chapter 11
-alone** — Aisha · Wk4 Fri · wine night (Marisol's cameo 1, Kat
-pouring; she says the want OUT LOUD to women — stage 3 opens
-inside; the build check runs before the brief; then the town camera
-to the Mule's last call: the sub-couple's one door-ajar scene,
-side-POV, fenced). The ch 11 brief needs: the sub-couple's names
-(author), the Marisol cameo economy (three per book; this is 1 of
-3), the heat map's door-ajar rules (premise §7), a room full of
-people (two alone-at-night endings in a row are behind us). Audit
-card next: E1 (LRU); drafter: D6 (LRU).
+**On merge:** fold (THREADS ch 11; registry: the booth, the
+outside-bottle rule, Kat drove in, the Zinnia Wagon's December
+stock, Ty's crew cab by silhouette, the registrar's-office friend,
+Mackenzie's and Ty's looks, Peanut hears everything and puts it
+nowhere, Aisha's first "Dan"; the name map rows; the arc ladder row
+11; B2-T11 unchanged). **Then chapter 12 alone** — Dan · Wk4 Sat ·
+"By Nine A.M.": the leak by the rulebook (no named thread; a
+screenshot one ring too far by 8:40; a vaguepost the board decodes
+WRONG as the coach and the doctor — RH1); he reads it three times
+and notices; Marisol mods by her own constitution; the walk-on
+letter opens its whip count; Earlene names the truck's make at the
+Table (the honest signal: a crew cab that is not Dan's); the wave's
+one BUTTON ending. Ladder: apart is allowed (ch 11 shared the
+check). Cards next: audit E3 or E5 (LRU), drafter D4.
 
-**Standing:** do not chase a quiet PR; talk plainly (taste 13);
-every lesson becomes an instrument the same day (taste 14); the card
-before the chapter (PIPELINE §3c).
+**Standing:** do not chase; talk plainly (taste 13); every lesson an
+instrument (taste 14); the card before the chapter (§3c).
 
 ## Historical — 2026-09-04, nightly shift
 

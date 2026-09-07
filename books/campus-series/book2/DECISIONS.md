@@ -326,3 +326,17 @@ Sound check: Doyle and Beaumont collide with no cast surname
 (Sutter, Boyd, Fountain, Kyzer, Dillard, Ferrell, Pruett, Cole,
 Merritt, Gault, Poteat, Tatum, Moran, Pham). Gate flag 1 closed.
 The working names in older docs read as these.
+
+## B2-D13 — the provider partner is CANON (#138 merged 2026-09-07)
+
+Boyd's pledge comes with a regional sports-medicine group (`[TK
+name]`; "the group" / "the partner" on the page) that runs the
+performance center's recovery floor and provides team physician
+services under contract; the university stops carrying its own
+sports-medicine line. Her stake is her JOB, never the building —
+"no nostalgia for the annex." Dan knows from ch 10 (on the page);
+she does not know until he tells her (default ch 15, before the
+kiss; `[CHECK]` at the ch 15 brief) and the town until 24.
+"Proactive risk posture" is the group's own language. Boyd never
+says "her job." The weave by chapter is in `plots/provider-partner.md`
+§3. New thread B2-T11.

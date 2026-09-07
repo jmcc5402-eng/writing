@@ -31,7 +31,11 @@ The full footprint: the performance center on the annex's ground,
 cleared by February eleventh, with a program that never embarrasses
 the gift and a coach whose name is on the pledge. Under that, the
 thing Peanut says at the Mule: he does not buy buildings, he buys
-the men who sign for them.
+the men who sign for them. **And (B2-D13):** sports medicine under
+contract to a partner who will never hold a boy out of a playoff;
+the pledge pencils because the university stops carrying her line.
+He never says her job. The consultant says "provider partnership."
+
 
 ## 3. What he believes, and what it makes him do
 
