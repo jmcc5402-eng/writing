@@ -735,3 +735,17 @@ days out.
   — the cut at the first garment. Still UP.
 - Header updated to ACCEPTED #139. Lint clean; dialogue 29.8%; no
   em dashes added; +250 words (about 3,140).
+
+## 2026-09-07 — ch 11: the opening rewritten (MINOR; the calendar recital)
+
+- Author, on reading ch 12: "the first paragraph seems very similar
+  to previous first paragraphs." Ch 10–12 opened on the same recital
+  (the date; "the nineteenth was N days off"; "The class had signed
+  this week"; the stake sentence "Trey played on the nineteenth only
+  if Aisha Cole signed a form saying his brain had healed," verbatim
+  in all three). Ch 11 now opens on the printed sheet going cold on
+  the walk from the annex to the turf, with her word on it — "Held."
+  Every fact the recital carried is said once in fresh words. Nothing
+  else on the page moved. New furniture: the annex printer (the
+  sheet comes off it warm). The opening check now PASSES ch 11
+  against ch 1–10.
