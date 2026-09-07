@@ -764,3 +764,12 @@ days out.
   two doors; the phone face up on the charger. DOWN.
 - SR (author strikes by comment): Ty's Silverado; Dan's F-150 with
   two doors; Earlene "doesn't type."
+- **The opening rewritten** (author, on the PR read: "the first
+  paragraph seems very similar to previous first paragraphs"): ch
+  10–12 had opened on the same calendar recital, one stake sentence
+  in all three verbatim. Ch 12 now opens on the phone lighting face
+  down on the Checkerboard's counter; the day and the stake are said
+  once inside the paragraph in fresh words; the class signing
+  dropped. The opening check (`studio/tools/opening-check.py`) now
+  runs in the lint and PASSES here; it FAILS ch 11 against ch 10
+  (six shared runs) — a MINOR fix owed, the author's call.
