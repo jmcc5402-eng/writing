@@ -24,9 +24,11 @@ what comes next (the next two or three beats, with chapter numbers).
 # Where we are — Chapter NN of MM (week W of X)
 
 ## The plot
-<The one-sentence goal with its finish line. What has happened so
-far, by chapter. Where we are in the Hauge shape (which turning
-point is behind us, which is ahead). This chapter. Next.>
+<The one-sentence goal with its finish line. **The price of the
+clock: what the date costs whom, in the reader's terms — money,
+jobs, a town's year — one sentence.** What has happened so far, by
+chapter. Where we are in the Hauge shape (which turning point is
+behind us, which is ahead). This chapter. Next.>
 
 ## <Lead 1>'s arc
 <The wound in one sentence. The false belief and what it makes them
