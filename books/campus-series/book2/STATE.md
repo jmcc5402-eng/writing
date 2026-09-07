@@ -25,28 +25,27 @@ Mackenzie Doyle and Ty Beaumont; only Ty says "Mack." Names are
 relationships (STYLE): every major character gets a name map; the
 1.2 map is in the registry.
 
-**OPEN: the chapter 11 PR** (`campus/ch11`) — "Last Call at the
-Mule": Friday's check; wine night in the Mule's back booth (new
-winter room); "Fine," she said. "I want Dan." (her first "Dan" on
-any page); the job said plainly as the stake; Birdie's anchor; the
-side scene at last call in Mackenzie's head, door ajar, the phone
-down the rail (F6 planted). Panel PASS WITH FIXES applied; 27.1%.
-Do not chase.
+**#139 (ch 11) MERGED with three comments (2026-09-07)** — all
+three applied on the designated branch in the fold PR (B2-D14): the
+loans as the concrete stake; Kat's pokes and her worth-it line; the
+side scene moved from the crew cab to Ty's apartment ("they're way
+too old for that"). Plus the author's standing want: more
+third-party scenes without the leads over the next couple of books
+— series D08 amended (two to three side-POV scenes per book in 1.3
+and 1.4; 1.2's Q3/Q4 cards each look for one). Ch 1–11 accepted
+and folded once that PR merges. Do not chase.
 
-**On merge:** fold (THREADS ch 11; registry: the booth, the
-outside-bottle rule, Kat drove in, the Zinnia Wagon's December
-stock, Ty's crew cab by silhouette, the registrar's-office friend,
-Mackenzie's and Ty's looks, Peanut hears everything and puts it
-nowhere, Aisha's first "Dan"; the name map rows; the arc ladder row
-11). **Then chapter 12 alone** — Dan · Wk4 Sat · "By Nine A.M.": the
+**Then chapter 12 alone** — Dan · Wk4 Sat · "By Nine A.M.": the
 leak by the rulebook (no named thread; a screenshot one ring too far
 by 8:40; a vaguepost the board decodes WRONG as the coach and the
 doctor — RH1); he reads it three times and notices; Marisol mods by
 her own constitution; the walk-on letter opens its whip count;
 Earlene names the truck's make at the Table (the honest signal: a
-crew cab that is not Dan's); the wave's one BUTTON ending. Apart is
-allowed (ch 11 shared the check). Cards next: audit E3 or E5 (LRU),
-drafter D4.
+crew cab that is not Dan's — and now a truck that sat at a curb all
+night); the wave's one BUTTON ending; ends DOWN (ch 11 ended UP).
+Apart is allowed (ch 11 shared the check). Card first, sent to the
+author before a word is drafted. Cards next: audit E3 or E5 (LRU),
+drafter D1 or D5 (D4 spent on the ch 11 fix pass).
 
 **Standing:** do not chase; talk plainly (taste 13); every lesson an
 instrument (taste 14); the card before the chapter (§3c).

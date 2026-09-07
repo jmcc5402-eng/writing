@@ -316,6 +316,39 @@ the same light); no touch; ends DOWN. Boyd's one line: "Go sign
 your class, Coach. I don't need a thing from you this week."
 Hands forward: the "later board" (the partner — PROPOSED, #138).
 
+### Ch 11 — Last Call at the Mule (ACCEPTED #139, 2026-09-07; the author's three fixes applied in the fold PR)
+Introduces: the Mule's one booth as wine night's winter room; Peanut's
+outside-bottle rule (the cork in his pocket, charged by the jar);
+Kat on the page in 1.2 (drove in; two bottles; listings; "Honey");
+the Zinnia Wagon in December; **Mackenzie Doyle and Ty Beaumont
+NAMED and on the page (B2-D12)** — her POV, his staff rental; the
+registrar's-office friend whose phone lights at last call (**F6
+PLANTED** — the ring is a friend's group chat); the crew cab, four
+doors, no make (Earlene names it ch 12). Carries: B2-T11 — she says
+the stake plainly and it is her JOB (the memo, the drawing without
+her rooms) and now, per B2-D14, the LOANS ("I'm forty-one and I
+still owe on medical school… I've never been fired. I've never been
+kept, either."); B2-T02 (the coat guarded on her far side; "It's the
+team's coat." / "So you said."). Romance: the check — rung 5 held,
+new sense (the field on him across a yard of December air; "Sleeve
+stays on"); **stage 3 OPENS INSIDE: "Fine," she said. "I want Dan."**
+— her first "Dan" on any page, to women, and it goes nowhere; the
+stillness nobody rescues her from; Kat finds her line ("a coach on a
+tray"; "I put scared people into thirty-year mortgages for a
+living… Stakes are high, honey. Sometimes it's worth it."); Kat
+ships them ("He can reach the gutters"); Marisol keeps it off the
+board forever; Peanut's seltzer unasked. ANCHOR (Birdie): "Everybody's
+twenty-five once. The internet just wasn't there for mine, thank
+God." — a kind lie. Merritt in the RAV4 with her at the curb.
+Side scene (D08 channel 3, Q2's one): last call in Mackenzie's head;
+"Mack," in the dark, once; "Drive," she said; his apartment — the
+truck at the curb "plain as a sign," she reads it herself from the
+step and goes in; the jacket over a chair, her coat to the floor:
+the cut at the first garment (STANDARDS 9). Ends UP. Edges: none
+spent. Dialogue 29.8%. Hands forward: ch 12 — the screenshot one
+ring too far; the board decodes the wrong couple as the coach and
+the doctor.
+
 ## New canon recorded at this fold
 
 Kickoff (rivalry game) 2:30 · Doss County RATIFIED (SR-B2-6;
