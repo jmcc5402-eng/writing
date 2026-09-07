@@ -35,6 +35,13 @@ the men who sign for them. **And (B2-D13):** sports medicine under
 contract to a partner who will never hold a boy out of a playoff;
 the pledge pencils because the university stops carrying her line.
 He never says her job. The consultant says "provider partnership."
+**And (B2-D15, 2026-09-07):** the WIN is his stage — the performance
+center is to be announced on the field after a playoff win on the
+nineteenth, the rendering on the video board, the donors in the
+suite. The pledge is never conditioned on the win (Ashford loses at
+16); the loss costs him the stage, and that is why he moves at 20.
+He never says "play him"; he says "We've got people in the suite on
+the nineteenth." See `plots/game-stakes.md`.
 
 
 ## 3. What he believes, and what it makes him do
@@ -68,7 +75,7 @@ weather." That is the arc: what the town calls him.
 | 8 | Stands at the top of Delmar's yard steps saying nothing; leaves by the rail: "I liked the doctor's spirit." | Present. He has seen her; he prices spirit. |
 | 10 | Sits in the film room and says nothing while the consultant walks the pledge through on boards; the phrase "proactive risk posture" in 40-point type; two fingers measure the annex through the window. Says one thing to Dan and it is not a threat. | Proposes. The footprint is her rooms; Dan sees it and nods. |
 | 19 | Walks her rooms uninvited with the survey clipboard; admires her packing ("Lists write themselves"); passes one remark: her name "came up" out west; he'd hate to lose her. Dan arrives with boxes; Boyd prices that silently on his way out. | Tempts (F11, never litigated). |
-| 20 | Names the price to Dan without naming it: if "the medical situation embarrasses the program" before February, the pledge and the spring extension get "re-sequenced." | Prices (F9, explicit, on the page). |
+| 20 | Names the price to Dan without naming it: if "the medical situation embarrasses the program" before February, the pledge and the spring extension get "re-sequenced." *(B2-D15: this now PAYS the stage planted at 13–14 and lost at 16, instead of arriving cold.)* | Prices (F9, explicit, on the page). |
 | 23–24 | The photo surfaces from the board's album by the consultant's trawl; the complaint letter carries his man's phrase; the same week she is suspended, the annex survey greenlights. Boyd is in none of it by name. | Strikes through others. The tell is on the page, uncommented except by the Table. |
 | 27 | Marisol's receipts put the phrase beside the survey notice; the campaign is shown manufactured; the wire to Boyd is said once and not proven. By end of day: pledge re-sequenced, the portal QB un-signs, the extension off the agenda. | Named, not proven; makes Dan pay the full price (F9 pays). |
 | 28 | His survey acceleration lands mid-scene, before the final beat, never as it. | The weather keeps moving. |

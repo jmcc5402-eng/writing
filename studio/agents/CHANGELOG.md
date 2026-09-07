@@ -3,6 +3,22 @@
 Newest first. Every entry: version, what changed, and the evidence that
 drove it.
 
+## 2026-09-07 — showrunner 2.4.0: set pieces get a competition; connecting chapters get one drafter
+
+Author, 2026-09-07, on "the idea that we had 3 drafters write each
+chapter and then compete": the showrunner reported the drift
+(chapters 9–12 of campus 1.2 ran one drafter each under the
+single-chapter cadence, against the conveyor's default of three) and
+recommended a selective rule — competition for the set pieces (the
+first heat scene, the kiss, the game, the antagonist's price, the
+hearing, any register pilot), one drafter for connecting chapters,
+the panel judging blind, the author reading only the winner, no
+grafting by default. Author: "yes i like that." Written into
+DRAFTING-PROTOCOL ("The conveyor," item 5), PIPELINE §3c, and the
+showrunner's duties (the brief names SET PIECE or CONNECTING; the
+scoreboard; the one-line "which won and why" in the PR). First run:
+campus 1.2 ch 13.
+
 ## 2026-09-06 — showrunner 2.3.0: the chapter card before every chapter read
 
 Author, 2026-09-06: "For each new chapter I would like a very
