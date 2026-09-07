@@ -12,9 +12,11 @@ lines, carryover-reader gate).**
 ## PICK UP HERE (2026-09-07 — CURRENT)
 
 **AUTHOR FOCUS: ROMANCE ONLY; CHAPTER BY CHAPTER.** Card before
-drafting (sent to the author first), brief, audit, one drafter,
-panel 1.3.0 (scene by scene), lint, one PR with the card on top of
-the listening file.
+drafting (sent to the author first), brief, audit, ONE drafter for
+connecting chapters and THREE blind drafters for set pieces (the
+selective competition, DRAFTING-PROTOCOL item 5; #143), panel 1.3.0
+(scene by scene; blind A/B/C for a competition, then the
+scoreboard), lint, one PR with the card on top of the listening file.
 
 **Merged 2026-09-07:** #137 (ch 10, with the "too small town" note:
 the ch 6 war-room line; "supper" banned; the board's parents live
@@ -52,9 +54,15 @@ quiet room brings the symptoms back; she tells him the playoff is
 likely out; he asks his first real question ("walk me through
 Tuesday, medically") — stage 3 opens OUTSIDE; HEAT 1 in the film
 room, heads over the scans, interrupted by the building; RH1 dies at
-the Table offstage. Card first. The ch 13 brief retires the "Doc." /
-"Coach." scene-close (three chapters running) or makes it the turn.
-Cards next: audit E6 or E3 (LRU), drafter D1 or D5.
+the Table offstage. **Ch 13 is a SET PIECE** (the first heat scene):
+three blind drafters, three cards (D1, D5, then the next LRU), the
+panel reads A/B/C blind, the showrunner's scoreboard, one line in
+the PR on which won and why; the author reads only the winner. Card
+first, with the clock PRICED (B2-D15: the announcement, the
+extension, the town's second December, her double bind). The ch 13
+brief retires the "Doc." / "Coach." scene-close (three chapters
+running) or makes it the turn, and quotes the last two openings
+under THE OPENING, SAID. Audit card next: E6 or E3 (LRU).
 
 **Standing:** do not chase; talk plainly (taste 13); every lesson an
 instrument (taste 14); the card before the chapter (§3c).
