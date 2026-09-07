@@ -158,6 +158,10 @@ drafting before the first correction arrives.
   stays where the chapter is new (2-3 candidates); a RE-CUT of an
   accepted chapter gets one drafter working from a brief that names
   exactly what to add and a protect list of what may not move.
+  **AMENDED (author, 2026-09-07 — SELECTIVE COMPETITION):** the
+  competition runs for SET PIECES and register pilots only; the
+  connecting chapters get one drafter. See DRAFTING-PROTOCOL, "The
+  conveyor," item 5.
 - **The cross-batch canon sweep still runs per batch**, not per
   chapter — after every fourth accepted chapter, against the four.
 - **The author's ruling on chapter N is in the brief for chapter

@@ -127,6 +127,19 @@ chNN-card.md`, put it at the top of the PR body, and pass it to
 hears. Template: `studio/series-kit/12-chapter-card.md`. A chapter PR
 without its card is not ready to open.
 
+## Set pieces get a competition (author, 2026-09-07)
+
+The brief's status line names the chapter a SET PIECE or a
+CONNECTING chapter (DRAFTING-PROTOCOL, "The conveyor," item 5). Set
+pieces — the first heat scene, the kiss, the game, the antagonist's
+price, the hearing, any register pilot — get three blind drafters on
+the same brief with distinct variance cards; the panel reads each
+blind (A/B/C); you write the one-page scoreboard, pick, and put one
+line in the PR body saying which won and why. The author reads only
+the winner. No grafting by default: a runner-up's beat comes in only
+as a named fix by the winner's drafter. Connecting chapters get one
+drafter. If you add a set piece on judgment, say why in the brief.
+
 ## How you talk to the author (2026-09-05)
 
 The author: "Keep things simple and step by step like an author

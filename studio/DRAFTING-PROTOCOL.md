@@ -118,6 +118,9 @@ than restating it.
 
 ## The conveyor — blind-competition drafting (author, 2026-08-11)
 
+> **Item 5 below (author, 2026-09-07) narrows item 1: the
+> competition is SELECTIVE, not the default for every new chapter.**
+
 The scarce resource is the author's reading-and-ruling bandwidth;
 agent drafting is not. A human studio serializes drafting because
 drafters are expensive; this studio serializes THE AUTHOR'S READING
@@ -182,6 +185,38 @@ and parallelizes everything else.
 5. **Losers are kept, not deleted.** Runner-up candidates stay in
    `drafts/DATE/` unadopted — they are the graft bank for the
    winner's revision and the evidence base for register rulings.
+
+5. **SELECTIVE COMPETITION (author, 2026-09-07: "yes i like that").**
+   Under the single-chapter cadence (PIPELINE §3c) chapters 9–12 of
+   campus 1.2 ran ONE drafter each — a drift from item 1 that the
+   audit-and-panel gates made survivable. The rule going forward:
+   - **Competition (three blind drafters, distinct variance cards,
+     same brief and addendum) for SET PIECES** — the chapters where a
+     wrong draft costs the most: in 1.2, ch 13 (the first heat
+     scene), 15 (the kiss), 16 (the game), 20 (Boyd's price), 27 (the
+     hearing); and the first chapter of any new POV or register (the
+     register pilot, item 3). The brief names the chapter a SET PIECE
+     in its status line; the showrunner may add one on judgment and
+     says why in the brief.
+   - **One drafter for the connecting chapters**, where the brief and
+     the audit already decide most of what the page does.
+   - **The panel judges blind** (romance-reader-panel 1.3.0, scene by
+     scene, one report per candidate, candidates labeled A/B/C, the
+     panel never told which card each drew), then a one-page
+     scoreboard from the showrunner: the brief's obligations, the
+     beat count, the apart and woven tests, the taste entries risked.
+     The showrunner picks; the PR body says which candidate won and
+     in ONE line why. **The author reads only the winner.**
+   - **No grafting by default.** The winner ships as written. A
+     runner-up's beat gets in only as a NAMED FIX applied by the
+     winner's drafter (one beat, one line ask, logged in the
+     CHANGELOG), never as a merge of drafts — the voice stays one
+     person's (the committee-blur lesson, waves 5–8).
+   - Runners-up are filed at `notes/candidates/chNN-{A,B,C}.md` with
+     their panel reports; the losers' best lines go to the estate
+     (`notes/retro-estate-sale…`) only if a later chapter has a slot.
+   - Cost, stated: three drafts and three panel reads per set piece;
+     the author's time does not change.
 
 ## Snowflake prose is written for a stranger (author, 2026-08-08)
 
