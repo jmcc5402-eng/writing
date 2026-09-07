@@ -37,6 +37,8 @@ echo "== LEAD NAMES (each lead named at least once in narration per chapter — 
 echo "Aisha/Cole: $(grep -c 'Aisha\|Cole' "$f")   Dan/Merritt: $(grep -c 'Dan\b\|Merritt' "$f")   'the doctor': $(grep -c -i 'the doctor' "$f")   'the coach': $(grep -c -i 'the coach\b' "$f")"
 echo "== NAMING REPORT — the athletic director (unnamed canon; never 'the AD' in prose)"
 grep -n -i 'athletic director\|\bAD\b' "$f"
+echo "== OPENING CHECK (the first paragraph against every earlier chapter's — studio/tools/opening-check.py)"
+python3 "$(dirname "$0")/opening-check.py" "$f"
 echo "== [TK] / [CHECK]"
 grep -n '\[TK\|\[CHECK' "$f"
 echo "== trailing whitespace"

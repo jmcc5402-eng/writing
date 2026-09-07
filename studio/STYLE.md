@@ -485,6 +485,11 @@ Where the rule bites:
    teams; by noon the county has a season or nothing). That paragraph
    is the chapter's one mandatory on-the-nose beat; it buys the
    subtext that follows. Briefs carry it as THE OPENING, SAID.
+   **Said, not recited (author, 2026-09-07):** campus 1.2 ch 10–12
+   opened on the same calendar recital, one stake sentence in all
+   three word for word. The opening begins on a thing, mid-motion;
+   the day and the stake come inside it in fresh words; the opening
+   check (`studio/tools/opening-check.py`) fails a repeat.
 6. **A lead is named in the other lead's POV.** "The doctor" and
    "the coach" are the chorus's words and the POV lead's private
    register; the name still appears at least once in narration per

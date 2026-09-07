@@ -148,6 +148,17 @@ lint (dangling edges, double dashes, never-once, six-months,
 which-appendix, "somebody's", Somewhere); the endings budget.
 Fails when: a line the author praised once reappears as a template.
 
+**Added 2026-09-07 to entry 6:** *"The first paragraph seems very
+similar to previous first paragraphs. I don't have a good way of
+checking."* Caught: 1.2 ch 10–12 opening on the same calendar
+recital, with one stake sentence in all three word for word — the
+"explicit opening" rule (entry 1, STYLE item 5) had become a
+template. Check: `studio/tools/opening-check.py` in the chapter lint
+(shared five-word runs across openings; a sentence already on an
+earlier page; a calendar first line). The instrument lesson: any
+rule that says "the opening must state X" needs a check that it
+states X *freshly*, or the drafters will state it the same way.
+
 ## 7. Upbeat, light, and hot — not heavy, not lonely
 
 > "I want the vibe to be slightly more Gilmore girls, upbeat and

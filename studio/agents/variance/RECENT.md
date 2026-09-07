@@ -23,6 +23,15 @@ list in the agent's invocation as "banned moves this run."
   End your chapter per its dealt ending register; the brief says if
   yours is a button chapter.
 - BANNED: "one beat" in any timing construction (motif closed at five).
+- BANNED (author, 2026-09-07, 1.2 ch 12 — "the first paragraph seems
+  very similar to previous first paragraphs"): THE CALENDAR OPENING.
+  No chapter opens on the date, the weekday, "the nineteenth was N
+  days off," "N days/weeks out," or the stake sentence. Spent and
+  closed: "Trey Gault played on the nineteenth only if [she / Aisha
+  Cole] signed a form saying his brain had healed" (ch 10, ch 11 —
+  never again in any form); "The class had signed this week" (ch 11).
+  The opening begins on a thing, mid-motion. The opening check runs
+  in the lint.
 - BANNED (author, #139, 2026-09-07, 1.2 ch 11): heat in a parked
   vehicle for grown professionals — "they're way too old for that."
   The approach may cross a lot; the door-ajar scene happens indoors
