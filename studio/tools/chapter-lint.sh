@@ -38,9 +38,10 @@ echo "Aisha/Cole: $(grep -c 'Aisha\|Cole' "$f")   Dan/Merritt: $(grep -c 'Dan\b\
 echo "== NAMING REPORT — the athletic director (unnamed canon; never 'the AD' in prose)"
 grep -n -i 'athletic director\|\bAD\b' "$f"
 echo "== OPENING CHECK (the first paragraph against every earlier chapter's — studio/tools/opening-check.py)"
-python3 "$(dirname "$0")/opening-check.py" "$f"
+python3 "$(dirname "$0")/opening-check.py" "$f"; oc=$?
 echo "== [TK] / [CHECK]"
 grep -n '\[TK\|\[CHECK' "$f"
 echo "== trailing whitespace"
 grep -n ' $' "$f"
 echo "== done"
+[ "$oc" -eq 0 ] || { echo "LINT: FAIL (the opening check)"; exit 1; }
