@@ -31,7 +31,10 @@ docs); F## fair-play rows (b12-outline.md table governs).
 
 - **Edge (10 swears, leads + Mack only):** 3 spent — "Goddamn,"
   Dan, ch 4, the empty lot; "Hell of a scouting report," Dan, ch 8
-  (SR-B2-12); "Hell." Dan, ch 10, the splinter. 7 remain.
+  (SR-B2-12); "Hell." Dan, ch 10, the splinter; "Shit, it's cold."
+  Mackenzie, ch 11, the lot (Mack counts). **4 spent; 6 remain.**
+  (Corrected at the ch 12 audit, 2026-09-07 — the ch 11 fold had
+  logged "none spent.")
 - **Anchor lines:** ch 1 Earlene · ch 2 Tick · ch 3 Verna ·
   ch 4 Peanut · ch 5 Sonny ("Brains aren't a part you can order
   twice") · ch 6 Delores, on the porch (first playoff in this

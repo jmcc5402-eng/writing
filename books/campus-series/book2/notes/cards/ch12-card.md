@@ -34,7 +34,8 @@ the loans said out loud, to women (11). **This chapter:** seen from
 his side only. She has read the board too — she has read it since
 June and never posted — and she stands a yard from him on the
 practice turf with the county's guess between them and does not
-say one word about it. She holds Monday's exertion step against his
+say one word about it. She sets the exertion step for Monday off
+Missy's morning page, tells him, and holds it against his
 argument; she does not ask him for anything. **Next:** 13, the test
 goes bad and she tells him plainly; 15, she lets him spend something
 on her and builds the firewall.
@@ -89,4 +90,4 @@ a biased mod by the same people who will sign the letter against
 her son. The Table is offline and knows the truck by sight; the
 board is out of state and argues till midnight. **The clock.**
 Saturday, December 12. Seven days to the nineteenth. Monday is the
-exertion step.
+exertion step — set today, by her.
