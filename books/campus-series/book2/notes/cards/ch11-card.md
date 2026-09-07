@@ -69,10 +69,10 @@ will. At 12 the board pairs the wrong couple. **The clock.** December
 
 ## One thing the author must give before the side scene is written
 
-**The sub-couple.** Their names are still working names (Mack Doyle,
-the admissions director, 32; Ty Beaumont, the receivers coach, 34)
-and nothing on any page says who they are. The door-ajar scene is
-in one of their heads and cannot be written pronoun-free. Rule:
-keep the working names or give new ones, and say which of the two
-carries the scene (default: the admissions director, the 2.x lead
-audition).
+**The sub-couple's names.** Who they are is settled by the series
+bench plant (ADULT-CAST-IDEAS, author 2026-08-16): the admissions
+director is a woman, 32, Ashford State's new director of admissions,
+the lead candidate for a later book; the receivers coach is a man,
+34, on Dan's staff, no reporting line between them. Their NAMES are
+still working names — Mack Doyle and Ty Beaumont. Rule: keep them,
+or give two new ones. The door-ajar scene is in her head.
