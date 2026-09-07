@@ -47,6 +47,15 @@ her hotel?"); a rule is a list with a hole in it; a lead is only
 caught by the author's ear 2026-09-04: "Was there any Ayesha in
 chapter 6?").
 
+**Names are relationships (2026-09-07, "a light idea").** *"I like
+your idea how only the man calls her Mac. I think having different
+people call different characters by unique names is kind of a good
+signature… Sort of like how Aisha should always call a quarterback
+by his name, but other people can call him by number seven or the
+boy."* Check: every major character has a name map (STYLE, "Names
+are relationships"; kit 03; the 1.2 map in the furniture registry);
+a one-person name is a spend the registry tracks.
+
 **The positive form — the explicit opening.** *"I really liked how
 the very first paragraph was very explicit, that gets us off the
 hook and we can do a lot of implicit stuff later."* (2026-09-04, on
