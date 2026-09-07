@@ -35,17 +35,26 @@ third-party scenes without the leads over the next couple of books
 and 1.4; 1.2's Q3/Q4 cards each look for one). Ch 1–11 accepted
 and folded once that PR merges. Do not chase.
 
-**Then chapter 12 alone** — Dan · Wk4 Sat · "By Nine A.M.": the
-leak by the rulebook (no named thread; a screenshot one ring too far
-by 8:40; a vaguepost the board decodes WRONG as the coach and the
-doctor — RH1); he reads it three times and notices; Marisol mods by
-her own constitution; the walk-on letter opens its whip count;
-Earlene names the truck's make at the Table (the honest signal: a
-crew cab that is not Dan's — and now a truck that sat at a curb all
-night); the wave's one BUTTON ending; ends DOWN (ch 11 ended UP).
-Apart is allowed (ch 11 shared the check). Card first, sent to the
-author before a word is drafted. Cards next: audit E3 or E5 (LRU),
-drafter D1 or D5 (D4 spent on the ch 11 fix pass).
+**OPEN: the chapter 12 PR** (designated branch) — "By Nine A.M.":
+the leak decoded wrong as the coach and the doctor; the three reads;
+the second staged clash at the annex (he loses the day and the room);
+Earlene counts the doors; ends DOWN. Panel PASS WITH FIXES applied;
+17.1%. SR on the page: the two truck makes; Coach's truck has two
+doors; Earlene doesn't type. Do not chase.
+
+**On merge:** fold (THREADS ch 12 entry; registry rows per the audit's
+list — the artifact's form, the vaguepost's author, both trucks, the
+Saturday staff morning, Dan at the counter, the Monday step, the whip
+count's first post, the un-pairing, Earlene's anchor count; the arc
+ladder row 12; F6 PAID / RH1 PLANTED; B2-T08's turn). **Then chapter
+13 alone** — Aisha · Wk5 Mon · "The Exertion Test": the bike in the
+quiet room brings the symptoms back; she tells him the playoff is
+likely out; he asks his first real question ("walk me through
+Tuesday, medically") — stage 3 opens OUTSIDE; HEAT 1 in the film
+room, heads over the scans, interrupted by the building; RH1 dies at
+the Table offstage. Card first. The ch 13 brief retires the "Doc." /
+"Coach." scene-close (three chapters running) or makes it the turn.
+Cards next: audit E6 or E3 (LRU), drafter D1 or D5.
 
 **Standing:** do not chase; talk plainly (taste 13); every lesson an
 instrument (taste 14); the card before the chapter (§3c).

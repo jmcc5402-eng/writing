@@ -735,3 +735,41 @@ days out.
   — the cut at the first garment. Still UP.
 - Header updated to ACCEPTED #139. Lint clean; dialogue 29.8%; no
   em dashes added; +250 words (about 3,140).
+
+## 2026-09-07 — ch 12 DRAFTED: "By Nine A.M." (Dan · Sat Dec 12) — PR open
+
+- Card first (`notes/cards/ch12-card.md`, sent to the author before
+  drafting); brief; audit E5 (BLOCK → addendum: no Saturday practice,
+  the shared scene at the annex, Trey at home, the picture in the
+  screenshot, the button by doors, the epigraph a texture post);
+  drafter D3 (short-declarative); panel 1.3.0 PASS WITH FIXES (23
+  beats, all eight kinds; apart test PASS; woven PASS); nine fixes
+  applied; lint clean; 17.1%; about 2,500 words.
+- The page: the screenshot at the Checkerboard counter (a crew cab
+  under a streetlight; "so SOMEBODY left the Mule in a coach's truck
+  last night"; "…"); "Who types a pause?" / "Somebody who was
+  listening." (Dan and the coordinator, by text); Earlene's anchor
+  ("A screenshot is a knife somebody else gets to hold, Coach."); the
+  vaguepost (DeeAnn Prewitt) and the coat reply (DossCoDadx3, "since
+  the freeze") and Rhonda's "explains a LOT about the hold"; "The
+  story was him and her."; Ty in the staff room ("Where's your
+  phone?" / "Truck." / "Good."); the annex: "Held… Step two is
+  Monday." — the second staged clash, he loses the day and the room
+  ("A quiet room means quiet, and you aren't"); her eyes, brown, no
+  blink, from this close (the new rung-5 sense); "They've got us in a
+  truck." unsaid by both; Marisol takes the names and leaves the
+  weather; Tim Brasher's "who's deleting what"; "11 families so far"
+  under an out-of-state name; three reads counted at midnight; B.
+  Hollis relays Earlene: a Silverado crew cab, and Coach's F-150 has
+  two doors; the phone face up on the charger. DOWN.
+- SR (author strikes by comment): Ty's Silverado; Dan's F-150 with
+  two doors; Earlene "doesn't type."
+- **The opening rewritten** (author, on the PR read: "the first
+  paragraph seems very similar to previous first paragraphs"): ch
+  10–12 had opened on the same calendar recital, one stake sentence
+  in all three verbatim. Ch 12 now opens on the phone lighting face
+  down on the Checkerboard's counter; the day and the stake are said
+  once inside the paragraph in fresh words; the class signing
+  dropped. The opening check (`studio/tools/opening-check.py`) now
+  runs in the lint and PASSES here; it FAILS ch 11 against ch 10
+  (six shared runs) — a MINOR fix owed, the author's call.
