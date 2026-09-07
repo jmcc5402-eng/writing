@@ -707,3 +707,4 @@ days out.
   office — F6 planted); his crew cab at the far edge of the lot, no
   make; "Mack," in the dark; the coats; the cut at the handle over
   the door with the windows going white. UP.
+- **Panel 1.3.0: PASS WITH FIXES, applied** — 18 beats, all eight kinds, the apart test passes; "Book One's porch, in December, at a bar." Fixes: a warm clause for Dan in the booth's cool middle; a clever button cut; Birdie's decode to one clause; Marisol's speech broken once; the TV gag modernized (a phone mount, not the knife set); "on a game day"; the Checkerboard called a diner once; the turf in the first sentence; Friday's jaw decoded. Kept on purpose: Marisol's jar by the rim (her Book One gesture), and Peanut's seltzer before she asks — he heard "Dan" and will put it nowhere.
