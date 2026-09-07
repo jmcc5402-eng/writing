@@ -115,6 +115,16 @@ blacklist and beverage grep in the chapter lint.
 Fails when: the props could be from a 1980s movie about the South;
 the chorus's charm is doing the work of the plot.
 
+**Added 2026-09-06 to entry 5:** *"We've made the team a bit too
+'small town'… the reality is for a Division I football team the
+coach would begin some war room with his team and staff."* And on a
+board post about a boy late to supper: *"That is way too 80s country
+and way too small town — most parents of these players live in
+different states. Nobody in the modern world says the word supper."*
+Check: "supper" is on the lint's furniture list; the board's parents
+are out-of-state parents (grapevine rule 12); where the program does
+a small-town thing, the page says the coach chose it.
+
 ## 6. Once a book — no phrase becomes a tic
 
 > "Those should be once a book each." (2026-09-04, "somebody's

@@ -331,3 +331,15 @@ Parents' board register (1–6), town room register (7–10):
 - [CHECK] items: absence-of-evidence on main-board romance gossip
   (no direct study); "communities affectionately tease their own
   admins" asserted from pattern, not a single citable study.
+
+## Rule 12 — the parents live in other states (author, 2026-09-06)
+
+*"That is way too 80s country and way too small town — most parents
+of these players live in different states. Nobody in the modern
+world says the word supper."* The Ashford parents' board is mostly
+parents of a Division I roster who do NOT live in the county: they
+watch the stream, run group chats across time zones, book the hotel
+block, drive four hours in for a game, and get a call from their son
+at nine. Posts sound like that. Never a supper table, never a boy
+late for a meal, never a kitchen. The local parents (the Gaults, a
+handful) are the exception and the board knows it.

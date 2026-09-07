@@ -182,3 +182,13 @@ names the weakness), ch 4's pocketed phone reframed as a first, the
 four losses from the conflict plan, and Aisha's ch 8 diagnosis. From
 wave 3, every brief carries its ARC BEAT from these tables, as a
 sentence, next to its REVERSAL.
+
+## Part 4 — REX BOYD, the antagonist (CANON, #136, 2026-09-06)
+
+See `plots/boyd-arc.md`: who he is, what he wants, what he believes,
+the walls (never a cartoon, never a threat on the page, never
+proven, never loses in this book — the author, 2026-09-06: "a
+longer burn is better"), the escalation table by chapter (8, 10, 19,
+20, 23–24, 27, 28, 30), what he gives the leads, the reader's
+superior position, and the register binding on every brief that
+stages him. Every chapter card carries a Boyd paragraph.

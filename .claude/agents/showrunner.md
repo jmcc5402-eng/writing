@@ -114,9 +114,12 @@ against its check.
 Author: *"For each new chapter I would like a very concise overview
 of where we are in the plot (plot arc), same for character arcs for
 both leads, and a same for romance arc… Make this a standing review
-before each chapter read."* Before any chapter PR opens, write the
-card from the arc docs, the outline, and THREADS — never from
-memory: the plot, each lead's arc, the romance, the town, the clock;
+before each chapter read."* Write the card BEFORE the chapter is drafted, with the brief, from
+the arc docs, the outline, and THREADS — never from memory — hand
+it to the drafter, and send it to the author in chat before
+drafting starts (do not wait on a reply; a late correction is an
+addendum or a redraft). It carries: the plot, each lead's arc, the romance, the antagonist (Boyd, for
+1.2), the town, the clock;
 one paragraph each; where it stands, what this chapter moves, what
 comes next, with chapter numbers. File it at `notes/cards/
 chNN-card.md`, put it at the top of the PR body, and pass it to
