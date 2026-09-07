@@ -285,3 +285,29 @@ post has no name that is Denny's.
   truck gets a make in the same post. No canon exists for either.
   Defaults for the PR: Ty — Silverado crew cab; Dan — F-150. The
   registry takes whatever the author leaves standing.
+
+---
+
+### CH 12 — AUDIT ADDENDUM (continuity-keeper, E5, 2026-09-07 — BLOCK; clear when applied)
+
+Report: `notes/ch12-brief-audit-2026-09-07.md`. Build check PASS (In 3 / Out 2 at row 12). Where these conflict with the brief above, the addendum wins.
+
+1. **No practice.** Saturday is the roster's off day (ch 9); practice runs at five on weekdays through the nineteenth; her next check is Monday (ch 11). Scene 3 becomes: Dan in the Fieldhouse for Saturday staff film, Ty in the staff room having his quiet day; Aisha at the annex boxing (ch 9's Saturday); the RAV4 in the lot under the film-room window. The clash plays in her office or the lot, rung 5, no touch. 34 and the trainer are off the page.
+2. **Trey is at home.** Not on a field, not in a hoodie, not with a trainer. Missy's seven o'clock page is his only artifact. He has not cleared step two; the meeting-room twenty minutes has not happened.
+3. **No Curb Market** (closed in winter). Earlene's anchor lands at the Checkerboard between 8:40 and 9:05 — the Table at the window, Dan at the counter, Tick reading the vaguepost aloud off his phone at arm's length. She has not seen the picture; by night she has. The Table is seated at 8:40; strike "long gone (six a.m.)."
+4. **The epigraph** is one texture post, ≤35 words, no Mule, out-of-state register. The vaguepost and its replies render IN-SCENE at READ ONE, bold name, no colon. (Alternative: the vaguepost alone as the epigraph, repeated in-scene with the replies.)
+5. **Names typed, then cut.** The vaguepost and the first two replies type no name. Later replies type "Coach" and "Dr. Cole"; those are what Marisol deletes by the second read; the vaguepost and the coat reply stay up. She posts nothing herself; if her account must appear it is **Marisol Pruett** with the moderator mark (Book One).
+6. **The artifact has a picture:** the crew cab at a curb under a streetlight (ch 11's exposure), plus the one line and the "…". Dan looks at the truck only long enough to see it is not his — the page says so. Ty's crew cab sits in his lot daily; he must not study it.
+7. **The button un-pairs by DOORS.** Earlene: that is a crew cab; Coach's has two doors (SR — new canon, author strikes). Makes ride as the brief's defaults (SR). The relaying poster is a real-name parent; chorus never posts.
+8. **Marisol is Cal's, not Cal's wife.** The "biased mod" reply cites the mod in the Mule's booth with the doctor Friday night — true and deniable. Default voice: Tim Brasher.
+9. **The clash's lines:** "move it to Sunday and buy a day" (let him do the subtraction: Monday two, Tuesday three, Wednesday four, Thursday five, Saturday the game) and "let me be in the room" — never "on the turf" (step two is a bike in a quiet room). She holds Monday; he loses; neither mentions the board; the annex asking is not reopened.
+10. **How he knows Monday:** she sets it Saturday morning off Missy's page and tells him in the shared scene — the clash's trigger. THE OPENING, SAID says the step is hers to call and uncalled, not "Monday."
+11. **The coat reply says "since the freeze,"** not "since Thanksgiving" (the parka came December 2).
+12. **Estate 31** is a two-line text, Dan and the offensive coordinator (title only, no `[TK]` in prose). **Estate 96** is narration, Dan's POV, once.
+13. **The whip count:** starter 6 verbatim; default rendered in narration under "a name he did not know, out of state," the two fragments quoted; no letter ask quoted; never Denny, never a regular. If the author wants a name: `[TK the letter's hand]`.
+14. **Edges: 6 remain** (Mack's "Shit" in ch 11 counts). Dan may spend one, optional.
+15. **Roster:** strike FirstDownMom (on no page). Vaguepost default author DeeAnn Prewitt (SR); coat reply any local; "explains a LOT about the hold" Rhonda Sipes.
+16. **The new sense (his POV), pick one:** the tape on her wrist read up close; the height of her measured indoors; her eyes on delivery, no blink. NOT the curls (spent ch 4, ch 6), not breath (10), not heat (8), not hair (6), not hands.
+17. **Bans added:** "and turned off the lamp" and the lamp as the last image; "He read to the bottom…"; the ch 10 "Not the doctor, not Dr. Cole…" anaphora; "heads came up"; "That was all of it."; "his voice came down to say it"; a third knife; Kat's "noted in the record" in Earlene's mouth; the whistle on him; any post that confirms the pairing or names the partner, the survey, or the annex.
+18. **Aisha named in narration at least once.** Facts the page may use: she was at the Mule Friday in the coat and left alone; he was at home; Marisol knows and says nothing (deliberate).
+19. **Registry rows owed at the fold:** the artifact's form; the vaguepost's author; both trucks; the Saturday staff morning; Dan at the Checkerboard; the Monday step; the whip count's first post; the un-pairing; FirstDownMom struck; the edge count corrected.
