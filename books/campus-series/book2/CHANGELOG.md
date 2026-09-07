@@ -640,3 +640,19 @@ first (the author: "before makes sense"). `manuscript/ch10.md`,
 - Dialogue came in at 13.2% and was topped up in the film room and
   the Mule to 15.5%. Lint clean otherwise.
 - **Panel 1.3.0: PASS WITH FIXES, applied** — 18 beats, seven kinds; the coat in his POV is the swoon; the clash a real fight with Dan the loser; Boyd frightens without threatening. Fixes: the house named; the thing he did not say, said; ch 9's phrase cut; her in the doorway scene (a coat handed hand to hand by a man who could); one clever line cut; "the card" and "about boxes" made plain; the tables counted against hers; her jaw in the cold.
+
+## 2026-09-07 — the author's "too small town" note (on the ch 10 listening file)
+
+- **Ch 6, one line added** after Dan walks up to Delmar's: any
+  program his size would have its head coach in a war room by noon;
+  Ashford watches at Delmar's, and Dan decided in June to be a coach
+  who was there for it.
+- **"Supper" is gone** from the board and the leads' narration:
+  ch 10's epigraph (Tim Brasher now speaks from the stream, out of
+  state) and Rhonda's night post (her son calls at nine from another
+  time zone); ch 10 narration; ch 8 "a booster dinner"; Roberta's
+  "at the dinner"; ch 9 "by dark." Left alone, flagged: Verna's
+  handwritten note in ch 3 ("Heat's been on since supper") — an
+  83-year-old's own hand; strike it by comment if you want it gone.
+- The board's parents live in other states from here (grapevine
+  rule 12); "supper" is on the lint's furniture list.
