@@ -708,3 +708,30 @@ days out.
   make; "Mack," in the dark; the coats; the cut at the handle over
   the door with the windows going white. UP.
 - **Panel 1.3.0: PASS WITH FIXES, applied** — 18 beats, all eight kinds, the apart test passes; "Book One's porch, in December, at a bar." Fixes: a warm clause for Dan in the booth's cool middle; a clever button cut; Birdie's decode to one clause; Marisol's speech broken once; the TV gag modernized (a phone mount, not the knife set); "on a game day"; the Checkerboard called a diner once; the turf in the first sentence; Friday's jaw decoded. Kept on purpose: Marisol's jar by the rim (her Book One gesture), and Peanut's seltzer before she asks — he heard "Dan" and will put it nowhere.
+
+## 2026-09-07 — ch 11: the author's three #139 comments applied (fix pass; B2-D14)
+
+- **The stake made concrete** (the booth speech): seven lines added
+  after "that's all anybody has told me." — "I'm forty-one and I
+  still owe on medical school. / A state-school sports-medicine
+  salary is the kind you take / because you picked the work, and the
+  loan doesn't care what you picked. / I've never been fired. I've
+  never been kept, either. / One more program that doesn't keep me,
+  / and the next athletic director reads the dates on my CV / and
+  not one call I made." No dollar figure; no family (none in canon).
+- **Wine night playful**: after the stillness, "Kat found her line."
+  — two pokes (the drink-ordering volume, with Peanut's by-the-jar
+  rule; the coat guarded "like a purse"); Aisha's "He'd have to find
+  one first." (the stool is empty); Kat's flat "So you said." And
+  after "Roofs get fixed," Kat's worth-it line: "I put scared people
+  into thirty-year mortgages for a living… They sign anyway, and
+  most of them are glad they did. Stakes are high, honey. Sometimes
+  it's worth it." (variance D4: Kat's competence is loans).
+- **The truck → his apartment**: nothing happens in the crew cab —
+  "Drive," she said, and he did. New section: a staff rental, a
+  deadbolt, one room; the truck at the curb under the streetlight
+  "plain as a sign," and she reads it herself from the step. The
+  same beats indoors; the jacket over a chair, her coat to the floor
+  — the cut at the first garment. Still UP.
+- Header updated to ACCEPTED #139. Lint clean; dialogue 29.8%; no
+  em dashes added; +250 words (about 3,140).
