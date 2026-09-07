@@ -23,6 +23,13 @@ list in the agent's invocation as "banned moves this run."
   End your chapter per its dealt ending register; the brief says if
   yours is a button chapter.
 - BANNED: "one beat" in any timing construction (motif closed at five).
+- BANNED (author, #139, 2026-09-07, 1.2 ch 11): heat in a parked
+  vehicle for grown professionals — "they're way too old for that."
+  The approach may cross a lot; the door-ajar scene happens indoors
+  (his place, hers, a hotel) at the same level of description.
+- BANNED (author, #139, 2026-09-07): a job or money stake stated in
+  the abstract ("I may not have a job") with no concrete cost on
+  the page — name the loan, the rent, the record, the thing lost.
 - BANNED (2026-09-03, author's audio ear, 1.2 ch 6; TIGHTENED the
   same day by the author: "those should be once a book each"): the
   "somebody's [grandmother/baby/chart]" chorus construction — ONCE

@@ -163,6 +163,20 @@ plot has been loud too long; the kiss chart and heat slots.
 Fails when: the town is background instead of company; a chapter has
 no room the reader wants to stay in.
 
+**Added 2026-09-07 to entry 7 (the #139 comments on 1.2 ch 11):**
+wine night must be PLAYFUL even when it carries the plain moment —
+*"a line or two of playful poking at her and maybe even a line about
+how the stakes are high but sometimes it's worth it."* A stake
+needs a concrete cost the reader can count — *"raise the stakes of
+her losing her job… the disgrace of her family, or she won't be able
+to pay off her student loans for example"* — a job lost in the
+abstract is not a stake. And the adults are adults: on the
+sub-couple's door-ajar scene in a truck, *"they're way too old for
+that… fast forward to a scene in his apartment same level of
+description."* Check: the wine-night scene has a poke and a wish in
+it, not only a confession; every job/money stake names what is
+actually lost; grown professionals' heat happens indoors.
+
 ## 8. It is a romance first — the rule
 
 > "The writers don't understand fundamentally that this is a romance

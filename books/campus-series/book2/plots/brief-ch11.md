@@ -341,3 +341,66 @@ the addendum wins.
     first name in the booth it is the first time on any page — say
     so in the report; default: she says "Merritt" to the women and
     "Dan" once, when she says the want.
+
+---
+
+## FIX-PASS ADDENDUM (the author's three #139 comments, 2026-09-07)
+
+Ch 11 merged as #139 with three comments. Apply in place; no
+re-draft. The chapter's shape, scene order, POV plan, end register
+(UP) and the door-ajar fence (STANDARDS 9: the scene cuts at the
+first garment) all stand.
+
+1. **The job stake is not concrete enough.** The booth speech
+   ("And the other thing… while I've got the floor") says she may
+   lose her job and stops at "So there it is." The author: raise the
+   stakes — "the disgrace of her family, or she won't be able to pay
+   off her student loans for example." RULED for the page (B2-D14):
+   **student loans** — she is forty-one and still owes on medical
+   school; a state-school sports-medicine salary is the kind you take
+   because you picked the work, and the loan does not care. No dollar
+   figure on the page. Plus the wound made concrete in her own words:
+   she has never been fired and never been kept (arc-docs §1 canon);
+   one more program that does not keep her and the next athletic
+   director reads the CV, not the record. NOT the family: no family
+   canon exists for Aisha on any page; do not invent parents or
+   a hometown. Two to five lines, in her register (loud by velocity;
+   plain; no self-pity — taste 7: not heavy, not lonely).
+
+2. **Wine night is not playful enough.** The author: "a line or two of
+   playful poking at her and maybe even a line about how the stakes
+   are high but sometimes it's worth it." Kat gets her line back
+   after the silence — she has a line for everything, and the page
+   says she lost it; let her find it. A poke or two at Aisha (the
+   coat, the seltzer, the four days of not asking, the fact that she
+   said his first name at drink-ordering volume). And ONE line, from
+   Kat or Marisol, that says in their words: the stakes are high;
+   sometimes it's worth it. Not a speech. Marisol's version would be
+   quieter (a woman who left a knife where it lay); Kat's would be a
+   realtor's (she sells people the roof they can't afford). Choose
+   one voice for it. The stillness after "I want Dan" stays (D6 ran
+   it a beat past comfortable on purpose) — the play comes AFTER it,
+   and it must not undo the plain moment.
+
+3. **The truck is wrong for them.** The author: "they're way too old
+   for that… fast forward to a scene in his apartment same level of
+   description." Keep the Mule, the rail, last call, the phone
+   lighting in the registrar's-office friend's hand, the walk to the
+   crew cab, "This is a bad idea" / "It's a good one. It's a bad
+   month for it," the dome light. NOTHING happens in the truck: they
+   get in, he kills the light, they drive. Then a white-space cut
+   ("* * *" is for the listening file; use `***` in the manuscript
+   as the chapter already does) and his apartment — a staff rental,
+   plain; do not invent a landmark or a street; a door, a lamp or no
+   lamp, the truck outside where anyone driving past can read it.
+   "Mack," he said, in the dark — keep it; only he calls her that.
+   The staff jacket, her coat, his mouth under her ear, her reaching
+   for something to hold — the same beats, the same level, at the
+   same fence: the cut lands at the first garment on the floor.
+   Wanted, mutual, adult. UP.
+
+Do not touch anything else. Dialogue floor stays above 15% (it is
+27% now). 80 columns, semantic line breaks. No new furniture without
+a registry note in your report. Report: FACT MANIFEST of every line
+changed (old → new), the loan wording used, which voice got the
+"worth it" line, and the new furniture (his apartment).

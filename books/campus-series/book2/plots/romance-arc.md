@@ -85,7 +85,7 @@ to. This table is what `studio/tools/romance-build-check.py` reads.
 | 8 | 2 | 2 | The rail: "You hedged"; he nearly laughs; the heat; his want named | want | 2, 4 | — |
 | 9 | 2 | 2 | Apart: the Cordelia letter; him in every scene in her head (the coat, "So would I.", his hands, his truck, the cup); "She wanted him." as a sum (#134) | — | — | — |
 | 10 | 2 | 2 | Together at the 5:15 check: he sees her in his coat, cuffs pinned; the staged clash (B2-D06.7) — she stops asking him | — | — | — |
-| 11 | 3 | 2 | She says the want out loud, to women | — | — | — |
+| 11 | 3 | 2 | ON THE PAGE (#139): the check — rung 5 held, one new sense (the field on him, a yard of December air); "Fine," she said. "I want Dan." — the want out loud, to women, and it goes nowhere; the job stake said plainly (B2-D14: the loans); Kat ships them; Merritt in the car with her at the curb | — | — | — |
 | 12 | 3 | 2 | The board guesses; the second staged clash | — | — | — |
 | 13 | 3 | 3 | The film room: he asks instead of arguing; heads over the scans | — | — | — |
 | 14 | 3 | 3 | Boxes: he shows up with a truck and tells her the truth of the decade | — | — | — |

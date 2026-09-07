@@ -186,6 +186,19 @@ in her bag all morning); at ch 29 she brings the listing folder up
 the walk and Marisol signs it on the porch rail, and Kat, "a
 professional, waits until the pen is down to hug her."
 
+**AMENDED (author, #139 comment, 2026-09-07): more of channel 3.**
+On 1.2 ch 11's side scene (Mackenzie and Ty at last call, her
+POV): *"Over the next couple books, I want to weave in more
+third-party scenes like that without the lead characters."* The
+one-per-quarter cap on side-POV scenes is RAISED for 1.3 and 1.4:
+plan for two to three true side-POV scenes per book, each at a side
+couple's own turn, each carrying at least one romance beat of its
+own — and 1.2's Q3/Q4 cards (ch 16–30) should each look for one. The
+tether rule (standard 24) still governs: the side scene feeds the
+leads' story (a ring, a rumor, a mirror) or it is cut. The register
+the author accepted: two grown professionals, no reporting line,
+indoors — "they're way too old for" a truck (see 1.2 B2-D14).
+
 ## D09 — The House's door: open by day, locked by Cal at night
 **Status: PROPOSED (recorded on merge). 2026-08-20.**
 
