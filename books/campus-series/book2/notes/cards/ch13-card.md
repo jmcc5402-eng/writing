@@ -7,9 +7,9 @@ it. Aisha clears Trey when his brain says so. **The price of the
 clock, now:** if Trey plays and Ashford wins, Boyd announces the
 performance center on the field with the donors in the suite, Dan's
 extension becomes a formality on the February agenda, and the town
-gets a second home game, a second December. If he sits and they
+gets its first December Saturday and everything that comes with it. If he sits and they
 lose, there is no stage, the extension becomes "a review," the
-town's year ends a week early, and the doctor is the reason. So far:
+town's December ends on the nineteenth, and the doctor is the reason. So far:
 the hit (3–4), the circled date (5), the berth (6), the annex ordered
 emptied (7), her win on the radio and the town turning (8), the
 letter in the wall (9), Boyd's boards and the partner that takes her
@@ -20,7 +20,7 @@ No Return is two chapters off. **This chapter:** Monday. The bike in
 the quiet room, twenty minutes, heart rate capped, and the headache
 comes back: documented, undramatic, decisive. She tells Dan the
 playoff is likely out. And instead of arguing the answer, he asks
-his first real question. The town's second December gets said once,
+his first real question. The town's price for the nineteenth gets said once,
 by the town; the announcement gets sighted, secondhand. The board's
 wrong couple dies at the Table, offstage. **Next:** 14, he shows up
 with a truck "because boxes" and tells her the truth of his decade;
