@@ -17,8 +17,7 @@ Sonny Dillard's trowel was scraping the ice out of the crack
 in the office step when Aisha Cole came out of room nine
 at seven on Monday morning,
 steel on concrete, a dry sound with nothing wet in it,
-and a bag of quick-set off the Farm & Feed's shelf
-sat shut on the gravel by his knee.
+and the bag of quick-set sat shut on the gravel by his knee.
 Five days to the nineteenth.
 Trey Gault had held at step one for seven nights,
 and at a quarter to eight she was going to put him on a bike
@@ -33,37 +32,22 @@ was booked for a game he might not play in.
 
 The sign over the lot was lit against the gray,
 and under it the VACANCY word was dark.
-She had seen it dark on a rivalry Thursday
-and on every home Saturday she had lived here.
-She had never seen it dark on a Monday.
-An RV sat up on the grass by the ice machine, early,
-with its generator running,
-and two plates in the lot were from states she had to read twice.
+It had gone dark on every home Saturday she had lived here.
+It had never gone dark on a Monday.
+An RV sat up on the grass by the ice machine with its generator running.
 
 "Doc," Sonny said, without looking up.
 
 "You're not pouring that."
 
-"Not in this." He worked the trowel down the crack
-and blew the grit out of it.
+"Not in this." He blew the grit out of the crack.
 "Freeze got in there the first of the month and split it.
-Water in a crack. That's all a freeze needs.
-I could mix this and lay it in and it'd look done by noon.
-It'd set on top and stay green underneath,
-and the first hard night it'd let go,
-and she'd have a step that looks fixed,
-and that's worse than one that looks broke."
-He sat back on his heels.
-"You don't rush concrete, Doc. It cures when it cures.
-It don't care what day you needed it by."
-
-"When, then?"
-
-"Forty degrees and the sun on it. Then I pour."
-
-"Verna know that?"
-
-"Verna's the one told me."
+I could lay it in now and it'd look done by noon.
+It'd set on top and stay green under,
+and the first hard night it'd let go.
+You don't rush concrete, Doc. It cures when it cures.
+It don't care what day you needed it by.
+Forty degrees and the sun on it. Then I pour."
 
 A brain cured the same way, from the inside out,
 and it looked done from the top long before it was,
@@ -73,38 +57,31 @@ Sonny did not know what day this was for her.
 He was talking about a step.
 
 Her phone went once against her hip.
-Seven o'clock, Missy Gault's page,
-a photograph of the notebook in that fence-row handwriting.
+Missy Gault's seven o'clock page, a photograph of the notebook.
 Slept eight and a half. Headache zero, third morning.
 Read twenty minutes and stopped on his own.
 Held.
-She typed *Good record* with her thumb and put the phone away.
-*Let me be in the room,* Merritt had said at her desk on Saturday,
-with his cap in his hand.
+She typed *Good record* with her thumb.
+*Let me be in the room,* Merritt had said at her desk on Saturday.
 *Not you.*
-She had been right to say it,
-and he would have this morning in one word at five fifteen, printed,
-and she was going to find out what the word was without him in the room,
-because that was the only way it was a test.
+She had been right, and she was going to find out without him.
 
 Verna was at the office window with the phone at her ear,
-and the call came through the glass without its words,
-and then the storm door went out on its spring
-and the words came with it.
+and the storm door went out on its spring
+and let the end of the call out with it.
 
 "No. I'm full through Saturday.
 I've been full through Saturday since the Sunday they said our name,
 and I don't keep a list."
-She hung up on whoever it was and held out a cup.
+She hung up and held out a cup.
 "There's coffee. It's this morning's, for once."
 
 Aisha took it with both hands.
 
 "Seven Saturdays is my year," Verna said.
-"Seven home Saturdays. I make the year on those,
-and the rest of the time I keep the lights on.
+"I make the year on those, and the rest of it I keep the lights on.
 This is an eighth, and it's December,
-and I have never in my life had a December.
+and I have never had a December.
 You're in the back room Friday and Saturday both this time.
 I'm not sorry about it."
 
@@ -116,8 +93,8 @@ and I'm telling you so you know it before they know you."
 
 "I read it."
 
-"I know you read it. You read everything and you say nothing."
-Verna looked at the cuffs of the parka, the pins in them, her own work.
+"I know you read it."
+Verna looked at the pins in the cuffs, her own work.
 "Those holding?"
 
 "They hold."
@@ -126,8 +103,7 @@ Verna looked at the cuffs of the parka, the pins in them, her own work.
 
 The storm door went to on its spring behind her,
 and the trowel started up on the step again,
-and she carried the coffee to the RAV4 and drank it with the engine going,
-because Verna's coffee was better hot than it was going to be.
+and she took the coffee to the RAV4.
 
 ***
 
@@ -137,14 +113,11 @@ and the bike had a flywheel that hummed once it was turning,
 one note, low,
 and that was the only sound she wanted in the room.
 The chest strap talked to her tablet and the tablet said nothing out loud.
-The number sat on the screen and changed when it changed.
-Trey Gault was a gray hoodie's back and a number.
-Hood up. He had not turned around since he got on,
-and she had not asked him to.
-The trainer stood in the doorway with a roll of tape in his hand
-because he did not know where else to put it.
-Missy Gault stood in the hall with her back to the boxes
-and the notebook open against her arm, the pen already in it, level.
+Trey Gault was a gray hoodie's back, hood up, and a number.
+He had not turned around since he got on.
+The trainer stood in the doorway with a roll of tape.
+Missy Gault stood in the hall against the boxes
+with the notebook open, level.
 
 "One-forty," Aisha said to the trainer. "That's the cap.
 Seventy percent of what August measured on him.
@@ -154,8 +127,7 @@ If the number goes over it, I'll see it before you do. Say it anyway."
 
 She started the clock and wrote the time on the tape on her wrist.
 
-One-twelve at two minutes. One-twenty-four at five.
-At five she asked him how his head was,
+At five minutes she asked him how his head was,
 and he said it was fine, to the wall in front of him,
 and the flywheel held its note.
 One-thirty at ten. She asked again. Fine, to the wall.
@@ -180,17 +152,15 @@ Headache. Behind the eyes. Since about twelve.
 
 "That's it," she said. "Off the bike. Sit."
 
-He got off and sat in the chair with the hood up
-and his elbows on his knees,
+He got off and sat in the chair with the hood up,
 and the flywheel ran down on its own, slower and slower, and stopped,
 and the room had nothing in it then but the heater.
-She wrote 14 on the tape under the start time.
-She wrote the rest into the tablet in the words she used,
-standing there, before she said anything to anybody.
+She wrote 14 on the tape under the start time,
+and the rest into the tablet before she said anything to anybody.
 Symptom recurrence at step two, minute fourteen, heart rate under cap.
 Stepped down. Clock restarts.
 
-Missy was in the doorway now, beside the trainer, the pen up.
+Missy was in the doorway now.
 
 "He stepped down," Aisha said to her.
 "Tomorrow he's a student again. Half days. You meter the screens,
@@ -201,22 +171,12 @@ Missy's face did nothing.
 She wrote the time, and under it she wrote the word,
 and Aisha watched her write it. *Wednesday.*
 
-"What do I put for tonight?"
+"What do I write tonight?"
 
-"The same page as every night. Sleep, headache, screens.
-Send it at seven."
+"The same page. Seven o'clock."
 
-Trey stood up when his mother looked at him,
-and the hoodie went down the corridor past the boxes
-with Missy a step behind it,
+The hoodie went down the corridor past the boxes with Missy behind it,
 and the outside door slammed at the cold end, and slammed again.
-The trainer went the other way with his tape.
-
-She had told a man on Saturday he could not be in this room,
-and she had been right,
-and the thing he could not be in the room for
-had taken fourteen minutes
-and made no sound but a flywheel dropping half a step.
 
 At her desk she put it in the chart the long way,
 what was asked, what was answered, her name under it,
@@ -225,11 +185,9 @@ still level on his folded card.
 His date sat at the top of it in her red, five days off,
 and it did not know one thing
 that had happened in a room down the hall this morning.
-She put the arithmetic under the entry in her own typing,
-so it would be there in January in her words and nobody else's.
+She put the arithmetic under it in her own typing.
 Tuesday, student, symptom-free, holding overnight.
 Wednesday, two, at the earliest.
-She did not type the rest of the week. She could count it from her chair.
 
 ***
 
@@ -238,11 +196,9 @@ with the tablet under her arm,
 because the sheet at five fifteen was going to say it in one word,
 and he should hear it in more than one, from her, in a room.
 
-She heard the film room before she got to it.
-The door stood open, and it stood open because he said so;
-every door in that building was his rule, and she knew it.
-The projector's fan ran behind the door, steady,
-with a cutup going on the screen under it,
+The film-room door stood open because he said so;
+every door in that building was his rule.
+The projector's fan ran behind it, steady, with a cutup on the screen,
 and the coordinator was leaning inside the frame with his arms crossed,
 talking to the room and not to her,
 and he did not stop when he saw her come up the hall.
@@ -256,8 +212,7 @@ They want a list by Wednesday."
 
 "That's what I told them."
 
-The coordinator uncrossed his arms and went past her down the hall,
-and she went in.
+The coordinator went past her down the hall, and she went in.
 
 She knew which drawing it was.
 It was taped to the wall beside the depth chart with one corner curled,
@@ -266,14 +221,10 @@ and no room for her anywhere in the three,
 and now she knew where it went next,
 up on the video board Saturday night, if they won.
 It had been said as football and she took it as football.
-Whose suite and whose list were not hers to ask about.
-Her rooms were, and she had asked,
-and been given the week, and handed it back.
 
-He had the clicker in his hand and he set it on the table.
+He set the clicker on the table.
 The cutup froze on the screen. The fan kept going.
-The window was on the lot side of the room,
-and she had never been on this side of it.
+She had never been on this side of the window.
 From here the annex was a roofline under the light poles
 and one lit door at the warm end,
 with her own car nosed in at it.
@@ -281,8 +232,7 @@ It was a small building from over here.
 
 Beside the depth chart, on an index card,
 DEC 19 stood in block letters, circled.
-She had guessed the block letters from her own office two weeks ago
-and had not needed to see them. She saw them.
+She had guessed the block letters from her own office two weeks ago.
 
 "He stepped down," she said.
 "Fourteen minutes into twenty. Headache, behind the eyes.
@@ -298,9 +248,6 @@ Tomorrow he's a student again, and it holds overnight.
 Wednesday is two, at the earliest. Thursday three. Friday four.
 Saturday is five. Saturday is the game."
 
-He had counted on her board on Saturday and found a day to lose.
-There was no day in this one, and he could count.
-
 "I don't put out on a sheet until it's out," she said,
 "and it isn't out until a day goes wrong that hasn't gone yet.
 So it's likely. That's the true word, and it's the one you get."
@@ -313,14 +260,12 @@ it was not the face he brought to a sheet.
 
 "Walk me through Tuesday, medically."
 
-It was a question.
 It was the first question he had asked her all fall
 that did not have a Saturday in it.
 
 She had the scans on the tablet.
-She had not brought them to show him; she brought the tablet everywhere.
 She woke it and put them up and held it where he could see,
-and he came around the table to see it,
+and he came around the table,
 and the window light lay across the screen and whited it out,
 and he put a hand on the far edge of the tablet
 and tipped it out of the light,
@@ -351,14 +296,13 @@ The fan was under it, and over the fan a big man breathing through his nose
 at the side of her face,
 warm at her cheek every time he let it out,
 and the air he moved had never reached her before.
-His hair was dark and cut short and a foot from her eyes,
-and she had never had it that close either.
+His hair was dark and cut short and a foot from her eyes.
 
 "What's Tuesday, then. What does he do."
 
 "He goes to class. Half days. His mother meters the screens.
 He reads twenty minutes and stops on his own, or she stops him.
-He sleeps. At seven Wednesday she sends me the page.
+At seven Wednesday she sends me the page.
 If the page says zero, that's a symptom-free day that held overnight,
 and I put him back on the bike."
 
@@ -366,12 +310,12 @@ and I put him back on the bike."
 
 "He didn't lie to me this morning. I didn't give him the room to."
 
-"Fourteen minutes. Is that bad?"
+"Is fourteen bad?"
 
 "Fourteen isn't bad. Fourteen is the answer.
 It's the first time anybody asked his brain for anything
 and it said not yet,
-and it said it on a bike in a quiet room with a number on it,
+and it said it on a bike in a quiet room
 instead of on your field with a rush coming."
 
 "Why the bike."
@@ -388,12 +332,10 @@ instead of on your field with a rush coming."
 
 He was counting, and not to get anywhere.
 He was counting to understand it,
-and every question was the one after the last,
-and she answered them in order, plainly, the same as she charted,
+and she answered in order, plainly, the same as she charted,
 and found she wanted the next one.
 
 They had fought across a sheet since June,
-every Friday and then every night,
 and standing here with his breath at her cheek and the fan going
 she understood what all of it had been practice for.
 It had been the two of them learning how the other one thought,
@@ -419,9 +361,7 @@ She was the one who moved.
 She turned the tablet dark, and the light went out
 from between their faces,
 and the width of the table was back where it had been.
-She had put it there, not the cart.
-The cart had only reminded her the door was open,
-and she had known the door was open.
+Not the cart. The cart had only reminded her the door was open.
 She had run out of medicine to say
 and had not run out of standing there,
 and that was a reason to move, so she moved.
@@ -430,7 +370,7 @@ and that was a reason to move, so she moved.
 
 "You'll have the sheet."
 
-"And tomorrow, at five fifteen, I want Wednesday. Medically."
+"Tomorrow I want Wednesday. Medically."
 
 "Wednesday is Tuesday with a bike in it."
 
@@ -447,8 +387,7 @@ and the sheet at five fifteen was one page, two names,
 and under Trey Gault's a word she had never typed on one before.
 *Stepped down.*
 He came off the near hash and took it,
-with the trainer cutting tape at earshot
-and the whole field going behind him at volume.
+with the trainer cutting tape at earshot.
 
 "Thirty-four?"
 
@@ -458,27 +397,23 @@ and the whole field going behind him at volume.
 
 "It's what I told you at three."
 
-He read it anyway, under the lights, the one word,
-after he had had the long version of it in a room,
+He read it anyway, the one word, after the long version in a room,
 and folded it once and put it inside his jacket.
-There was nothing on the sheet he had not heard,
-and nothing between them a man cutting tape could have written down.
+There was nothing between them a man cutting tape could have written down.
 The trainer tore off a strip and did not look over.
 
 "Tomorrow," he said. "Five fifteen."
 
 "Tomorrow."
 
-He went back to the drill with his voice up,
-and she went to thirty-four at the near hash.
+He went back to the drill and she went to thirty-four.
 
 Her office at the warm end had the heater going,
-and the chart open on the tablet on the desk with the day's word in it,
+the chart open on the tablet with the day's word in it,
 and the whiteboard behind her chair, level on his folded card.
 His date sat circled at the top of it in her red,
 with five days left in it and a ladder under it
-that could count to Saturday and not past it,
-and she could see both from where she sat.
+that could count to Saturday and not past it.
 
 What she wanted was plain enough to say to herself, so she said it.
 She wanted Dan back at reading distance
