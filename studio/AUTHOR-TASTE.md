@@ -344,3 +344,26 @@ book.
 entries here); after every listen (the re-mine); after every fourth
 accepted chapter (the taste audit, PIPELINE "The author's notes").
 Last review: 2026-09-05 (entries 13 and 14 added).
+
+## 15. Root for them — likable before admirable
+
+> "I think we need to go back and make both of our lead characters
+> more likable, we need our readers to be rooting for them and I'm
+> just not sure we've done enough there. I think we only need a few
+> sentences scattered through the book." (2026-09-08, #147) · "She
+> gets some likability when she's doing the Band-Aid for the kid in
+> the beginning, we need a handful of things like that." (2026-09-08)
+
+Caught: two leads built on restraint (she asks for nothing; he
+manages the verdict) who read as admirable and not rooted-for through
+thirteen chapters. The calibration moment: the Cub Scout's blister
+at the bonfire (1.2 ch 1) — competent, kind, "No charge on a
+Thursday," nobody important watching.
+Check: the ROOTING FOR line in every card and brief (what each lead
+does this chapter, for someone else, at a cost, unrewarded); the
+panel's beer test per lead per chapter; the rooting-for survey
+(`notes/rooting-for-survey-*.md`) at every fourth chapter with the
+canon sweep.
+Fails when: a lead is right all chapter and kind to nobody; when the
+only warmth is toward the other lead; when the kindness is a speech
+or is thanked.

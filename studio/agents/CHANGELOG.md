@@ -3,6 +3,17 @@
 Newest first. Every entry: version, what changed, and the evidence that
 drove it.
 
+## 2026-09-08 — romance-reader-panel 1.4.0: the beer test
+
+Author, 2026-09-08 (#147 comment on campus 1.2 ch 13): "I think we
+need to go back and make both of our lead characters more likable,
+we need our readers to be rooting for them." The panel now answers,
+per lead per chapter, whether the reader would have a beer with
+them, with the line where the lead did something for someone else at
+a cost, or NONE. A chapter can pass the romance floor and fail the
+beer test. Paired with the ROOTING FOR line in every brief and card
+(DRAFTING-PROTOCOL; kit 12) and taste entry 15.
+
 ## 2026-09-07 — instrument-auditor 1.0.0: the audit of the instruments
 
 Author, 2026-09-07, after catching that campus 1.2 ch 10–12 opened on
