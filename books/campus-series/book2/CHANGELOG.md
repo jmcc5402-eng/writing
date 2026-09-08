@@ -835,3 +835,28 @@ days out.
 - SR (strike by comment): the cap "one-forty" and "seventy percent of
   what August measured"; "Stepped down." as the sheet's word; Dan's
   DEC 19 on his own film-room board; the meeting room given back.
+
+## 2026-09-08 — ch 13: the author's #147 comments applied (MINOR)
+
+- **Her "Dan."** After the test, her narration says his first name for
+  the first time (five uses in the back half; "Merritt" survives only
+  where she is the doctor at him): "Dan had asked for this room on
+  Saturday… she would have liked Dan to have seen the fourteen… He
+  took a right call better than any man she had ever argued with… /
+  Dan. She had said it once in a bar and not since, / and it came
+  easier in an empty room than his last name did." Name map amended.
+- **Two signs from him**, in her noticing: he keeps looking a moment
+  longer than the question needed before he asks it; his hand does
+  not come away from the tablet when the glare does, and she notices
+  that it stayed.
+- **The establishing lines.** The check section now opens on five
+  fifteen, the practice turf, the team in drills, "the one printed
+  sheet of paper she had carried across the lot from the annex
+  printer"; a whistle and the cold between the exchange and the fold.
+  The office section opens "back in her office at the warm end of the
+  annex, the door shut, the heater going, the chart open in front of
+  her."
+- The likability note ("both of our lead characters more likable… a
+  few sentences scattered through the book… chat about this with me")
+  is OPEN in the ledger; nothing applied yet.
+- Lint clean; about 2,800 words; ends UP.

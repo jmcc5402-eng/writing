@@ -32,7 +32,7 @@ Small, planned variety so repeated runs don't converge on the same moves.
 | D4 | Give one minor character a moment of unexpected competence |
 | D5 | Weather as texture, never as topic |
 | D6 | Let one scene run a beat past comfortable before cutting |
-| D7 | Open every scene mid-motion; no arrivals, no waking up |
+| D7 | Open every scene mid-motion; no arrivals, no waking up — *mid-motion still locates the reader in three lines (STYLE, the establishing line; the author's #147 catch)* |
 
 ## Critic deck — `junior-literary-critic`, `red-team-critic`, `kid-reader-panel`, `superfan-reviewer`
 

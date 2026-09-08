@@ -67,6 +67,19 @@ the chapter may run as slant as it likes. Check: THE OPENING, SAID
 in every brief; the panel reads the first paragraph alone and says
 what the chapter is about; if it cannot, finding.
 
+
+**Added 2026-09-08 to entry 1 (the #147 comments on 1.2 ch 13):** the
+last two sections "seem a little confusing… almost too staccato. Maybe
+they need a little more description of the setting or where they
+are… Is it a sheet of paper is it a sheet on a wall?" and "the heater…
+indicates that she's in her cold office, but it's too abrupt… so
+implicit we have to have at least some indication without having the
+reader having to guess." Caught: scenes that open mid-motion (a
+variance card asked for it) and never say where we are. Check: THE
+ESTABLISHING LINE — every scene break says where, when, and what is
+in the POV's hand within its first three lines; the panel's
+first-paragraph test now runs on every section, not only the first.
+
 ## 2. Ups and downs — somebody loses
 
 > "Most important that we need more ups and downs in the chapters."

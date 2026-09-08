@@ -490,6 +490,11 @@ Where the rule bites:
    three word for word. The opening begins on a thing, mid-motion;
    the day and the stake come inside it in fresh words; the opening
    check (`studio/tools/opening-check.py`) fails a repeat.
+   **The establishing line (author, 2026-09-08):** and every scene
+   break after the first owes the reader the room — where, when, what
+   is in the POV's hand — inside its first three lines, in plain
+   words ("a printed sheet of paper," "back in her office at the warm
+   end of the annex"). Mid-motion is fine; unlocated is not.
 6. **A lead is named in the other lead's POV.** "The doctor" and
    "the coach" are the chorus's words and the POV lead's private
    register; the name still appears at least once in narration per

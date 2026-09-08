@@ -23,6 +23,11 @@ list in the agent's invocation as "banned moves this run."
   End your chapter per its dealt ending register; the brief says if
   yours is a button chapter.
 - BANNED: "one beat" in any timing construction (motif closed at five).
+- WATCH (author, #147, 2026-09-08, 1.2 ch 13): a scene break that opens
+  mid-motion and never says where we are ("a sheet" with no paper,
+  a heater with no office). Every section's first three lines locate
+  the reader: where, when, what is in her hand. STYLE, "The
+  establishing line."
 - BANNED (author, 2026-09-07, 1.2 ch 12 — "the first paragraph seems
   very similar to previous first paragraphs"): THE CALENDAR OPENING.
   No chapter opens on the date, the weekday, "the nineteenth was N
