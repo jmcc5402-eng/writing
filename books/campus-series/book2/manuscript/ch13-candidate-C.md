@@ -269,8 +269,6 @@ everything August took and two sequences August didn't. Also clean."
 "Clean was never going to clear him.
 A scan sees bleeding, swelling, bone.
 It doesn't see a concussion.
-There's nothing in either picture that says he can play
-and nothing that says he can't.
 I didn't order the second one to find something.
 I ordered it so nobody in January could say we didn't look."
 
@@ -280,10 +278,9 @@ I ordered it so nobody in January could say we didn't look."
 The picture's the building. The hit's in the wiring,
 and the only way I can see the wiring
 is to ask it to do a job and watch.
-The bike's a small job. I capped it so it stayed small.
-He answered at fourteen."
+The bike's a small job. He answered at fourteen."
 
-"Fourteen," he said, low, the number back to her,
+"Fourteen," he said, low,
 and his breath came against her cheek when he said it,
 warm, at the distance a screen gets read from.
 She had never had the air off him before.
@@ -293,7 +290,6 @@ Now she had, and she swiped to the next image.
 A healed brain doesn't get one at one thirty-two
 in a quiet room on a bike. His did.
 That's not a setback, Coach.
-That's the test doing the one thing I built it to do.
 It's the first true thing that brain has told anybody in two weeks."
 
 "Why a student day. Why not the bike tomorrow at ten minutes."
@@ -319,8 +315,7 @@ the dark hair cut close over the ear,
 and she had not looked at his hair before as a thing a man had.
 He asked the next one, and the next,
 what the overnight was for,
-what Missy's page told her that the bike could not,
-and she answered every one of them straight,
+what Missy's page told her that a bike could not,
 and by the fourth question she knew what the fighting had been for.
 Every Friday since June she had stood across a sheet from this man
 and held a call against him,
@@ -330,36 +325,33 @@ and it had been practice for this,
 one screen and a foot of air and him asking.
 
 A wheel came down the Fieldhouse hall with a flat spot in it,
-a thump on every turn, getting louder,
+a thump on every turn,
 and a man with a cart went past the open door and looked in.
 
 "Coach."
 
-He went on by. The thump went with him.
+He went on by, and the thump went with him.
 Merritt straightened up out of the screen's light.
 The door stood open because he kept every door in this building open,
-his rule and nobody else's,
-and a man with a cart could see a coach and a doctor over one tablet
-because of it, and he stood up and gave the man that to see.
+and he stood up and gave the man in the hall
+a coach and a doctor and a tablet to see.
 She stayed where she was, with the picture up.
 She had been reading it.
 
 "I've had the meeting room held at seven for three weeks," he said.
-"For twenty minutes and a projector off."
+"For twenty minutes."
 
-"I know you have."
+"I know."
 
-"I'll give it back to them."
+"I'll give it back."
 
-"Wednesday, at the earliest, you might want it again."
+"Wednesday, at the earliest, you might want it."
 
 "Wednesday." He looked at the circle. "At the earliest."
 
-She took the tablet down out of reading distance
-and put it under her arm.
-On the way out she went past the drawing with the curled corner
+She put the tablet under her arm.
+On the way out she passed the drawing with the curled corner
 and did not look for her rooms in it. She had looked twice.
-Behind her the projector fan came on before she was in the hall.
 
 ***
 
@@ -372,8 +364,7 @@ Under Trey Gault's, where Held had stood seven nights in her typing,
 two words.
 Stepped down.
 
-"Thirty-four," she said. "He ran for me at four.
-Sleeve stays on this week."
+"Thirty-four," she said. "Sleeve stays on this week."
 
 "He'll ask."
 
@@ -385,29 +376,26 @@ Sleeve stays on this week."
 
 "I read it."
 
-He had had every word of it at three o'clock with the pictures,
-and he read the two words on the turf anyway,
-in front of a man cutting tape,
+He had had every word of it at three o'clock,
+and he read the two on the turf anyway, in front of the trainer,
 because the sheet was the part the trainer could hear.
 Then he folded it once and put it inside his jacket,
 where none of the seven before it had gone,
-and went back to the near hash and called the first period,
+and went back to the near hash,
 and she went to thirty-four with her own hands.
 
 ***
 
 She was four lines into the chart, the long way,
 when the heater clanked and quit and she looked up at the board.
-It stood level on his folded card,
-the ladder with no dates on it and the circle at the top in her red,
+It stood level on his folded card, the circle at the top in her red,
 and under the circle, on the desk,
 lay the second copy of tonight's sheet,
-printed for the chart because two words like that
-went in a record and not only into a coach's jacket.
+printed for the chart, because two words like that went in a record.
 His date, her red, her two words under it.
 
-She let it come the whole way at this desk, as she had once before,
-and it came in a different shape than it had then.
+She let it come the whole way, as she had once before at this desk,
+and it came in a different shape.
 She had wanted his hands, and the heat off him, and his voice.
 She had that list.
 Tonight it was plainer than a list.
