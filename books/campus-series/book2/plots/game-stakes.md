@@ -59,7 +59,7 @@ Checkerboard makes half its year in the fall (town file, canon); the
 hotel block is full (ch 11 epigraph); the Magnolia Court's rooms; the
 RV city; the Mule. The county's pressure on her is ECONOMIC before it
 is sentimental — modern, and honest (grapevine rule 5: status leaks
-through money). Somebody says what a second home game is worth to
+through money). Somebody says what the nineteenth is worth to
 this town, in dollars or in weeks. (Numbered 4 to match the chat
 list; stake 3 was folded into 2.)
 
