@@ -27,13 +27,13 @@ It was her step, her room, her twenty minutes.
 If it held, Tuesday was three, and the ladder could still reach Saturday.
 If it did not, the clock started over,
 the county's first December Saturday went on without him,
-and the motel at her back, booked through the weekend, every room,
+and the motel at her back, booked through the weekend,
 was booked for a game he might not play in.
 
 The sign over the lot was lit against the gray,
 and under it the VACANCY word was dark.
-It had gone dark on every home Saturday she had lived here.
-It had never gone dark on a Monday.
+It had been dark on every home Saturday she had lived here,
+and never on a Monday.
 An RV sat up on the grass by the ice machine with its generator running.
 
 "Doc," Sonny said, without looking up.
@@ -41,7 +41,7 @@ An RV sat up on the grass by the ice machine with its generator running.
 "You're not pouring that."
 
 "Not in this." He blew the grit out of the crack.
-"Freeze got in there the first of the month and split it.
+"The freeze split it.
 I could lay it in now and it'd look done by noon.
 It'd set on top and stay green under,
 and the first hard night it'd let go.
@@ -79,7 +79,7 @@ She hung up and held out a cup.
 Aisha took it with both hands.
 
 "Seven Saturdays is my year," Verna said.
-"I make the year on those, and the rest of it I keep the lights on.
+"I make the year on those.
 This is an eighth, and it's December,
 and I have never had a December.
 You're in the back room Friday and Saturday both this time.
@@ -146,14 +146,14 @@ At fourteen the note dropped.
 Not the number. The number was one-thirty-three and steady.
 The flywheel came down half a step,
 the sound of somebody easing off without deciding to,
-and she was off the chair and asking before it had finished dropping,
+and she was asking before it had finished dropping,
 and he told her before she finished asking.
 Headache. Behind the eyes. Since about twelve.
 
 "That's it," she said. "Off the bike. Sit."
 
 He got off and sat in the chair with the hood up,
-and the flywheel ran down on its own, slower and slower, and stopped,
+and the flywheel ran down, slower and slower, and stopped,
 and the room had nothing in it then but the heater.
 She wrote 14 on the tape under the start time,
 and the rest into the tablet before she said anything to anybody.
@@ -178,8 +178,7 @@ and Aisha watched her write it. *Wednesday.*
 The hoodie went down the corridor past the boxes with Missy behind it,
 and the outside door slammed at the cold end, and slammed again.
 
-At her desk she put it in the chart the long way,
-what was asked, what was answered, her name under it,
+At her desk she put it in the chart the long way, her name under it,
 with the heater clanking and the whiteboard at her back,
 still level on his folded card.
 His date sat at the top of it in her red, five days off,
@@ -200,8 +199,7 @@ The film-room door stood open because he said so;
 every door in that building was his rule.
 The projector's fan ran behind it, steady, with a cutup on the screen,
 and the coordinator was leaning inside the frame with his arms crossed,
-talking to the room and not to her,
-and he did not stop when he saw her come up the hall.
+talking to the room, and he did not stop when he saw her.
 
 "Boyd's people want the rendering cued up on the video board
 for after the game.
@@ -212,7 +210,7 @@ They want a list by Wednesday."
 
 "That's what I told them."
 
-The coordinator went past her down the hall, and she went in.
+She went in past him.
 
 She knew which drawing it was.
 It was taped to the wall beside the depth chart with one corner curled,
@@ -263,10 +261,9 @@ it was not the face he brought to a sheet.
 It was the first question he had asked her all fall
 that did not have a Saturday in it.
 
-She had the scans on the tablet.
-She woke it and put them up and held it where he could see,
+She woke the tablet and put the scans up and held it where he could see,
 and he came around the table,
-and the window light lay across the screen and whited it out,
+and the window light whited the screen out,
 and he put a hand on the far edge of the tablet
 and tipped it out of the light,
 and the side of his hand was against the side of hers,
@@ -330,10 +327,8 @@ instead of on your field with a rush coming."
 
 "Thursday's three."
 
-He was counting, and not to get anywhere.
-He was counting to understand it,
-and she answered in order, plainly, the same as she charted,
-and found she wanted the next one.
+He was not counting to get anywhere. He was counting to understand it,
+and she answered in order, plainly, and found she wanted the next one.
 
 They had fought across a sheet since June,
 and standing here with his breath at her cheek and the fan going
@@ -355,7 +350,7 @@ who did not slow down.
 
 "Hey."
 
-He went by. The wheel went on catching down the hall.
+He went by.
 
 She was the one who moved.
 She turned the tablet dark, and the light went out
