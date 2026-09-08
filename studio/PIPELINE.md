@@ -105,6 +105,21 @@ backward. The author (2026-09-05): *"I want this to be another
 instrument we use so eventually we can build these books really
 fast."*
 
+**The dossiers (author, 2026-09-08).** *"I also like the idea of us
+doing a character outline off-line before a book… who this character
+is where they've been and where they're going. I love how our stories
+very slowly build up the Romance arc, I think we need to do the same
+to make people want to root for these characters."* The arc gate has
+a fourth and fifth doc: a DOSSIER per lead (`series-kit/
+13-character-dossier.md`) — where they've been, who they are now,
+where they're going — with a ROOTING-FOR LADDER placed chapter by
+chapter, the way the romance ladder is. The author approves the
+dossiers with the arc docs before any brief. The card's and the
+brief's ROOTING FOR lines read from the ladder; the panel's beer
+test checks the page. For a book already in production the dossiers
+are written from the accepted pages (canon cited; new facts marked
+for striking) and the ladder's early rungs become a MINOR pass.
+
 ## 3c. THE SINGLE-CHAPTER CADENCE (author law, 2026-09-03)
 
 **The chapter card (author, 2026-09-06).** *"For each new chapter I
