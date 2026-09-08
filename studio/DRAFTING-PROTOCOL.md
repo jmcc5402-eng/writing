@@ -336,6 +336,12 @@ sentence:
 - **NAMING, FULL LIST:** any naming rule in the brief lists every
   speaker class and a default for the rest; the chapter lint reports
   each use with its speaker.
+- **ROOTING FOR (author, 2026-09-08 — taste entry 15):** one line per
+  lead: what they do this chapter for someone else, at a cost,
+  unrewarded, with nobody important watching — a few sentences on
+  the page, in character, never a speech, never thanked twice. A
+  brief with NONE for a lead says why (the chapter's shape) and the
+  next brief owes it. The panel answers the beer test per lead.
 - **THE OPENING, SAID:** the chapter's first paragraph, as a plain
   sentence a stranger could repeat — what today is and what is at
   stake in it (STYLE.md, the explicit opening). The panel reads the

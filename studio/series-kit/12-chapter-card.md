@@ -32,8 +32,10 @@ behind us, which is ahead). This chapter. Next.>
 
 ## <Lead 1>'s arc
 <The wound in one sentence. The false belief and what it makes them
-DO. Where the arc stands. This chapter. Next: the next turn, the
-moment of change, by chapter.>
+DO. Where the arc stands. This chapter. **Rooting for: what this
+lead does this chapter for someone else, at a cost, unrewarded — one
+sentence (author, 2026-09-08; taste entry 15).** Next: the next turn,
+the moment of change, by chapter.>
 
 ## <Lead 2>'s arc
 <Same.>
