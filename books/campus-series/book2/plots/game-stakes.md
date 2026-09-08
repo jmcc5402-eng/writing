@@ -48,7 +48,13 @@ stake; he is the voice of stake 2.
 
 ### Stake 4 — The town's money
 
-A home playoff game is a second week of the town's whole year. The
+*(Corrected at the ch 13 audit, 2026-09-08: in the locked 12-team
+format the first round is on campus and a win sends the winner to a
+bowl site, not home — there is no "second home game." The nineteenth
+itself is the price: the first December home Saturday the town has
+ever had, an eighth Saturday in a seven-Saturday year.)*
+
+The nineteenth is an eighth Saturday in the town's whole year. The
 Checkerboard makes half its year in the fall (town file, canon); the
 hotel block is full (ch 11 epigraph); the Magnolia Court's rooms; the
 RV city; the Mule. The county's pressure on her is ECONOMIC before it
@@ -68,12 +74,12 @@ and then never explained again.
 
 | Ch | POV | What lands | Whose mouth |
 |---|---|---|---|
-| 13 | Aisha | Stake 4: what a second home game is worth to the town — one line, heard, not argued. | default Verna (the Magnolia Court is full of playoff people; "a second home game is a second December") or Peanut; the brief picks |
+| 13 | Aisha | Stake 4: what the nineteenth is worth to the town — the eighth Saturday, in December; Verna's book full through it — one line, heard, not argued. | default Verna (the Magnolia Court is full of playoff people; "a second home game is a second December") or Peanut; the brief picks |
 | 13 | Aisha | Stake 1, first sighting: "the announcement" exists — the video-board rendering, the suite — heard secondhand (Tick, the board, or Dan's staff). She does not yet know it takes her rooms. | narration or a post; light |
 | 14 | Dan | Stake 1 and stake 2 IN DAN'S MOUTH, to her, at the annex: the announcement on the field after a win; the extension on the February agenda, a formality if they win, "a review" if they don't. This is the chapter he tells her things. (B2-T11: whether he ALSO tells her about the partner here or at 15 stays the ch 15 default — `[CHECK at the ch 14 brief]`.) | Dan |
 | 14 | Dan | Stake 5, said once: "If you sign and he goes down, you're done. If you don't and we lose, you're the reason. I know the math." Stage 3 outside is opening (13 he asks; 14 he understands). | Dan |
 | 14 or 15 | either | The athletic director's line to Dan — "a board meeting in February and a donor who counts doors" — reported or on the page. | the athletic director (`[TK name]`) |
-| 16 | Dan | The game carries all four: the suite; the rendering that never goes up; the town walking home "conversational, which is worse"; the extension's word changes to "review" by Monday. | the page |
+| 16 | Dan | The game carries all four: the suite; the rendering that never goes up; the town walking home "conversational, which is worse" — its eighth Saturday spent; the extension's word changes to "review" by Monday. | the page |
 | 20 | Dan | Boyd names the price (canon) — now it PAYS a plant instead of arriving cold: the stage he lost. | Boyd |
 | 24 | Dan | The athletic director signs the suspension (canon) — his fear from 14/15 is the reason on the page. | the athletic director |
 | 27 | — | Pledge re-sequenced; extension off the agenda (canon). | — |
