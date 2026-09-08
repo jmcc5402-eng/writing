@@ -124,7 +124,7 @@ a book moves through.
 
 ## The writers' room
 
-Twelve specialists in `.claude/agents/`, available to every book:
+Thirteen specialists in `.claude/agents/`, available to every book:
 
 | Agent | Use it for |
 |---|---|
@@ -140,6 +140,7 @@ Twelve specialists in `.claude/agents/`, available to every book:
 
 | `junior-literary-critic` | A two-part outside read: one-page critique + one-page recommendations |
 | `showrunner` | The program manager: surveys every book, ranks next jobs, preps briefs and PRs |
+| `instrument-auditor` | Every four chapters: audits the rules, checks and agents themselves — templates, misses, drift, ghosts |
 
 Plus two skills: `/new-book-outline` and `/triage` (the author's PR
 queue console — see `studio/PR-WORKFLOW.md`).

@@ -164,6 +164,11 @@ drafting before the first correction arrives.
   conveyor," item 5.
 - **The cross-batch canon sweep still runs per batch**, not per
   chapter — after every fourth accepted chapter, against the four.
+  **And the instrument audit runs with it (author, 2026-09-07):**
+  `instrument-auditor` reads the batch, the ledger's author catches,
+  the law, every agent and every tool, and reports rules that became
+  templates, misses, drift, contradictions, ghosts and blind spots
+  (`studio/agents/audits/`). Its proposals become an `agents:` PR.
 - **The author's ruling on chapter N is in the brief for chapter
   N+1.** That is the whole point of the cadence: corrections
   compound forward instead of arriving in a pile.
