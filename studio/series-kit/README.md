@@ -40,6 +40,7 @@ Per-book artifacts (each installment):
 | 6 | `06-snowflake-outline.md` | Full chapter outline with audits | plot-architect expands the premise |
 | 7 | `10-production-notes.md` | Draft handoff notes, reviews, adoption pass | drafting begins |
 | 7a | `11-arc-docs.md` | The leads' arcs and the relationship's arc, with the ladder the build check reads | between the outline and the first brief; **author approves as one PR** |
+| 7b | `13-character-dossier.md` | The character dossier and the rooting-for ladder — who they are, where they've been, where they're going; the small kindnesses placed chapter by chapter | with the arc docs, before any brief; the author approves |
 
 Living ledgers (updated on acceptance, forever):
 
