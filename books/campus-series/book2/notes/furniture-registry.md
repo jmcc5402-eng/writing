@@ -80,6 +80,14 @@ finding). Started at the wave-1 fold (2026-08-30).
 | Earlene doesn't type (SR, unstruck) | per B. Hollis's post; consistent with "I don't type" (ch 9) | ch 12 |
 | Aisha's eyes | brown; on delivery they come straight at a man and do not blink for as long as the sentence lasts (the slate, SR-B2-16; first seen from this close by Dan) | ch 12 |
 | The phone, face up | ch 10's face-down charger motif turned: "He set it down face up, and left it that way." | ch 12 |
+| The Magnolia Court in playoff week | the VACANCY word dark on a MONDAY for the first time; the book full through Saturday "since the Sunday they said our name"; one RV early on the grass by the ice machine; Verna turns a call away at the window; the back room for the doctor Friday AND Saturday | ch 13 |
+| Verna's year | "Seven Saturdays is my year, my winter doctor" — the nineteenth is an eighth, in December, never before (B2-D15 stake 4) | ch 13 |
+| The office step | cracked by the freeze; Sonny Dillard at it with a trowel and an unopened bag of quick-set that waits for forty degrees and sun; Sonny does Verna's small repairs; his second anchor ("You don't rush concrete. Concrete don't know what day it is.") | ch 13 |
+| The quiet room | the empty rehab room beside the whirlpool room; the annex's own stationary bike, one chair, nothing else; the chest strap pairs to her tablet; the cap one-forty ("seventy percent of what August measured" — SR, unstruck); twenty minutes; she asks at four, eight, twelve; "14" and the time on her wrist tape | ch 13 |
+| The sheet's word when a step fails | "Stepped down." (SR, unstruck); thirty-four's line that week: sleeve stays on; Dan folds the sheet into his jacket "where none of the seven before it had gone" | ch 13 |
+| Dan's own board | DEC 19 in his block letters, circled once, on the film-room whiteboard (SR, unstruck; pays her ch 5 guess) | ch 13 |
+| The film room, her side | her own building and the RAV4 seen from his window; the rendering with the curled corner; the projector dark; the door open because he keeps every door open; a man with a cart whose wheel has a flat spot | ch 13 |
+| The meeting room, given back | held at seven for three weeks "for his twenty minutes. Projector's still unplugged."; "Wednesday, at the earliest, you might want it." | ch 13 |
 | The registrar's-office friend | a woman from the registrar's office Mackenzie knows to nod to; her phone lights down the rail at last call (F6 planted — a friend's group chat, not the board) | ch 11 |
 | Peanut's last call | rings the bell on the rail once: "That's it. Settle up. Lot's icy. Mind the step." (Book One's "Last call meant something in this town once" NOT reused) | ch 11 |
 | The doorway | Mackenzie Doyle (the admissions director, folders on one hip, in the Fieldhouse for signing week) and Ty Beaumont (the receivers coach), a coat handed over, a laugh, a second longer than the handing took; titles only on the ch 10 page | ch 10; names RULED B2-D12 |

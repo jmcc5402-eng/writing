@@ -860,3 +860,12 @@ days out.
   few sentences scattered through the book… chat about this with me")
   is OPEN in the ledger; nothing applied yet.
 - Lint clean; about 2,800 words; ends UP.
+
+## 2026-09-08 — ch 13 ACCEPTED (#147; comments #148) and folded; the dossiers CANON (#150)
+
+- Header to ACCEPTED. THREADS: the ch 13 entry; RH1 CLEARED; F1
+  planted; B2-T12 planted (stake 4 said, stake 1 sighted); ladder row
+  13 at rung 6. Registry: eight rows. B2-D16 recorded. STATE: the
+  handful open; ch 14 next (connecting, one drafter).
+- The dossiers' NEW facts accepted at the bare merge; places `[TK]`;
+  her family and his hometown OPEN.

@@ -34,24 +34,25 @@ retired); #145 (instrument-auditor 1.0.0 with its first report; the
 backlog carries its thirteen open proposals). Merged today: #142 (the
 stakes of the nineteenth, B2-D15), #143 (selective competition).
 
-**OPEN: the chapter 13 PR** (designated branch) — "The Exertion
-Test," the first set piece: three blind drafters, three blind panel
-reads, the scoreboard; **C won** and ships with its own fixes; A and
-B filed at `notes/candidates/`. Ends UP. Do not chase.
+**Ch 1–13 ACCEPTED and FOLDED (#147, #148 merged 2026-09-08).** The
+first set piece: three blind drafters, three blind panels, the
+scoreboard; C won. **Root for them (B2-D16):** taste entry 15; kit
+13 (the character dossier and the rooting-for ladder — the arc gate
+has five docs); the ROOTING FOR line in every card and brief; panel
+1.4.0's beer test; `plots/dossier-aisha.md` and `dossier-dan.md`
+CANON (#150). **OPEN: `campus/the-handful`** — eight adds across ch
+2–12 (one drafter, D2), each strikeable. Do not chase.
 
-**On merge:** fold (THREADS ch 13 entry; RH1 CLEARED; F1 planted; B2-T12
-carried — stake 4 said, stake 1 sighted; the ladder row 13 at rung 6;
-registry: the quiet room and the annex's bike, the cap, "Stepped
-down.", the VACANCY word dark on a Monday, Verna's eighth Saturday,
-Sonny does Verna's repairs, the coordinator's line, Dan's DEC 19 on
-his own board, the meeting room given back; Sonny's second anchor;
-"level on his folded card" count). **Then chapter 14** — Dan · Wk5
-Tue · "The Rule Has Reasons" (CONNECTING, one drafter): the truck
-"because boxes," two hours of packing beside her; the truth of the
-decade (B2-T03); stakes 1, 2 and 5 in his mouth (B2-D15); the
-athletic director's line reported or on the page; stage 3 held, the
-trust rung (7). Card first. Cards next: audit E6 (LRU), drafter D2
-or D4 (LRU after the competition).
+**Then chapter 14** — Dan · Wk5 Tue · "The Rule Has Reasons"
+(CONNECTING, one drafter): the truck "because boxes," two hours of
+packing beside her; the truth of the decade (B2-T03); stakes 1, 2
+and 5 in his mouth (B2-D15); the athletic director's line reported
+or on the page; Denny's "five nights" inherited from the handful
+(add 8: Denny does not post); stage 3 held, the trust rung (7); the
+card's ROOTING FOR line from Dan's ladder row 14 (the backup's
+first-team schedule line, on paper only — `[CHECK]` not to pre-spend
+ch 15's rung 2). Card first. Cards next: audit E2 (LRU), drafter D4
+or D6.
 
 **Standing:** do not chase; talk plainly (taste 13); every lesson an
 instrument (taste 14); the card before the chapter (§3c).
