@@ -2,7 +2,7 @@
 
 POV: Aisha, third person limited, past tense.
 (DRAFT 2026-09-08, candidate A, per plots/brief-ch13.md and
-notes/cards/ch13-card.md — not accepted until its PR merges.)
+notes/cards/ch13-card.md — RUNNER-UP in the ch 13 competition (scoreboard: notes/ch13-scoreboard-2026-09-08.md); not a manuscript page.)
 
 ---
 
