@@ -15,9 +15,9 @@ docs); F## fair-play rows (b12-outline.md table governs).
 | B2-T03 | The scandal's true shape: separated first; the colleague paid worse | ch 2 (the board's WRONG version on the page: "a wife at home… sat him down for a year… came back leaner") | **ch 14** the annex, before PONR | OWED |
 | B2-T04 | The Birmingham second opinion | ch 17 | **ch 28** Missy | not yet planted |
 | B2-T05 | The tailgate photo | ch 16 | **ch 23** | not yet planted |
-| B2-T06 | The Cordelia letter (S01) | ch 9 | **ch 25** reread | not yet planted |
-| B2-T07 | The complaint's authorship (the consultant's pet phrase) | ch 10 | **ch 27** decode | not yet planted |
-| B2-T08 | Dan's nightly board tab — last thing before lights out, read to the bottom | ch 2 (shown without comment) | echo pays **ch 29**; FIRST TURN spent ch 4 (button: board pocketed unread, film instead) | OWED (the ch 29 echo) |
+| B2-T06 | The Cordelia letter (S01) | ch 9 | **ch 25** reread | PLANTED ch 9 (#134) — OWED ch 25 |
+| B2-T07 | The complaint's authorship (the consultant's pet phrase) | ch 10 | **ch 27** decode | PLANTED ch 10 (#137, "proactive risk posture") — OWED ch 27 |
+| B2-T08 | Dan's nightly board tab — last thing before lights out, read to the bottom | ch 2 (shown without comment) | echo pays **ch 29**; FIRST TURN spent ch 4 (button: board pocketed unread, film instead); **SECOND TURN ch 12** (three reads counted; "Nobody was making him now"; the phone face up) | OWED (the ch 29 echo) |
 | B2-T09 | Dan's move: agree in the room, escalate outside it (the verdict-manager on the page, seen from her side) | ch 5 (the athletic director's email; "Projector off, he had said… Film on, to his boss.") + **ch 6, from HIS side, one interior clause: the athletic director told him no on Tuesday, Denny does not know it, and he does not tell him** | echoes **ch 8** ("You hedged." / "I did."), inverts **ch 15** (backs her call before she knows), spends **ch 27** | OWED (the ch 15 inversion) |
 | F8/RH2 | Denny Gault, loudest voice, obvious complaint author — DECLARED red herring | ch 4: **Denny AUTHORED the "just asking for clarity on the evaluation timeline" thread** (ruled, sweep Q3) + **ch 6 (the DECEMBER letter is his own draft, on his phone, and Dan refuses it in public)** + 12 | cleared **ch 28** — **and the letter he refuses to sign is the JANUARY one**, the same campaign rewritten by other hands (ch 18, "Eleven Families," where his name is absent from the eleven). Two letters, not one; the December draft is his and honest, the January rewrite is not his and is the knife | OWED |
 | F10 | The walk-on stays on merit | honest signal ch 3 (one line: the backup package the walk-on ran all week) + **ch 6 SPENT (the December letter never names him; Dan names him — "That letter's about Marisol Pruett's boy losing his spot" — and refuses; F10's rehearsal logic starts here)** + 12, 18 | **ch 28** | OWED |
@@ -25,6 +25,8 @@ docs); F## fair-play rows (b12-outline.md table governs).
 | B2-T10 | The romance's ladder (plots/romance-arc.md, CANON #130): stage 2 "admitted inside" reached ch 5 (hers) and ch 8 (his); stage 3 OPENED INSIDE ch 11 (#139: "I want Dan," to the women) / opens outside ch 13 | ch 5, ch 8 | the build check runs before ch 11, 13, 15, 27 briefs | ch 2 fight shown — DONE (#132); ch 4 one more exchange — DONE (#133). Both earning scenes for ch 8's want are on the page. |
 | B2-T11 | The provider partner (B2-D13): a sports-medicine group takes over team physician services with the pledge; her job is the price | ch 10 (Dan hears "the university stops carrying that line"; "Dan knew whose line it was") | he tells her **ch 15** (default) before the kiss; announced **ch 24** the week of the suspension; the phrase beside the group's own notice **ch 27**; the deal stalls with the pledge **27–28**; handed to 1.3 | live — OWED: ch 15 (he tells her); ch 24 (the announcement) |
 | B2-T12 | The stakes of the nineteenth (B2-D15): the win is Boyd's STAGE (the announcement on the field); Dan's extension priced (February agenda; "a review"); the town's second December; her double bind said once | ch 13 (the town's money; the announcement sighted) · ch 14 (1, 2, 5 in Dan's mouth; the athletic director's line 14/15) | **ch 16** the loss carries all four · **ch 20** Boyd's price pays the stage · **ch 24** the athletic director signs · **ch 27** extension off the agenda | not yet planted — OWED from ch 13 |
+| F6 | The hookup leak chain (outline F6): the rings shown ch 11, the artifact ch 12 | ch 11 (the phone down the rail) · **ch 12 PAID** (the screenshot; "Who types a pause?") | dignity repair 18–30 | PAID ch 12; the sub-couple's exposure carries |
+| F7/RH1 | The board decodes the vaguepost as the coach and the doctor (declared red herring) | **ch 12 PLANTED** ("The story was him and her."; the honest signal: a crew cab with four doors, and Coach's has two — Earlene, relayed) | **ch 13** dies at the Table offstage | OWED ch 13 |
 | S01 | Cordelia (series) | room nine IS Cordelia's room — Aisha lives in it (SR-B2-2, ruled at #106) | letter beats from ch 9 | live, light |
 | S11 | Merritt's relief years (series) | B2-T01 carries its only permitted surface | spends ~set 3 | DORMANT by design |
 
@@ -43,7 +45,12 @@ docs); F## fair-play rows (b12-outline.md table governs).
   it; the anchor is the turn into the plate gesture, and the
   re-cut left it untouched) — exactly one per chapter; the
   ch 1→ch 3 "one Saturday plays for the whole year" echo is the
-  priced-bravado payoff, the motif's one echo, SPENT.
+  priced-bravado payoff, the motif's one echo, SPENT. · ch 7
+  Earlene ("Leave the doctor's coat alone") · ch 8 Boyd/porch (the
+  spirit line) · ch 9 Earlene ("Buildings remember") · ch 10 Peanut
+  ("Boyd doesn't buy buildings") · ch 11 Birdie ("Everybody's
+  twenty-five once") · ch 12 Earlene (the knife) — **Earlene holds
+  three of twelve**; no fourth before ch 20.
 - **Quiet-band dialogue slots (one per quarter):** Q1 spent on
   ch 3 (13.1%). Q2 open (ch 9 came in at 15.5% after a top-up).
 - **Her laugh (once heard, then known):** first heard ch 4 (#133,
@@ -94,7 +101,8 @@ docs); F## fair-play rows (b12-outline.md table governs).
   **Ch 6 ×2 CLEARED at the re-cut** ("somebody's baby" → "a baby";
   "somebody's chart" → "a chart"; and "nobody's grandmother stood
   in the cold" → "the older folks didn't stand in the cold").
-  Ch 7 ×2 → fixed in its re-cut.
+  Ch 7 ×2 → fixed in its re-cut. **Audit 2026-09-07:** two more on
+  accepted pages, ch 1 (:294) and ch 8 (:159) → the polish pass.
 
 ## Per-chapter ledger
 
@@ -348,10 +356,49 @@ Side scene (D08 channel 3, Q2's one): last call in Mackenzie's head;
 "Mack," in the dark, once; "Drive," she said; his apartment — the
 truck at the curb "plain as a sign," she reads it herself from the
 step and goes in; the jacket over a chair, her coat to the floor:
-the cut at the first garment (STANDARDS 9). Ends UP. Edges: none
-spent. Dialogue 29.8%. Hands forward: ch 12 — the screenshot one
+the cut at the first garment (STANDARDS 9). Ends UP. Edges: ONE
+spent (Mackenzie, "Shit, it's cold." — corrected at the ch 12 audit). Dialogue 29.8%. Hands forward: ch 12 — the screenshot one
 ring too far; the board decodes the wrong couple as the coach and
 the doctor.
+
+### Ch 12 — By Nine A.M. (ACCEPTED #141, 2026-09-07)
+Introduces: the leak artifact (**F6 PAID**): a screenshot from a
+friend's group chat, names cropped, a photo of a crew cab at a curb
+under a streetlight, one bubble ("so SOMEBODY left the Mule in a
+coach's truck last night") and a second that is three dots; forwarded
+by the offensive coordinator with no words; "Who types a pause?" /
+"Somebody who was listening." (estate 31 SPENT, by text). Dan at the
+Checkerboard counter (first time in 1.2; the Coach's Slice set down
+unasked; his phone face down before it lit). The Liars' Table
+mid-morning (Tick, Tunk, Earlene, Sonny not staying). Earlene's
+ANCHOR (her third): "A screenshot is a knife somebody else gets to
+hold, Coach. That's all it is. The one who took it never gets a say
+in who it's for." The vaguepost (DeeAnn Prewitt, real name, nine
+a.m.); DossCoDadx3 on the coat "since the freeze"; Rhonda Sipes
+"explains a LOT about the hold"; **"The story was him and her."** —
+**RH1 PLANTED** (the board decodes the coach and the doctor; the
+honest signal: a crew cab, four doors, and Dan's truck has two).
+Saturday staff film; Ty in the staff room ("Where's your phone?" /
+"Truck." / "Good." — the reader knows, Dan envies him). The annex:
+Missy's seven o'clock page; **the Monday step set by her** (a bike,
+a quiet room, heart rate capped, twenty minutes, nobody talking
+scheme); the second staged clash (B2-D06.7) — "buy a day" arithmetic
+aloud, "let me be in the room" — he loses both ("A quiet room means
+quiet, and you aren't"); rung 5 held, the new sense: **her eyes,
+brown, no blink, from this close**; "They've got us in a truck."
+unsaid by both. Marisol takes the names and leaves the weather (two
+gray lines, *removed by the moderator*); Tim Brasher's "who's
+deleting what" cites the booth; **the whip count opens — "11
+families so far"** under an out-of-state name (F10 carried; the
+January letter's hand unnamed); estate 96 SPENT in narration. The
+three reads counted at midnight (**B2-T08's second turn**: the habit
+visible to him as a habit); B. Hollis relays Earlene — a Silverado
+crew cab; Coach's F-150 has two doors (SR, unstruck at merge); the
+phone set face UP on the charger (ch 10's motif turned). Ends DOWN.
+Carries: B2-T02 (the coat decoded by the county; "he had asked for
+her name over the patch anyway"); B2-T11 (the laminated board "still
+his to tell her"). Edges: none spent (6 remain). Dialogue 17.2%.
+Hands forward: 13 — the bike; RH1 dies at the Table offstage.
 
 ## New canon recorded at this fold
 
@@ -360,7 +407,7 @@ the 1.1 open ruling closes) · lounge floor three · room nine =
 Aisha's (Cordelia's room) · back-room displacement mechanic ·
 slice canon · Aisha silent board member since June · board
 usernames on record (PieBeforeKickoff, DossCoDadx3,
-GrammyInSectionC, FirstDownMom…) · Dan's Friday check printed
+GrammyInSectionC…; "FirstDownMom" struck — on no page) · Dan's Friday check printed
 4:15–4:45 · supper (1.1 ch 17) is OCTOBER (outline corrected).
 
 ## New canon recorded at the ch 5 re-cut fold (2026-09-04)

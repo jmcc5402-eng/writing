@@ -25,8 +25,11 @@ if card:
     out += ["## Before you read: where we are", ""]
     para = []
     for l in ctext:
-        if l.startswith("*") or l.endswith("*"):
-            continue  # the card's italic instruction line
+        s_ = l.strip()
+        if s_.startswith("_") and s_.endswith("_"):
+            continue  # the card's italic instruction line (_..._)
+        if s_.startswith("*") and s_.endswith("*") and not s_.startswith("**"):
+            continue  # the card's italic instruction line (*...*); bold lines stay
         if l.startswith("## "):
             if para:
                 out.append(" ".join(s.strip() for s in para)); out.append(""); para = []

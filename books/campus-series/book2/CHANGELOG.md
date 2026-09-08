@@ -786,3 +786,15 @@ days out.
   else on the page moved. New furniture: the annex printer (the
   sheet comes off it warm). The opening check now PASSES ch 11
   against ch 1–10.
+
+## 2026-09-07 — ch 12 ACCEPTED (#141 merged bare) and folded
+
+- Header to ACCEPTED. THREADS: the ch 12 entry; F6 PAID and F7/RH1
+  PLANTED (new index rows); B2-T08's second turn; anchors ledger
+  extended 7–12 (Earlene holds three); the ch 11 edge corrected in
+  its entry; "somebody's" debt on ch 1 and ch 8 logged; T06/T07 marked
+  PLANTED; FirstDownMom struck from the fold note. Ladder row 12.
+  Registry: eleven rows (the artifact through the phone face up);
+  Ty's name-map row. STATE: ch 13 is the first set piece.
+- The two truck makes, "two doors," and "Earlene doesn't type" were
+  not struck at the merge — canon by the standing model (SR).
