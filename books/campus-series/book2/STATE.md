@@ -34,18 +34,24 @@ retired); #145 (instrument-auditor 1.0.0 with its first report; the
 backlog carries its thirteen open proposals). Merged today: #142 (the
 stakes of the nineteenth, B2-D15), #143 (selective competition).
 
-**Then chapter 13 — THE FIRST SET PIECE** — Aisha · Wk5 Mon · "The
-Exertion Test": the bike in the quiet room brings the symptoms back;
-she tells him the playoff is likely out; he asks his first real
-question ("walk me through Tuesday, medically") — stage 3 opens
-OUTSIDE; HEAT 1 in the film room, heads over the scans, interrupted
-by the building; RH1 dies at the Table offstage; the town's second
-December said once (B2-D15 stake 4); the announcement sighted.
-Three blind drafters (D1, D5, then the next LRU), the panel reads
-A/B/C blind, the scoreboard, one line in the PR on which won. Card
-first, with the clock PRICED. The brief retires the "Doc." /
-"Coach." scene-close or makes it the turn, and quotes the last two
-openings under THE OPENING, SAID. Audit card next: E6 or E3 (LRU).
+**OPEN: the chapter 13 PR** (designated branch) — "The Exertion
+Test," the first set piece: three blind drafters, three blind panel
+reads, the scoreboard; **C won** and ships with its own fixes; A and
+B filed at `notes/candidates/`. Ends UP. Do not chase.
+
+**On merge:** fold (THREADS ch 13 entry; RH1 CLEARED; F1 planted; B2-T12
+carried — stake 4 said, stake 1 sighted; the ladder row 13 at rung 6;
+registry: the quiet room and the annex's bike, the cap, "Stepped
+down.", the VACANCY word dark on a Monday, Verna's eighth Saturday,
+Sonny does Verna's repairs, the coordinator's line, Dan's DEC 19 on
+his own board, the meeting room given back; Sonny's second anchor;
+"level on his folded card" count). **Then chapter 14** — Dan · Wk5
+Tue · "The Rule Has Reasons" (CONNECTING, one drafter): the truck
+"because boxes," two hours of packing beside her; the truth of the
+decade (B2-T03); stakes 1, 2 and 5 in his mouth (B2-D15); the
+athletic director's line reported or on the page; stage 3 held, the
+trust rung (7). Card first. Cards next: audit E6 (LRU), drafter D2
+or D4 (LRU after the competition).
 
 **Standing:** do not chase; talk plainly (taste 13); every lesson an
 instrument (taste 14); the card before the chapter (§3c).

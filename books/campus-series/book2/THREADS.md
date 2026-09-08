@@ -50,7 +50,8 @@ docs); F## fair-play rows (b12-outline.md table governs).
   spirit line) · ch 9 Earlene ("Buildings remember") · ch 10 Peanut
   ("Boyd doesn't buy buildings") · ch 11 Birdie ("Everybody's
   twenty-five once") · ch 12 Earlene (the knife) — **Earlene holds
-  three of twelve**; no fourth before ch 20.
+  FOUR of twelve** (ch 1, 7, 9, 12 — corrected at the ch 13 audit);
+  no fifth before ch 20; Peanut two (4, 10); Sonny two after ch 13.
 - **Quiet-band dialogue slots (one per quarter):** Q1 spent on
   ch 3 (13.1%). Q2 open (ch 9 came in at 15.5% after a top-up).
 - **Her laugh (once heard, then known):** first heard ch 4 (#133,

@@ -798,3 +798,40 @@ days out.
   Ty's name-map row. STATE: ch 13 is the first set piece.
 - The two truck makes, "two doors," and "Earlene doesn't type" were
   not struck at the merge — canon by the standing model (SR).
+
+## 2026-09-08 — ch 13 DRAFTED: "The Exertion Test" (Aisha · Mon Dec 14) — PR open; THE FIRST SET PIECE
+
+- Card first (the clock priced, B2-D15), brief marked SET PIECE,
+  audit E3 (BLOCK → addendum: the VACANCY word dark on a Monday; the
+  book full, not the lot; Sonny does not pour; Trey a back and a
+  number; the empty rehab room; the cap a number; five is Saturday;
+  rung 6; the coordinator names the rendering, the video board, the
+  suite, never the partner; RH1 buried by Verna; no vehicle ending).
+- THREE blind drafters (A: D1 sound-forward; B: D5 weather as texture;
+  C: D7 open mid-motion). The panel read each blind: A 23 beats / 9
+  fixes; B 24 / 5; C 25 / 8; all PASS WITH FIXES, all rung 6, all
+  woven, all fresh openings. **C won** (`notes/ch13-scoreboard-
+  2026-09-08.md`): the fight not coming is on the page ("She had
+  Sunday ready… He did not."), and the step-back characterizes both
+  (he stands and gives the hall "a coach and a doctor and a tablet to
+  see"; she stays with the picture up). No grafting. C's drafter
+  applied C's eight fixes plus two optional and four continuity
+  checks; A and B filed at `notes/candidates/` with their reports.
+- The page: Sonny's trowel in the freeze-cracked step; Verna at the
+  window pricing the nineteenth ("Seven Saturdays is my year, my
+  winter doctor") and burying the truck; Sonny's anchor ("You don't
+  rush concrete"); the bike, one-forty, minute fourteen, "Stepped
+  down."; Missy writes Wednesday; the coordinator's rendering / video
+  board / suite and Dan's "If."; **"Walk me through Tuesday,
+  medically."**; the scans at reading distance ("The picture's the
+  building. The hit's in the wiring."); his breath at her cheek; his
+  knuckle along hers, the glare's doing; "one screen and a foot of
+  air and him asking"; the cart with the flat spot; the meeting room
+  ("Wednesday, at the earliest, you might want it."); the sheet into
+  his jacket "where none of the seven before it had gone"; the want:
+  "She wanted Dan a foot off with the next question in his mouth, /
+  and no cart in the hall, and an hour. / It was a good thing to
+  want." UP. Lint clean; 25.2%; about 2,690 words.
+- SR (strike by comment): the cap "one-forty" and "seventy percent of
+  what August measured"; "Stepped down." as the sheet's word; Dan's
+  DEC 19 on his own film-room board; the meeting room given back.
