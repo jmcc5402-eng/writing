@@ -98,6 +98,17 @@ sentence is a beat. Plot excellence never offsets it.
 
 
 
+## The beer test (author, 2026-09-08)
+
+The author: "we need our readers to be rooting for them and I'm just
+not sure we've done enough there." After the count and the apart
+test, answer for EACH lead, for THIS chapter: would the reader want
+to have a beer with her? with him? YES / MAYBE / NO, one plain
+sentence why, and the line where the lead did something for someone
+else at a cost — or NONE. A chapter can pass the romance floor and
+fail the beer test; that is a finding, not a pass. Put the two
+verdicts in the PANEL VERDICT block.
+
 ## Every scene, and the apart test (author, 2026-09-06)
 
 The count is per third; the author reads per scene. After the
