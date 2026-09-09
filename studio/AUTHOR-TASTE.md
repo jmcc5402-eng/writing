@@ -316,6 +316,15 @@ Fails when: a status update reads like a build log; a finding is
 stated in the studio's names for things (rungs, directives, gates,
 folds) instead of what it means for the book.
 
+
+**Added 2026-09-09 to entry 13:** *"Ha ok. Remember don't be so
+clever!"* — after a PR titled "the handful" had to be explained
+("Handful?"). Caught: the showrunner naming a piece of work with a
+phrase instead of saying what it is. Check: a PR title, a card, or a
+message names the work by what it does to the book ("eight small
+kindnesses across chapters 2 to 12"), never by a coined name; a
+coined name the author has not used first is a finding.
+
 ## 14. Make it an instrument, so the next book is fast
 
 > "I want this to be another instrument we use so eventually we can
