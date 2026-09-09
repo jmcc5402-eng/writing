@@ -234,3 +234,91 @@ These win over the brief where they conflict.
 9. **The end.** On the practice turf at 5:15: the sheet she printed, carried across the lot, Tuesday's word under Trey Gault's name — "Student." (default; "Step one." alternative; never "Held.") — the trainer in earshot, the near hash, DOWN, held-quiet: he gave her a decade and got a touch, and the page prices it without punishing it. Not the house (four of his six chapters end there). Alternative his office after film. The board, if read at all, is read once mid-chapter, quiet, no count, no face-down/face-up wording, and it is quiet in the good way — no post about the test, the schedule, the backup, or Birmingham. No sheet count, no night count. "She went to thirty-four with her own hands" and "close enough to hear the coach and not the doctor" are not repeated.
 10. **Calendar and epigraph.** Tuesday, December 15; four days; a student today, holding tonight; the bike Wednesday at the earliest; Missy's page at seven is hers. "The eleventh" alone means February; no "signing day." Epigraph ≤35 words, one regular (not Kendra Voyles — ch 13's), out-of-state texture that is not flights, the stream, the hotel block, or practice at five; no day count; nothing about the test, the truck, the annex, the letter, the schedule, or Birmingham.
 11. **Rations and names.** One anchor (Delores's second — within spread; Earlene at four). Edges: 6 remain, one optional, never in the anchor. "Since June" ×1; "six months" banned; "never once" banned; one two-dash sentence; two "which" appendixes; "a while" once; three personifications; bells ≤2; no "one beat." Coffee at his desk only. Narration "Aisha" at least once, "Aisha Cole" once, "Dan Merritt" once; "Doc" / "Coach" aloud and never closing a scene; "7" on paper and to the team, "Trey" in private and to her; "the athletic director," never "the AD"; "the trustees" once; the colleague "her"; Delores "Delores Fountain-Mabry" once then "Delores."
+
+---
+
+## RECUT (2026-09-09 — the author's #153 comments; author: "Ok to both. Go for all")
+
+The author's six notes, in order: the story is abrupt and needs a
+prompt; the boxes are dry ("They need to have something looking at
+each other, smiling at each other"); the stakes talk should come
+FIRST as a back-and-forth and LEAD to the disclosure; the old story
+reads as a copy of this one ("coach a doctor a gray area call and a
+screenshot. Isn't that exactly what we have going on here"); her
+reply is "too cold… almost seems like she's a robot"; Delores's bank
+note is "random"; the last section never says Aisha is there and its
+dialogue is "too staccato… doesn't seem to do anything to help the
+romance or character arc." Plus the chat: "he only disclose[s] the
+previous affair at the end because he seems like he needs to… he
+helps her only because she wants help without asking anything in
+return… he's proving that he doesn't want anything in return… by
+telling the previous story about the affair, somewhat externally,
+saying that there's no way they could get together."
+
+**The new shape (B2-D17).** Sections 1, 3 and 4 keep their rooms;
+section 2 is rebuilt in this order:
+
+a. **The prompt, at the truck.** "Because boxes." She asks what it
+   is going to cost her — nobody in that building has ever helped
+   her free (the ch 11 plant, below, in its short form to his face).
+   He says nothing. She says that is what they all say first. Then
+   the hall, "They go today, Coach." Her face on the page: a half
+   smile at "Because boxes," in his POV.
+b. **The boxes, warm.** The protected beat stands ("She let him
+   carry it… and that was the first time"). Add two or three beats
+   of PLEASURE: a look across a box; her half smile; one joke
+   between them; him noticing her face and her catching him at it.
+   Not a work montage. Still two hours, still the clinic running
+   through it.
+c. **The stakes, as a back-and-forth.** Inside the packing, she
+   starts it or he does: what Saturday is to him, said between
+   them, her pushing and him answering — stake 1 as a reminder
+   ("You heard that yesterday"), stake 2 with the trustees and the
+   athletic director's sentence VERBATIM ("I've got a board meeting
+   in February and a donor who counts doors."), and stake 5 in
+   whichever mouth is truer — she may price her own side herself
+   ("If I sign and he goes down, I'm done. If I don't and you lose,
+   I'm the reason.") and he may say "I know the math." Her FACE at
+   every turn: eyes, the half smile, a look away and back. Never
+   "she did not move" without a face.
+d. **The disclosure, as the answer.** The talk brings her back to
+   the question from the truck — what he wants, why he is here —
+   and the decade is his answer: proof that he can want nothing,
+   told OUTWARD, so she knows what this is and is not. "There's no
+   way" is the shape of it. The facts (B2-D17): separated first;
+   the colleague was the academic side — the one who said who was
+   ELIGIBLE, not a doctor; they were together that fall and it was
+   TRUE; the screenshot was true; the county needed nothing
+   invented. The difference he names: here nothing has happened,
+   and the county will not need it to have — "It was us then. It'd
+   be us now." "The rule's got her face on it, not mine." verbatim.
+   "Not in general, Doc. In the specific." may stay. **CUT "And I'd
+   have stood a foot off you anyway. I liked it. I'd have told
+   nobody that."** — the want stays in his HEAD: one line of his POV
+   that lets the reader know "no way" is the one thing he said that
+   was not true. He does not say it. (It is 15's.)
+e. **Her answer.** Shorter silence; her eyes on him; the half smile
+   or its absence, said. Then Missy's page and Birmingham as
+   written (kept). Then the touch: she answers "no way" with her
+   hand on his bare forearm, on purpose — "She put it there to put
+   it there." stands; the cold and the weight stand; "Forty-one…
+   Now it can move." stands.
+f. **The hall.** Delores's bank-note anchor is CUT. She gets one
+   plain line about the thing in front of her (the room, the key,
+   the church's own paper), a principal's register, no rhyme with
+   anybody's ten years. The count, the look at the two of them,
+   "Nobody else does.", and the clause of his arm all stand.
+g. **The turf.** The establishing line NAMES her: Aisha Cole comes
+   down the near hash with the sheet. The last exchange is full
+   sentences and does the plant's work: he asked for nothing, and
+   she says so, in her words; his one line back; her face. Then
+   "Student.", the fold, the backup's feet. DOWN relative to the
+   opening still holds (his own "no way" is the wall).
+
+**The plant (ch 11, accepted, MINOR edit — log it).** At the wine
+night, inside her "other thing" speech, after "I've never been
+fired. I've never been kept, either.": two to four lines in her
+voice — every man who ever helped her in a building wanted a thing
+for it; the good ones just took longer to say what; so she quit
+asking. Kat or Marisol may answer in one line, or not. No "Dan" in
+it; it is about the buildings before this one.

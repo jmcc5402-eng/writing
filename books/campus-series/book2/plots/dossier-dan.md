@@ -24,9 +24,12 @@ two states east, as a young assistant, he was on the wrong end of a
 screenshot (ch12:48–51). The board's version travels well and is
 WRONG by rule: a woman on the same staff, a wife at home, sat down
 a year, came back leaner (ch02:62–78). The true shape (B2-T03,
-arc-docs §1, spends ch 14): he was separated first; the colleague
-paid with her career while he got a season and a comeback; it cost
-him a marriage; "the rule's got her face on it, not mine." What he
+arc-docs §1, spends ch 14; B2-D17): he was separated first; the
+colleague was the academic side, the one who said who was eligible
+(not a doctor); they were together that fall and it was true; the
+screenshot was true; she paid with her career while he got a season
+and a comeback; it cost him a marriage; "the rule's got her face on
+it, not mine." He tells it outward, as proof he can want nothing. What he
 learned: a county decides what you are before you know it has
 decided, and the board knew a week before anyone said it to his
 face (ch02:423–425). Then seven missing seasons — "the Wikipedia

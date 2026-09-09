@@ -409,3 +409,29 @@ before the first romance beat, the POV lead spends something small on
 a named minor character who cannot pay it back, nobody important
 watching. (5) Her narration says "Dan" from ch 13, after the test
 (#148); "Merritt" survives where she is the doctor at him.
+
+## B2-D17 — the decade's true shape, and help for free (author, #153 comments + chat, 2026-09-09: "Ok to both. Go for all")
+
+The author, on ch 14: the story is abrupt and needs a prompt; the
+stakes talk comes first and leads to the disclosure; "I'm concerned
+that the previous story 10 years ago is exactly the same as this
+story"; "he helps her only because she wants help without asking
+anything in return… he's proving that he doesn't want anything in
+return… by telling the previous story… saying that there's no way
+they could get together."
+Rulings: (1) **The colleague was the academic side** — the one who
+said who was ELIGIBLE — not a doctor or a trainer. The board's
+version stays "a woman on the same staff." (2) **It was true then.**
+He was separated first; they were together that fall; the screenshot
+was true; the county invented nothing. The difference between then
+and now is said on the page: here nothing has happened, and the
+county will not need it to have. The screenshot stays (ch 12:48–51 is
+accepted). (3) **Help for free is a thread.** Ch 11 plants it (every
+man who helped her in a building wanted a thing for it; she quit
+asking); ch 14 asks it to his face at the truck and answers it with
+the truck, the boxes, and the story told outward as proof he can
+want nothing; the turf ending says he asked for nothing. THREADS:
+B2-T13. (4) **The want stays in his head at ch 14.** He says "no
+way"; his POV knows it is the one untrue thing he said; the spoken
+admission is ch 15's. (5) Delores's bank-note line is cut; anchors
+are never rhymes with a lead's arc.
