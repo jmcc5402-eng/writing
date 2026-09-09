@@ -861,6 +861,32 @@ days out.
   is OPEN in the ledger; nothing applied yet.
 - Lint clean; about 2,800 words; ends UP.
 
+## 2026-09-08 — THE HANDFUL: eight rooting-for adds across ch 2–12 (MINOR; B2-D16)
+
+Fifty lines added, seven changed, across seven accepted chapters —
+each a small kindness for someone who cannot pay it back, nobody
+important watching (taste entry 15; the dossiers' ladders, rows
+1–13). Card D2 (hands and objects).
+- ch 2 (Aisha, Dan's POV): she turns the tablet around and shows
+  fifty-six his own numbers; Dan knows the move — his stopwatch.
+- ch 5 (Aisha): brings the pot up the Table once herself on the
+  one-cook morning; Earlene: "Mm." Fifty lines before the pie.
+- ch 6 (Aisha, Dan's POV): her one laugh lands on Sonny's "Alphabet"
+  and Sonny turns toward it; the book's last "Nobody laughed."
+- ch 8 (Dan): carries Odell's chairs in himself; Odell's verdict
+  stands, after, with his hands free.
+- ch 9 (Aisha): pinches a stranger's to-go sack shut; he still looks
+  past her.
+- ch 10 (Dan): tells thirty-four "It stays on" himself and hands him
+  the week's scout cards — a job for a kid who won't run.
+- ch 12 (Dan): takes the receivers' cut-up off Ty's afternoon ("Go
+  on. I've got sixteen.") and runs it himself; Ty goes out to the
+  truck with the phone in it. Dan learns nothing.
+- ch 12 (Aisha, Dan's POV): "When Denny calls tonight, and he will,
+  he can have five nights. From me." Wall: Denny does not post; ch
+  14 inherits.
+- Lint clean on all seven; no chapter's dialogue fell below the floor
+  (ch 9 at 15.1%).
 ## 2026-09-08 — ch 13 ACCEPTED (#147; comments #148) and folded; the dossiers CANON (#150)
 
 - Header to ACCEPTED. THREADS: the ch 13 entry; RH1 CLEARED; F1
