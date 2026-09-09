@@ -42,7 +42,8 @@ would have carried herself, which is the closest she has come to
 being given to. When he hands her his whole story, she trades
 nothing back; the chart doesn't volunteer. **Rooting for:** the
 boxes are already labeled in her own hand before he can lift one, so
-the church hall gets them in order; nothing for anyone else this
+the church hall gets them in order; the hall was Verna and
+Delores's doing, offered, not asked; nothing for anyone else this
 chapter, on purpose; her rung is 15. **Next:** 15, she lets him spend
 something on her and builds the firewall; 27, the change.
 
@@ -93,8 +94,8 @@ rooms uninvited; 20, he names the price.
 
 ## Two more to keep an eye on
 
-**The town.** Denny called last night and got his five nights, and
-did not post them; the board is quiet in the good way for one day.
+**The town.** Denny got his five nights off her Saturday night and
+has not posted them; the board is quiet in the good way for one day.
 The Gaults book Birmingham offstage (the second opinion is 17). The
 records go to a church hall, where Delores says the chapter's one
 line: ten years is long enough to pay a thing, if you paid it
