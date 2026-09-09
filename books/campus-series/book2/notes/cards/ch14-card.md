@@ -19,12 +19,15 @@ and the partner that takes her job (10), the want said out loud
 first real question (13). **This chapter:** Tuesday. Trey is a
 student at home, holding overnight. Dan shows up at the annex with
 his truck "because boxes" and packs thirty years of paper beside her
-for two hours. Then, unprompted, he tells her the truth of his
-decade: separated first, the scandal second, the colleague who paid
-with a career while he got a season and a comeback. He says the
-stakes out loud for the first time: the announcement, the extension,
-and her double bind. She gives him nothing back in words. Offstage,
-the Gaults book Birmingham. **Next:** 15, the no-go goes out under
+for two hours. At the truck she asks what it is going to cost her,
+because nobody in that building has ever helped her free. The
+stakes get said between them for the first time while they pack:
+the announcement, the extension, her double bind. That talk brings
+her back to what he wants, and his answer is the truth of his
+decade, told outward as proof he can want nothing: separated first;
+the colleague who said who was eligible, and paid with a career
+while he got a season; it was true then, and there is no way now.
+She answers with her hand. Offstage, the Gaults book Birmingham. **Next:** 15, the no-go goes out under
 her signature, he backs it to his captains at cost, and the kiss;
 16, the game, and the loss.
 
@@ -39,8 +42,10 @@ out loud to women (11); she set the step and held it (12); she
 taught him instead of fighting him, and thought his first name (13).
 **This chapter, seen from his side:** she lets him carry boxes she
 would have carried herself, which is the closest she has come to
-being given to. When he hands her his whole story, she trades
-nothing back; the chart doesn't volunteer. **Rooting for:** the
+being given to. She asks what it costs, out loud, the thing she
+told the women at wine night (11): every man who helped her in a
+building wanted something for it. When he hands her his whole
+story, she trades no words back; she trades a hand. **Rooting for:** the
 boxes are already labeled in her own hand before he can lift one, so
 the church hall gets them in order; the hall was Verna and
 Delores's doing, offered, not asked; nothing for anyone else this
@@ -55,11 +60,12 @@ lost to the athletic director (5), refused Denny (6), the coat and
 his silence (7), the hedge on air (8), nodded along in the room that
 takes her rooms (10), read the board three times and noticed (12),
 asked his first real question (13). **This chapter, his turn:** he
-stops managing his own story. He tells her the whole scandal,
-including the part the board has wrong: he was separated first, and
-the colleague paid more than he did. "The rule's got her face on it,
-not mine." Why he reads the board. Why clean. Why what is happening
-between them scares him in the specific. **Rooting for:** Tuesday's
+stops managing his own story. Pushed on what he wants, he tells her
+the whole scandal as proof he can want nothing, including the part
+the board has wrong: he was separated first, and the colleague paid
+more than he did. "The rule's got her face on it, not mine." It was
+true then; there is no way now. He says "no way" out loud, and his
+own head knows it is the one thing he said that was not true. **Rooting for:** Tuesday's
 printed schedule puts the backup's name on the first-team line for
 the week, in his typing, before any no-go exists, so a kid who would
 have had one rep gets three days of real ones. On paper only; he
@@ -72,8 +78,8 @@ tells nobody; the board will read it as "Coach has given up on 7."
 Stage 3 open outside since 13. High-water rung 6 (his knuckle along
 hers). **This chapter climbs to rung 7: a deliberate touch that means
 it.** Two hours of packing side by side, then the truth, and then she
-gives him the one thing the chart doesn't: not words, a touch, hers,
-on purpose, brief. That is what she trades back. The asymmetry is
+answers a man saying "no way" with the one thing the chart doesn't
+give: not words, a touch, hers, on purpose, brief. The asymmetry is
 priced, not punished. Her narration said "Dan" from 13; his has said
 "Aisha" since 4; neither has said it to the other's face, and that
 waits for 15. **Next:** 15, the kiss and the terms; 17, heat 2 in the
@@ -97,7 +103,6 @@ rooms uninvited; 20, he names the price.
 **The town.** Denny got his five nights off her Saturday night and
 has not posted them; the board is quiet in the good way for one day.
 The Gaults book Birmingham offstage (the second opinion is 17). The
-records go to a church hall, where Delores says the chapter's one
-line: ten years is long enough to pay a thing, if you paid it
-honest. **The clock.** Tuesday, December 15. Four days. Tomorrow at
+records go to a church hall, where Delores counts them in with a
+key on a ribbon and gives the doctor the only copy of the count. **The clock.** Tuesday, December 15. Four days. Tomorrow at
 7:45 the bike again, at the earliest.
