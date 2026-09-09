@@ -40,19 +40,31 @@ scoreboard; C won. **Root for them (B2-D16):** taste entry 15; kit
 13 (the character dossier and the rooting-for ladder — the arc gate
 has five docs); the ROOTING FOR line in every card and brief; panel
 1.4.0's beer test; `plots/dossier-aisha.md` and `dossier-dan.md`
-CANON (#150). **OPEN: `campus/the-handful`** — eight adds across ch
-2–12 (one drafter, D2), each strikeable. Do not chase.
+CANON (#150). The eight rooting-for adds across ch 2–12 MERGED
+(#152).
 
-**Then chapter 14** — Dan · Wk5 Tue · "The Rule Has Reasons"
-(CONNECTING, one drafter): the truck "because boxes," two hours of
-packing beside her; the truth of the decade (B2-T03); stakes 1, 2
-and 5 in his mouth (B2-D15); the athletic director's line reported
-or on the page; Denny's "five nights" inherited from the handful
-(add 8: Denny does not post); stage 3 held, the trust rung (7); the
-card's ROOTING FOR line from Dan's ladder row 14 (the backup's
-first-team schedule line, on paper only — `[CHECK]` not to pre-spend
-ch 15's rung 2). Card first. Cards next: audit E2 (LRU), drafter D4
-or D6.
+**OPEN: ch 14 PR** — "The Rule Has Reasons" (Dan · Wk5 Tue;
+CONNECTING, one drafter on D6; panel P1 ABOVE THE FLOOR, the first
+beer test: Dan YES, Aisha MAYBE by design). Listening file
+`notes/listening/ch14-2026-09-09.md`. Do not chase. **On merge, the
+fold:** THREADS ch 14 entry; B2-T03 SPENT (the decade told whole, the
+severable line on the page); B2-T04 sighted 14 (Birmingham), trip
+17; B2-T12 stakes 1, 2, 5 said in his mouth; ladder row 14 at rung 7
+(hers; his bare forearm; cold and weight); registry rows per the
+manifest (the first-team line; Mt. Nebo's fellowship hall and its
+locked end room; Delores's key on a ribbon; the transfer log; the
+forty-one boxes; KNEES, 1994 stays); anchors: Delores two; arcdoc
+Aisha row 19 → "first accepted help in public"; ddan row 14's
+counter moved later; the sheet-count `[CHECK]` (Monday's was the
+eighth; Tuesday's the ninth).
+
+**Then chapter 15** — Aisha · Wk5 Thu · the kiss (SET PIECE: three
+blind drafters, panel judges blind, author reads the winner). Card
+first. Inherits: the no-go under her signature; he backs it to his
+captains at cost before she knows; Dan tells her about Boyd's
+partner (default 15); her "Dan" to his face and his "Aisha" aloud;
+the firewall; rung 8. Cards next: audit E1 (LRU), drafters D4, then
+D3, D1 by LRU.
 
 **Standing:** do not chase; talk plainly (taste 13); every lesson an
 instrument (taste 14); the card before the chapter (§3c).

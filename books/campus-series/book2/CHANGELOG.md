@@ -895,3 +895,48 @@ important watching (taste entry 15; the dossiers' ladders, rows
   handful open; ch 14 next (connecting, one drafter).
 - The dossiers' NEW facts accepted at the bare merge; places `[TK]`;
   her family and his hometown OPEN.
+
+## 2026-09-09 — ch 14 DRAFTED: "The Rule Has Reasons" (Dan · Tue Dec 15) — PR open; CONNECTING, one drafter
+
+- Card first (the first card with ROOTING FOR lines; the clock priced),
+  brief marked CONNECTING, audit E2 (BLOCK → addendum: the hall was
+  Verna and Delores's arrangement, offered, not asked; she drives the
+  RAV4, nobody rides with anybody; the decade told INSIDE; the
+  severable line whole; the trustees named once; Denny's five nights
+  were Saturday; Missy's page goes to HER; "Student." on Tuesday's
+  sheet; the turf ending, not the house; the backup nameless on the
+  page past the sheet, one clause in his own head).
+- One drafter on D6 (run the decade a beat past comfortable). Panel
+  1.4.0 on P1, the first read against the BEER TEST: ABOVE THE FLOOR,
+  19 beats, all eight kinds, 8/6/5; apart test passes; rung 7 lands
+  and is hers; Dan YES (the backup's line, the coordinator's morning,
+  the decade with a box in his hands); Aisha MAYBE by the card's
+  design (nothing for anyone but Dan; her rung is 15). Nineteen fixes
+  applied: the second speech un-announced and stake 1 told as a
+  reminder ("You heard that yesterday. Here's what you didn't."); her
+  eyes on him the whole time and no typing in the silence; the gift
+  decoded once ("That was what she had, and she was handing it
+  over."); "It was on purpose" cut (the page says it three ways
+  already); his arm in the hall; the narrator's pointer at Delores's
+  ten years cut; the turf recap cut; "the values" and the five nights
+  said plain; the backup's cost in one clause.
+- The page: the first-team line with the backup's name, typed at six
+  in the dark; "Because boxes."; "They go today, Coach."; **"She let
+  him carry it… and that was the first time."** (PROTECTED); the
+  decade in the records room ("There's always a screenshot." /
+  **"I got a season. She got a different life. / The rule's got her
+  face on it, not mine."**); "Not in general, Doc. In the specific.";
+  "It was us then. It'd be us now."; the athletic director's sentence
+  verbatim; "I liked it. I'd have told nobody that."; Missy's page
+  and Birmingham under the hours; **her hand on his bare forearm,
+  cold, with weight — "She put it there to put it there."**;
+  "Forty-one. The hall. The fifteenth. Now it can move."; Delores's
+  key on a ribbon and her count ("Ten years is long enough to pay a
+  thing, if you paid it honest."); "Doctor, you get a copy of this.
+  Nobody else does."; the turf, "Student.", "It was not an even
+  trade. He had not made it to be one." DOWN, held-quiet. Lint
+  clean; 30.7%; about 2,680 words; opening check PASS.
+- SR (strike by comment): Mt. Nebo's hall as the destination; the
+  first-team line; "She and I were together that fall"; "Student." as
+  the sheet's word; the sheet "still curled from her pocket";
+  Delores's key and count; the backup's-cost clause.
