@@ -80,6 +80,21 @@ ESTABLISHING LINE — every scene break says where, when, and what is
 in the POV's hand within its first three lines; the panel's
 first-paragraph test now runs on every section, not only the first.
 
+**Added 2026-09-09 to entry 1 (the #153 comments on 1.2 ch 14):**
+"The last section doesn't even say that Ayesha is there. It just
+starts with saying 'she'. Also that last dialogue is way too robotic
+and confusing to read. It's too staccato. And it doesn't seem to do
+anything to help the romance or character arc." The second time for
+both (ch 13 got the same note). Check: the establishing line names
+WHO is in the room; NO STACCATO ENDINGS — the last exchange of a
+chapter is full sentences and moves the romance or an arc
+(`studio/tools/ending-check.py`, run by the chapter lint). Also:
+"When Coach tells his story to the doctor, it's a little too
+abrupt. He needs some sort of prompting for why he brought this
+up." Check: a disclosure has a PROMPT on the page — a question, a
+push, a thing the other person just said — never a man deciding to
+talk.
+
 ## 2. Ups and downs — somebody loses
 
 > "Most important that we need more ups and downs in the chapters."
@@ -376,3 +391,19 @@ canon sweep.
 Fails when: a lead is right all chapter and kind to nobody; when the
 only warmth is toward the other lead; when the kindness is a speech
 or is thanked.
+
+**Added 2026-09-09 (the #153 comments on 1.2 ch 14):** "The doctors
+reply is OK but it's a little too cold, maybe we keep the dialogue
+the same but we need to add some sort of description about her.
+Looks her feel a half smile she looked him in the eyes right now.
+It almost seems like she's a robot." The second time (ch 13: "she
+seems like she's too cold of a person"). Caught: in his POV the
+drafters write her as a blank — lines with no face. Check: THE
+OTHER LEAD HAS A FACE (STYLE) — at every turn of the talk in the
+POV lead's scenes, the other lead's eyes, a half smile, a look;
+"did not move" and "said nothing" never stand alone. Also: "the
+scene before that of them moving boxes is a little too dry. They
+need to have something looking at each other, smiling at each other
+it's just too boring." Check: a scene of two leads working side by
+side carries beats of PLEASURE (a look, a smile, a joke) — never a
+work montage.

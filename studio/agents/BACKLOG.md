@@ -199,3 +199,15 @@ fix in the report:
   written; AUTHOR-TASTE's review date; DECKS rule numbering; kit 11
   part numbering; showrunner "variance-EXEMPT" vs a drawn card.
   Proposed: one housekeeping PR.
+
+- **F17 — second-time catches (2026-09-09, 1.2 ch 14, #153).** Two of
+  the author's ch 13 notes came back on ch 14 unchanged: the other
+  lead written as a blank in the POV lead's scenes ("too cold… a
+  robot"), and a staccato last exchange with no arc work. The
+  establishing-line rule (2026-09-08) did not cover WHO is present,
+  and nothing checked endings. Fixed today: STYLE "the other lead
+  has a face" and "no staccato endings"; `ending-check.py` in the
+  lint; two brief lines. For the auditor's next run: did the panel
+  1.4.0 read (ABOVE THE FLOOR) miss both? It flagged her eyes once
+  (Q2) and called the turf "a landing" — the panel's scene-by-scene
+  needs a FACE column and an ending row.

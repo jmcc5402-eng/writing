@@ -342,6 +342,17 @@ sentence:
   the page, in character, never a speech, never thanked twice. A
   brief with NONE for a lead says why (the chapter's shape) and the
   next brief owes it. The panel answers the beer test per lead.
+- **THE OTHER LEAD'S FACE (author, 2026-09-09 — STYLE, "the other
+  lead has a face"):** in the POV lead's scenes the other lead's
+  face is on the page at every turn of the talk; the brief names
+  the two or three beats of pleasure (a look, a half smile, a joke)
+  any side-by-side scene carries. A disclosure has a PROMPT on the
+  page — what was just said or asked that makes him talk now.
+- **THE LAST EXCHANGE (author, 2026-09-09 — STYLE, "no staccato
+  endings"):** the brief says what the chapter's last exchange does
+  for the romance or an arc, and the establishing line of the last
+  section names who is in it. `ending-check.py` warns on two-word
+  volleys.
 - **THE OPENING, SAID:** the chapter's first paragraph, as a plain
   sentence a stranger could repeat — what today is and what is at
   stake in it (STYLE.md, the explicit opening). The panel reads the
