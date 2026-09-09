@@ -2,6 +2,16 @@
 
 Manuscript-affecting changes, newest first. (Hard rule 6.)
 
+## 2026-09-09 — ch 11: the help-for-free plant (MINOR edit; B2-D17 item 3)
+
+Three lines added inside Aisha's "other thing" speech at the wine
+night, directly after "I've never been fired. I've never been kept,
+either.": "Every man who ever helped me in a building wanted a thing
+for it. / The good ones just took longer to say what. / So I quit
+asking." Nothing else in ch 11 touched. Plants B2-T13, which ch 14
+asks to his face at the truck and answers on the turf. Ordered by
+the ch 14 RECUT (`plots/brief-ch14.md`), the author's #153 comments.
+
 ## 2026-09-05 — ch 8 RE-CUT (at the gate; the first romance-first chapter)
 
 Executes `plots/recut-briefs-ch05-08.md` §CH 8 in its romance-first
