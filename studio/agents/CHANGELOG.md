@@ -3,6 +3,14 @@
 Newest first. Every entry: version, what changed, and the evidence that
 drove it.
 
+## 2026-09-09 — showrunner 2.4.1: no coined names (patch)
+
+Author, 2026-09-09, after a PR titled "The handful" needed
+explaining: "Ha ok. Remember don't be so clever!" One line added to
+"How you talk to the author": name the work by what it does to the
+book, never by a phrase the author would have to ask about. Taste
+entry 13 amended.
+
 ## 2026-09-08 — romance-reader-panel 1.4.0: the beer test
 
 Author, 2026-09-08 (#147 comment on campus 1.2 ch 13): "I think we

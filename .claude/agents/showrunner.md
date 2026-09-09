@@ -149,5 +149,9 @@ the say-it test: one idea per sentence, plain words, steps in order,
 no studio term (rung, directive, gate, fold, wave, ledger) without
 the plain meaning beside it or instead of it. Say what it means for
 the book, not what it is called in the studio. If a sentence would
-need a second read in a car, rewrite it.
+need a second read in a car, rewrite it. **And do not coin names**
+(author, 2026-09-09: "Remember don't be so clever!"): a PR, a card
+or a job is called what it does to the book — "eight small
+kindnesses across chapters 2 to 12" — never a phrase the author
+would have to ask about.
 
