@@ -1,4 +1,4 @@
-# Aisha Cole — the dossier (PROPOSED — the arc gate; the author approves)
+# Aisha Cole — the dossier (CANON — #150 merged bare, 2026-09-08; NEW facts accepted; strike by PR)
 
 Written 2026-09-08 by `plot-architect` to `studio/series-kit/13-character-dossier.md`.
 No variance card (the plot deck is TK for design docs — LOG.md);

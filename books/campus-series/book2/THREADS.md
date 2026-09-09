@@ -24,9 +24,9 @@ docs); F## fair-play rows (b12-outline.md table governs).
 | F13 | The county's official wrong story as engine thesis | ch 1 (square kiss retold fondly, wrong, uncorrected — "It's how we tell it") | **ch 23** aimed, **ch 28** corrected | OWED |
 | B2-T10 | The romance's ladder (plots/romance-arc.md, CANON #130): stage 2 "admitted inside" reached ch 5 (hers) and ch 8 (his); stage 3 OPENED INSIDE ch 11 (#139: "I want Dan," to the women) / opens outside ch 13 | ch 5, ch 8 | the build check runs before ch 11, 13, 15, 27 briefs | ch 2 fight shown — DONE (#132); ch 4 one more exchange — DONE (#133). Both earning scenes for ch 8's want are on the page. |
 | B2-T11 | The provider partner (B2-D13): a sports-medicine group takes over team physician services with the pledge; her job is the price | ch 10 (Dan hears "the university stops carrying that line"; "Dan knew whose line it was") | he tells her **ch 15** (default) before the kiss; announced **ch 24** the week of the suspension; the phrase beside the group's own notice **ch 27**; the deal stalls with the pledge **27–28**; handed to 1.3 | live — OWED: ch 15 (he tells her); ch 24 (the announcement) |
-| B2-T12 | The stakes of the nineteenth (B2-D15): the win is Boyd's STAGE (the announcement on the field); Dan's extension priced (February agenda; "a review"); the town's second December; her double bind said once | ch 13 (the town's money; the announcement sighted) · ch 14 (1, 2, 5 in Dan's mouth; the athletic director's line 14/15) | **ch 16** the loss carries all four · **ch 20** Boyd's price pays the stage · **ch 24** the athletic director signs · **ch 27** extension off the agenda | not yet planted — OWED from ch 13 |
+| B2-T12 | The stakes of the nineteenth (B2-D15): the win is Boyd's STAGE (the announcement on the field); Dan's extension priced (February agenda; "a review"); the town's second December; her double bind said once | ch 13 (the town's money; the announcement sighted) · ch 14 (1, 2, 5 in Dan's mouth; the athletic director's line 14/15) | **ch 16** the loss carries all four · **ch 20** Boyd's price pays the stage · **ch 24** the athletic director signs · **ch 27** extension off the agenda | PLANTED ch 13 (stake 4 said by Verna; stake 1 sighted via the coordinator) — OWED ch 14 (1, 2, 5 in Dan's mouth), 16, 20, 24, 27 |
 | F6 | The hookup leak chain (outline F6): the rings shown ch 11, the artifact ch 12 | ch 11 (the phone down the rail) · **ch 12 PAID** (the screenshot; "Who types a pause?") | dignity repair 18–30 | PAID ch 12; the sub-couple's exposure carries |
-| F7/RH1 | The board decodes the vaguepost as the coach and the doctor (declared red herring) | **ch 12 PLANTED** ("The story was him and her."; the honest signal: a crew cab with four doors, and Coach's has two — Earlene, relayed) | **ch 13** dies at the Table offstage | OWED ch 13 |
+| F7/RH1 | The board decodes the vaguepost as the coach and the doctor (declared red herring) | **ch 12 PLANTED** ("The story was him and her."; the honest signal: a crew cab with four doors, and Coach's has two — Earlene, relayed) | **ch 13** dies at the Table offstage | **CLEARED ch 13** (Verna, at the window) |
 | S01 | Cordelia (series) | room nine IS Cordelia's room — Aisha lives in it (SR-B2-2, ruled at #106) | letter beats from ch 9 | live, light |
 | S11 | Merritt's relief years (series) | B2-T01 carries its only permitted surface | spends ~set 3 | DORMANT by design |
 
@@ -400,6 +400,47 @@ Carries: B2-T02 (the coat decoded by the county; "he had asked for
 her name over the patch anyway"); B2-T11 (the laminated board "still
 his to tell her"). Edges: none spent (6 remain). Dialogue 17.2%.
 Hands forward: 13 — the bike; RH1 dies at the Table offstage.
+
+### Ch 13 — The Exertion Test (ACCEPTED #147, 2026-09-08; the author's comments applied #148; THE FIRST SET PIECE — three blind drafters, C won)
+Introduces: the VACANCY word dark on a Monday (Verna's book full
+through Saturday "since the Sunday they said our name"); Verna's
+price for the nineteenth (**B2-T12 stake 4 SAID**: "Seven Saturdays
+is my year, my winter doctor," an eighth in December; the back room
+Friday and Saturday both); **RH1 CLEARED** (Verna's one line: Earlene
+counted four doors, Coach drives two, the Table is done with it);
+the freeze-cracked step and Sonny's unopened quick-set (he does
+Verna's small repairs); Sonny's ANCHOR, his second ("You don't rush
+concrete. Concrete don't know what day it is."); the quiet room (the
+empty rehab room beside the whirlpool room; the annex's bike, one
+chair); the cap, one-forty, "seventy percent of what August
+measured"; minute fourteen; **"Stepped down."** as the sheet's word;
+Missy writes Wednesday; **F1 PLANTED** (the arithmetic: Saturday is
+five, and five has to hold a night); the coordinator's line (**stake
+1 SIGHTED**: the rendering cued on the video board after the game;
+the suite list by Wednesday; Dan: "If."); the film room in her POV,
+her building from his window; **Dan's DEC 19 in block letters on his
+own board** (pays her ch 5 guess); **"Walk me through Tuesday,
+medically."** (B2-T… his row 13 — rung 1 of his conversion); the
+scans at reading distance, both clean ("The picture's the building.
+The hit's in the wiring."); the meeting room given back ("Wednesday,
+at the earliest, you might want it."); the man with a cart (a flat
+spot, a thump every turn). Romance (**B2-T10: stage 3 OPENS OUTSIDE;
+the ladder climbs to RUNG 6**): his breath at her cheek at reading
+distance (the new sense); his knuckle along hers for the second it
+took to tip the glare, and his hand not coming away when the glare
+did; he looks a moment longer than the question needs; "one screen
+and a foot of air and him asking"; the step-back — he stands and
+gives the hall "a coach and a doctor and a tablet to see," she stays
+with the picture up. Her narration says **"Dan"** from the quiet
+room on (#148): "Dan. She had said it once in a bar and not since, /
+and it came easier in an empty room than his last name did." The
+sheet into his jacket "where none of the seven before it had gone."
+The want, new sentence: "She wanted Dan a foot off with the next
+question in his mouth, / and no cart in the hall, and an hour. / It
+was a good thing to want." Ends UP. Edges: none (6 remain). Dialogue
+25%. Hands forward: 14 — the truck "because boxes," the decade
+(B2-T03), stakes 1, 2 and 5 in his mouth, Denny's "five nights" (the
+handful, add 8, if it stands), the athletic director's line.
 
 ## New canon recorded at this fold
 

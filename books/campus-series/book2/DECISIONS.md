@@ -382,3 +382,30 @@ class and the portal, left working underneath, unstated.) Weave: 13
 Dan's mouth), 16 (all four carried into the loss), 20 (Boyd's price
 pays the plant), 24, 27. New thread B2-T12. Instrument: the chapter
 card's plot paragraph prices the clock (kit 12).
+
+## B2-D16 — the dossiers are CANON; root for them (#148, #149, #150 merged 2026-09-08)
+
+The author, on ch 13: "we need our readers to be rooting for them…
+a few sentences scattered through the book"; "she gets some
+likability when she's doing the Band-Aid for the kid in the
+beginning, we need a handful of things like that"; and "a character
+outline off-line before a book… who this character is where they've
+been and where they're going… we need to do the same [as the
+romance] to make people want to root for these characters."
+Rulings: (1) `plots/dossier-aisha.md` and `plots/dossier-dan.md` are
+CANON — every NEW fact on them accepted at the bare merge (her state
+medical school on loans, the residency and the fellowship, two
+programs that "went a different direction," the lease, the pre-six
+run; his GA year at twenty-five, the sat-down year as the source of
+his rules); the places stay `[TK]`; her family and his hometown stay
+OPEN. (2) The rooting-for ladders (Part 4 of each) are the book's
+plan for who the reader learns they are, chapter by chapter; the
+card's and the brief's ROOTING FOR lines read from them; the panel's
+beer test (1.4.0) judges the page. (3) THE HANDFUL — eight adds
+across ch 2–12 — is written in on a MINOR PR (`campus/the-handful`),
+each moment strikeable; add 7(a) (Dan knowing Ty's truck) was
+rejected for RH1's sake and replaced. (4) From ch 14: once a chapter,
+before the first romance beat, the POV lead spends something small on
+a named minor character who cannot pay it back, nobody important
+watching. (5) Her narration says "Dan" from ch 13, after the test
+(#148); "Merritt" survives where she is the doctor at him.

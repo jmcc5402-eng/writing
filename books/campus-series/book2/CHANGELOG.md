@@ -887,3 +887,11 @@ important watching (taste entry 15; the dossiers' ladders, rows
   14 inherits.
 - Lint clean on all seven; no chapter's dialogue fell below the floor
   (ch 9 at 15.1%).
+## 2026-09-08 — ch 13 ACCEPTED (#147; comments #148) and folded; the dossiers CANON (#150)
+
+- Header to ACCEPTED. THREADS: the ch 13 entry; RH1 CLEARED; F1
+  planted; B2-T12 planted (stake 4 said, stake 1 sighted); ladder row
+  13 at rung 6. Registry: eight rows. B2-D16 recorded. STATE: the
+  handful open; ch 14 next (connecting, one drafter).
+- The dossiers' NEW facts accepted at the bare merge; places `[TK]`;
+  her family and his hometown OPEN.
