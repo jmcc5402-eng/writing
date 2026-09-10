@@ -1,0 +1,402 @@
+# Chapter 15 — Precautionary Hold
+
+POV: Aisha, third person limited, past tense.
+(DRAFT 2026-09-10, candidate A — drafted per plots/brief-ch15.md
+with its AUDIT ADDENDUM and notes/cards/ch15-card.md; variance card
+D4, one minor character's unexpected competence. Not accepted until
+its PR merges.)
+
+---
+
+> **On Grapevine, the Ashford parents' board —**
+>
+> **Tim Brasher:** Connecting through Atlanta Friday and driving the
+> rest. If you see a rental with an Ashford flag on the antenna at a
+> gas station Friday night, that's me. Honk.
+
+
+The pen came out of the parka's inside pocket with the cap still on,
+and Aisha Cole pulled the cap
+and put her whole name at the bottom of a printed form on her desk,
+at the warm end of the annex, at ten past seven,
+because a paper that took a boy off a field got a signature
+and not initials.
+It was Thursday, the seventeenth. Ashford played in two days.
+The form said Trey Gault was not cleared for competition
+on the nineteenth, in her words.
+She had run him on the bike herself Wednesday,
+all twenty minutes under the cap,
+and his brain had let him have them and said nothing back,
+and it had held through the night,
+and none of that moved Saturday an inch.
+Wednesday's bike was two, today three, tomorrow four, Saturday five,
+and a five had to sleep a night before it was a six,
+and six was the only rung with a game on it.
+The first day he could play was Sunday, and nobody played on Sunday.
+By her own rule the word was Friday's,
+and she was a day early on purpose,
+so the family and the team had today and tomorrow with it.
+So the boy was fine, and he was not playing,
+and the county that had been waiting since June for her to be the reason
+would have her signature by noon to prove she was.
+The first December Saturday in this town's life
+would get played without the one boy it had sold every room on,
+and the word the county had wanted out of her all fall, safe,
+was gone for good.
+
+Before the paper went anywhere she called Missy Gault,
+on the number the page came from.
+Missy answered from her car in the Fieldhouse lot.
+Trey had walked into the back of the meeting room at seven
+for the twenty minutes she had promised at her whiteboard,
+projector unplugged, no film, no playbook,
+and his mother had driven him.
+
+"Missy, it's Dr. Cole. Wednesday held. He's fine.
+I'm signing a paper this morning that says he's out for the nineteenth,
+because fine on Wednesday isn't five nights,
+and there aren't five between now and Saturday.
+It goes to the athletic director and Coach in an hour.
+I wanted you to have it from me first."
+
+"What step does it say he's on."
+
+"Three. It starts today, and it holds overnight before the next."
+
+A pen went on the other end.
+
+"Then that's the order I'll give it to him in," Missy said.
+"The step, then the rest. He's got nine minutes left in there."
+
+Nobody had taught Missy Gault that order but a notebook.
+Aisha had watched a building full of men skip past the step to the no
+for three weeks, and a mother in a parked car had not.
+
+She took a picture of the signed page with the tablet
+and sent it to the athletic director, with Merritt copied,
+and put the paper itself into Trey's chart the long way,
+the count, the reason, her name.
+She did not go across the lot to watch him read it.
+He had told her on Tuesday, with a box in his arms,
+what he wanted from her, which was nothing.
+
+***
+
+At her desk in the annex at eleven, with the clinic's morning kids gone,
+Aisha had the tablet open to the parents' board,
+and Trey Gault was on the turf across the lot with the trainer,
+step three, the football-shaped one, no ball.
+The county had had the paper since half past ten,
+off a group chat in another time zone,
+and she did not ask whose son had typed it.
+
+> **DeeAnn Prewitt** Interesting season. Interesting choices. Praying
+> for the boys.
+>
+> **Rhonda Sipes** Fourteen families on the January letter as of this
+> morning. It started out about roster spots. It is not about roster
+> spots anymore. And notice Coach has not said one word against her
+> all week.
+
+After that the board went quiet in the bad way,
+nothing under DeeAnn's three sentences for an hour
+but the number of people who had looked at them,
+and the number was the county.
+She had been the reason since half past ten
+in every state with a son on the roster,
+and it felt like a Tuesday.
+Rhonda had the two of them in it now,
+in the shape the county had got wrong off a truck last Saturday,
+and not wrong this time.
+
+***
+
+The Magnolia Court's lot at four, in the RAV4 with the engine off
+and Verna's text still up on the phone in her hand,
+*Come get your tag before dark,*
+and plates from three states along the row by the office.
+Two men at the ice machine quit talking as she went past.
+The row by the office had six vehicles in it,
+and none of them was an F-150 with two doors,
+and no reason for one to be,
+and she had counted the row before she had the door open anyway.
+
+Verna was inside the office window with a stack of printed hang tags,
+one for every windshield in her lot through Saturday,
+so the tow truck she had coming Friday would find nothing to do.
+She slid Aisha's under the glass. It said BACK ROOM.
+
+"He's not here," Verna said, "and you'll notice I didn't say who.
+I had a man once who'd have driven up to that Fieldhouse this morning
+to tell you what he thought of your paper.
+He'd have been wrong, and he'd have looked good being it."
+
+She capped the marker.
+
+"The whole county wants Saturday. I sold it every room I've got.
+That boy needs the next sixty years.
+I rent nights. I know what one's worth, and I know what it isn't."
+
+It had not been said to Aisha.
+It had been said about a boy, by a woman who counted nights for a living,
+and Aisha took the tag and went back across,
+because the sheet for five fifteen was hers to type.
+
+***
+
+Five fifteen on the practice turf, the poles up white over the field,
+and Aisha came down the near hash from the annex side
+with the printed sheet in one hand and the tablet in the other,
+two names on the page as always,
+the trainer at the hash with a roll of tape on his wrist,
+and Dan at the far end with the drill and his back to her.
+
+The trainer said it low, before she had the sheet out of the wind.
+
+"Coach had his captains in his office at ten, Doc.
+Door open, same as always. I had the cart in the hall."
+
+"He told them 7 sits Saturday on the doctor's paper
+and the paper's right,
+and anybody with a different opinion brings it to him
+and not to the room.
+Nobody brought him one.
+They came out past me and not one of them looked up,
+and that bunch always has something to say in a hall."
+
+She had not been in the room, and that was how it counted.
+This he had done in his own building at ten in the morning
+with the room giving him nothing back,
+and he had not crossed the lot to tell her the price.
+The man she had watched agree at her board in December
+and go upstairs to undo it
+had spent his own room on her paper before she knew he had it.
+She looked down the field at his back
+and wanted him for it, plainly, with his trainer three feet off,
+and would not have said so to the women, or to a chart, or to him.
+
+Dan came off the far hash to meet her with the whistle in his fist,
+five days into the jaw he shaved off for the cameras on Saturdays,
+and took the sheet.
+Under Trey Gault's, what the morning's paper had said.
+Step three. Holds overnight.
+Under thirty-four's, what it had not.
+Sleeve off. Cleared to cut.
+
+"I said this week on Monday," she said. "It's my sentence to revise.
+He cuts for me first. Then it comes off and he's yours."
+
+He read the second line twice and looked at her over the page,
+and there was nothing flat in his mouth.
+
+"Doc."
+
+"Watch."
+
+She put thirty-four on the hash and sent him to the ten and back,
+one cut each way,
+and watched his face and not the leg for the plant,
+and there was nothing in it.
+"Again." Nothing.
+"You're done with the sleeve. Take it off. Cut all you want."
+He had it off the thigh and in his hand before she finished,
+and did not say a word,
+and the trainer took it from him and put it in his own jacket pocket,
+and the kid went down the field at the speed
+the sled had cost him two weeks ago.
+Dan watched him go with the sheet open in his hand,
+and something went across his face at the sleeve
+that she had not seen there all fall,
+and it was not about Trey.
+Then he put the sheet away,
+and she went across the lot with the tablet under her arm.
+
+***
+
+Aisha was at her desk at the warm end of the annex at ten to seven,
+the heater running, the parka on her chair, tomorrow's sheet half typed,
+and the one lit window across the black lot was Dan Merritt's.
+The poles had gone off at six with the last period,
+and the lot between the two buildings was dark from her door to his.
+Her phone lay on the desk with DeeAnn Prewitt the last thing on it,
+from the practice lot.
+*34 cut tonight with nothing on his leg. So she can clear a boy.
+Just not ours.*
+She had known that price since four o'clock, and read it once.
+
+The window went dark while she watched it.
+She counted, and at a hundred and thirty the outside door at the warm end,
+the one by her office that the RAV4 nosed up to, opened and shut,
+and Dan stood in her doorway.
+He had the cap in his hand and the cold still on his shoulders,
+and the frame had a hand's width to spare over him,
+and the corridor light behind him gave her his shape
+before the office light gave her his face.
+His mouth was not flat.
+It was working on something, at one corner.
+
+"You stood in that window a long time."
+
+"Till the poles went off. It's the only time that lot's dark enough."
+He came in, and did not sit, and did not shut anything.
+"Thirty-four cut through the shower line tonight.
+Twice. Didn't say a word to anybody.
+He hasn't said a word to anybody since the fourth,
+and tonight he didn't need one."
+
+She laughed, once, one syllable of it,
+at her own desk on the day she had signed that paper,
+and he took it in like it was what he had crossed the lot for.
+
+"Nobody's getting that sleeve back," he said. "Trainer's got it."
+
+"I heard about ten o'clock," she said.
+"From the hall, with a cart in it.
+You told your captains Trey sits Saturday on my paper,
+and the paper's right,
+and anybody with an opinion could bring it to you.
+Nobody did. Nobody looked up on the way out."
+
+He looked at the board behind her, and came back.
+
+"That's about the size of it."
+
+"It cost you the room."
+
+"For a day. Two." He did not make it smaller than it was.
+"They'll play Saturday either way. They'll get there."
+
+"You went into your own building and paid for my call
+before I knew there was a bill."
+She kept her eyes on his.
+"I'd hand it back if I knew how. I don't. So I'm keeping it."
+
+Something in his face let go at that, at the eyes first.
+She had made him lose an argument every Friday of the fall
+and had never seen that.
+
+"Verna gave me a parking tag tonight that says BACK ROOM," she said.
+"In February she'll rent nine to a plate from somewhere,
+and I'll be wherever the subsequent communication puts me."
+
+He looked away at the heater,
+and came back with the other thing he had walked over with.
+
+"There's a thing about February I've had since the Monday the class signed.
+Ten days.
+You're getting it now, before anything else happens in this room."
+
+"Boyd's people had a board they didn't click to.
+The partner board.
+A sports-medicine group runs the floor of that building
+and the team's doctors work for the group under contract,
+and the university stops carrying that line.
+I knew whose line it was.
+Your job's the price of the building.
+I sat there with nine boards on the marker tray
+and gave the consultant the nod he was waiting for.
+I've known it every day since, standing across a sheet from you,
+and I carried your boxes with it in my pocket,
+and I'd rather you had that in the right order too."
+
+She did not stand up.
+She did what she did with a number off a chest strap,
+took it whole and looked for where it went.
+It went with the memo under her stapler,
+the other half of a sentence somebody had been paid to write.
+Her rooms went, and the woman in them with them,
+and the man in front of her had sat in a chair with that on a board
+and nodded.
+
+"You knew it was my job," she said, "and you nodded."
+
+"I nodded."
+
+He said the worst sentence he had to her face,
+with his eyes on her and his cap in his hand.
+That should have been the thing that put him out of this office.
+She looked at him, at the jaw, at the eyes on her and not on the floor,
+and it was not.
+
+She got up and went past him to the door,
+close enough that the sleeve of her polo went along the nylon of his jacket,
+and put her palm flat on the wood
+and pushed it to until the latch took, with him on the inside of it.
+Every door in his building stood open by his rule.
+This one was hers, and she had shut it,
+and she stood with her hand still on it so he would see that she had.
+
+"Dan," she said, with her back to the door she had shut,
+"you walked across a dark lot to tell me the one thing
+that should get you put out of this office,
+and I am not putting you out."
+
+He looked at the door, and at her hand on it, and at her,
+and whatever had been working at the corner of his mouth finished,
+and it was not the flat thing.
+
+"Aisha," he said,
+"I've had your name in my mouth since a hospital lounge in November,
+and nowhere to put it."
+
+She crossed the room. It had never been far.
+She put her hand on his jaw, five days of it, rough under her palm,
+and kissed him,
+and then his hands were on her.
+That was the thing she had not had.
+His hands, that she had watched on a rail and a tailgate and a box,
+on her, one at the small of her back and one at the side of her face,
+warm, bigger than she had planned for, and still.
+They held still on her before they did one other thing,
+a man who had wanted this a long time
+and meant to get the first part right.
+Then they were not still.
+She had to tip her head back farther than she had ever tipped it
+for a man, and did, and the hand at her face went with her.
+
+When it stopped, his hands did not.
+
+"Here's mine," he said, close, low.
+"Nothing anybody can see till the class is closed.
+That's the first Wednesday in February.
+After that there's nothing left in this season
+a man could say I traded for you.
+Before that there's a game and a board meeting
+and a paper with your name on it.
+So it's February, and not a day sooner, and I hate it."
+
+"And here's mine," she said.
+"We never talk about a call of mine anywhere but across that sheet
+at five fifteen with the trainer in earshot.
+Not in here. Not in your film room. Not in a kitchen,
+if there's ever a kitchen.
+So nobody can say a call got softened somewhere private,
+and nobody includes you, and it includes me.
+I built the protocol so it didn't need Trey to tell me the truth.
+I'm building this one so it doesn't need us to."
+
+He heard it, and she watched it land in a man
+who had lost a year to a screenshot,
+and there was no fight in him about it anywhere.
+
+"That's the one I'd have asked for," he said,
+"if I'd had the nerve to ask you for anything."
+
+"You'd have lost."
+
+"I'd have liked losing it."
+His thumb moved once at the side of her face.
+"February," he said. "I'm going to stand in that window
+till the poles go off, every night till February."
+
+"I'll be at this desk. I'll know when it goes dark."
+And her mouth did a thing at that it had never done across a sheet,
+and she let him see it.
+
+"That's the last thing either of us says about a call of mine
+in this room," she said. "Say something else."
+
+"I've got till February to say it," he said,
+"and I'd rather start with this,"
+and he kissed her, in her office at the warm end of the annex,
+with the door shut on her say-so and his hands where she wanted them.
