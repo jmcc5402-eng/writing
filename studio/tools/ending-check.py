@@ -33,3 +33,11 @@ if dl:
     print(f"last section dialogue: {len(dl)} lines, avg {avg:.1f} words, {short} of three words or fewer")
     if avg<6 or (len(dl)>=4 and short>=len(dl)/2): print("WARN: staccato ending (STYLE: the last exchange is full sentences and moves the romance or an arc)")
 else: print("last section has no dialogue")
+# volley runs anywhere (STYLE "slow the good parts" (d)): three consecutive dialogue lines of four words or fewer
+allq=[re.sub(r'[^A-Za-z\' ]',' ',l) for l in body.split('\n') if l.lstrip().startswith(('"','“'))]
+runs=0; streak=0
+for l in allq:
+    n=len(l.split())
+    streak = streak+1 if n<=4 else 0
+    if streak==3: runs+=1
+if runs: print(f"WARN: {runs} run(s) of three short volleys (dialogue lines of four words or fewer, consecutive) — STYLE: no volleys between the leads; run the sentences out")

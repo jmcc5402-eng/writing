@@ -98,6 +98,22 @@ sentence is a beat. Plot excellence never offsets it.
 
 
 
+## The slow beat and the awkward test (author, 2026-09-10)
+
+The author, on 1.2 ch 16: "The kiss is too fast… a number of more
+sentences describing how they walk close to each other… they slowly
+looked at each other in the eye… and they kiss." And: "This type of
+conversation should be a little bit awkward. Even though these are
+both very serious people and they feel a little bit like middle
+schoolers." So, for every chapter with a touch: find the chapter's
+highest touch and COUNT the sentences between the decision and the
+contact — the distance closed, the eyes, the hand, the pause. Fewer
+than four is a finding, whatever the count says. And the AWKWARD
+TEST: in any scene the leads share alone, name the line where two
+serious adults look like middle schoolers — a look held too long, a
+line that comes out wrong, a laugh at nothing. None is a finding.
+Report both in one line under the verdict, with line numbers.
+
 ## The beer test (author, 2026-09-08)
 
 The author: "we need our readers to be rooting for them and I'm just

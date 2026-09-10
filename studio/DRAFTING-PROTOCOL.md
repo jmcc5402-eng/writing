@@ -348,6 +348,16 @@ sentence:
   the two or three beats of pleasure (a look, a half smile, a joke)
   any side-by-side scene carries. A disclosure has a PROMPT on the
   page — what was just said or asked that makes him talk now.
+- **THE SLOW BEAT (author, 2026-09-10 — STYLE, "slow the good
+  parts"):** the brief names the chapter's highest touch and orders
+  its approach — at least four sentences between the decision and
+  the contact (the distance, the eyes, the hand, the pause); and
+  names where the leads are allowed to be awkward when alone (a look
+  too long, a line that comes out wrong, a laugh at nothing).
+- **THE ENDING THINKS (author, 2026-09-10):** the brief says what the
+  POV lead thinks about in the last scene — the other lead, and the
+  thing they fear — in plain sentences; a button is never a bare
+  object. No run of three short volleys between the leads anywhere.
 - **THE LAST EXCHANGE (author, 2026-09-09 — STYLE, "no staccato
   endings"):** the brief says what the chapter's last exchange does
   for the romance or an arc, and the establishing line of the last

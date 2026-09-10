@@ -422,3 +422,14 @@ two or three sentences of story; chapter numbers only for what
 comes next; no labels inside paragraphs; the ear test. Showrunner
 2.4.2 carries the rule. The ch 16 card rewritten as the model.
 
+## 2026-09-10 — romance-reader-panel 1.5.0: the slow beat and the awkward test
+
+The author, on 1.2 ch 16 (#156): the kiss too fast; the annex talk
+terse and not awkward enough; the cage button with no thought. The
+panel 1.4.0 had passed the chapter with 28 beats and called the
+one-line kiss "one line and right" — the count measured presence,
+not pace. New: for every chapter with a touch, count the sentences
+of approach before the highest touch (fewer than four is a finding)
+and run the awkward test on every scene the leads share alone. STYLE
+"Slow the good parts"; taste entry 16; two brief lines; the
+ending-check now reports short-volley runs chapter-wide.
