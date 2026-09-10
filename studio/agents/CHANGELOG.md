@@ -409,3 +409,16 @@ drafting-assistant, developmental-editor, line-copy-editor,
 continuity-keeper, kid-reader-panel, red-team-critic, culture-researcher,
 market-pitch-agent. Plus the /new-book-outline skill and the book-studio
 plugin packaging.
+
+## 2026-09-10 — showrunner 2.4.2: the card reads like a letter
+
+The author, on the ch 16 card: "Remember the summaries before the
+chapter need to read easily. Sometimes it reads like a list of
+things." The card template (kit 12) had asked for "what has
+happened, in chapter numbers," and every card since ch 9 carried a
+run of beats with parenthetical chapter numbers and labeled
+"Wound:" / "False belief:" lines. Kit 12 amended: the "so far" is
+two or three sentences of story; chapter numbers only for what
+comes next; no labels inside paragraphs; the ear test. Showrunner
+2.4.2 carries the rule. The ch 16 card rewritten as the model.
+
