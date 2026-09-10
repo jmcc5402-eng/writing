@@ -1151,3 +1151,42 @@ important watching (taste entry 15; the dossiers' ladders, rows
   Friday's sheet, the loss ball, the caption, Tick's sign-off; B's
   and C's best lines banked. STATE: the fourth-chapter sweep is due.
 
+## 2026-09-10 — ch 16 RECUT on the author's #156 comments (MINOR PR)
+
+- The annex opens warm: his cap with nowhere to go, her laugh at
+  nothing he could find, "You stood in that window like a
+  lighthouse." / "she's going to think I'm signaling ships." / "You
+  were signaling ships. One."; the county going by her cracked
+  window, her name twice and his four times, nobody shouting; the
+  look held too long; "You shaved," which was not news to either of
+  them; "I'm claiming half." His feelings at every turn: the loss
+  in his chest where it will sit all winter, and under it glad; the
+  low chair and the size of himself in her room; "nobody had ever
+  let him stop before"; what let go a notch. The kiss slowed to six
+  sentences of approach — he stands, she comes around the desk, two
+  steps, the look, his hand up slowly and "she watched it come the
+  whole way," her curls across the back of his hand "finer than he
+  had thought hair could be," the cold still in her cheek from the
+  north edge, "He held his hand there and did not do the next thing
+  yet, / because he wanted this part as much as the part after it,"
+  her breath against his wrist — then the kiss, and her hand over
+  his. The cage: four plain sentences, then he thinks — her wrist,
+  the terms, "a woman who had read everything on him and had sat
+  there and not asked"; the review, the trustees, "That was before
+  this town had her in it. / If they took the job, they took the
+  lot, and the window, / and the five-fifteen sheet with the trainer
+  in earshot"; then the kid; then the marker; the last line: "Of
+  everything he had put his hand to since eleven that morning, / it
+  was the one thing he was sure of."
+- Panel 1.5.0 (the first read under the slow-beat count and the
+  awkward test): PASS — six sentences of approach; seven awkward
+  beats, charming not clumsy; every line has a want; his and her
+  faces and feelings at every turn. Sixteen line fixes applied
+  (the doubled held look; "By Monday" twice; the cage's ear; three
+  "plainly"s and three "something"s; the terms' age; his side of "I
+  saw you take the timeout"; the poster retell; the ball's last
+  sentence split so the thought gets the last word).
+- The law it made (studio): STYLE "Slow the good parts"; taste 16;
+  panel 1.5.0; brief lines THE SLOW BEAT and THE ENDING THINKS; the
+  ending check's volley runs.
+
