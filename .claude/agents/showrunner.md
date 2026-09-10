@@ -121,7 +121,10 @@ drafting starts (do not wait on a reply; a late correction is an
 addendum or a redraft). It carries: the plot, each lead's arc, the romance, the antagonist (Boyd, for
 1.2), the town, the clock;
 one paragraph each; where it stands, what this chapter moves, what
-comes next, with chapter numbers. File it at `notes/cards/
+comes next. **It reads like a letter, not a ledger (author,
+2026-09-10): the "so far" is story in two or three sentences, chapter
+numbers only for what comes next, no runs of parentheticals, no
+labels inside paragraphs; read it aloud before sending it.** File it at `notes/cards/
 chNN-card.md`, put it at the top of the PR body, and pass it to
 `studio/tools/listening-file.py` so it is the first thing the author
 hears. Template: `studio/series-kit/12-chapter-card.md`. A chapter PR

@@ -340,6 +340,14 @@ message names the work by what it does to the book ("eight small
 kindnesses across chapters 2 to 12"), never by a coined name; a
 coined name the author has not used first is a finding.
 
+**Added 2026-09-10 to entry 13 (the ch 16 card):** "Remember the
+summaries before the chapter need to read easily. Sometimes it
+reads like a list of things." Caught: the chapter card's "so far"
+as a run of beats with chapter numbers in parentheses, and "Wound:"
+/ "False belief:" as labels. Check: kit 12's letter-not-ledger rule
+— story in sentences, chapter numbers only for what comes next, no
+labels inside a paragraph; read the card aloud before it goes.
+
 ## 14. Make it an instrument, so the next book is fast
 
 > "I want this to be another instrument we use so eventually we can

@@ -1062,3 +1062,71 @@ important watching (taste entry 15; the dossiers' ladders, rows
 - SR (strike by comment): Missy's question; the hang tags; the
   window signal; "That's seven weeks."; Verna's "I rent nights."
 
+## 2026-09-10 — ch 15 ACCEPTED (#155) and folded; the author's one comment applied
+
+- The author (#155): "Good chapter, just tweak this line I don't
+  like the phrase, 'name in my mouth'." → "I've been carrying your
+  name since a hospital lounge in November, / and I've had nowhere
+  to say it." The phrase is banned in RECENT (candidate C used it
+  too).
+- Header to ACCEPTED. THREADS: the ch 15 entry; B2-T10 RUNG 8 (the
+  kiss, hers; the terms; the firewall planted — strains 20,
+  vindicates 27); B2-T11 SPENT at 15; B2-T13 second turn PAID and
+  CLOSED; B2-T12 stake 5 SPENT; F1 PAID. Ladder row 15 on the page.
+  Dossier rows 15 and arc-doc rows 15 on the page. Registry: the
+  form, Missy's order, the twenty minutes, the captains, the
+  trainer's sleeve, the hang tags, the field poles, the window
+  signal, the warm-end door, her door shut, the terms, her whole
+  smile, and the losing candidates' best lines banked. Name map: her
+  "Dan" to his face and his "Aisha" aloud, both spent at 15.
+  Anchors: Verna two. provider-partner.md §1 conformed to 15; the
+  B2-D13 check closed. STATE: ch 16 next, the third set piece.
+
+## 2026-09-10 — ch 16 DRAFTED: "December Football" (Dan · Sat Dec 19) — PR open; THE THIRD SET PIECE (the game, the loss)
+
+- Card first ("Go" — the annex for the postgame, one gap sentence, a
+  can or nothing), brief marked SET PIECE, audit E3 (BLOCK on three
+  of the brief's own sentences → corrected: Tick's anchor is his WDSS
+  sign-off on the walk, not the stadium PA; she stands at her north
+  edge of the bench, not a hash; In 4 / Out 4; the stadium's words
+  from ch 3; no "first night game"; the RV city on the fairgrounds;
+  the last play dealt per card so nobody wrote a missed kick).
+- THREE blind drafters (A: D5 weather as texture; B: D7 mid-motion;
+  C: D2 hands and objects). The panel read each blind: A 28 beats /
+  22 fixes; B 25 / 14; C 22 / 15; all PASS WITH FIXES, all both beer
+  tests YES, all hold the offstage rule and the one gap sentence.
+  **A won** (`notes/ch16-scoreboard-2026-09-10.md`): the not-looking
+  is felt hardest and the one look from forty yards is the chapter's
+  line; the gap lands on her refusing to ask; the town is in the
+  stands; the fewest slips. No grafting. B and C at
+  `notes/candidates/` with their reports; their best lines banked.
+- The page: the ice chest shut on his way by; her laugh over two
+  tailgates; WE DROVE 11 HRS FOR THIS and "his mother vetoed the
+  ticket"; the flash off the lid with her laughing at his shoulder
+  and a father's phone up for *Playoff Pics — Post Here*; "Doc." /
+  "Coach," going by; "the day's one good thing, spent before noon";
+  the bowl in coats, the suite as glass, Trey a shape in the gray
+  hoodie; **"the place he did not look / was the one place on that
+  sideline he wanted to"**; "Doctor could've signed that thing
+  Thursday. Boy's standing right there."; the one look — "and not on
+  Dan, / and that was the terms, held, forty yards apart"; the brave
+  drive dying on downs at the fifty; "Damn," under the headset;
+  VISITORS 13, ASHFORD 10 held on the video board "past the suite's
+  glass going dark"; the county "conversational. It had decided.";
+  "review"; Tick off a truck window ("Win or lose, we walk home
+  together in this county. Always have."); what he'd have told 1340
+  about her wrist; the film room lit and killed; the tape held up
+  "so he could see the nothing"; the start-and-stop; "Sit down,
+  Dan"; "I have never asked you. I'm not asking now." / **"I left
+  coaching and did relief work overseas."** / the nod she gives a
+  right number; one kiss at the door, her hand over his; "you'll
+  have to think of something else to stand in"; the cage, the loss
+  ball on the counter, the backup's name "where a winning coach
+  would have written a score," never shown. DOWN. Lint clean; ~12%
+  (the quiet band); about 3,060 words; opening check PASS; ending
+  check clean.
+- SR (strike by comment): the poster and the ticket line; the
+  album caption ("Dr. Cole at her end. Four quarters. Never sat.");
+  "watch itself be right"; the window signal's Saturday variant; the
+  tape in the trash can; the sheet's clause.
+

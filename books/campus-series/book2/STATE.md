@@ -49,31 +49,36 @@ it was true then, help for free is B2-T13, the want stays in his
 head at 14. Two rules came out of it the same day (the other lead
 has a face; no staccato endings; `ending-check.py` in the lint).
 
-**OPEN: ch 15 PR** — "Precautionary Hold" (Aisha · Wk5 Thu; THE
-SECOND SET PIECE — three blind drafters, A (D4) won; panel 23 beats,
-rung 8 hers, both beer tests YES). Listening file
-`notes/listening/ch15-2026-09-10.md`. Do not chase. **On merge, the
-fold:** THREADS ch 15 entry; B2-T10 RUNG 8 (the kiss; the terms; the
-firewall planted — strains 20, vindicates 27); B2-T11 SPENT at 15
-(the partner told); B2-T13 second turn PAID (she keeps it); B2-T12
-stake 5 spent (she is the reason, Thursday); F1 PAID (the no-go);
-the name map: her "Dan" to his face (ch 15), his "Aisha" aloud (ch
-15); registry rows (the form's words and route; Missy's notebook
-order; the hang tags and BACK ROOM; the trainer keeps the sleeve;
-the captains, unnamed; the field poles off at six; the warm-end
-door; the window signal; the firewall's words; the terms' date as
-"the first Wednesday in February"); anchors: Verna two; the
-rations ledger "Mark today" → 8; provider-partner.md §1 conformed to
-15 and its CHECK closed; the audit's `[CHECK]`s (the diploma frames;
-"the first December Saturday in this town's life" vs game-stakes).
-The registry also banks B's and C's best lines so no later chapter
-reinvents them (see the scoreboard).
+**Ch 15 ACCEPTED (#155) and FOLDED (2026-09-10).** Rung 8 reached;
+the firewall planted; the partner told; her "Dan" and his "Aisha"
+spent. The author's one comment ("name in my mouth") applied and
+the phrase banned.
 
-**Then chapter 16** — Dan · Wk5 Sat · "December Football" (SET
-PIECE: the game, the loss by a field goal, the gap-years sentence on
-the porch, the loss ball with the backup's name; B2-D15 carries all
-four stakes; B2-T05 the tailgate photo planted). Card first. Cards
-next: audit E3 (LRU), drafters D5, D7, D2 by LRU.
+**OPEN: ch 16 PR** — "December Football" (Dan · Wk5 Sat; THE THIRD
+SET PIECE — three blind drafters, A (D5) won; panel 28 beats, both
+beer tests YES). Listening file `notes/listening/ch16-2026-09-10.md`.
+Do not chase. **On merge, the fold:** THREADS ch 16 entry; B2-T01
+SPENT (the gap sentence; the banked severable line retired — it was
+in her POV); B2-T05/F4 PLANTED (the frame: her laugh, his lean, the
+flash off the ice chest; the thread *Playoff Pics — Post Here*);
+B2-T12 all four carried (the suite, "review," the eighth Saturday,
+the county's line on her); the season's outer clock closed (the
+bracket); Tick two anchors; the registry (kickoff six under the
+lights; the suite over the fifty; the stadium's lots; the window's
+Saturday variant; Friday's sheet "Step four. Holds overnight."; the
+loss ball on the counter; the album caption; the poster); the
+dossiers' rows 16 and their drink CHECKs (a can); the banked lines
+from B and C; the ch 15:97 "fourteen families" vs eleven `[CHECK]`
+(fold: fourteen counted, eleven signed, or rule); ROMANCE stage In
+4 / Out 4 on the page. **Then the fourth-chapter sweep is due**
+(ch 13–16 accepted): the instrument audit's second run and the
+rooting-for survey's second run, before ch 17's card.
+
+**Then chapter 17** — Aisha · Wk6 · "The Gray Season" (CONNECTING —
+one drafter): the exodus, the town at parking-space size, Christmas
+loud for everyone else, Birmingham (B2-T04's trip), heat 2 in the
+gray season, the window with no poles. Card first. Cards next:
+audit E4 (LRU), drafter D3 (LRU after D5/D7/D2).
 
 **Standing:** do not chase; talk plainly (taste 13); every lesson an
 instrument (taste 14); the card before the chapter (§3c).

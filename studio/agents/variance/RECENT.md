@@ -78,6 +78,11 @@ list in the agent's invocation as "banned moves this run."
   a head coach on selection day would be in a war room with his
   staff; when the page puts him on a porch instead, it SAYS he chose
   the town's way (ch 6, added 2026-09-07).
+- BANNED (author, #155, 2026-09-10, 1.2 ch 15: "I don't like the
+  phrase, 'name in my mouth'"): "[her/your/his] name in my/his/her
+  mouth" in any form — narration or dialogue. Two blind drafters
+  reached for it in one chapter. Say what the name did, not where it
+  was.
 - BANNED: giving every speaker a punchline; write one flat line for a
   named character and let it lie there.
 - QUOTA: three personifications per chapter, no more.

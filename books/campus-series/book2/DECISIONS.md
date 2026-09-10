@@ -336,7 +336,7 @@ services under contract; the university stops carrying its own
 sports-medicine line. Her stake is her JOB, never the building —
 "no nostalgia for the annex." Dan knows from ch 10 (on the page);
 she does not know until he tells her (default ch 15, before the
-kiss; `[CHECK]` at the ch 15 brief) and the town until 24.
+kiss; RESOLVED at the ch 15 brief — he tells her at 15, #155) and the town until 24.
 "Proactive risk posture" is the group's own language. Boyd never
 says "her job." The weave by chapter is in `plots/provider-partner.md`
 §3. New thread B2-T11.
