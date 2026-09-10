@@ -75,10 +75,10 @@ Stage 3 open outside since 13. High-water rung 7 (her hand on his
 arm, her answer to "no way"). **This chapter climbs to rung 8: the
 kiss.** The point of no return, at the annex, at night. Her "Dan"
 to his face for the first time; his "Aisha" out loud for the first
-time. Everything up to the first piece of clothing stays on the
-page and the scene cuts there. The terms are in his scars'
-handwriting: nothing public until the eleventh of February, when
-the class is closed and nothing this season can be traded for: the first Wednesday in February; and the firewall.
+time. The scene cuts clean at the kiss; nothing on the floor. The
+terms are in his scars' handwriting: nothing public until the class
+is closed and nothing this season can be traded for, the first
+Wednesday in February; and the firewall.
 Ends UP, cut clean. **Next:** 17, heat 2 in the gray season; 20,
 the firewall strains.
 
@@ -90,7 +90,7 @@ floor, and a win to announce it on. So far: the porch (8), the
 boards (10); his stage priced out loud by Dan (14). **This
 chapter:** not on the page. Dan tells her about the partner, before
 the kiss, so she goes into it knowing what his silence in the
-performance-center room cost her. The no-go takes his stage away
+film room, the Monday the class signed, cost her. The no-go takes his stage away
 two days before he could use it. **Next:** 19, he walks her rooms
 uninvited; 20, he names the price.
 
