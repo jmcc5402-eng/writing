@@ -104,6 +104,7 @@ and panel reads. How the two files are fed and reviewed is law in
 | 2026-09-09 | #153 comments | campus + studio | "I don't understand Dolores dialogue about a bank note paying for the hallway. That just seems really random. How does it fit in?" | An anchor built as a rhyme with a lead's arc fails if the reader has to work for it. | RULING → cut; B2-D17 (5): anchors are never rhymes with a lead's arc |
 | 2026-09-09 | #153 comments | campus + studio | "The last section doesn't even say that Ayesha is there. It just starts with saying 'she'. Also that last dialogue is way too robotic and confusing to read. It's too staccato. And it doesn't seem to do anything to help the romance or character arc" | Second time (ch 13). The establishing line names who is in the room; no staccato endings. | LAW-light → STYLE amended; taste 1 amended; `ending-check.py` in the lint; protocol "THE LAST EXCHANGE" |
 | 2026-09-09 | chat | campus | "Ok to both. Go for all" (the want stays in his head at 14; the colleague as eligibility and "it was true then") | — | DECISION → B2-D17 |
+| 2026-09-10 | #155 comment | campus + studio | "Good chapter, just tweak this line I don't like the phrase, 'name in my mouth'" | A phrase-level dislike; two of three blind drafters used it. | RULING → the line reworded in the fold ("I've been carrying your name since a hospital lounge in November, and I've had nowhere to say it."); RECENT ban |
 
 ## Part 3 — rulings already recorded in canon docs (backfilled 2026-09-04)
 
