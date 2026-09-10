@@ -156,17 +156,16 @@ kid's name on the ball a town will remember as the one they lost.
    and does not, or does and the kick is short (the audit rules
    nothing; the drafter chooses; football furniture stays light and
    true — no play-by-play, no invented terminology). Ashford loses by
-   a field goal. Aisha: at the near hash all four quarters, the
-   tape-clock on her wrist, the parka's pinned cuffs, the trainer
-   beside her; he does not walk to her; ONE look, late, from forty
-   yards, and what he can read of her at that distance (a fact, not
-   a face); the county has her name by the fourth quarter — one
-   line of it reaches him (a voice from the rail behind the bench;
-   never the board on the sideline). **Tick's ANCHOR, his second,
-   signing off the PA** (Tick Moran is the Friday-night PA voice —
-   town-ashford; the audit confirms the playoff PA is his): gist —
-   *win or lose, we walk home together; always have.* Exactly one
-   anchor. The whistle. The handshake line (one clause). The team
+   a field goal. Aisha: at her NORTH EDGE of the bench all four quarters (ch 2:
+   "The north edge is mine"; the tent behind her), the tape-clock on
+   her wrist, the parka's pinned cuffs, the trainer beside her; he
+   does not walk to her; ONE look, late, from forty yards, and what
+   he can read of her at that distance (a fact, not a face); the
+   county has her name by the fourth quarter — one line of it
+   reaches him (a voice off the CHAIN-LINK behind the bench, ch 3;
+   never "the rail" in the stadium; never the board on the
+   sideline). The stadium PA is an unnamed press-box voice (ch 3);
+   Tick is NOT on it; his anchor is on the walk (scene 3). The whistle. The handshake line (one clause). The team
    off the field. The suite emptying.
 3. **The walk home, conversational** (short — the county deciding).
    Dan's POV crossing from the stadium to the Fieldhouse through
@@ -227,7 +226,7 @@ kid's name on the ball a town will remember as the one they lost.
    before she is seen) + kind 6 (the flash — the town has the pair
    in one frame and does not know it).
 2. The game — kind 2 (the tape-clock on her wrist from forty yards;
-   the pinned cuffs) + kind 7 (the terms in the body: the hash he
+   the pinned cuffs) + kind 7 (the terms in the body: the north edge he
    does not walk to; the one look) + kind 4 (her name in the rail's
    mouth and what it does to him).
 3. The walk — kind 4 (the county's version of her, and his) + kind 8
