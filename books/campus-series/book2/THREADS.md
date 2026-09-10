@@ -36,7 +36,9 @@ docs); F## fair-play rows (b12-outline.md table governs).
 - **Edge (10 swears, leads + Mack only):** 3 spent — "Goddamn,"
   Dan, ch 4, the empty lot; "Hell of a scouting report," Dan, ch 8
   (SR-B2-12); "Hell." Dan, ch 10, the splinter; "Shit, it's cold."
-  Mackenzie, ch 11, the lot (Mack counts). **4 spent; 6 remain.**
+  Mackenzie, ch 11, the lot (Mack counts); "Damn," Dan, ch 16, under
+  the headset. **5 spent; 5 remain** (conformed at the ch 16 fold,
+  2026-09-10, per the second instrument audit F25).
   (Corrected at the ch 12 audit, 2026-09-07 — the ch 11 fold had
   logged "none spent.")
 - **Anchor lines (ch 16: Tick, his second — "we walk home together in this county"; ch 15: Verna, her second — "I rent nights"; ch 14: none — Delores's bank-note anchor was cut by the author, B2-D17(5); her plain line about the church's paper is not shaped as one; Delores stays at one):** ch 1 Earlene · ch 2 Tick · ch 3 Verna ·
@@ -54,7 +56,8 @@ docs); F## fair-play rows (b12-outline.md table governs).
   FOUR of twelve** (ch 1, 7, 9, 12 — corrected at the ch 13 audit);
   no fifth before ch 20; Peanut two (4, 10); Sonny two after ch 13.
 - **Quiet-band dialogue slots (one per quarter):** Q1 spent on
-  ch 3 (13.1%). Q2 open (ch 9 came in at 15.5% after a top-up).
+  ch 3 (13.1%). Q2 spent on ch 16 (11.9% — the game watched, not
+  talked; the annex carried the count). Q3 open.
 - **Her laugh (once heard, then known):** first heard ch 4 (#133,
   "all of it at once"); ch 6 "at one hearing" now has its hearing.
 - **Coach's-slice catchphrase** ("I'm eating it where he can

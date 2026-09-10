@@ -573,7 +573,7 @@ discuss her calls in private, so no one, including them, can
 ever say a call was softened in a kitchen. — *Pays: the
 courtship's whole ledger. Plants: the firewall (strains 20,
 vindicates 27), the "after signing day" date (tragic irony,
-F-adjacent).* *ANCHOR (Verna): the whole county wants Friday —
+F-adjacent).* *ANCHOR (Verna): the whole county wants Saturday —
 that boy needs the next sixty years.* *End: the kiss, standard
 9, cut clean.*
 
