@@ -91,7 +91,7 @@ and it liked that story better.
 
 The trainer came through her corridor at half past one
 with a roll of tape under his arm,
-and stopped in her door, and did not come in.
+stopped in her door, and did not come in.
 
 "Coach had his captains in at ten," he said. "Door open.
 I was taping in the hall."
@@ -123,7 +123,7 @@ she wanted the man who had done that and said nothing about it.
 
 At four she drove across to the Magnolia Court,
 because the clinic's last kid had gone at three
-and the turf did not want her until five fifteen.
+and nothing needed her until five fifteen.
 The lot was half plates from other states already,
 and a man at an RV door with a phone at his ear
 stopped talking when she got out of the car
@@ -139,8 +139,8 @@ She shut the book on her finger.
 "The whole county wants Saturday.
 That boy needs the next sixty years."
 
-She said it about the boy and not about the doctor,
-and not as comfort, and did not look up from the book to say it.
+She said it about the boy and not the doctor,
+and not as comfort, and did not look up to say it.
 Aisha did not say one word in her own defense.
 Verna would have heard a defense as an admission and kept it.
 
@@ -166,7 +166,7 @@ Dan read it.
 He had the jaw on him that a week put there,
 and he read the top name a long time for two lines
 he had had in her ink since eight,
-and the corner of that jaw moved once, and he looked at her over the page.
+and the corner of that jaw moved once, and he looked at her.
 He had had his captains since ten,
 and he did not say one word about it,
 and she watched him not say it, and knew,
@@ -301,7 +301,7 @@ and the university quits paying for its own.
 Your job's the price of the building.
 The athletic director nodded, Boyd smiled, and I nodded along,
 in my own room, and I've stood across a sheet from you
-every night for ten days with that in my jacket."
+ten nights since with that in my jacket."
 
 So the drawing had a name for the place her rooms were not.
 A group. A floor with six tables on it, and her job as the price,
@@ -337,7 +337,7 @@ low, with the heater under it.
 
 She took the cap out of his hand and set it on the desk behind her,
 so there was nothing in either of their hands,
-and put both of hers on the front of the jacket and pulled,
+and put both of hers on his jacket and pulled,
 and he bent, and she kissed him.
 What she had never had was the sound of him this close.
 The breath he let go through his nose against her cheek.
