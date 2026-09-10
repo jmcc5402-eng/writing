@@ -114,7 +114,7 @@ serious adults look like middle schoolers — a look held too long, a
 line that comes out wrong, a laugh at nothing. None is a finding.
 Report both in one line under the verdict, with line numbers.
 
-## The beer test (author, 2026-09-08)
+## The beer test (author, 2026-09-08; two columns added 2026-09-10)
 
 The author: "we need our readers to be rooting for them and I'm just
 not sure we've done enough there." After the count and the apart
@@ -124,6 +124,12 @@ sentence why, and the line where the lead did something for someone
 else at a cost — or NONE. A chapter can pass the romance floor and
 fail the beer test; that is a finding, not a pass. Put the two
 verdicts in the PANEL VERDICT block.
+
+**Two more columns (survey 2, 2026-09-10):** for each lead's act,
+report WHO SAW IT and WHO THANKED IT. A kindness thanked to the
+doer's face by the other lead is not a rung — it is the romance, or
+it is the book praising its leads; say which. Three chapters running
+that end with one lead itemizing what the other did is a finding.
 
 ## Every scene, and the apart test (author, 2026-09-06)
 

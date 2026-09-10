@@ -49,7 +49,10 @@ one sentence, with its chapter number.>
 about them, not as labels. Where they have got to. What this chapter
 does to them. One sentence of what they do for someone else this
 chapter, at a cost, unrewarded (author, 2026-09-08; taste entry 15)
-— said inside the paragraph, not as a bolded tag. Next: the next
+— said inside the paragraph, not as a bolded tag. "Seen" (the other
+lead's POV) means felt in that POV and never said to the doer's
+face; the card names who sees it and says nobody thanks it (survey
+2, 2026-09-10). Next: the next
 turn, in a sentence.>
 
 ## <Lead 2>'s arc

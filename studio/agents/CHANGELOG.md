@@ -433,3 +433,12 @@ of approach before the highest touch (fewer than four is a finding)
 and run the awkward test on every scene the leads share alone. STYLE
 "Slow the good parts"; taste entry 16; two brief lines; the
 ending-check now reports short-volley runs chapter-wide.
+
+## 2026-09-10 — romance-reader-panel 1.5.1: who saw it, who thanked it
+
+Survey 2 (developmental-editor, E4): the beer test passed ch 16
+while its seen rung was thanked to her face against the card's own
+wall; three chapters running ended on one lead itemizing the other's
+kindness. Two columns added to the beer test; kit 12's ROOTING FOR
+line now says "seen" means felt, never said to the doer's face.
+
