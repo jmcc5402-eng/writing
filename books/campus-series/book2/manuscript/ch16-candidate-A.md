@@ -1,0 +1,415 @@
+# Chapter 16 — December Football
+
+POV: Dan, third person limited, past tense.
+(DRAFT — candidate A, first draft. Drafted per plots/brief-ch16.md
+with its AUDIT ADDENDUM and notes/cards/ch16-card.md; variance card
+D5, weather as texture, never as topic.)
+
+---
+
+> **On Grapevine, the Ashford parents' board —**
+>
+> **PieBeforeKickoff:** Eleven hours in the car and both kids asleep on
+> the coolers by Chattanooga. We're in the lot by seven. Blue flag on
+> the tent. Come find us and bring your own chair.
+
+
+The ice chest came off a tailgate in the stadium's lots on two men's
+hands and went down on the asphalt hard enough to jump the lid,
+and Dan Merritt, crossing the lots at eleven
+because a head coach crossed them before a home game
+and he had decided in June to be the coach who did,
+bent and shut it for them on his way by.
+The sun was low for the hour and white in the lid of everything,
+and his breath went out ahead of him between the trucks.
+Six o'clock, under the lights, was still seven hours off.
+The nineteenth had come in the shape the county had spent since June
+saying it would, every room in town sold,
+plates from three states nosed in along the rows,
+an eighth Saturday in a town that made its year on seven.
+Trey Gault was in his own clothes today, a student,
+on a paper the county had had since Thursday
+with the doctor's full signature under it.
+What it cost Dan was on a table in February,
+where the trustees would call his contract by whatever word
+tonight earned it.
+
+He heard Aisha before he saw her.
+Her laugh came over two tailgates all at one time,
+the one from a hospital lounge in November,
+and he came around a truck bed and there she was,
+in the parka with the cuffs pinned and the lanyard out over it,
+walking the stadium's medical plan at eleven
+because she walked it every home game,
+whether the county wanted her in the building that day or not.
+The cart at the northeast tunnel, the dock under the north stands,
+the spine board on the fence, the airway kit,
+and the lots between her building and all of it,
+so she came through the lots.
+
+A father from three states off had a boy of eight or nine
+standing on the ice chest with a poster-board sign over his head,
+WE DROVE 11 HRS FOR THIS in marker,
+and the father had his phone up for it.
+
+"He wanted it to say eleven hours and a speeding ticket, Dr. Cole,"
+the father said, "and his mother vetoed the ticket."
+
+That was what she had laughed at.
+Dan leaned in toward the sign to read it,
+and the lid of the ice chest threw the sun back up into all of them
+off the kid's boots, one hard white flash,
+and the father's phone was still up.
+
+"Doc," Dan said.
+
+"Coach," she said, going by.
+
+She went past him toward the north stands, close,
+the parka's nylon going along his sleeve,
+and her breath stayed in the air where she had been,
+and he walked through it and did not look after her.
+The father's thumb went across his phone.
+The thread pinned at the top of the parents' board since seven,
+*Playoff Pics — Post Here*, had been filling with the lots all morning.
+He had crossed the lots at eleven to be seen crossing them.
+He had not crossed them to hear that laugh in the open,
+and he had heard it,
+and that was the day's one good thing, spent before noon.
+
+***
+
+At six, under the lights, Dan stood at the bench with the headset on
+and the script cards in his hand, the bowl full over him,
+ninety thousand in coats,
+and Aisha Cole forty yards down at the north edge of the bench
+with the trainer beside her and the tent's gray nylon at her back.
+The cold came up out of the turf through his shoes and stayed,
+and every bank of lights had a ring around it
+where the breath of the bowl had gone up and stopped.
+Across the field the suite over the fifty was lit and full,
+glass, people behind it with drinks in their hands,
+the men who had paid for what was cued on the video board
+for the end of the night,
+and one of the shapes in the glass was Rex Boyd,
+by where it stood and who stood near it,
+because from the field a suite gives you a shape and nothing else.
+Behind the bench, between the team and the chain-link,
+Trey stood in the gray hoodie with the hood up and a coat over it,
+a shape the team came back to the bench past all night.
+The backup went out for the first snap with the first team,
+and Dan watched him set his feet.
+
+Neither side had a quarterback the other side was afraid of,
+and the first half showed it.
+Three points each, and punts,
+and one long drive of theirs that died at the ten on a dropped ball,
+the county on the chain-link behind him finding its voice
+and putting it away again.
+The backup did what the cards asked and nothing past it,
+which was what Dan had asked.
+
+He did not walk to the north edge.
+There was no reason to. Nobody was down.
+Nobody gave her a reason to walk on,
+and the tape on her left wrist, white under the lights from forty yards,
+stayed blank.
+He did not look down there either.
+There was a whole county on a fence at his back
+and a suite full of glass across the field,
+and two days of terms in his jacket with Friday's sheet,
+and the place he did not look
+was the one place on that sideline he wanted to.
+
+Ashford's touchdown came in the third,
+on a drive the backup did not have to throw on,
+the line moving people and the backs going in behind them,
+and the bowl came up out of its coats for it.
+Ten to three.
+
+Their touchdown came at the top of the fourth,
+ten all, and the county on the chain-link went quiet
+and then did not,
+and the first line of it with her in it came over the fence
+in a voice Dan did not turn around for.
+
+"Doctor could've signed that thing Thursday.
+Boy's standing right there."
+
+It was not said to him. It was said for him,
+and what it did to him he kept under the headset,
+which was the one place on that sideline nobody could read.
+He did not answer it. He called the next play.
+
+Their kick went through with a minute fifty-two on the clock,
+and the three went up on the video board over the ten,
+and he looked.
+Once, late, down the bench, forty yards to the north edge,
+and what forty yards gave him was fact and not face.
+She was standing. She had stood all four quarters,
+because there was no chair on that end of the bench
+and she would not have taken one.
+The tape on her left wrist was white and had nothing on it.
+Her curls were down. Whatever had held them at six had quit.
+The trainer beside her had his eyes on the field,
+and she had hers on the field too, on the boy going out
+with a minute fifty-two, and not on Dan,
+and that was the terms, held, forty yards apart,
+and he took the look back and put it on the field.
+
+The backup took them out from their own twenty-five
+with a minute fifty-two and two timeouts,
+and it was a brave drive and a short one.
+A swing pass for eight. A run for six.
+Then the kid stood in on third and long with a man coming
+and put one over the middle that a receiver went up and got,
+twelve yards, with somebody on his back,
+and the bowl came up on its feet and put its breath over the field
+all at once and left it there,
+and the county on the chain-link hit the fence with its hands.
+Midfield. Under a minute.
+Then the pocket went bad twice running,
+a throw away and a throw that fell short,
+and on third down the kid ran for three
+and got the ball to the fifty and no farther,
+and Dan took the last timeout with nineteen seconds
+and called the fourth-down play he had had since Tuesday
+for a kid who had had it three days.
+The kid threw it where it was supposed to go.
+The receiver got a hand on it and no more,
+and the ball went down on the turf on their side of the fifty
+and lay there, and the officials waved it dead,
+and that was the season.
+
+"Damn," Dan said, under the headset, to nobody.
+
+They took a knee twice and the clock ran itself out.
+Visitors thirteen, Ashford ten.
+
+He shook the other coach's hand at midfield
+and said the two things a man says there,
+and came back through the handshake line
+with the headset down around his neck,
+and the video board held the final,
+VISITORS 13, ASHFORD 10, white on black,
+and went on holding it,
+past the line, past the team going in,
+past the suite's glass going dark behind the men
+who had paid for the next thing on it.
+Dan knew what had been cued behind that score. It stayed behind it.
+Trey went in with the team, in the middle of it, the hood up,
+one more shape going up the tunnel,
+and the county came down off the chain-link and started for the gates.
+This one the county had decided on Thursday,
+and had only come tonight to watch itself be right.
+
+***
+
+At a quarter past ten Dan came out of the stadium's north side
+with the headset bag in one hand and his cap on,
+shaved at five that morning for the cameras
+that had had him six minutes in a hallway and let him go,
+and walked into the county leaving.
+The lots were headlights and doors going shut,
+the out-of-state families folding tents by phone light
+and getting on the road for the hotel block,
+and Millrow's low end had the locals on it, walking,
+up past the annex and the Fieldhouse,
+and Dan walked with them as far as the Fieldhouse, where the truck was.
+
+The county was talking.
+It was not shouting and it was not quiet;
+it was a county in coats going up a street with its hands in its pockets,
+talking about the catch and the drive and the kick,
+and about her,
+easy, and a county that shouts is still arguing.
+This one was conversational. It had decided.
+He had stood in front of a fence for four quarters
+and this was worse than the fence.
+Missy Gault came up the sidewalk with Denny a step behind her,
+his hands in his coat and his mouth shut,
+and she said, "Coach," and Dan said, "Missy. Denny,"
+and Denny nodded and did not say a word,
+and they went on up Millrow ahead of him,
+with the letter that was going after Christmas
+somewhere between the two of them, untouched.
+Two men in front of him, locals,
+had her without lowering their voices.
+
+"She'll have him cleared for the spring game. That'll be nice."
+
+"She might."
+
+Nobody said it to Dan's face. It was said a yard in front of it.
+By Monday the athletic director would have a word for February,
+and Dan already had it,
+because he had said it himself in her corridor on Tuesday
+with a box in his arms.
+Go out in the first round with Trey sitting and it's a review.
+He had been right.
+He looked at his phone once, under the light at the Fieldhouse corner,
+and the newest thing in the album
+was the north end of the bench from up in the stands,
+a navy parka and a white wrist, and under it,
+*Dr. Cole at her end. Four quarters. Never sat.*
+He put the phone in his jacket with the week's sheets.
+
+A truck went by him slow with its window down and WDSS on,
+one radio, and Tick Moran had the score,
+in the voice he kept flat for the ones he did not like reading.
+
+"Thirteen to ten, friends, and that's the year.
+Win or lose, we walk home together in this county. Always have.
+This is WDSS, Ashford."
+
+The window went up and took him with it.
+Dan would have liked to stop the truck and put his head in it
+and tell 1340 that the doctor had walked the emergency plan at eleven
+for a game she had already lost the county over,
+and that what the county had to show for her tonight
+was a kid standing up in a gray hood and not lying down anywhere.
+He walked to the Fieldhouse.
+
+***
+
+The poles over the practice field had never come on.
+There had been no last period out there to light.
+What lit the lot between his building and hers all night
+was the stadium, its banks throwing light over the north stands
+and across the asphalt,
+and at half past ten they were still on for the crews,
+so Dan went up to the film room and turned its light on
+and stood in the window with the lot white under him and waited,
+and when the stadium went dark and the lot went with it,
+he turned the film room off, and went down,
+and crossed to the warm-end door with his cap in his hand.
+
+Aisha was at her desk at the warm end of the annex at eleven,
+the heater going, the parka on the chair behind her,
+and Dan came in by the outside door beside her office,
+and she got up and shut her door behind him.
+There was a can of seltzer open on the desk, hers, the only one.
+Her curls were down. The tape was still on her left wrist.
+She looked at him, at the jaw he had shaved at five for the cameras,
+and at his eyes, and stayed there.
+
+"You walked," she said.
+
+"Up Millrow with everybody. Truck's at the Fieldhouse."
+
+"I heard them go by the window. They were talking."
+
+"They were."
+
+She held his eyes a moment longer, her brows up a little,
+and then she peeled the tape off her wrist,
+one strip, white, blank end to end,
+and held it up between two fingers so he could see the nothing,
+and dropped it in the can by the desk.
+
+"Four quarters," she said. "Not one time on it.
+That's the good news from my end of the bench, and it's all of it."
+
+"It's not all of it," he said. "The kid stood in there.
+Third and long with a man coming, and he put it where it went."
+
+"I saw it. I saw you take the timeout."
+Something came into her eyes at that, not a smile, near one.
+"You'd had that play since Tuesday."
+
+"Since Tuesday. He'd had it three days. If I'd had him three—"
+
+He stopped there.
+The end of that sentence was in a place the two of them had agreed
+not to go, two nights ago, in this room,
+and she watched him stop, and let him,
+her face very still and her eyes not,
+and did nothing to help him finish it and nothing to make him.
+
+"Sit down, Dan," she said.
+
+He sat, with the cap on his knee.
+
+"I read everything there was on you the week I took this job,"
+she said. "There's a hole in the middle of it you could drive a truck through,
+and the board has had a monk in it since before I got here,
+and I have never asked you.
+I'm not asking now."
+
+He looked at the heater, and at her, and gave it to her.
+
+"I left coaching and did relief work overseas."
+
+He did not put a second sentence behind it,
+and she did not reach past it for one.
+Her eyes stayed on his face,
+and something in her mouth eased,
+and she nodded, once, small, the nod she gave a right number,
+and that was all she did with it.
+
+"Tick signed the county off on a truck window going up Millrow,"
+he said, "and I'd have liked to put my head in
+and tell him about your wrist."
+
+"What about it."
+
+"That it had nothing on it for four quarters,
+and that's yours,
+and nobody up on that fence is going to say so."
+
+She looked down at the bare wrist,
+the pale band where the tape had been,
+and back up at him,
+and she smiled with her mouth shut and let her eyes do the rest.
+
+"You came across that lot to tell me about a piece of tape."
+
+"I came across it because the lot went dark."
+
+"Then it's a good thing the stadium has a switch."
+
+He stood, and she stood,
+and at the door he kissed her once with his hand at the side of her face,
+and her hand came up over his and kept it there after.
+
+"Aisha," he said, "I've got one more thing to do in my building
+tonight, and it isn't film."
+
+"Then go and do it. I'll be at this desk tomorrow night
+with the poles off and the stadium dark,
+and you'll have to think of something else to stand in."
+
+"I'll think of something."
+
+He went out by the warm-end door he had come in by,
+and the lot was dark from one end of it to the other,
+and he crossed it.
+
+***
+
+The equipment cage in the Fieldhouse at midnight had the dryers going
+and WDSS under them on the manager's radio,
+Tick gone off the air and a song on in his place,
+and Dan came in with the game ball in one hand off the managers' cart
+and Aisha's Friday sheet in his jacket with the rest of the week's,
+Step four. Holds overnight.
+The detergent was in the air with the heat off the dryers,
+and the ball still had the factory on it.
+The manager had gone home.
+The laundry loop sheet lay on the counter with a marker on top of it.
+Nobody kept a loss ball.
+There was no shelf for one and no sentence for handing it to anybody,
+so it had gone back on the cart with the rest of them,
+and he had taken it off.
+He set it on the counter under the light and uncapped the marker
+and wrote the backup's name across the panel
+where a winning coach would have written a score,
+in block letters, the same hand that had typed it
+onto the first-team line on Tuesday at six in the dark,
+and the name went on the ball and nowhere else.
+The kid would never see it.
+Dan had not written it for him to see.
+He capped the marker and set it back on the loop sheet,
+and stood there a while with the dryers going,
+and the ball sat on the counter with the kid's name up, drying,
+where the manager would find it in the morning.
