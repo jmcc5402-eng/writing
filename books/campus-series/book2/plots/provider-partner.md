@@ -24,7 +24,7 @@ window" is the group's medical director's. The consultant's phrase,
 their materials), which is why it turns up word for word in the
 complaint letter at 23. Nobody ever says "her job" out loud. Dan
 understands it in the film room at 10. She does not know the partner
-exists until Boyd walks her rooms at 19; what she knows now is that
+exists until Dan tells her at 15, before the kiss (#155; B2-D13's default held); at 19 Boyd walks her rooms with it already known. What she knows before 15 is that
 the memo said "relocation in a subsequent communication," and a
 doctor reads that as "we have not decided whether you exist."
 
@@ -55,7 +55,7 @@ doctor reads that as "we have not decided whether you exist."
 | 10 (accepted) | The "later board" is the partner board: a regional group runs the floor and provides physician services under contract; the university stops carrying that line. Dan hears whose line it is. At the check, her "Did you ask?" is decoded in his head: she is asking whether there is a job for her in that drawing. At home: he had known since morning that the building went in over her rooms and her job went with them. | ~14 lines, in this PR |
 | 11 | She says the want out loud to women; she does NOT know about the partner yet. Kat may say what the town says about "big news after the first of the year." No change to the brief beyond that. | brief line |
 | 12 | The board's leak; nothing. | — |
-| 13–15 | The exertion test; the truth of the decade; the no-go and the kiss. At 15, in the annex, he tells her what he knows — the partner — BEFORE the kiss, as part of backing her call at cost (the outline's "the values split closes a visible inch" moves here from 19, or 19 keeps its boxes). `[CHECK at the ch 15 brief: which chapter he tells her; default 15, so the kiss is not built on his silence.]` | brief |
+| 13–15 | The exertion test; the truth of the decade; the no-go and the kiss. At 15, in the annex, he tells her what he knows — the partner — BEFORE the kiss, as part of backing her call at cost (the outline's "the values split closes a visible inch" moves here from 19, or 19 keeps its boxes). RESOLVED (#155): 15, before the kiss, in ch 10's words; the kiss is not built on his silence. | brief |
 | 19 | Boyd walks her rooms with the partner's clipboard; "Lists write themselves"; her name "came up" out west. Now it reads as an exit offered to a doctor already replaced on paper. | brief |
 | 20 | Boyd names the price to Dan; unchanged. | — |
 | 23–24 | The letter with the vendor's phrase; the suspension "pending independent review" announced the same week the partner is announced (Tick's "big news," landed). The Table says it. | brief |

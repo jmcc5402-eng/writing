@@ -22,10 +22,10 @@ docs); F## fair-play rows (b12-outline.md table governs).
 | F8/RH2 | Denny Gault, loudest voice, obvious complaint author — DECLARED red herring | ch 4: **Denny AUTHORED the "just asking for clarity on the evaluation timeline" thread** (ruled, sweep Q3) + **ch 6 (the DECEMBER letter is his own draft, on his phone, and Dan refuses it in public)** + 12 | cleared **ch 28** — **and the letter he refuses to sign is the JANUARY one**, the same campaign rewritten by other hands (ch 18, "Eleven Families," where his name is absent from the eleven). Two letters, not one; the December draft is his and honest, the January rewrite is not his and is the knife | OWED |
 | F10 | The walk-on stays on merit | honest signal ch 3 (one line: the backup package the walk-on ran all week) + **ch 6 SPENT (the December letter never names him; Dan names him — "That letter's about Marisol Pruett's boy losing his spot" — and refuses; F10's rehearsal logic starts here)** + 12, 18 | **ch 28** | OWED |
 | F13 | The county's official wrong story as engine thesis | ch 1 (square kiss retold fondly, wrong, uncorrected — "It's how we tell it") | **ch 23** aimed, **ch 28** corrected | OWED |
-| B2-T10 | The romance's ladder (plots/romance-arc.md, CANON #130): stage 2 "admitted inside" reached ch 5 (hers) and ch 8 (his); stage 3 OPENED INSIDE ch 11 (#139: "I want Dan," to the women) / opens outside ch 13 / RUNG 7 ch 14 (hers) | ch 5, ch 8 | the build check runs before ch 11, 13, 15, 27 briefs | ch 2 fight shown — DONE (#132); ch 4 one more exchange — DONE (#133). Both earning scenes for ch 8's want are on the page. |
-| B2-T11 | The provider partner (B2-D13): a sports-medicine group takes over team physician services with the pledge; her job is the price | ch 10 (Dan hears "the university stops carrying that line"; "Dan knew whose line it was") | he tells her **ch 15** (default) before the kiss; announced **ch 24** the week of the suspension; the phrase beside the group's own notice **ch 27**; the deal stalls with the pledge **27–28**; handed to 1.3 | live — OWED: ch 15 (he tells her); ch 24 (the announcement) |
-| B2-T12 | The stakes of the nineteenth (B2-D15): the win is Boyd's STAGE (the announcement on the field); Dan's extension priced (February agenda; "a review"); the town's second December; her double bind said once | ch 13 (the town's money; the announcement sighted) · ch 14 (1, 2, 5 in Dan's mouth; the athletic director's line 14/15) | **ch 16** the loss carries all four · **ch 20** Boyd's price pays the stage · **ch 24** the athletic director signs · **ch 27** extension off the agenda | PLANTED ch 13 (stake 4 said by Verna; stake 1 sighted via the coordinator) · ch 14 PAID (1 as a reminder and 2 in Dan's mouth, the athletic director's sentence verbatim; 5 in HERS — "If I sign and he goes down, I'm done.") — OWED 16, 20, 24, 27 |
-| B2-T13 | Help for free: every man who helped her in a building wanted a thing for it; she quit asking (B2-D17) | ch 11 (wine night, the plant) | ch 14 the truck ("What's it going to cost me"), the story told outward as proof, the turf ("I'm telling you I noticed.") · ch 15 she lets him spend something on her | PAID ch 14 (#154) — second turn OWED ch 15 |
+| B2-T10 | The romance's ladder (plots/romance-arc.md, CANON #130): stage 2 "admitted inside" reached ch 5 (hers) and ch 8 (his); stage 3 OPENED INSIDE ch 11 (#139: "I want Dan," to the women) / opens outside ch 13 / RUNG 7 ch 14 (hers) / RUNG 8 ch 15 — THE KISS, hers; the terms; the firewall planted | ch 5, ch 8 | the build check runs before ch 11, 13, 15, 27 briefs | ch 2 fight shown — DONE (#132); ch 4 one more exchange — DONE (#133). Both earning scenes for ch 8's want are on the page. |
+| B2-T11 | The provider partner (B2-D13): a sports-medicine group takes over team physician services with the pledge; her job is the price | ch 10 (Dan hears "the university stops carrying that line"; "Dan knew whose line it was") | he tells her **ch 15** (default) before the kiss; announced **ch 24** the week of the suspension; the phrase beside the group's own notice **ch 27**; the deal stalls with the pledge **27–28**; handed to 1.3 | SPENT at 15 (#155 — told before the kiss, in ch 10\'s words) — OWED ch 24 (the announcement), 27, 27–28 |
+| B2-T12 | The stakes of the nineteenth (B2-D15): the win is Boyd's STAGE (the announcement on the field); Dan's extension priced (February agenda; "a review"); the town's second December; her double bind said once | ch 13 (the town's money; the announcement sighted) · ch 14 (1, 2, 5 in Dan's mouth; the athletic director's line 14/15) | **ch 16** the loss carries all four · **ch 20** Boyd's price pays the stage · **ch 24** the athletic director signs · **ch 27** extension off the agenda | PLANTED ch 13 (stake 4 said by Verna; stake 1 sighted via the coordinator) · ch 14 PAID (1 as a reminder and 2 in Dan's mouth, the athletic director's sentence verbatim; 5 in HERS — "If I sign and he goes down, I'm done.") · ch 15 stake 5 SPENT (she is the reason, Thursday) — OWED 16, 20, 24, 27 |
+| B2-T13 | Help for free: every man who helped her in a building wanted a thing for it; she quit asking (B2-D17) | ch 11 (wine night, the plant) | ch 14 the truck ("What's it going to cost me"), the story told outward as proof, the turf ("I'm telling you I noticed.") · ch 15 she lets him spend something on her | PAID ch 14 (#154) · second turn PAID ch 15 ("So I'm keeping it.") — CLOSED; the firewall is what she built over it |
 | F6 | The hookup leak chain (outline F6): the rings shown ch 11, the artifact ch 12 | ch 11 (the phone down the rail) · **ch 12 PAID** (the screenshot; "Who types a pause?") | dignity repair 18–30 | PAID ch 12; the sub-couple's exposure carries |
 | F7/RH1 | The board decodes the vaguepost as the coach and the doctor (declared red herring) | **ch 12 PLANTED** ("The story was him and her."; the honest signal: a crew cab with four doors, and Coach's has two — Earlene, relayed) | **ch 13** dies at the Table offstage | **CLEARED ch 13** (Verna, at the window) |
 | S01 | Cordelia (series) | room nine IS Cordelia's room — Aisha lives in it (SR-B2-2, ruled at #106) | letter beats from ch 9 | live, light |
@@ -39,7 +39,7 @@ docs); F## fair-play rows (b12-outline.md table governs).
   Mackenzie, ch 11, the lot (Mack counts). **4 spent; 6 remain.**
   (Corrected at the ch 12 audit, 2026-09-07 — the ch 11 fold had
   logged "none spent.")
-- **Anchor lines (ch 14: none — Delores's bank-note anchor was cut by the author, B2-D17(5); her plain line about the church's paper is not shaped as one; Delores stays at one):** ch 1 Earlene · ch 2 Tick · ch 3 Verna ·
+- **Anchor lines (ch 15: Verna, her second — "I rent nights"; ch 14: none — Delores's bank-note anchor was cut by the author, B2-D17(5); her plain line about the church's paper is not shaped as one; Delores stays at one):** ch 1 Earlene · ch 2 Tick · ch 3 Verna ·
   ch 4 Peanut · ch 5 Sonny ("Brains aren't a part you can order
   twice") · ch 6 Delores, on the porch (first playoff in this
   town's whole life — pray for whoever has to say no to any of
@@ -96,7 +96,7 @@ docs); F## fair-play rows (b12-outline.md table governs).
   bare) · "Neither of them stepped back" now SPENT TWICE (ch 5, ch 8)
   — not at ch 13's climb · ch 9 apart (texture only: the coat cut for a big man; his hands remembered) · ch 10 rung 5 held (his POV: her hands out of the sleeves, the pins, breath into the same light; the sheet hand to hand) · **ch 11 rung 5 held, new sense** (the field on him across a yard of December air, in her POV; the sheet; "Sleeve stays on") — stage 3 OPENS INSIDE ("I want Dan," to the women) ·
   ch 13 near-miss · ch 15 the kiss (kiss chart ceiling). Mark
-  today: **5** (ch 6 played at 3; the high-water mark holds).
+  today: **8** (ch 15 the kiss, #155; 6 at ch 13, 7 at ch 14 — the ledger had lagged at 5 since ch 6).
 - **"Somebody's ___" (narration, once per BOOK — B2-D06):** SPENT
   ch 1 ("Somebody's grandmother appeared at her elbow"). Debt on
   accepted pages: ch 3 ×2 (air horn, trombone) → polish pass.
@@ -502,6 +502,81 @@ his captains at cost before she knows (rung 2 of his ladder, unspent
 here); the partner (B2-T11); her "Dan" to his face and his "Aisha"
 aloud; she lets him spend something on her (B2-T13's second turn);
 the kiss (rung 8). 17 — Birmingham's trip.
+
+### Ch 15 — Precautionary Hold (ACCEPTED #155, 2026-09-10; THE SECOND SET PIECE — three blind drafters, A won; the author's one comment applied in the fold)
+Introduces: the no-go on paper — her pen out of the parka's inside
+pocket, her whole name on a printed form ("a paper that took a boy
+off a field got a signature and not initials"), the wording "not
+cleared for competition on the nineteenth," step three, holds
+overnight; photographed on the tablet to the athletic director with
+Merritt copied; the chart the long way (**F1 PAID**; **B2-T12 stake
+5 SPENT** — she is the reason on Thursday, two days early, "so the
+Gaults and the team had two days to stand in it instead of one");
+the call to Missy first, in the Fieldhouse lot with a pen ("What
+step does it say he's on." / "Then that's the order I'll give it to
+him in. The step, then the rest. He's got nine minutes left in
+there." — the meeting room's twenty minutes, ch 5's promise, used;
+Denny unmentioned); Trey's step three on the turf at eleven;
+DeeAnn's three sentences ("Interesting season. Interesting choices.
+Praying for the boys.") and Rhonda's whip count at fourteen families
+with the doctor as its new subject ("Coach has not said one word
+against her all week"); **the captains, secondhand** — the trainer
+with the cart in the hall at ten ("not one of them looked up. That
+bunch always has something to say in a hall." / "7 sits Saturday on
+the doctor's paper and the paper's right. Anybody with a different
+opinion brings it to him. Nobody brought him one."), the cost "for a
+day. Two."; "wanted him for it, plainly… and would not have said so
+to the women, or to a chart, or to him" (**B2-T13 second turn
+PAID**: "I'd hand it back if I knew how. I don't. So I'm keeping
+it."); the Magnolia Court's printed hang tags for every windshield
+through Saturday, a tow truck Friday, hers reading BACK ROOM; Verna's
+ANCHOR, her second ("The whole county wants Saturday. I sold it every
+room I've got. That boy needs the next sixty years. I rent nights. I
+know what one's worth, and I know what it isn't."); Verna: "He's not
+here, and you'll notice I didn't say who."; thirty-four cuts for her
+first at the near hash and the sleeve comes off, cutting cleared —
+"It's my sentence to revise"; the trainer keeps the sleeve; DeeAnn
+from the practice lot ("34 cut tonight with nothing on his leg. So
+she can clear a boy. Just not ours."); the field poles off at six
+with the last period; **the window** — his lit window across the
+black lot going dark, her count to a hundred and thirty, the
+warm-end outside door; "Till the poles went off. It's the only time
+that lot's dark enough."; thirty-four through the shower line twice;
+**B2-T11 SPENT** — the partner told, before the kiss, in ch 10's
+words ("A sports-medicine group runs the floor of that building and
+the team's doctors work for the group, and the university stops
+carrying that line. His words. I knew whose line it was. Your job's
+the price of the building… gave the consultant the nod"); "You knew
+it was my job, and you nodded." / "I nodded."; "That should have
+been the thing that put him out of this office… and it was not.";
+her palm flat on her own door, "Every door in his building stood
+open by his rule. This one was hers"; **the name spends**: "Dan… I
+am not putting you out." / "Aisha… I've been carrying your name
+since a hospital lounge in November, and I've had nowhere to say
+it." (the author struck "name in my mouth," #155). Romance (**B2-T10:
+RUNG 8 — THE KISS, hers**): "She crossed the room. It had never been
+far."; his jaw under her palm, five days of it; his hands on her,
+"warm, bigger than she had planned for, and still"; the height as a
+fact in her body; "When it stopped, his hands did not."; **THE
+TERMS**: his — nothing anybody can see till the class is closed, the
+first Wednesday in February ("That's seven weeks." / "…and I hate
+it"); hers — **THE FIREWALL PLANTED** ("We never talk about a call of
+mine anywhere but across that sheet at five fifteen with the trainer
+in earshot… So nobody can say a call got softened somewhere private,
+and nobody means you, and it means me. I built the protocol so it
+didn't need Trey to tell me the truth. I'm building this one so it
+doesn't need us to." — strains 20, vindicates 27); "You'd have
+lost." / "I'd have liked losing it."; the window signal ("I'm going
+to stand in that window till the poles go off, every night till
+February." / "I'll be at this desk. I'll know when it goes dark.");
+her whole smile, "the one he had never had across a sheet." Ends UP
+on the kiss, the door shut on her say-so. Edges: none (6 remain).
+Dialogue 30%. Hands forward: 16 — the game, the loss by a field goal,
+Trey in street clothes, the backup's brave almost, the gap-years
+sentence on the porch (B2-T01), the loss ball with the backup's name,
+B2-T05 the tailgate photo, B2-D15 all four stakes; the firewall's
+first night (Friday's sheet at 5:15 like any other); the window. 17 —
+Birmingham; heat 2.
 
 ## New canon recorded at this fold
 

@@ -1062,3 +1062,23 @@ important watching (taste entry 15; the dossiers' ladders, rows
 - SR (strike by comment): Missy's question; the hang tags; the
   window signal; "That's seven weeks."; Verna's "I rent nights."
 
+## 2026-09-10 — ch 15 ACCEPTED (#155) and folded; the author's one comment applied
+
+- The author (#155): "Good chapter, just tweak this line I don't
+  like the phrase, 'name in my mouth'." → "I've been carrying your
+  name since a hospital lounge in November, / and I've had nowhere
+  to say it." The phrase is banned in RECENT (candidate C used it
+  too).
+- Header to ACCEPTED. THREADS: the ch 15 entry; B2-T10 RUNG 8 (the
+  kiss, hers; the terms; the firewall planted — strains 20,
+  vindicates 27); B2-T11 SPENT at 15; B2-T13 second turn PAID and
+  CLOSED; B2-T12 stake 5 SPENT; F1 PAID. Ladder row 15 on the page.
+  Dossier rows 15 and arc-doc rows 15 on the page. Registry: the
+  form, Missy's order, the twenty minutes, the captains, the
+  trainer's sleeve, the hang tags, the field poles, the window
+  signal, the warm-end door, her door shut, the terms, her whole
+  smile, and the losing candidates' best lines banked. Name map: her
+  "Dan" to his face and his "Aisha" aloud, both spent at 15.
+  Anchors: Verna two. provider-partner.md §1 conformed to 15; the
+  B2-D13 check closed. STATE: ch 16 next, the third set piece.
+
