@@ -86,13 +86,15 @@ The last three openings, so the drafter can see what NOT to write:
   pulled Tuesday's practice schedule through at ten to seven / and
   laid it in the tray warm…"
 Ch 15 opens on a THING, mid-motion, that is not a sheet, a printer, a
-phone lit, a truck, a date, or a step: candidates — the scissors and
-thirty-four's sleeve (the yes before the no); the annex heater
-ticking at six with the clinic dark; Missy's seven o'clock page as
-a photograph of a notebook (the numbers that are all good, which is
-the problem); her own pen. Inside the paragraph, once each, fresh:
-Thursday; two days; Wednesday's bike HELD (default — the audit
-rules) and it changes nothing, because five is Saturday and five
+phone lit, a truck, a date, or a step: candidates — HER OWN PEN (the
+audit's safest: no earlier opening has one; it decides that the form
+is paper and says so once); the annex heater at six IF it does a new
+thing (no clank; no "at six" as the first words; it was ch 13's
+closing image); NOT the scissors (a sleeve slides; tape is what gets
+cut, and cutting tape is spent six times); NOT Missy's page as a
+photograph (spent three times; one of its lines is verbatim on ch 13). Inside the paragraph, once each, fresh:
+Thursday; two days; Wednesday's bike HELD (RULED — hers; Missy's
+page reports the night, never the bike) and it changes nothing, because five is Saturday and five
 has to hold a night, and Saturday is gone by one night; what it
 costs — say the town's price plainly, not the whole card. Then the
 day begins. `opening-check.py` runs; a FAIL is a FAIL.
@@ -121,12 +123,22 @@ then she builds the one rule that will let her keep both.
    on Sunday. Thursday is a day early for the word (ch 14: "Friday
    was the day for that word, if it came") and she says why it is
    Thursday: the family and the team get two days, not one. The
-   form: her signature, her wording — the audit rules the exact
-   words from the book's vocabulary (DECISIONS: "Precautionary
-   Hold," "Cleared"; the sheet's words so far: "Held," "Stepped
-   down," "Student"); no coaching language borrowed ("out" is the
-   county's word; she does not type it, or she types it once and
-   the page says it is the first time). **THE CALL FIRST (rooting
+   form: her signature, her wording, in her register — "not cleared
+   for competition on the nineteenth," the step he is on, "holds
+   overnight," her name at the bottom the long way. NEVER
+   "Precautionary Hold" on the form — it is the board's phrase and
+   she refused it on air (ch 8: "it is not a medical term. It isn't
+   mine"); the chapter TITLE keeps it as the county's word. "Out"
+   once at most, and the page may NOT call it the first time she has
+   said it (she said "He's out" at the tent, ch 3); what is new is
+   that it is written for Saturday under her signature. ALSO OWED
+   (audit B9): the meeting room's twenty minutes come due Thursday
+   (ch 5: "when step two holds overnight, he can have twenty minutes
+   of your meeting room, no film, no playbook, and somebody drives
+   him") — Trey is in the building at seven for them while his
+   Saturday goes on paper; one clause, offstage, he does not speak;
+   and his Thursday step (three, "football-shaped") happens
+   somewhere in a clause. **THE CALL FIRST (rooting
    for, Aisha):** before the sheet goes anywhere she calls the
    Gaults' house and tells Missy, in the words she uses, so Missy
    hears it from her and not from the board; Missy's answer is one
@@ -134,13 +146,21 @@ then she builds the one rule that will let her keep both.
    presence — DEFAULT: not on the call; Missy says he is at work or
    says nothing about him). Then the sheet to Dan — how (the audit
    rules: the printed sheet walked across the lot at the check hour
-   is spent twice; DEFAULT: she sends it the way a physician's
-   determination goes to a head coach — the form to Compliance and
-   the athletic director, a copy to him — and she does not go to
-   his office to watch him read it). **Thirty-four's sleeve comes
+   is spent twice; RULED: the form goes to the athletic director
+   (her established contact — ch 5's "medical determination" email
+   came from him and she has his address), a copy to Dan; Compliance
+   optional in one clause, no procedure invented; entered in the
+   chart the long way. She does not go to his office to watch him
+   read it. The 5:15 check still exists Thursday — two names on
+   the sheet as always — and the page may summarize it in a clause
+   or stage it from a new angle, never deny it.) **Thirty-four's sleeve comes
    off** on the same sheet (rooting for, Aisha): one yes under the
-   county's no; she tells the kid herself, at the hash or in the
-   training room, not through the coach — and it costs her the
+   county's no; she tells the kid herself, at the near hash at
+   5:15, not through the coach — a REVISION of Monday's "Sleeve
+   stays on this week" (ch 13), and the page says so in one clause;
+   he cuts for her first (ch 11's promise) and then the sleeve comes
+   off and cutting is cleared — lift both restrictions or say which;
+   he never speaks; "you" to his face — and it costs her the
    board's "she cleared one and not the other" by afternoon.
 2. **The county, midday** (short — the town turning, said plainly,
    no montage). The board's politeness sharpens: the three-word
@@ -148,14 +168,16 @@ then she builds the one rule that will let her keep both.
    the boys") in a post or two from named regulars — no boy late to
    a meal, no kitchen; the parents are in other states and the hotel
    block. The whip count turns toward her: one line, hers or a
-   regular's, that the December letter (Denny's own draft — F8) has
-   a new subject; **Denny does NOT post** (add 8 holds; the audit
+   regular's, that the letter with the count on it (the January
+   campaign forming — ch 12's "11 families so far"; NOT Denny's
+   December draft; never quote its sentence) has a new subject; **Denny does NOT post** (add 8 holds; the audit
    rules his one allowed appearance — DEFAULT: none). **The trainer
-   tells her about the captains** (the audit rules the teller —
-   DEFAULT the trainer, who was in the room, cutting tape at the
-   hash or in the training room; ALTERNATIVE thirty-four, who heard
-   it from the captains): Dan brought the captains in before
-   practice, before the form reached him, and told them Trey sits
+   tells her about the captains** (RULED: the trainer, in the annex
+   clinic when he passes through, or at the 5:15 check — never "at
+   the hash at midday"; practice is at five; his register is two
+   short lines, and he says what he SAW, not the headline): Dan
+   brought the captains into his office after the form was in his
+   hand and before practice, and told them Trey sits
    Saturday on the doctor's call and that the call is right, and
    that anybody who wants to say otherwise says it to him first —
    and the room was not with him, and he took that. She was not
@@ -165,12 +187,16 @@ then she builds the one rule that will let her keep both.
    (Rung 2 of his ladder, SEEN; his "Trey" to the captains is the
    trainer's report — the naming rule holds: to the team he says
    "7"; the audit rules which word the trainer reports.)
-3. **The Magnolia Court, late afternoon** (short — the ANCHOR). The
+3. **The Magnolia Court, late afternoon** (short — the ANCHOR;
+   Thursday she is still in room nine; the back room is Friday and
+   Saturday; no cone — the cone is a home-Saturday dawn). The
    book still full through Saturday; the plates in the lot; a man
    or two who look at her now the way ch 8's did. Verna at the
    office window or the back room, flirtatious past tense: the
-   ANCHOR, her second — gist: *the whole county wants Friday; that
-   boy needs the next sixty years* — said about the boy, not about
+   ANCHOR, her second — gist: *the whole county wants Saturday; that
+   boy needs the next sixty years* (the outline's "Friday" was a
+   slip — the game is Saturday the nineteenth; showrunner's ruling)
+   — said about the boy, not about
    the doctor, and not as comfort. Exactly one anchor. Aisha does
    not defend herself to Verna. She goes back across to the annex
    because the clinic's last kid is at five, or because the sheet
@@ -190,8 +216,10 @@ then she builds the one rule that will let her keep both.
    smaller; (b) **the partner (B2-T11, told here, before the
    kiss):** Boyd's group takes over team physician services with the
    pledge; the university stops carrying her line; her job is the
-   price of the building; he heard it in the performance-center
-   room in November and nodded along, and he tells her that too
+   price of the building; he heard it in the film room the Monday
+   the class signed, ten days ago, with the boards on the marker
+   tray, and nodded along (ch 10: "The university stops carrying
+   that line." / "Dan knew whose line it was."), and he tells her that too
    — what his silence cost her and that he knew whose line it was.
    No "her replacement" in his mouth; "the group" / "the partner."
    Her face at that: not a verdict — the ch 14 shape is spent; find
@@ -203,10 +231,10 @@ then she builds the one rule that will let her keep both.
    on his arm, 14 — his POV). Her "Dan" to his face and his "Aisha"
    aloud land here — the audit rules the order; DEFAULT hers first,
    before the kiss, as the thing that starts it. **THE TERMS**,
-   after, close, said plainly, no speech: his — nothing public until
-   the eleventh (February; the season cannot be held against her
-   after it; B2-D10: "the eleventh" alone means February; no
-   "signing day"); hers — THE FIREWALL: they never discuss her calls
+   after, close, said plainly, no speech: his — nothing public until the class is
+   closed, the first Wednesday in February, when there is nothing
+   left this season can be traded for (NEVER "the eleventh" — that
+   is the annex deadline; NEVER "signing day"); hers — THE FIREWALL: they never discuss her calls
    in private, so nobody, including them, can say a call was
    softened in a kitchen. She says it as a rule she is writing, the
    way she wrote the June one; he takes it the way a man who lost a
@@ -232,7 +260,7 @@ then she builds the one rule that will let her keep both.
 ## REVERSAL — who loses what
 
 Trey loses Saturday on paper and is fine, which is worse. The town
-loses its second December and knows it by noon. Boyd loses his stage
+learns by noon that its eighth Saturday will be spent on a loss. Boyd loses his stage
 two days out. Dan loses his locker room for a day and gets the
 doctor. Aisha loses the county's "safe" for good, gains a man, and
 gives up the last thing she had: the right to decide alone. The
@@ -293,7 +321,8 @@ four" in her head and to Dan (ch 11); to the kid's face she says
 "you" — no name is on any page (the audit confirms; do not invent
 one). The captains: "the captains" / "his captains" — no names, no
 number of them. Verna Poteat: "Verna"; her "my winter doctor" is
-spent (13) — she may say "Doctor" or "honey." The athletic director:
+spent (13) — she may say "Doctor" or nothing; NEVER "honey" (Kat's
+one-person name for Aisha). The athletic director:
 "the athletic director," never "the AD." The partner: "the group" /
 "the partner" / "Boyd's people," never a name, never "her
 replacement." Compliance: "Compliance." Boyd: "Boyd."
@@ -345,3 +374,36 @@ replacement." Compliance: "Compliance." Boyd: "Boyd."
   chapter. Spend the words there. The no-go is short because the
   arithmetic already said it; the county is short because it is
   three words and a whip count; the motel is one anchor.
+
+---
+
+### CH 15 — AUDIT ADDENDUM (2026-09-10, card E1) — BLOCK → applied
+
+The full audit is `notes/ch15-brief-audit-2026-09-10.md`; its
+numbered rulings (§1–§14) are LAW for all three drafters and are
+incorporated above where the brief said "the audit rules." The
+showrunner's rulings on its three open checks: (B3) the terms' date
+is the first Wednesday in February, in Dan's own words, never "the
+eleventh," never "signing day"; the card is corrected. (§6) Verna
+says Saturday, not Friday. (§2) Compliance does not receive the form
+unless one clause says so; the athletic director does, and Dan.
+
+The drafters read §13 of the audit (E1's spent-shapes list) before
+writing one line: "not a verdict," "there and gone," "no way" as his,
+"the first time" in any form, "a foot of air," "no cart," "nothing
+to argue," "quiet in the good way," "She let it come the whole way,"
+"It was a good thing to want," "put it where she could reach it,"
+"a photograph of the notebook," "typed it standing," the unfilled-
+silence shape, "his voice came down," the heater or the whiteboard as
+the last image, the name volley as two one-word lines, "She shut the
+door." as a one-line paragraph, "It was on purpose," "reached up" /
+"came down" / "his mouth was at" as the kiss verbs, "Coach brought
+the captains in…" as the trainer's headline. The kiss's new sense is
+one the book has never had in her POV: his mouth; his hands on her;
+the Thursday jaw under her hand; his smell indoors; the sound of him
+in a small room; the height as a fact in her body.
+
+Owed at the fold: romance-arc row 14's cell fixed (done in this PR);
+THREADS rations ledger "Mark today: 5" → 7; provider-partner.md §1
+(still says she learns at 19 — conform to 15); the CHECKs in B2-D13
+and provider-partner.md:58 closed.

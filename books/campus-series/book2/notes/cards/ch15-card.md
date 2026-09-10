@@ -78,7 +78,7 @@ to his face for the first time; his "Aisha" out loud for the first
 time. Everything up to the first piece of clothing stays on the
 page and the scene cuts there. The terms are in his scars'
 handwriting: nothing public until the eleventh of February, when
-the season can no longer be held against her; and the firewall.
+the class is closed and nothing this season can be traded for: the first Wednesday in February; and the firewall.
 Ends UP, cut clean. **Next:** 17, heat 2 in the gray season; 20,
 the firewall strains.
 
@@ -98,10 +98,10 @@ uninvited; 20, he names the price.
 
 **The town.** The letter campaign turns its whip count toward her
 (December's letter is Denny's own draft; the January one is not
-his). Verna's anchor: the whole county wants Friday, and that boy
+his). Verna's anchor: the whole county wants Saturday, and that boy
 needs the next sixty years. Missy hears it from the doctor first.
 Denny's five nights are spent. **The clock.** Thursday, December
-17. Two days. Nothing public until February 11.
+17. Two days. Nothing public until the first Wednesday in February.
 
 ## Open before the brief
 
