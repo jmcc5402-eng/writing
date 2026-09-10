@@ -46,11 +46,13 @@ and the card); the orchestrator renames the winner.
 
 **Two days into the terms, in front of the whole county, they do not
 look at each other — and the reader feels every time they don't.**
-In 3 / Out 4: the stage moves from "shown between them" to "seen" —
-not by them, by a phone: the tailgate frame. The ladder plays
+In 4 / Out 4 (romance-arc row 16; the inside leads by at most one
+stage): the stage is "seen" — not by them, by a phone: the tailgate
+frame; the town half-sees from 17. The ladder plays
 TEXTURE (rungs 1–5 as the day allows: her sighted across a field;
-the tape-clock on her wrist read from forty yards; the hash he does
-not walk to), no new high (rung 8 is the ceiling until 27's claim).
+the tape-clock on her wrist read from forty yards; her north edge of
+the bench, which he does not walk to — there is no hash in the
+stadium), no new high (rung 8 is the ceiling until 27's claim).
 Then the postgame, the one place nobody can see: the annex's warm
 end, the lot emptied, her office, the window signal in its third
 night — and the thing he gives her is the gap: ONE sentence, whole,
@@ -65,8 +67,8 @@ equipment cage, the loss ball, the backup's name written on it,
 DOWN (15 ended UP).
 
 **WOVEN:** she is in every scene of his — the tailgate (the flash);
-the sideline (the tape-clock on her wrist, the hash, the parka with
-the pinned cuffs, the one time he looks and the one time he does
+the sideline (the tape-clock on her wrist, her north edge, the parka
+with the pinned cuffs, the one time he looks and the one time he does
 not); the walk home (her name in the county's mouths by the fourth
 quarter, and his silence on it); the annex (present); the cage (the
 sheet in his jacket — Friday's, the firewall's first — or nothing
@@ -121,9 +123,12 @@ kid's name on the ball a town will remember as the one they lost.
    Saturday (say that he chose to, one clause — he is the coach who
    is there for it). Aisha is there for a reason the page says (the
    audit rules: Verna's towels; a parent who flagged her down; the
-   emergency-plan walk that morning; DEFAULT: she is walking the
-   stadium's medical plan at eleven — the ambulance gate, the tent,
-   the AED — and the tailgates are between her and the annex). **THE
+   emergency-plan walk that morning; RULED: she is walking the
+   stadium's medical plan at eleven, in daylight — the cart at the
+   northeast tunnel, the ambulance dock under the north stands, the
+   spine board on the fence, the airway kit (ch 3) — and the lots'
+   tailgates are between her and the annex; the RV city is on the
+   fairgrounds, seen or known, not crossed). **THE
    FRAME (B2-T05/F4), taken on the page, small, exact contents once,
    verbatim thereafter:** her laugh, his lean, the flash off an ice
    chest, a parent's phone, for the board's playoff-album thread
@@ -164,8 +169,11 @@ kid's name on the ball a town will remember as the one they lost.
    anchor. The whistle. The handshake line (one clause). The team
    off the field. The suite emptying.
 3. **The walk home, conversational** (short — the county deciding).
-   Dan's POV on the way from the stadium: the county walking home
-   together, talking, in the shape the outline gives — not shouting,
+   Dan's POV crossing from the stadium to the Fieldhouse through
+   the county still draining — the locals up Millrow past the annex,
+   the out-of-state parents to the lots and the hotel block; "home"
+   is never his destination: the county walking home together,
+   talking, in the shape the outline gives — not shouting,
    not silent; "conversational, which is worse" — SAY it in his
    terms once. Missy and Denny (seen; Denny silent; Trey with them
    or not — the audit rules); the board's album filling in real time
@@ -209,7 +217,8 @@ kid's name on the ball a town will remember as the one they lost.
    the name or the cage light — a full sentence, DOWN, and NOT a
    wry button, NOT antithesis, NOT a character traveling home alone
    (the ban is on the shape, not the place: he may be in the cage;
-   he may not drive home on the page).
+   he may not drive home on the page; the last image is NOT the
+   light going off — ch 2 and ch 6 both ended on a lamp).
 
 ## ROMANCE BEATS (one per scene, at least three, two kinds)
 
@@ -341,9 +350,12 @@ named. WDSS: "WDSS" / "1340."
 - BEVERAGE: cans and coolers at the tailgate; nothing on the
   sideline; a can or nothing at the annex; no coffee after dark; no
   bottle unless it is Tick's.
-- FURNITURE: the stadium (unnamed; the suite over the fifty; the
-  video board; the rail behind the bench; the ambulance gate and
-  the tent — ch 3); the RV city; the practice field's poles; the
+- FURNITURE: the stadium (unnamed; the bowl; ninety thousand or no
+  number; the suite over the fifty; the video board or the replay
+  board, never bare "the board"; the chain-link behind the bench;
+  the northeast tunnel and the ambulance dock under the north
+  stands; the tent on her north edge; the staff gate with Sonny
+  Dillard in two coats — ch 2–3); the RV city; the practice field's poles; the
   annex (her office at the warm end, the heater, the warm-end
   outside door, the window signal); the equipment cage (detergent,
   new leather, the dryers, WDSS underneath); the sideline jacket
@@ -357,3 +369,55 @@ named. WDSS: "WDSS" / "1340."
   and the football is furniture she never has to follow; spend the
   rest at the annex. The tailgate is a flash; the walk is three
   paragraphs; the cage is one.
+
+---
+
+### CH 16 — AUDIT ADDENDUM (2026-09-10, card E3) — BLOCK → applied
+
+The full audit is `notes/ch16-brief-audit-2026-09-10.md`; its thirty
+numbered rulings are LAW for all three drafters, and the brief above
+has been corrected where its own text was wrong (Tick is on WDSS,
+not the PA; she stands at her north edge, not a hash; In 4 / Out 4;
+the chain-link, the northeast tunnel, the dock — never "the rail,"
+"the ambulance gate," or an AED). Read the audit's §13 and items
+20–23 (the spent shapes from ch 2–15) before writing one line.
+
+**Dealt per card (the audit's convergence rulings):**
+- **A (D5, weather as texture):** the last play — the visitors kick
+  the three; Ashford's last drive dies on downs at midfield. The
+  ball in the cage: on the counter. The opening: the ice chest.
+- **B (D7, mid-motion — the establishing line still locates in
+  three lines and names her):** the last play — the drive ends in a
+  turnover. The ball: on a manager's cart. The opening: the tent
+  going up on her north edge, seen from the lots.
+- **C (D2, hands and objects):** the last play — the clock runs out
+  at the edge of range with no timeouts; the kick is never tried.
+  The ball: the shelf (ch 7's heat packs live there). The opening:
+  the ice chest, or the video board being tested at noon with the
+  slot undecoded.
+Nobody writes a missed Ashford kick as the final snap.
+
+**Fixed by ruling, all three:** kickoff at six, under the lights,
+plain — never "first night game," never "the December dark"; "first
+December" once at most, fresh, or not at all; the frame at eleven in
+daylight, the flash the sun off the ice chest's lid, a parent's
+phone, the album thread named once, no timestamp said; Trey on the
+sideline in the gray hoodie, a shape, in with the team after; the
+backup's name written and never shown (ch 14's typed-name device
+paid once); Tick on WDSS on the walk; the rendering slot rendered
+WITHOUT "instead" (the score held too long, the microphone carried
+back up the tunnel, or the board going dark — once); Boyd a shape
+in glass, no smile; "review" once, Dan's own ch 14 sentence; the
+window on a Saturday — the practice-field poles never came on, the
+stadium's banks lit the lot, he lights the film room and kills it
+when the lot is dark, said once fresh, no count; the RAV4 is under
+the north stands and not mentioned at the annex; the warm-end door
+in and out; her door shut in one clause, no palm, no rule sentence;
+a can or nothing; the firewall — the game may be spoken of, her
+paper, the step, Thursday and Trey may not; Friday's sheet reads
+"Step four. Holds overnight." and rides in the jacket with the
+week's sheets, no count; the gap — "I left coaching and did relief
+work overseas," first person, once, no country, organization,
+person, date, number, no count of his Ashford falls, not the annex
+scene's last line; no roster count; the dossier's kindness-rung
+timing (the button last) is DELIBERATE for this chapter.
