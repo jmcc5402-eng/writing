@@ -180,7 +180,13 @@ kid's name on the ball a town will remember as the one they lost.
    none — the album thread named; no post about the frame). What the
    extension's word will be by Monday: he prices it once, in his
    head, plainly ("review"). Nobody says the doctor's name to his
-   face; one person says it near him.
+   face; one person says it near him. **Tick's ANCHOR, his second,
+   HERE: his WDSS postgame sign-off, heard once on the walk off ONE
+   radio (a truck window, a phone) — never the stadium PA, never a
+   relay of forty truck radios (ch 6, ch 8 spent).** Gist: *win or
+   lose, we walk home together; always have.* His flat voice "for
+   final scores" (ch 2) may be echoed once, fresh. Exactly one
+   anchor.
 4. **The annex, the warm end, late** (the middle-long scene — the
    quiet). The lot emptied; the poles off; the window signal (the
    audit rules the mechanics of the third night: he crosses when the
