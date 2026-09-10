@@ -245,7 +245,7 @@ loses his stage; the donors lose the announcement they came for;
 the athletic director loses "formality" for "review." The town loses
 its December on the one Saturday it had, and walks home together
 anyway (Tick). Aisha loses the county's "safe" for good, in public,
-and does not leave the hash. Dan loses the game and keeps the rule
+and does not leave her north edge. Dan loses the game and keeps the rule
 — and gets, out of it, the one night he says the sentence.
 
 ## ARC BEATS
