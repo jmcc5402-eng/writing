@@ -43,13 +43,15 @@ has five docs); the ROOTING FOR line in every card and brief; panel
 CANON (#150). The eight rooting-for adds across ch 2–12 MERGED
 (#152).
 
-**OPEN: ch 14 PR** — "The Rule Has Reasons" (Dan · Wk5 Tue;
-CONNECTING, one drafter on D6; panel P1 ABOVE THE FLOOR, the first
-beer test: Dan YES, Aisha MAYBE by design). Listening file
+**OPEN: ch 14 PR (#153), RECUT on the author's comments** — "The Rule
+Has Reasons" (Dan · Wk5 Tue; CONNECTING, one drafter on D6; recut
+per B2-D17: the question at the truck, the stakes between them, the
+decade told outward as proof, her hand as the answer; panel re-read
+ABOVE THE FLOOR, 29 beats; beer test Dan YES, Aisha YES). Listening file
 `notes/listening/ch14-2026-09-09.md`. Do not chase. **On merge, the
 fold:** THREADS ch 14 entry; B2-T03 SPENT (the decade told whole, the
 severable line on the page); B2-T04 sighted 14 (Birmingham), trip
-17; B2-T12 stakes 1, 2, 5 said in his mouth; ladder row 14 at rung 7
+17; B2-T12 stakes 1, 2 in his mouth and 5 in hers; B2-T13 planted ch 11, asked and paid ch 14 → SPENT; ladder row 14 at rung 7
 (hers; his bare forearm; cold and weight); registry rows per the
 manifest (the first-team line; Mt. Nebo's fellowship hall and its
 locked end room; Delores's key on a ribbon; the transfer log; the

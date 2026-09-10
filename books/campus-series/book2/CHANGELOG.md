@@ -2,6 +2,16 @@
 
 Manuscript-affecting changes, newest first. (Hard rule 6.)
 
+## 2026-09-09 — ch 11: the help-for-free plant (MINOR edit; B2-D17 item 3)
+
+Three lines added inside Aisha's "other thing" speech at the wine
+night, directly after "I've never been fired. I've never been kept,
+either.": "Every man who ever helped me in a building wanted a thing
+for it. / The good ones just took longer to say what. / So I quit
+asking." Nothing else in ch 11 touched. Plants B2-T13, which ch 14
+asks to his face at the truck and answers on the turf. Ordered by
+the ch 14 RECUT (`plots/brief-ch14.md`), the author's #153 comments.
+
 ## 2026-09-05 — ch 8 RE-CUT (at the gate; the first romance-first chapter)
 
 Executes `plots/recut-briefs-ch05-08.md` §CH 8 in its romance-first
@@ -940,3 +950,50 @@ important watching (taste entry 15; the dossiers' ladders, rows
   first-team line; "She and I were together that fall"; "Student." as
   the sheet's word; the sheet "still curled from her pocket";
   Delores's key and count; the backup's-cost clause.
+
+## 2026-09-09 — ch 14 RECUT on the author's #153 comments (same PR, before merge)
+
+- The author: the story "too abrupt… needs some sort of prompting";
+  the boxes "too dry… looking at each other, smiling at each other";
+  the stakes talk first, "and as they discussed back-and-forth, it
+  leads to him disclosing"; the old story "exactly the same as this
+  story"; her reply "too cold… almost seems like she's a robot";
+  Delores's bank note "random"; the last section never names her and
+  is "too staccato." Chat: he helps because she wants help without
+  asking anything back; the story is his proof, "somewhat externally,
+  saying that there's no way they could get together." B2-D17.
+- The new section 2: "Because boxes." → her half smile, the left side
+  of her mouth → "What's it going to cost me… Nobody's ever helped me
+  in a building for free." → "That's what they all say first." → the
+  tarp and the straps ("The tarp's for the paper.") → she catches him
+  looking; dust on the wrong cheek and he lets her → "Tell me what
+  Saturday is to you. Not to the team. To you." → the trustees, the
+  athletic director's sentence verbatim → her own stake in her mouth
+  ("If I sign and he goes down, I'm done.") / "I know the math." →
+  "I asked you at the door. What do you want out of me." → "Nothing.
+  There's no way, Doc." → the decade: the colleague on the academic
+  side, "the one who said who was eligible"; "together that fall, and
+  it was true"; "There's always a screenshot, and this one was true.";
+  "Nothing's happened here. Nothing has… It was us then. It'd be us
+  now." → the one POV line ("It was the one thing he had said in that
+  room that was not true, the no way") → her attention, all of hers →
+  Missy's page, Birmingham → her hand: "He had said there was no way,
+  and her hand on his arm was what she had to say to that." Delores's
+  bank note cut for a plain line about the church's own paper. The
+  turf names her in line two and pays the plant: "you didn't ask me
+  for one thing back… I'm telling you I noticed." and the whole
+  smile, "there and gone before the trainer looked up."
+- Ch 11 plant (MINOR, logged above): three lines at wine night.
+- Panel re-read (P1, scoped): ABOVE THE FLOOR, 29 beats (from 19),
+  all eight kinds, 9/13/7; the disclosure is prompted ("backed in,
+  twice"); "no way" plus the POV line reads as romance; Aisha's beer
+  test YES (from MAYBE); Dan YES. Seven line-level fixes applied: the
+  fourth half smile cut (motif, not tic: born, again, absent, whole);
+  "scared of it, standing a foot off you"; the turf list said plain;
+  "There's always a screenshot" restored; "whole difference" and a
+  third "heard" cut; the truck line matched to the plant. Lint clean;
+  33%; about 3,000 words; opening check PASS; ending check clean.
+- Instruments the same day (studio): STYLE "the other lead has a
+  face" and "no staccato endings"; the establishing line names who
+  is in the room; `ending-check.py` in the lint; protocol lines THE
+  OTHER LEAD'S FACE and THE LAST EXCHANGE; taste 1 and 15 amended.

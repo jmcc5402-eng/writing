@@ -495,6 +495,24 @@ Where the rule bites:
    is in the POV's hand — inside its first three lines, in plain
    words ("a printed sheet of paper," "back in her office at the warm
    end of the annex"). Mid-motion is fine; unlocated is not.
+   **AMENDED (author, 2026-09-09, #153: "The last section doesn't
+   even say that Ayesha is there. It just starts with saying
+   'she'"):** the establishing line also names WHO is in the room —
+   the other lead by name before any pronoun for them.
+   **The other lead has a face (author, 2026-09-09, #153: "it's a
+   little too cold… It almost seems like she's a robot"; the same
+   note on ch 13):** in the POV lead's scenes the other lead's FACE
+   is on the page at every turn of the talk — eyes, a half smile, a
+   look away and back. "She did not move" or "said nothing" with no
+   face is a blank, and a blank reads as cold. Keep the lines; add
+   the face.
+   **No staccato endings (author, 2026-09-09, #153: "that last
+   dialogue is way too robotic and confusing to read. It's too
+   staccato. And it doesn't seem to do anything to help the romance
+   or character arc"; the same note on ch 13):** a chapter's last
+   exchange is full sentences, and it moves the romance or an arc.
+   Two-word volleys close a scene in the middle of a chapter, never
+   the chapter. `studio/tools/ending-check.py` warns.
 6. **A lead is named in the other lead's POV.** "The doctor" and
    "the coach" are the chorus's words and the POV lead's private
    register; the name still appears at least once in narration per
