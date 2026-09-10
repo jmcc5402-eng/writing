@@ -289,3 +289,19 @@ never a speech, never thanked twice.
   said plainly, once); 11 (the shave, the jaw, the hair — one
   noticing beat per chapter, at most one of them hands); 15 (the
   whole table).
+
+### Survey 2 (2026-09-10) — what rows 17–20 owe him
+
+The line (14) and the ball (16) are one rung in two halves, and the
+captains (15) are for her — so every kindness since 13 is also
+evidence in his own case. The cooler shut on his way by (16) is the
+only one the plot cannot use; that is the size the next ones need.
+- **18: Ty's marker, with the beneficiary named as Mackenzie** — the
+  card says plainly whose name he is keeping out of the room; Ty
+  says "Coach."; she never learns.
+- **20: the coordinator.** The week Boyd says "re-sequenced," Dan
+  tells him in one sentence to have his own name out before the
+  portal closes and not to wait on February for Dan's sake, and does
+  not say it twice; the coordinator answers with a joke. Costs Dan the
+  one man who would sit beside him at the trustees. Not row 26's
+  "straight takes longer than loyal." `[TK name: the coordinator.]`
