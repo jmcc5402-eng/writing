@@ -92,6 +92,15 @@ finding). Started at the wave-1 fold (2026-08-30).
 | Peanut's last call | rings the bell on the rail once: "That's it. Settle up. Lot's icy. Mind the step." (Book One's "Last call meant something in this town once" NOT reused) | ch 11 |
 | The doorway | Mackenzie Doyle (the admissions director, folders on one hip, in the Fieldhouse for signing week) and Ty Beaumont (the receivers coach), a coat handed over, a laugh, a second longer than the handing took; titles only on the ch 10 page | ch 10; names RULED B2-D12 |
 
+| Tuesday's practice schedule | one page off the printer under Dan's office window, four periods, minutes down the left margin; the doctor's 5:15 half hour in his own typing; **the backup's name on the first-team line through Friday** (ch 14, typed at six; paper only; the coordinator reads it twice and says nothing) | ch 14 |
+| The F-150 at the annex | backed to the outside door at the cold end by the records room; tailgate down; straps for the boxes, a tarp for the paper; the bed takes them three high | ch 14 |
+| The records room, emptied | four cabinets open to the bottom drawers; forty-one boxes, taped, numbered in Aisha's hand in black marker; sealed only; the brown sleeves of film and KNEES, 1994 stay; the transfer log on the tablet — box number, the hall, the date, her initials — before anything moves | ch 14 |
+| Mt. Nebo's fellowship hall | Mt. Nebo Missionary Baptist; the hall runs the church's back side, kitchen pass-through at one end; the locked Sunday-school room at the far end holds the boxes along the wall in order and the church's own paper "back to the year they poured this floor"; one key, on a ribbon, Delores's; her legal-pad count in and out; "Doctor, you get a copy of this. Nobody else does." Verna and Delores arranged it by phone (ch 7's call) | ch 14 |
+| Delores's aldermen | the third Tuesday; she counts boxes "with the pen and not with her face, and she would count that room the same" | ch 14 |
+| Her half smile | the left side of her mouth; Dan's view; born at "Because boxes," again at the tarp, absent after the decade, the whole smile on the turf "there and gone before the trainer looked up" — a motif at four; do not add a fifth without a reason | ch 14 |
+| The decade, true shape | separated first; the colleague on the academic side, "the one who said who was eligible. Her name on a form, or a kid didn't dress."; together that fall, true; the screenshot true; a class found in October "same as it found them for anybody"; sat down a year; "I got a season. She got a different life." (B2-D17) | ch 14 |
+| Tuesday's sheet | "Student." under Trey Gault's name; into the jacket with Monday's ("Stepped down.") — the ninth sheet | ch 14 |
+
 ## Name map (who calls whom what — STYLE "Names are relationships"; started 2026-09-07)
 
 | Character | Narration | Who says what | The one-person name |
@@ -101,3 +110,5 @@ finding). Started at the wave-1 fold (2026-08-30).
 | Dan Merritt | "Dan" / "Merritt" | Aisha: "Coach" (aloud); in her head "Merritt" through ch 12 and **"Dan" from ch 13, after the test** (author, #147: "She needs to say Dan's name… too many pronouns… too cold") — "Merritt" survives only where she is the doctor at him; "Dan" once aloud to the women (ch 11), not yet to him (ch 15's); the town: "Coach" / "Coach Merritt"; Boyd: "Coach" | Aisha's "Dan" — in her head from 13, to him from 15 |
 | Mackenzie Doyle | "Mackenzie" (her own POV, ch 11) | the Fieldhouse: "the admissions director"; the board (ch 12+): a title, never a name | Ty's "Mack" — said once, in the dark; "Nobody else called her that. / She had told him so once, and he had kept it." (ch 11) |
 | Ty Beaumont | "Ty" / "the receivers coach" (ch 11, in her head: "Ty Beaumont, receivers") | Dan: "Ty" (ch 12, aloud); Ty to Dan: "Coach" / "Morning, Coach"; the board: "the receivers coach"; Mackenzie: "Ty" | — (open: who gets a name for him that only they use) |
+| Delores Fountain-Mabry | "Delores" / "Delores Fountain-Mabry" once | Dan: "Miss Delores"; she: "Coach," "Doctor" | Dan's "Miss Delores" |
+| The colleague (ten years ago) | "her" / "a woman on the academic side" — never a name, title, or state | the board: "a woman on the same staff" (ch 2) | — |

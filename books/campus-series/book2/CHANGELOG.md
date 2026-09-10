@@ -997,3 +997,68 @@ important watching (taste entry 15; the dossiers' ladders, rows
   face" and "no staccato endings"; the establishing line names who
   is in the room; `ending-check.py` in the lint; protocol lines THE
   OTHER LEAD'S FACE and THE LAST EXCHANGE; taste 1 and 15 amended.
+
+## 2026-09-10 — ch 14 ACCEPTED (#153; the recut #154) and folded
+
+- Header to ACCEPTED. THREADS: the ch 14 entry; B2-T03 SPENT (the
+  decade told outward); B2-T04 PLANTED (Birmingham sighted, undated);
+  B2-T12 paid at 14 (1 and 2 in his mouth, 5 in hers); B2-T13 PAID,
+  second turn owed 15; B2-T10 rung 7 (hers). Ladder row 14 on the
+  page. Dossier rows 14 on the page (Dan's CHECK resolved: paper
+  only; the counter NEW moved later). Arc-doc Aisha row 19: the
+  first accepted help, in public. Registry: the schedule, the
+  truck, the records room, Mt. Nebo's hall and its key, the aldermen,
+  her half smile (a motif at four), the decade's true shape,
+  Tuesday's sheet; name map: Delores, the colleague. Anchors: none
+  at 14 (Delores stays at one). STATE: ch 15 next, the second set
+  piece.
+
+## 2026-09-10 — ch 15 DRAFTED: "Precautionary Hold" (Aisha · Thu Dec 17) — PR open; THE SECOND SET PIECE (the kiss)
+
+- Card first (the first card since B2-D17; "Go"), brief marked SET
+  PIECE, audit E1 (BLOCK → addendum: the terms' date is the first
+  Wednesday in February, never "the eleventh"; no "Precautionary
+  Hold" on the form — she refused the phrase on air; the meeting
+  room's twenty minutes come due Thursday; the trainer's report at
+  the check, never at a midday hash; Verna says Saturday; no "honey";
+  the partner told in ch 10's words; the build check's row-14 cell
+  fixed).
+- THREE blind drafters (A: D4 a minor character's competence — Missy;
+  B: D3 plain sentences; C: D1 sound-forward). The panel read each
+  blind: A 23 beats / 17 fixes; B 22 / 12; C 20 / 14; all PASS WITH
+  FIXES, all rung 8 in her POV with a sense the book never had, all
+  both names inside full sentences, all both beer tests YES. **A
+  won** (`notes/ch15-scoreboard-2026-09-10.md`): the reader watches
+  her choose him twice before the kiss — his lit window across the
+  black lot going dark, her count to a hundred and thirty; then "I'd
+  hand it back if I knew how. I don't. So I'm keeping it." — and Dan
+  has a face at every turn. No grafting. B and C at
+  `notes/candidates/` with their reports.
+- The page: the pen out of the parka's pocket, "a paper that took a
+  boy off a field got a signature and not initials"; Missy in the
+  Fieldhouse lot with a pen ("Then that's the order I'll give it to
+  him in. The step, then the rest. He's got nine minutes left in
+  there."); the trainer with the cart in the hall ("not one of them
+  looked up. That bunch always has something to say in a hall.");
+  "wanted him for it, plainly"; Verna's hang tags and BACK ROOM;
+  Verna's second anchor ("I rent nights. I know what one's worth, and
+  I know what it isn't."); thirty-four cuts and the sleeve comes off
+  ("It's my sentence to revise"); the window going dark, the count;
+  "Till the poles went off. It's the only time that lot's dark
+  enough."; "I'd hand it back if I knew how. I don't. So I'm keeping
+  it."; the partner told ("Your job's the price of the building… I
+  nodded."); "That should have been the thing that put him out of
+  this office… and it was not."; her palm flat on her own door;
+  **"Dan… I am not putting you out."** / **"Aisha… I've had your name
+  in my mouth since a hospital lounge in November, and nowhere to put
+  it."**; the kiss — his hands on her, "warm, bigger than she had
+  planned for, and still"; "When it stopped, his hands did not."; his
+  terms ("the first Wednesday in February… and I hate it"), hers (the
+  firewall: "I built the protocol so it didn't need Trey to tell me
+  the truth. I'm building this one so it doesn't need us to."); "You'd
+  have lost." / "I'd have liked losing it."; the window he will stand
+  in every night till February. UP. Lint clean; 29.9%; about 2,940
+  words; opening check PASS; ending check clean.
+- SR (strike by comment): Missy's question; the hang tags; the
+  window signal; "That's seven weeks."; Verna's "I rent nights."
+

@@ -12,8 +12,8 @@ docs); F## fair-play rows (b12-outline.md table governs).
 |---|---|---|---|---|
 | B2-T01 | The gap years (S11 rider): seven missing seasons; board theories bloom, never confirmed | ch 1 ("the Wikipedia years" hype-thread speculation) | **ch 16** postgame porch (severable line banked) | OWED |
 | B2-T02 | The coat: the re-badged staff parka was HIS spare | ch 7 | **ch 29** via the equipment manager | planted ch 7; **the reader knows from ch 10 (Dan's POV)**; Aisha learns ch 29; the manager's line banked |
-| B2-T03 | The scandal's true shape (B2-D17): separated first; the colleague was eligibility, not medicine; it was TRUE then; the colleague paid worse | ch 2 (the board's WRONG version on the page: "a wife at home… sat him down for a year… came back leaner") | **ch 14** the annex, before PONR | OWED |
-| B2-T04 | The Birmingham second opinion | ch 17 | **ch 28** Missy | not yet planted |
+| B2-T03 | The scandal's true shape (B2-D17): separated first; the colleague was eligibility, not medicine; it was TRUE then; the colleague paid worse | ch 2 (the board's WRONG version on the page: "a wife at home… sat him down for a year… came back leaner") | **ch 14** the annex, before PONR | **SPENT ch 14 (#154)** — told outward as proof ("There's no way, Doc."); the board's ch 2 version stands uncorrected in public |
+| B2-T04 | The Birmingham second opinion | ch 14 (SIGHTED, undated: "the Gaults have booked a second opinion. Birmingham. After the game." — Missy's page, under the hours) · ch 17 (the trip) | **ch 28** Missy | PLANTED ch 14 — OWED 17, 28 |
 | B2-T05 | The tailgate photo | ch 16 | **ch 23** | not yet planted |
 | B2-T06 | The Cordelia letter (S01) | ch 9 | **ch 25** reread | PLANTED ch 9 (#134) — OWED ch 25 |
 | B2-T07 | The complaint's authorship (the consultant's pet phrase) | ch 10 | **ch 27** decode | PLANTED ch 10 (#137, "proactive risk posture") — OWED ch 27 |
@@ -22,10 +22,10 @@ docs); F## fair-play rows (b12-outline.md table governs).
 | F8/RH2 | Denny Gault, loudest voice, obvious complaint author — DECLARED red herring | ch 4: **Denny AUTHORED the "just asking for clarity on the evaluation timeline" thread** (ruled, sweep Q3) + **ch 6 (the DECEMBER letter is his own draft, on his phone, and Dan refuses it in public)** + 12 | cleared **ch 28** — **and the letter he refuses to sign is the JANUARY one**, the same campaign rewritten by other hands (ch 18, "Eleven Families," where his name is absent from the eleven). Two letters, not one; the December draft is his and honest, the January rewrite is not his and is the knife | OWED |
 | F10 | The walk-on stays on merit | honest signal ch 3 (one line: the backup package the walk-on ran all week) + **ch 6 SPENT (the December letter never names him; Dan names him — "That letter's about Marisol Pruett's boy losing his spot" — and refuses; F10's rehearsal logic starts here)** + 12, 18 | **ch 28** | OWED |
 | F13 | The county's official wrong story as engine thesis | ch 1 (square kiss retold fondly, wrong, uncorrected — "It's how we tell it") | **ch 23** aimed, **ch 28** corrected | OWED |
-| B2-T10 | The romance's ladder (plots/romance-arc.md, CANON #130): stage 2 "admitted inside" reached ch 5 (hers) and ch 8 (his); stage 3 OPENED INSIDE ch 11 (#139: "I want Dan," to the women) / opens outside ch 13 | ch 5, ch 8 | the build check runs before ch 11, 13, 15, 27 briefs | ch 2 fight shown — DONE (#132); ch 4 one more exchange — DONE (#133). Both earning scenes for ch 8's want are on the page. |
+| B2-T10 | The romance's ladder (plots/romance-arc.md, CANON #130): stage 2 "admitted inside" reached ch 5 (hers) and ch 8 (his); stage 3 OPENED INSIDE ch 11 (#139: "I want Dan," to the women) / opens outside ch 13 / RUNG 7 ch 14 (hers) | ch 5, ch 8 | the build check runs before ch 11, 13, 15, 27 briefs | ch 2 fight shown — DONE (#132); ch 4 one more exchange — DONE (#133). Both earning scenes for ch 8's want are on the page. |
 | B2-T11 | The provider partner (B2-D13): a sports-medicine group takes over team physician services with the pledge; her job is the price | ch 10 (Dan hears "the university stops carrying that line"; "Dan knew whose line it was") | he tells her **ch 15** (default) before the kiss; announced **ch 24** the week of the suspension; the phrase beside the group's own notice **ch 27**; the deal stalls with the pledge **27–28**; handed to 1.3 | live — OWED: ch 15 (he tells her); ch 24 (the announcement) |
-| B2-T12 | The stakes of the nineteenth (B2-D15): the win is Boyd's STAGE (the announcement on the field); Dan's extension priced (February agenda; "a review"); the town's second December; her double bind said once | ch 13 (the town's money; the announcement sighted) · ch 14 (1, 2, 5 in Dan's mouth; the athletic director's line 14/15) | **ch 16** the loss carries all four · **ch 20** Boyd's price pays the stage · **ch 24** the athletic director signs · **ch 27** extension off the agenda | PLANTED ch 13 (stake 4 said by Verna; stake 1 sighted via the coordinator) — OWED ch 14 (1, 2, 5 in Dan's mouth), 16, 20, 24, 27 |
-| B2-T13 | Help for free: every man who helped her in a building wanted a thing for it; she quit asking (B2-D17) | ch 11 (wine night, the plant) | ch 14 the truck ("What's this going to cost me?"), the story told outward as proof, the turf ("you asked for nothing") | OWED → ch 14 |
+| B2-T12 | The stakes of the nineteenth (B2-D15): the win is Boyd's STAGE (the announcement on the field); Dan's extension priced (February agenda; "a review"); the town's second December; her double bind said once | ch 13 (the town's money; the announcement sighted) · ch 14 (1, 2, 5 in Dan's mouth; the athletic director's line 14/15) | **ch 16** the loss carries all four · **ch 20** Boyd's price pays the stage · **ch 24** the athletic director signs · **ch 27** extension off the agenda | PLANTED ch 13 (stake 4 said by Verna; stake 1 sighted via the coordinator) · ch 14 PAID (1 as a reminder and 2 in Dan's mouth, the athletic director's sentence verbatim; 5 in HERS — "If I sign and he goes down, I'm done.") — OWED 16, 20, 24, 27 |
+| B2-T13 | Help for free: every man who helped her in a building wanted a thing for it; she quit asking (B2-D17) | ch 11 (wine night, the plant) | ch 14 the truck ("What's it going to cost me"), the story told outward as proof, the turf ("I'm telling you I noticed.") · ch 15 she lets him spend something on her | PAID ch 14 (#154) — second turn OWED ch 15 |
 | F6 | The hookup leak chain (outline F6): the rings shown ch 11, the artifact ch 12 | ch 11 (the phone down the rail) · **ch 12 PAID** (the screenshot; "Who types a pause?") | dignity repair 18–30 | PAID ch 12; the sub-couple's exposure carries |
 | F7/RH1 | The board decodes the vaguepost as the coach and the doctor (declared red herring) | **ch 12 PLANTED** ("The story was him and her."; the honest signal: a crew cab with four doors, and Coach's has two — Earlene, relayed) | **ch 13** dies at the Table offstage | **CLEARED ch 13** (Verna, at the window) |
 | S01 | Cordelia (series) | room nine IS Cordelia's room — Aisha lives in it (SR-B2-2, ruled at #106) | letter beats from ch 9 | live, light |
@@ -39,7 +39,7 @@ docs); F## fair-play rows (b12-outline.md table governs).
   Mackenzie, ch 11, the lot (Mack counts). **4 spent; 6 remain.**
   (Corrected at the ch 12 audit, 2026-09-07 — the ch 11 fold had
   logged "none spent.")
-- **Anchor lines:** ch 1 Earlene · ch 2 Tick · ch 3 Verna ·
+- **Anchor lines (ch 14: none — Delores's bank-note anchor was cut by the author, B2-D17(5); her plain line about the church's paper is not shaped as one; Delores stays at one):** ch 1 Earlene · ch 2 Tick · ch 3 Verna ·
   ch 4 Peanut · ch 5 Sonny ("Brains aren't a part you can order
   twice") · ch 6 Delores, on the porch (first playoff in this
   town's whole life — pray for whoever has to say no to any of
@@ -442,6 +442,66 @@ was a good thing to want." Ends UP. Edges: none (6 remain). Dialogue
 25%. Hands forward: 14 — the truck "because boxes," the decade
 (B2-T03), stakes 1, 2 and 5 in his mouth, Denny's "five nights" (the
 handful, add 8, if it stands), the athletic director's line.
+
+### Ch 14 — The Rule Has Reasons (ACCEPTED #153, 2026-09-09; RECUT on the author's comments #154 — B2-D17)
+Introduces: Tuesday's printed practice schedule with **the backup's
+name on the first-team line** for the week, typed at six in the dark
+(Dan's rooting-for rung; paper only; the cost in one clause — "by
+noon some parent in some time zone would have the sheet and a
+sentence for it"); the coordinator given the morning; the F-150
+backed to the annex's cold-end door, straps and a tarp ("The tarp's
+for the paper."); the records room emptied — forty-one boxes,
+numbered in her hand, sealed only, the transfer log on the tablet
+(box, hall, date, initials), the film and KNEES, 1994 stay;
+**B2-T13 PAID**: "What's it going to cost me… Nobody's ever helped
+me in a building for free." / "That's what they all say first." —
+and on the turf, "you didn't ask me for one thing back… I'm telling
+you I noticed."; the **help-accepted beat, PROTECTED** ("She let him
+carry it… and that was the first time." — 15's kiss stands on it);
+her half smile, the left side of her mouth (born here; again at the
+tarp; absent after the decade; the whole one on the turf); dust on
+the wrong cheek and he lets her; the stakes SAID between them
+(**B2-T12**: stake 1 as a reminder; stake 2 with the trustees and the
+athletic director's sentence verbatim, "I've got a board meeting in
+February and a donor who counts doors."; stake 5 in HER mouth, "If I
+sign and he goes down, I'm done. If I don't and you lose, I'm the
+reason." / "I know the math."); **B2-T03 SPENT** — the decade told
+outward as proof he can want nothing: separated first; the colleague
+on the academic side, "the one who said who was eligible"; "together
+that fall, and it was true"; "There's always a screenshot, and this
+one was true."; "I got a season. She got a different life. / The
+rule's got her face on it, not mine."; the difference said —
+"Nothing's happened here. Nothing has… It was us then. It'd be us
+now."; "Not in general, Doc. In the specific."; **"There's no way,
+Doc."** — and the one POV line: "It was the one thing he had said in
+that room that was not true, / the no way"; her attention, all of
+hers, not a verdict; Missy's page said to him at the annex (nine
+hours, zero this morning) and **B2-T04 PLANTED** (the Gaults have
+booked Birmingham, after the game, "under the hours"); Mt. Nebo
+Missionary Baptist's fellowship hall, the locked Sunday-school room
+at its end, Delores Fountain-Mabry with a key on a ribbon and a legal
+pad, the count in and the count out, the church's own paper behind
+the same lock since the floor was poured, "Doctor, you get a copy of
+this. Nobody else does." (NOT an anchor — Delores stays at one; the
+bank-note line was cut by the author, B2-D17(5)); the ch 7 fight
+named ("who was doing the boxing, and she had said, By myself.");
+Tuesday's sheet: **"Student."** Romance (**B2-T10: RUNG 7, hers**):
+her hand on his bare forearm as he lifts box forty-one, "no box to
+steady and no glare to fix / and nothing on his arm she needed. /
+She put it there to put it there."; cold, with weight (the new
+sense); "He had said there was no way, / and her hand on his arm
+was what she had to say to that."; he does not cover it, he has the
+box; "Forty-one. The hall. The fifteenth… Now it can move."; in the
+hall "the one place on him the cold had not gotten to / was the
+place on his forearm where her hand had been." Ends DOWN ("It was
+not an even trade. He had not made it to be one."; the backup's
+feet). Edges: none (6 remain). Dialogue 33%. Denny's five nights
+(the handful, add 8) carried: given Saturday, from her, untyped.
+Hands forward: 15 — the no-go under her signature; he backs it to
+his captains at cost before she knows (rung 2 of his ladder, unspent
+here); the partner (B2-T11); her "Dan" to his face and his "Aisha"
+aloud; she lets him spend something on her (B2-T13's second turn);
+the kiss (rung 8). 17 — Birmingham's trip.
 
 ## New canon recorded at this fold
 

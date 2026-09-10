@@ -43,30 +43,37 @@ has five docs); the ROOTING FOR line in every card and brief; panel
 CANON (#150). The eight rooting-for adds across ch 2–12 MERGED
 (#152).
 
-**OPEN: ch 14 PR (#153), RECUT on the author's comments** — "The Rule
-Has Reasons" (Dan · Wk5 Tue; CONNECTING, one drafter on D6; recut
-per B2-D17: the question at the truck, the stakes between them, the
-decade told outward as proof, her hand as the answer; panel re-read
-ABOVE THE FLOOR, 29 beats; beer test Dan YES, Aisha YES). Listening file
-`notes/listening/ch14-2026-09-09.md`. Do not chase. **On merge, the
-fold:** THREADS ch 14 entry; B2-T03 SPENT (the decade told whole, the
-severable line on the page); B2-T04 sighted 14 (Birmingham), trip
-17; B2-T12 stakes 1, 2 in his mouth and 5 in hers; B2-T13 planted ch 11, asked and paid ch 14 → SPENT; ladder row 14 at rung 7
-(hers; his bare forearm; cold and weight); registry rows per the
-manifest (the first-team line; Mt. Nebo's fellowship hall and its
-locked end room; Delores's key on a ribbon; the transfer log; the
-forty-one boxes; KNEES, 1994 stays); anchors: Delores two; arcdoc
-Aisha row 19 → "first accepted help in public"; ddan row 14's
-counter moved later; the sheet-count `[CHECK]` (Monday's was the
-eighth; Tuesday's the ninth).
+**Ch 14 ACCEPTED (#153; recut on the author's comments #154) and
+FOLDED (2026-09-10).** B2-D17 stands: the colleague was eligibility,
+it was true then, help for free is B2-T13, the want stays in his
+head at 14. Two rules came out of it the same day (the other lead
+has a face; no staccato endings; `ending-check.py` in the lint).
 
-**Then chapter 15** — Aisha · Wk5 Thu · the kiss (SET PIECE: three
-blind drafters, panel judges blind, author reads the winner). Card
-first. Inherits: the no-go under her signature; he backs it to his
-captains at cost before she knows; Dan tells her about Boyd's
-partner (default 15); her "Dan" to his face and his "Aisha" aloud;
-the firewall; rung 8. Cards next: audit E1 (LRU), drafters D4, then
-D3, D1 by LRU.
+**OPEN: ch 15 PR** — "Precautionary Hold" (Aisha · Wk5 Thu; THE
+SECOND SET PIECE — three blind drafters, A (D4) won; panel 23 beats,
+rung 8 hers, both beer tests YES). Listening file
+`notes/listening/ch15-2026-09-10.md`. Do not chase. **On merge, the
+fold:** THREADS ch 15 entry; B2-T10 RUNG 8 (the kiss; the terms; the
+firewall planted — strains 20, vindicates 27); B2-T11 SPENT at 15
+(the partner told); B2-T13 second turn PAID (she keeps it); B2-T12
+stake 5 spent (she is the reason, Thursday); F1 PAID (the no-go);
+the name map: her "Dan" to his face (ch 15), his "Aisha" aloud (ch
+15); registry rows (the form's words and route; Missy's notebook
+order; the hang tags and BACK ROOM; the trainer keeps the sleeve;
+the captains, unnamed; the field poles off at six; the warm-end
+door; the window signal; the firewall's words; the terms' date as
+"the first Wednesday in February"); anchors: Verna two; the
+rations ledger "Mark today" → 8; provider-partner.md §1 conformed to
+15 and its CHECK closed; the audit's `[CHECK]`s (the diploma frames;
+"the first December Saturday in this town's life" vs game-stakes).
+The registry also banks B's and C's best lines so no later chapter
+reinvents them (see the scoreboard).
+
+**Then chapter 16** — Dan · Wk5 Sat · "December Football" (SET
+PIECE: the game, the loss by a field goal, the gap-years sentence on
+the porch, the loss ball with the backup's name; B2-D15 carries all
+four stakes; B2-T05 the tailgate photo planted). Card first. Cards
+next: audit E3 (LRU), drafters D5, D7, D2 by LRU.
 
 **Standing:** do not chase; talk plainly (taste 13); every lesson an
 instrument (taste 14); the card before the chapter (§3c).
