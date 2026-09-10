@@ -10,11 +10,11 @@ docs); F## fair-play rows (b12-outline.md table governs).
 
 | ID | Thread | Planted | Spends | Status |
 |---|---|---|---|---|
-| B2-T01 | The gap years (S11 rider): seven missing seasons; board theories bloom, never confirmed | ch 1 ("the Wikipedia years" hype-thread speculation) | **ch 16** postgame porch (severable line banked) | OWED |
+| B2-T01 | The gap years (S11 rider): seven missing seasons; board theories bloom, never confirmed | ch 1 ("the Wikipedia years" hype-thread speculation) | **ch 16** postgame porch (severable line banked) | **SPENT ch 16 (#156)** — the annex, not a porch; one sentence in his mouth; the banked severable line (her POV) retired |
 | B2-T02 | The coat: the re-badged staff parka was HIS spare | ch 7 | **ch 29** via the equipment manager | planted ch 7; **the reader knows from ch 10 (Dan's POV)**; Aisha learns ch 29; the manager's line banked |
 | B2-T03 | The scandal's true shape (B2-D17): separated first; the colleague was eligibility, not medicine; it was TRUE then; the colleague paid worse | ch 2 (the board's WRONG version on the page: "a wife at home… sat him down for a year… came back leaner") | **ch 14** the annex, before PONR | **SPENT ch 14 (#154)** — told outward as proof ("There's no way, Doc."); the board's ch 2 version stands uncorrected in public |
 | B2-T04 | The Birmingham second opinion | ch 14 (SIGHTED, undated: "the Gaults have booked a second opinion. Birmingham. After the game." — Missy's page, under the hours) · ch 17 (the trip) | **ch 28** Missy | PLANTED ch 14 — OWED 17, 28 |
-| B2-T05 | The tailgate photo | ch 16 | **ch 23** | not yet planted |
+| B2-T05 | The tailgate photo: her laugh, his lean, the flash off the ice chest; a father's phone; *Playoff Pics — Post Here* | ch 16 (#156 — PLANTED on the page, small; nobody notices) | **ch 23** the consultant's trawl | PLANTED — OWED 23 |
 | B2-T06 | The Cordelia letter (S01) | ch 9 | **ch 25** reread | PLANTED ch 9 (#134) — OWED ch 25 |
 | B2-T07 | The complaint's authorship (the consultant's pet phrase) | ch 10 | **ch 27** decode | PLANTED ch 10 (#137, "proactive risk posture") — OWED ch 27 |
 | B2-T08 | Dan's nightly board tab — last thing before lights out, read to the bottom | ch 2 (shown without comment) | echo pays **ch 29**; FIRST TURN spent ch 4 (button: board pocketed unread, film instead); **SECOND TURN ch 12** (three reads counted; "Nobody was making him now"; the phone face up) | OWED (the ch 29 echo) |
@@ -24,7 +24,7 @@ docs); F## fair-play rows (b12-outline.md table governs).
 | F13 | The county's official wrong story as engine thesis | ch 1 (square kiss retold fondly, wrong, uncorrected — "It's how we tell it") | **ch 23** aimed, **ch 28** corrected | OWED |
 | B2-T10 | The romance's ladder (plots/romance-arc.md, CANON #130): stage 2 "admitted inside" reached ch 5 (hers) and ch 8 (his); stage 3 OPENED INSIDE ch 11 (#139: "I want Dan," to the women) / opens outside ch 13 / RUNG 7 ch 14 (hers) / RUNG 8 ch 15 — THE KISS, hers; the terms; the firewall planted | ch 5, ch 8 | the build check runs before ch 11, 13, 15, 27 briefs | ch 2 fight shown — DONE (#132); ch 4 one more exchange — DONE (#133). Both earning scenes for ch 8's want are on the page. |
 | B2-T11 | The provider partner (B2-D13): a sports-medicine group takes over team physician services with the pledge; her job is the price | ch 10 (Dan hears "the university stops carrying that line"; "Dan knew whose line it was") | he tells her **ch 15** (default) before the kiss; announced **ch 24** the week of the suspension; the phrase beside the group's own notice **ch 27**; the deal stalls with the pledge **27–28**; handed to 1.3 | SPENT at 15 (#155 — told before the kiss, in ch 10\'s words) — OWED ch 24 (the announcement), 27, 27–28 |
-| B2-T12 | The stakes of the nineteenth (B2-D15): the win is Boyd's STAGE (the announcement on the field); Dan's extension priced (February agenda; "a review"); the town's second December; her double bind said once | ch 13 (the town's money; the announcement sighted) · ch 14 (1, 2, 5 in Dan's mouth; the athletic director's line 14/15) | **ch 16** the loss carries all four · **ch 20** Boyd's price pays the stage · **ch 24** the athletic director signs · **ch 27** extension off the agenda | PLANTED ch 13 (stake 4 said by Verna; stake 1 sighted via the coordinator) · ch 14 PAID (1 as a reminder and 2 in Dan's mouth, the athletic director's sentence verbatim; 5 in HERS — "If I sign and he goes down, I'm done.") · ch 15 stake 5 SPENT (she is the reason, Thursday) — OWED 16, 20, 24, 27 |
+| B2-T12 | The stakes of the nineteenth (B2-D15): the win is Boyd's STAGE (the announcement on the field); Dan's extension priced (February agenda; "a review"); the town's second December; her double bind said once | ch 13 (the town's money; the announcement sighted) · ch 14 (1, 2, 5 in Dan's mouth; the athletic director's line 14/15) | **ch 16** the loss carries all four · **ch 20** Boyd's price pays the stage · **ch 24** the athletic director signs · **ch 27** extension off the agenda | PLANTED ch 13 (stake 4 said by Verna; stake 1 sighted via the coordinator) · ch 14 PAID (1 as a reminder and 2 in Dan's mouth, the athletic director's sentence verbatim; 5 in HERS — "If I sign and he goes down, I'm done.") · ch 15 stake 5 SPENT (she is the reason, Thursday) · ch 16 ALL FOUR carried (the suite and the score held; "review"; the eighth Saturday spent; the chain-link\'s line) — OWED 20, 24, 27 |
 | B2-T13 | Help for free: every man who helped her in a building wanted a thing for it; she quit asking (B2-D17) | ch 11 (wine night, the plant) | ch 14 the truck ("What's it going to cost me"), the story told outward as proof, the turf ("I'm telling you I noticed.") · ch 15 she lets him spend something on her | PAID ch 14 (#154) · second turn PAID ch 15 ("So I'm keeping it.") — CLOSED; the firewall is what she built over it |
 | F6 | The hookup leak chain (outline F6): the rings shown ch 11, the artifact ch 12 | ch 11 (the phone down the rail) · **ch 12 PAID** (the screenshot; "Who types a pause?") | dignity repair 18–30 | PAID ch 12; the sub-couple's exposure carries |
 | F7/RH1 | The board decodes the vaguepost as the coach and the doctor (declared red herring) | **ch 12 PLANTED** ("The story was him and her."; the honest signal: a crew cab with four doors, and Coach's has two — Earlene, relayed) | **ch 13** dies at the Table offstage | **CLEARED ch 13** (Verna, at the window) |
@@ -39,7 +39,7 @@ docs); F## fair-play rows (b12-outline.md table governs).
   Mackenzie, ch 11, the lot (Mack counts). **4 spent; 6 remain.**
   (Corrected at the ch 12 audit, 2026-09-07 — the ch 11 fold had
   logged "none spent.")
-- **Anchor lines (ch 15: Verna, her second — "I rent nights"; ch 14: none — Delores's bank-note anchor was cut by the author, B2-D17(5); her plain line about the church's paper is not shaped as one; Delores stays at one):** ch 1 Earlene · ch 2 Tick · ch 3 Verna ·
+- **Anchor lines (ch 16: Tick, his second — "we walk home together in this county"; ch 15: Verna, her second — "I rent nights"; ch 14: none — Delores's bank-note anchor was cut by the author, B2-D17(5); her plain line about the church's paper is not shaped as one; Delores stays at one):** ch 1 Earlene · ch 2 Tick · ch 3 Verna ·
   ch 4 Peanut · ch 5 Sonny ("Brains aren't a part you can order
   twice") · ch 6 Delores, on the porch (first playoff in this
   town's whole life — pray for whoever has to say no to any of
@@ -578,6 +578,60 @@ B2-T05 the tailgate photo, B2-D15 all four stakes; the firewall's
 first night (Friday's sheet at 5:15 like any other); the window. 17 —
 Birmingham; heat 2.
 
+### Ch 16 — December Football (ACCEPTED #156, 2026-09-10; THE THIRD SET PIECE — three blind drafters, A won; the author's four #156 comments applied in the recut PR — the annex and the cage)
+Introduces: the stadium's lots at eleven as the tailgate ground (the
+RV city on the fairgrounds); the ice chest Dan shuts on his way by;
+the poster (WE DROVE 11 HRS FOR THIS) and "his mother vetoed the
+ticket"; **B2-T05 / F4 PLANTED** — the frame: her laugh, his lean
+toward the sign, the sun off the ice chest's lid "one hard white
+flash," a father's phone, the thread *Playoff Pics — Post Here*
+pinned since seven; nobody notices; no timestamp said (ch 23's);
+"Doc." / "Coach," going by, her breath left in the air; "the day's
+one good thing, spent before noon"; kickoff at six under the
+lights; the bowl in coats, ninety thousand, the suite over the
+fifty as glass, Rex Boyd a shape; Trey a shape in the gray hoodie
+behind the bench, up the tunnel with the team; the backup's first
+snap with the first team; **the not-looking** — "the place he did
+not look / was the one place on that sideline he wanted to"; the
+chain-link's line (**B2-T12 stake 5 in the county's mouth**:
+"Doctor could've signed that thing Thursday. / Boy's standing right
+there."); **the one look** from forty yards — standing, the tape
+blank, the curls down, "and not on Dan, / and that was the terms,
+held, forty yards apart"; the drive dying on downs at the fifty
+(the fourth-down play "he had had since Tuesday / for a kid who had
+had it three days"); "Damn," under the headset; VISITORS 13,
+ASHFORD 10 held on the video board "past the suite's glass going
+dark behind the men / who had paid for the next thing on it"
+(**stake 1 paid**: the rendering never plays); the county
+"conversational. It had decided." (**stake 4 paid**: the eighth
+Saturday spent); "review" priced once in his head (**stake 2
+paid**); Missy and Denny on the walk, Denny silent; the album
+caption *Dr. Cole at her end. Four quarters. Never sat.*; **Tick's
+ANCHOR, his second**, on WDSS off a truck window going up Millrow:
+"Win or lose, we walk home together in this county. Always have.";
+what he'd have told 1340 about her wrist; the window's Saturday
+variant (the practice-field poles never on; the stadium lit the lot;
+the film room lit and killed); the tape peeled and held up "so he
+could see the nothing"; the firewall's first night — the
+start-and-stop ("If I'd had the one who's run it since August—")
+and her letting him; "Sit down, Dan"; "I have never asked you. I'm
+not asking now."; **B2-T01 SPENT** — "I left coaching and did relief
+work overseas." — one sentence, no second, the nod "she gave a right
+number"; the board's monk left standing; the kiss at the ceiling
+(slowed in the recut per the author); "you'll have to think of
+something else to stand in"; **THE BUTTON** — the equipment cage at
+midnight, the loss ball off the managers' cart, the backup's name
+"where a winning coach would have written a score," never shown,
+"The kid would never see it. / Dan had not written it for him to
+see."; Friday's sheet in the jacket, "Step four. Holds overnight."
+Romance (**B2-T10: stage 4 "seen" — In 4 / Out 4**; no new rung; the
+ceiling held). Ends DOWN. Edges: one ("Damn") — 5 remain. Dialogue
+~12% (the quiet band, once this quarter). Hands forward: 17 — the
+gray season, the exodus, Birmingham (B2-T04's trip), heat 2, the
+window with no poles, "review" said to his face; 18 — Eleven
+Families (the January letter forming; Denny's name absent); 23 —
+the frame surfaces.
+
 ## New canon recorded at this fold
 
 Kickoff (rivalry game) 2:30 · Doss County RATIFIED (SR-B2-6;
@@ -613,7 +667,7 @@ collapses. They are separate and both are canon:
 |---|---|---|
 | Whose | Denny's own draft, on his phone | the same campaign, rewritten by other hands |
 | Ask | roster spots "reviewed," "kids who've earned it," "clarity, going forward, on how the medical decisions are being made" — the walk-on is never named in it | "clarity on medical decision-making and roster priorities" — the walk-on and the doctor, one letter now |
-| Count | "some of the dads" — a small number, well under eleven | eleven families (ch 12 opens the whip count, ch 18 is titled for it) |
+| Count | "some of the dads" — a small number, well under eleven — and Rhonda's "fourteen families" on the board at ch 15 is the COUNTED (interested) number; ELEVEN sign (ch 18) — RULED at the ch 16 fold | eleven families (ch 12 opens the whip count, ch 18 is titled for it) |
 | Denny | wrote it, carried it, was refused by Dan | **name absent from the eleven — he refused to sign** |
 | Where | ch 6, refused on Delmar's porch, goes anyway | ch 18 arrives as a courtesy copy; ch 28 clears him |
 

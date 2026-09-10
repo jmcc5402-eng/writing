@@ -115,6 +115,16 @@ finding). Started at the wave-1 fold (2026-08-30).
 | Her whole smile | "the one he had never had across a sheet" — the half smile's payoff (the motif closed at four + the whole one); no sixth | ch 15 |
 | Banked, unused (the losing candidates — never reinvent by accident): | B: "It's a Fieldhouse rule. This isn't the Fieldhouse." / "You wrote a rule at me with your hand on my chest, Doc." / "His hands stayed. That was the part she was going to keep." C: "You're on the wrong side of the lot at seven, Coach." / "I've been on the wrong side of it since five fifteen." / "I wasn't going to start winning in a room you weren't in." / "a sound a man makes and would swear he had not" / "the worst rule I ever agreed to, and I've agreed to one about coolers." / "In here you can hear from me about anything else you want." | notes/candidates/ch15-{B,C}.md |
 
+| The stadium on the nineteenth | kickoff at six under the lights; the bowl, ninety thousand in coats; the suite over the fifty, glass, lit; the video board holds VISITORS 13, ASHFORD 10 past the suite going dark; the chain-link behind the bench; the northeast tunnel; the stadium's lots as the tailgate ground; the RV city on the fairgrounds | ch 16 |
+| The frame (B2-T05) | eleven a.m., the lots: a father from three states off, his boy on an ice chest with WE DROVE 11 HRS FOR THIS; her laugh at "his mother vetoed the ticket"; Dan's lean toward the sign; the sun off the lid "one hard white flash"; the thread *Playoff Pics — Post Here* pinned since seven | ch 16 |
+| The loss | 13–10; the backup's drive dies on fourth down at the fifty with nineteen seconds; the play "he had had since Tuesday / for a kid who had had it three days" | ch 16 |
+| The window on a Saturday | the practice-field poles never on; the stadium lit the lot; he lights the film room, stands in the window till the stadium goes dark, kills it, crosses by the warm-end door | ch 16 |
+| Friday's sheet | "Step four. Holds overnight."; in the sideline jacket with the week's; "the first one she had handed him since the terms" | ch 16 |
+| The loss ball | nobody keeps one; off the managers' cart; on the counter under the cage light; the backup's name in block letters "where a winning coach would have written a score," never shown; the kid never sees it | ch 16 |
+| The album caption | *Dr. Cole at her end. Four quarters. Never sat.* — a parka and a white wrist | ch 16 |
+| Tick's sign-off | off a truck window going up Millrow: "Win or lose, we walk home together in this county. Always have." (his second anchor) | ch 16 |
+| Banked, unused (ch 16's losing candidates): | B: the coolers as the forty yards he will not walk; "the bowl gave him a sound it had been saving all fall for somebody else"; "sound and grabby and had a kicker"; "like two people who'd bought tickets"; "I'd have come across that lot tonight if we'd won it by thirty." C: "so I'd have something to turn off"; "Where does a man learn to walk somebody in and not talk"; "the not asking was the thing she gave him for it"; "Tick played a song into her pocket"; the name turned to the wall | notes/candidates/ch16-{B,C}.md |
+
 ## Name map (who calls whom what — STYLE "Names are relationships"; started 2026-09-07)
 
 | Character | Narration | Who says what | The one-person name |

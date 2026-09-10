@@ -1130,3 +1130,24 @@ important watching (taste entry 15; the dossiers' ladders, rows
   "watch itself be right"; the window signal's Saturday variant; the
   tape in the trash can; the sheet's clause.
 
+## 2026-09-10 — ch 16 ACCEPTED (#156) and folded; the author's four comments → the recut PR
+
+- The author (#156): the annex dialogue "a little bit boring… make it
+  a little more festive"; "more description… of their looks of how
+  they feel… a little bit awkward… like middle schoolers"; "The kiss
+  is too fast"; the cage's first sentence too long, and "more of an
+  opportunity for Dan to do some introspective… think about Ayesha
+  be scared about getting fired. Much of this seems so terse." →
+  STYLE "Slow the good parts" (the slow beat; awkward allowed; the
+  ending thinks; no volleys between the leads); taste 16; panel
+  1.5.0; the annex and the cage recut on a MINOR PR.
+- Header to ACCEPTED. THREADS: the ch 16 entry; B2-T01 SPENT (the
+  annex, one sentence); B2-T05/F4 PLANTED (the frame); B2-T12 all
+  four carried; Tick two anchors; the fourteen-vs-eleven letter
+  count RULED (fourteen counted at 15, eleven sign at 18). Ladder
+  row 16 on the page (stage 4, no new rung). Dossier rows 16 on the
+  page; the drink CHECKs resolved (a can). Registry: the stadium on
+  the nineteenth, the frame, the loss, the window's Saturday variant,
+  Friday's sheet, the loss ball, the caption, Tick's sign-off; B's
+  and C's best lines banked. STATE: the fourth-chapter sweep is due.
+
