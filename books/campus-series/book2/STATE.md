@@ -43,24 +43,13 @@ has five docs); the ROOTING FOR line in every card and brief; panel
 CANON (#150). The eight rooting-for adds across ch 2–12 MERGED
 (#152).
 
-**OPEN: ch 14 PR (#153), RECUT on the author's comments** — "The Rule
-Has Reasons" (Dan · Wk5 Tue; CONNECTING, one drafter on D6; recut
-per B2-D17: the question at the truck, the stakes between them, the
-decade told outward as proof, her hand as the answer; panel re-read
-ABOVE THE FLOOR, 29 beats; beer test Dan YES, Aisha YES). Listening file
-`notes/listening/ch14-2026-09-09.md`. Do not chase. **On merge, the
-fold:** THREADS ch 14 entry; B2-T03 SPENT (the decade told whole, the
-severable line on the page); B2-T04 sighted 14 (Birmingham), trip
-17; B2-T12 stakes 1, 2 in his mouth and 5 in hers; B2-T13 planted ch 11, asked and paid ch 14 → SPENT; ladder row 14 at rung 7
-(hers; his bare forearm; cold and weight); registry rows per the
-manifest (the first-team line; Mt. Nebo's fellowship hall and its
-locked end room; Delores's key on a ribbon; the transfer log; the
-forty-one boxes; KNEES, 1994 stays); anchors: Delores two; arcdoc
-Aisha row 19 → "first accepted help in public"; ddan row 14's
-counter moved later; the sheet-count `[CHECK]` (Monday's was the
-eighth; Tuesday's the ninth).
+**Ch 14 ACCEPTED (#153; recut on the author's comments #154) and
+FOLDED (2026-09-10).** B2-D17 stands: the colleague was eligibility,
+it was true then, help for free is B2-T13, the want stays in his
+head at 14. Two rules came out of it the same day (the other lead
+has a face; no staccato endings; `ending-check.py` in the lint).
 
-**Then chapter 15** — Aisha · Wk5 Thu · the kiss (SET PIECE: three
+**NEXT: chapter 15** — Aisha · Wk5 Thu · the kiss (SET PIECE: three
 blind drafters, panel judges blind, author reads the winner). Card
 first. Inherits: the no-go under her signature; he backs it to his
 captains at cost before she knows; Dan tells her about Boyd's

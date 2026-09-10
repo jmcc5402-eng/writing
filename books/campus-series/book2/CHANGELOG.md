@@ -997,3 +997,18 @@ important watching (taste entry 15; the dossiers' ladders, rows
   face" and "no staccato endings"; the establishing line names who
   is in the room; `ending-check.py` in the lint; protocol lines THE
   OTHER LEAD'S FACE and THE LAST EXCHANGE; taste 1 and 15 amended.
+
+## 2026-09-10 — ch 14 ACCEPTED (#153; the recut #154) and folded
+
+- Header to ACCEPTED. THREADS: the ch 14 entry; B2-T03 SPENT (the
+  decade told outward); B2-T04 PLANTED (Birmingham sighted, undated);
+  B2-T12 paid at 14 (1 and 2 in his mouth, 5 in hers); B2-T13 PAID,
+  second turn owed 15; B2-T10 rung 7 (hers). Ladder row 14 on the
+  page. Dossier rows 14 on the page (Dan's CHECK resolved: paper
+  only; the counter NEW moved later). Arc-doc Aisha row 19: the
+  first accepted help, in public. Registry: the schedule, the
+  truck, the records room, Mt. Nebo's hall and its key, the aldermen,
+  her half smile (a motif at four), the decade's true shape,
+  Tuesday's sheet; name map: Delores, the colleague. Anchors: none
+  at 14 (Delores stays at one). STATE: ch 15 next, the second set
+  piece.
