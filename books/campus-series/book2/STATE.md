@@ -54,11 +54,31 @@ the firewall planted; the partner told; her "Dan" and his "Aisha"
 spent. The author's one comment ("name in my mouth") applied and
 the phrase banned.
 
-**NEXT: chapter 16** — Dan · Wk5 Sat · "December Football" (SET
-PIECE: the game, the loss by a field goal, the gap-years sentence on
-the porch, the loss ball with the backup's name; B2-D15 carries all
-four stakes; B2-T05 the tailgate photo planted). Card first. Cards
-next: audit E3 (LRU), drafters D5, D7, D2 by LRU.
+**OPEN: ch 16 PR** — "December Football" (Dan · Wk5 Sat; THE THIRD
+SET PIECE — three blind drafters, A (D5) won; panel 28 beats, both
+beer tests YES). Listening file `notes/listening/ch16-2026-09-10.md`.
+Do not chase. **On merge, the fold:** THREADS ch 16 entry; B2-T01
+SPENT (the gap sentence; the banked severable line retired — it was
+in her POV); B2-T05/F4 PLANTED (the frame: her laugh, his lean, the
+flash off the ice chest; the thread *Playoff Pics — Post Here*);
+B2-T12 all four carried (the suite, "review," the eighth Saturday,
+the county's line on her); the season's outer clock closed (the
+bracket); Tick two anchors; the registry (kickoff six under the
+lights; the suite over the fifty; the stadium's lots; the window's
+Saturday variant; Friday's sheet "Step four. Holds overnight."; the
+loss ball on the counter; the album caption; the poster); the
+dossiers' rows 16 and their drink CHECKs (a can); the banked lines
+from B and C; the ch 15:97 "fourteen families" vs eleven `[CHECK]`
+(fold: fourteen counted, eleven signed, or rule); ROMANCE stage In
+4 / Out 4 on the page. **Then the fourth-chapter sweep is due**
+(ch 13–16 accepted): the instrument audit's second run and the
+rooting-for survey's second run, before ch 17's card.
+
+**Then chapter 17** — Aisha · Wk6 · "The Gray Season" (CONNECTING —
+one drafter): the exodus, the town at parking-space size, Christmas
+loud for everyone else, Birmingham (B2-T04's trip), heat 2 in the
+gray season, the window with no poles. Card first. Cards next:
+audit E4 (LRU), drafter D3 (LRU after D5/D7/D2).
 
 **Standing:** do not chase; talk plainly (taste 13); every lesson an
 instrument (taste 14); the card before the chapter (§3c).

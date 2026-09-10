@@ -1082,3 +1082,51 @@ important watching (taste entry 15; the dossiers' ladders, rows
   Anchors: Verna two. provider-partner.md §1 conformed to 15; the
   B2-D13 check closed. STATE: ch 16 next, the third set piece.
 
+## 2026-09-10 — ch 16 DRAFTED: "December Football" (Dan · Sat Dec 19) — PR open; THE THIRD SET PIECE (the game, the loss)
+
+- Card first ("Go" — the annex for the postgame, one gap sentence, a
+  can or nothing), brief marked SET PIECE, audit E3 (BLOCK on three
+  of the brief's own sentences → corrected: Tick's anchor is his WDSS
+  sign-off on the walk, not the stadium PA; she stands at her north
+  edge of the bench, not a hash; In 4 / Out 4; the stadium's words
+  from ch 3; no "first night game"; the RV city on the fairgrounds;
+  the last play dealt per card so nobody wrote a missed kick).
+- THREE blind drafters (A: D5 weather as texture; B: D7 mid-motion;
+  C: D2 hands and objects). The panel read each blind: A 28 beats /
+  22 fixes; B 25 / 14; C 22 / 15; all PASS WITH FIXES, all both beer
+  tests YES, all hold the offstage rule and the one gap sentence.
+  **A won** (`notes/ch16-scoreboard-2026-09-10.md`): the not-looking
+  is felt hardest and the one look from forty yards is the chapter's
+  line; the gap lands on her refusing to ask; the town is in the
+  stands; the fewest slips. No grafting. B and C at
+  `notes/candidates/` with their reports; their best lines banked.
+- The page: the ice chest shut on his way by; her laugh over two
+  tailgates; WE DROVE 11 HRS FOR THIS and "his mother vetoed the
+  ticket"; the flash off the lid with her laughing at his shoulder
+  and a father's phone up for *Playoff Pics — Post Here*; "Doc." /
+  "Coach," going by; "the day's one good thing, spent before noon";
+  the bowl in coats, the suite as glass, Trey a shape in the gray
+  hoodie; **"the place he did not look / was the one place on that
+  sideline he wanted to"**; "Doctor could've signed that thing
+  Thursday. Boy's standing right there."; the one look — "and not on
+  Dan, / and that was the terms, held, forty yards apart"; the brave
+  drive dying on downs at the fifty; "Damn," under the headset;
+  VISITORS 13, ASHFORD 10 held on the video board "past the suite's
+  glass going dark"; the county "conversational. It had decided.";
+  "review"; Tick off a truck window ("Win or lose, we walk home
+  together in this county. Always have."); what he'd have told 1340
+  about her wrist; the film room lit and killed; the tape held up
+  "so he could see the nothing"; the start-and-stop; "Sit down,
+  Dan"; "I have never asked you. I'm not asking now." / **"I left
+  coaching and did relief work overseas."** / the nod she gives a
+  right number; one kiss at the door, her hand over his; "you'll
+  have to think of something else to stand in"; the cage, the loss
+  ball on the counter, the backup's name "where a winning coach
+  would have written a score," never shown. DOWN. Lint clean; ~12%
+  (the quiet band); about 3,060 words; opening check PASS; ending
+  check clean.
+- SR (strike by comment): the poster and the ticket line; the
+  album caption ("Dr. Cole at her end. Four quarters. Never sat.");
+  "watch itself be right"; the window signal's Saturday variant; the
+  tape in the trash can; the sheet's clause.
+
