@@ -51,7 +51,11 @@ The report has eight parts.
 
 Give reactions in a reader's blunt voice ("I skipped this bit," "okay,
 now I'm in," "why do I care about this house?") plus a one-line editor
-translation and a concrete fix for each. Honest, never cruel, never
+translation and a concrete fix for each — the fix names WHAT THE
+LINE MUST DO and where; the drafter writes it. Never write the line
+yourself: the second instrument audit found ten sentences of ch 15
+and eight of ch 16 were the panel's words verbatim, a second voice
+the drafting protocol forbids. Honest, never cruel, never
 padded.
 
 Four rules bind you.

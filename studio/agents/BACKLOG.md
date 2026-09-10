@@ -211,3 +211,48 @@ fix in the report:
   1.4.0 read (ABOVE THE FLOOR) miss both? It flagged her eyes once
   (Q2) and called the turf "a landing" — the panel's scene-by-scene
   needs a FACE column and an ending row.
+
+## From the second instrument audit (2026-09-10) — `studio/agents/audits/2026-09-10-instrument-audit.md`
+
+- **F18 — the brief is a ration register with no floor.** Consolidate
+  THE OTHER LEAD'S FACE, THE SLOW BEAT, THE ENDING THINKS, THE LAST
+  EXCHANGE into one THE LEADS' SCENES line with a word FLOOR; delete
+  "one line" from any touch; the set-piece note spends words on the
+  leads. Trialled on the ch 17 brief first.
+- **F19 — the panel rewards density, not duration.** The verdict line
+  carries words / narration-per-dialogue-line / reaction beats for
+  every scene the leads share; the swoon inventory caps one short line
+  per scene.
+- **F21 — the panel as second drafter.** The fold logs any panel line
+  kept verbatim as a graft. (The remit lines landed today.)
+- **F22 — a backstory that copies the plot** has no instrument; the
+  developmental editor's Hauge "echoes" item is the home.
+- **F23 — the seams.** `opening-check.py` reads every section's first
+  paragraph and prints the seams (the 5:15 check opened the same way
+  three chapters running); STAKES RESTATED replaced by "what THIS
+  chapter risks, in the POV's terms."
+- **F24 — the brief's furniture cites.** FURNITURE and NAMING lines
+  cite `chNN:line` or a registry row for every item not marked NEW;
+  the registry's Source column gets line cites (F11); the
+  orchestrator's showrunner work logged as showrunner runs.
+- **F25 — the fold has an owner.** PIPELINE §3c fold checklist: copy
+  the entry's counts into the header ledger in the same commit; run
+  `romance-build-check.py` and quote it in the commit; conform any
+  doc an addendum ruled against.
+- **F26 — drift.** PIPELINE's length (~2,800–3,500; set pieces past
+  it); the quiet band 8–15% everywhere; retire D7; RECENT's "wave"
+  text and its duplicated law → one pointer each at STYLE.
+- **F27 — contradictions.** The brief's "texture, one line" clause vs
+  STYLE (a); the two review-stack orders (F13); the keeper's tool line
+  vs no shell (F8).
+- **F28 — stale.** CLAUDE.md's count and table; the taste footer and
+  entry 8's duplicate block; the protocol's PROPOSED header; PIPELINE's
+  "Current state"; DECKS numbering and the auditor's deck; the
+  auditor's second-run test-set rule; the undated agents CHANGELOG
+  entry; STATE's "panel 1.3.0."
+- **F29 — retire.** The which-appendix WATCH text; the since-June
+  reconciliation; RECENT's duplicated law; the banned-words regex
+  narrowed (F6).
+- **First audit, still unlanded:** F3/F14, F4, F5, F7, F8, F9, F13,
+  F15, F16.
+

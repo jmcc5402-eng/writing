@@ -442,3 +442,19 @@ wall; three chapters running ended on one lead itemizing the other's
 kindness. Two columns added to the beer test; kit 12's ROOTING FOR
 line now says "seen" means felt, never said to the doer's face.
 
+## 2026-09-10 — the second instrument audit's TODAY list (F18–F29 filed; six items done)
+
+Audit at `studio/agents/audits/2026-09-10-instrument-audit.md`. Done
+today: the edge header and the quiet band conformed (F25); the
+outline's "Friday" → Saturday (F25); kit 12's body freed of "by
+chapter" (F27); `ending-check.py` rewritten — an echo-reply test in
+place of the run-of-three (it now fires on "They were." and not on
+the accepted pages' exchanges), names from the registry's name map,
+per-section numbers (F20); PIPELINE §3c — the audit reads the card
+and brief BEFORE the card goes to the author (F24); the panel 1.5.2
+names what a line must do and never writes it, and the keeper's
+addendum bans its own examples (F21); the losing candidates' banked
+lines moved out of the registry to `notes/banked-lines.md` (F25).
+The ch 17 brief trials the leads'-scenes FLOOR in place of the four
+ceiling slots (F18). Everything else to BACKLOG.
+
