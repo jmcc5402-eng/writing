@@ -20,8 +20,9 @@ bike and the headache (13), the boxes and the decade told outward
 (14), the no-go, the captains, the partner told, and the kiss (15).
 **This chapter:** Saturday, from Dan's sideline. The RV city in
 scarves, coats and breath-fog, the board's photo album filling in
-real time. One flash off an ice chest at a tailgate before the game,
-small, that nobody on the page notices and the reader does. The
+real time. One flash off an ice chest at a tailgate before the game:
+her laugh, his lean, small, for the board's album, and nobody on the
+page notices it was taken. The
 game, the loss, the walk home. Then the two of them, in the one
 place nobody can see, where he hands her the sentence about the
 seven missing years, whole, once, and nothing more. **Next:** 17, the
@@ -71,10 +72,12 @@ Stage 3 open outside since 13; rung 8 reached at 15. **This chapter
 the ladder plays texture, not a new high; the stage moves to 4:
 seen.** The terms are two days old and the whole county is in the
 stands, so the two of them do not look at each other all game, and
-the reader feels every time they don't. The flash off the ice chest
-is the photo (the tailgate frame, taken small, pays at 23): the
-first time anyone has the two of them in one picture, and nobody
-knows it yet. Postgame, the one place nobody can see: the annex's
+the reader feels every time they don't. Except once, before the
+game, at a tailgate, for the length of a flash: her laugh, his lean,
+the flash off an ice chest, a parent's phone, the board's playoff
+album. One frame, timestamped inside the days she held the boy out.
+Nobody on the page notices it was taken. The reader does. It pays
+at 23. Postgame, the one place nobody can see: the annex's
 warm end, the lot dark, the window signal two nights old. The
 firewall's first night holds: neither of them says one word about
 the call. What he gives her instead is the gap. Ends DOWN (15 ended
