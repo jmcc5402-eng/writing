@@ -49,13 +49,31 @@ it was true then, help for free is B2-T13, the want stays in his
 head at 14. Two rules came out of it the same day (the other lead
 has a face; no staccato endings; `ending-check.py` in the lint).
 
-**NEXT: chapter 15** — Aisha · Wk5 Thu · the kiss (SET PIECE: three
-blind drafters, panel judges blind, author reads the winner). Card
-first. Inherits: the no-go under her signature; he backs it to his
-captains at cost before she knows; Dan tells her about Boyd's
-partner (default 15); her "Dan" to his face and his "Aisha" aloud;
-the firewall; rung 8. Cards next: audit E1 (LRU), drafters D4, then
-D3, D1 by LRU.
+**OPEN: ch 15 PR** — "Precautionary Hold" (Aisha · Wk5 Thu; THE
+SECOND SET PIECE — three blind drafters, A (D4) won; panel 23 beats,
+rung 8 hers, both beer tests YES). Listening file
+`notes/listening/ch15-2026-09-10.md`. Do not chase. **On merge, the
+fold:** THREADS ch 15 entry; B2-T10 RUNG 8 (the kiss; the terms; the
+firewall planted — strains 20, vindicates 27); B2-T11 SPENT at 15
+(the partner told); B2-T13 second turn PAID (she keeps it); B2-T12
+stake 5 spent (she is the reason, Thursday); F1 PAID (the no-go);
+the name map: her "Dan" to his face (ch 15), his "Aisha" aloud (ch
+15); registry rows (the form's words and route; Missy's notebook
+order; the hang tags and BACK ROOM; the trainer keeps the sleeve;
+the captains, unnamed; the field poles off at six; the warm-end
+door; the window signal; the firewall's words; the terms' date as
+"the first Wednesday in February"); anchors: Verna two; the
+rations ledger "Mark today" → 8; provider-partner.md §1 conformed to
+15 and its CHECK closed; the audit's `[CHECK]`s (the diploma frames;
+"the first December Saturday in this town's life" vs game-stakes).
+The registry also banks B's and C's best lines so no later chapter
+reinvents them (see the scoreboard).
+
+**Then chapter 16** — Dan · Wk5 Sat · "December Football" (SET
+PIECE: the game, the loss by a field goal, the gap-years sentence on
+the porch, the loss ball with the backup's name; B2-D15 carries all
+four stakes; B2-T05 the tailgate photo planted). Card first. Cards
+next: audit E3 (LRU), drafters D5, D7, D2 by LRU.
 
 **Standing:** do not chase; talk plainly (taste 13); every lesson an
 instrument (taste 14); the card before the chapter (§3c).
