@@ -216,6 +216,13 @@ description."* Check: the wine-night scene has a poke and a wish in
 it, not only a confession; every job/money stake names what is
 actually lost; grown professionals' heat happens indoors.
 
+**Added 2026-09-11 to entry 7 (the ch 17 card):** "it's a great
+season to crank up emotions, both sad and happy, so make sure to use
+it." A holiday on the page is an amplifier, not texture: the chapter
+runs both registers at full volume and says which it is feeling
+when. Check: the brief names the sad and the happy of any holiday
+chapter; the panel's engagement map marks where each lands.
+
 ## 8. It is a romance first — the rule
 
 > "The writers don't understand fundamentally that this is a romance
