@@ -218,10 +218,14 @@ actually lost; grown professionals' heat happens indoors.
 
 **Added 2026-09-11 to entry 7 (the ch 17 card):** "it's a great
 season to crank up emotions, both sad and happy, so make sure to use
-it." A holiday on the page is an amplifier, not texture: the chapter
-runs both registers at full volume and says which it is feeling
-when. Check: the brief names the sad and the happy of any holiday
-chapter; the panel's engagement map marks where each lands.
+it." — and, the same day, "in a future book set we might do more
+holiday focus, but this book doesn't feel right for it." So: where a
+book gives a holiday a page, that page runs both registers at full
+volume and says which it is feeling when; but 1.2 gives Christmas
+one paragraph and no more, and does not dwell on holidays. A
+holiday-focused series is a future idea (BRAINSTORM). Check: the
+brief names the sad and the happy of the one holiday page; no
+holiday set piece unless the book's concept asks for it.
 
 ## 8. It is a romance first — the rule
 
