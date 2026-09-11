@@ -1,6 +1,7 @@
 # CH 17 — The Gray Season (Aisha · Wk6 · December 20–26)
 
-**Status: CONNECTING** — one drafter (D3, LRU). Card and brief go to
+**Status: CONNECTING** — one drafter (D3, LRU); the card corrected on the audit (eleven
+sentences) before it went to the author. Card and brief go to
 the audit TOGETHER before the card goes to the author (PIPELINE §3c,
 amended 2026-09-10). Then the author's "go" → draft → panel 1.5.2
 (the slow-beat count; the awkward test; the leads' scenes' numbers)
@@ -26,9 +27,13 @@ Earlene anyway (the grain-rule joke, spent once). — Plants: F2's
 silence-signal begins. Pays: dial's frank-want promise, both voices.
 ANCHOR (Earlene, delivering the plate): Christmas is loud for the
 married and long for everybody else — eat. End: image (two coffee
-cups, one windowsill, the town's one lit sign below)." (Ruled: the
-end image's coffee is not at night — B2-D03 — the audit rules the
-hour or the cups; "casserole" and "supper" are off the outline.)
+cups, one windowsill, the town's one lit sign below)." (RULED at the
+audit: the two cups GO — Book One's ch 23 coda and B2-D03 both; the
+image keeps the windowsill and the sign ACROSS THE LOT, with room
+nine's own furniture; the night ends on the cut unless the author
+asks for a morning; "casserole" and "supper" are off the outline;
+Earlene's anchor is her fifth against a ledger bar — the author
+rules the mouth.)
 
 **Format:** Aisha, third limited, past tense, whole chapter.
 **Length: ~3,200–3,800 words** (PIPELINE's number is out of date;
@@ -53,9 +58,9 @@ Gaults, Birmingham, the chart, the letter is said in the room. Ends
 UP (16 ended DOWN). The window signal: the practice-field poles are
 off for the break and the stadium is dark, so the signal is
 something else — the page says what, once (the audit rules the
-candidates: the film room's window is still his if the Fieldhouse
-is open over break; her office's light seen from the lot; a text is
-NOT it — nothing a phone can hold).
+candidates — RULED: her room-nine light is the answer and not the
+summons; he walks down either way; said in one plain sentence once;
+not a text — ch 18 owns the texting register).
 
 ## THE LEADS' SCENES (the floor — replaces the four slots)
 
@@ -63,7 +68,9 @@ The chapter has two scenes the leads share: the Checkerboard
 (short, public, Cal and Marisol's room — they may not touch, may
 barely speak; the town half-sees) and the lit room (the long one).
 **The lit room runs no fewer than 1,400 words and may run to
-1,800.** Inside it: her face and his at every turn of the talk, and
+1,800** (the audit: no law collides; the quiet band does not apply;
+the length itself is recorded in AUTHOR-NOTES as the author's
+ruling — "much of this seems so terse," three times). Inside it: her face and his at every turn of the talk, and
 what each turn does to her; at least two beats where two serious
 adults look like middle schoolers (a look held too long; a line that
 comes out wrong; a laugh at nothing; a hand that does not know where
@@ -87,10 +94,12 @@ line; what she does not have and does); the lit room (present).
 
 The last three openings: ch 14 the printer; ch 15 the pen; ch 16 the
 ice chest. Ch 17 opens on a THING, mid-motion, that is the exodus
-made small: a parking space on the square with nothing in it (she
-parks where nobody has parked since August); the Checkerboard's
-second griddle cold; the Mule's dark TV; the motel's VACANCY word
-lit for the first time since the Sunday they said the name. Inside
+made small — RULED: the empty parking space on the square (the
+square empties; it is not "unparked since August" — trucks nosed in
+there in ch 9 and ch 12); NOT the griddle (one griddle on every
+page), NOT the Mule's TV (dark every non-Saturday), NOT the VACANCY
+word (ch 13 opened on that step and that neon). The word lit again
+"since the week of the game," not since the Sunday. Inside
 the paragraph, once each, fresh: the week (the twentieth, or "the
 Sunday after"); the town's size now; what she is doing in it (the
 clinic on the holiday line, hers alone); the terms' clock (six weeks
@@ -114,7 +123,7 @@ because she sent it.
 
 ## THE SCENES
 
-1. **The empty town, the twentieth or twenty-first** (short; the
+1. **The empty town, MONDAY the twenty-first** (short; the
    opening; the town at parking-space size). The square; the
    Checkerboard's one cook; the Mule's TV dark; Boyd's survey crew
    chalking the Millrow curbs in the cold, seen from the RAV4
@@ -127,8 +136,12 @@ because she sent it.
    stays over break]` — the audit rules; strike freely); she does
    the small thing and does not ask why he is still in town; she
    walks him to the annex door, points him at the Checkerboard, and
-   tells him the second stool is his till January and Earlene feeds
-   anybody who sits on it. Two lines of hers. He never speaks
+   tells him the second stool is his till January and his breakfasts
+   are paid — she arranges it with the COOK on the page (Earlene is
+   the Curb Market's egg vendor who walks the pot as a regular; she
+   does not feed anyone, and she once called that stool "for people
+   passing through" — ch 9; she may not re-say it). The stool is hers
+   by habit only. Two lines of hers. He never speaks
    (offstage mechanic). Cost: her one seat, in her loneliest week.
    Nobody thanks; the page does not point.
 2. **The Checkerboard, a weekday morning** (short-middle; public;
@@ -140,21 +153,32 @@ because she sent it.
    plate on it (Earlene knows; says nothing to Aisha). Dan on his
    stool by the register or not (the audit rules — DEFAULT: he is
    there, and they are two professionals at a counter in front of
-   Earlene and a settled couple; "Doc." / "Coach."; nothing
-   anybody can see; the town half-sees anyway — Marisol's eyes).
-   Earlene's ANCHOR, her fourth: the meal train for the Gaults, and
-   a plate for the doctor anyway (the grain-rule joke, spent once —
-   the audit cites it): *Christmas is loud for the married and long
-   for everybody else — eat.* Exactly one anchor.
-3. **The release, the same afternoon** (short; the annex; her
+   Earlene and a settled couple; "Doc." / "Coach." once, never the
+   close; nothing anybody can see; the town half-sees anyway —
+   Marisol's eyes, and she knows what she knows from ch 11). The
+   stool: thirty-four's plate on it, or him on it silent — prefer
+   the plate; the page seats Aisha somewhere else and says where
+   (not the Table's chair). THE ANCHOR — one, at the counter, about
+   the meal train the board has organized for the Gaults (premise:
+   the board's meal train vs a plate — the modernity click; NO
+   second plate in the doctor's hands; NO casserole): *Christmas is
+   loud for the married and long for everybody else — eat.* The
+   MOUTH is the author's call (the card): Earlene's fifth against
+   the ledger's bar, or Cal's (the showrunner's recommendation).
+   Exactly one anchor.
+3. **The release, Tuesday afternoon** (short; the annex; her
    kindness unasked). The release for Trey's records comes in from
-   Birmingham's office; she sends the whole chart — both scans, the
-   tape times, Missy's own pages — the same afternoon, with one line
-   and no question about what it is for. **B2-T04 on the page:** the
-   Gaults drive to Birmingham (offstage — a board post, or Missy's
-   one text, or nothing but the release's letterhead; the folder's
-   contents DARK). She knows what the folder is for. Missy does not
-   thank her. Then the two of them in the empty annex — no: the
+   the Birmingham physician's office `[TK — none named]`, signed by
+   TREY (an adult), Missy the hand that brings the form if she is
+   seen; she sends the whole chart TO THAT OFFICE — both scans
+   (undated), the tape times, Missy's own pages — the same
+   afternoon, with one line and no question about what it is for.
+   **B2-T04 on the page:** the Gaults drive to Birmingham on
+   WEDNESDAY the twenty-third (offstage; the folder's contents
+   DARK). She knows what the folder is for. Missy does not thank
+   her. **F2's plant is `[TK: the Gaults' public quiet after the
+   23rd — the object set at the fold; NOT a Missy post (Missy has
+   never posted); NOT Denny's silence (that is F8's, ch 18)]`. Then the two of them in the empty annex — no: the
    annex is NOT the lit room this chapter; she locks up and goes
    down the hill.
 4. **Christmas Day** (short; alone; one paragraph or two). The
@@ -167,12 +191,14 @@ because she sent it.
    them). Dan is in her head as a person, warm: where he is (the
    audit rules whether the Fieldhouse is open over break and where
    a coach with no family on any page spends the day — nothing
-   invented past "his building"). NOT lonely (taste 7): the day has
+   invented past "his building"; he has a HOUSE on the page — ch 10,
+  ch 12 — so he is not sleeping in the Fieldhouse). NOT lonely
+  (taste 7): the day has
    one thing in it that is good, and she names it.
 5. **The one lit room** (THE SCENE — the floor above). The motel
    empty; Verna's office light; room nine (the audit rules the
    mechanics: the walk from the Fieldhouse, no truck; the back room
-   is Saturdays only; the motel's rooms empty so no plate to see;
+   is HOME Saturdays only; the motel's rooms empty so no plate to see;
    Verna sees the light or the man and says nothing to anyone,
    ever — stage 4). What the signal was (the romance move). Then
    the night: the talk first — festive, the two of them glad; two
@@ -182,15 +208,23 @@ because she sent it.
    spent: his hands on her; her hair on his hand; the cold in her
    cheek; his breath at her cheek; the jaw; the size of him in a
    small room; his smell outdoors) — then HEAT 2 up to the first
-   garment on the floor and the CUT (STANDARDS 9; the ch 23-A
-   model = the approach fully on the page, the act not; the audit
-   pulls the model's shape from Book One's ch 23). Before the cut,
+   garment on the floor and the CUT (STANDARDS 9: "everything up to
+   the first piece of clothing on the ground… no scene continues
+   past the first garment." The coats go on the hook or the rod ON
+   ARRIVAL or the scene ends at the door; the first thing to touch
+   the FLOOR ends it — on 1.2's own page a jacket over a chair did
+   not end ch 11's scene and a coat on the floor did. The NEW sense
+   comes from the slate and from the one condition no prior beat has
+   had: no coat between them; on the 26th he is unshaven. "Frank
+   want, both voices" — the dial's promise: each of them says the
+   want plainly once, aloud, in the room.) Before the cut,
    she THINKS: what she thinks about him and what she is afraid of
    (the report; the county; the woman with her face on his rule),
-   in plain sentences. Then the cut. Then — optional — one short
-   coda after (the outline's image: one windowsill, the town's one
-   lit sign below; two cups ONLY if it is morning — B2-D03; the
-   audit rules) — UP.
+   in plain sentences — NOT on ch 16's anaphora ("He thought about…"
+   ×4, "Then… the other thing"). Then the cut. NO coda with cups.
+   If the author asks for a morning, it is Sunday the 27th, a short
+   section, the windowsill and the neon across the lot; otherwise
+   the chapter ends on the cut — UP.
 
 ## ROMANCE BEATS (one per scene, at least three, two kinds)
 
@@ -217,9 +251,12 @@ one lit window from losing everything, and walks down anyway.
 ## ARC BEATS
 
 Aisha (row 17): the never-married Christmas said once; the holiday
-line hers; the stool (survey 2); the chart sent unasked (dossier).
-Dan (row 17, seen): the one lit room; "review" said to his face by
-the athletic director (reported, one line). Boyd: the crews. Cal and
+line hers (NEW — first page); the stool (survey 2; the day conformed
+to Monday the 21st); the chart sent unasked (dossier). Dan (row 17,
+seen): the one lit room; "review" — NOT in the athletic director's
+mouth on any page yet: ch 17 may carry it through the board or the
+Table or her memory of what Dan said at 14; never "said to his
+face" until ch 18 shows it. Boyd: the crews. Cal and
 Marisol: the settled couple, warm, brief. Missy: the release; then
 quiet (F2 planted). Verna: the light, the silence. Earlene: the
 fourth anchor.
@@ -256,7 +293,8 @@ the doctor at him. Aloud, in public: "Coach"; in the room: "Dan"
 "Aisha" in the room. Thirty-four: "thirty-four" in her head; "you"
 to his face; he never speaks (`[TK name — do not invent]`). Earlene
 Tatum: "Earlene"; Cal Sutter: "Cal"; Marisol Pruett: "Marisol";
-Verna Poteat: "Verna" (no "honey"; no "my winter doctor"); Missy
+Verna Poteat: "Verna" (no "honey"; "my winter doctor" is hers alone
+and RATIONED this chapter, not banned); Missy
 Gault: "Missy"; Denny by report; Trey: "Trey" in her POV. Boyd's
 crews: "Boyd's people" / "the survey crew." The athletic director:
 "the athletic director," never "the AD." The second-opinion doctor:
@@ -265,7 +303,8 @@ crews: "Boyd's people" / "the survey crew." The athletic director:
 ## BANS AND BUDGETS
 
 - Dialogue floor 15% (the lit room and the Checkerboard carry it).
-- ONE anchor (Earlene's fourth). Edges: Aisha may swear ONCE (5
+- ONE anchor (the mouth per the author's ruling on the card).
+  Edges: Aisha may swear ONCE (5
   remain); never in the anchor; never in the lit room's approach.
 - Calendar words: the date once; "Christmas" allowed; "the
   eleventh" NEVER (the annex deadline); "signing day" NEVER; "six
@@ -304,3 +343,22 @@ crews: "Boyd's people" / "the survey crew." The athletic director:
   pinned cuffs; the tablet; the holiday line on her cell. Nothing
   80s; no casserole, foil, pans, supper; a plate is a plate.
 - Trey, thirty-four, any student: shapes and artifacts, no lines.
+
+---
+
+### CH 17 — AUDIT ADDENDUM (2026-09-11, card E6) — CARD BLOCK + BRIEF BLOCK → both corrected
+
+The full audit is `notes/ch17-brief-audit-2026-09-11.md`; its
+fourteen numbered rulings are LAW, its E6 table names every card
+fact no page supports (carried as NEW or `[TK]` above), and its
+BANNED line at the end — every sentence the audit quoted as spent or
+offered as an example — is this brief's banned text. The drafter
+reads §13 (the ch 14–16 shapes this chapter will tempt) and the
+BANNED line before writing one line. Standing from the audit: the
+calendar (Mon 21 the empty town and the stool; Tue 22 the
+Checkerboard and the release; Wed 23 the drive; Fri 25 Christmas;
+Sat 26 the lit room); the walk down the hill; Verna's silence; the
+coats on the hook on arrival; no cups; "review" not in the athletic
+director's mouth; the stool paid for with the cook; thirty-four
+`[TK]` over break and silent; F2 `[TK]`; the anchor's mouth per the
+author.
