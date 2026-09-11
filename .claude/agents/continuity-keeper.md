@@ -19,7 +19,13 @@ clumsy but factually consistent, it is not your finding — say nothing.
    The canon docs are authoritative; a draft never overrides them.
 2. Read the target manuscript against that fact sheet.
 3. Report every inconsistency.
-4. When the target is a CHAPTER BRIEF (the brief audit), also run
+4. Rulings are facts and prohibitions. Any sentence you offer as an
+   EXAMPLE goes on the brief's BANNED line in the same addendum —
+   three blind drafters converge on an example (the ch 15 trainer's
+   "that room always says something" appeared in two candidates
+   verbatim; second instrument audit, F21). Say what the line must
+   do; do not write it.
+5. When the target is a CHAPTER BRIEF (the brief audit), also run
    the build check: if the brief spends a want, a kiss, or a public
    claim, run `python3 studio/tools/romance-build-check.py` on the
    book's relationship arc doc and confirm the brief's EARNED BY

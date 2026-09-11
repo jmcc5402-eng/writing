@@ -513,6 +513,32 @@ Where the rule bites:
    exchange is full sentences, and it moves the romance or an arc.
    Two-word volleys close a scene in the middle of a chapter, never
    the chapter. `studio/tools/ending-check.py` warns.
+   **Slow the good parts (author, 2026-09-10, #156 on 1.2 ch 16):**
+   "The kiss is too fast. We could easily have a number of more
+   sentences describing how they walk close to each other. They
+   slowly looked at each other in the eye she moved his hand slowly
+   to her face or vice versa and they kiss." And: "Much of this seems
+   so terse." The semantic-line style pulls toward clipped, and
+   clipped is wrong at the moments the reader bought the book for.
+   Four rules. (a) THE SLOW BEAT — any touch or kiss gets its
+   approach on the page: at least four sentences between the
+   decision and the contact — the distance closed, the eyes held,
+   the hand moving, the pause — before the touch itself; the panel
+   counts them. (b) AWKWARD IS ALLOWED — "even though these are both
+   very serious people… they feel a little bit like middle
+   schoolers": when the leads are alone, the page shows it at least
+   once — a look held too long, a line that comes out wrong, a laugh
+   at nothing, a hand that does not know where to go. (c) THE ENDING
+   THINKS — the POV lead's last scene carries interiority in plain
+   sentences: what they think about the other lead, and the thing
+   they are afraid of, said; a button is never a bare object. (d) NO
+   VOLLEYS BETWEEN THE LEADS — a run of three dialogue lines under
+   four words each, anywhere in a scene the leads share, is a
+   finding ("I heard them go by the window. They were talking." /
+   "They were." — "either this dialogue is super deep and I don't
+   understand it, or it's a little bit boring"); `ending-check.py`
+   reports volley runs chapter-wide.
+
 6. **A lead is named in the other lead's POV.** "The doctor" and
    "the coach" are the chorus's words and the POV lead's private
    register; the name still appears at least once in narration per

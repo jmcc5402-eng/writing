@@ -49,7 +49,10 @@ one sentence, with its chapter number.>
 about them, not as labels. Where they have got to. What this chapter
 does to them. One sentence of what they do for someone else this
 chapter, at a cost, unrewarded (author, 2026-09-08; taste entry 15)
-— said inside the paragraph, not as a bolded tag. Next: the next
+— said inside the paragraph, not as a bolded tag. "Seen" (the other
+lead's POV) means felt in that POV and never said to the doer's
+face; the card names who sees it and says nobody thanks it (survey
+2, 2026-09-10). Next: the next
 turn, in a sentence.>
 
 ## <Lead 2>'s arc
@@ -59,15 +62,16 @@ turn, in a sentence.>
 <Which stage of five, and where each lead's inside is. What the two
 of them do together and what the town sees. The ladder's high-water
 rung. This chapter. Next: the next rung, the next stage opening,
-the kiss, by chapter.>
+the kiss — in a sentence, with its chapter number.>
 
 ## <The antagonist>
 <Who they are in one sentence. What they want. What they believe
-and what it makes them do. Where they stand (their moves so far,
-by chapter). This chapter. Next: the next move, the price, the
-exit, by chapter. Their arc is usually escalation, not change; say
-what the town calls them now.>
+and what it makes them do. Where they stand, in a sentence or two
+of story. This chapter. Next: the next move, the price, the exit —
+in a sentence, with its chapter number. Their arc is usually
+escalation, not change; say what the town calls them now.>
 
-## Two more to keep an eye on
-<**The town (or the chorus):** its arc by chapter. **The clock:**
-the dates the reader is counting toward.>
+## The town, and the clock
+<Two or three sentences: what the town is doing and saying now, and
+the dates the reader is counting toward. Plain sentences, no bolded
+sub-labels.>

@@ -54,25 +54,19 @@ the firewall planted; the partner told; her "Dan" and his "Aisha"
 spent. The author's one comment ("name in my mouth") applied and
 the phrase banned.
 
-**OPEN: ch 16 PR** — "December Football" (Dan · Wk5 Sat; THE THIRD
-SET PIECE — three blind drafters, A (D5) won; panel 28 beats, both
-beer tests YES). Listening file `notes/listening/ch16-2026-09-10.md`.
-Do not chase. **On merge, the fold:** THREADS ch 16 entry; B2-T01
-SPENT (the gap sentence; the banked severable line retired — it was
-in her POV); B2-T05/F4 PLANTED (the frame: her laugh, his lean, the
-flash off the ice chest; the thread *Playoff Pics — Post Here*);
-B2-T12 all four carried (the suite, "review," the eighth Saturday,
-the county's line on her); the season's outer clock closed (the
-bracket); Tick two anchors; the registry (kickoff six under the
-lights; the suite over the fifty; the stadium's lots; the window's
-Saturday variant; Friday's sheet "Step four. Holds overnight."; the
-loss ball on the counter; the album caption; the poster); the
-dossiers' rows 16 and their drink CHECKs (a can); the banked lines
-from B and C; the ch 15:97 "fourteen families" vs eleven `[CHECK]`
-(fold: fourteen counted, eleven signed, or rule); ROMANCE stage In
-4 / Out 4 on the page. **Then the fourth-chapter sweep is due**
-(ch 13–16 accepted): the instrument audit's second run and the
-rooting-for survey's second run, before ch 17's card.
+**Ch 16 ACCEPTED (#156) and FOLDED (2026-09-10).** The author's four
+comments (the annex too terse and not awkward; the kiss too fast;
+the cage's first sentence; Dan's thinking at the ball) → STYLE "Slow
+the good parts," taste 16, panel 1.5.0 — and a MINOR recut of the
+annex and the cage, OPEN on the designated branch. Do not chase.
+
+**THE FOURTH-CHAPTER SWEEP IS DUE** (ch 13–16 accepted): the
+instrument audit's second run (`instrument-auditor`, every four
+chapters — the first was 2026-09-07 after ch 12) and the rooting-for
+survey's second run (developmental-editor; the ladders' rows 13–16
+against the pages), both BEFORE ch 17's card. The audit's first
+question: why did panel 1.4.0 pass a one-line kiss and a terse annex
+with 28 beats — the count measures presence, not pace.
 
 **Then chapter 17** — Aisha · Wk6 · "The Gray Season" (CONNECTING —
 one drafter): the exodus, the town at parking-space size, Christmas

@@ -415,3 +415,34 @@ need to have something looking at each other, smiling at each other
 it's just too boring." Check: a scene of two leads working side by
 side carries beats of PLEASURE (a look, a smile, a joke) — never a
 work montage.
+
+## 16. Slow down the good parts — not so terse
+
+> "The kiss is too fast. We could easily have a number of more
+> sentences describing how they walk close to each other. They
+> slowly looked at each other in the eye she moved his hand slowly
+> to her face or vice versa and they kiss." · "This style needs more
+> description, descriptions of their looks of how they feel. This
+> type of conversation should be a little bit awkward. Even though
+> these are both very serious people and they feel a little bit like
+> middle schoolers." · "Either this dialogue is super deep and I
+> don't understand it, or it's a little bit boring… make it a little
+> more festive and interesting." · "I think there's more of an
+> opportunity for Dan to do some introspective or some thinking,
+> think about Ayesha be scared about getting fired. Much of this
+> seems so terse." (2026-09-10, #156 on 1.2 ch 16)
+
+Caught: a kiss in one line at the door; an annex scene of clipped
+exchanges ("They were.") with no awkwardness and little of their
+faces; a cage button that was an object and no thought. The
+drafters' style — semantic lines, plain sentences — is right for the
+plot and wrong for the moments the reader bought the book for.
+Check: STYLE "Slow the good parts" (the slow beat — four sentences
+of approach before any touch; awkward allowed; the ending thinks;
+no volleys between the leads); the panel's SLOW BEAT count and
+AWKWARD test (1.5.0); the brief's THE SLOW BEAT and THE ENDING
+THINKS lines; `ending-check.py` volley runs.
+Fails when: the highest touch of a chapter arrives in one sentence;
+two serious adults alone are only competent; the last scene ends on
+a thing with nothing thought about it; the leads trade one-liners
+in a scene that should be theirs.

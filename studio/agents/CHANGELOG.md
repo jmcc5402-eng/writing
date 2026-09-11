@@ -422,3 +422,39 @@ two or three sentences of story; chapter numbers only for what
 comes next; no labels inside paragraphs; the ear test. Showrunner
 2.4.2 carries the rule. The ch 16 card rewritten as the model.
 
+## 2026-09-10 — romance-reader-panel 1.5.0: the slow beat and the awkward test
+
+The author, on 1.2 ch 16 (#156): the kiss too fast; the annex talk
+terse and not awkward enough; the cage button with no thought. The
+panel 1.4.0 had passed the chapter with 28 beats and called the
+one-line kiss "one line and right" — the count measured presence,
+not pace. New: for every chapter with a touch, count the sentences
+of approach before the highest touch (fewer than four is a finding)
+and run the awkward test on every scene the leads share alone. STYLE
+"Slow the good parts"; taste entry 16; two brief lines; the
+ending-check now reports short-volley runs chapter-wide.
+
+## 2026-09-10 — romance-reader-panel 1.5.1: who saw it, who thanked it
+
+Survey 2 (developmental-editor, E4): the beer test passed ch 16
+while its seen rung was thanked to her face against the card's own
+wall; three chapters running ended on one lead itemizing the other's
+kindness. Two columns added to the beer test; kit 12's ROOTING FOR
+line now says "seen" means felt, never said to the doer's face.
+
+## 2026-09-10 — the second instrument audit's TODAY list (F18–F29 filed; six items done)
+
+Audit at `studio/agents/audits/2026-09-10-instrument-audit.md`. Done
+today: the edge header and the quiet band conformed (F25); the
+outline's "Friday" → Saturday (F25); kit 12's body freed of "by
+chapter" (F27); `ending-check.py` rewritten — an echo-reply test in
+place of the run-of-three (it now fires on "They were." and not on
+the accepted pages' exchanges), names from the registry's name map,
+per-section numbers (F20); PIPELINE §3c — the audit reads the card
+and brief BEFORE the card goes to the author (F24); the panel 1.5.2
+names what a line must do and never writes it, and the keeper's
+addendum bans its own examples (F21); the losing candidates' banked
+lines moved out of the registry to `notes/banked-lines.md` (F25).
+The ch 17 brief trials the leads'-scenes FLOOR in place of the four
+ceiling slots (F18). Everything else to BACKLOG.
+

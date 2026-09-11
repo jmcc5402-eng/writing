@@ -132,7 +132,12 @@ comes next. **Written BEFORE the chapter is drafted** (author,
 2026-09-06: "I kind of think before makes sense"), with the brief,
 from the arc docs — it is the plan the drafter is handed, and it
 goes to the author in chat before drafting starts, so a wrong turn
-is caught at the cheap end. Drafting does not wait on a reply; a
+is caught at the cheap end — **and the continuity audit reads the
+card and the brief together BEFORE the card goes to the author**
+(second instrument audit, 2026-09-10, F24: the ch 15 and ch 16 cards
+she approved carried facts the audit then corrected — the annex
+deadline for the terms' date; a hash mark in a stadium; Tick on the
+wrong microphone). The author's "go" is spent on checked facts. Drafting does not wait on a reply; a
 correction that lands later is a brief addendum or a redraft. The
 card carries a paragraph for the ANTAGONIST too where the book has
 one (author, 2026-09-06: "I'd also like to include Boyd's arc… the

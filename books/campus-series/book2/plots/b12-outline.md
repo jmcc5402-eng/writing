@@ -93,7 +93,7 @@ by a field goal with the storybook QB in street clothes.
 **Q3 — The gray season (ch 17–23).** The students scatter and
 the town exhales; the couple learns what secrecy costs by the
 week — Christmas for the married and the long version for
-everyone else, a firewall rule that taxes every supper, a
+everyone else, a firewall rule that taxes every dinner, a
 vaguepost that lands one truck too close. The portal opens and
 January says out loud what the money whispered all fall: Boyd's
 calendar wants the annex, the board's letter wants a walk-on
@@ -425,7 +425,7 @@ that woman's coat.* *End: image (the sleeves rolled twice).*
 ### Ch 8 — Coach's Table (Dan · Wk3 Thu)
 Live from Delmar's screen porch on 1340: the county's open phone
 line to its coach, and every caller wants the same word —
-*safety*, lent out the way he lent it at the supper in
+*safety*, lent out the way he lent it at the dinner in
 October (sweep fix 2026-08-30; the accepted page rules —
 manuscript/ch17.md:103). Aisha is in the crowd with a plate. Caller four asks
 if a "precautionary hold" is a real medical category or a
@@ -438,7 +438,7 @@ proper stage). The porch goes courtroom, June all over again —
 except this time he hears the difference between fighting him
 and holding the line he benefits from. First named want in HIS
 interiority, inconveniently timed. — *Introduces: Coach's Table
-as recurring engine (gate flag 8). Pays: the ch17-canon supper
+as recurring engine (gate flag 8). Pays: the ch17-canon dinner
 fight, re-staged on her terms.* *ANCHOR (Odell, porch rail): a
 microphone never once healed anybody.* *End: BUTTON (wave 2's
 one) — off air, two paper plates left on the rail, one bite gone
@@ -573,7 +573,7 @@ discuss her calls in private, so no one, including them, can
 ever say a call was softened in a kitchen. — *Pays: the
 courtship's whole ledger. Plants: the firewall (strains 20,
 vindicates 27), the "after signing day" date (tragic irony,
-F-adjacent).* *ANCHOR (Verna): the whole county wants Friday —
+F-adjacent).* *ANCHOR (Verna): the whole county wants Saturday —
 that boy needs the next sixty years.* *End: the kiss, standard
 9, cut clean.*
 
@@ -606,7 +606,7 @@ Marisol settled-couple cameo at the Checkerboard (estate 58–59
 register), the carryover reader's warm scene. The Gaults drive
 to Birmingham with a folder of hopes aimed against her (B2-T04
 on the page; contents dark). The meal train for the Gaults gets
-a casserole from Earlene anyway (the grain-rule joke, spent
+a a plate from Earlene anyway (the grain-rule joke, spent
 once). — *Plants: F2's silence-signal begins. Pays: dial's
 frank-want promise, both voices.* *ANCHOR (Earlene, delivering
 the casserole): Christmas is loud for the married and long for
@@ -656,7 +656,7 @@ naming it: if "the medical situation embarrasses the program"
 before February, the pledge — and the trustees' spring extension
 — get "re-sequenced" (F9 priced, explicit, on the page). The
 firewall strains at home: he almost asks about Trey's January
-re-eval across a supper table; she walls it; both pay the tax
+re-eval across a dinner table; she walls it; both pay the tax
 and neither breaks the rule — SC4 dramatized inside the couple.
 His ladder rung: he catches himself drafting a board reply at
 1 a.m. and doesn't post it. — *Plants: F9. Pays: the firewall's
@@ -859,7 +859,7 @@ paid in full: her whiteboard wiped clean of red, and TWO parkas
 on the one hook inside the Annex's temporary successor office —
 his and hers, "A. COLE" and no name at all, because everyone
 knows whose the other one is. The want said in both directions,
-plainly, door closed, the county at supper in the warm light
+plainly, door closed, the county at dinner in the warm light
 outside the window. — *Pays: the outer image, the coat echo's
 final beat, the anchor-law's softest spend.* *ANCHOR (Earlene,
 propping the diner door): warm Friday, loves — everything sits

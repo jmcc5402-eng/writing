@@ -213,7 +213,7 @@ few sentences, never a speech, never thanked twice.
 | 13 (A) | Reads the post at six before her boots; "Good record"; types it standing before she says a word; wanted him to see the catch, not the headache; "a good thing to want" | Comes around so Trey can see her ask (ch13:130–131); a protocol that does not need the boy to tell the truth (ch13:135–137); crosses the lot at three so he hears it in more than two words (ch13:189–191) | on the page · no add (survey: not a ninth) |
 | 14 (D) | Seen from his side: packs beside him two hours and trades him nothing back for the decade — "the chart doesn't volunteer" (outline); NEW: she has labeled his boxes in her own hand before he can lift them | NONE by design — not her POV; the rung is Dan's. On the page (#154) she asks the price at the truck (B2-T13), says her own stake, and on the turf says he asked for nothing: "I'm telling you I noticed." "The chart doesn't volunteer" is not on the page. | ON THE PAGE (seen) |
 | 15 (A) | How she writes a no-go: her signature, her wording, no coaching language borrowed (outline); NEW: she calls the Gaults' house before the sheet goes anywhere, so Missy hears "out" from her and not from the board | Thirty-four's sleeve comes off — one yes on the same sheet as the county's no, told to him at the hash by her and not through the coach; costs her the board's "she cleared one and not the other"; the trainer sees; thirty-four just runs | ON THE PAGE (#155): the call to Missy first, in the Fieldhouse lot; thirty-four cuts and the sleeve comes off ("It's my sentence to revise"); "So I'm keeping it." — she lets him spend something on her and keeps it; the firewall built in the same breath. |
-| 16 (D) | Seen from his sideline: the tape-clock on her wrist all four quarters for a boy who is not playing; she walked the emergency plan at eleven anyway (ch03:25–26) | NONE — not her POV; the rung is Dan's | PLANNED (seen) · [CHECK: the outline's "her coffee" on a night porch runs against B2-D03 — a can, or nothing] |
+| 16 (D) | Seen from his sideline: the tape-clock on her wrist all four quarters for a boy who is not playing; she walked the emergency plan at eleven anyway (ch03:25–26) | NONE — not her POV; the rung is Dan's | ON THE PAGE (seen, #156): the tape blank all four quarters, the eleven o'clock walk; the trainer beside her; the caption "Never sat."; the can (RESOLVED: her seltzer, B2-D03). SURVEY 2 (2026-09-10): the card's wall ("nobody thanks her") was broken at the annex ("that's yours, and nobody up on that fence is going to say so") — CUT on the recut PR; a seen rung is felt in his POV and never said to her face |
 | 17 (A) | Christmas for the never-married: "she had stopped expecting it years before she stopped wanting it" (outline, estate 6); NEW: the clinic's holiday line forwards to her cell and she takes every call herself | For Missy: the release for Birmingham comes in and she sends the whole chart the same afternoon — both scans, the tape times, Missy's own pages — with one line and no question about what it is for; she knows what it is for (outline: "a folder of hopes aimed against her"); Missy does not thank her; the report rides in a purse until 28 | PLANNED (NEW) — feeds B2-T04/F2 without touching them |
 | 18 (D) | Seen from his side: the texting-era couple beat, terms-legal (outline); NEW: she texts like she charts — time, thing, done | NONE — not her POV; the rung is Dan's | PLANNED (seen) |
 | 19 (A) | "Mr. Boyd," and nothing else; how she takes an offer she did not ask for (she does not answer it); lets him carry (arc-docs) | Fifty-six's file: the portal opens and the kid whose shoulder she ran in ch 2 is in it by noon; his complete record is in an envelope with his name before he asks, his own numbers on top, and she wishes him well — the one person in the building glad to see him leave with everything he is owed; costs her an afternoon in the week she is being measured; nobody sees | PLANNED (NEW — fifty-six's departure is NEW roster canon; strike freely) |
@@ -264,3 +264,29 @@ few sentences, never a speech, never thanked twice.
   chapters, not one per chapter — rows 7, 10, 13 stay unadded); 5
   (row 16's night porch); 1 (row 27's "the patient" must be decoded
   in one plain sentence); 15 (the whole table).
+
+### Survey 2 (2026-09-10) — what rows 17–20 owe her
+
+Since ch 13 her circle has closed on the case (the Gaults, thirty-
+four's leg); the reader's word for her is "steadfast," and steady is
+admired, not rooted for. One kindness in the gray season with nothing
+to do with the case, BEFORE the first romance beat:
+- **17 (default): thirty-four, not his leg.** Over break, on the
+  twenty-sixth, he comes through the clinic with something small and
+  not the hamstring; she does the small thing and does not ask why he
+  is still in town, walks him to the annex door, points him at the
+  Checkerboard, and tells him the second stool — hers since ch 5 — is
+  his till January and Earlene feeds anybody who sits on it. Costs
+  her the one seat she has earned, in the week she is loneliest;
+  Earlene finds him on it and never mentions it; he never says thank
+  you. `[TK roster: thirty-four stays over break — strike freely.]`
+  **Alternate:** Verna — Christmas Eve the office phone forwards to
+  the back room unasked; both lines ring one phone; Verna learns from
+  a plate calling at ten and says only "You don't work here."
+- **19: keep fifty-six's file; give the trainer the credit.** On the
+  tape-times page she writes the trainer's name as the one who took
+  every number, so the next school knows who to call; he never sees
+  the file.
+- **20 (optional, seen from his side):** the clinic's holiday line
+  rings at his table; she takes it to the car for ten minutes and
+  says nothing about it after; the firewall's strain from her side.

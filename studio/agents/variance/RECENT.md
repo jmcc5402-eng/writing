@@ -83,6 +83,13 @@ list in the agent's invocation as "banned moves this run."
   mouth" in any form — narration or dialogue. Two blind drafters
   reached for it in one chapter. Say what the name did, not where it
   was.
+- WATCH → LAW (author, #156, 2026-09-10, 1.2 ch 16 — "the kiss is too
+  fast… much of this seems so terse"): the leads' scenes run their
+  sentences out. Any touch or kiss has four sentences of approach
+  before it; no run of three dialogue lines under four words between
+  the leads; the POV lead's last scene thinks in plain sentences
+  about the other lead and the thing they fear. The semantic-line
+  habit is not a license to clip.
 - BANNED: giving every speaker a punchline; write one flat line for a
   named character and let it lie there.
 - QUOTA: three personifications per chapter, no more.
