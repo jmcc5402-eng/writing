@@ -79,6 +79,11 @@ anchor (one; Marisol's offer of a Friday table); the dossier row 17
 day conformed to Monday 21st; the registry rows (the neck; "a bad
 room on a third floor"; the quarter-zip on the floor; "It's eggs.").
 
+**B2-D19 (2026-09-11): the ice storm at ch 21.** The book's one
+weather event — it puts her in his two-door truck and the county
+sees it; planted on the board at ch 20; texture at ch 22. Taste 17.
+The ch 20 and ch 21 cards carry it.
+
 **Then the backlog PR (agents:)** — F18 (the floor replaces the four
 brief slots), F19, F23–F29, and the first audit's unlanded items —
 BEFORE ch 18's card. **Then chapter 18** — "Eleven Families," Dan;

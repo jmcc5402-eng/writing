@@ -95,7 +95,7 @@ to. This table is what `studio/tools/romance-build-check.py` reads.
 | 18 | 4 | 4 | (planned) | — | — | — |
 | 19 | 4 | 4 | The packing in public; she lets him carry | — | — | — |
 | 20 | 4 | 4 | The supper table | — | — | — |
-| 21 | 4 | 4 | A photo exists | — | — | — |
+| 21 | 4 | 4 | A photo exists; the ice storm puts her in his truck (B2-D19) | — | — | — |
 | 22 | 4 | 4 | He defends the hold on air, everything but her name | — | — | — |
 | 23 | 5 | 5 | Their own image weaponized | — | — | — |
 | 24 | 5 | 5 | His silence | — | — | — |

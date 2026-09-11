@@ -659,26 +659,39 @@ firewall strains at home: he almost asks about Trey's January
 re-eval across a dinner table; she walls it; both pay the tax
 and neither breaks the rule — SC4 dramatized inside the couple.
 His ladder rung: he catches himself drafting a board reply at
-1 a.m. and doesn't post it. — *Plants: F9. Pays: the firewall's
+1 a.m. and doesn't post it. The board is also forecasting ice for
+midweek, one line (B2-D19's plant). — *Plants: F9. Pays: the firewall's
 cost (vindicates at 27 — the rule they kept is the defense's
 spine).* *ANCHOR (Sonny): a commit is a promise from a
 seventeen-year-old — build accordingly.* *End: BUTTON (wave 5's
 one) — the unsent reply deleted character by character.*
 
-### Ch 21 — Rides Home (Aisha · Wk7)
+### Ch 21 — Rides Home (Aisha · Wk7) — THE ICE STORM (B2-D19)
 Trey's re-eval: real progress, documented, unhurried — and she
 does the thing nobody asked: builds his return-to-play portfolio
 for the scouts, protecting the boy's draft stock THROUGH the
 caution instead of despite it (F12 — Missy watches her do it;
-the thaw starts here, on the page). Vaguepost 2 lands one truck
-too close: "interesting to see who gets rides home from the
-facility these days" (rulebook's permitted form, aimed). They
-hold; the "after signing day" date is three weeks out; hope is
-the chapter's engine and the reader's dread (superior position:
-the photo already exists). — *Plants: F12. Pays: the protocol's
-honest arc (her call aging into visibly right).* *ANCHOR
-(Verna): healing is the one thing in this county that won't
-hurry for football.* *End: ache-hope.*
+the thaw starts here, on the page). The ice storm the board has
+been forecasting since ch 20 comes in behind the re-eval: the
+hill glazes by dark, the town shuts, and the RAV4 cannot get
+down Millrow. His F-150 can, and he is the last one up the
+hill. He drives whoever is still in the buildings down to the
+square — the trainer first, her last, to the motel, the truck
+in Verna's lot for the minutes it takes. Nobody broke the rule.
+Vaguepost 2 lands the next morning with only her in the cab:
+"interesting to see who gets rides home from the facility these
+days" (rulebook's permitted form, aimed) — and the two-door
+truck that cleared them at ch 13 is the truck the county now
+puts her in (RH1 read the other way; fair play). The storm
+costs and never rescues: no stranded night, no power-out
+intimacy. They hold; the "after signing day" date is three
+weeks out; hope is the chapter's engine and the reader's dread
+(superior position: the photo already exists). — *Plants: F12.
+Pays: the protocol's honest arc (her call aging into visibly
+right); the forecast planted at ch 20; engine row 11 (weather
+forces the thing).* *ANCHOR (Verna): healing is the one thing
+in this county that won't hurry for football.* *End:
+ache-hope.*
 
 ### Ch 22 — The Whip Count (Dan · Wk7 Thu, portal closes)
 Coach's Table, round two — and Dan moves one rung: defends the
@@ -689,7 +702,9 @@ The letter campaign's quiet machinery finishes: signatures
 gathered, CC line drafted, receipts folder zipped (shown as
 craft, per the rulebook — eerily polite). Signing day is a
 fixed Wednesday two weeks out; the extension sits on the spring
-agenda; every clock in the book is now visible at once. —
+agenda; every clock in the book is now visible at once. The
+roads are still bad from the storm; the show goes on anyway
+(texture only). —
 *Pays: ladder rung 3; the campaigns' merge complete. Plants:
 the last-inch gap (her name) that ch 27 closes.* *ANCHOR (Tick,
 off air, to Dan alone): signing day's a holiday for a thing

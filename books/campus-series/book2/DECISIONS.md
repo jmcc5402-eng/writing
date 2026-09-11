@@ -451,3 +451,46 @@ are never rhymes with a lead's arc.
    might do more holiday focus, but this book doesn't feel right for
    it." So 1.2 does not otherwise dwell on holidays; New Year's at ch
    18 is texture, not a set piece.
+
+## B2-D19 — the ice storm at ch 21 (author, 2026-09-11: "Let's go with ch21. That's the vibe I like where the weather forces something to happen that normally might not.")
+
+The author asked whether the book had a weather incident that causes
+conflict. It did not: the freeze at ch 7 (the coat), the cracked step
+at ch 13, December cold as texture, and the thaw at ch 30. The
+series' own engine checklist (row 11, "weather forces intimacy or
+truth — plot, not decor") had never been audited against the 1.2
+outline. Ruled:
+
+1. **One weather event in 1.2, at ch 21: a January ice storm.** The
+   Deep South kind — the town shuts for two days, the hill glazes,
+   nobody drives. It is the book's only storm; everywhere else
+   weather stays texture (drafters' card D5 holds).
+2. **What it forces:** the ride. The RAV4 cannot get down Millrow on
+   ice; his F-150 can, and he is the last one up the hill. He drives
+   whoever is still in the buildings — the trainer, a kid, her last
+   — down to the square and her to the motel, the truck in Verna's
+   lot for the minutes it takes. Nobody broke the rule they kept
+   since ch 15. Vaguepost 2 ("interesting to see who gets rides home
+   from the facility these days") keeps only her. The two-door truck
+   that cleared them at ch 13 (RH1, Earlene's honest signal: Coach's
+   has two doors) is the truck the county now puts her in. Fair play:
+   the same fact, read the other way.
+3. **The storm costs; it never rescues.** No lucky snow day, no
+   power-out intimacy, no stranded night — ch 21's "they hold"
+   stands. What it buys the book is the sighting the firewall could
+   not prevent, so the photo at ch 23 lands on a county already
+   primed. (Hard rule 5.)
+4. **Planted before it hits.** The forecast is on the board at ch 20
+   in Dan's chapter, one line — the parents' board loves weather —
+   and the county's one salt truck or its absence is a town fact
+   `[TK: town-ashford — who salts Millrow]`. Ch 22 (Thursday, the
+   portal closes) carries the aftermath as texture: roads still bad,
+   the show goes on anyway.
+5. **Open at the card:** the day (default Tuesday the 13th into
+   Wednesday the 14th `[CHECK: Wk 7 dates]`); who else is in the
+   cab (default the trainer, dropped first); whether Verna is at her
+   window when the truck stops (default yes, and she never says).
+6. **The taste it names:** the author likes weather that forces a
+   thing that would not otherwise happen — AUTHOR-TASTE 17. Every
+   book in the set gets one, and the outline audit checks for it.
+
