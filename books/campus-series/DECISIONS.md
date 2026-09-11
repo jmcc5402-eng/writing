@@ -505,3 +505,21 @@ university on the college association; Jenna Rutledge the byline
 runner-up). Unblocks KDP packaging (studio/gtm/kdp-launch-mechanics
 §4 item 2). Book 1.2's own title is still [TK].
 
+## D20 — the registers of a set, for shaping the NEXT set (author, 2026-09-11)
+
+The author, in chat, after ruling that 1.2 does not dwell on
+holidays: "Make a note to shape the next set, so the winter book is
+the warmer book and better for Christmas, similar to our book one
+here. This current book just a little bit more about the individual,
+not so much about warmth and family that was more of a Marisol
+thing."
+
+Recorded as a shaping rule for the next series, and as a reading of
+this one: 1.1 (Marisol, fall) was the warm book — family, the House,
+the town as a family; 1.2 (Aisha and Dan, winter) is the individual's
+book — two careful people alone in an emptied town, and Christmas
+gets one paragraph. In the NEXT set, put the warm, family-shaped
+couple in the WINTER book, so the holiday season falls on the book
+built to carry it; put the individual's story in another season.
+Owner: the series kit (01-premise, the set's season table) and the
+next set's brainstorm; not 1.2's.

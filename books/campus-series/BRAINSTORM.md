@@ -515,3 +515,9 @@ party policing posture. All architecture in §§2–7 is proposal, not
 canon — nothing is locked until it enters a bible.
 
 - **A holiday-focused book set** (author, 2026-09-11: "in a future book set we might do more holiday focus, but this book doesn't feel right for it"). Parked; not 1.2's.
+- **Shaping the next set (author, 2026-09-11; series D20):** the
+  winter book is the warm one — family, the town as a family, built
+  for Christmas — the way Book One (Marisol, fall) was; the
+  individual's story (1.2's shape: two careful people in an emptied
+  town) goes in another season. Assign each book's register with its
+  season before the couples are cast.
