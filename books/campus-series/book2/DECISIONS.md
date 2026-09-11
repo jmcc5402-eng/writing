@@ -435,3 +435,16 @@ B2-T13. (4) **The want stays in his head at ch 14.** He says "no
 way"; his POV knows it is the one untrue thing he said; the spoken
 admission is ch 15's. (5) Delores's bank-note line is cut; anchors
 are never rhymes with a lead's arc.
+
+## B2-D18 — the ch 17 rulings (author, 2026-09-11: "Agree with these, too early for morning after. Cal is good… it's a great season to crank up emotions, both sad and happy, so make sure to use it.")
+
+1. The lit room is room nine at the Magnolia Court, Saturday
+   December 26; he walks down from the Fieldhouse; Verna sees the
+   light and never says. 2. He does not stay the night — "too early
+   for morning after"; the chapter ends on the cut; no cups. 3. The
+   Christmas anchor is CAL's, at the Checkerboard counter; Earlene
+   stays at four. 4. Her kindness this week is the stool for
+   thirty-four, breakfasts paid with the cook. 5. Christmas Day is one
+   paragraph, alone — and the season is an amplifier: the paragraph
+   carries both registers, the sad and the happy, full volume; this
+   is a standing note for every holiday on any page (studio, taste 7).
