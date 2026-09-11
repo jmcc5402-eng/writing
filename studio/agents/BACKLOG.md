@@ -253,6 +253,16 @@ fix in the report:
 - **F29 — retire.** The which-appendix WATCH text; the since-June
   reconciliation; RECENT's duplicated law; the banned-words regex
   narrowed (F6).
+- **F30 — the engine checklist never ran (author catch, 2026-09-11).**
+  `books/campus-series/ENGINE-CHECKLIST.md` says every outline is
+  audited against its table, ABSENT items carry a WAIVED or a fix.
+  The 1.2 outline was never audited: row 11 (weather forces intimacy
+  or truth) was absent through ch 30 and the author caught it at ch
+  17. Fix: the outline gate (kit 06; `/new-book-outline`; the
+  showrunner's premise PR) runs the checklist and files the audit
+  beside the outline; the instrument auditor's four-chapter sweep
+  re-reads the audit for rows that a drafted chapter was supposed to
+  carry. Same day: B2-D19, taste 17.
 - **First audit, still unlanded:** F3/F14, F4, F5, F7, F8, F9, F13,
   F15, F16.
 
