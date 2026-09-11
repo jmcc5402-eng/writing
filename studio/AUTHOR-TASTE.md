@@ -348,6 +348,12 @@ as a run of beats with chapter numbers in parentheses, and "Wound:"
 — story in sentences, chapter numbers only for what comes next, no
 labels inside a paragraph; read the card aloud before it goes.
 
+**Added 2026-09-11 to entry 13 (the ch 17 card in chat):** "Too much
+to read make more concise." Caught: a card of 800 words and a chat
+message that repeated it with five multi-sentence questions. Check:
+the card under 350 words (kit 12); the chat shorter than the card;
+one line per question, default first, "Or" after.
+
 ## 14. Make it an instrument, so the next book is fast
 
 > "I want this to be another instrument we use so eventually we can

@@ -124,7 +124,10 @@ one paragraph each; where it stands, what this chapter moves, what
 comes next. **It reads like a letter, not a ledger (author,
 2026-09-10): the "so far" is story in two or three sentences, chapter
 numbers only for what comes next, no runs of parentheticals, no
-labels inside paragraphs; read it aloud before sending it.** File it at `notes/cards/
+labels inside paragraphs; read it aloud before sending it; and
+SHORT — under 350 words, the questions one line each (author,
+2026-09-11: "Too much to read make more concise"). The chat
+message that carries it is shorter than the card.** File it at `notes/cards/
 chNN-card.md`, put it at the top of the PR body, and pass it to
 `studio/tools/listening-file.py` so it is the first thing the author
 hears. Template: `studio/series-kit/12-chapter-card.md`. A chapter PR

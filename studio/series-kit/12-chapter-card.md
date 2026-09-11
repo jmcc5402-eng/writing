@@ -12,8 +12,11 @@ Then it sits at the top of the PR body
 and is filed at `notes/cards/chNN-card.md`. The author reads it
 before the chapter. **Who:** the showrunner writes it from the arc
 docs (`11-arc-docs.md`), the outline, and THREADS — never from
-memory. **Length:** one paragraph per arc, five to eight sentences,
-plain words. It is a map, not a summary of the chapter.
+memory. **Length (author, 2026-09-11: "Too much to read make more
+concise"):** the whole card under 350 words; three to five
+sentences per section; the open questions one line each, the
+default first and the alternative after "Or." In chat, the card
+is shorter still. It is a map, not a summary of the chapter.
 
 **Every paragraph has the same three moves:** where the arc stands,
 what THIS chapter moves, what comes next.
