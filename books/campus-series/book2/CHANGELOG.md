@@ -1190,3 +1190,70 @@ important watching (taste entry 15; the dossiers' ladders, rows
   panel 1.5.0; brief lines THE SLOW BEAT and THE ENDING THINKS; the
   ending check's volley runs.
 
+
+## 2026-09-11 — ch 17 DRAFTED: "The Gray Season" (Aisha · Dec 20–26) — PR open; CONNECTING, one drafter
+
+- Card first, cut to 300 words on the author's "make more concise";
+  audited WITH the brief before it went to the author (the new §3c
+  order) — eleven wrong sentences caught (VACANCY dark vs lit; "first
+  door"; Earlene's fifth anchor; the stool in Earlene's name; the
+  chart to Missy; Missy's posts; "review said to his face"). The
+  author's calls → B2-D18: room nine on the 26th and he walks; no
+  morning after; Cal's anchor; the stool; Christmas one paragraph,
+  both registers, scoped to this chapter. The first brief with the
+  LEADS' SCENES floor (the lit room ≥1,400 words) in place of the
+  four brief slots.
+- One drafter (D3, plain sentences everywhere but the room). The
+  page: the parking space "on the first try" and the town down to
+  its size; thirty-four's finger and the second stool ("Sit on it and
+  eat."; "It's eggs."); Dan on the stool nearest the register with a
+  plate wiped clean beside him and her walk behind his stool, "and he
+  sat still for it"; Cal and Marisol and the meal train; Cal's anchor
+  ("Christmas is loud for the married / and long for everybody else.
+  We can spare a night. / Eat."); the release in Missy's hand and the
+  whole chart sent unasked, "a doctor who held a page back from
+  another doctor / had a reason to, and she did not have one"; his
+  lit film-room window at four; Christmas in one paragraph, sad then
+  glad, the second run in daylight; room nine with the lamp on and
+  the curtain open, "waiting to see whether Dan Merritt would walk
+  down a hill to a light"; "Aisha had the door open before he
+  knocked"; the jacket on the rod beside the coat with the letter in
+  it; the rack; "Nice room." / "That came out wrong. I had a better
+  one on the walk down."; "I've never been that glad to see a window
+  in my life."; "There's the chair and there's the bed / and I'm not
+  going to say which."; the truck keys put down "because you hadn't
+  said"; the receipt; the ice machine; **"I want you, Aisha. I've
+  wanted you since a bad room on a third floor / where you laughed at
+  me about the floor"** / **"I want you… In here it goes
+  somewhere."**; "Missy came to the—" / "That one stays up the hill
+  with the truck."; the crossing, nine sentences, no coat on either
+  of them, her palm flat on the back of his neck; "She was afraid of
+  all of it. / She was not afraid of him."; the quarter-zip off
+  one-handed onto her floor — "she was going to let it lie there all
+  night." UP; the cut at the first garment. About 3,800 words, the
+  room about 1,900; 16.0% quoted; opening check PASS; ending check
+  clean (the WARN is Dan not yet in the room).
+- Panel 1.5.2 (`notes/ch17-panel-2026-09-11.md`): PASS WITH FIXES —
+  20 beats, all eight kinds; nine sentences of approach and thirteen
+  to the garment; five awkward beats, all charming; both beer tests
+  YES (the stool seen by thirty-four and the cook, thanked by nobody;
+  Dan's keys). Thirteen asks sent as asks, written by the drafter:
+  the release scene given one felt sentence of him; "since a hospital
+  lounge in November" (ch 15 verbatim) and the unpaid "the rest of
+  it" gone; the signal to one sentence; the jaw and "watched him"
+  rationed, "two steps" gone; Christmas folded to one paragraph, the
+  pivot hers, a glad act on the page, "six minutes away" and "up the
+  hill" gone (spent; the house has no map); the lamp wink cut; the
+  colleague's fate said plainly; the second nylon/wool/sheet list
+  summed; one pointing clause cut; two faces added in the talk; the
+  second ice-machine gag by a different door; VACANCY named before
+  "the pink word"; the epigraph off the twenty-third; Marisol's offer
+  off the anchor's word. Gate rulings on the deferred items in the
+  report (the ending is the cut, kept; two paragraphs → one; Cal's
+  anchor as the author approved it; the epigraph carries no date).
+- Showrunner copy fixes after the drafter: "and she liked him for
+  it"; the colleague "got a different life" (ch 14's words, not "the
+  career"); the film-room door cut (she is outside; she sees a
+  window).
+- SR (strike by comment): thirty-four's stool; the meal train; the
+  ice machine; the receipt; "a bad room on a third floor."
