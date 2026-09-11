@@ -446,5 +446,8 @@ are never rhymes with a lead's arc.
    stays at four. 4. Her kindness this week is the stool for
    thirty-four, breakfasts paid with the cook. 5. Christmas Day is one
    paragraph, alone — and the season is an amplifier: the paragraph
-   carries both registers, the sad and the happy, full volume; this
-   is a standing note for every holiday on any page (studio, taste 7).
+   carries both registers, the sad and the happy, full volume — for
+   THIS chapter. The author the same day: "in a future book set we
+   might do more holiday focus, but this book doesn't feel right for
+   it." So 1.2 does not otherwise dwell on holidays; New Year's at ch
+   18 is texture, not a set piece.

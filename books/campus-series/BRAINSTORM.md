@@ -513,3 +513,5 @@ Verify before print: Bentham display location, midyear ski-down
 current practice, monarch population levels, any given year's street-
 party policing posture. All architecture in §§2–7 is proposal, not
 canon — nothing is locked until it enters a bible.
+
+- **A holiday-focused book set** (author, 2026-09-11: "in a future book set we might do more holiday focus, but this book doesn't feel right for it"). Parked; not 1.2's.
