@@ -140,6 +140,15 @@ finding). Started at the wave-1 fold (2026-08-30).
 | The touch slate (spent) | her palm flat on the BACK OF HIS NECK (ch 17, the first contact of the lit room; "no collar between her palm and the heat of it"); his hands under her sweater at her waist; her hands under the hem of the quarter-zip | ch 17 |
 | "a bad room on a third floor" | his name for the hospital lounge (ch 4: "This is a bad room." / "Then it's a bad floor." / she laughed) — the start of his wanting, said at 17; "since a hospital lounge in November" is ch 15's and spent | ch 4, 15, 17 |
 
+## Couples (status, since when, on which page — second audit F32; the keeper reads this before ruling on any couple line)
+
+| Couple | Status | Since / source |
+|---|---|---|
+| Cal Sutter × Marisol Pruett | ESTABLISHED, NOT MARRIED — he a widower (the late wife's dates on the shop wall, Book One ch 12/16), she divorced ~2.5 years (Book One D07; kept her married name, D11); together since Book One's close | Book One ch 27–30; 1.2 ch 17 "a couple the town had long since decided about" (#158 fix; the author: "an established couple") |
+| Missy × Denny Gault | married; Trey's parents | 1.2 ch 4 on |
+| Mackenzie Doyle × Ty Beaumont | the sub-couple; a hookup (ch 11), the leak (ch 12); status open on the page | 1.2 ch 11, 12 |
+| Aisha Cole × Dan Merritt | the leads — the terms (ch 15): nothing public till the first Wednesday in February; the lit room (ch 17); nobody in town has it on the record | 1.2 ch 15, 17 |
+
 ## Name map (who calls whom what — STYLE "Names are relationships"; started 2026-09-07)
 
 | Character | Narration | Who says what | The one-person name |

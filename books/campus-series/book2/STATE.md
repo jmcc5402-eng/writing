@@ -14,7 +14,7 @@ lines, carryover-reader gate).**
 **AUTHOR FOCUS: ROMANCE ONLY; CHAPTER BY CHAPTER.** Card before
 drafting (sent to the author first), brief, audit, ONE drafter for
 connecting chapters and THREE blind drafters for set pieces (the
-selective competition, DRAFTING-PROTOCOL item 5; #143), panel 1.3.0
+selective competition, DRAFTING-PROTOCOL item 5; #143), the panel (current version: ROSTER)
 (scene by scene; blind A/B/C for a competition, then the
 scoreboard), lint, one PR with the card on top of the listening file.
 
