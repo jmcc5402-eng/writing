@@ -95,7 +95,7 @@ the printer (the audit rules the channel: the athletic director's
 office forwards; never "the AD"). The stranger's sentence: *Eleven
 families have written the athletic director asking about the
 doctor's decisions and the roster, and the coach reads it alone in
-an empty building with the portal four days off.* The paragraph
+an empty building with the window opening Saturday.* The paragraph
 locates: WHERE (his office / the staff room), WHEN (Monday, the
 week after Christmas, the roster gone), WHAT IS IN HIS HAND (the
 page). No date-first sentence; no "review" recital (ch 17 opened
@@ -339,3 +339,200 @@ lands wrong); 15 (root for them — two acts, unseen, unthanked); 16
 (slow the good parts — the thread has room, not rallies); 17
 (weather — none here; the ice storm is ch 21's; the board may
 forecast nothing yet).
+
+
+---
+
+## AUDIT ADDENDUM (continuity-keeper 1.4.3, E2, 2026-09-12) — BLOCK, then corrected
+
+The seven blocks are corrected in the brief body below this line
+and in the card; the addendum's facts stand as rulings. Its BANNED
+line binds the drafter.
+
+**ADDENDUM — brief-ch18 (continuity, E2)**
+
+Read order per E2: the copy's channel, the staff room, Odell's hours first.
+
+1. **Calendar.** Dec 19 Saturday (B2-D08.2); ch17:288/328 confirm Friday
+   Christmas, Saturday the 26th. So Jan 2 is a **Saturday**. Outline
+   `b12-outline.md:633` "Wk7 Mon, January 2" is a CONTRADICTION — ch 19's card
+   must fix it; B2-D19.5's "Tuesday the 13th" is also a Wednesday. Ch 18 says
+   "the window opens Saturday" and never counts days: Monday the 28th to
+   Saturday is five, not four (card and brief :98 both say four).
+
+2. **The letter.** Ch 6's words, verbatim: "reviewed" (:134), "kids who've
+   earned it" (:135), "Families would appreciate clarity, going forward, on how
+   the medical decisions are being made" (:139–140). The outline phrase shares
+   only "clarity" and "medical decision" — the fold table ruled that the same-
+   campaign tell; no other ch 6 word may appear. "proactive risk posture" IS
+   verbatim on ch10:131 (italic, lowercase); "forty-point" is a registry gloss,
+   not on the page — do not import it.
+
+3. **Staff in break week — UNESTABLISHED.** Ch17:450 "the only man in the
+   building since Monday" through the 26th; no page says when staff return. The
+   page must say in one clause that staff are back for the portal, and Monday's
+   "empty building" cannot have the coordinator on the clicker. Same for the
+   admissions office (on no page; NEW): one clause that it is open.
+
+4. **The stool.** Ch17:90 "till the semester starts" and :109 "Till January it's
+   his" — both canon. Registry row 127: **Dan is never told.** The cook says
+   nothing; Dan reads it from the kid on the stool he already sat beside on the
+   22nd (ch17:134–137). Staging: his stool is nearest the register, the kid's is
+   the next one — side by side (ch12:28–31, ch17:148–149). Brief :157 "the kid
+   on the far side of the register" is wrong; B2-T14's mechanic is a body paying
+   at the register beside his stool.
+
+5. **Odell.** Nothing contradicts a haircut on Fountain Row; break-week hours
+   are unestablished — one clause or nothing. The ban is his FOLDING chairs and
+   the carrying template (ch8:368–375), not the barber chair (town-ashford §4:
+   two chairs and a bench). "The portal's cameras" — no page gives the portal
+   cameras; the slate has him shaving for Saturday TV; say what the cameras are
+   or drop them. The beard: a week on the 26th (ch17:359–362) is eleven days by
+   Wednesday. Ledger conflict, not a block: THREADS:53 gives ch 8's anchor to
+   Boyd; THREADS:291 and ch8:379–381 make it Odell's — showrunner to reconcile
+   before Odell's is counted.
+
+6. **Mackenzie.** Ch11:406–467 is her register: checks first, likes second,
+   counts (two beers in two hours; a semester in), decides — "the only kind she
+   made." The Fieldhouse never has her NAME (name map: "the admissions
+   director"); what Dan keeps out of the room is her title. Ty's "Mack" is one-
+   person, in the dark, spent.
+
+7. **Texting.** The leads have never texted each other on any page. Dan texted
+   the coordinator (ch12:56–62); Aisha received Verna's (ch15:115). Whether they
+   hold each other's numbers is unestablished — one clause (staff numbers), no
+   beat. Her register precedent: ch1:142. Phones face down: ch 2, 4, 10, 12, 17;
+   face up ch12:435 — no new turn.
+
+8. **The walk-on.** Ch3:238: "a scout-team walk-on" who ran the opponent's
+   package at the first defense. He is NOT the backup; the playoff drive at the
+   fifty (ch 16) is the backup's. Brief :138 "the walk-on's December film — the
+   playoff drive" is a CONTRADICTION: his film is scout-team practice film. The
+   first-team-line image is **ch14:21–28**, not ch 13 (brief :143, :284; row 95
+   is correct). "The sheet" in every Dan chapter is HER 5:15 paper (ch13:386,
+   ch14:415, 15, 16) — the roster paper may not be "the sheet." "The kid" is the
+   backup in ch 16 and thirty-four in ch 17; one kid per chapter.
+
+9. **The firewall.** Ch15:365–373: "And here's mine," she said — the firewall is
+   HERS; his term is the class-closed secrecy. Brief :44–45 "the terms he asked
+   for" is a CONTRADICTION. It bars talking about "a call of mine" off the
+   sheet; a letter's existence is not a call — card call 3's second option is
+   terms-legal; if Dan reads it as barred, the page says that is his reading
+   (Deliberate). UNESTABLISHED and load-bearing: whether the athletic director
+   copies HER — ch 5 canon has him emailing her directly on her matters
+   (registry row 26). The brief must say she has not been sent it, or the
+   premise fails.
+
+10. **The eleven.** None named; the TK resolves NO. Rhonda's fourteen (ch 15)
+    against eleven signing was ruled at the ch 16 fold; Dan may notice the drop,
+    one clause. "Twelve thousand" is on the page (ch2:419, ch5:28) — Odell's
+    number is safe.
+
+11. **His house.** No location on any page; ch 17's "up the hill" is the
+    Fieldhouse. Scene 6's "the square's noise from the house" locates it —
+    prohibited; use the board's midnight thread.
+
+12. **Brief internal conflict.** Scene 4 ends on Ty's "Coach." while BANNED
+    lists it as a close. The section may not end there.
+
+13. **Opening / argument / reversal.** Opening: no recital of ch 12/16/17; fix
+    "four days." Argument: the walk-on half is earned (ch 6, ch 14); "decided
+    for… the doctor" is earned by no page — say what he decides for her (to
+    carry it) or cut her from the sentence. Reversal costs Dan and Ty — holds.
+
+14. **Build check** PASS; ch 18 spends nothing; the WARNs are 23's and 26's.
+    COUPLES rows read: Cal × Marisol never "married"; Mackenzie × Ty may not be
+    called a couple.
+
+15. **Uncited furniture.** The courtesy copy — rule: PRINTED, one page,
+    forwarded by the athletic director's office (email is her register, ch 5;
+    paper is his, 14–16). The drawer, the red-zone install: new, harmless. The
+    taped hand: ch17:83–84, two weeks from the 21st — still taped.
+
+**BANNED (this addendum):** "6:40. Furnace ran behind again. Verna's note was
+right."; "four days"; "the sheet" for the roster paper; "forty-point"; "the
+square's noise"; "Families would appreciate"; "going forward"; "reviewed"; "kids
+who've earned it"; "the week of beard"; "the portal's cameras."
+
+**CARD CORRECTIONS**
+
+- "The window opens Saturday." → five from Monday; the window opens Saturday,
+  uncounted.
+- "the terms mean he cannot say a word of it to her" → the firewall is hers and
+  covers her calls; the letter's existence is his reading of it.
+- "he watches the walk-on's December film" → scout-team practice film; not the
+  game.
+- "so the name the room hears is Ty's and not Mackenzie's" → the room never has
+  her name; her title.
+- "the cook says it's paid" → the cook says nothing; Dan is never told; he reads
+  it.
+- "Odell cuts the week of beard off before the portal's cameras" → eleven days;
+  the cameras are unestablished.
+- "the athletic director sends Dan a courtesy copy" → add: she is not copied.
+- Call 1 → a name goes to the bible with year and position (SR-B2-18).
+
+**TASTE** the brief risks: 1 (two "kids"; "the sheet" doubled; the argument's
+unearned half), 6 (the "Coach." close; the cook's line as a ch 17 echo), 8
+(apart chapter — woven, holds), 13 (the card's day count reads as fact), 15 (the
+stool seen twice — once), 17 (none; ch 21's).
+
+**VERDICT: BLOCK.**
+1. Scene 2 conflates the walk-on with the backup (ch3:238).
+2. The firewall attributed to his terms (ch15:365).
+3. "The cook says it's paid" vs registry "Dan is never told."
+4. "Four days" (card, brief :98).
+5. She-not-copied premise unset (registry row 26).
+6. "The sheet" for the roster paper.
+7. Staff-back clause absent; scene 4's banned close.
+
+Files: `/home/user/writing/books/campus-series/book2/notes/cards/ch18-card.md`,
+`/home/user/writing/books/campus-series/book2/plots/brief-ch18.md`,
+`/home/user/writing/books/campus-series/book2/plots/b12-outline.md:633`,
+`/home/user/writing/books/campus-series/book2/manuscript/ch03.md:238`,
+`/home/user/writing/books/campus-series/book2/manuscript/ch15.md:365`.
+
+## CORRECTIONS TO THE BRIEF BODY (showrunner, after the audit)
+
+1. **The walk-on is a scout-team walk-on, not the backup** (ch3:238).
+   Scene 2's film is scout-team PRACTICE film; the playoff drive at
+   the fifty is the backup's and is not his. The roster paper is "the
+   depth chart" or "the January roster," never "the sheet" (hers).
+   "The kid" is nobody this chapter: "thirty-four" and "the walk-on"
+   / "Marisol Pruett's boy."
+2. **The firewall is HERS** (ch15:365–373, "And here's mine"): it bars
+   talk of her calls off the sheet; his term is the class-closed
+   secrecy. The letter is about her calls; Dan reads it as inside her
+   rule, and the page says that is his reading. **She IS copied** —
+   the athletic director emails her directly on her matters (ch 5;
+   registry row 26) and sends Dan paper; the page says once that she
+   has it too. The ache: both hold it; the texts are about nothing.
+   Card call 3 stands in its corrected form.
+3. **The stool:** the cook says nothing; nobody tells Dan; he reads
+   it from thirty-four eating on the second stool beside his own,
+   hand still taped (ch17:83–84). Side by side; the register is
+   beside HIS stool, not between the kid and him. The stool is seen
+   ONCE this chapter.
+4. **The window opens Saturday**, uncounted; never "four days."
+5. **Staff back:** one clause on the page that staff are back for the
+   portal (Wednesday); Monday's building is empty. The admissions
+   office open: one clause, if Mackenzie's section runs.
+6. **Scene 4 may not close on "Coach."** — it closes on the marker in
+   Ty's hand, or on the coordinator.
+7. **Odell:** the barber chair, not the folding chairs; eleven days of
+   beard; no "portal cameras" — the beard comes off before the
+   window opens, reason unstated or stated as Saturday TV only if a
+   page gives it (none does — leave unstated). Odell's ch 8 anchor is
+   on the page (ch8:379–381); this is his SECOND.
+8. **The house:** no location; New Year's Eve is the board's midnight
+   thread, one line.
+9. **Texting:** the leads have never texted each other on any page;
+   one clause that staff numbers are in each other's phones since
+   June, no beat. Her register precedent ch1:142.
+10. **THE ARGUMENT, corrected:** *Eleven families want the county to
+    decide who plays and who is hurt; Dan decides the walk-on's spot
+    himself, first, and carries the doctor's half of the letter
+    without a word.* The name-map: the staff room never has the
+    admissions director's NAME; what Dan keeps out of the room is her
+    title.
+11. Ch 19's day flagged in the outline (Jan 2 is a Saturday); D19's
+    ice-storm default corrected to Wednesday the 13th.

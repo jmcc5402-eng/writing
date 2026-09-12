@@ -490,8 +490,9 @@ outline. Ruled:
    `[TK: town-ashford — who salts Millrow]`. Ch 22 (Thursday, the
    portal closes) carries the aftermath as texture: roads still bad,
    the show goes on anyway.
-5. **Open at the card:** the day (default Tuesday the 13th into
-   Wednesday the 14th `[CHECK: Wk 7 dates]`); who else is in the
+5. **Open at the card:** the day (default Wednesday the 13th into
+   Thursday the 14th — Jan 2 is a Saturday, so the 13th is a
+   Wednesday; the audit corrected this at ch 18); who else is in the
    cab (default the trainer, dropped first); whether Verna is at her
    window when the truck stops (default yes, and she never says).
 6. **The taste it names:** the author likes weather that forces a
