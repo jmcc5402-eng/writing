@@ -14,11 +14,11 @@ Small, planned variety so repeated runs don't converge on the same moves.
 4. **Pair the card with the agent's banned moves** from `RECENT.md`.
 5. **Deck maintenance is an `agents:` change** like any other: add or retire
    cards through the changelog. Refresh a deck when its cards stop surprising.
-7. **Cards may carry a scope tag** (`[romance]`, `[mg]`, `[nf]`). An
+6. **Cards may carry a scope tag** (`[romance]`, `[mg]`, `[nf]`). An
    untagged card is in scope for every run. The least-recently-used draw
    considers only cards in scope for the run's book, so a
    program-specific card never starves another book's rotation.
-6. **Mechanical runs don't draw.** Verbatim imports, file moves, and other
+7. **Mechanical runs don't draw.** Verbatim imports, file moves, and other
    transcription work take no card — variance exists for judgment, and
    injecting it into transcription would be damage. Log the run with "—".
 
@@ -32,7 +32,7 @@ Small, planned variety so repeated runs don't converge on the same moves.
 | D4 | Give one minor character a moment of unexpected competence |
 | D5 | Weather as texture, never as topic |
 | D6 | Let one scene run a beat past comfortable before cutting |
-| D7 | Open every scene mid-motion; no arrivals, no waking up — *mid-motion still locates the reader in three lines (STYLE, the establishing line; the author's #147 catch)* |
+| D7 | RETIRED 2026-09-12 (first audit F15, second F26): "open every scene mid-motion" became the seam — three chapters of the same mid-motion opening; STYLE's establishing line and the opening check cover what the card was for. Not dealt. |
 
 ## Critic deck — `junior-literary-critic`, `red-team-critic`, `kid-reader-panel`, `superfan-reviewer`
 
@@ -49,7 +49,7 @@ Small, planned variety so repeated runs don't converge on the same moves.
 | C9 | `[romance]` Track one lead's wanting and nothing else |
 | C10 | `[romance]` Suspend attention to plot; report only what it felt like |
 
-## Editor deck — `developmental-editor`, `line-copy-editor`, `continuity-keeper`
+## Editor deck — `developmental-editor`, `line-copy-editor`, `continuity-keeper`, `instrument-auditor`
 
 | ID | Card |
 |---|---|

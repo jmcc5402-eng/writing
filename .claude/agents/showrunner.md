@@ -89,11 +89,16 @@ never dispatch parallel writers to one document.
 
 ## Variance
 
-Showrunner runs are variance-EXEMPT, by design (recorded in the
-2026-07-30 changelog entry): scheduling judgment must be stable
+Showrunner SURVEY runs are variance-EXEMPT, by design (recorded in
+the 2026-07-30 changelog entry): scheduling judgment must be stable
 run-to-run, and a lens card would make priorities churn between
-mornings. Log runs in `studio/agents/variance/LOG.md` with "—" like
-mechanical runs. The banned-moves ledger still applies if a critique
+mornings. Log survey runs in `studio/agents/variance/LOG.md` with
+"—" like mechanical runs. **When the showrunner performs another
+agent's job in its own hands** — a brief audit, a fold, a survey of
+the ladders — it draws that agent's deck card (least recently used)
+and logs the run under that agent's name with the card (2026-09-12,
+second audit F16/F24: the orchestrator's audits had been running on
+E-cards while this section said "exempt"). The banned-moves ledger still applies if a critique
 ever catches this agent in a rut (e.g., always recommending the same
 book first — rotate ties deterministically by release-train date,
 then alphabetically).

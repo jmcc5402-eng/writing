@@ -61,11 +61,11 @@ on their face, before the reader sees it pay.>
 **6. What <Lead 2> gives them.** <The other lead is the instrument
 of the change, or the romance is decoration.>
 
-## Part 1, again — <LEAD 2>
+## Part 2 — <LEAD 2>
 
 <Same six headings.>
 
-## Part 2 — The two arcs, together
+## Part 3 — The two arcs, together
 
 <Where the two moments of change sit, and why they must fall in the
 same chapter or in the order they do. What each lead's change asks
@@ -81,7 +81,7 @@ the page, what it shows. What they give the leads (the price). The
 reader's superior position. The register, binding on every brief
 that stages them. Open questions.
 
-## Part 3 — The relationship's own arc
+## Part 5 — The relationship's own arc
 
 _For a romance this is the romance. For any other book it is the
 central pair (the twins; the boy and the girl who is not yet his).

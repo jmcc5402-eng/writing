@@ -136,15 +136,18 @@ author catch. No finding on taste. No finding on prose quality.
   what the instruments are for. Where a rule and the author's taste
   sheet disagree, the taste sheet wins and the rule is the finding.
 - Draw one variance card from the editor deck (E1–E6, least recently
-  used; the orchestrator draws and logs it) and say in one line how
-  you read it.
+  used; the orchestrator draws and logs it; DECKS.md lists this agent
+  under the editor deck) and say in one line how you read it.
 
 ## Your own test set
 
-The first run must account for these four, all caught by the author
+The first run had to account for these four, all caught by the author
 or by a later audit rather than by the instrument on duty (campus
-1.2, 2026-09-07). Any it cannot see from the record is a finding on
-this definition:
+1.2, 2026-09-07). **Every later run builds its own test set the same
+way:** the author's catches since the last audit (from
+`studio/AUTHOR-NOTES.md`), each tabled with the instrument that ran
+past it; any the run cannot see from the record is a finding on this
+definition. The four below stay as the pattern:
 
 1. TEMPLATE — ch 10–12 opened on the same calendar recital; one
    stake sentence in all three verbatim (the "explicit opening" rule).

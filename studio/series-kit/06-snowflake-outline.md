@@ -61,7 +61,11 @@ deduced, never lucky. Dangling setups: list or state none._
 | # | Ingredient | Where it lands |
 |---|---|---|
 _All checklist items accounted for; ABSENT items flagged per the
-warnings tier — suggest a WAIVED line or a fix, never silently drop._
+warnings tier — suggest a WAIVED line or a fix, never silently drop.
+THIS TABLE IS THE OUTLINE GATE: an outline is not ratified until it is
+filled row by row against the series' engine checklist and filed
+beside the outline (PIPELINE §3; campus 1.2 shipped seventeen
+chapters with its weather row absent — author catch, 2026-09-11)._
 
 ## B-story audit
 

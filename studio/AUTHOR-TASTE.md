@@ -389,11 +389,6 @@ book.
 
 ---
 
-**Reviewed:** at every fold (new rows in the ledger → new or amended
-entries here); after every listen (the re-mine); after every fourth
-accepted chapter (the taste audit, PIPELINE "The author's notes").
-Last review: 2026-09-11 (entry 17 added; 16 on 09-10).
-
 ## 15. Root for them — likable before admirable
 
 > "I think we need to go back and make both of our lead characters
@@ -483,3 +478,10 @@ campus); the book's DECISIONS names the storm and what it forces
 (1.2: B2-D19, the ice storm at ch 21).
 Fails when: the weather is only cold; when the storm is a snow day
 that gives the leads a free night; when it arrives unforecast.
+
+---
+
+**Reviewed:** at every fold (new rows in the ledger → new or amended
+entries here); after every listen (the re-mine); after every fourth
+accepted chapter (the taste audit, PIPELINE "The author's notes").
+Last review: 2026-09-11 (entry 17 added; 16 on 09-10).

@@ -25,6 +25,17 @@ blocks them, and what changes by the end of the scene.
 
 *Leaves when:* no scene exists only to move information.
 
+**The outline gate runs the engine checklist (2026-09-12, second
+audit F30 — author catch on 1.2 ch 17: "do we have planned an actual
+weather incident?").** Before an outline is ratified, its ingredient
+audit (kit 06, "Ingredient audit") is filled row by row against the
+series' engine checklist (campus: `ENGINE-CHECKLIST.md`; the kit's
+02-story-engine table) and filed beside the outline; an ABSENT row
+carries a WAIVED line or a fix, never a silent drop. The 1.2 outline
+was never audited and shipped seventeen chapters without its weather
+row. The instrument auditor's four-chapter sweep re-reads the audit
+for rows a drafted chapter was meant to carry.
+
 ## 3b. Character arcs — THE ARC GATE (author law, 2026-09-03)
 
 > "Did we do a character arc for the main characters for this
@@ -119,6 +130,12 @@ brief's ROOTING FOR lines read from the ladder; the panel's beer
 test checks the page. For a book already in production the dossiers
 are written from the accepted pages (canon cited; new facts marked
 for striking) and the ladder's early rungs become a MINOR pass.
+**The gate also checks each dossier's "history with each other before
+page one"** (kit 13 §1; 2026-09-12, F33 — the author at 1.2 ch 17:
+"seed more that they bumped into each other earlier… that is part of
+how they already know each other"): two or three accidental meetings
+before the book, and the first-act chapter and line that seeds each.
+Missing = the arc gate returns the dossier.
 
 ## 3c. THE SINGLE-CHAPTER CADENCE (author law, 2026-09-03)
 
@@ -172,8 +189,12 @@ eight inherited it. A four-chapter gate spends four chapters'
 drafting before the first correction arrives.
 
 **What changes:**
-- **One chapter per PR.** The listening file is that chapter alone,
-  ~2,000-2,500 words, ten minutes of audio.
+- **One chapter per PR.** The listening file is that chapter alone.
+  **Length (conformed 2026-09-12, second audit F26):** a chapter runs
+  about 2,800–3,500 words and a set piece past it; the leads' scenes
+  carry a FLOOR, never a ceiling (author, three chapters running:
+  "too dry," "too staccato," "much of this seems so terse"). The
+  quiet-band dialogue slot is 8–15% quoted, one chapter per quarter.
 - **Fewer drafters per chapter, not more gates.** Blind competition
   stays where the chapter is new (2-3 candidates); a RE-CUT of an
   accepted chapter gets one drafter working from a brief that names
@@ -192,6 +213,23 @@ drafting before the first correction arrives.
 - **The author's ruling on chapter N is in the brief for chapter
   N+1.** That is the whole point of the cadence: corrections
   compound forward instead of arriving in a pile.
+
+**The fold has an owner (second audit F25; F31).** The orchestrator
+folds a merged chapter in ONE commit, against this checklist, before
+the next chapter's card: (1) the header to ACCEPTED; (2) the THREADS
+entry, and the entry's counts (edges, anchors, the ladder's mark,
+the quiet band) copied into the header ledgers in the same commit;
+(3) every index row the chapter plants, pays, or spends; (4) the
+registry rows, each with a `chNN:line` or PR cite; (5) the dossier
+and arc rows to ON THE PAGE, and `romance-build-check.py` run and
+its last line quoted in the commit message; (6) any doc an audit
+addendum ruled against, conformed; (7) the author's comments from
+the PR into `studio/AUTHOR-NOTES.md` the same day, each with its
+instrument; (8) **the page against the card** — every promise the
+author approved on the card is on the page, or the drift is named
+(1.2 ch 17, #158: the card said the chart was sent unasked; the page
+had waited for a release); (9) STATE. A fold that skips a line says
+which and why in the commit.
 
 **What does not change:** the brief audit remains a blocking gate;
 variance cards are still drawn and logged; the anchor line, the
@@ -274,6 +312,7 @@ since the work of pitching generalizes across books.
 
 | Book | Stage | Next |
 |---|---|---|
+| `campus-series` (Annie Farrow) | Book 1.1 done; Book 1.2 at 4 — ch 1–17 accepted (2026-09-12) | ch 18's card; the ice storm at 21 (B2-D19); the retro at ch 30 |
 | `spytwins` | 6 for Book 1; 3 for Book 2 | Outline Book 2 (Japan); build the pitch package; get beta readers on Book 1 |
 | `mybyb` | 4 — Draft, reboot voice locked | React to ch. 1, draft the rest of Part I, land the title |
 | `youngnick` | 2 — Bible, key decisions being locked | Lock Nick's surname; pull the manuscript in from Drive |

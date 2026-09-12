@@ -1,8 +1,8 @@
 # The Drafting Protocol (programmatic drafting)
 
-**PROPOSED 2026-08-04 — stages 1–2 of the ladder are author-decided
-(the four-paragraph expansion and the whole-book continuity gate);
-the rest becomes locked when the author blesses it.**
+**STANDING (proposed 2026-08-04; in force since the campus Book 1
+retro, 2026-08-29, and amended by author law since — the dated
+sections below). Stages 1–2 of the ladder are author-decided.**
 
 The premise: drafting errors are cheapest at the level where they're
 introduced. So the book descends a ladder of representations, and
@@ -32,7 +32,12 @@ verified on 6 pages before it can infect 90.
    facts the drafter may use — names, distances, prices, dates,
    object locations — pulled from canon docs. A fact not in the
    manifest may not appear in prose except as `[TK ...]`. Drafters
-   flag, never invent.
+   flag, never invent. **The manifest is nouns with cites, never a
+   voice sample** (first instrument audit, F4): furniture as
+   "the stool nearest the register (ch12:28)", not the sentence
+   around it; verbatim quotes are DIALOGUE only; a "do not repeat"
+   cites the line (`chNN:line`) and never prints it — three blind
+   drafters converge on whatever the brief prints.
 3. **Blind drafting.** Prose runs get the brief, the voice sample,
    and the relevant thread-index entries — NOT the neighboring
    chapters. This kills tic-copying (the mechanism behind the
@@ -48,8 +53,10 @@ verified on 6 pages before it can infect 90.
    colon/dash sweep; banned-moves echo scan; timeline linter (every
    day/weekday/countdown word against the state chain); wink counter
    (S01 budget); reading-band spot check.
-6. **Fixed review stack, fixed order.** Continuity → developmental →
-   line, each producing NUMBERED findings; author rulings answer
+6. **Fixed review stack, fixed order.** Developmental → line →
+   continuity LAST (earlier passes invalidate it — PIPELINE and
+   CLAUDE.md; conformed 2026-09-12, first audit F13), each producing
+   NUMBERED findings; author rulings answer
    findings by number; revisions cite the ruling IDs. Traceability
    is what made the B1 revision auditable.
 7. **Acceptance is a state change.** THREADS.md and the series
@@ -330,39 +337,52 @@ sentence:
 - **END REGISTER carries a direction:** UP or DOWN, relative to where
   the chapter opened. No two consecutive chapters end at the same
   level. (Author, 2026-09-03: "more ups and downs.")
-- **THE STAKES, RESTATED:** from the chapter where the book's goal is
-  first said whole (campus 1.2: ch 8), every brief restates that
-  sentence and adds what THIS chapter puts at risk.
+- **THE STAKES, THIS CHAPTER'S (amended 2026-09-12, second audit
+  F23 — the restated sentence had become a recital):** the brief
+  CITES the chapter where the book's goal is first said whole
+  (campus 1.2: ch 8) and says, in the POV lead's own terms, what
+  THIS chapter puts at risk. The goal sentence itself is never
+  restated in a brief or an opening; the opening check catches it
+  on the page.
 - **NAMING, FULL LIST:** any naming rule in the brief lists every
   speaker class and a default for the rest; the chapter lint reports
   each use with its speaker.
+- **FURNITURE, CITED (second audit F24, 2026-09-12):** every item on
+  the brief's FURNITURE and NAMING lines that is not marked NEW cites
+  `chNN:line` or a row of the book's furniture registry. An uncited
+  item is a finding at the audit; the registry's Source column
+  carries the same cites (first audit F11).
 - **ROOTING FOR (author, 2026-09-08 — taste entry 15):** one line per
   lead: what they do this chapter for someone else, at a cost,
   unrewarded, with nobody important watching — a few sentences on
   the page, in character, never a speech, never thanked twice. A
   brief with NONE for a lead says why (the chapter's shape) and the
   next brief owes it. The panel answers the beer test per lead.
-- **THE OTHER LEAD'S FACE (author, 2026-09-09 — STYLE, "the other
-  lead has a face"):** in the POV lead's scenes the other lead's
-  face is on the page at every turn of the talk; the brief names
-  the two or three beats of pleasure (a look, a half smile, a joke)
-  any side-by-side scene carries. A disclosure has a PROMPT on the
-  page — what was just said or asked that makes him talk now.
-- **THE SLOW BEAT (author, 2026-09-10 — STYLE, "slow the good
-  parts"):** the brief names the chapter's highest touch and orders
-  its approach — at least four sentences between the decision and
-  the contact (the distance, the eyes, the hand, the pause); and
-  names where the leads are allowed to be awkward when alone (a look
-  too long, a line that comes out wrong, a laugh at nothing).
-- **THE ENDING THINKS (author, 2026-09-10):** the brief says what the
-  POV lead thinks about in the last scene — the other lead, and the
-  thing they fear — in plain sentences; a button is never a bare
-  object. No run of three short volleys between the leads anywhere.
-- **THE LAST EXCHANGE (author, 2026-09-09 — STYLE, "no staccato
-  endings"):** the brief says what the chapter's last exchange does
-  for the romance or an arc, and the establishing line of the last
-  section names who is in it. `ending-check.py` warns on two-word
-  volleys.
+- **THE LEADS' SCENES — the floor (author, 2026-09-09/10, three
+  chapters running: "too cold… a robot," "the kiss is too fast,"
+  "much of this seems so terse"; consolidated 2026-09-12 from four
+  slots, second audit F18; trialled on the 1.2 ch 17 brief):** the
+  brief names every scene the leads share and gives the longest one a
+  WORD FLOOR (campus 1.2: no fewer than 1,400 words for a set piece's
+  room; connecting chapters set their own, never under 600), with no
+  ceiling the panel enforces. Inside those scenes, all of the
+  following, each named in the brief for THIS chapter: the other
+  lead's FACE at every turn of the talk, and what each turn does to
+  the POV lead (STYLE, "the other lead has a face"); a disclosure has
+  a PROMPT on the page; the chapter's highest TOUCH and its approach
+  — at least four sentences between the decision and the contact,
+  the distance, the eyes, the hand, the pause (STYLE (a)); where the
+  leads may be AWKWARD when alone — a look too long, a line that
+  comes out wrong, a laugh at nothing (STYLE (b)); the last scene
+  THINKS — what the POV lead thinks about the other and the thing
+  they fear, in plain sentences, and then COMES BACK to the other
+  lead before the cut (STYLE (c)); no run of short volleys between
+  the leads anywhere, and the last exchange in full sentences with
+  its establishing line naming who is in the room (STYLE (d), "no
+  staccato endings"; `ending-check.py`). **No touch in a brief is
+  "one line"; no beat between the leads is "texture, one line" — the
+  set-piece note spends its words on the leads.** The sentences run
+  out; semantic line breaks are not a license to clip.
 - **THE OPENING, SAID:** the chapter's first paragraph, as a plain
   sentence a stranger could repeat — what today is and what is at
   stake in it (STYLE.md, the explicit opening). The panel reads the
