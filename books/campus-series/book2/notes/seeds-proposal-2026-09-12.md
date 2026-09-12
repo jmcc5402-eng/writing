@@ -1,40 +1,50 @@
-# The seeds — how they already knew each other (PROPOSAL, 2026-09-12)
+# The seeds — how they already knew each other (PROPOSAL v2, 2026-09-12)
 
 The author, #158: "the fact that they're meeting up at the diner I
 really like. But I think we need to seed more that they bumped into
-each other earlier in the book or before the book timeline. somehow
-that is part of how they already know each other."
+each other earlier in the book or before the book timeline." And in
+chat: "I wanna plant some seeds about them seeing each other at the
+diner. If they're gonna be sitting there at the diner in spots that
+are effectively theirs that's something that's probably happened for
+months… she'd see them at the diner coming and going. He held the
+door for her once but there was always a couple in between them so
+they were never able to talk."
 
-What the page has now: the sheet every Friday since June (ch 2), the
-emergency walk since June (ch 3), her second stool at the Checkerboard
-(ch 5, 9), his stool nearest the register (ch 17, first time on the
-page). A professional acquaintance and nothing accidental. Three seeds,
-each a few lines in an accepted chapter, applied only on the author's
-go (MINOR PR). None changes a plot fact.
+What the page has: the sheet every Friday since June (ch 2); her
+second stool (ch 5, 9); she looks for his truck on the square before
+she goes in (ch 9); him at the counter on a Saturday (ch 12); his
+stool nearest the register and hers next to it (ch 17). Months of the
+same counter, never said. Three seeds, a few lines each, in accepted
+chapters, applied on the author's go (MINOR PR). No plot fact changes.
 
-1. **Ch 1, hers — the truck at dawn.** Where she watches him on the
-   flatbed and knows "a voice she had heard clear the far end of a
-   practice field": four lines of memory. June, her first week, she
-   ran the square at five and a two-door pickup came through it every
-   morning at ten past with one hand lifted off the wheel, and she
-   lifted one back for three weeks before anyone told her whose truck
-   it was. (Fits: film at five, ch 8; two doors, ch 12; her running,
-   ch 17. Her "Named for Coach Merritt?" at the pie table stands — she
-   knew the truck, not the order.)
-2. **Ch 2, his — the runner.** One paragraph in his POV: the runner
-   on the square at five he had raised a hand to since June, before
-   the Fieldhouse told him the new doctor ran, and the morning he
-   knew and did not stop raising it. His side of the same three weeks.
-3. **Ch 5, the two stools on the page.** The Tuesday counter scene
-   (she is at the second stool; the Table is sworn in): he comes in,
-   takes the stool nearest the register, the quarter of a pie as one
-   piece, "Doc." / "Coach," and nothing else; Earlene's eyes, once.
-   The first time the reader sees the two stools side by side, so ch
-   17's "next to Coach's" and the plate beside his stool pay off. Ch 5
-   is already the chapter of "She wanted the man"; he is now in the
-   room when she thinks it.
+**The mechanic (so the seeds agree):** his stool is the one nearest
+the register; hers is the second. Between them is the register, where
+somebody is always standing — paying, or leaning in to talk to Coach.
+So for six months the two stools have been side by side with a person
+between them, and the two of them have not had a sentence at that
+counter. Ch 17's empty town clears the register for the first time;
+her walk close behind his stool is the first time nothing stood
+between the two stools.
 
-Rules on the seeds: no line either of them says later is reused;
-"two fingers" is spent (six times); nothing thanked; the Checkerboard
-stays the town's, not theirs. Kit 13 §1 now asks every dossier for the
-leads' history before page one (F33).
+1. **Ch 5, hers (Tuesday, the second stool).** In the paragraph that
+   seats the Checkerboard: the stool nearest the register was Coach's
+   and had been since before she came; the second was hers since June
+   because it was the one open; the register between them, and
+   somebody always at it. Four lines.
+2. **Ch 9, hers (Saturday).** Where she looks for his truck along the
+   square before she goes in: the one morning in September he came in
+   as she was going out and held the door with his back and said
+   "Doc," and a deputy came through between them before she had
+   answered, and that was the whole conversation they had had at the
+   Checkerboard in six months. Three lines. (The door held once — the
+   author's image.)
+3. **Ch 12, his (Saturday at the counter, 8:40).** The second stool
+   empty beside him: on weekdays it is hers at seven-thirty and he is
+   gone by then, and on the mornings they overlap somebody is paying
+   between them; he has never said a thing to her at this counter
+   that the register did not hear. Three lines, in his plain register.
+
+Rules: nothing thanked; "Doc." / "Coach." is the only exchange; no
+line reused later; the Checkerboard stays the town's. The kit now
+asks every dossier for the leads' history before page one (kit 13
+§1; BACKLOG F33).
