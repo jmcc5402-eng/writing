@@ -1257,3 +1257,43 @@ important watching (taste entry 15; the dossiers' ladders, rows
   window).
 - SR (strike by comment): thirty-four's stool; the meal train; the
   ice machine; the receipt; "a bad room on a third floor."
+
+## 2026-09-12 — ch 17 ACCEPTED (#158) and folded; the author's four comments applied (fold PR)
+
+- The author's comments: (1) "we need to seed more that they bumped
+  into each other earlier" → PROPOSAL, `notes/seeds-proposal-2026-09-12.md`
+  (ch 1 the truck at dawn; ch 2 the runner; ch 5 the two stools) —
+  applied only on the author's go. (2) Cal and Marisol are NOT
+  married → "a couple the town had long since decided about"; the
+  registry's couples row; the gate's Book One misread corrected in
+  the panel note. (3) "I thought earlier we said Aisha sent them on
+  her own?" → the release section reordered: she sends the whole
+  chart at ten Tuesday on her own, from the office at the bottom of
+  Missy's notebook page; Missy's signed release at two — "They've had
+  it since ten this morning. All of it."; keeper 1.4.2 (the card is
+  canon for its chapter). (4) The ending: after the quarter-zip
+  lands, she looks at it; then back to him — his eyes "with nothing
+  in them that was going anywhere," both hands on his neck, "he was
+  hers till the lamp went off and after," "everything else she had in
+  her head went out of it and stayed out"; the last line: "The
+  quarter-zip lay where it had landed, by her boots, / and she let it
+  lie there all night." He stays (B2-D18.2 amended); STANDARDS 9
+  amended (the door may close in a few lines after the garment);
+  STYLE (c) amended (the ending thinks and then comes back).
+- Panel 1.5.2 scoped re-read: PASS WITH FIXES — the floor-look moved
+  to where the garment lands (no eyes on the carpet mid-kiss);
+  STANDARDS 9 deferred to the gate and ruled; the object-overnight
+  rhyme with ch 16 reported, the author named the line.
+- Showrunner copy trims: "before anybody asked her for it" cut (the
+  page does not point; Missy's line shows it); "twenty-five minutes"
+  rationed to two.
+- Header to ACCEPTED. THREADS: the ch 17 entry; B2-T04 SPENT 17 /
+  OWED 28; B2-T10 rung 9; HEAT 2 in the ledger ("Mark today: 9");
+  Cal's first anchor (seventeen on seventeen); edges none (5 remain).
+  Dossiers row 17 ON THE PAGE; arc row 17. Registry: sixteen rows
+  (the holiday line, the second stool, thirty-four over the break,
+  the meal train, Cal × Marisol, Cal's anchor, Missy's page, the
+  chart sent, the drive, room nine at Christmas, the lit window with
+  no poles, the Fieldhouse over the break, his beard, the
+  quarter-zip, the touch slate, "a bad room on a third floor").
+  STATE. F2's object still `[TK]`.

@@ -13,7 +13,7 @@ docs); F## fair-play rows (b12-outline.md table governs).
 | B2-T01 | The gap years (S11 rider): seven missing seasons; board theories bloom, never confirmed | ch 1 ("the Wikipedia years" hype-thread speculation) | **ch 16** postgame porch (severable line banked) | **SPENT ch 16 (#156)** — the annex, not a porch; one sentence in his mouth; the banked severable line (her POV) retired |
 | B2-T02 | The coat: the re-badged staff parka was HIS spare | ch 7 | **ch 29** via the equipment manager | planted ch 7; **the reader knows from ch 10 (Dan's POV)**; Aisha learns ch 29; the manager's line banked |
 | B2-T03 | The scandal's true shape (B2-D17): separated first; the colleague was eligibility, not medicine; it was TRUE then; the colleague paid worse | ch 2 (the board's WRONG version on the page: "a wife at home… sat him down for a year… came back leaner") | **ch 14** the annex, before PONR | **SPENT ch 14 (#154)** — told outward as proof ("There's no way, Doc."); the board's ch 2 version stands uncorrected in public |
-| B2-T04 | The Birmingham second opinion | ch 14 (SIGHTED, undated: "the Gaults have booked a second opinion. Birmingham. After the game." — Missy's page, under the hours) · ch 17 (the trip) | **ch 28** Missy | PLANTED ch 14 — OWED 17, 28 |
+| B2-T04 | The Birmingham second opinion | ch 14 (SIGHTED, undated: "the Gaults have booked a second opinion. Birmingham. After the game." — Missy's page, under the hours) · **ch 17 ON THE PAGE** (the office's name and number at the bottom of Missy's page; her whole chart sent at ten Tuesday on her own; the release at two; the drive Wednesday the 23rd, offstage; the answer DARK) | **ch 28** Missy | PLANTED ch 14 — SPENT 17 (the trip) — OWED 28 (the answer) |
 | B2-T05 | The tailgate photo: her laugh, his lean, the flash off the ice chest; a father's phone; *Playoff Pics — Post Here* | ch 16 (#156 — PLANTED on the page, small; nobody notices) | **ch 23** the consultant's trawl | PLANTED — OWED 23 |
 | B2-T06 | The Cordelia letter (S01) | ch 9 | **ch 25** reread | PLANTED ch 9 (#134) — OWED ch 25 |
 | B2-T07 | The complaint's authorship (the consultant's pet phrase) | ch 10 | **ch 27** decode | PLANTED ch 10 (#137, "proactive risk posture") — OWED ch 27 |
@@ -22,7 +22,7 @@ docs); F## fair-play rows (b12-outline.md table governs).
 | F8/RH2 | Denny Gault, loudest voice, obvious complaint author — DECLARED red herring | ch 4: **Denny AUTHORED the "just asking for clarity on the evaluation timeline" thread** (ruled, sweep Q3) + **ch 6 (the DECEMBER letter is his own draft, on his phone, and Dan refuses it in public)** + 12 | cleared **ch 28** — **and the letter he refuses to sign is the JANUARY one**, the same campaign rewritten by other hands (ch 18, "Eleven Families," where his name is absent from the eleven). Two letters, not one; the December draft is his and honest, the January rewrite is not his and is the knife | OWED |
 | F10 | The walk-on stays on merit | honest signal ch 3 (one line: the backup package the walk-on ran all week) + **ch 6 SPENT (the December letter never names him; Dan names him — "That letter's about Marisol Pruett's boy losing his spot" — and refuses; F10's rehearsal logic starts here)** + 12, 18 | **ch 28** | OWED |
 | F13 | The county's official wrong story as engine thesis | ch 1 (square kiss retold fondly, wrong, uncorrected — "It's how we tell it") | **ch 23** aimed, **ch 28** corrected | OWED |
-| B2-T10 | The romance's ladder (plots/romance-arc.md, CANON #130): stage 2 "admitted inside" reached ch 5 (hers) and ch 8 (his); stage 3 OPENED INSIDE ch 11 (#139: "I want Dan," to the women) / opens outside ch 13 / RUNG 7 ch 14 (hers) / RUNG 8 ch 15 — THE KISS, hers; the terms; the firewall planted | ch 5, ch 8 | the build check runs before ch 11, 13, 15, 27 briefs | ch 2 fight shown — DONE (#132); ch 4 one more exchange — DONE (#133). Both earning scenes for ch 8's want are on the page. |
+| B2-T10 | The romance's ladder (plots/romance-arc.md, CANON #130): stage 2 "admitted inside" reached ch 5 (hers) and ch 8 (his); stage 3 OPENED INSIDE ch 11 (#139: "I want Dan," to the women) / opens outside ch 13 / RUNG 7 ch 14 (hers) / RUNG 8 ch 15 — THE KISS, hers; the terms; the firewall planted / RUNG 9 ch 17 — THE LIT ROOM, hers; HEAT 2 to the first garment; the night told; the want said aloud in both voices | ch 5, ch 8 | the build check runs before ch 11, 13, 15, 27 briefs | ch 2 fight shown — DONE (#132); ch 4 one more exchange — DONE (#133). Both earning scenes for ch 8's want are on the page. |
 | B2-T11 | The provider partner (B2-D13): a sports-medicine group takes over team physician services with the pledge; her job is the price | ch 10 (Dan hears "the university stops carrying that line"; "Dan knew whose line it was") | he tells her **ch 15** (default) before the kiss; announced **ch 24** the week of the suspension; the phrase beside the group's own notice **ch 27**; the deal stalls with the pledge **27–28**; handed to 1.3 | SPENT at 15 (#155 — told before the kiss, in ch 10\'s words) — OWED ch 24 (the announcement), 27, 27–28 |
 | B2-T12 | The stakes of the nineteenth (B2-D15): the win is Boyd's STAGE (the announcement on the field); Dan's extension priced (February agenda; "a review"); the town's second December; her double bind said once | ch 13 (the town's money; the announcement sighted) · ch 14 (1, 2, 5 in Dan's mouth; the athletic director's line 14/15) | **ch 16** the loss carries all four · **ch 20** Boyd's price pays the stage · **ch 24** the athletic director signs · **ch 27** extension off the agenda | PLANTED ch 13 (stake 4 said by Verna; stake 1 sighted via the coordinator) · ch 14 PAID (1 as a reminder and 2 in Dan's mouth, the athletic director's sentence verbatim; 5 in HERS — "If I sign and he goes down, I'm done.") · ch 15 stake 5 SPENT (she is the reason, Thursday) · ch 16 ALL FOUR carried (the suite and the score held; "review"; the eighth Saturday spent; the chain-link\'s line) — OWED 20, 24, 27 |
 | B2-T13 | Help for free: every man who helped her in a building wanted a thing for it; she quit asking (B2-D17) | ch 11 (wine night, the plant) | ch 14 the truck ("What's it going to cost me"), the story told outward as proof, the turf ("I'm telling you I noticed.") · ch 15 she lets him spend something on her | PAID ch 14 (#154) · second turn PAID ch 15 ("So I'm keeping it.") — CLOSED; the firewall is what she built over it |
@@ -41,7 +41,7 @@ docs); F## fair-play rows (b12-outline.md table governs).
   2026-09-10, per the second instrument audit F25).
   (Corrected at the ch 12 audit, 2026-09-07 — the ch 11 fold had
   logged "none spent.")
-- **Anchor lines (ch 16: Tick, his second — "we walk home together in this county"; ch 15: Verna, her second — "I rent nights"; ch 14: none — Delores's bank-note anchor was cut by the author, B2-D17(5); her plain line about the church's paper is not shaped as one; Delores stays at one):** ch 1 Earlene · ch 2 Tick · ch 3 Verna ·
+- **Anchor lines (ch 17: CAL, his first — "Christmas is loud for the married / and long for everybody else. We can spare a night. / Eat."; ch 16: Tick, his second — "we walk home together in this county"; ch 15: Verna, her second — "I rent nights"; ch 14: none — Delores's bank-note anchor was cut by the author, B2-D17(5); her plain line about the church's paper is not shaped as one; Delores stays at one):** ch 1 Earlene · ch 2 Tick · ch 3 Verna ·
   ch 4 Peanut · ch 5 Sonny ("Brains aren't a part you can order
   twice") · ch 6 Delores, on the porch (first playoff in this
   town's whole life — pray for whoever has to say no to any of
@@ -54,7 +54,9 @@ docs); F## fair-play rows (b12-outline.md table governs).
   ("Boyd doesn't buy buildings") · ch 11 Birdie ("Everybody's
   twenty-five once") · ch 12 Earlene (the knife) — **Earlene holds
   FOUR of twelve** (ch 1, 7, 9, 12 — corrected at the ch 13 audit);
-  no fifth before ch 20; Peanut two (4, 10); Sonny two after ch 13.
+  no fifth before ch 20; Peanut two (4, 10); Sonny two after ch 13;
+  Verna two (3, 15); Tick two (2, 16); Delores one (6); **Cal one
+  (17)** — seventeen anchors on seventeen chapters, ch 14 none.
 - **Quiet-band dialogue slots (one per quarter):** Q1 spent on
   ch 3 (13.1%). Q2 spent on ch 16 (11.9% — the game watched, not
   talked; the annex carried the count). Q3 open.
@@ -98,8 +100,10 @@ docs); F## fair-play rows (b12-outline.md table governs).
   sense** (the heat off her through two coats at the rail; her hands
   bare) · "Neither of them stepped back" now SPENT TWICE (ch 5, ch 8)
   — not at ch 13's climb · ch 9 apart (texture only: the coat cut for a big man; his hands remembered) · ch 10 rung 5 held (his POV: her hands out of the sleeves, the pins, breath into the same light; the sheet hand to hand) · **ch 11 rung 5 held, new sense** (the field on him across a yard of December air, in her POV; the sheet; "Sleeve stays on") — stage 3 OPENS INSIDE ("I want Dan," to the women) ·
-  ch 13 near-miss · ch 15 the kiss (kiss chart ceiling). Mark
-  today: **8** (ch 15 the kiss, #155; 6 at ch 13, 7 at ch 14 — the ledger had lagged at 5 since ch 6).
+  ch 13 near-miss · ch 15 the kiss (kiss chart ceiling) · **ch 17 HEAT 2**
+  (her palm on the back of his neck; his hands under her sweater; the
+  quarter-zip on the floor; the night told). Mark today: **9** (ch 17,
+  #158; 8 at ch 15).
 - **"Somebody's ___" (narration, once per BOOK — B2-D06):** SPENT
   ch 1 ("Somebody's grandmother appeared at her elbow"). Debt on
   accepted pages: ch 3 ×2 (air horn, trombone) → polish pass.
@@ -634,6 +638,88 @@ gray season, the exodus, Birmingham (B2-T04's trip), heat 2, the
 window with no poles, "review" said to his face; 18 — Eleven
 Families (the January letter forming; Denny's name absent); 23 —
 the frame surfaces.
+
+### Ch 17 — The Gray Season (ACCEPTED #158, 2026-09-11; the author's four comments applied in the fold PR — the release order, the couple, the ending; the seeds proposal open)
+Introduces: the town at parking-space size (the plates gone Sunday,
+the RV city off the fairgrounds by noon, the hotel block dark, the
+students gone with the semester); the clinic's holiday line forwarded
+to her cell ("her cell, her name, her building, and nobody in it");
+the first Wednesday in February said as the terms' end, counted in
+weeks; "review" as the county's word, and his corridor line
+remembered; Boyd's crew chalking the Millrow curb in the cold;
+**thirty-four in town over the break** (`[TK roster: why]`), two
+fingers taped wrong, re-taped ("Two weeks. Leave it taped."); **THE
+STOOL** (her kindness, B2-D18.4): the second stool from the register,
+next to Coach's, his till the semester starts, breakfasts paid with
+the cook ("He's got a number. Thirty-four." / "Doesn't have to. It's
+eggs."); seen by thirty-four and the cook, thanked by nobody; Dan
+never told; **the Checkerboard on Tuesday** — Dan on the stool
+nearest the register with the Coach's Slice, the kid's plate wiped
+clean beside him, "Doc." / "Coach," her walk the length of the
+counter close behind his stool "and he sat still for it"; **Cal and
+Marisol at the counter** (a couple the town had long since decided
+about; NOT married — author, #158), the meal train for the Gaults
+(forty slots, thirty-one from two states off), the twenty-fifth
+open; **CAL'S ANCHOR, his first in 1.2** — "Christmas is loud for
+the married / and long for everybody else. We can spare a night. /
+Eat."; Marisol's eyes down the counter and back, and her offer of a
+Friday table ("you've got my number"); **B2-T04 on the page** — she
+sends the whole chart to Birmingham at ten Tuesday on her own, from
+the office at the bottom of Missy's notebook page (ch 14's
+placement), "because a chart was made to be read, / and hers said
+what it said in any city"; Missy's signed release at two ("They've
+had it since ten this morning. All of it."), no thank-you; the
+Gaults drive Wednesday the 23rd, offstage; **F2's plant**: `[TK — the
+object; not a Missy post, not Denny's silence]`; his lit film-room
+window at four, looked at "longer than the cold made sense";
+**Christmas in one paragraph, both registers** (B2-D18.5): the run at
+five, the board full of other people's sons, the line once, Verna's
+light under VACANCY lit again; "She had never been married." — sad
+and called sad; then the pivot hers ("did what she did with every
+patient she had ever charted"), the good thing said out loud to the
+room — "she had somebody to want, and he wanted her too" — the second
+run in daylight, the wave at Verna's window, the day glad; **THE LIT
+ROOM** (HEAT 2; rung 9): room nine, the lamp on and the curtain open
+at nine on Saturday the 26th, the light hers this time; he comes on
+foot from the Fieldhouse, no truck in the lot; "Aisha had the door
+open before he knocked"; the sideline jacket on the rod beside the
+parka and the city coat with the letter still in it; a week of
+beard, "a man on a day off"; his hands with nowhere to go; the rack
+("a rack was not a thing a person stood with a hand on"); "Merry
+Christmas… I'm a day late with it." / "You're the first one to say
+it to me in a room."; "Nice room." / "That came out wrong. I had a
+better one on the walk down." / "I've never been that glad to see a
+window in my life. That's the better one. I found it."; "There's the
+chair and there's the bed / and I'm not going to say which."; the
+truck keys put down at seven "because you hadn't said"; the furnace
+receipt; the ice machine ("Second time. Same thing your room
+said."); **the want aloud, both voices** — "I want you, Aisha. I've
+wanted you since a bad room on a third floor / where you laughed at
+me about the floor" / "I want you… In here it goes somewhere."; the
+firewall's start-and-stop ("Missy came to the—" / "That one stays up
+the hill with the truck."); the crossing (nine sentences: he stands
+and does nothing else; no coat on either of them; "Every time she had
+been this close to him there had been nylon between them"); **her
+palm flat on the back of his neck** (new contact, the slate); the
+kiss "like he had that much time"; her hands under the hem; his
+sound, her name in her hair; **she thinks** (Birmingham, the county,
+the review's price, the colleague "a screenshot had cost him a season
+and cost her a different life"; "She was afraid of all of it. / She
+was not afraid of him."; the lamp on since seven, untold); the
+quarter-zip off one-handed "a thing he had done with a hundred
+jerseys," onto her floor; then back to him — his eyes "with nothing
+in them that was going anywhere," both hands on his neck, "everything
+else she had in her head went out of it and stayed out"; **THE LAST
+LINE** — "She looked at the quarter-zip lying there on the floor of
+her squared-away room, / and she let it lie there all night." (the
+night told, never shown — STANDARDS 9 holds; he stays — author,
+#158, amending B2-D18.2's "no morning after" to "no morning-after
+SCENE"). Romance (**B2-T10: rung 9 — HEAT 2 spent; In 4 / Out 4
+held**). Ends UP. Edges: none (5 remain). Dialogue 16.0%. Hands
+forward: 18 — Eleven Families (the January letter; New Year's as
+texture; the stool still his); 19 — the portal, Boyd at the annex;
+21 — the ice storm (B2-D19); 23 — the frame; 28 — Missy and
+Birmingham's answer (B2-T04's pay).
 
 ## New canon recorded at this fold
 
