@@ -440,8 +440,12 @@ are never rhymes with a lead's arc.
 
 1. The lit room is room nine at the Magnolia Court, Saturday
    December 26; he walks down from the Fieldhouse; Verna sees the
-   light and never says. 2. He does not stay the night — "too early
-   for morning after"; the chapter ends on the cut; no cups. 3. The
+   light and never says. 2. No morning-after SCENE — "too early for
+   morning after"; the chapter ends on the cut; no cups. AMENDED at
+   #158 (author, 2026-09-12): the last line says he stayed ("she let
+   it lie there all night… That gives the full understanding that he
+   spent the night") — the night is told in one clause, never shown.
+   3. The
    Christmas anchor is CAL's, at the Checkerboard counter; Earlene
    stays at four. 4. Her kindness this week is the stool for
    thirty-four, breakfasts paid with the cook. 5. Christmas Day is one

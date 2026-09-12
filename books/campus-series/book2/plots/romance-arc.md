@@ -91,7 +91,7 @@ to. This table is what `studio/tools/romance-build-check.py` reads.
 | 14 | 3 | 3 | ON THE PAGE (#153/#154): RUNG 7, HERS — her hand on his bare forearm as he lifts box forty-one, cold, with weight; "She put it there to put it there."; her answer to "There's no way, Doc."; he does not cover it (he has the box); the help accepted ("She let him carry it… the first time"); the half smile born, again, absent, whole; the decade told outward; the want in his head only ("the one thing he had said in that room that was not true") — RUNG 7 | — | — | — |
 | 15 | 3 | 3 | ON THE PAGE (#155): RUNG 8 — THE KISS, hers ("She crossed the room. It had never been far."); his hands on her (the new sense), his jaw under her palm, the height in her body; "When it stopped, his hands did not."; her "Dan" to his face and his "Aisha" aloud, both spent; the terms (the first Wednesday in February) and THE FIREWALL; the window signal; UP | kiss | 13, 14 | — |
 | 16 | 4 | 4 | ON THE PAGE (#156): the terms in public — the not-looking, the one look from forty yards; the frame taken (the town half-sees, unknowing); the annex — the gap sentence as the intimacy beat, one kiss at the ceiling (slowed in the recut), her hand over his; DOWN on the ball | — | — | — |
-| 17 | 4 | 4 | The one lit room | — | — | — |
+| 17 | 4 | 4 | The one lit room — on the page (#158): HEAT 2 to the first garment, the night told; rung 9 | — | — | — |
 | 18 | 4 | 4 | (planned) | — | — | — |
 | 19 | 4 | 4 | The packing in public; she lets him carry | — | — | — |
 | 20 | 4 | 4 | The supper table | — | — | — |

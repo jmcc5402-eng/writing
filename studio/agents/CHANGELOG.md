@@ -3,6 +3,16 @@
 Newest first. Every entry: version, what changed, and the evidence that
 drove it.
 
+## 2026-09-12 — continuity-keeper 1.4.2: the card is canon for its chapter (patch)
+
+Rule 6: a brief or a draft is read against the chapter's card; a
+contradiction of a card promise is a BLOCK, quoted side by side.
+Evidence: 1.2 ch 17 — the card promised the chart sent unasked; the
+brief had the release arrive first and her send after; the audit
+passed the brief; the author caught it on the page (#158: "I thought
+earlier we said Aisha sent them on her own? Something seems weird
+with the timing"). BACKLOG F31.
+
 ## 2026-09-09 — showrunner 2.4.1: no coined names (patch)
 
 Author, 2026-09-09, after a PR titled "The handful" needed

@@ -59,25 +59,20 @@ the phrase banned.
 parts," taste 16, panel 1.5.0. The fourth-chapter sweep is DONE
 (instrument audit 2, F18–F29; rooting-for survey 2 — both in #157).
 
-**Ch 17 DRAFTED (2026-09-11) — PR OPEN.** "The Gray Season," Aisha,
-Dec 20–26, connecting, one drafter (D3), the first under the
-leads'-scenes floor. Card audited WITH the brief before it went to
-the author (the new §3c order; eleven wrong sentences caught). The
-author's calls are B2-D18 (room nine on the 26th, he walks; no
-morning after; Cal's anchor; the stool; Christmas one paragraph, both
-registers — scoped to this chapter) and D20 (the next set's winter
-book is the warm one). Panel 1.5.2: PASS WITH FIXES, 20 beats, nine
-sentences of approach, five awkward beats, both beer tests YES;
-thirteen asks applied by the drafter (the panel names what a line
-must do; never writes it). **On merge, the fold:** THREADS ch 17
-entry; B2-T04's trip; F2's object (`[TK]` at ch 17 line ~272 — the
-Gaults' public quiet after the 23rd; not a Missy post, not Denny's
-silence); HEAT 2 spent; the stool (thirty-four; till the semester);
-the holiday line; room nine's facts (the lamp, the curtain, VACANCY
-lit again, the one chair, Verna's blanket, the receipt); Cal's
-anchor (one; Marisol's offer of a Friday table); the dossier row 17
-day conformed to Monday 21st; the registry rows (the neck; "a bad
-room on a third floor"; the quarter-zip on the floor; "It's eggs.").
+**Ch 17 ACCEPTED (#158, 2026-09-11) and FOLDED (2026-09-12).** The
+author's four comments: (1) seed earlier bump-ins so the reader
+knows how they already know each other — PROPOSAL OPEN (three seeds,
+ch 1 / ch 2 / ch 5; see the fold PR); (2) Cal and Marisol are NOT
+married — an established couple (fixed; registry row; the gate's
+Book One misread corrected); (3) the chart sent on her own BEFORE
+the release (the page had drifted from the card — fixed; BACKLOG
+F31: the audit checks the page against the card's promises); (4) the
+ending comes all the way back to the romance and closes "she let it
+lie there all night" — he stays (B2-D18.2 amended: no morning-after
+SCENE; STYLE (c) amended: after the thinking, the last lines return
+to the other lead). Panel 1.5.2 scoped re-read on the three fixes.
+Rung 9; HEAT 2 spent; Cal's first anchor; B2-T04's trip on the page;
+F2's object still `[TK]` (the Gaults' public quiet after the 23rd).
 
 **B2-D19 (2026-09-11): the ice storm at ch 21.** The book's one
 weather event — it puts her in his two-door truck and the county

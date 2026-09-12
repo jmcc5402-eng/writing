@@ -90,9 +90,15 @@ about the rest.*
    scene cuts there, every book, all sixteen. Desire, tension, and
    the approach are fully on the page; the act is not. Enforceable
    bright line for the gates: no scene continues past the first
-   garment. Packaging matches the promise: swoony / closed-door /
-   small-town vocabulary — never "steamy." The ch-1 montage steam
-   flash is calibrated to this line: charged, clothed, cut.
+   garment. AMENDED (author, 2026-09-12, #158 on 1.2 ch 17): after
+   the garment lands, the page may close the door in a few lines —
+   the leads seen once more, a kiss, the night told in a clause
+   ("she let it lie there all night") — nothing further undressed,
+   nothing of the act shown; the last lines return the reader to the
+   romance, not the worry (STYLE (c)). Packaging matches the
+   promise: swoony / closed-door / small-town vocabulary — never
+   "steamy." The ch-1 montage steam flash is calibrated to this
+   line: charged, clothed, cut.
 10. **55–70k words per book.** No 100k book ones.
 11. **POV: dual, alternating** — RULED third person, past tense
     (locked by the accepted ch 1, 2026-08-16). Side-romance screen

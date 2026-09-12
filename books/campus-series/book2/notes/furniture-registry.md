@@ -123,6 +123,23 @@ finding). Started at the wave-1 fold (2026-08-30).
 | The album caption | *Dr. Cole at her end. Four quarters. Never sat.* — a parka and a white wrist | ch 16 |
 | Tick's sign-off | off a truck window going up Millrow: "Win or lose, we walk home together in this county. Always have." (his second anchor) | ch 16 |
 
+| The holiday line | over the break the annex clinic is closed and its line forwards to her cell; she is the only doctor it reaches; she types every call | ch 17 (#158) |
+| The second stool | the second stool from the register at the Checkerboard, next to Coach's (the stool nearest the register); hers since June because it was the one open (ch 5 seed); the register between the two stools, somebody always standing at it (B2-T14); the door held once, September, "Doc." (ch 9 seed); his side: hers at seven-thirty on weekdays, him gone by then (ch 12 seed); hers on weekday mornings (ch 5, 9); **thirty-four's from Dec 22 till the semester starts, breakfasts on her card with the cook** ("It's eggs."); Dan is never told | ch 5, 9, 17 |
+| Thirty-four over the break | in town, alone; two fingers of the left hand buddy-taped by her Dec 21, two weeks; `[TK roster: why he stays]` | ch 17 |
+| The meal train | the board's sign-up for the Gaults, forty slots through New Year's, thirty-one taken from two states off; Cal and Marisol take the twenty-fifth | ch 17 |
+| Cal Sutter × Marisol Pruett | an ESTABLISHED COUPLE, NOT MARRIED (he a widower, she divorced — Book One; author, #158: "Change it to something like an established couple"); "a couple the town had long since decided about" | ch 17 (#158 fix) |
+| Cal's anchor (ch 17) | "Christmas is loud for the married / and long for everybody else. We can spare a night. / Eat." — his first in 1.2 | ch 17 |
+| Missy's notebook page (the Birmingham office) | the office's name and number at the bottom of the page from the week of the game, under the hours (ch 14's placement); the office itself is never named on the page | ch 14, 17 |
+| The chart sent | at ten Tuesday Dec 22, on her own, before any release; both scans, the tape times, the ladder, Missy's pages, the paper with her whole name; the cover note *Complete record for Trey Gault attached… A. Cole, MD.*; the release (Trey's signature) arrives at two — "They've had it since ten this morning. All of it." | ch 17 |
+| The Gaults' drive | Wednesday Dec 23, to Birmingham, offstage; the answer DARK until 28 | ch 17 |
+| Room nine at Christmas | VACANCY lit again once the town has gone; Verna's office light on all day; one chair; the suitcase rack; Verna's blanket; the furnace that runs behind under a north wind (Verna's November note on the back of a receipt — she kept it); the closet rod: the parka, the wool city coat (the letter still in its inside pocket), and on the 26th his sideline jacket | ch 13, 17 |
+| The lit window (no poles) | over the break the signal is HERS: room nine's lamp on and the curtain open at nine on Saturday the 26th means he can walk down to it; he comes on foot from the Fieldhouse (where the truck stays); no truck in Verna's lot | ch 17 |
+| The Fieldhouse over the break | every door open, the heat running, "the only man in the building since Monday"; the ice machine (he talked to it twice); his film-room window lit at four Tuesday | ch 17 |
+| His beard | a week of it by the 26th, "a man on a day off" — the first time she has seen him be that | ch 17 |
+| The quarter-zip | off one-handed, "a thing he had done with a hundred jerseys," onto her floor by her boots under the rack; she let it lie there all night | ch 17 |
+| The touch slate (spent) | her palm flat on the BACK OF HIS NECK (ch 17, the first contact of the lit room; "no collar between her palm and the heat of it"); his hands under her sweater at her waist; her hands under the hem of the quarter-zip | ch 17 |
+| "a bad room on a third floor" | his name for the hospital lounge (ch 4: "This is a bad room." / "Then it's a bad floor." / she laughed) — the start of his wanting, said at 17; "since a hospital lounge in November" is ch 15's and spent | ch 4, 15, 17 |
+
 ## Name map (who calls whom what — STYLE "Names are relationships"; started 2026-09-07)
 
 | Character | Narration | Who says what | The one-person name |
