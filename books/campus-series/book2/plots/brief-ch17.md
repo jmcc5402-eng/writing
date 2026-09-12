@@ -362,3 +362,20 @@ coats on the hook on arrival; no cups; "review" not in the athletic
 director's mouth; the stool paid for with the cook; thirty-four
 `[TK]` over break and silent; F2 `[TK]`; the anchor's mouth per the
 author.
+
+### AUTHOR'S RULINGS (2026-09-11, B2-D18) — applied
+
+The defaults stand: room nine on the 26th, him on foot; NO morning
+after ("too early"), the chapter ends on the cut; the anchor is
+CAL's at the counter (Earlene stays at four; Cal's register is Book
+One's — dry, short, each line wanting something; the audit pulled it
+from ch 23 of Book One); the stool; Christmas Day one paragraph
+alone. **And the season is an amplifier:** "it's a great season to
+crank up emotions, both sad and happy, so make sure to use it." The
+Christmas paragraph and the whole chapter run both registers at full
+volume — the sad (the never-married line; the empty town; the family
+the page may not name; a lit room she did not expect) and the happy
+(the one good thing she names; the light she leaves on; the walk he
+makes; the night). Not lonely, not cozy: BOTH, and the page says
+which it is feeling when. This rides every holiday on any page from
+now on (taste 7).

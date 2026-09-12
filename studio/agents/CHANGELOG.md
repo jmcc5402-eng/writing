@@ -458,3 +458,9 @@ lines moved out of the registry to `notes/banked-lines.md` (F25).
 The ch 17 brief trials the leads'-scenes FLOOR in place of the four
 ceiling slots (F18). Everything else to BACKLOG.
 
+## 2026-09-11 — showrunner 2.4.3: the card is short
+
+The author, on the ch 17 card: "Too much to read make more concise."
+Kit 12: under 350 words, questions one line each; the chat message
+shorter than the card.
+

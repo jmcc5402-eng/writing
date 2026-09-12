@@ -79,3 +79,14 @@ _Not blocking, but no book may quietly settle one — flag, don't fill._
   part/chapter spine where every title is a claim.
 - Waivers of engine rules are recorded HERE, in the book's premise
   doc: `WAIVED: <rule> — <reason> (author, <date>)`.
+
+## The set's seasons carry registers (author, 2026-09-11 — campus D20)
+
+When a set runs one book per season, assign each book's REGISTER
+with its season before casting the couples: the winter book is the
+warm one — family, the town as a family, a holiday it can carry at
+full volume — and the individual's story (two careful people, an
+emptied town) goes in another season. The campus set learned this
+the other way round: Book One (fall) was the warm family book and
+Book Two (winter) the individual's, so Christmas got one paragraph.
+Write the register beside the season in the set table.

@@ -9,7 +9,7 @@ production runs under them: brief audit, label shuffle,
 jewel-forge slot, staging clause, furniture registry, anchor
 lines, carryover-reader gate).**
 
-## PICK UP HERE (2026-09-07 — CURRENT)
+## PICK UP HERE (2026-09-11 — CURRENT)
 
 **AUTHOR FOCUS: ROMANCE ONLY; CHAPTER BY CHAPTER.** Card before
 drafting (sent to the author first), brief, audit, ONE drafter for
@@ -54,25 +54,43 @@ the firewall planted; the partner told; her "Dan" and his "Aisha"
 spent. The author's one comment ("name in my mouth") applied and
 the phrase banned.
 
-**Ch 16 ACCEPTED (#156) and FOLDED (2026-09-10).** The author's four
-comments (the annex too terse and not awkward; the kiss too fast;
-the cage's first sentence; Dan's thinking at the ball) → STYLE "Slow
-the good parts," taste 16, panel 1.5.0 — and a MINOR recut of the
-annex and the cage, OPEN on the designated branch. Do not chase.
+**Ch 16 ACCEPTED (#156) and FOLDED; the recut MERGED (#157,
+2026-09-11).** The author's four comments → STYLE "Slow the good
+parts," taste 16, panel 1.5.0. The fourth-chapter sweep is DONE
+(instrument audit 2, F18–F29; rooting-for survey 2 — both in #157).
 
-**THE FOURTH-CHAPTER SWEEP IS DUE** (ch 13–16 accepted): the
-instrument audit's second run (`instrument-auditor`, every four
-chapters — the first was 2026-09-07 after ch 12) and the rooting-for
-survey's second run (developmental-editor; the ladders' rows 13–16
-against the pages), both BEFORE ch 17's card. The audit's first
-question: why did panel 1.4.0 pass a one-line kiss and a terse annex
-with 28 beats — the count measures presence, not pace.
+**Ch 17 DRAFTED (2026-09-11) — PR OPEN.** "The Gray Season," Aisha,
+Dec 20–26, connecting, one drafter (D3), the first under the
+leads'-scenes floor. Card audited WITH the brief before it went to
+the author (the new §3c order; eleven wrong sentences caught). The
+author's calls are B2-D18 (room nine on the 26th, he walks; no
+morning after; Cal's anchor; the stool; Christmas one paragraph, both
+registers — scoped to this chapter) and D20 (the next set's winter
+book is the warm one). Panel 1.5.2: PASS WITH FIXES, 20 beats, nine
+sentences of approach, five awkward beats, both beer tests YES;
+thirteen asks applied by the drafter (the panel names what a line
+must do; never writes it). **On merge, the fold:** THREADS ch 17
+entry; B2-T04's trip; F2's object (`[TK]` at ch 17 line ~272 — the
+Gaults' public quiet after the 23rd; not a Missy post, not Denny's
+silence); HEAT 2 spent; the stool (thirty-four; till the semester);
+the holiday line; room nine's facts (the lamp, the curtain, VACANCY
+lit again, the one chair, Verna's blanket, the receipt); Cal's
+anchor (one; Marisol's offer of a Friday table); the dossier row 17
+day conformed to Monday 21st; the registry rows (the neck; "a bad
+room on a third floor"; the quarter-zip on the floor; "It's eggs.").
 
-**Then chapter 17** — Aisha · Wk6 · "The Gray Season" (CONNECTING —
-one drafter): the exodus, the town at parking-space size, Christmas
-loud for everyone else, Birmingham (B2-T04's trip), heat 2 in the
-gray season, the window with no poles. Card first. Cards next:
-audit E4 (LRU), drafter D3 (LRU after D5/D7/D2).
+**B2-D19 (2026-09-11): the ice storm at ch 21.** The book's one
+weather event — it puts her in his two-door truck and the county
+sees it; planted on the board at ch 20; texture at ch 22. Taste 17.
+The ch 20 and ch 21 cards carry it.
+
+**Then the backlog PR (agents:)** — F18 (the floor replaces the four
+brief slots), F19, F23–F29, and the first audit's unlanded items —
+BEFORE ch 18's card. **Then chapter 18** — "Eleven Families," Dan;
+the walk-on's film; Mackenzie and Ty; the texting register. Card and
+brief audited together first. Drafter card LRU after D3 — check
+LOG. The author's open call from survey 2: whether to name the
+backup.
 
 **Standing:** do not chase; talk plainly (taste 13); every lesson an
 instrument (taste 14); the card before the chapter (§3c).

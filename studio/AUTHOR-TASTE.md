@@ -216,6 +216,17 @@ description."* Check: the wine-night scene has a poke and a wish in
 it, not only a confession; every job/money stake names what is
 actually lost; grown professionals' heat happens indoors.
 
+**Added 2026-09-11 to entry 7 (the ch 17 card):** "it's a great
+season to crank up emotions, both sad and happy, so make sure to use
+it." — and, the same day, "in a future book set we might do more
+holiday focus, but this book doesn't feel right for it." So: where a
+book gives a holiday a page, that page runs both registers at full
+volume and says which it is feeling when; but 1.2 gives Christmas
+one paragraph and no more, and does not dwell on holidays. A
+holiday-focused series is a future idea (BRAINSTORM). Check: the
+brief names the sad and the happy of the one holiday page; no
+holiday set piece unless the book's concept asks for it.
+
 ## 8. It is a romance first — the rule
 
 > "The writers don't understand fundamentally that this is a romance
@@ -348,6 +359,12 @@ as a run of beats with chapter numbers in parentheses, and "Wound:"
 — story in sentences, chapter numbers only for what comes next, no
 labels inside a paragraph; read the card aloud before it goes.
 
+**Added 2026-09-11 to entry 13 (the ch 17 card in chat):** "Too much
+to read make more concise." Caught: a card of 800 words and a chat
+message that repeated it with five multi-sentence questions. Check:
+the card under 350 words (kit 12); the chat shorter than the card;
+one line per question, default first, "Or" after.
+
 ## 14. Make it an instrument, so the next book is fast
 
 > "I want this to be another instrument we use so eventually we can
@@ -375,7 +392,7 @@ book.
 **Reviewed:** at every fold (new rows in the ledger → new or amended
 entries here); after every listen (the re-mine); after every fourth
 accepted chapter (the taste audit, PIPELINE "The author's notes").
-Last review: 2026-09-05 (entries 13 and 14 added).
+Last review: 2026-09-11 (entry 17 added; 16 on 09-10).
 
 ## 15. Root for them — likable before admirable
 
@@ -446,3 +463,23 @@ Fails when: the highest touch of a chapter arrives in one sentence;
 two serious adults alone are only competent; the last scene ends on
 a thing with nothing thought about it; the leads trade one-liners
 in a scene that should be theirs.
+
+## 17. Weather that forces a thing
+
+> "Do we have planned an actual weather incident like a snowstorm or
+> ice storm that causes some conflict?" · "That's the vibe I like
+> where the weather forces something to happen that normally might
+> not." (2026-09-11, on 1.2)
+
+Caught: seventeen chapters of a cold book with no storm in it; the
+outline's weather was texture (the freeze, the cracked step, the
+thaw), and the series' own checklist row ("weather forces intimacy or
+truth — plot, not decor") had never been run on the outline. Every
+book gets one weather event that forces a thing the people would not
+otherwise do — a ride, a night, a truth — and it costs; it never
+rescues (hard rule 5). Planted on the page before it hits.
+Check: the outline audit against the engine checklist (row 11 for
+campus); the book's DECISIONS names the storm and what it forces
+(1.2: B2-D19, the ice storm at ch 21).
+Fails when: the weather is only cold; when the storm is a snow day
+that gives the leads a free night; when it arrives unforecast.
