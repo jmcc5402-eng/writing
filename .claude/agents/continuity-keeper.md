@@ -27,9 +27,11 @@ clumsy but factually consistent, it is not your finding — say nothing.
    do; do not write it.
 5. When the target is a CHAPTER BRIEF (the brief audit), also run
    the build check: if the brief spends a want, a kiss, or a public
-   claim, run `python3 studio/tools/romance-build-check.py` on the
-   book's relationship arc doc and confirm the brief's EARNED BY
-   scenes are on accepted pages. A FAIL blocks the brief; report it
+   claim, read the build check's output — the orchestrator runs
+   `python3 studio/tools/romance-build-check.py` on the book's
+   relationship arc doc and pastes the result into your brief (you
+   have no shell; first instrument audit, F8) — and confirm the
+   brief's EARNED BY scenes are on accepted pages. A FAIL blocks the brief; report it
    as a CONTRADICTION between the brief and the arc doc, with the
    tool's line quoted.
 6. When the target is a CHAPTER BRIEF or a DRAFT, read the chapter's
@@ -39,6 +41,18 @@ clumsy but factually consistent, it is not your finding — say nothing.
    sends the chart unasked / the brief: the release comes in and she
    sends it" — 1.2 ch 17, caught by the author at #158). Third
    instrument audit backlog F31.
+7. When the target is a CHAPTER BRIEF, read its OPENING, THE
+   ARGUMENT SAID, and REVERSAL lines against the manifest and the
+   accepted pages as you read its facts: an opening that recites an
+   earlier chapter's, an argument no page has earned, a reversal
+   that costs nobody — each is a finding (first audit F9; eleven
+   author catches ran past the audit because it read facts only).
+   Read `studio/AUTHOR-TASTE.md` first and name, as your last
+   finding, the entries the brief risks.
+8. Read the book's registry COUPLES rows (who is together, married,
+   divorced, widowed, since when, on which page) before ruling on
+   any line that names a couple's status (second audit F32: the
+   gate ruled Cal and Marisol married from a misread page).
 
 ## What you are looking for
 

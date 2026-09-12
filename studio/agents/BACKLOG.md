@@ -153,136 +153,39 @@ Standing fix, for whoever dispatches:
 
 ## From the first instrument audit (2026-09-07 — `audits/2026-09-07-instrument-audit.md`)
 
-Fixed the same day on the ch 12 PR: F1 (the listening file dropped
-bold card lines), F2 (STATE's ch 13 hand-forward said one drafter),
-F6 (the chapter lint could not fail). Open, each with its proposed
-fix in the report:
+Fixed on the ch 12 PR (2026-09-07): F1, F2, F6. **Landed on the backlog
+PR (2026-09-12; agents CHANGELOG, "THE BACKLOG PR"):** F3/F14, F4,
+F5, F7, F8, F9, F10, F13, F15, F16. Still open:
 
-- **F3 / F14 — the seams.** The opening check reads paragraph one
-  only; the Mule, the house, the check and "the annex across the lot"
-  enter the same way across ch 10–12, and 13 of 21 sections close on
-  an "and [small action]" tail. Proposed: opening-check.py runs on
-  the first paragraph after every `***` and prints each section's
-  first and last line. No new rule.
-- **F4 — the manifest as a voice sample.** The continuity-keeper's
-  FACT MANIFEST hands the drafter neighboring narration verbatim.
-  Proposed: furniture as nouns with cites; verbatim quotes are
-  dialogue only; "do not repeat" cites the line, never prints it.
-- **F5 — the repetition scan runs after the author reads.** Proposed:
-  per chapter, in the lint, before the PR.
-- **F7 — the build check cannot fail an unearned stage opening**
-  (a blank Spends cell skips rule 4); the arc doc's stage table and
-  ladder disagree at 9–10. Proposed: any In/Out increment is a spend.
-- **F8 — the continuity-keeper is told to run a tool it has no shell
-  for.** Proposed: the orchestrator runs it and pastes the output.
-- **F9 — eleven author catches, tabled** with the instrument each ran
-  past. Proposed: the continuity-keeper reads the brief's OPENING,
-  ARGUMENT and REVERSAL against the manifest, and gets the
-  taste-sheet section; the panel's TASTE finding lists all fourteen
-  entries; the LOG notes author reactions that land on a card.
-- **F10 — two ban lists.** Briefs restate RECENT by hand; caught tics
-  never reach RECENT; a capped move ("Doc."/"Coach.") ran a third
-  time. Proposed: briefs point at RECENT as of a date; the fold
-  appends; the addendum gets a CAPS line.
-- **F11 / F12 — ghosts and miscounts**: FirstDownMom survives in
-  THREADS:363; registry rows recording intent not on the page; the
-  ch 11 entry still says "none spent"; "somebody's" and "since June"
-  undercounted; anchors ledger stops at ch 6. Proposed: one ledger
-  pass at the ch 12 fold; Source cites required.
-- **F13 — two laws give the review stack in opposite orders.**
-  Proposed: DRAFTING-PROTOCOL conformed to PIPELINE.
-- **F15 — over-tooled**: retire D7; drop the personification quota
-  from the brief template; discharge the "which" and "Somewhere"
-  WATCHes.
-- **F16 — stale**: "twelve specialists" (now fourteen); three agents
-  missing from CLAUDE.md's table; "the wave-3 directive" never
-  written; AUTHOR-TASTE's review date; DECKS rule numbering; kit 11
-  part numbering; showrunner "variance-EXEMPT" vs a drawn card.
-  Proposed: one housekeeping PR.
-
-- **F17 — second-time catches (2026-09-09, 1.2 ch 14, #153).** Two of
-  the author's ch 13 notes came back on ch 14 unchanged: the other
-  lead written as a blank in the POV lead's scenes ("too cold… a
-  robot"), and a staccato last exchange with no arc work. The
-  establishing-line rule (2026-09-08) did not cover WHO is present,
-  and nothing checked endings. Fixed today: STYLE "the other lead
-  has a face" and "no staccato endings"; `ending-check.py` in the
-  lint; two brief lines. For the auditor's next run: did the panel
-  1.4.0 read (ABOVE THE FLOOR) miss both? It flagged her eyes once
-  (Q2) and called the turf "a landing" — the panel's scene-by-scene
-  needs a FACE column and an ending row.
+- **F11 / F12 — ghosts and miscounts**: the registry's Source column
+  needs `chNN:line` on its older rows (the new rows carry them); one
+  ledger pass at the ch 20 fold.
+- **F17 — second-time catches (2026-09-09, 1.2 ch 14, #153).** The
+  panel's scene-by-scene now carries a FACE column and an ending row
+  in practice (1.5.x); the auditor's next run checks that the 1.5.3
+  duration numbers catch what 1.4.0 missed.
 
 ## From the second instrument audit (2026-09-10) — `studio/agents/audits/2026-09-10-instrument-audit.md`
 
-- **F18 — the brief is a ration register with no floor.** Consolidate
-  THE OTHER LEAD'S FACE, THE SLOW BEAT, THE ENDING THINKS, THE LAST
-  EXCHANGE into one THE LEADS' SCENES line with a word FLOOR; delete
-  "one line" from any touch; the set-piece note spends words on the
-  leads. Trialled on the ch 17 brief first.
-- **F19 — the panel rewards density, not duration.** The verdict line
-  carries words / narration-per-dialogue-line / reaction beats for
-  every scene the leads share; the swoon inventory caps one short line
-  per scene.
-- **F21 — the panel as second drafter.** The fold logs any panel line
-  kept verbatim as a graft. (The remit lines landed today.)
+**Landed on the backlog PR (2026-09-12):** F18, F19, F23, F24, F25,
+F26, F27, F28 (all but the two not found), F29, F30, F31, F32, F33.
+Still open:
+
+- **F21 — the panel as second drafter.** The remit lines landed
+  (panel 1.5.2: a fix names what a line must do; the keeper bans its
+  own examples). Still wanted: the fold logs any panel or audit line
+  kept verbatim on the page as a GRAFT.
 - **F22 — a backstory that copies the plot** has no instrument; the
   developmental editor's Hauge "echoes" item is the home.
-- **F23 — the seams.** `opening-check.py` reads every section's first
-  paragraph and prints the seams (the 5:15 check opened the same way
-  three chapters running); STAKES RESTATED replaced by "what THIS
-  chapter risks, in the POV's terms."
-- **F24 — the brief's furniture cites.** FURNITURE and NAMING lines
-  cite `chNN:line` or a registry row for every item not marked NEW;
-  the registry's Source column gets line cites (F11); the
-  orchestrator's showrunner work logged as showrunner runs.
-- **F25 — the fold has an owner.** PIPELINE §3c fold checklist: copy
-  the entry's counts into the header ledger in the same commit; run
-  `romance-build-check.py` and quote it in the commit; conform any
-  doc an addendum ruled against.
-- **F26 — drift.** PIPELINE's length (~2,800–3,500; set pieces past
-  it); the quiet band 8–15% everywhere; retire D7; RECENT's "wave"
-  text and its duplicated law → one pointer each at STYLE.
-- **F27 — contradictions.** The brief's "texture, one line" clause vs
-  STYLE (a); the two review-stack orders (F13); the keeper's tool line
-  vs no shell (F8).
-- **F28 — stale.** CLAUDE.md's count and table; the taste footer and
-  entry 8's duplicate block; the protocol's PROPOSED header; PIPELINE's
-  "Current state"; DECKS numbering and the auditor's deck; the
-  auditor's second-run test-set rule; the undated agents CHANGELOG
-  entry; STATE's "panel 1.3.0."
-- **F29 — retire.** The which-appendix WATCH text; the since-June
-  reconciliation; RECENT's duplicated law; the banned-words regex
-  narrowed (F6).
-- **F30 — the engine checklist never ran (author catch, 2026-09-11).**
-  `books/campus-series/ENGINE-CHECKLIST.md` says every outline is
-  audited against its table, ABSENT items carry a WAIVED or a fix.
-  The 1.2 outline was never audited: row 11 (weather forces intimacy
-  or truth) was absent through ch 30 and the author caught it at ch
-  17. Fix: the outline gate (kit 06; `/new-book-outline`; the
-  showrunner's premise PR) runs the checklist and files the audit
-  beside the outline; the instrument auditor's four-chapter sweep
-  re-reads the audit for rows that a drafted chapter was supposed to
-  carry. Same day: B2-D19, taste 17.
-- **F31 — the page drifted from the card (author catch, #158).** The
-  ch 17 card promised the chart sent unasked; the brief had the
-  release arrive first; the audit passed the brief; the page followed
-  the brief. Landed: keeper 1.4.2 rule 6 (the card is canon for its
-  chapter; brief and draft read against it). Still open: the fold
-  checklist (F25) gets a "page vs card" line.
-- **F32 — the gate ruled from a misread page (#158).** The showrunner
-  ruled Cal and Marisol married from Book One ch 20's porch line,
-  which is Cal about his late wife; the keeper did not check the
-  couple's status; the author caught it. Landed: a couples row in
-  the 1.2 registry (Cal × Marisol: established, not married). Open:
-  the registry gets a COUPLES section per series (status, since
-  when, on which page) and the keeper's fact sheet reads it.
-- **F33 — the leads' pre-page history was never seeded (author
-  catch, #158).** Seventeen chapters in, the reader has the sheet
-  since June and nothing accidental; the author: "seed more that
-  they bumped into each other earlier." Landed: kit 13 §1 asks for
-  it; the 1.2 seeds are PROPOSED (ch 1 / ch 2 / ch 5) pending the
-  author's go. Open: the arc gate (PIPELINE 3b) checks the dossier
-  for it.
-- **First audit, still unlanded:** F3/F14, F4, F5, F7, F8, F9, F13,
-  F15, F16.
-
+- **F28, two items not found on re-read:** AUTHOR-TASTE "entry 8's
+  duplicate block"; "the undated agents CHANGELOG entry." Closed
+  unless the auditor's third run points at a line.
+- **F32, the series half:** the COUPLES section is in the 1.2
+  registry; the kit's registry template (08-ledger or the retro's
+  registry rule) should carry it for every series.
+- **F31, the fold half:** landed as line (8) of PIPELINE's fold
+  checklist.
+- **The third audit (after ch 20):** its test set is the author's
+  catches since 2026-09-10 (AUTHOR-NOTES rows from #156 on): the
+  seeds, the couple, the card drift, the ending's return, the
+  weather row.

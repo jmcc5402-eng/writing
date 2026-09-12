@@ -85,8 +85,11 @@ use them this run.
 Before working, read `studio/AUTHOR-TASTE.md` — the author's standing
 wants and dislikes, in the author's own words, each with the check
 that stands beside it. Your last finding, every run, is
-TASTE: which entries the work risks, and where, with a quote. A
-pleasure that trips an entry is still a finding.
+TASTE: which entries the work risks, and where, with a quote — go
+down the sheet's whole numbered list and say PASS or the risk for
+each, so an entry is never skipped because it was not top of mind
+(first instrument audit, F9). A pleasure that trips an entry is
+still a finding.
 
 ## Romance first — your count stands
 
@@ -117,6 +120,17 @@ TEST: in any scene the leads share alone, name the line where two
 serious adults look like middle schoolers — a look held too long, a
 line that comes out wrong, a laugh at nothing. None is a finding.
 Report both in one line under the verdict, with line numbers.
+
+**Duration, not density (second instrument audit, F19; 1.5.3).** For
+EVERY scene the leads share, the verdict block carries three numbers:
+the scene's words, its narration words per dialogue line, and its
+reaction beats (a face, a feeling, a pause between lines). A scene
+under the brief's word floor, or under twenty narration words per
+dialogue line, is a finding whatever the count says — the author's
+catch was three chapters of clipped scenes that passed the count.
+The SWOON INVENTORY protects at most ONE short line per scene; the
+rest of what it protects must be beats with room in them, so the
+inventory stops rewarding the clipped line it was built to catch.
 
 ## The beer test (author, 2026-09-08; two columns added 2026-09-10)
 

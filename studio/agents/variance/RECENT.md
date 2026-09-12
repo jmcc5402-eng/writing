@@ -10,7 +10,7 @@ list in the agent's invocation as "banned moves this run."
 
 ## drafting-assistant
 
-### Scrub bans (2026-08-22, campus — ride in every wave-4+ brief)
+### Scrub bans (2026-08-22, campus — ride in every brief; a brief points HERE "as of <date>" instead of restating the list, and the fold appends new catches here the same day — first audit F10)
 
 - BANNED: "before s/he could vote on it" and all committee-of-the-self
   variants; one involuntary-body beat per chapter max.
@@ -23,11 +23,9 @@ list in the agent's invocation as "banned moves this run."
   End your chapter per its dealt ending register; the brief says if
   yours is a button chapter.
 - BANNED: "one beat" in any timing construction (motif closed at five).
-- WATCH (author, #147, 2026-09-08, 1.2 ch 13): a scene break that opens
-  mid-motion and never says where we are ("a sheet" with no paper,
-  a heater with no office). Every section's first three lines locate
-  the reader: where, when, what is in her hand. STYLE, "The
-  establishing line."
+- LAW, not a watch (author, #147, 2026-09-08): the establishing line
+  — see STYLE, "The establishing line"; not restated here (second
+  audit F26/F29: one pointer, no duplicated law).
 - BANNED (author, 2026-09-07, 1.2 ch 12 — "the first paragraph seems
   very similar to previous first paragraphs"): THE CALENDAR OPENING.
   No chapter opens on the date, the weekday, "the nineteenth was N
@@ -117,7 +115,7 @@ list in the agent's invocation as "banned moves this run."
   out of [name]" as the default for surprised laughter — six uses
   book-wide, two in wave 5 alone (ch05:154, ch06:42, ch09:180,
   ch16:278, ch18:182, ch20:229). At current density it is a
-  forming tic: wave-6+ drafters write surprised laughter fresh;
+  forming tic: drafters write surprised laughter fresh;
   do not increase. **Wave 6 HONORED it — zero new uses; count
   holds at six. Discharge after one more clean wave.**
   **DISCHARGED 2026-08-28: wave 7 also zero — two clean waves;
@@ -125,7 +123,7 @@ list in the agent's invocation as "banned moves this run."
 - WATCH (campus line pass, 2026-08-28): **"never once"** as the
   book's default emphatic *never* — 25 uses book-wide, five new
   in wave 7 (three in ch 28 alone), climbing faster than either
-  retired scaffold. Wave-8 drafters: plain "never" unless the
+  retired scaffold. Drafters: plain "never" unless the
   "once" is doing real arithmetic; briefs carry it; do not
   increase the count.
 - WATCH (campus line pass, 2026-08-28): **"which was its own
@@ -133,7 +131,7 @@ list in the agent's invocation as "banned moves this run."
   ch05:21, ch18:42, ch18:175, ch22:49 "its own weight", ch23:178
   "its own headline"). The successor tic to the laugh scaffold:
   it is the book's reflex for *naming what a gesture meant*.
-  Wave-7+ drafters name the meaning fresh or leave it unnamed;
+  Drafters name the meaning fresh or leave it unnamed;
   do not increase.
 - WATCH (campus line pass, 2026-08-28): **the time-bell as the
   default scene transition** — six uses across wave 6 alone
@@ -145,17 +143,14 @@ list in the agent's invocation as "banned moves this run."
 - WATCH (campus 1.2 line pass, 2026-08-30): the REPEAT-AND-EXTEND
   emphasis shape ("She signed the empty clipboard herself / so the
   clipboard would not be empty") — five instances in accepted
-  ch 1–4. Wave-2+ drafters: at most one per chapter; do not increase.
-- WATCH (campus 1.2 line pass, 2026-08-30): the wry
-  "which"-appendix as the default meaning-namer ("…, which was the
-  answer he wanted") — eight instances in ch 1–4, five in ch 2
-  alone; the legal cousin of the banned "which was its own X."
-  Wave-2+ drafters: ration hard — let the gesture sit unnamed;
-  the reader was already doing the naming.
-- WATCH (campus 1.2 line pass, 2026-08-30): the arrival clock
-  ("since June" / "Six months") rings in every ch 1–4 chapter —
-  thematically load-bearing, but at ch 8 it becomes a bell. New
-  uses earn their slot; scaffold constructions stay at quota.
+  ch 1–4. Drafters: at most one per chapter; do not increase.
+- DISCHARGED 2026-09-12 (first audit F15): the "which"-appendix
+  watch — the chapter lint reports ", which " per chapter; no
+  instrument beyond that.
+- WATCH (campus 1.2, 2026-08-30; kept 2026-09-12): the arrival
+  clock ("since June" / "Six months") — the lint counts it per
+  chapter; a new use earns its slot. The ch 5/9/12 seeds (B2-T14)
+  spent two more on the author's instruction.
 
 ## junior-literary-critic
 

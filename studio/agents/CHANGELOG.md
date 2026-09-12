@@ -3,6 +3,60 @@
 Newest first. Every entry: version, what changed, and the evidence that
 drove it.
 
+## 2026-09-12 — THE BACKLOG PR: second audit F18–F30 and the first audit's unlanded items
+
+Evidence: `studio/agents/audits/2026-09-10-instrument-audit.md` and
+`2026-09-07-instrument-audit.md`; the author's catches at #156, #158
+and in chat (the weather; the seeds). Landed:
+- **DRAFTING-PROTOCOL:** THE LEADS' SCENES replaces the four brief
+  slots with a word FLOOR (F18); "one line" and "texture, one line"
+  banned for anything between the leads (F27); THE STAKES cited, not
+  restated (F23); FURNITURE, CITED (F24); the manifest is nouns with
+  cites, never a voice sample (F4); the review stack conformed to
+  PIPELINE — developmental → line → continuity last (F13); the
+  PROPOSED header retired (F28).
+- **romance-reader-panel 1.5.3:** duration numbers per leads' scene
+  (words, narration per dialogue line, reaction beats) in the verdict;
+  the swoon inventory protects at most one short line per scene (F19);
+  TASTE goes down the whole numbered sheet (F9).
+- **continuity-keeper 1.4.3:** the build check is run by the
+  orchestrator and pasted (F8); the brief's OPENING / ARGUMENT /
+  REVERSAL read against the manifest, the taste sheet read first
+  (F9); the registry's COUPLES rows read before any couple line
+  (F32).
+- **showrunner 2.4.4:** survey runs exempt; an audit or fold done in
+  the showrunner's hands draws that agent's deck card (F16).
+- **instrument-auditor 1.0.1:** listed under the editor deck; every
+  later run builds its test set from the author's catches since the
+  last audit (F28).
+- **DECKS:** D7 retired (F15/F26); rules renumbered; the auditor on
+  the editor deck (F28). **RECENT:** wave text gone; briefs point here
+  as of a date (F10); the duplicated establishing-line law is a
+  pointer; the "which"-appendix watch discharged; the since-June watch
+  kept as a lint count (F29).
+- **PIPELINE:** the fold checklist with an owner, nine lines including
+  the page against the card (F25, F31); length ~2,800–3,500 and the
+  quiet band 8–15% (F26); the outline gate runs the engine checklist
+  (F30); the arc gate checks the dossiers' pre-page history (F33);
+  Current state carries campus (F28).
+- **Tools:** `opening-check.py` prints the seams and checks every
+  section's opening (F3/F14/F23); `romance-build-check.py` warns
+  UNEARNED STAGE on any In/Out increment with no Earned-by (F7; rows
+  11/13/16 of the 1.2 ladder filled); the chapter lint's simile
+  scaffold regex narrowed (F6/F29) and a per-chapter REPETITION scan
+  added (F5).
+- **Kit:** 06's ingredient audit named as the outline gate and the
+  `/new-book-outline` skill runs it (F30); 11's parts renumbered
+  (F16). **CLAUDE.md:** fifteen specialists; the three missing rows
+  (F16/F28). **AUTHOR-TASTE:** the footer moved to the end (F28).
+  **1.2 registry:** a COUPLES section (F32). **STATE:** "panel 1.3.0"
+  retired (F28).
+Not landed, left on the backlog: F21 (the fold logs panel grafts —
+remit lines only), F22 (backstory that copies the plot — the
+developmental editor's Hauge item), F28's "AUTHOR-TASTE entry 8's
+duplicate block" (not found on re-read), the undated agents CHANGELOG
+entry (not found), and the roster-level items from July.
+
 ## 2026-09-12 — continuity-keeper 1.4.2: the card is canon for its chapter (patch)
 
 Rule 6: a brief or a draft is read against the chapter's card; a
