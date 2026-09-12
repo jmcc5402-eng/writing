@@ -630,7 +630,7 @@ from the eleven). Plants: F10's file.* *ANCHOR (Odell): eleven
 families is still eleven out of twelve thousand — count both
 numbers.* *End: flat.*
 
-### Ch 19 — The Portal (Aisha · Wk7 Mon)
+### Ch 19 — The Portal (Aisha · Wk7 Mon) `[CHECK: Jan 2 is a SATURDAY (Dec 19 Sat, B2-D15); ch 19's card rules whether the window opens Saturday the 2nd or the chapter is Monday the 4th — ch 18 audit, 2026-09-12]`
 January 2. The window opens and the county learns the modern
 covenant: a roster can dissolve in a fortnight. Boyd's second
 scene, at the Annex — he walks her rooms uninvited with the

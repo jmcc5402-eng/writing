@@ -50,8 +50,9 @@ docs); F## fair-play rows (b12-outline.md table governs).
   re-cut left it untouched) — exactly one per chapter; the
   ch 1→ch 3 "one Saturday plays for the whole year" echo is the
   priced-bravado payoff, the motif's one echo, SPENT. · ch 7
-  Earlene ("Leave the doctor's coat alone") · ch 8 Boyd/porch (the
-  spirit line) · ch 9 Earlene ("Buildings remember") · ch 10 Peanut
+  Earlene ("Leave the doctor's coat alone") · ch 8 Odell ("a microphone
+  never healed anybody" — ch8:379–381; the ledger had said Boyd/porch,
+  corrected at the ch 18 audit) · ch 9 Earlene ("Buildings remember") · ch 10 Peanut
   ("Boyd doesn't buy buildings") · ch 11 Birdie ("Everybody's
   twenty-five once") · ch 12 Earlene (the knife) — **Earlene holds
   FOUR of twelve** (ch 1, 7, 9, 12 — corrected at the ch 13 audit);
