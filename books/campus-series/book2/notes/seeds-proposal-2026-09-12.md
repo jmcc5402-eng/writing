@@ -1,4 +1,4 @@
-# The seeds — how they already knew each other (PROPOSAL v2, 2026-09-12)
+# The seeds — how they already knew each other (APPROVED "Go" and APPLIED, 2026-09-12; proposal v2)
 
 The author, #158: "the fact that they're meeting up at the diner I
 really like. But I think we need to seed more that they bumped into

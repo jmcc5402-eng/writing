@@ -1297,3 +1297,29 @@ important watching (taste entry 15; the dossiers' ladders, rows
   no poles, the Fieldhouse over the break, his beard, the
   quarter-zip, the touch slate, "a bad room on a third floor").
   STATE. F2's object still `[TK]`.
+
+## 2026-09-12 — ch 5, 9, 12: THE DINER SEEDS (MINOR; author "Go" on the v2 proposal; B2-T14)
+
+The author, #158 and chat: seed that they have been seeing each other
+at the Checkerboard for months — "he held the door for her once but
+there was always a couple in between them so they were never able to
+talk." Ten lines across three accepted chapters, nothing else touched
+(drafter card D6):
+- ch 5 (hers, after "Aisha had the second stool at the counter"): "The
+  stool nearest the register was Coach's, from before she came to
+  town. / The second had been hers since June because it was the one
+  open. / Between them stood the register, / and somebody was always
+  at it, paying, or leaning over it to talk to him."
+- ch 9 (hers, after "and she had noticed herself looking."): "He had
+  held the door for her once, in September, with his back, / coming
+  in as she went out, and said, Doc, and somebody came through
+  between them / before she had answered, and that was all they had
+  said there in six months."
+- ch 12 (his, after "He had the stool nearest the register."): "Nobody
+  was on the second stool beside him. / On a weekday it was the
+  doctor's at seven-thirty, and he was gone by then, / and on the
+  mornings they overlapped somebody was paying between them."
+Pays at ch 17: the empty town clears the register; her walk close
+behind his stool. THREADS B2-T14; the registry's stool row; kit 13 §1
+asks for this in every dossier from now on (F33). Lint clean on all
+three; opening checks PASS.
