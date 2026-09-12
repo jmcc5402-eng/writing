@@ -15,7 +15,7 @@ books/
 studio/        Cross-book material: style, process, pitch packaging
   series-kit/  The templates for starting a NEW series — start there
 .claude/
-  agents/      The writers' room — twelve specialists, usable on any book
+  agents/      The writers' room — fifteen specialists, usable on any book
   skills/      /new-book-outline, /triage
 ```
 
@@ -124,7 +124,7 @@ a book moves through.
 
 ## The writers' room
 
-Thirteen specialists in `.claude/agents/`, available to every book:
+Fifteen specialists in `.claude/agents/`, available to every book:
 
 | Agent | Use it for |
 |---|---|
@@ -137,6 +137,9 @@ Thirteen specialists in `.claude/agents/`, available to every book:
 | `red-team-critic` | The harshest fair read before anything goes out |
 | `culture-researcher` | Authentic, non-stereotyped setting detail; fact-checking |
 | `market-pitch-agent` | Comps, query letters, synopses, publishing strategy |
+| `gtm-strategist` | Go-to-market: channels, self vs trad, platform, sequencing |
+| `romance-reader-panel` | How the target romance reader experiences a draft: the count, the slow beat, the beer test |
+| `superfan-reviewer` | The retail review section before it exists: promise-keeping, pet peeves, stars |
 
 | `junior-literary-critic` | A two-part outside read: one-page critique + one-page recommendations |
 | `showrunner` | The program manager: surveys every book, ranks next jobs, preps briefs and PRs |

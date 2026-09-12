@@ -77,6 +77,13 @@ def check(rows):
                 elif r[k] - prev[k] > 1:
                     fails.append(f"ch {ch}: {k}side stage jumps "
                                  f"{prev[k]} → {r[k]}; one stage at a time")
+                elif r[k] - prev[k] == 1 and not r["earned"]:
+                    # Any In/Out increment is a spend (first audit, F7): a
+                    # stage opened with no Earned-by chapters is a hole the
+                    # fold owner fills; reported so it cannot pass silently.
+                    warns.append(f"ch {ch}: {k}side opens stage {r[k]} with "
+                                 f"no Earned-by chapters — UNEARNED STAGE; "
+                                 f"list the scenes that earn it")
         if r["spends"]:
             if r["spends"] not in SPENDS:
                 fails.append(f"ch {ch}: Spends is '{r['spends']}'; use want, "

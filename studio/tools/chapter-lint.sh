@@ -16,7 +16,7 @@ awk 'prev ~ /[:—]$/ && $0=="" {print NR-1": "prev} {prev=$0}' "$f"
 echo "== sentences with 2+ em dashes (budget ONE per chapter)"
 tr '\n' ' ' < "$f" | tr '.!?' '\n\n\n' | grep '—.*—' | sed 's/^ *//' | cut -c1-120
 echo "== banned words / scaffolds (campus scrub + RECENT.md)"
-grep -n -i 'unhurried\|declined to [a-z]*\b\|whole [a-z]* of it\|and meant it\|one beat\|before [a-z]* could vote\|before [a-z]* could dress\|never once\|which was its own\|the way [a-z]* [a-z]* [a-z]*' "$f"
+grep -n -i 'unhurried\|declined to [a-z]*\b\|whole [a-z]* of it\|and meant it\|one beat\|before [a-z]* could vote\|before [a-z]* could dress\|never once\|which was its own\|the way \(a\|an\|the\|you\|he\|she\|they\|it\|somebody\) [a-z]* \(does\|did\|do\|would\|had\|has\|might\|could\)\b' "$f"
 echo "== chorus construction \"somebody's ___\" (once per BOOK in narration; ledger in THREADS)"
 grep -n -i "somebody.s [a-z]" "$f"
 echo "== arrival clock (six months / since June — cap 1 per chapter)"
@@ -40,6 +40,19 @@ grep -n -i 'athletic director\|\bAD\b' "$f"
 echo "== OPENING CHECK (the first paragraph against every earlier chapter's — studio/tools/opening-check.py)"
 python3 "$(dirname "$0")/opening-check.py" "$f"; oc=$?
 python3 "$(dirname "$0")/ending-check.py" "$f"
+echo "== REPETITION (four-word runs used three or more times in this chapter — first audit F5)"
+python3 - "$f" <<'PY'
+import re, sys, collections
+t = open(sys.argv[1], encoding="utf-8").read()
+if "\n---\n" in t: t = t.split("\n---\n", 1)[1]
+w = re.findall(r"[a-z']+", t.lower())
+c = collections.Counter(tuple(w[i:i+4]) for i in range(len(w) - 3))
+stop = {"and","the","of","a","to","in","it","was","she","he","her","his","had","that","on","at","and","with","for","not","did","as","but","him"}
+for run, n in c.most_common():
+    if n < 3: break
+    if sum(x in stop for x in run) >= 3: continue
+    print(f"  {n}x  {' '.join(run)}")
+PY
 echo "== [TK] / [CHECK]"
 grep -n '\[TK\|\[CHECK' "$f"
 echo "== trailing whitespace"
