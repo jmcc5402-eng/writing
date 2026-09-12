@@ -499,3 +499,25 @@ outline. Ruled:
    thing that would not otherwise happen — AUTHOR-TASTE 17. Every
    book in the set gets one, and the outline audit checks for it.
 
+
+## B2-D20 — the ch 18 calls (author, 2026-09-12: "Go" on the recommendations)
+
+1. **The walk-on is named: Wes Pruett** — Marisol Pruett's son,
+   a junior, scout-team quarterback, walk-on (Book One: at Ashford
+   State for years; ch 3: "a scout-team walk-on who ran the
+   opponent's package"). PROPOSED NAME — the showrunner's pick on the
+   author's "name him"; the author strikes it at the read if it is
+   wrong. Said once by Dan over the film; to the bible with year and
+   position (SR-B2-18). He is NOT the backup (ch 16's drive is the
+   backup's).
+2. **Mackenzie's meeting is told through Ty**, two lines: she
+   "handled it," and Dan does not ask how. No side-POV section.
+3. **The letter, by text:** one line from him that he has the same
+   page she does, and nothing else — inside her firewall (a letter's
+   existence is not one of her calls). She is copied by email; he
+   gets paper.
+4. **Odell's anchor at the barbershop**, the beard coming off in his
+   chair. His second.
+5. **Midnight, New Year's Eve: three words from her**, in her
+   register (the time, the thing, done). The chapter still ends
+   flat — the text is warm; the drawer has the letter in it.

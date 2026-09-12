@@ -536,3 +536,19 @@ Files: `/home/user/writing/books/campus-series/book2/notes/cards/ch18-card.md`,
     title.
 11. Ch 19's day flagged in the outline (Jan 2 is a Saturday); D19's
     ice-storm default corrected to Wednesday the 13th.
+
+## AUTHOR'S RULINGS (B2-D20, "Go" on the recommendations)
+
+1. The walk-on is **Wes Pruett** — junior, scout-team quarterback,
+   walk-on; Dan says the name ONCE, over the film; nobody else says
+   it; before this chapter he was "Marisol Pruett's boy." NOT the
+   backup.
+2. Mackenzie's meeting is told through Ty: two lines, she "handled
+   it," Dan does not ask how. NO side-POV section.
+3. The letter by text: ONE line from him, that he has the same page
+   she does — nothing more, nothing about what is in it. She has it
+   by email (the athletic director's register with her, ch 5).
+4. Odell's anchor at the barbershop, in his chair, the beard coming
+   off. His second.
+5. Midnight: three words from her, in her register (the time, the
+   thing, done). Ends flat regardless.
