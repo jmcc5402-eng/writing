@@ -531,7 +531,13 @@ Where the rule bites:
    at nothing, a hand that does not know where to go. (c) THE ENDING
    THINKS — the POV lead's last scene carries interiority in plain
    sentences: what they think about the other lead, and the thing
-   they are afraid of, said; a button is never a bare object. (d) NO
+   they are afraid of, said; a button is never a bare object — AND
+   THEN COMES BACK: after the thinking, the last lines return to the
+   other lead and the room, so the reader closes the chapter inside
+   the romance and not inside the worry (author, #158 on 1.2 ch 17:
+   "add a few more sentences at the very end so the reader is fully
+   back in the romance rather than still thinking about some of the
+   other stuff in her head"). (d) NO
    VOLLEYS BETWEEN THE LEADS — a run of three dialogue lines under
    four words each, anywhere in a scene the leads share, is a
    finding ("I heard them go by the window. They were talking." /

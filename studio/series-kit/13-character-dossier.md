@@ -43,7 +43,18 @@ absence, and why); school and training; the jobs and the towns, and
 why each ended; the one friendship that lasted; money (what they
 owe, what they earn, what they spend on); the wound's origin as an
 EVENT with a place and a year; what they were like at twenty-five.
-Mark each fact CANON (`chNN:line`) or NEW.>
+Mark each fact CANON (`chNN:line`) or NEW.
+
+**The leads' history with each other before page one.** Name the
+two or three times they bumped into each other before the book
+starts — accidental, not the job: a stool, a dawn, a door held — and
+where the first act SEEDS them (chapter and line). A reader who
+watches two people get together needs to know how they already know
+each other; a professional acquaintance on a sheet is not that.
+Author, 2026-09-12, on 1.2 ch 17: "we need to seed more that they
+bumped into each other earlier in the book or before the book
+timeline. somehow that is part of how they already know each other."
+Missing here = a finding at the arc gate.>
 
 ## 2. Who they are now
 
