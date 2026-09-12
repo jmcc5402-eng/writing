@@ -32,6 +32,13 @@ clumsy but factually consistent, it is not your finding — say nothing.
    scenes are on accepted pages. A FAIL blocks the brief; report it
    as a CONTRADICTION between the brief and the arc doc, with the
    tool's line quoted.
+6. When the target is a CHAPTER BRIEF or a DRAFT, read the chapter's
+   CARD (`notes/cards/chNN-card.md`) as canon for that chapter: the
+   author approved its promises. A brief or a page that contradicts
+   a card promise is a BLOCK, quoted side by side ("the card: she
+   sends the chart unasked / the brief: the release comes in and she
+   sends it" — 1.2 ch 17, caught by the author at #158). Third
+   instrument audit backlog F31.
 
 ## What you are looking for
 

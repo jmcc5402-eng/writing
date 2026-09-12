@@ -263,6 +263,26 @@ fix in the report:
   beside the outline; the instrument auditor's four-chapter sweep
   re-reads the audit for rows that a drafted chapter was supposed to
   carry. Same day: B2-D19, taste 17.
+- **F31 — the page drifted from the card (author catch, #158).** The
+  ch 17 card promised the chart sent unasked; the brief had the
+  release arrive first; the audit passed the brief; the page followed
+  the brief. Landed: keeper 1.4.2 rule 6 (the card is canon for its
+  chapter; brief and draft read against it). Still open: the fold
+  checklist (F25) gets a "page vs card" line.
+- **F32 — the gate ruled from a misread page (#158).** The showrunner
+  ruled Cal and Marisol married from Book One ch 20's porch line,
+  which is Cal about his late wife; the keeper did not check the
+  couple's status; the author caught it. Landed: a couples row in
+  the 1.2 registry (Cal × Marisol: established, not married). Open:
+  the registry gets a COUPLES section per series (status, since
+  when, on which page) and the keeper's fact sheet reads it.
+- **F33 — the leads' pre-page history was never seeded (author
+  catch, #158).** Seventeen chapters in, the reader has the sheet
+  since June and nothing accidental; the author: "seed more that
+  they bumped into each other earlier." Landed: kit 13 §1 asks for
+  it; the 1.2 seeds are PROPOSED (ch 1 / ch 2 / ch 5) pending the
+  author's go. Open: the arc gate (PIPELINE 3b) checks the dossier
+  for it.
 - **First audit, still unlanded:** F3/F14, F4, F5, F7, F8, F9, F13,
   F15, F16.
 
