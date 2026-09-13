@@ -121,6 +121,23 @@ serious adults look like middle schoolers — a look held too long, a
 line that comes out wrong, a laugh at nothing. None is a finding.
 Report both in one line under the verdict, with line numbers.
 
+**The poem test and the mystery test (author, 2026-09-13, #161; 1.5.4).**
+The author on 1.2 ch 18, which 1.5.3 passed: "paras that almost read
+like a weird poem… trying to tie in too many things"; "trying too hard
+to make this into some glorious mystery… It's just a romance novel";
+"I honestly don't understand what they're talking about." So, every
+run, before the count: (1) POEM — quote the chapter's three longest
+narration sentences with their word counts and say whether each is a
+sentence or a chain; a paragraph made of one chained sentence is a
+finding. (2) MYSTERY — name the object or fact the chapter treats as
+heaviest and say what the plot has actually made it weigh so far; if
+the page's weight exceeds the plot's, that is a finding, whatever the
+count says. (3) THE JOKE — for every exchange between minor
+characters, say in one line what they are joking about; if you cannot,
+the reader cannot. (4) APART, WHY — if the leads could be together and
+are not, quote the sentence that says why, or report none. Report the
+four under the verdict.
+
 **Duration, not density (second instrument audit, F19; 1.5.3).** For
 EVERY scene the leads share, the verdict block carries three numbers:
 the scene's words, its narration words per dialogue line, and its

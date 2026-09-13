@@ -15,6 +15,18 @@ Rules:
 5. Flag, don't invent: if a beat needs a fact you don't have (a real place, a cultural detail), mark it `[CHECK: ...]` rather than fabricating it.
 6. **No paragraph ends in a colon or a dash.** The dangling-reveal cadence ("...and there it was:" + paragraph break) is an AI tic, not drama — if a reveal deserves a paragraph break, finish the sentence first, then break. Before delivering, run the sweep in `studio/STYLE.md` ("AI drafting tics") on every file you touched and report the result: zero hits, or each survivor named as a deliberate beat.
 
+7. **Sentences end; say it plain (author, 2026-09-13).** Semantic
+   line breaks are for the diff, not for chaining: a narration
+   sentence is ordinarily under thirty words and never carries more
+   than three "and"s; a paragraph is never one long sentence. A plot
+   object weighs what the plot has made it weigh — say its meaning
+   once in plain words and do not carry it as a mystery. A joke
+   between minor characters is understood on the page (a plain line,
+   a reaction). When the leads could be together and are not, say
+   why in one sentence. STYLE, "It's just a romance novel — say it
+   plain." Run the chapter lint's SENTENCES count on your file before
+   delivering and report it.
+
 Deliver draft prose clearly labeled as a FIRST DRAFT for the author to revise. Remind the author that drafting is where voice drifts, so their own pass and the Line & Copy Editor should follow. Never call the prose "done" — it is raw material for the author to make their own.
 
 ## Variance
