@@ -92,7 +92,7 @@ to. This table is what `studio/tools/romance-build-check.py` reads.
 | 15 | 3 | 3 | ON THE PAGE (#155): RUNG 8 — THE KISS, hers ("She crossed the room. It had never been far."); his hands on her (the new sense), his jaw under her palm, the height in her body; "When it stopped, his hands did not."; her "Dan" to his face and his "Aisha" aloud, both spent; the terms (the first Wednesday in February) and THE FIREWALL; the window signal; UP | kiss | 13, 14 | — |
 | 16 | 4 | 4 | ON THE PAGE (#156): the terms in public — the not-looking, the one look from forty yards; the frame taken (the town half-sees, unknowing); the annex — the gap sentence as the intimacy beat, one kiss at the ceiling (slowed in the recut), her hand over his; DOWN on the ball | — | 13, 15 | — |
 | 17 | 4 | 4 | The one lit room — on the page (#158): HEAT 2 to the first garment, the night told; rung 9 | — | — | — |
-| 18 | 4 | 4 | (planned) | — | — | — |
+| 18 | 4 | 4 | The glorious week (#162): five nights, rung 9 repeated, told; NYE at his house; the first texts; her new signal | — | — | — |
 | 19 | 4 | 4 | The packing in public; she lets him carry | — | — | — |
 | 20 | 4 | 4 | The supper table | — | — | — |
 | 21 | 4 | 4 | A photo exists; the ice storm puts her in his truck (B2-D19) | — | — | — |

@@ -83,26 +83,16 @@ The ch 20 and ch 21 cards carry it.
 the fold checklist, the outline gate, the seams, the couples section,
 panel 1.5.3 / keeper 1.4.3 / showrunner 2.4.4 / auditor 1.0.1.
 
-**Ch 18 v1 MERGED (#161) then SUPERSEDED on the author's read
-(2026-09-13; B2-D21): "making way too much out of… this letter";
-"like a weird poem"; "explain why they're not together more." The
-same day: STYLE "say it plain," taste 18, the lint's SENTENCES
-count, panel 1.5.4, drafter 1.6.0. **Ch 18 v2 DRAFTED — PR OPEN:**
-"The Week the Town Was Gone," the glorious week, NYE at his house in
-full, the montage, the bed remembered in Odell's chair. Three blind
-drafters; B (D2) won; panel 1.5.4 PASS WITH FIXES, twelve applied.
-**The author's open call:** the coat plant (B2-T02, owed ch 29) —
-all three drafters spent it at the hook; the page now has him NOT
-say it; the author decides spend-now or keep. **On merge, the fold
-(v2 replaces v1 — nothing of v1 was folded):** THREADS ch 18 entry;
-F8/RH2 (Denny absent); F10 (Wes kept); B2-T07 (the phrase, once);
-B2-T08 (the board read with her watching — a turn); B2-T14 (his
-side); Odell's second anchor; his house rows (brick, carport, the
-hook, one bowl, nothing on the walls); the first texts; her new
-signal (lamp on, curtain shut); the dossier rows 18; the ch 19
-calendar (Jan 2 is a Saturday — close the outline's [CHECK]);
-thirty-four's [TK] closes NEVER; BACKLOG F36 (the stray brief file —
-the drafter checks for the addendum before drafting).
+**Ch 18 ACCEPTED (#162, the rewrite) and FOLDED (2026-09-13).** "The
+Week the Town Was Gone" — the glorious week; three blind drafters, B
+won; the author's six comments applied (the wine; the film room set
+up; the first of January said plain; the week reviewed in pictures).
+The coat plant SAVED for ch 29 (B2-D21.8). Drinks as register
+(B2-D21.9). Rules this chapter made: STYLE "say it plain" (a–d) and
+"after a jump, the date is said plain"; taste 18; the lint's SENTENCES
+and name-chain counts; panel 1.5.4; drafter 1.6.0/1.6.1. Ch 19's day
+ruled: Monday, January 4 (the window opened Saturday the 2nd).
+
 **Then ch 19** — "The Portal," Aisha; Boyd at the annex; the
 directorship remark (F11); the window opens.
 
