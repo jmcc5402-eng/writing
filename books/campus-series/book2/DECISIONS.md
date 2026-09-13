@@ -557,3 +557,21 @@ letter… we need to explain why they're not together more." Ruled:
 7. **Three blind drafters** (the chapter is a set piece now); the
    author reads only the winner. Ends a step DOWN from ch 17 — the
    last night knows it is the last.
+
+### B2-D21, addenda (author, 2026-09-13, on #162)
+
+8. **The coat plant (B2-T02) is SAVED for ch 29** ("I think we should
+   save it"). On the page he thinks it at the hook and does not say
+   it; no drafter spends it before the equipment manager does.
+9. **Drinks carry feeling (author): "beer is his primary drink, but we
+   can use different types of alcohol to convey different feelings
+   throughout these books."** On New Year's Eve she brings red wine
+   ("Wine, because we're in a house, not a room" — the author's line,
+   hers on the page); he drinks it instead of his beer, and she is
+   pleased that he would; nobody says why. Recorded in the registry
+   and the series STANDARDS as a standing register.
+10. The six #162 comments applied in the fold PR: why she is in the
+    film room, said; the Verna sentence unchained; the dinner looser
+    with the wine; the cold hand fixed; the last section dated plainly
+    (January 1, the night the boys flew back) and his review of the
+    week grown to one picture per day and night.

@@ -140,6 +140,8 @@ finding). Started at the wave-1 fold (2026-08-30).
 | The touch slate (spent) | her palm flat on the BACK OF HIS NECK (ch 17, the first contact of the lit room; "no collar between her palm and the heat of it"); his hands under her sweater at her waist; her hands under the hem of the quarter-zip | ch 17 |
 | "a bad room on a third floor" | his name for the hospital lounge (ch 4: "This is a bad room." / "Then it's a bad floor." / she laughed) — the start of his wanting, said at 17; "since a hospital lounge in November" is ch 15's and spent | ch 4, 15, 17 |
 
+| Drinks as register (author, 2026-09-13) | Dan's default is BEER (ch 6 Ray's porch, ch 10 the Mule, ch 18 Friday); what he drinks instead says what he feels — RED WINE on New Year's Eve, hers, in his house ("Wine, because we're in a house, not a room"), and she is pleased he drank what she drinks. Aisha: seltzer by default (ch 16, 17, 18 — he buys the kind she likes); wine at wine night (ch 11) and on the 31st. Later books may use other drinks the same way; never a drunk scene between the leads (STANDARDS R2). | ch 18 (#162 comments) |
+
 ## Couples (status, since when, on which page — second audit F32; the keeper reads this before ruling on any couple line)
 
 | Couple | Status | Since / source |
