@@ -1388,3 +1388,79 @@ three; opening checks PASS.
   (ch 14's words).
 - SR (strike by comment): Wes Pruett's name; Ty's install; Odell's
   bank line; "Leave the light on when I do."
+
+## 2026-09-13 — ch 18 REWRITTEN: "The Week the Town Was Gone" (Dan · Dec 27 – Jan 1) — PR open; SET PIECE, three blind drafters, B won (B2-D21)
+
+- The merged v1 ("Eleven Families," #161) SUPERSEDED on the author's
+  read: "making way too much out of small things like this letter";
+  "paras that almost read like a weird poem"; "I honestly don't
+  understand what they're talking about"; "we need to explain why
+  they're not together more"; "Dan is still kind of a mystery." Then
+  in chat: "the greatest week that they have ever had… every night…
+  in secret… one scene in detail… a montage." → B2-D21. The same
+  day: STYLE "It's just a romance novel — say it plain" (a–d); taste
+  18; the lint's SENTENCES count; panel 1.5.4 (poem, mystery, joke,
+  apart-why); drafter 1.6.0 (rule 7). V1 is at
+  `notes/candidates/ch18-v1-superseded.md`.
+- Card and brief v2 audited together (E1): BLOCK on five — the house
+  is on four accepted pages (ch 2, 10, 12, 17) and his kept navy coat
+  hangs on the hook by the door; about two seasons in Ashford, not
+  ten years; the square at five on foot (the truck sleeps in the
+  Fieldhouse lot); no plates on Friday; the brief's own chained
+  sentences broken short. The orchestrator's edit wrote the corrected
+  brief to a stray file; candidate C caught it; restored.
+- THREE blind drafters (A: D1 sound-forward; B: D2 hands and objects;
+  C: D5 weather as texture); three blind panels (1.5.4's first run):
+  A 31 beats, sixteen sentences over thirty words; B 33 beats, none
+  over twenty-nine; C 35 beats, seven v1 sentences rerun and the
+  consultant decode spent. **B won** (`notes/ch18-scoreboard-2026-09-13.md`):
+  the only candidate that passes the sentence law outright; the
+  highest New Year's Eve duration (~1,770 words, 36 narration words
+  per line); the bed talk in Odell's chair. All three drafters had
+  him confess the coat's origin at the hook (B2-T02, owed ch 29) —
+  the audit's must-have led them there; B's fix pass defuses it
+  (he thinks it and does not say it) pending the author's call.
+- The page: Sunday's walk down and "Five nights"; the truck asleep in
+  the Fieldhouse lot, the why said once (the terms; nothing anybody
+  could see; the county home Friday); the square at five — "Walk
+  faster, Dan. You'll lose a foot."; the letter in one paragraph,
+  "It went in his file beside the loss, and the loss was the thing a
+  table in February was going to weigh," then the drawer and gone;
+  Wes Pruett kept, the name once; the film room with her — "The
+  rule's yours and I'm keeping it for you," the ice machine and her
+  laugh; Monday night his sideline jacket over her feet ("It's
+  warmer than the furnace. Verna should write that down."); Tuesday
+  the lamp off and "Thank you" to the dark; the Checkerboard with
+  thirty-four on her stool, "a thing she had not said was hers to
+  keep"; the staff room — the four doors, "the whole state owes the
+  doctor an apology," the marker before the title, "That's the
+  check," "a second coat on his hook" as the board's coat story,
+  "It cost him the morning"; Odell's chair — "a yard nobody waters,"
+  the anchor (his second), "Yes sir," and the bed on the twenty-sixth
+  remembered: "A house is for two suitcases and somebody to unpack
+  the other one." / "I've never been married, Dan." — "He was afraid
+  she would leave… He wanted her in a house"; Wednesday "I liked the
+  beard," and then, "Come here anyway."; NEW YEAR'S EVE at his house
+  — the RAV4 two streets over, the brick house with a carport and
+  nothing on the walls, "I cleaned like you were," the hook and
+  "That's mine's twin." / "Staff issue." and what he does not say,
+  "That's a hall, Dan.", the one bowl, "let me look at you in your
+  own kitchen," the week told back, the terms and Friday, "This is
+  the last one," the board read with her watching, the approach in
+  eight sentences, the cut at the sweater, she stays; Friday — gone
+  before light, the boys flown in, the truck home, "He was more
+  afraid of her car than of the table," the first text between them,
+  "Lamp's on. Curtain's shut. It's still yours." / "Keys are home, on
+  the hook. Leave the lamp on. I'll know it's there."; "and let her
+  be the last thing in the day." A step DOWN, warm. About 4,650
+  words; NYE ~1,770; 17.5% quoted; the SENTENCES count: none over
+  thirty; opening check PASS.
+- B's fix pass (twelve asks, written by the drafter): the coat
+  defused; the motel's picture reshaped; the seed wordings, "since
+  June," "face down," "read to the bottom" out; v1's two verbatims
+  rewritten; "rental" and the plate cut; Monday night's beat
+  changed; "families"; "in her socks" once. Showrunner copy trim:
+  "the real one" laugh (ch 17's shape).
+- SR (strike by comment): "Walk faster, Dan"; the jacket over her
+  feet; the bed talk's two lines; "That's a hall, Dan"; the last
+  text.

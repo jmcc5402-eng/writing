@@ -185,6 +185,21 @@ Still open:
   registry rule) should carry it for every series.
 - **F31, the fold half:** landed as line (8) of PIPELINE's fold
   checklist.
+- **F34 — the panel passed a poem (author catch, #161).** 1.5.3 read
+  ch 18 with the new duration numbers and missed chained one-sentence
+  paragraphs, banter nobody could decode, and a week apart with no
+  reason. Landed: panel 1.5.4 (poem, mystery, joke, apart-why); the
+  lint's SENTENCES count; drafter 1.6.0. Open for the third audit: why
+  the duration numbers rewarded chained sentences (narration per
+  dialogue line rises when sentences chain).
+- **F35 — a chapter built on an object the plot had not made heavy
+  (author catch, #161).** The card, the brief and the audit all made
+  the letter the chapter's spine; nothing asked what the letter
+  weighs to the reader at ch 18. Landed: STYLE (b); the panel's
+  MYSTERY test. Open: the card template (kit 12) asks "what does the
+  reader already know to fear about this" for any object the chapter
+  leans on; the showrunner's card writing reads the outline's PAYOFF
+  chapter before making a plant a spine.
 - **The third audit (after ch 20):** its test set is the author's
   catches since 2026-09-10 (AUTHOR-NOTES rows from #156 on): the
   seeds, the couple, the card drift, the ending's return, the

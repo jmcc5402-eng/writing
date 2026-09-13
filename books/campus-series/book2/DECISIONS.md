@@ -521,3 +521,39 @@ outline. Ruled:
 5. **Midnight, New Year's Eve: three words from her**, in her
    register (the time, the thing, done). The chapter still ends
    flat — the text is warm; the drawer has the letter in it.
+
+## B2-D21 — ch 18 REWRITTEN as the glorious week (author, 2026-09-13, #161 + chat: "Would it fit in if we made this like the greatest week that they have ever had?… Yes to both. Go")
+
+The merged ch 18 (#161, "Eleven Families") is SUPERSEDED. The author:
+"I think this chapter had a lot of problems that we might need to
+rewrite it… it's making way too much out of small things like this
+letter… we need to explain why they're not together more." Ruled:
+
+1. **Ch 18 is the best week they have ever had.** The town is empty
+   till the boys fly back Friday and the portal opens Saturday; they
+   are together every night, in secret, and both know the week ends.
+   The honeymoon before the fall (ch 23–26). Title to change.
+2. **One night in full — New Year's Eve at his house**, the first time
+   she has seen it; her car two streets over. The rest of the nights
+   and days as a MONTAGE: a run of paragraphs, each a picture with a
+   line of talk in it, never a list.
+3. **The letter is one paragraph**, its meaning said plain (eleven
+   parents wrote the athletic director about her calls and the
+   roster; it goes in his file beside the loss), and it is never
+   carried as a mystery. The loss is the stake this month, not the
+   letter (the author: "the bigger stakes is the fact that he lost
+   the game").
+4. **Dan's head is about her.** The barber chair carries a flashback
+   to a conversation in bed on the twenty-sixth (told; the act never
+   shown — STANDARDS 9 as amended at #158).
+5. **Kept from v1, made plain:** Odell's chair and anchor; Ty and the
+   marker (the joke understood, with reactions); thirty-four on her
+   stool, worked out and never said; Wes Pruett on the scout-team
+   film, one paragraph (the name stands — the author did not strike
+   it). Thirty-four has no story, by ruling: "it's just a random
+   mystery, which is good" — the `[TK]` closes as NEVER.
+6. **Apart has a reason, said once:** the terms (nothing public till
+   February); the truck never in the lot; the county home Friday.
+7. **Three blind drafters** (the chapter is a set piece now); the
+   author reads only the winner. Ends a step DOWN from ch 17 — the
+   last night knows it is the last.

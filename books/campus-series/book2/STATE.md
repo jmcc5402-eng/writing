@@ -9,7 +9,7 @@ production runs under them: brief audit, label shuffle,
 jewel-forge slot, staging clause, furniture registry, anchor
 lines, carryover-reader gate).**
 
-## PICK UP HERE (2026-09-12 — CURRENT)
+## PICK UP HERE (2026-09-13 — CURRENT)
 
 **AUTHOR FOCUS: ROMANCE ONLY; CHAPTER BY CHAPTER.** Card before
 drafting (sent to the author first), brief, audit, ONE drafter for
@@ -83,18 +83,26 @@ The ch 20 and ch 21 cards carry it.
 the fold checklist, the outline gate, the seams, the couples section,
 panel 1.5.3 / keeper 1.4.3 / showrunner 2.4.4 / auditor 1.0.1.
 
-**Ch 18 DRAFTED (2026-09-12) — PR OPEN.** "Eleven Families," Dan,
-Dec 28 – Jan 1, connecting, one drafter (D4). Card and brief audited
-together first (E2, BLOCK → seven fixes). B2-D20: Wes Pruett
-(PROPOSED name — the author strikes at the read); Mackenzie through
-Ty; one text about the letter; Odell's chair; three words at
-midnight. Panel 1.5.3 PASS WITH FIXES (the first duration numbers);
-fifteen asks applied. **On merge, the fold:** THREADS ch 18 entry;
-F8/RH2 (Denny absent from the eleven — the signal set); F10 (the
-roster block whole); B2-T07 ("proactive risk posture" in the letter);
-B2-T14 (his side); Odell's second anchor; the texts (the leads' first
-— registry); Wes Pruett to the bible if kept; the dossier rows 18;
-the ch 19 calendar ruling (Jan 2 is a Saturday) BEFORE ch 19's card.
+**Ch 18 v1 MERGED (#161) then SUPERSEDED on the author's read
+(2026-09-13; B2-D21): "making way too much out of… this letter";
+"like a weird poem"; "explain why they're not together more." The
+same day: STYLE "say it plain," taste 18, the lint's SENTENCES
+count, panel 1.5.4, drafter 1.6.0. **Ch 18 v2 DRAFTED — PR OPEN:**
+"The Week the Town Was Gone," the glorious week, NYE at his house in
+full, the montage, the bed remembered in Odell's chair. Three blind
+drafters; B (D2) won; panel 1.5.4 PASS WITH FIXES, twelve applied.
+**The author's open call:** the coat plant (B2-T02, owed ch 29) —
+all three drafters spent it at the hook; the page now has him NOT
+say it; the author decides spend-now or keep. **On merge, the fold
+(v2 replaces v1 — nothing of v1 was folded):** THREADS ch 18 entry;
+F8/RH2 (Denny absent); F10 (Wes kept); B2-T07 (the phrase, once);
+B2-T08 (the board read with her watching — a turn); B2-T14 (his
+side); Odell's second anchor; his house rows (brick, carport, the
+hook, one bowl, nothing on the walls); the first texts; her new
+signal (lamp on, curtain shut); the dossier rows 18; the ch 19
+calendar (Jan 2 is a Saturday — close the outline's [CHECK]);
+thirty-four's [TK] closes NEVER; BACKLOG F36 (the stray brief file —
+the drafter checks for the addendum before drafting).
 **Then ch 19** — "The Portal," Aisha; Boyd at the annex; the
 directorship remark (F11); the window opens.
 
