@@ -200,6 +200,14 @@ Still open:
   reader already know to fear about this" for any object the chapter
   leans on; the showrunner's card writing reads the outline's PAYOFF
   chapter before making a plant a spine.
+- **F36 — the audited brief went to a stray file (2026-09-13).** The
+  orchestrator's Python edit shadowed its path variable and wrote the
+  corrected ch 18 v2 brief to `book2/x`; the plots copy lacked the
+  addendum; candidates A and B drafted from it, C found the stray
+  file and said so. Landed: drafter 1.6.1 rule 8 (no addendum, no
+  draft). Open: the orchestrator's edit scripts assert the target
+  path after writing (a one-line check); the fold checklist gets
+  "the brief on disk carries the addendum" before drafters launch.
 - **The third audit (after ch 20):** its test set is the author's
   catches since 2026-09-10 (AUTHOR-NOTES rows from #156 on): the
   seeds, the couple, the card drift, the ending's return, the
