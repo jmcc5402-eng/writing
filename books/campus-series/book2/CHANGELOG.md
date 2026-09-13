@@ -1323,3 +1323,68 @@ Pays at ch 17: the empty town clears the register; her walk close
 behind his stool. THREADS B2-T14; the registry's stool row; kit 13 §1
 asks for this in every dossier from now on (F33). Lint clean on all
 three; opening checks PASS.
+
+## 2026-09-12 — ch 18 DRAFTED: "Eleven Families" (Dan · Dec 28 – Jan 1) — PR open; CONNECTING, one drafter
+
+- Card and brief audited TOGETHER before the card went to the author
+  (E2): BLOCK on seven — the walk-on is a scout-team walk-on, not the
+  backup (ch 3:238); the firewall is HERS (ch 15:365) and she is
+  copied by email; the cook says nothing about the stool (Dan reads
+  it); "the window opens Saturday," never a day count; staff back
+  for the portal said once; no "Coach." close; Odell's barber chair.
+  Also caught: ch 8's anchor is Odell's on the page (the ledger had
+  said Boyd); Jan 2 is a SATURDAY (ch 19's outline day flagged; D19's
+  ice-storm default moved to Wednesday the 13th). The author's calls
+  → B2-D20: the walk-on named WES PRUETT (showrunner's pick on "name
+  him"; the author strikes at the read); Mackenzie told through Ty;
+  one text about the letter; Odell's chair; three words at midnight.
+- One drafter (D4 — Ty draws the red-zone install cold off one read).
+  The page: the courtesy copy in his box, her name on the routing
+  line "and nowhere in the letter under it, and it was on every line
+  of it anyway"; "proactive risk posture" inside the letter once,
+  unremarked; Denny's name absent, one sentence; the top drawer; the
+  first texts between them ("9:05. Wind's gone north. Furnace is
+  behind it."; the five words cut — "about you and the roster";
+  "9:20. Mine came at nine. Read it once."); the scout-team film,
+  "Hell," and "Wes Pruett," said once; the January roster with "a line
+  through nothing"; "8:50. Nobody's a bad reason. Go home."; the
+  Checkerboard — thirty-four on the second stool, the tape hers,
+  nobody tells him, "a thing about her he was going to keep without
+  telling her he had it"; "There's a boy on the doctor's stool." /
+  "Read your paper."; the staff room — "Coach's truck's got two
+  doors," the marker and the install into Ty's hand, "the room, which
+  had come in to make a morning out of a truck, shut up and watched
+  him do it," "That's the check.", the ribbing turned on Dan ("There's
+  a second coat on his hook"), her face in his head, the title kept
+  out of the room "with a marker"; Ty: "She went into her own office
+  Monday morning and ran a meeting on it… It's handled, Coach."; Odell's
+  chair, eleven days of beard, "Looked like a man hiding from a
+  bank," and his ANCHOR (his second): "Twelve thousand on it, and
+  eleven of them wrote a letter… Count both. Then tell me which one's
+  bigger." / "Yes sir."; "4:40. I liked the beard. Noted."; midnight,
+  the board's one post, "Midnight. Nothing rang."; the ending thinks
+  ("the rule was holding, and what it was holding out was him"; "I
+  can't tell her.") and comes back to her; "12:06. I plan to see it.
+  Leave the light on when I do."; the stove light off, "he looked
+  around it once as a thing she was going to see." FLAT. About 3,500
+  words; the thread ~1,000 with its narration; opening check PASS;
+  the seams WARN ×3 (staff room, the hook, the board — noted).
+- Panel 1.5.3 (`notes/ch18-panel-2026-09-12.md`), the first read with
+  the duration numbers: PASS WITH FIXES — 26 beats, 7 kinds; the
+  thread 1,020 words, 82 narration words per text, 19 reaction beats;
+  apart test PASS; both beer tests YES. Fifteen asks, written by the
+  drafter: her name's place on the page said once; the stool
+  paragraph kept in his body, the grading clause cut; "anyway" to
+  two, "he read it" to two, "nobody" thinned; the beard's "other
+  thing" said; the install to one sentence; the colleague paragraph
+  to its one moving clause; two more ribbing lines run; the last
+  paragraph kept in the kitchen; the second ice machine, "Eat your
+  eggs," and the ch 17 verbatim cut; the ruling-words cut; her face
+  in the staff room; her register labeled once and her last text a
+  different move; Odell's bank line put on the page; §7 opened on the
+  stove light. Gate: "I plan to see it" is a promise, not a rung; Q3's
+  quiet-band slot spent here (6.7% by the lint, the texts uncounted).
+- Showrunner copy fix: "sat down a year" for "let go from a town"
+  (ch 14's words).
+- SR (strike by comment): Wes Pruett's name; Ty's install; Odell's
+  bank line; "Leave the light on when I do."

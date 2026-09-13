@@ -9,7 +9,7 @@ production runs under them: brief audit, label shuffle,
 jewel-forge slot, staging clause, furniture registry, anchor
 lines, carryover-reader gate).**
 
-## PICK UP HERE (2026-09-11 — CURRENT)
+## PICK UP HERE (2026-09-12 — CURRENT)
 
 **AUTHOR FOCUS: ROMANCE ONLY; CHAPTER BY CHAPTER.** Card before
 drafting (sent to the author first), brief, audit, ONE drafter for
@@ -79,13 +79,24 @@ weather event — it puts her in his two-door truck and the county
 sees it; planted on the board at ch 20; texture at ch 22. Taste 17.
 The ch 20 and ch 21 cards carry it.
 
-**Then the backlog PR (agents:)** — F18 (the floor replaces the four
-brief slots), F19, F23–F29, and the first audit's unlanded items —
-BEFORE ch 18's card. **Then chapter 18** — "Eleven Families," Dan;
-the walk-on's film; Mackenzie and Ty; the texting register. Card and
-brief audited together first. Drafter card LRU after D3 — check
-LOG. The author's open call from survey 2: whether to name the
-backup.
+**The backlog PR MERGED (#160, 2026-09-12)** — the leads' scenes floor,
+the fold checklist, the outline gate, the seams, the couples section,
+panel 1.5.3 / keeper 1.4.3 / showrunner 2.4.4 / auditor 1.0.1.
+
+**Ch 18 DRAFTED (2026-09-12) — PR OPEN.** "Eleven Families," Dan,
+Dec 28 – Jan 1, connecting, one drafter (D4). Card and brief audited
+together first (E2, BLOCK → seven fixes). B2-D20: Wes Pruett
+(PROPOSED name — the author strikes at the read); Mackenzie through
+Ty; one text about the letter; Odell's chair; three words at
+midnight. Panel 1.5.3 PASS WITH FIXES (the first duration numbers);
+fifteen asks applied. **On merge, the fold:** THREADS ch 18 entry;
+F8/RH2 (Denny absent from the eleven — the signal set); F10 (the
+roster block whole); B2-T07 ("proactive risk posture" in the letter);
+B2-T14 (his side); Odell's second anchor; the texts (the leads' first
+— registry); Wes Pruett to the bible if kept; the dossier rows 18;
+the ch 19 calendar ruling (Jan 2 is a Saturday) BEFORE ch 19's card.
+**Then ch 19** — "The Portal," Aisha; Boyd at the annex; the
+directorship remark (F11); the window opens.
 
 **Standing:** do not chase; talk plainly (taste 13); every lesson an
 instrument (taste 14); the card before the chapter (§3c).
