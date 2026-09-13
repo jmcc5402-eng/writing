@@ -308,3 +308,11 @@ one clause on the numbers if texts are used. Wes is a scout-team
 walk-on, not the backup; the first-team-line image (ch 14) is not
 repeated. Her firewall is HERS (ch 15:365). His house has no
 location. Thirty-four's hand: taped two weeks from the 21st.
+
+## THE CARD'S CALLS — DEFAULTS FOR DRAFTING (the author's "Go" on the shape; corrections land as an addendum)
+
+1. The week stays in Ashford. No day trip.
+2. YES — one film night with her in the empty Fieldhouse (Monday or
+   Tuesday), under the prohibitions above.
+3. Friday: she is gone before light. No morning scene.
+4. The letter stays here, one paragraph.
