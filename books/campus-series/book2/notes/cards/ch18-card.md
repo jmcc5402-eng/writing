@@ -1,46 +1,47 @@
-# Chapter 18 — Eleven Families
+# Chapter 18 — The Week the Town Was Gone
 
-Dan, the week between Christmas and New Year's. One drafter.
+Dan, Sunday the 27th to Friday the 1st. Three blind drafters; you
+read the winner. Replaces the merged chapter 18.
 
 **The plot.**
 
-Eleven families ask for "clarity on medical decision-making and roster
-priorities," and the athletic director sends it to Dan on paper and
-to her by email, the same day. It is her protocol and the walk-on's
-spot in one letter. Denny Gault's name is not on
-it. Dan watches the walk-on's
-December practice film alone at night, keeps him on merit, and
-tells nobody. The portal opens Saturday.
+The town is empty till Friday. Eleven parents write the athletic director about her calls
+and the roster: one paragraph, meaning said plain, it goes in his
+file beside the loss. The loss is the weight this month. Dan keeps Wes Pruett on the scout team and tells nobody. Ty gets
+the marker, and the joke is one you can hear.
 
 **Dan.**
 
-He is holding a letter about the woman he was with on the
-twenty-sixth. She is holding the same one. Her firewall covers her
-calls, so as he reads it, neither of them can say a word. He ends the staff-room ribbing about Ty by handing Ty the
-marker and the red-zone install, so the room never gets to the
-admissions director at all.
+The best week he has had. He walks down the hill every night and
+nobody sees. He thinks about her all day and the page shows it. In
+Odell's chair on Wednesday, the beard coming off, he is back in bed
+on the twenty-sixth, remembering what they said.
 
 **Aisha.**
 
-Seen from his side only. He walks into the Checkerboard one morning
-and thirty-four is eating on her stool, hand still taped, and nobody
-tells him anything. He works it out and never says so to her. Her texts read like her charts: the time, the thing, done.
+Seen from his side. Running the square at five as his truck comes
+through. On her stool at the Checkerboard sits
+a kid with a taped hand, and Dan works out what she did and never
+says it.
 
 **The romance.**
 
-Terms-legal and warm. They text about nothing: the furnace, the ice
-machine, a window. Nothing about the letter.
+Every night together in secret, and both know it ends Friday. The
+reason is said once: the terms, and the truck never in that lot. The
+montage carries the nights. New Year's Eve at his house is the full
+scene, the first time she has seen it, her car two streets over. It
+cuts at the door the way room nine did.
 
-**The town, Boyd, the clock.**
+**The town, the clock.**
 
-Odell cuts eleven days of beard off before the window opens, and
-gets the chapter's line: eleven families is still eleven out of
-twelve thousand. Count both numbers. New Year's Eve is one line. Ends flat.
+Odell's line: eleven out of twelve thousand, count both. Verna's
+light on every night, Verna saying nothing. Friday the plates come
+back. The last night knows it is the last; the chapter ends a step
+down.
 
 **Your calls.**
 
-1. The walk-on gets a name here (it goes in the bible with year and position), or stays "Marisol Pruett's boy."
-2. Mackenzie's own meeting: a short section in her head, or told through Ty.
-3. The letter: neither of them mentions it, or he texts one line that he has the same page she does, and nothing else.
-4. Odell's line at the barbershop with the beard coming off, or at the Checkerboard.
-5. Midnight on New Year's: a three-word text from her, or nothing.
+1. One day trip out of the county in the montage (a diner where nobody knows them), or the week stays in Ashford.
+2. She watches film with him one night in the empty Fieldhouse, or the Fieldhouse stays his alone.
+3. Friday morning: she is gone before light, or one paragraph of the morning after.
+4. The letter stays here as one paragraph, or moves to chapter 19 in her hands.

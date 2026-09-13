@@ -3,6 +3,27 @@
 Newest first. Every entry: version, what changed, and the evidence that
 drove it.
 
+## 2026-09-13 — drafting-assistant 1.6.0, romance-reader-panel 1.5.4: say it plain (the author's #161 read of 1.2 ch 18)
+
+Evidence: eight comments on #161 — "paras that almost read like a
+weird poem"; "trying too hard to make this into some glorious
+mystery… It's just a romance novel"; "I honestly don't understand
+what they're talking about… too implicit"; "we need to explain why
+they're not together more"; "Dan is still kind of a mystery." The
+panel (1.5.3) passed the chapter with fixes and caught none of it.
+- **drafting-assistant 1.6.0** — rule 7: sentences end (under thirty
+  words, at most three "and"s, no one-sentence paragraphs); a plot
+  object weighs what the plot has made it weigh; jokes understood on
+  the page; apart has a reason; the SENTENCES count run before
+  delivery.
+- **romance-reader-panel 1.5.4** — the POEM test, the MYSTERY test,
+  THE JOKE, and APART, WHY, reported under the verdict every run.
+- **Law:** STYLE "It's just a romance novel — say it plain" (a–d);
+  taste 18; the chapter lint's SENTENCES section (over thirty words;
+  more than three "and"s). BACKLOG F34 (the panel's miss) and F35 (the
+  chapter built on an object the plot had not made heavy — the card
+  and brief did it, and the audit passed them).
+
 ## 2026-09-12 — THE BACKLOG PR: second audit F18–F30 and the first audit's unlanded items
 
 Evidence: `studio/agents/audits/2026-09-10-instrument-audit.md` and

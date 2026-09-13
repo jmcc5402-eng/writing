@@ -53,6 +53,26 @@ for run, n in c.most_common():
     if sum(x in stop for x in run) >= 3: continue
     print(f"  {n}x  {' '.join(run)}")
 PY
+echo "== SENTENCES (narration over 30 words, or more than three 'and's — STYLE 'say it plain' (a), 2026-09-13)"
+python3 - "$f" <<'PY'
+import re, sys
+t = open(sys.argv[1], encoding="utf-8").read()
+if "\n---\n" in t: t = t.split("\n---\n", 1)[1]
+t = re.sub(r"^>.*$", "", t, flags=re.M)          # epigraphs
+t = re.sub(r"\*[^*\n]+\*", "", t)                 # italics (texts, notes)
+t = re.sub(r'"[^"]*"', '""', t)                    # dialogue out
+paras = [p for p in re.split(r"\n\s*\n", t) if p.strip()]
+long_ = ands = 0
+for para in paras:
+    flat = " ".join(l.strip() for l in para.split("\n"))
+    for s in re.split(r"(?<=[.!?])\s+", flat):
+        w = re.findall(r"[A-Za-z'’]+", s)
+        n_and = sum(1 for x in w if x.lower() == "and")
+        if len(w) > 30 or n_and > 3:
+            long_ += len(w) > 30; ands += n_and > 3
+            print(f"  {len(w):3d}w  and×{n_and}  {s[:72]}")
+print(f"  {long_} over thirty words; {ands} with more than three 'and's")
+PY
 echo "== [TK] / [CHECK]"
 grep -n '\[TK\|\[CHECK' "$f"
 echo "== trailing whitespace"

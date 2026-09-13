@@ -33,6 +33,34 @@ does, the book wins, and the override should be written down there.
 - Numbers under one hundred spelled out in narration; numerals in dialogue only
   where a character would say them that way.
 
+## It's just a romance novel — say it plain (author law, 2026-09-13)
+
+The author, on 1.2 ch 18 (#161): "This chapter has a lot of paras
+that almost read like a weird poem. It's like the writer is just
+trying to tie in too many things." · "It's like the writer is trying
+too hard to make this into some glorious mystery to unravel. It's
+just a romance novel. It doesn't need to have all of these weird
+connected things — a paper in a file in a room, it just doesn't make
+sense." · "The writer is just being too implicit. If they're joking,
+make it more funny or have more reactions." · "We need to explain why
+they're not together more." Four laws:
+
+(a) **Sentences end.** A narration sentence is ordinarily under
+thirty words. A sentence with more than three "and"s, or a paragraph
+made of one or two such sentences, is a finding; semantic line
+breaks are not hinges for chaining clauses. The chapter lint counts
+both. (b) **A plot object weighs what the plot has made it weigh.**
+A letter, a page, a drawer, a file carries the meaning the book has
+already given it, said once in plain words ("eleven parents wrote
+the athletic director; it goes in his file"), and is never carried
+scene to scene as a mystery. What the reader does not yet know to
+fear, the POV lead does not brood on. (c) **A joke is understood.**
+Banter between minor characters carries its meaning on the page — a
+plain line, a reaction, a laugh — so a stranger can say what they
+are joking about. Implicit is not funny. (d) **Apart has a reason.**
+When the leads could be together and are not, the page says why,
+in one sentence, before the reader asks.
+
 ## AI drafting tics (mandatory sweep)
 
 - **No paragraph ends in a colon or a dash.** The dangling-reveal

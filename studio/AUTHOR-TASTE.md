@@ -479,9 +479,39 @@ campus); the book's DECISIONS names the storm and what it forces
 Fails when: the weather is only cold; when the storm is a snow day
 that gives the leads a free night; when it arrives unforecast.
 
+## 18. It's just a romance novel — not a poem, not a mystery
+
+> "The writer is writing it like it's some strange mysterious book
+> about a letter in a drawer in a room, it's making way too much out
+> of small things." · "This chapter has a lot of paras that almost
+> read like a weird poem. It's like the writer is just trying to tie
+> in too many things. It's not bad but it's kind of confusing." ·
+> "The coaches' dialogue I think is playful banter, but I honestly
+> don't understand what they're talking about. Once again, the writer
+> is just being too implicit. If they're joking, make it more funny
+> or have more reactions." · "It's just a romance novel. It doesn't
+> need to have all of these weird connected things." · "We need to
+> explain why they're not together more." · "Dan is still kind of a
+> mystery to the reader. We need to get in his head a little more and
+> show that he's really thinking about her." (2026-09-13, #161 on 1.2
+> ch 18)
+
+Caught: a whole chapter built around a letter the plot had not yet
+made heavy, carried as a mystery through a drawer and a file and a
+table; paragraphs of one chained sentence; staff banter nobody could
+decode; a week apart with no reason on the page; the POV lead's head
+full of the object and not the woman. The panel passed it.
+Check: STYLE "It's just a romance novel — say it plain" (a–d); the
+lint's long-sentence and and-chain counts; the panel's POEM TEST and
+MYSTERY TEST (1.5.4); the brief's APART, WHY line.
+Fails when: a paragraph reads like a poem; a reader cannot say what
+the joke was; an object is heavier than the plot has made it; the
+leads are apart and nobody said why; the lead's interiority is about
+a thing instead of a person.
+
 ---
 
 **Reviewed:** at every fold (new rows in the ledger → new or amended
 entries here); after every listen (the re-mine); after every fourth
 accepted chapter (the taste audit, PIPELINE "The author's notes").
-Last review: 2026-09-11 (entry 17 added; 16 on 09-10).
+Last review: 2026-09-13 (entry 18 added).
