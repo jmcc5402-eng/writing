@@ -155,6 +155,14 @@ finding). Started at the wave-1 fold (2026-08-30).
 
 | The portal, two faces (B2-D23.2) | the stars have agents and everything fancy; kids like fifty-six do it alone from a phone, and for them it can be a dream — a starter somewhere, money, a coaching job one day; the page never makes the portal only a threat | ch 19 (#164) |
 | Board posts (the epigraphs) | for the reader who does not care about football: town and college life that week, a parent's eye, light; never the plot, a count, a rule, or a named object (taste 19; STYLE "The epigraph"); ch 13–18's plot-carrying posts to be swept (proposed) | ch 19 (#164) |
+| Fifty-six's envelope | his complete file, his name on it, his own numbers on top, the trainer's name beside the checks he took (the trainer never sees it); handed over in her office door at ten past twelve, Jan 4; no name, position or year for fifty-six on any page | ch 19 (#164) |
+| The survey clipboard | the consultant's; a step behind Boyd in the corridor; Boyd never touches it; never "the partner's" | ch 19 |
+| Boyd at the annex | in the door of the whirlpool room at three, hands in the pockets of a dark coat, shoes shined; "Doctor" once; "Lists write themselves, once somebody starts one."; the offer out west; his exit across the lot with the wind moving his coat and nothing else; her feeling — he makes her feel small inside | ch 19 |
+| The Fieldhouse's boxes | flat, in Dan's arms through the warm-end door; the work reason (the annex's spring stock held at the Fieldhouse since the memo, to be sorted on her side before spring); Facilities never sent any; the numbering in her marker | ch 19 |
+| The film-room nod, told | ch 10's nod at the drawing of her floor — he tells her at ch 19 with the building empty ("I'm done nodding"); she knows what room and what drawing | ch 10, 19 |
+| The Mule's rail, hers | the first time she has sat at it; Peanut put her sparkling water down before she asked and knew her can; DEC 19 still circled beside the register | ch 19 |
+| Peanut's anchor (ch 19) | "That money's whispered since September. You'll hear it plain by spring." — his third (4, 10, 19) | ch 19 |
+
 ## Couples (status, since when, on which page — second audit F32; the keeper reads this before ruling on any couple line)
 
 | Couple | Status | Since / source |
