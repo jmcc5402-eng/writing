@@ -1501,3 +1501,59 @@ three; opening checks PASS.
   date is said plain"; the lint's name-chain check; drafter 1.6.1
   (a brief without its audit addendum is not a brief — the stray-file
   incident, BACKLOG F36).
+
+## 2026-09-14 — ch 19 DRAFTED: "The Portal" (Aisha · Monday, January 4) — PR open; CONNECTING, one drafter
+
+- Card and brief audited together (E3): BLOCK on six — no portal list
+  a doctor can see (fifty-six comes to her door); thirty-four still
+  on the second stool and one cook all winter; the trainer credited
+  with the numbers HE took (ch 2's first numbers were hers); five
+  weeks on the annex, four on the terms; nothing about Boyd moves
+  (never "unstirred"); the boxes are the Fieldhouse's (Facilities
+  never sent any). The author's calls → B2-D22 (the trainer's name;
+  the remark thought about once; Peanut at the Mule).
+- One drafter (D3, plain sentences). The page: "the fourth of
+  January" in the first paragraph; the county home, the square with
+  cars; thirty-four on her stool and "let thirty-four keep the
+  stool"; the empty stool nearest the register — "It meant something
+  now"; the board's old clarity thread back up with a one-line reply
+  from a new account, "Nobody had typed under the line."; fifty-six
+  in her door with his phone, "the whole, the—", the envelope with
+  his name before he finishes asking, his own numbers on top, the
+  trainer's name beside the checks he took, "I mean the shoulder and
+  I mean the rest.", "He did not say thank you."; Boyd in the door of
+  the whirlpool room with his hands in his pockets, the consultant a
+  step behind with the survey clipboard, "Doctor" once, "Lists write
+  themselves.", the offer said plain — her name came up out west —
+  and "Mr. Boyd."; Dan through the warm-end door with the
+  Fieldhouse's flat boxes, "His feet did not stop and his face did.";
+  what Boyd prices in two sentences; the exit — the wind moving his
+  coat and nothing else; "Son of a bitch," quietly; "Where do you want
+  me." / "The boxes. Where do you want the boxes."; the tape gun and
+  "their hands did not meet"; the grin with the marker in his teeth;
+  the film-room nod told and received; "I want them." / "I'd have
+  walked them over if he'd been standing on the hood."; "The wind
+  moved all of him, the coat, the cap, the walk."; the Mule's rail
+  from her eyes — Peanut knew her can, "the nearest thing to a
+  welcome this bar gave" — and PEANUT'S ANCHOR, his third: "That
+  money's whispered since September. You'll hear it plain by
+  spring."; "9:40. The Mule, the rail, a seltzer. Three is fine. Bring
+  the marker."; the offer as a temptation ("the one thing three
+  buildings had never given her… he was offering it so that she
+  would go"), set down unanswered; the elbow on her doorframe that
+  nobody saw but her; Boyd's exit in two sentences; "and she would
+  let him carry every one of them." Ends flat-warm with the menace
+  beside it. About 4,100 words; 13% quoted (the quiet band, Q3's
+  slot); no sentence over thirty words; opening check PASS.
+- Panel 1.5.4 (`notes/ch19-panel-2026-09-14.md`): PASS WITH FIXES —
+  23 beats, all kinds; the annex scene 1,150 words, 41 narration
+  words per line; both beer tests YES; the four tests PASS. Thirteen
+  asks, written by the drafter: the ending swapped to close on her
+  (the author's law over the outline); the offer made a temptation;
+  the boxes told twice not thrice; the nod received; the pricing to
+  two sentences; the Mule from her eyes (ch 10's sentences gone);
+  room nine's opening off the lamp line; the pronoun before its noun;
+  two mystery flourishes; the doubled look; "the equipment cage";
+  rivalry week, not September; "let him carry" once.
+- SR (strike by comment): the trainer's name in the margin; the
+  film-room nod told; Peanut's welcome; the elbow.
