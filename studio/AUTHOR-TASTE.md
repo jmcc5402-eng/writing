@@ -509,9 +509,34 @@ the joke was; an object is heavier than the plot has made it; the
 leads are apart and nobody said why; the lead's interiority is about
 a thing instead of a person.
 
+## 19. The board is for the mom who doesn't care about football
+
+> "The graphs are becoming way too serious and way too focused on the
+> plot. I want them to be much lighter. The point of the graphs is for
+> readers that don't know anything about football to have some
+> relationship with this book, so a mom who doesn't care about sports
+> but has a kid coming home for the holiday break can feel some
+> connection to the book. I'd almost rather they be less about the
+> plot and more about other aspects of this town and a college
+> experience for a reader." (2026-09-14, #164 on 1.2 ch 19)
+
+Caught: six chapters of epigraphs carrying the plot (the letter
+count, the rule about the portal, the album gone quiet) in a parent's
+voice that had turned into a chorus of stakes. The board post at the
+top of a chapter is the non-football reader's door: a kid's laundry,
+the drive back, the dorm, the diner, the cold, a grandmother's
+parking question. Light. It may rhyme with the chapter; it never
+carries a beat.
+Check: STYLE "The epigraph"; the brief's EPIGRAPH line; the keeper's
+audit reads the epigraph against this entry; the fold's registry row
+for board fixtures.
+Fails when: the post is about the roster, the letter, the rule, the
+review, or any named plot object; when a stranger's mom could not
+smile at it.
+
 ---
 
 **Reviewed:** at every fold (new rows in the ledger → new or amended
 entries here); after every listen (the re-mine); after every fourth
 accepted chapter (the taste audit, PIPELINE "The author's notes").
-Last review: 2026-09-13 (entry 18 added).
+Last review: 2026-09-14 (entry 19 added).

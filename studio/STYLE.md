@@ -42,6 +42,18 @@ the one before it, its establishing line says the date in words a
 listener keeps: "the first of January, the night after," not the
 weekday alone. A weekday is a fact only the calendar knows.
 
+## The epigraph is the non-football reader's door (author, 2026-09-14)
+
+Where a book opens its chapters on a community board post, the post
+is for the reader who does not care about the sport: a parent's-eye
+picture of the town or college life that week — the drive, the dorm,
+the diner, the cold, the laundry, the grandmother's parking question.
+Light; a smile in it. It may rhyme with the chapter's mood. It never
+carries a plot beat, a count, a rule, or a named plot object; those
+belong on the page. (1.2 ch 19, #164: "I want them to be much
+lighter… a mom who doesn't care about sports but has a kid coming
+home for the holiday break can feel some connection.")
+
 ## It's just a romance novel — say it plain (author law, 2026-09-13)
 
 The author, on 1.2 ch 18 (#161): "This chapter has a lot of paras

@@ -398,6 +398,10 @@ sentence:
   opening-check.py` runs in the chapter lint: three shared
   five-word runs with any earlier opening, or one sentence already
   on an earlier page, is a FAIL.
+- **THE EPIGRAPH (author, 2026-09-14 — taste 19):** where the book
+  opens chapters on a board post, the brief says what the post is
+  about in a parent's terms — town or college life that week, never
+  the plot — and the audit reads it against taste 19.
 - **TASTE:** the two or three entries of `studio/AUTHOR-TASTE.md`
   this chapter most risks, by number, and the check that catches
   each. Panels and editors answer it as their last finding.

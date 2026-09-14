@@ -290,3 +290,14 @@ to do with the case, BEFORE the first romance beat:
 - **20 (optional, seen from his side):** the clinic's holiday line
   rings at his table; she takes it to the car for ten minutes and
   says nothing about it after; the firewall's strain from her side.
+
+### Added at ch 19 (author, #164, 2026-09-14 — B2-D23)
+
+- **Her history, said on the page:** people think a doctor's life is
+  glamorous; the truth is a new residency or fellowship every year or
+  two, a new building, nobody keeping her; all she ever wanted was a
+  place she could finally call home. (Three buildings before this one.
+  No towns named — the walls hold.)
+- **Boyd:** he makes her feel small inside, and she knows a full
+  doctor should not be intimidated by a land developer, and it does
+  not help. Personal, a little unreasonable, hers.
