@@ -7,13 +7,13 @@ Dan, Friday the eighth of January. One drafter.
 Six days left in the portal, and the class is wobbling. Two families
 due to sign in February have stopped answering. The quarterback he
 flipped asks, through his father, whether the doctor here holds
-kids out. Dan tells him the truth. Then Boyd stands in his office
-door, hands in his pockets, and names the price: the pledge and
-Dan's extension sit on the same February agenda, sequenced, and if
+kids out. Dan tells the father the truth. Then Boyd stands in his
+office door, hands in his pockets, and names the price. The pledge
+and Dan's extension sit on the same February agenda, sequenced. If
 the medical situation embarrasses the program before then, they get
 re-sequenced. He never says her job and never says Trey. That
 afternoon Dan tells his coordinator to get his own name out before
-the portal closes, and not to wait on him.
+February, and not to wait on Dan's review.
 
 **Dan.**
 
@@ -21,7 +21,7 @@ He carries Boyd's price home and does not put it on her. At his
 table he gets half a question out about Trey's next check. She stops
 him. He says that's fair, and it costs him. At one in the morning he
 types his first reply ever to the board, a defense of her with his
-name on it, and deletes it a letter at a time.
+name on it. Then he deletes it a letter at a time.
 
 **Aisha.**
 
