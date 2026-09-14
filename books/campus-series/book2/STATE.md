@@ -95,8 +95,9 @@ ruled: Monday, January 4 (the window opened Saturday the 2nd).
 
 **Ch 19 ACCEPTED (#164) and FOLDED (2026-09-14).** "The Portal."
 The author's eight comments applied (B2-D23): the epigraphs are for
-the reader who does not care about football (STYLE; taste 19 — a
-MINOR sweep of ch 13–18's epigraphs PROPOSED, not yet done); the
+the reader who does not care about football (STYLE; taste 19 — the
+MINOR sweep of ch 13–18's epigraphs DONE on #165: 13–16 already met
+the rule; 17 and 18 rewritten as a mom's-eye week, no plot); the
 portal's two faces; her feeling about Boyd; the boxes' work reason;
 sparkling water; never bitter; her history said. F11 planted.
 

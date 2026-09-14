@@ -1558,6 +1558,24 @@ three; opening checks PASS.
 - SR (strike by comment): the trainer's name in the margin; the
   film-room nod told; Peanut's welcome; the elbow.
 
+## 2026-09-14 — ch 17 + ch 18: the epigraphs swept to the new rule (MINOR; B2-D23; the author's "make the changes for 13 and 18")
+
+Ch 13–18's board posts read against STYLE "The epigraph" (taste 19).
+Ch 13 (the rental counter), 14 (the clear bags), 15 (the flag on the
+antenna), and 16 (the kids asleep on the coolers) already meet it —
+untouched. Two carried plot and were rewritten by the drafter:
+
+- ch 17: the album gone quiet → PomPoms&Prayers, a mom four days into
+  the boys being home ("eats like three of him, and left his shoes by
+  my front door like he's twelve… Merry Christmas from two states
+  over").
+- ch 18: the portal window and the group chat → DeeAnn Prewitt, the
+  last dinner before the drive back to the airport ("The suitcase is
+  open on his floor with nothing in it but a charger… I already don't
+  like it.").
+
+Nothing else in either chapter touched. Rides PR #165.
+
 ## 2026-09-14 — ch 19 ACCEPTED (#164) and folded; the author's eight comments applied (fold PR; B2-D23)
 
 - The author's comments, applied by the drafter: (1) the epigraph
