@@ -575,3 +575,17 @@ letter… we need to explain why they're not together more." Ruled:
     with the wine; the cold hand fixed; the last section dated plainly
     (January 1, the night the boys flew back) and his review of the
     week grown to one picture per day and night.
+
+## B2-D22 — the ch 19 calls (author, 2026-09-14: "Your recos are good go")
+
+1. The trainer's name goes on fifty-six's file beside the numbers he
+   took (the daily checks between hers), so the next school knows who
+   to call; the trainer never sees it. No name on any page (`[TK]`).
+2. Boyd's remark (the directorship out west, F11): she thinks about
+   it once, at the end, and does not answer it.
+3. Peanut's anchor at the Mule's rail, his third; she is there alone,
+   the reason said once.
+Also ruled at the audit: no portal list a doctor can see — fifty-six
+comes to her door; thirty-four stays on the second stool till a page
+dates the semester; one cook all winter; the boxes are the
+Fieldhouse's (Facilities never sent any); nothing about Boyd moves.
