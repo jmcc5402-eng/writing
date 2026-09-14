@@ -93,17 +93,15 @@ The coat plant SAVED for ch 29 (B2-D21.8). Drinks as register
 and name-chain counts; panel 1.5.4; drafter 1.6.0/1.6.1. Ch 19's day
 ruled: Monday, January 4 (the window opened Saturday the 2nd).
 
-**Ch 19 DRAFTED (2026-09-14) — PR OPEN.** "The Portal," Aisha, Monday
-January 4, connecting, one drafter (D3). Audited together first (E3,
-BLOCK → six fixes). B2-D22. Panel 1.5.4 PASS WITH FIXES, thirteen
-applied; the ending closes on her. **On merge, the fold:** THREADS ch
-19 entry; F11 PLANTED (the offer, unanswered); F3's second thread
-(the reply from a new account); B2-T14 (thirty-four kept the stool);
-Peanut three anchors (4, 10, 19); the registry (fifty-six's envelope;
-the survey clipboard in the consultant's hands; the Fieldhouse's
-boxes; the Mule's rail from her side; the film-room nod told); the
-dossier rows 19; the arc row 19; edges 7 spent, 3 remain ("Son of a
-bitch"). **Then ch 20** — "Verbal Commitments," Dan; Boyd's price
+**Ch 19 ACCEPTED (#164) and FOLDED (2026-09-14).** "The Portal."
+The author's eight comments applied (B2-D23): the epigraphs are for
+the reader who does not care about football (STYLE; taste 19 — the
+MINOR sweep of ch 13–18's epigraphs DONE on #165: 13–16 already met
+the rule; 17 and 18 rewritten as a mom's-eye week, no plot); the
+portal's two faces; her feeling about Boyd; the boxes' work reason;
+sparkling water; never bitter; her history said. F11 planted.
+
+**Then ch 20** — "Verbal Commitments," Dan; Boyd's price
 said explicit (F9); the firewall at his table; the 1 a.m. reply
 deleted (the button); Sonny's anchor; the survey's coordinator
 proposal; the board's ice forecast (B2-D19's plant).

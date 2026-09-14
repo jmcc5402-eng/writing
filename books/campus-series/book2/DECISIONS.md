@@ -589,3 +589,38 @@ Also ruled at the audit: no portal list a doctor can see — fifty-six
 comes to her door; thirty-four stays on the second stool till a page
 dates the semester; one cook all winter; the boxes are the
 Fieldhouse's (Facilities never sent any); nothing about Boyd moves.
+
+## B2-D23 — the ch 19 rulings (author, 2026-09-14, #164 comments)
+
+1. **The epigraphs are for the reader who does not care about
+   football.** "The point of the graphs is for readers that don't know
+   anything about football to have some relationship with this book,
+   so a mom who doesn't care about sports but has a kid coming home for
+   the holiday break can feel some connection… less about the plot and
+   more about other aspects of this town and a college experience."
+   Lighter; town and college life; never the plot's carrier. Standing
+   (STYLE; taste 19). The ch 13–18 epigraphs to be swept in a MINOR
+   pass (proposed).
+2. **The portal has two faces.** The stars have agents and everything
+   fancy; kids like fifty-six do it alone from a phone, and for them it
+   can be a dream — a starter somewhere, money, a coaching job one
+   day. The page says so; the portal is not only a threat.
+3. **Aisha's feeling about Boyd is personal and a little
+   unreasonable:** "I'm a full doctor. I shouldn't be intimidated by
+   this land developer, but something about him makes me feel small
+   inside." On the page in her head; her dislike is not only the
+   building.
+4. **Dan's boxes have a work reason:** the Fieldhouse has held the
+   annex's spring stock since the vacate memo and it has to be sorted
+   on her side before spring workouts. Nothing he does for her is
+   random.
+5. **Her drink in public is sparkling water, not a drink.** "Seltzer"
+   was ambiguous (alcoholic seltzers exist); the page says sparkling
+   water, and the registry's drinks row is corrected. Peanut knows.
+6. **The box scene is happy**, with one light line about how hard
+   hiding this is going to be.
+7. **Room nine at ten: she knew he was not coming and was fine with
+   it** — he proved what he needed to in daylight. Never bitter.
+8. **Her history, said:** people think a doctor's life is glamorous;
+   the truth is a new residency or fellowship every year or two, and
+   all she ever wanted was a place to call home. Dossier canon.
