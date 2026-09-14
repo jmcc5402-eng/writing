@@ -13,9 +13,13 @@ ruled, it says so and builds on it.
 
 ## 0. WHERE THE CAMPUS SERIES ACTUALLY STANDS
 
-- **Book 1.1: 67,533 words, 30 chapters, complete and edited.** That is
+*(Section 0 refreshed 2026-09-14; the rest of the doc stands as filed.)*
+
+- **Book 1.1: 67,503 words, 30 chapters, complete and edited.** That is
   a full-length contemporary romance, comfortably in band.
-- **Book 1.2: 8 of 30 chapters written**, outline ratified.
+- **Book 1.2: ch 1–19 accepted, ~63,800 words** — two-thirds of the
+  quartet's opening pair is now finished prose. At this rate the
+  blocking items below stop being "later" and start being late.
 - **Already ruled (STANDARDS.md, author 2026-08-08):** *"ship four at a
   time — the quartet is the unit of work and of launch."*
 
@@ -197,7 +201,7 @@ book that is about to be sold. **$400-900** for 67k words.
 
 ## 4. THE SEQUENCE
 
-1. Finish Book 1.2 (in progress; wave 3 of 8 is next after the hold).
+1. Finish Book 1.2 (in progress; ch 1–19 accepted as of 2026-09-14).
 2. **Decide the pen name and the series title.** Nothing downstream —
    cover brief, blurb, Author Central — can start without them.
 3. **The scene-break pass on Book 1.1**, then build and script the
