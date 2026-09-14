@@ -1557,3 +1557,36 @@ three; opening checks PASS.
   rivalry week, not September; "let him carry" once.
 - SR (strike by comment): the trainer's name in the margin; the
   film-room nod told; Peanut's welcome; the elbow.
+
+## 2026-09-14 — ch 19 ACCEPTED (#164) and folded; the author's eight comments applied (fold PR; B2-D23)
+
+- The author's comments, applied by the drafter: (1) the epigraph
+  rewritten for the reader who does not care about football — Rhonda
+  Sipes and the suitcase heavier going back, the hoodie in the dryer,
+  "feed him an egg for me"; (2) the portal's other face said in her
+  head — agents for the stars, the phone and himself for fifty-six,
+  "the best thing that ever happened" possible, and she is glad; (3)
+  her feeling about Boyd: "She had run a room with a boy's brain in
+  it and not blinked, and she had no business being intimidated by a
+  man who developed land. Something about him made her feel small
+  inside anyway."; (4) the boxes' work reason — the annex's spring
+  order held at the Fieldhouse since the memo, to be sorted on her
+  side before spring workouts; (5) sparkling water, "It was not a
+  drink, and he knew that"; (6) "This is going to be harder than I
+  thought. Four weeks of Coach and Doc, and I've been in your building
+  an hour."; (7) "She had known that at nine, and it was fine. He had
+  already proven what he had to prove… The lamp was on because it was
+  his, not because she was waiting."; (8) her history — "a new city
+  every year or two, a residency, a fellowship, a contract, a room she
+  never finished unpacking… All she had ever wanted was a place she
+  could finally call home."
+- Header to ACCEPTED. The fold: THREADS ch 19 entry; F11 PLANTED;
+  F3's second thread set; B2-T14 his stool empty; Peanut three anchors;
+  edges 7 spent, 3 remain. The arc row; the dossiers (her history and
+  her feeling about Boyd added to Aisha's); the registry (fifty-six's
+  envelope; the survey clipboard; Boyd at the annex; the Fieldhouse's
+  boxes and the spring order; the film-room nod told; the Mule's rail
+  hers; Peanut's anchor; the portal's two faces; the epigraph rule;
+  the drinks row corrected to sparkling water). Studio: STYLE "The
+  epigraph"; taste 19; the brief's EPIGRAPH line. Proposed: a MINOR
+  sweep of the ch 13–18 epigraphs to the new rule.
