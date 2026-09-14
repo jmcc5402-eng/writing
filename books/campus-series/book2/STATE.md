@@ -9,7 +9,7 @@ production runs under them: brief audit, label shuffle,
 jewel-forge slot, staging clause, furniture registry, anchor
 lines, carryover-reader gate).**
 
-## PICK UP HERE (2026-09-13 — CURRENT)
+## PICK UP HERE (2026-09-14 — CURRENT)
 
 **AUTHOR FOCUS: ROMANCE ONLY; CHAPTER BY CHAPTER.** Card before
 drafting (sent to the author first), brief, audit, ONE drafter for
@@ -93,8 +93,20 @@ The coat plant SAVED for ch 29 (B2-D21.8). Drinks as register
 and name-chain counts; panel 1.5.4; drafter 1.6.0/1.6.1. Ch 19's day
 ruled: Monday, January 4 (the window opened Saturday the 2nd).
 
-**Then ch 19** — "The Portal," Aisha; Boyd at the annex; the
-directorship remark (F11); the window opens.
+**Ch 19 DRAFTED (2026-09-14) — PR OPEN.** "The Portal," Aisha, Monday
+January 4, connecting, one drafter (D3). Audited together first (E3,
+BLOCK → six fixes). B2-D22. Panel 1.5.4 PASS WITH FIXES, thirteen
+applied; the ending closes on her. **On merge, the fold:** THREADS ch
+19 entry; F11 PLANTED (the offer, unanswered); F3's second thread
+(the reply from a new account); B2-T14 (thirty-four kept the stool);
+Peanut three anchors (4, 10, 19); the registry (fifty-six's envelope;
+the survey clipboard in the consultant's hands; the Fieldhouse's
+boxes; the Mule's rail from her side; the film-room nod told); the
+dossier rows 19; the arc row 19; edges 7 spent, 3 remain ("Son of a
+bitch"). **Then ch 20** — "Verbal Commitments," Dan; Boyd's price
+said explicit (F9); the firewall at his table; the 1 a.m. reply
+deleted (the button); Sonny's anchor; the survey's coordinator
+proposal; the board's ice forecast (B2-D19's plant).
 
 **Standing:** do not chase; talk plainly (taste 13); every lesson an
 instrument (taste 14); the card before the chapter (§3c).
