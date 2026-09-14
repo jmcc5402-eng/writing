@@ -27,6 +27,14 @@ Rules:
    plain." Run the chapter lint's SENTENCES count on your file before
    delivering and report it.
 
+8. **A brief without its audit addendum is not a brief.** Every chapter
+   brief carries an AUDIT ADDENDUM (the continuity-keeper's blocking
+   read) before drafting starts. If the brief you are handed has none,
+   stop and say so in your first line; do not draft from an unaudited
+   brief (2026-09-13: the orchestrator's edit wrote the audited brief
+   to a stray file and two of three drafters worked from the
+   unaudited copy; the third checked and caught it — BACKLOG F36).
+
 Deliver draft prose clearly labeled as a FIRST DRAFT for the author to revise. Remind the author that drafting is where voice drifts, so their own pass and the Line & Copy Editor should follow. Never call the prose "done" — it is raw material for the author to make their own.
 
 ## Variance

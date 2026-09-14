@@ -1464,3 +1464,40 @@ three; opening checks PASS.
 - SR (strike by comment): "Walk faster, Dan"; the jacket over her
   feet; the bed talk's two lines; "That's a hall, Dan"; the last
   text.
+
+## 2026-09-13 — ch 18 ACCEPTED (#162) and folded; the author's six comments applied; the coat saved (fold PR)
+
+- The author's comments (#162), applied by B's drafter: (1) the film
+  room set up the night before — "The building's empty till
+  Wednesday… Come up tomorrow night and see what I do in there all
+  day." / "I'll come up. And I'll stay out of the lit window."; (2)
+  the Verna sentence unchained: "and she never said a word about
+  it"; (3) the dinner looser — the seltzer noticed ("The corners of
+  her mouth went up and she pressed them flat again"), the red wine
+  out of the parka's pocket, "Wine," she said, "because we're in a
+  house, not a room." (the author's line, hers), her corkscrew, the
+  jelly jar ("It came with jelly in it."), the wine going down and the
+  talk coming looser, her feet on the rung of his chair; (4) the beer
+  back in the refrigerator, his wine in the jar, "she watched him do
+  it" and her mouth going up and staying; (5) "cool from the glass";
+  (6) the last section dated plain — "the first of January… the day
+  the boys had flown back and the staff had come into the building" —
+  and his review of the week in pictures, one line of hers in each,
+  the bottle rinsed in the sink. Showrunner copy fixes: Dan named in
+  the last section's first line; "once" cut from the Wes line.
+- The author's ruling: the coat plant SAVED for ch 29 (B2-D21.8); the
+  page has him not say it. Drinks as register (B2-D21.9; the registry;
+  STANDARDS). Thirty-four's `[TK]` closes NEVER (ch 17 and 18 headers).
+- Header to ACCEPTED. The fold (v2 replaces v1; nothing of v1 was
+  folded): THREADS ch 18 entry; F8/RH2 signal set; F10 Wes kept;
+  B2-T07 carried; B2-T08 third turn; B2-T02 seen-not-said; B2-T10 rung
+  9 repeated, stage held; B2-T14 his side; edges 6 spent, 4 remain;
+  Odell two anchors (8, 18). Registry: his house, the week, the first
+  texts, her new signal (lamp on, curtain shut), NYE, the film room
+  with her, room nine's week, Wes Pruett, staff back, Odell's anchor,
+  the drinks row. Dossiers row 18 ON THE PAGE; arc row 18. The
+  outline's ch 19 day ruled: the window opened Saturday the 2nd; ch
+  19 is Monday, January 4. STATE. Studio: STYLE "after a jump, the
+  date is said plain"; the lint's name-chain check; drafter 1.6.1
+  (a brief without its audit addendum is not a brief — the stray-file
+  incident, BACKLOG F36).

@@ -3,6 +3,13 @@
 Newest first. Every entry: version, what changed, and the evidence that
 drove it.
 
+## 2026-09-13 — drafting-assistant 1.6.1: no addendum, no draft (patch)
+
+Rule 8: a brief without its AUDIT ADDENDUM is not a brief; the drafter
+stops and says so. Evidence: the ch 18 v2 competition — the audited
+brief was written to a stray file by the orchestrator; two drafters
+worked from the unaudited copy; the third checked. BACKLOG F36.
+
 ## 2026-09-13 — drafting-assistant 1.6.0, romance-reader-panel 1.5.4: say it plain (the author's #161 read of 1.2 ch 18)
 
 Evidence: eight comments on #161 — "paras that almost read like a

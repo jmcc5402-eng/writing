@@ -296,3 +296,10 @@ student-definition and adult-power-ceiling open questions.
     novel… it's like I have to work to convince the writers to
     include romance where it should be a core fundamental piece."
 
+**Drinks as register (author, 2026-09-13, on 1.2 ch 18).** "I like that
+[beer is] his primary drink, but we can use different types of
+alcohol to convey different feelings throughout these books." A
+lead's default drink is furniture; a change of drink is a beat the
+page may use once a book to say a feeling without naming it (1.2:
+red wine in his house on New Year's Eve). Never a drunk scene between
+the leads; consent standards hold.

@@ -33,6 +33,15 @@ does, the book wins, and the override should be written down there.
 - Numbers under one hundred spelled out in narration; numerals in dialogue only
   where a character would say them that way.
 
+## After a jump, the date is said plain (author, 2026-09-13)
+
+"The date of the last whole scene is confusing. Is this the day
+after New Year's Eve? It just says Friday, but I can't remember
+which day that is." When a section opens on a different day from
+the one before it, its establishing line says the date in words a
+listener keeps: "the first of January, the night after," not the
+weekday alone. A weekday is a fact only the calendar knows.
+
 ## It's just a romance novel — say it plain (author law, 2026-09-13)
 
 The author, on 1.2 ch 18 (#161): "This chapter has a lot of paras
