@@ -1124,3 +1124,57 @@ market-pitch-agent's series-name research the next day. The frame
 now names the TOWN, which is what the town room is: "On Grapevine,
 Ashford —". Mechanical correction, 30 files, one line each; the
 SHARED-CANON spec and examples conformed.
+
+## 2026-09-15 — heat pass, ch 1–15 + ch 26 (the density survey's FREE/CHEAP items)
+
+Thirty added sentences across nine accepted chapters, plus one
+reworded line and one comma→period. **No structural change, no new
+fact, no rung moved**, and standard 9 untouched. Author-directed after
+the 2026-09-14 romance-density survey and retail read found that in
+131,000 words the POV character's own body reports back three times.
+The survey's framing: *"Forty sentences. No structural risk. It's a
+line pass with a mandate, not a revision."*
+
+Drafting-assistant, variance card D1 (sound-forward — Cal runs a
+campus by ear, and four of the beats are hearing).
+
+- **ch 1** — her heart, before "The nothing was surprisingly warm."
+- **ch 2** — he says the true thing to himself plainly (taste 1); a
+  laugh out past the stands that is *not* hers; the list he knows
+  somebody has already started. **This is the Kindle-sample fix:**
+  ch 2 had one romance beat in 2,900 words.
+- **ch 3** — a straight sentence of what she is looking at, so the
+  forearm joke lands after the noticing instead of instead of it.
+- **ch 4** — what he nearly did with the wrench and the reason he
+  gave himself; a 40-word coda. **Not one word of the Boyd fence
+  walk changed.** Ch 4 goes from one romance beat to three.
+- **ch 6** — the air handler going out of the room during the held
+  glance (paying the chapter's own l.26–29 plant); what
+  not-watching costs.
+- **ch 8** — her breathing inside the porch hold, and that it costs
+  him the same.
+- **ch 13** — three sentences between the cut and the hand. The
+  cake-plate line itself untouched.
+- **ch 14** — the thumb removed so ch 15's thumb-over-the-name stands
+  alone (the two chapters used the same sense twice running); he
+  says it out loud to the dog, which is *her* habit and not his.
+- **ch 26** — two beats inside the existing Mule scene, the book's
+  worst couple-ratio chapter (6% romance-forward). One to three.
+
+**Verified at staging:** added sentences clean against STYLE (a)
+(longest 26 words, none over three "and"s); zero AI-tic hits; no
+banned idiom used.
+
+**Open for the author and the continuity-keeper** (flagged by the
+drafter, not resolved here):
+1. The ch 4 coda is the change most likely to read as a retrofit —
+   it is plain physical information with no longing in it, and it
+   adds one of the two "plain information" endings the endings
+   budget requires, but it is the first thing to cut if it seams.
+2. `[CHECK: does Cal know Marisol's job or name before ch 5?]` — ch 2
+   assumes he would guess she is on parents' weekend; ch 4 assumes he
+   still does not know where she works. Both felt right against
+   ch 1–3; neither is stated canon.
+3. Ch 2's last third still has no couple beat. The work order fenced
+   the drafter to l.169–200. Cheapest fix is l.284–292, where he sits
+   in the truck and accepts Thursday — one sentence.
