@@ -212,3 +212,22 @@ Still open:
   catches since 2026-09-10 (AUTHOR-NOTES rows from #156 on): the
   seeds, the couple, the card drift, the ending's return, the
   weather row.
+
+## From the superfan's six-random-chapter read (2026-09-15 — `books/campus-series/book2/notes/superfan-random-2026-09-15.md`)
+
+- **F37 — the clock-and-stool opening (the superfan's three-star:
+  "this author loves a clock… every scene starts by telling me what
+  time it is and which stool, and I wanted her face instead").** Ch
+  4, 15, 17, 18, 19 all open on a time of day or a counter position;
+  the opening check caught the shared runs, not the habit. LANDED
+  the same day: `opening-check.py` WARNs when the first paragraph
+  carries a clock or a stool. Not a law until the author rules;
+  briefs may still ask for the hour, second. Related: ch 15's first
+  paragraph (the step count) and ch 6's "I'm not on Millrow, Coach"
+  are MINOR-edit candidates for the author's call.
+- **F38 — the superfan dropped out of the 1.2 loop.** No chapter
+  read between the outline gate (2026-08-30) and this run; nothing
+  decided it. PROPOSED: she reads every accepted block of four as a
+  stretch, and every set piece before the author does — PIPELINE and
+  ROSTER to carry it once the author picks the cadence (asked
+  2026-09-14).
