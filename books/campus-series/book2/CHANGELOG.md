@@ -2,6 +2,101 @@
 
 Manuscript-affecting changes, newest first. (Hard rule 6.)
 
+## 2026-09-15 — HEAT PASS, ch 1–10 (author-directed, the drought zone)
+
+Fourteen items, none declined. Drafting-assistant, variance card D6
+(let one scene run a beat past comfortable before cutting — read as
+the whole assignment). Author-directed after the 2026-09-14 density
+survey measured these ten chapters at **26% romance-forward against
+54% for ch 11–19**, with ch 1–3 the coldest opening of either book at
+exactly the length of the Kindle sample.
+
+**The POV gets a body** (the survey's largest finding — three
+involuntary beats in 131,000 words): a pre-code chest (ch 1), a thumb
+that stays on her line every Friday morning (ch 2), the shape of his
+back in the gap (ch 3), his staff meeting spent an hour at a time
+(ch 4), arms gone still (ch 5), a fist in a coat pocket (ch 6),
+counting his breathing like a patient's (ch 7), two hands around
+somebody else's beer (ch 8).
+
+**Seven of the fourteen make somebody worse at their job on the
+page**, per the retail read's tell #2 — desire with no consequence in
+its own scene reads as a note to the reader.
+
+- **C1 · ch 3** — the tent flap, ~200 → ~390 words, 15 → ~23
+  narration-words per dialogue line. Every original line and all
+  dialogue untouched and in order. No contact anywhere in it.
+- **C2 · ch 6** — 57 words putting her in his path once, so the two
+  later lines about her land on somebody the reader has met on this
+  page. Boyd, Denny, the letter, the selection and Delores's warning
+  all untouched.
+- **C4 · ch 9** — the "She wanted him" restatement is **gone**,
+  replaced by the September refusal re-read as a romance fact: she
+  sent the no herself, and no meant Friday at four fifteen, and she
+  has been calling it the schedule ever since. Nothing invented; the
+  refusal is on the page at ch 2 l.151–154. Also says plainly, in one
+  sentence, why they are not together.
+- **F8 · ch 6 ending** — reordered so the chapter lands on her
+  whiteboard rather than "The game was on the nineteenth."
+- **F11 · ch 9** — the 68-word chained Cordelia paragraph is now four
+  plain sentences that say what the letter said (taste 18).
+- **C5** — two epigraphs turned toward the couple (ch 3 added, ch 5
+  replacing a taste-19 failure), deliberately below shipping: the
+  town first pairing them at ch 12 as a scandal is not spent early.
+
+**No contact added in ch 1–3.** The first act stays entirely interior
+so the rule still reads as real at ch 15. The word "heat" goes DOWN
+by one across these chapters.
+
+**Verified at staging:** added sentences clean against STYLE (a);
+zero AI-tic hits. Two lint flags in ch 6 were a dialogue exchange and
+a pre-existing 39-word sentence the reorder relocated — accepted
+text, left alone.
+
+**Open for the author** (flagged by the drafter, not decided here):
+1. The ch 6 reorder ends on two NEW lines ("And Aisha Cole on the far
+   side of that board, / where she had stood all fall, telling him
+   the truth"). Pure reorder would have ended on the ladder, which is
+   another plot object. Every fact in them is already on the page.
+   **Strike them and the reorder still stands.**
+2. Chapter endings still landing on the plot object in this stretch:
+   ch 1, 2, 4, 5, 7, 10. The work order only gave ch 6. If the binge
+   is to be fixed properly, ch 2 and ch 5 are the cheapest next.
+3. `ch03.md` l.370, Verna's note: "Heat's been on since supper" —
+   "supper" is on the furniture blacklist (author, 2026-09-06).
+   Accepted text, not the drafter's to change; for the line editor.
+
+## 2026-09-15 — HEAT PASS, ch 12–14 and ch 19 (author-directed, run of 2026-09-15)
+
+Five items from the romance-density survey
+(`notes/romance-density-survey-2026-09-14.md`) plus the panel's
+itemizing watch. No plot, no facts, no names, no dates, no new
+objects, no new garment; standard 9 untouched; ch 15–18 untouched.
+Drafting-assistant under the campus persona, variance card D4.
+
+- **F13 · ch 12** — after "Her eyes were brown…", three lines on what
+  Dan does with his own face so she does not see it.
+- **C3 · ch 12, the annex office scene** — ten reaction beats added at
+  the turns of the argument (Aisha's face, per taste 15's "the other
+  lead has a face"). Not one line of dialogue changed.
+- **F14 · ch 13** — the knuckle that stays: four lines between
+  noticing it stayed and going back to the screen, and what holding
+  still cost her.
+- **F15 · ch 14 (priority)** — a paragraph of approach inserted
+  *before* the forearm beat: the distance closed, her eyes, the pause,
+  the decision. Lines 307–324 (the box, the hand, "She put it there to
+  put it there") are byte-identical.
+- **F16 · ch 19** — the tape gun: the awkward four seconds, the
+  handle turned on purpose, and what the not-meeting costs each of
+  them. Carries the run's variance card (the trainer and the cart's
+  bad wheel, watched because it was safe to watch).
+- **The itemizing watch · ch 19** — the end-of-chapter inventory
+  re-cut from "He had X / He had Y / He had Z" to "the rest of the day
+  I could say in order, and here is the one part I am keeping," so it
+  does not rhyme with ch 18's week. Same facts, same beats.
+
+FIRST-DRAFT insertions — author pass and line editor still owed.
+
 ## 2026-09-09 — ch 11: the help-for-free plant (MINOR edit; B2-D17 item 3)
 
 Three lines added inside Aisha's "other thing" speech at the wine
