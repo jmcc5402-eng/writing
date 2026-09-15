@@ -339,6 +339,109 @@ experience, on the page):
    forbids it.
 8. **The private admission** — the thing about the other the POV
    would never say aloud (Closeness, rule 3).
+9. **The body answering** — the POV's OWN body reacting before the
+   POV has decided anything: heat, pulse, breath, a hand that stops,
+   the cost of holding still. Not the other person described; the
+   *viewer* reported. (Added 2026-09-15 — see "The viewer has a body"
+   below.)
+
+### The viewer has a body (the density survey, 2026-09-14)
+
+Two instruments, run blind to each other, measured the same
+deficiency and returned the same three lines. Across Book 1.1 and
+Book 1.2 — **131,000 words — the POV character's own body reports
+back three times**: 1.1 ch 5 (*"Heat arrived at the back of her neck
+and stayed, on no schedule she had approved"*), 1.1 ch 13 (*"her
+pulse loud in her ears"*), 1.2 ch 17 (*"felt her pulse where her
+hand was going to go"*).
+
+Everything else describes the *other* person as capability — Cal's
+forearms, Dan's shoulders. Standard 25 is satisfied and the books
+are still not hot, because:
+
+> **The reader does not get warm from looking at a man. She gets warm
+> from being in a body that is looking at a man and having trouble.**
+> Both books show the view and almost never the viewer. That is the
+> whole gap between "romance-forward" and "hot," and it costs nothing
+> structural to close.
+
+**The rule.** Kind 9 counts toward the floor like any other kind, and
+**every chapter in which the leads share the page owes at least one.**
+A beat is one sentence. It is the cheapest heat in the book and it
+never touches standard 9 — the body answers long before any garment
+does.
+
+**The failure mode to watch: the mind filing the body.** This house
+has a reflex of answering every involuntary beat with a competent
+one — *"elected to blame the smoke," "declined to itemize," "declined
+to examine."* Individually charming; fifty times it is a thermostat,
+and it is why the wanting in these books reads as *admired* rather
+than *felt*. One filing per chapter, maximum. Sometimes the body just
+wins.
+
+### The awkward beat (instrumenting taste 16, 2026-09-15)
+
+Taste entry 16 has said it since the beginning — *"This type of
+conversation should be a little bit awkward"* — and the survey found
+it had never been instrumented: the awkward beat is present in 1.1
+ch 23, 1.2 ch 17 and 1.2 ch 18, and **absent from every pre-kiss
+chapter in both books.** Before the kiss, all four leads are only
+ever competent.
+
+**The rule.** Every book plants **at least two awkward beats before
+its first kiss** — two serious adults being briefly fourteen: a look
+held past the line and caught, a sentence that comes out wrong, a
+laugh at nothing, a hand that arrives somewhere it did not plan to.
+Competence is these leads' charm; the crack in it is the romance.
+The survey's verdict: *the largest untapped source of clothes-on
+charge in the series, and every gram of it is free.*
+
+### Objects: a gift discharges, a debt accrues
+
+The series' best heat engine is an object. Book 1.1's wrench is a
+**debt** — he has it, he owes it back, and it accrues charge for
+fifteen chapters until the return IS the kiss scene. Book 1.2's
+parka is a **gift**, and a gift discharges on delivery, which is
+exactly why the coat stops raising temperature after ch 10.
+
+**The rule for every book from 1.3 on:** the book's central object is
+a **debt**, planted by ch 3, held by the wrong person, and not
+discharged until the ladder's top rung. Gifts are welcome as
+texture. They are never the engine.
+
+*(1.2 already has an unclaimed debt on the page: the facemask bolts
+in her coat pocket, ch 3, never returned, never mentioned again.)*
+
+### The ending register belongs to the couple
+
+A binge reader decides whether to start the next chapter in the last
+six lines. Measured across the first twelve chapters of each book:
+**1.1 ends eight of twelve on feeling; 1.2 ends four of twelve on the
+couple** — the rest on a latched suitcase, a kickoff time, a
+whiteboard, a game date. *"1.1 sends her on; 1.2 hands her a
+football."*
+
+**The rule.** Across any run of four chapters, **at least half end on
+the couple** — the feeling, the other in absence, or an object that
+is them. The plot object may have the last word in a chapter; it may
+not have it in three of four. **This is usually a reordering, not a
+new line:** the material is already in the penultimate paragraph.
+
+**One shape this rule must not produce:** the chapter-ending want
+paragraph (*"She wanted him."*). Book 1.2 has three, and the retail
+instrument named it *"the single most obvious retrofit shape in this
+genre — it is where the fix goes because it is the easiest place to
+put it, and that is exactly why we spot it."* End on the couple by
+ending on a **thing**, not on a verdict.
+
+**And escalate the kind, never restate the verb.** 1.2 names the same
+want five times in twelve chapters ("she wanted him" / "he wanted
+her" / "I want Dan"). Volume rose; kind never changed, and a reader
+feels that as a stall. 1.1 escalates the *object* instead — the
+wrench, the place card, the thermos lid, the zinnias watered, the
+twine in his back pocket, her pen, a new pane of glass in her
+handwriting's place. Each a different kind of possession. **That is
+escalation. Restating the verb is not.**
 
 **The reframe that comes with it.** The first line of every chapter
 brief is THE ROMANCE MOVE: one sentence saying what this chapter

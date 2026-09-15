@@ -296,6 +296,28 @@ student-definition and adult-power-ceiling open questions.
     novel… it's like I have to work to convince the writers to
     include romance where it should be a core fundamental piece."
 
+27. **The viewer has a body (the density survey, 2026-09-14; ruled
+    2026-09-15).** Standard 25 makes the leads worth looking at.
+    This one puts the reader inside the person doing the looking.
+    Measured across 131,000 words of Books 1.1 and 1.2, the POV
+    character's own body reported back **three times** — and two
+    instruments working blind returned the same three lines. The
+    ninth romance kind is now **the body answering**: heat, pulse,
+    breath, a hand that stops, the cost of holding still, arriving
+    *before* the POV has decided anything. **Every chapter in which
+    the leads share the page owes at least one**, and a beat is one
+    sentence. It counts toward standard 26's floor like any other
+    kind. Two riders: **one mind-filing per chapter maximum** (the
+    house reflex of answering every involuntary beat with a
+    competent one — "elected to blame the smoke," "declined to
+    itemize" — is a thermostat at scale), and **nothing here touches
+    standard 9** — the body answers long before any garment does.
+    *Chapter test:* can the reader say what it cost the POV to stand
+    there? If the only physical facts on the page belong to the
+    other person, it fails. Full text and the two companion rules —
+    **the awkward beat** (two before every first kiss) and **objects
+    as debts, not gifts** — live in `studio/STYLE.md`.
+
 **Drinks as register (author, 2026-09-13, on 1.2 ch 18).** "I like that
 [beer is] his primary drink, but we can use different types of
 alcohol to convey different feelings throughout these books." A
