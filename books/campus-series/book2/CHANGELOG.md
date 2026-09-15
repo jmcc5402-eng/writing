@@ -2,6 +2,37 @@
 
 Manuscript-affecting changes, newest first. (Hard rule 6.)
 
+## 2026-09-15 — HEAT PASS, ch 12–14 and ch 19 (author-directed, run of 2026-09-15)
+
+Five items from the romance-density survey
+(`notes/romance-density-survey-2026-09-14.md`) plus the panel's
+itemizing watch. No plot, no facts, no names, no dates, no new
+objects, no new garment; standard 9 untouched; ch 15–18 untouched.
+Drafting-assistant under the campus persona, variance card D4.
+
+- **F13 · ch 12** — after "Her eyes were brown…", three lines on what
+  Dan does with his own face so she does not see it.
+- **C3 · ch 12, the annex office scene** — ten reaction beats added at
+  the turns of the argument (Aisha's face, per taste 15's "the other
+  lead has a face"). Not one line of dialogue changed.
+- **F14 · ch 13** — the knuckle that stays: four lines between
+  noticing it stayed and going back to the screen, and what holding
+  still cost her.
+- **F15 · ch 14 (priority)** — a paragraph of approach inserted
+  *before* the forearm beat: the distance closed, her eyes, the pause,
+  the decision. Lines 307–324 (the box, the hand, "She put it there to
+  put it there") are byte-identical.
+- **F16 · ch 19** — the tape gun: the awkward four seconds, the
+  handle turned on purpose, and what the not-meeting costs each of
+  them. Carries the run's variance card (the trainer and the cart's
+  bad wheel, watched because it was safe to watch).
+- **The itemizing watch · ch 19** — the end-of-chapter inventory
+  re-cut from "He had X / He had Y / He had Z" to "the rest of the day
+  I could say in order, and here is the one part I am keeping," so it
+  does not rhyme with ch 18's week. Same facts, same beats.
+
+FIRST-DRAFT insertions — author pass and line editor still owed.
+
 ## 2026-09-09 — ch 11: the help-for-free plant (MINOR edit; B2-D17 item 3)
 
 Three lines added inside Aisha's "other thing" speech at the wine
