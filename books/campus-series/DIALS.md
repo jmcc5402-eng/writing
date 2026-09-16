@@ -1,5 +1,27 @@
 # The Series Dial Sheet — the 16-book braid
 
+> **MEASURED 2026-09-16** (`studio/tools/voice-dial.py`, spec
+> `studio/craft/register-dial.md`). The sheet had declared settings
+> since 2026-08-29 and nothing had ever checked one.
+>
+> | | Modernity declared | **measured** | Warmth measured |
+> |---|---|---|---|
+> | Book 1.1 | 3 | **1.5** | 5.2 |
+> | Book 1.2 | 5 | **2.2** | 4.1 |
+>
+> The author's ear was right about the direction — 1.2 is less country
+> and less warm than 1.1 — and the sheet was three clicks optimistic.
+> The cause is not vocabulary: **porch (223) and county (212) are 54%
+> of the country signal**, and those are rooms, not words. To move the
+> dial, change the rooms at the outline, not the adjectives in the
+> draft.
+>
+> **Forward targets (author, 2026-09-16):** 1.3 and 1.4 hold at
+> Modernity **3** — one click, reachable by swapping two or three
+> rooms, and the quartet does not break mid-stride. Set 2 is a
+> deliberate large move with its dial set at the premise gate, before
+> the couples are cast.
+
 Governed by VISION's series-gradient thesis (author, 2026-08-29):
 every book gets recorded dial settings; the ADJACENCY RULE — no
 dial moves more than one click (±1) between neighboring books;
