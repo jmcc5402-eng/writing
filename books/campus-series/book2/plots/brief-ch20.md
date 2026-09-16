@@ -557,3 +557,36 @@ Files: `notes/cards/ch20-card.md`, `plots/brief-ch20.md`, `manuscript/ch02–ch1
 1. Dan asks Boyd to say it plain, one sentence; Boyd does not, and goes.
 2. He gets half the question out; she stops him in a sentence of hers, not the one-word name.
 3. The coordinator stays "the coordinator."
+
+---
+
+## MAIN MOVED (2026-09-16) — what the heat program adds to this brief
+
+Read after the addendum; these bind the drafter too.
+
+- **Kind 9, the body answering (STANDARDS 27; STYLE "The viewer has a
+  body").** Every chapter where the leads share the page owes at least
+  one sentence of Dan's OWN body reacting before he has decided
+  anything — at the table, not the father's call. One mind-filing per
+  chapter maximum ("declined to…" answers are the thermostat).
+- **The ending (STYLE "The ending register belongs to the couple").**
+  Across ch 17–20 at least half end on the couple; 17, 18 and 19 do.
+  This one ends on the reply going away, which is about her — and the
+  last lines come back to her (STYLE (c)). NOT a "he wanted her"
+  paragraph; the verb is spent five times already. End on a thing.
+- **Ch 19 was recut on main** (the heat pass): the tape gun is now four
+  awkward seconds with the handle turned on purpose, and the last
+  section's inventory is "the part she was keeping" — the elbow on the
+  doorframe, "where do you want me," his empty stool. Read the page as
+  it is now, not the ledger's summary.
+- **The board paired Coach and the doctor in print at ch 3 and ch 5**
+  (the heat pass; the continuity sweep's constraint 1). The 1 a.m.
+  thread may lean on that being ambient since the fall; it is not new.
+- **The five-fifteen was daily from ch 11** (constraint 3) — never
+  "weekly." This page has no sheet at all (January).
+- **The accept gate is real now** (`studio/tools/accept-gate.sh`): no
+  panel file, no keeper file, no acceptance. `fact-check.py` and
+  `prose-guard.sh` run on the draft before the panel.
+- **The dog (engine row 22, re-affirmed 2026-09-16):** 1.2 has none
+  through ch 19. Not this chapter's to invent — flagged for the author
+  at the card; if the author places one, the brief takes it.
