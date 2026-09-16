@@ -65,6 +65,9 @@ for sub in $(python3 studio/tools/coverage.py "$BOOK" --names); do
   if [[ -f "$BOOK/$sub/canon/REGISTERS.md" ]]; then
     run "registers ($sub)"      python3 studio/tools/register-check.py "$BOOK/$sub"
   fi
+  if [[ -f "$BOOK/$sub/canon/INGREDIENTS.md" ]]; then
+    run "engine 23 ($sub)"      python3 studio/tools/engine-check.py "$BOOK/$sub"
+  fi
 done
 
 if ((!QUICK)); then
