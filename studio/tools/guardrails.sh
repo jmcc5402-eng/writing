@@ -50,6 +50,7 @@ run "AI tells"          python3 studio/tools/ai-tells.py "$BOOK"
 
 # --- the prose itself ------------------------------------------------
 run "story shape"       python3 studio/tools/story-matrix.py "$BOOK"
+run "signal registers"  python3 studio/tools/register-check.py "$BOOK/book2"
 run "opening sameness"  python3 studio/tools/opening-sameness.py "$BOOK"
 if [[ -d "$BOOK/book2" ]]; then
   run "story shape (1.2)"      python3 studio/tools/story-matrix.py "$BOOK/book2"
