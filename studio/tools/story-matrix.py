@@ -159,6 +159,39 @@ def measure(text: str, pov: str, both: list[str],
     }
 
 
+def beat_map(root: pathlib.Path) -> tuple[dict, int]:
+    """canon/BEATS.md — which chapter carries which beat, per curve.
+
+    Returns {curve: [(beat, target_pct, chapter_no)]} and the planned
+    chapter count. Positions are measured by CHAPTER NUMBER against the
+    planned total, not by word count, so a half-written book still
+    reports a beat that has slid.
+    """
+    f = root / "canon" / "BEATS.md"
+    if not f.exists():
+        return {}, 0
+    text = f.read_text(encoding="utf-8")
+    planned = 0
+    m = re.search(r"[Pp]lanned chapters:\s*\*{0,2}(\d+)", text)
+    if m:
+        planned = int(m.group(1))
+    curves, cur = {}, None
+    for line in text.splitlines():
+        if line.startswith("## "):
+            cur = line[3:].split("—")[0].strip()
+            continue
+        if not line.startswith("|") or cur is None:
+            continue
+        cells = [c.strip() for c in line.strip("|").split("|")]
+        if len(cells) < 3 or set("".join(cells)) <= set("-: "):
+            continue
+        beat, tgt, ch = cells[0], cells[1], cells[2]
+        if not re.match(r"^\d+$", tgt) or not re.match(r"^\d+$", ch):
+            continue
+        curves.setdefault(cur, []).append((beat, int(tgt), int(ch)))
+    return curves, planned
+
+
 def stage_at(frac: float) -> str:
     out = HAUGE[0][1]
     for pos, name in HAUGE:
@@ -282,6 +315,31 @@ def main() -> int:
     print("    (studio/craft/hauge.md: diagnostic, not dogma — but a Point")
     print("     of No Return at 70% means the middle is stalling)")
 
+    curves, planned = beat_map(root)
+    if curves:
+        planned = planned or len(rows)
+        written = len(rows)
+        print(f"\n  BEAT MAP vs the curves  (planned {planned} chapters, "
+              f"{written} written; tolerance ±7%)")
+        for curve, beats in curves.items():
+            print(f"\n    {curve}")
+            for beat, tgt, ch in beats:
+                actual = ch / planned * 100
+                gap = actual - tgt
+                # EARLY on a setup beat is usually a gift — the obstacle
+                # on the page sooner. LATE is the one that signals a
+                # stall. Both are reported; only LATE is ranked first.
+                state = "ok " if abs(gap) <= 7 else ("LATE" if gap > 0 else "EARLY")
+                mark = " " if state == "ok " else "?"
+                w = "" if ch <= written else "  (not written yet)"
+                print(f"      {mark} {beat:<26} target {tgt:>3}%  "
+                      f"ch {ch:>2} = {actual:>3.0f}%  {state}{w}")
+                if state != "ok ":
+                    findings.append(
+                        f"{curve}: \"{beat}\" declared at ch {ch} "
+                        f"({actual:.0f}%) against a target of {tgt}% "
+                        f"— {abs(gap):.0f} points {state.lower()}")
+
     if args.csv:
         with open(args.csv, "w") as fh:
             fh.write("chapter,words,cum_pct,pov,both_leads,presence_pct,"
@@ -294,8 +352,13 @@ def main() -> int:
 
     if findings:
         print("\n  SHAPE FINDINGS — questions for the author, not defects:")
-        for f in findings:
+        late = [f for f in findings if "late" in f]
+        rest = [f for f in findings if "late" not in f]
+        for f in late + rest:
             print(f"    ? {f}")
+        if late:
+            print("\n    LATE is the one that matters. EARLY on a setup beat is")
+            print("    usually a gift — the obstacle on the page sooner.")
         print("\n  'presence' is a proxy, not the panel's count. It is good at")
         print("  saying WHERE to look across thirty chapters and bad at saying")
         print("  whether any one of them works. Send the flagged stretch to a")
