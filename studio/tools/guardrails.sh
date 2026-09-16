@@ -43,6 +43,11 @@ run() {
 
 echo "guardrails  ($BOOK)"
 
+# Coverage first. A suite that silently checks nothing is worse than
+# no suite: this repo has four manuscript layouts and one convention.
+python3 studio/tools/coverage.py "$BOOK"
+echo
+
 # --- the machine that makes the prose -------------------------------
 run "roster staleness"  python3 studio/tools/roster-staleness.py --quiet
 run "canon facts"       python3 studio/tools/fact-check.py "$BOOK"
@@ -50,13 +55,17 @@ run "AI tells"          python3 studio/tools/ai-tells.py "$BOOK"
 
 # --- the prose itself ------------------------------------------------
 run "story shape"       python3 studio/tools/story-matrix.py "$BOOK"
-run "signal registers"  python3 studio/tools/register-check.py "$BOOK/book2"
 run "opening sameness"  python3 studio/tools/opening-sameness.py "$BOOK"
-if [[ -d "$BOOK/book2" ]]; then
-  run "story shape (1.2)"      python3 studio/tools/story-matrix.py "$BOOK/book2"
-  run "opening sameness (1.2)" python3 studio/tools/opening-sameness.py "$BOOK/book2"
-  run "canon facts (1.2)"      true   # fact-check covers both books already
-fi
+# Every conforming book, discovered. No hardcoded subdirectory:
+# adding Book 1.3 must not require editing a checker or this file.
+for sub in $(python3 studio/tools/coverage.py "$BOOK" --names); do
+  [[ "$sub" == "$(basename "$BOOK")" ]] && continue
+  run "story shape ($sub)"      python3 studio/tools/story-matrix.py "$BOOK/$sub"
+  run "opening sameness ($sub)" python3 studio/tools/opening-sameness.py "$BOOK/$sub"
+  if [[ -f "$BOOK/$sub/canon/REGISTERS.md" ]]; then
+    run "registers ($sub)"      python3 studio/tools/register-check.py "$BOOK/$sub"
+  fi
+done
 
 if ((!QUICK)); then
   # Per-chapter mechanical checks across every accepted chapter.

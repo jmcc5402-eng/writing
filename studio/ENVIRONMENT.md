@@ -121,6 +121,25 @@ Being honest about this is what keeps the rest credible.
 
 ---
 
+## The mechanism
+
+Every guardrail here is the same four parts, written up in
+`studio/MECHANISM.md`:
+
+```
+studio/craft/<pattern>.md     SPEC         book-agnostic
+books/<book>/canon/<X>.md     DECLARATION  this book's instance
+studio/tools/<check>.py       CHECKER      generic; reads both
+.claude/settings.json         TRIGGER      so nobody has to remember
+```
+
+`studio/tools/booklib.py` holds the conventions in code, so a new
+checker inherits them instead of re-deriving where books live.
+`coverage.py` says which books are actually covered — three of this
+repo's four are not, and used to be skipped in silence.
+
+Templates for a new book: `studio/series-kit/14-canon-declarations.md`.
+
 ## The ratchet
 
 **Fix the bug, then fix the thing that let the bug in.** Every author
