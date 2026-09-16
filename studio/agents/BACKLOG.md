@@ -231,3 +231,10 @@ Still open:
   stretch, and every set piece before the author does — PIPELINE and
   ROSTER to carry it once the author picks the cadence (asked
   2026-09-14).
+- **F39 — `roster-staleness.py` reads the showrunner as stale by
+  design (2026-09-16).** It measures every instrument by the variance
+  draw log, and showrunner survey runs are exempt from draws
+  (showrunner 2.4.4). So the showrunner shows "last run 2026-08-29"
+  after seventeen days of daily stints. Fix: either the showrunner
+  logs a no-draw row per stint, or the tool reads STATE.md's pick-up
+  date for it. One or the other; not both.
