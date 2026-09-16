@@ -49,8 +49,10 @@ run "canon facts"       python3 studio/tools/fact-check.py "$BOOK"
 run "AI tells"          python3 studio/tools/ai-tells.py "$BOOK"
 
 # --- the prose itself ------------------------------------------------
+run "story shape"       python3 studio/tools/story-matrix.py "$BOOK"
 run "opening sameness"  python3 studio/tools/opening-sameness.py "$BOOK"
 if [[ -d "$BOOK/book2" ]]; then
+  run "story shape (1.2)"      python3 studio/tools/story-matrix.py "$BOOK/book2"
   run "opening sameness (1.2)" python3 studio/tools/opening-sameness.py "$BOOK/book2"
   run "canon facts (1.2)"      true   # fact-check covers both books already
 fi
