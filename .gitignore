@@ -1,0 +1,4 @@
+# The checkers in studio/tools/ import booklib.py, so running the suite
+# leaves bytecode behind. It is build junk, not work product.
+__pycache__/
+*.pyc
