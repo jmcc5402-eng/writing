@@ -2,6 +2,38 @@
 
 Manuscript-affecting changes, newest first. (Hard rule 6.)
 
+## 2026-09-16 — REGISTER SEED, ch 3 / 5 / 6 (author-directed)
+
+Three sentences, planting Aisha's default drink before it is spent.
+Found by the first full-corpus `guardrails.sh` run.
+
+`register-check.py` reported her seltzer with **one** ordinary use
+before the ch-11 wine spend, against the spec's three
+(`studio/craft/registers.md` rule 2). The word did not appear in the
+book at all before ch 11 — the reader met her default *after* the
+substitution that was supposed to mean something against it. Seeded:
+
+- **ch 3** — she lifts the seltzer from the car and declines both of
+  Verna's offers. Was a bare "Not yet."
+- **ch 5** — the Checkerboard has never stocked it, so she drinks the
+  coffee. The default established by its absence, which is also why
+  nobody noticed it was missing.
+- **ch 6** — a seltzer in her other hand at the rail, in Dan's POV.
+  He is the one who has to have learned it for ch 18 to land.
+
+Now 4 ordinary uses before the spend; `register-check.py` exits 0.
+
+**Not a finding after all:** the same run reported Aisha's coat at
+zero uses before its ch-7 shift. That was a **bug in the checker** —
+it split alternation on a bare `|` and silently dropped the first
+term of `her coat\|own coat`. The coat has five ordinary uses and was
+always correct. Fixed in the tool, same commit; no prose changed.
+
+**Owed:** all three chapters were ACCEPTED. A continuity-keeper read
+is required before they are re-accepted (prose-guard flagged each
+edit). Also surfaced, pre-existing: **ch 3's epigraph is 54 words
+against the 35-word cap.**
+
 ## 2026-09-15 — HEAT PASS, ch 1–10 (author-directed, the drought zone)
 
 Fourteen items, none declined. Drafting-assistant, variance card D6
