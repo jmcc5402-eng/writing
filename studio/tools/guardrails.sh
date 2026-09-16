@@ -52,6 +52,7 @@ echo
 run "roster staleness"  python3 studio/tools/roster-staleness.py --quiet
 run "canon facts"       python3 studio/tools/fact-check.py "$BOOK"
 run "AI tells"          python3 studio/tools/ai-tells.py "$BOOK"
+run "voice dials"       python3 studio/tools/voice-dial.py "$BOOK" --compare
 
 # --- the prose itself ------------------------------------------------
 run "story shape"       python3 studio/tools/story-matrix.py "$BOOK"
