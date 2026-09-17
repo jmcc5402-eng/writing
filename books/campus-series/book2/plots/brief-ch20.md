@@ -19,7 +19,7 @@ MECHANICAL (real output, 2026-09-17, after the lint fixes and the panel fixes)
   [x] ending-check.py   → six sections after the `***` fix (first run saw one 4,024-word section); WARN echo reply "I said seven." — fixed; last section: Dan alone, no dialogue
   [x] romance-build-check.py → BUILD CHECK: PASS (row 20 held, 4/4, no spend)
   [x] columns over 80: 0 · words: 4,154 with header and epigraph (~3,950 prose — over the ~3,500 connecting guide; the dinner is 1,130 of it; the panel did not ask for a cut)
-  [x] accept-gate.sh    → HOLDS (correctly): the panel file is on disk; the CHANGELOG entry is on disk; the keeper's page audit is owed at the fold, before ACCEPTED
+  [x] accept-gate.sh    → PASS once the panel file and the CHANGELOG entry were on disk (it held before them); the keeper's page audit becomes REQUIRED the moment the header says ACCEPTED — at the fold
 
 READERS
   [x] romance-reader-panel 1.5.4 → notes/ch20-panel-2026-09-17.md — PASS WITH FIXES (5 asks), all five applied by the drafter; the count 20 beats, all nine kinds; kind 9 at the table, one mind-filing
