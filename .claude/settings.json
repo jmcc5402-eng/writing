@@ -30,6 +30,24 @@
             "command": "python3 \"$CLAUDE_PROJECT_DIR/studio/tools/pr-lint.py\""
           }
         ]
+      },
+      {
+        "matcher": "SendUserFile",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 \"$CLAUDE_PROJECT_DIR/studio/tools/card-lint.py\""
+          }
+        ]
+      },
+      {
+        "matcher": "Agent",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 \"$CLAUDE_PROJECT_DIR/studio/tools/brief-gate.py\""
+          }
+        ]
       }
     ]
   }
