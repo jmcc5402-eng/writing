@@ -3,6 +3,15 @@
 Newest first. Every entry: version, what changed, and the evidence that
 drove it.
 
+## 2026-09-17 — romance-reader-panel 1.5.5: the romance level, 1–10 (minor)
+
+After the count, a ROMANCE LEVEL on the reader's scale, one sentence
+why, and the two-point fix. Evidence: ch 20 — the count said twenty
+beats, all nine kinds, above the floor; the author said "two or three
+out of 10 … read like a normal old book"; the panel, asked blind for a
+level, said 3. The count and the level now travel together, and the
+author's number goes beside them in `notes/romance-levels.md`.
+
 ## 2026-09-17 — two gates: the card lint and the brief gate (hooks, not rules)
 
 `studio/tools/card-lint.py` (PreToolUse on SendUserFile) and

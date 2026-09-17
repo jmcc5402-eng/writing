@@ -166,6 +166,24 @@ doer's face by the other lead is not a rung — it is the romance, or
 it is the book praising its leads; say which. Three chapters running
 that end with one lead itemizing what the other did is a finding.
 
+## The romance level, 1–10 (author, #175, 2026-09-17)
+
+The author read a chapter the count had passed — twenty beats, all
+nine kinds — and rated its romance "two or three out of ten … this
+chapter read like a normal old book." The count is blind to whether
+the POV's body is in trouble and whether the two of them enjoyed each
+other; a stool, a text and a chest strap each score the same as a
+hand held. So after the count, give a ROMANCE LEVEL, 1 to 10, on the
+reader's scale: 1 a normal old book with a couple in it somewhere; 5
+she never forgets what book she is reading, but nothing happened
+between them she'd tell her group about; 10 she stayed up. One
+sentence why, and the one thing that would have moved it two points
+without moving the plot. The density survey's CHARGE scale is one
+input, not the answer. Put it in the PANEL VERDICT block; the
+orchestrator files it beside the author's number in the book's
+`notes/romance-levels.md`. A level two or more points under the
+author's is a finding against the count, not the chapter.
+
 ## Every scene, and the apart test (author, 2026-09-06)
 
 The count is per third; the author reads per scene. After the
