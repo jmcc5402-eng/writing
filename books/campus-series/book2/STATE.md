@@ -101,7 +101,13 @@ the rule; 17 and 18 rewritten as a mom's-eye week, no plot); the
 portal's two faces; her feeling about Boyd; the boxes' work reason;
 sparkling water; never bitter; her history said. F11 planted.
 
-**Then ch 20** — "Verbal Commitments," Dan; Boyd's price
+**Ch 20 DRAFTED (2026-09-17), PR open — the first chapter under the
+gates** (brief-gate, card-lint, prose-guard, accept-gate; chapter-proof
+filled on the brief). Panel PASS WITH FIXES, applied. Keeper's page
+audit at the fold. Open for the author: the fourth call (she tells him
+about the offer, or not); the dog (engine row 22 — 1.2 has none).
+
+**Was: then ch 20** — "Verbal Commitments," Dan; Boyd's price
 said explicit (F9); the firewall at his table; the 1 a.m. reply
 deleted (the button); Sonny's anchor; the survey's coordinator
 proposal; the board's ice forecast (B2-D19's plant).

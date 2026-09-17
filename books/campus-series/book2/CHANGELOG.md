@@ -2,6 +2,50 @@
 
 Manuscript-affecting changes, newest first. (Hard rule 6.)
 
+## 2026-09-17 — ch 20 DRAFTED: "Verbal Commitments" (Dan · Friday, January 8) — PR open; CONNECTING, one drafter; THE FIRST CHAPTER UNDER THE GATES
+
+FIRST DRAFT for the author's pass. Drafting-assistant, variance card D6
+(the dinner's silence runs past comfortable). Drafted from
+`plots/brief-ch20.md` with its AUDIT ADDENDUM (E5, BLOCK → corrected:
+the stool is thirty-four's at seven; "extension," never "Dan's paper";
+the coordinator's deadline is February; no weekday for the ice; the
+RAV4 stays in Verna's lot) and its MAIN MOVED section (kind 9; the
+ending rule; ch 19 as recut). The card's calls per B2-D24 (Dan asks
+Boyd to say it plain and Boyd doesn't; half the question out before
+her wall, in a sentence of hers; the coordinator unnamed). The
+outline's "two five-star December signees" amended to two families
+due to sign in February.
+
+On the page: Sonny's third anchor at the register ("a commit is a
+promise from a seventeen-year-old"); the father's call and the truth
+told; Boyd in Dan's office door — the price said and decoded in four
+plain sentences (pledge, extension, re-sequenced, the medical
+situation), the stage lost at 16 in ch 16's words, "Say it plain, Mr.
+Boyd," and the third silence; the coordinator sent to the phone with a
+coach's deadline and a joke that lands; the trainer's "next week";
+dinner at his house — the RAV4 in Verna's lot, beer and sparkling
+water, her phone screen to the wood, "Boyd came by." and nothing else,
+"and I wondered if—" / "There's a kitchen now, Dan," / "That's fair,"
+the silence, the chili, the hand in the hall; one in the morning under
+the stove light — the reply typed on the page and deleted a letter at
+a time; the chair she left out. Kind 9 at the table. Epigraph: Kendra
+Voyles, the ice "midweek next week," no weekday.
+
+The tooling's first run: the opening check FAILED on the first draft
+(seven five-word runs shared with ch 19's opening — the cook sentence
+reused) and the drafter rewrote the paragraph; the prose guard fired
+twice on the write and was right both times; the drafter's hand count
+said 28 words where the lint found 33 (split); the ending check saw
+one section until the `***` breaks were put in; AI-tells reads the
+sentence rhythm a hair too even (CV 0.54 / floor 0.55) — for the line
+editor. Panel 1.5.4 PASS WITH FIXES (five asks, all applied: the cost
+paragraph folded; the trigger said once; the hand in the hall slowed;
+the 1 a.m. frame made this night's; Boyd's silence made this one).
+The accept gate holds until the keeper's page audit at the fold.
+
+Not on the page (not ruled): she does not tell him about Boyd's
+directorship offer — the superfan's flag stands for the author.
+
 ## 2026-09-15 — HEAT PASS, ch 1–10 (author-directed, the drought zone)
 
 Fourteen items, none declined. Drafting-assistant, variance card D6

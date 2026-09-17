@@ -7,30 +7,35 @@ chapter once the author says go. A brief without its audit addendum
 is not a brief (drafter rule 8).
 
 
-## PROOF OF DONE — campus 1.2 ch 20, 2026-09-17 (chapter-proof; filled at the end)
+## PROOF OF DONE — campus 1.2 ch 20, 2026-09-17 (chapter-proof; FILLED after the run)
 
-MECHANICAL (commands, output attached at the end)
-  [ ] bash studio/tools/chapter-lint.sh manuscript/ch20.md        → opening PASS; ending per BUTTON; SENTENCES: none over 30 in narration
-  [ ] python3 studio/tools/dialogue-lint.py manuscript/ch20.md    → in the quiet band, 8–15%, or the panel says why
-  [ ] python3 studio/tools/opening-check.py manuscript/ch20.md    → PASS; the clock-and-stool WARN read and answered
-  [ ] python3 studio/tools/fact-check.py                           → no new finding on ch 20
-  [ ] bash studio/tools/prose-guard.sh (fires on the write)        → columns, tics, bans, added sentences clean
-  [ ] python3 studio/tools/romance-build-check.py plots/romance-arc.md → PASS (row 20 held, 4/4, no spend)
-  [ ] bash studio/tools/accept-gate.sh books/campus-series/book2 20 → holds until the verdict files exist
+MECHANICAL (real output, 2026-09-17, after the lint fixes and the panel fixes)
+  [x] chapter-lint.sh   → OPENING CHECK: PASS (19 earlier chapters); SENTENCES: 0 over thirty, 0 with more than three "and"s; REPETITION: "the doctor holds kids out here" ×3 — the typed reply and its deletion, the button, left; LINT: PASS. First run FAILED (7 five-word runs shared with ch 19's opening — the cook sentence reused) — fixed by the drafter.
+  [x] dialogue-lint.py  → 4,075 words, 487 quoted, 12.0% — quiet-chapter band
+  [x] opening-check.py  → PASS; WARN clock-and-stool: 1 ("a quarter to seven" in the first sentence, after Sonny's twenty and his coat — read and left)
+  [x] fact-check.py     → clean — no canon contradictions found
+  [x] prose-guard.sh    → silent (exit 0) on the final write; fired twice during the run (an 83-column line; one over-length sentence in Boyd's door) — both fixed
+  [x] ai-tells.py       → sentence lengths: CV 0.54 against a floor of 0.55 — a hair under after the rhythm fix (was 0.54 before it too); a density note, not a ban; for the line editor
+  [x] ending-check.py   → six sections after the `***` fix (first run saw one 4,024-word section); WARN echo reply "I said seven." — fixed; last section: Dan alone, no dialogue
+  [x] romance-build-check.py → BUILD CHECK: PASS (row 20 held, 4/4, no spend)
+  [x] columns over 80: 0 · words: 4,154 with header and epigraph (~3,950 prose — over the ~3,500 connecting guide; the dinner is 1,130 of it; the panel did not ask for a cut)
+  [x] accept-gate.sh    → HOLDS (correctly): the panel file is on disk; the CHANGELOG entry is on disk; the keeper's page audit is owed at the fold, before ACCEPTED
 
-READERS (verdict files, path attached at the end)
-  [ ] romance-reader-panel 1.5.4   → notes/ch20-panel-2026-09-17.md (the four tests; kind 9 counted)
-  [ ] continuity-keeper 1.4.3      → the card+brief audit is in this file (E5, 2026-09-14); the page audit at the fold, REQUIRED before ACCEPTED
-  [ ] superfan-reviewer            → not this chapter (ch 17–20 block read after 20 is accepted; CADENCE.md)
+READERS
+  [x] romance-reader-panel 1.5.4 → notes/ch20-panel-2026-09-17.md — PASS WITH FIXES (5 asks), all five applied by the drafter; the count 20 beats, all nine kinds; kind 9 at the table, one mind-filing
+  [ ] continuity-keeper 1.4.3    → the card+brief audit is above (E5); the PAGE audit runs at the fold before ACCEPTED (the accept gate enforces it)
+  [ ] superfan-reviewer          → the ch 17–20 block read, after 20 is accepted (CADENCE.md)
 
 MUST NOT HAVE CHANGED
-  [ ] ch 19 as recut on main: "Where do you want me." / "The boxes. Where do you want the boxes." — cited, never re-staged
-  [ ] the firewall verbatim (ch15:365–373) — cited, not restated; the rung ladder: In 4 / Out 4; no kiss, no garment; touch rationed to hands once
-  [ ] no new fact, name, date or object not on the page — the coordinator unnamed; the quarterback and his father unnamed; no weekday for the ice; the coat plant (B2-T02) unsaid
+  [x] ch 19's ending as recut on main — untouched (git: ch19.md not in this PR)
+  [x] the firewall — cited ("if there was ever a kitchen"), not restated; In 4 / Out 4; no kiss, no garment; hands once, in the hall
+  [x] no new fact, name, date or object: the coordinator, the quarterback, his father and the two families unnamed; no weekday for the ice; the coat plant unsaid. New small facts for the registry (the drafter's honest list): Kat not down this weekend; Verna's question at the office window; the flip's days (Sunday/Wednesday); no practice sheet or five-fifteen in January, said once.
 
 VARIANCE
-  [ ] card drawn: D6 "let one scene run a beat past comfortable" (LRU) — logged
-  [ ] banned moves read: RECENT.md as of 2026-09-14 + this brief's BANS + the addendum's BANNED line
+  [x] D6 drawn (LRU) and logged — the dinner's silence runs past comfortable (the panel: "the best page in the chapter")
+  [x] RECENT.md as of 2026-09-14 read; the brief's BANS; the addendum's BANNED line — zero hits on the grep sweep
+
+THE GATES, FIRST RUN: brief-gate let the launch through (the addendum and VERDICT on disk); prose-guard fired twice and was right both times; card-lint will run on the send; pr-lint runs on the PR body.
 
 **Outline entry, verbatim manifest** (`plots/b12-outline.md:652–668`):
 "Two five-star December signees' families go quiet; a portal QB he
