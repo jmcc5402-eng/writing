@@ -205,10 +205,43 @@ Still open:
   corrected ch 18 v2 brief to `book2/x`; the plots copy lacked the
   addendum; candidates A and B drafted from it, C found the stray
   file and said so. Landed: drafter 1.6.1 rule 8 (no addendum, no
-  draft). Open: the orchestrator's edit scripts assert the target
-  path after writing (a one-line check); the fold checklist gets
-  "the brief on disk carries the addendum" before drafters launch.
+  draft). LANDED 2026-09-17: `studio/tools/brief-gate.py`, a
+  PreToolUse hook on the Agent tool — a drafting-assistant named on a
+  brief without an AUDIT ADDENDUM and a VERDICT on disk does not
+  launch. Still open: the edit scripts assert the target path.
 - **The third audit (after ch 20):** its test set is the author's
   catches since 2026-09-10 (AUTHOR-NOTES rows from #156 on): the
   seeds, the couple, the card drift, the ending's return, the
   weather row.
+
+## From the superfan's six-random-chapter read (2026-09-15 — `books/campus-series/book2/notes/superfan-random-2026-09-15.md`)
+
+- **F37 — the clock-and-stool opening (the superfan's three-star:
+  "this author loves a clock… every scene starts by telling me what
+  time it is and which stool, and I wanted her face instead").** Ch
+  4, 15, 17, 18, 19 all open on a time of day or a counter position;
+  the opening check caught the shared runs, not the habit. LANDED
+  the same day: `opening-check.py` WARNs when the first paragraph
+  carries a clock or a stool. Not a law until the author rules;
+  briefs may still ask for the hour, second. Related: ch 15's first
+  paragraph (the step count) and ch 6's "I'm not on Millrow, Coach"
+  are MINOR-edit candidates for the author's call.
+- **F38 — the superfan dropped out of the 1.2 loop.** No chapter
+  read between the outline gate (2026-08-30) and this run; nothing
+  decided it. PROPOSED: she reads every accepted block of four as a
+  stretch, and every set piece before the author does — PIPELINE and
+  ROSTER to carry it once the author picks the cadence (asked
+  2026-09-14).
+- **F39 — `roster-staleness.py` reads the showrunner as stale by
+  design (2026-09-16).** It measures every instrument by the variance
+  draw log, and showrunner survey runs are exempt from draws
+  (showrunner 2.4.4). So the showrunner shows "last run 2026-08-29"
+  after seventeen days of daily stints. Fix: either the showrunner
+  logs a no-draw row per stint, or the tool reads STATE.md's pick-up
+  date for it. One or the other; not both.
+- **F40 — the card lint (2026-09-17, author: "1 and 2 now").**
+  `studio/tools/card-lint.py`, a PreToolUse hook on SendUserFile:
+  body under 350, sentences under 30, calls one sentence each, the
+  sections present, no ledger words, no markers. Cards before ch 18
+  fail it (older format, no calls) — it governs going forward, not
+  backward.

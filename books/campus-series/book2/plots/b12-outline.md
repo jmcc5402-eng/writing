@@ -650,7 +650,7 @@ fall.* *End: menace-flat (Boyd's exit, coat unstirred by wind —
 register per estate 98).*
 
 ### Ch 20 — Verbal Commitments (Dan · Wk7)
-Two five-star December signees' families go quiet; a portal QB
+Two families due to sign in February go quiet (AMENDED B2-D24 — was "two five-star December signees"; December's class signed at ch 10, the class closes in February); a portal QB
 he flipped wants reassurances; Boyd names the price without
 naming it: if "the medical situation embarrasses the program"
 before February, the pledge — and the trustees' spring extension

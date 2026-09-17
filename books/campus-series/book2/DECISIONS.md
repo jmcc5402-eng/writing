@@ -624,3 +624,32 @@ Fieldhouse's (Facilities never sent any); nothing about Boyd moves.
 8. **Her history, said:** people think a doctor's life is glamorous;
    the truth is a new residency or fellowship every year or two, and
    all she ever wanted was a place to call home. Dossier canon.
+
+## B2-D24 — the ch 20 calls (author, 2026-09-17: "Let's run chapter 20 I want to see what our new tooling does")
+
+Defaults taken as recommended:
+
+1. **Dan asks Boyd to say it plain, one sentence, and Boyd does not**
+   — leaves the silence and goes. Silence was Dan's answer at 8, 10 and
+   19; the direct question is the ch 2 man.
+2. **He gets half the question out** about Trey's next check before
+   she stops him, in a sentence of hers, not the one-word name (ch 19
+   spent it).
+3. **The coordinator stays "the coordinator."** Nineteen chapters made
+   it his name; the author may name him later.
+4. **Not taken, not ruled:** the superfan's flag (2026-09-15) that
+   Aisha sitting on Boyd's directorship offer for weeks reads as the
+   one honest text. Proposed as a fourth call; the author did not
+   rule. This draft keeps the audited card: she does not tell him. If
+   the author wants it, it is a MINOR add at the table.
+5. **The outline amended** (`b12-outline.md` ch 20): "two five-star
+   December signees" → two families due to sign in February. December
+   was the loud signing week (ch 10) and the class closes the first
+   Wednesday in February in Dan's own words (ch 15); a signed family
+   going quiet costs nothing.
+6. **The storm's weekday stays open** (B2-D19.5): "midweek next week"
+   on the page, no weekday, until the ch 21 card.
+7. **The first chapter under the new gates:** the brief gate on the
+   drafter's launch, the card lint on the send, the prose guard on the
+   write, the accept gate on acceptance, chapter-proof at the top of
+   the brief.

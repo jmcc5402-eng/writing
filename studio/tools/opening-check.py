@@ -12,6 +12,11 @@ lower-numbered chapter in the same directory:
     verbatim ANYWHERE in an earlier chapter (FAIL);
   * a calendar opening — the first line begins on a weekday, a month, a
     date, or "N days/weeks out/off" (WARN: open on a thing, not the date);
+  * a clock-and-stool opening (2026-09-15, the superfan's three-star:
+    "this author loves a clock… every scene starts by telling me what
+    time it is and which stool, and I wanted her face instead") — the
+    first paragraph carries a time of day or a counter position (WARN:
+    a face before a clock; the hour may come second);
   * the seams (2026-09-12): every section's first and last line printed,
     and each later section's opening compared with every earlier
     chapter's section openings (WARN at 2 shared five-word runs).
@@ -24,6 +29,7 @@ import re, sys, os, glob, itertools
 
 DAYS = r"(monday|tuesday|wednesday|thursday|friday|saturday|sunday)"
 MONTHS = r"(january|february|march|april|may|june|july|august|september|october|november|december)"
+CLOCK = re.compile(r"\b((half|quarter|ten|twenty|five) (past|to|till) \w+|\d{1,2}:\d{2}|\w+ o'clock|(at|by|till|until|since) (six|seven|eight|nine|ten|eleven|noon|midnight)\b|(first|second|third) stool|stool (nearest|from) the register)", re.I)
 CAL = re.compile(rf"^\s*({DAYS}|{MONTHS}|(the )?(first|second|third|fourth|fifth|sixth|seventh|eighth|ninth|tenth|\w+teenth|twentieth|\w+-\w+)\b.*(of|,)|\w+ (days|weeks) (out|off|to))", re.I)
 
 def body(path):
@@ -94,6 +100,9 @@ def main():
     fails = 0
     if op_lines and CAL.match(op_lines[0]):
         print(f"WARN  calendar opening: \"{op_lines[0][:70]}\" — open on a thing, not the date")
+    clocks = CLOCK.findall(op)
+    if clocks:
+        print(f"WARN  clock-and-stool opening: {len(clocks)} clock/stool word(s) in the first paragraph — a face before a clock")
     my_runs = runs(op)
     for p in earlier:
         shared = my_runs & runs(" ".join(opening(p)))
