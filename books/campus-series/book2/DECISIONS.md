@@ -653,3 +653,41 @@ Defaults taken as recommended:
    drafter's launch, the card lint on the send, the prose guard on the
    write, the accept gate on acceptance, chapter-proof at the top of
    the brief.
+
+## B2-D25 — the ch 20 rulings (author, 2026-09-17, #175 comments + chat)
+
+1. **The drinks register is never explained in dialogue.** "'Beer
+   again.' / 'It's my drink. The other one was yours.' / 'It was a good
+   night for the other one.' — now we're being too on the nose. Better
+   just to have him pull the beer out and her drink the sparkling water
+   and nothing need be said about it." The three lines cut. NEW
+   furniture: "he is just a beer sipper and never really finishes it —
+   it's almost part of his thing." STANDARDS "Drinks as register"
+   amended; RECENT ban; registry.
+2. **The board's why, lightly, every time the habit is shown:** the old
+   why in a clause (a board knew what he was before anybody said it),
+   and the new one — he reads it for the football hidden in a parent's
+   ordinary question, and skims what is only weather. On the page at
+   the 1 a.m. section. Registry row for B2-T08.
+3. **The romance level.** "The romance level of it was about a two or
+   three out of 10 … this chapter read like a normal old book." The
+   panel's count had passed it above the floor; asked blind for a 1–10,
+   the panel said 3. Standing: every panel report carries a ROMANCE
+   LEVEL (panel 1.5.5); the author's number goes beside it in
+   `notes/romance-levels.md`; a level two or more under the target is a
+   finding against the count.
+4. **"Yes, make the change":** the first half of the dinner gets the two
+   of them glad — her face, the spoon in the air, a hand across the
+   wood that stays — so the wall costs something the reader just had.
+   Done; re-leveled by the panel after.
+5. **Targets before the chapter (author: "choose the rank of the
+   romance before the chapter's written, giving us a definition of
+   done").** Proposed set, awaiting the author's pick: romance level
+   1–10; heat ceiling 0–8; laughs (0/1/3); ending register; talk band;
+   word budget; who pays. The card carries the block; the card lint
+   checks it; the panel scores against it.
+6. **Open, the author's call:** the trainer says "Trey" or not
+   (NAMES.md gives the name to narration, his parents, the doctor, and
+   Dan in private; the page uses "7" in the trainer's mouth for now).
+   The fourth call from #175 (she tells him about Boyd's offer) is
+   still not ruled; she does not, on this page.
