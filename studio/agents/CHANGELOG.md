@@ -3,6 +3,18 @@
 Newest first. Every entry: version, what changed, and the evidence that
 drove it.
 
+## 2026-09-17 — two gates: the card lint and the brief gate (hooks, not rules)
+
+`studio/tools/card-lint.py` (PreToolUse on SendUserFile) and
+`studio/tools/brief-gate.py` (PreToolUse on Agent). The first blocks a
+chapter card that is over 350 words, has a sentence of 30 words, a
+call in two sentences, a missing section, a ledger word, or a marker.
+The second blocks a drafting-assistant launched on a brief that has no
+AUDIT ADDENDUM with a VERDICT on disk. Evidence: taste 13's repeats
+(the card) and BACKLOG F36 (the ch 18 stray-file brief). Author,
+2026-09-17: "Ok 1 and 2 now." Drafter rule 8 and the showrunner's card
+rules stay as written; the hooks are what make them hold.
+
 ## 2026-09-13 — drafting-assistant 1.6.1: no addendum, no draft (patch)
 
 Rule 8: a brief without its AUDIT ADDENDUM is not a brief; the drafter

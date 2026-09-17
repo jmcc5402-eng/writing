@@ -205,9 +205,10 @@ Still open:
   corrected ch 18 v2 brief to `book2/x`; the plots copy lacked the
   addendum; candidates A and B drafted from it, C found the stray
   file and said so. Landed: drafter 1.6.1 rule 8 (no addendum, no
-  draft). Open: the orchestrator's edit scripts assert the target
-  path after writing (a one-line check); the fold checklist gets
-  "the brief on disk carries the addendum" before drafters launch.
+  draft). LANDED 2026-09-17: `studio/tools/brief-gate.py`, a
+  PreToolUse hook on the Agent tool — a drafting-assistant named on a
+  brief without an AUDIT ADDENDUM and a VERDICT on disk does not
+  launch. Still open: the edit scripts assert the target path.
 - **The third audit (after ch 20):** its test set is the author's
   catches since 2026-09-10 (AUTHOR-NOTES rows from #156 on): the
   seeds, the couple, the card drift, the ending's return, the
@@ -238,3 +239,9 @@ Still open:
   after seventeen days of daily stints. Fix: either the showrunner
   logs a no-draw row per stint, or the tool reads STATE.md's pick-up
   date for it. One or the other; not both.
+- **F40 — the card lint (2026-09-17, author: "1 and 2 now").**
+  `studio/tools/card-lint.py`, a PreToolUse hook on SendUserFile:
+  body under 350, sentences under 30, calls one sentence each, the
+  sections present, no ledger words, no markers. Cards before ch 18
+  fail it (older format, no calls) — it governs going forward, not
+  backward.
