@@ -6,6 +6,32 @@ before the card goes to the author. The card is canon for this
 chapter once the author says go. A brief without its audit addendum
 is not a brief (drafter rule 8).
 
+
+## PROOF OF DONE — campus 1.2 ch 20, 2026-09-17 (chapter-proof; filled at the end)
+
+MECHANICAL (commands, output attached at the end)
+  [ ] bash studio/tools/chapter-lint.sh manuscript/ch20.md        → opening PASS; ending per BUTTON; SENTENCES: none over 30 in narration
+  [ ] python3 studio/tools/dialogue-lint.py manuscript/ch20.md    → in the quiet band, 8–15%, or the panel says why
+  [ ] python3 studio/tools/opening-check.py manuscript/ch20.md    → PASS; the clock-and-stool WARN read and answered
+  [ ] python3 studio/tools/fact-check.py                           → no new finding on ch 20
+  [ ] bash studio/tools/prose-guard.sh (fires on the write)        → columns, tics, bans, added sentences clean
+  [ ] python3 studio/tools/romance-build-check.py plots/romance-arc.md → PASS (row 20 held, 4/4, no spend)
+  [ ] bash studio/tools/accept-gate.sh books/campus-series/book2 20 → holds until the verdict files exist
+
+READERS (verdict files, path attached at the end)
+  [ ] romance-reader-panel 1.5.4   → notes/ch20-panel-2026-09-17.md (the four tests; kind 9 counted)
+  [ ] continuity-keeper 1.4.3      → the card+brief audit is in this file (E5, 2026-09-14); the page audit at the fold, REQUIRED before ACCEPTED
+  [ ] superfan-reviewer            → not this chapter (ch 17–20 block read after 20 is accepted; CADENCE.md)
+
+MUST NOT HAVE CHANGED
+  [ ] ch 19 as recut on main: "Where do you want me." / "The boxes. Where do you want the boxes." — cited, never re-staged
+  [ ] the firewall verbatim (ch15:365–373) — cited, not restated; the rung ladder: In 4 / Out 4; no kiss, no garment; touch rationed to hands once
+  [ ] no new fact, name, date or object not on the page — the coordinator unnamed; the quarterback and his father unnamed; no weekday for the ice; the coat plant (B2-T02) unsaid
+
+VARIANCE
+  [ ] card drawn: D6 "let one scene run a beat past comfortable" (LRU) — logged
+  [ ] banned moves read: RECENT.md as of 2026-09-14 + this brief's BANS + the addendum's BANNED line
+
 **Outline entry, verbatim manifest** (`plots/b12-outline.md:652–668`):
 "Two five-star December signees' families go quiet; a portal QB he
 flipped wants reassurances; Boyd names the price without naming it:
