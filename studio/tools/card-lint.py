@@ -23,6 +23,9 @@ Rules (STANDARDS 26's card, kit 12, taste 13):
      no "rung," no doc names (dossier, arc-docs, THREADS). "Register"
      and "beat" are English words too and are not caught.
   6. No `[TK` on a card — an open question is a call, not a marker.
+  7. A **Targets.** section with the one-line definition of done
+     (author, 2026-09-17): 'Romance N · Heat N · Laughs N · Ends X ·
+     Talk X · Words N · Pays X' — read by studio/tools/targets-check.py.
 
 Exit 0 = pass (WARNs allowed). Exit 1 = FAIL on the command line;
 exit 2 = FAIL as a hook (the send is blocked).
@@ -84,7 +87,7 @@ def lint(path: str) -> tuple[list[str], list[str]]:
         warns.append(f"body is {body_words} words — near the ceiling of {MAX_BODY}")
 
     # 2. sentences
-    for s in sentences(" ".join(prose)):
+    for s in sentences(" ".join(x for x in prose if not re.search(r"Romance\s+\d+\s*·", x))):
         n = len(s.split())
         if n >= MAX_SENT:
             fails.append(f"{n}-word sentence: \"{s[:70]}…\"")
@@ -114,8 +117,22 @@ def lint(path: str) -> tuple[list[str], list[str]]:
     if len(labels) < 5:
         warns.append(f"only {len(labels)} sections — the card names each lead and the town/clock")
 
+    # 7. the targets line (the definition of done, set before the draft)
+    tline = [s for s in prose if re.search(r"Romance\s+\d+\s*·\s*Heat\s+\d+", s)]
+    if not any(l.startswith("targets") for l in labels) or not tline:
+        fails.append("no **Targets.** line — 'Romance N · Heat N · Laughs N · Ends X · Talk X · Words N · Pays X' (the definition of done, set before the draft; targets-check.py reads it)")
+    else:
+        t = tline[0]
+        if not re.search(r"Romance\s+(10|[1-9])\b", t): fails.append(f"Targets: Romance must be 1–10: \"{t[:60]}\"")
+        if not re.search(r"Heat\s+[0-8]\b", t): fails.append(f"Targets: Heat must be 0–8: \"{t[:60]}\"")
+        if not re.search(r"Laughs\s+[013]\b", t): fails.append(f"Targets: Laughs is 0, 1 or 3: \"{t[:60]}\"")
+        if not re.search(r"Ends\s+(up|down|flat|button)\b", t, re.I): fails.append(f"Targets: Ends is up/down/flat/button: \"{t[:60]}\"")
+        if not re.search(r"Talk\s+(quiet|normal)\b", t, re.I): fails.append(f"Targets: Talk is quiet/normal: \"{t[:60]}\"")
+        if not re.search(r"Words\s+[\d,]{3,6}\b", t): fails.append(f"Targets: Words is a number: \"{t[:60]}\"")
+        if not re.search(r"Pays\s+\S", t): fails.append(f"Targets: Pays names who loses: \"{t[:60]}\"")
+
     # 5. ledger words
-    for s in prose + calls:
+    for s in [x for x in prose if not re.search(r"Romance\s+\d+\s*·", x)] + calls:
         m = LEDGER.search(s)
         if m:
             fails.append(f"ledger word on the card: '{m.group(0)}' in \"{s[:60]}…\"")

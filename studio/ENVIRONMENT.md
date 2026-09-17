@@ -63,6 +63,7 @@ bash studio/tools/accept-gate.sh <book> <ch>   # may this chapter be accepted?
 | `opening-sameness.py` | **Template drift** | Names no forbidden shape on purpose. Found that **53% of Book 1.2 opens `object-first`** — the tic that appeared *after* the calendar opening was banned. |
 | `pr-lint.py` | **Talking to the author like an engineer** | Taste entry 13 was the only entry with no check and the most repeats per week: *"don't be so clever," "too much to read," "reads like a list of things."* |
 | `card-lint.py` | **The card that reads like a ledger** | The card is the one document the author reads for every chapter and the one with the most repeated notes ("reads like a list," "too much to read," a 40-word sentence read aloud at the ch 20 audit). The rules lived in the showrunner's remit. Now the send is blocked. |
+| `targets-check.py` (in `accept-gate.sh`, from ch 21) | **A chapter with no definition of done** | Ch 20 counted twenty romance beats and the author read it as "a normal old book," a 2 or 3. Nothing had asked for a number before the draft. Now the card carries seven targets, the panel writes actuals, and a romance level two or more under target holds the chapter. |
 | `brief-gate.py` | **A drafter on an unaudited brief** | 2026-09-13: the audited ch 18 brief went to a stray file; two of three blind drafters worked from the unaudited copy. Drafter rule 8 was the fix, as an instruction. Now the launch is blocked. |
 
 ---
