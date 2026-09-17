@@ -184,6 +184,18 @@ orchestrator files it beside the author's number in the book's
 `notes/romance-levels.md`. A level two or more points under the
 author's is a finding against the count, not the chapter.
 
+**ACTUALS, machine-read (2026-09-17).** The card carries a Targets line
+set before the draft. End your PANEL VERDICT block with one line the
+gate reads, exactly this shape:
+
+    ACTUALS: romance 6 · heat 4 · laughs 2 · ends down
+
+romance = your level; heat = the highest CHARGE the page reaches
+(0–8); laughs = the fun inventory's count; ends = up/down/flat/
+button as the page lands. `studio/tools/targets-check.py` compares
+it with the card at the accept gate; a romance level two or more
+under target holds the chapter.
+
 ## Every scene, and the apart test (author, 2026-09-06)
 
 The count is per third; the author reads per scene. After the
