@@ -324,4 +324,8 @@ alcohol to convey different feelings throughout these books." A
 lead's default drink is furniture; a change of drink is a beat the
 page may use once a book to say a feeling without naming it (1.2:
 red wine in his house on New Year's Eve). Never a drunk scene between
-the leads; consent standards hold.
+the leads; consent standards hold. **AMENDED (author, #175, 2026-09-17):
+the register is never explained in dialogue — nobody says "beer again"
+or "the other one was yours"; the reader sees the drink and reads it.
+And Dan's beer is opened and rarely finished — "almost part of his
+thing" — furniture, unremarked.**
