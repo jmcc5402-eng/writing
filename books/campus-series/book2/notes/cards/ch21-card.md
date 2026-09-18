@@ -9,7 +9,7 @@ Romance 7 · Heat 5 · Laughs 1 · Ends up · Talk quiet · Words 3500 · Pays A
 **The plot.**
 
 Trey's next check on the annex bike, Missy in the hall with her
-notebook. Real progress, written down, and he is not cleared. Then she does the thing nobody asked. She starts the file
+notebook. Real progress, written down. Not cleared. Then she does the thing nobody asked. She starts the file
 a scout could read, his way back built through the hold. Missy
 watches her do it. The ice comes in behind them. The hill glazes by
 dark, the town shuts, and the RAV4 cannot get down Millrow. His truck

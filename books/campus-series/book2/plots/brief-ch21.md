@@ -160,7 +160,7 @@ his truck. She gets in.*
    four, eight, twelve). TREY IS ON THE BIKE AND NEVER SPEAKS, hood
    up, his back to her (ch13:111–118 — the precedent; STANDARDS R1;
    dossier-dan walls: "Trey is offstage absolutely"). The trainer at
-   the door (registry 78; ch20:229 "I'll be in the room"). MISSY IN
+   the door (registry 78; ch20:232 "I'll be in the room"). MISSY IN
    THE HALL on a chair from the office with the notebook on her knee
    (ch13:121–123 — the precedent). WHICH STEP: unestablished on any
    page past "Step four. Holds overnight." (ch16:447, Dec 18); the
