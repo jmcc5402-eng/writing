@@ -245,3 +245,12 @@ Still open:
   sections present, no ledger words, no markers. Cards before ch 18
   fail it (older format, no calls) — it governs going forward, not
   backward.
+- **F41 — targets before the chapter (author, 2026-09-17: "choose the
+  rank of the romance before the chapter's written, giving us a
+  definition of done").** LANDED the same day as environment, not a
+  rule: the card's Targets line (card-lint refuses a card without it),
+  the panel's ACTUALS line (1.5.6), `targets-check.py` in the accept
+  gate from ch 21, the pair recorded in `notes/targets.md`. Open: the
+  author's own number after reading goes in `notes/romance-levels.md`
+  by hand from the PR comment — a script that reads the PR comments
+  could do it.

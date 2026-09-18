@@ -101,7 +101,21 @@ the rule; 17 and 18 rewritten as a mom's-eye week, no plot); the
 portal's two faces; her feeling about Boyd; the boxes' work reason;
 sparkling water; never bitter; her history said. F11 planted.
 
-**Ch 20 DRAFTED (2026-09-17), PR open — the first chapter under the
+**Ch 20 ACCEPTED (#175, 2026-09-17) and FOLDED — the first chapter
+under the gates.** The author's three comments applied (B2-D25): the
+beer lines cut, the board's two whys, the dinner's glad half (romance
+level: author 2–3, panel 3 → re-leveled after the add). Keeper's page
+audit (E4): five one-line fixes applied. Open: the trainer's "Trey"
+(name map); the fourth call (she tells him about the offer); the
+targets-before-the-chapter set (B2-D25.5); the dog.
+
+**Then ch 21** — "Rides Home," Aisha; the ice storm (B2-D19; the day
+locked at the card, default Wednesday the 13th); Trey's re-eval on the
+annex bike with the trainer in the room; F12 (the return-to-play
+portfolio, Missy watching); the ride in the two-door truck; vaguepost
+2; her office in boxes since the 5th.
+
+**Was: Ch 20 DRAFTED (2026-09-17), PR open — the first chapter under the
 gates** (brief-gate, card-lint, prose-guard, accept-gate; chapter-proof
 filled on the brief). Panel PASS WITH FIXES, applied. Keeper's page
 audit at the fold. Open for the author: the fourth call (she tells him

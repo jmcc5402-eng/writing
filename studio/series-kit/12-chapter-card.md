@@ -39,6 +39,22 @@ to someone. The ch 16 card of campus 1.2 is the model
 
 # Where we are — Chapter NN of MM (week W of X)
 
+**Targets.**
+
+Romance 6 · Heat 4 · Laughs 1 · Ends down · Talk quiet · Words 3200 · Pays <name>
+
+<The definition of done, set BEFORE the draft (author, 2026-09-17:
+"choose the rank of the romance before the chapter's written"). One
+line, seven values. Romance 1–10 on the reader's scale (the book's
+`notes/romance-levels.md`); Heat 0–8 on the CHARGE scale (the ceiling
+the chapter may reach, never above standard 9); Laughs 0, 1 or 3;
+Ends up/down/flat/button; Talk quiet (8–15%) or normal; Words the
+prose budget; Pays who loses. The card lint refuses a card without
+it; the panel writes ACTUALS after it reads; `targets-check.py`
+compares them at the accept gate, and a romance level two or more
+under target holds the chapter. The author may change a target on
+the card at any time — with a word on why.>
+
 ## The plot
 <The one-sentence goal with its finish line. The price of the
 clock: what the date costs whom, in the reader's terms — money,

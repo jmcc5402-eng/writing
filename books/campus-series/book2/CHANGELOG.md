@@ -2,6 +2,37 @@
 
 Manuscript-affecting changes, newest first. (Hard rule 6.)
 
+## 2026-09-17 — ch 20 ACCEPTED (#175) and folded; the author's three comments applied (fold PR; B2-D25)
+
+- The author's comments, applied by the drafter: (1) the three "Beer
+  again" lines cut — the drinks set down and never spoken of; his beer
+  left after the second swallow, warm (the author's new furniture);
+  (2) the board's two whys at one in the morning — the old one in a
+  clause, the new one: he reads it for the football hidden in a
+  parent's question; (3) "Yes, make the change" — about forty lines of
+  the two of them glad in the dinner's first half (her chin on her
+  hand, "That's the first true thing you've said since I got here,"
+  the spoon in the air, her hand across the table and his over it,
+  held), the hall touch shortened to her hand on his wrist. The panel
+  re-leveled after.
+- The keeper's page audit (E4) — five one-line fixes applied by the
+  orchestrator: Boyd "was in his door" (not through it); the review
+  "priced in December, a review if they lost" (not "after the loss");
+  the dinner's foreknowledge at one o'clock cut ("If he saw her
+  tonight…"); the trainer says "7" (the name map — "Trey" in his mouth
+  is the author's call); "three hours ago" → "tonight." One volley the
+  add introduced cut ("In your own marker.").
+- Header to ACCEPTED. The fold: THREADS ch 20 entry (B2-T08 fought;
+  B2-T12 paid; B2-T14 his side; F9 priced on the page; Sonny's third
+  anchor; edges unchanged, 3 remain); the arc row; the dossiers; the
+  registry (seventeen rows); B2-D25; STATE. Studio: STANDARDS "Drinks
+  as register" amended; RECENT ban; panel 1.5.5 (the romance level);
+  `notes/romance-levels.md` started; AUTHOR-NOTES 213–215.
+- Lints on the final page: opening check PASS; 0 sentences over
+  thirty; fact check clean; dialogue 11.6%; AI-tells CV 0.53 (a hair
+  under the 0.55 floor — for the line editor); prose guard silent;
+  the accept gate PASS with the keeper's file on disk.
+
 ## 2026-09-17 — ch 20 DRAFTED: "Verbal Commitments" (Dan · Friday, January 8) — PR open; CONNECTING, one drafter; THE FIRST CHAPTER UNDER THE GATES
 
 FIRST DRAFT for the author's pass. Drafting-assistant, variance card D6

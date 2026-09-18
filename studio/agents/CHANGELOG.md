@@ -3,6 +3,27 @@
 Newest first. Every entry: version, what changed, and the evidence that
 drove it.
 
+## 2026-09-17 — the targets gate: romance-reader-panel 1.5.6 (the ACTUALS line); card-lint, accept-gate, targets-check.py
+
+The author: "choose the rank of the romance before the chapter's
+written, giving us a definition of done." The card gets a Targets line
+(seven values: romance, heat, laughs, ends, talk, words, pays), set
+before the draft; the card lint refuses a card without it; the panel
+ends its verdict with a machine-read ACTUALS line; `targets-check.py`
+compares them at the accept gate and holds a chapter whose romance
+level is two or more under target, and records the pair in the book's
+`notes/targets.md`. From ch 21. Evidence: ch 20 counted twenty beats
+and read as a 3; nothing had asked for a number beforehand.
+
+## 2026-09-17 — romance-reader-panel 1.5.5: the romance level, 1–10 (minor)
+
+After the count, a ROMANCE LEVEL on the reader's scale, one sentence
+why, and the two-point fix. Evidence: ch 20 — the count said twenty
+beats, all nine kinds, above the floor; the author said "two or three
+out of 10 … read like a normal old book"; the panel, asked blind for a
+level, said 3. The count and the level now travel together, and the
+author's number goes beside them in `notes/romance-levels.md`.
+
 ## 2026-09-17 — two gates: the card lint and the brief gate (hooks, not rules)
 
 `studio/tools/card-lint.py` (PreToolUse on SendUserFile) and

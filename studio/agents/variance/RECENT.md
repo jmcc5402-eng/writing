@@ -88,6 +88,10 @@ list in the agent's invocation as "banned moves this run."
   the leads; the POV lead's last scene thinks in plain sentences
   about the other lead and the thing they fear. The semantic-line
   habit is not a license to clip.
+- BANNED (author, #175, 2026-09-17, 1.2 ch 20 — "now we're being too on
+  the nose"): a character naming the drinks register aloud ("Beer
+  again." / "It's my drink. The other one was yours."). The register
+  is seen, never said; nobody explains a drink.
 - BANNED: giving every speaker a punchline; write one flat line for a
   named character and let it lie there.
 - QUOTA: three personifications per chapter, no more.

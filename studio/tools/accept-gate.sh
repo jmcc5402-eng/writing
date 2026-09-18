@@ -69,6 +69,17 @@ if [[ -f "$BOOKDIR/CHANGELOG.md" ]]; then
     || missing+=("CHANGELOG entry for today (hard rule 6) → ${BOOK}/CHANGELOG.md")
 fi
 
+# The definition of done, set on the card before the draft (author,
+# 2026-09-17): targets-check.py compares the card's Targets line with the
+# panel's ACTUALS line; the romance level two or more under target holds
+# the chapter. From ch 21 — ch 1–20 were accepted before the rule.
+TARGETS_FROM=21
+if (( 10#$CH >= TARGETS_FROM )) && [[ -f "$REPO/studio/tools/targets-check.py" ]]; then
+  tc="$(python3 "$REPO/studio/tools/targets-check.py" "$BOOKDIR" "$CH" --record 2>&1)" \
+    || missing+=("targets-check: $(grep -m1 -E 'FAIL|HOLD' <<<"$tc" | sed 's/^ *//')")
+  printf '%s\n' "$tc" | sed 's/^/  /'
+fi
+
 # ---- MECHANICAL CHECKS ------------------------------------------------
 lint_out=""
 if [[ -x "$REPO/studio/tools/chapter-lint.sh" ]]; then
