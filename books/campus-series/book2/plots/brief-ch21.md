@@ -366,6 +366,12 @@ rulebook); the two-door signal (registry 79; F7); the survey chalk
   once"; "one beat"; "plainly" more than once; the half smile (his
   view; not hers); any sentence quoted as an example in the audit
   addendum.
+- BANNED (the superfan's block read, 2026-09-18): "the first Wednesday
+  in February" (say "three weeks"); "in plain words, because that was
+  how she thought"; "timed and short and finished"; Verna's light "on
+  till eleven and never a word" (Verna at the window is seen, once, in
+  fresh words); no alone-under-a-lamp ending (this one is a MORNING,
+  on a thing); no Boyd doorway (he is absent).
 - ECHO REPLIES and volleys: findings anywhere.
 - `[TK ...]` only between beats.
 

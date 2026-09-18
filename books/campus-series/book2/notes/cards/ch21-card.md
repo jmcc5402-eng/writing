@@ -9,44 +9,42 @@ Romance 7 · Heat 5 · Laughs 1 · Ends up · Talk quiet · Words 3500 · Pays A
 **The plot.**
 
 Trey's next check on the annex bike, the trainer in the room, Missy
-in the hall with her notebook. Real progress, written down, nobody
-hurried, and he is not cleared. Then she does the thing nobody asked.
-She starts the file a scout could read, his way back built through
-the hold and not around it. Missy watches her do it. The ice comes in
-behind them. The hill glazes by dark, the town shuts, and the RAV4
-cannot get down Millrow. His truck can. He is the last one up the
-hill, and he drives whoever is left down: the trainer first, her
-last, to the motel, the truck in Verna's lot for the minutes it
-takes. Nobody broke the rule. Thursday morning the board says it
-anyway. Interesting who gets rides home from the facility these
-days. The two-door truck that cleared them in December is the one
-the county now puts her in.
+in the hall with her notebook. Real progress, written down, and he is
+not cleared. Then she does the thing nobody asked. She starts the file
+a scout could read, his way back built through the hold. Missy
+watches her do it. The ice comes in behind them. The hill glazes by
+dark, the town shuts, and the RAV4 cannot get down Millrow. His truck
+can. He is the last one up the hill. He drives the trainer down
+first, then her, to the motel, the truck in Verna's lot for the
+minutes it takes. Nobody broke the rule. Thursday morning the board
+says it anyway: interesting who gets rides home from the facility
+these days. The two-door truck that cleared them in December is the
+one the county now puts her in.
 
 **Aisha.**
 
 She builds the boy's future on her own evening because nobody else
-will, and Missy sees it. In the cab she keeps her hands to herself for
-the length of Millrow and does not want to. She reads the post at
-seven, knows the date is three weeks out, and holds.
+will, and Missy sees it. In the cab she keeps her hands to herself
+down the whole hill and does not want to. She reads the post at
+seven and holds.
 
 **Dan.**
 
-Seen from her side. The last one up the hill with a truck that can do
-the road. He drives the trainer home first without being asked. In
-the lot he does not get out. He says the date.
+The last one up the hill with a truck that can do the road. He
+drives the trainer home first without being asked. In the lot he does
+not get out. He says the date.
 
 **The romance.**
 
-The weather forces a thing the terms never allowed: her in his truck
-where the town can see. No stranded night, no power out, no rescue.
-Hope is the engine. After signing day, three weeks. The reader knows
-a photo already exists.
+The weather forces the one thing the terms never allowed: her in his
+truck where the town can see. No stranded night, no rescue. Hope is
+the engine. After signing day, three weeks.
 
 **The town, the clock.**
 
-Verna at her window and never a word. Verna gets the line: healing is
-the one thing in this county that won't hurry for football. The
-window shuts tomorrow. Ends up, on hope.
+Verna at her window. Verna gets the line: healing is the one thing in
+this county that won't hurry for football. The window shuts tomorrow.
+Ends up, on hope.
 
 **Your calls.**
 

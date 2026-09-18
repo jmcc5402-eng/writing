@@ -15,18 +15,20 @@ group about · **10** she stayed up. The density survey's CHARGE scale
 (0–8, `../notes/romance-density-survey-2026-09-14.md` l.50) is one
 input, not the answer.
 
-| Ch | Author | Panel | Panel's one sentence | What would have moved it two points (panel) |
-|---|---|---|---|---|
-| 17 | — | 9 | She stayed up: the window, her palm on his neck, the quarter-zip on the floor (CHARGE 8). | One warm line of him in her head at the meal-train counter, so the wait is part of the heat. |
-| 18 | — | 8 | Five nights in pictures, the beard, "I cleaned like you were," the hand on the jaw (CHARGE 8). | Monday or Tuesday night played as a scene instead of a three-line diary entry. |
-| 19 | — | 6 | She never forgets the book: "Where do you want me," the tape gun turned on purpose (CHARGE 4, never 5). | Her body in the boxes scene — what it cost her to stand a box-width from him; a want for him at the Mule's rail. |
-| 20 | **2–3** (before the add) | **3 → 6** (after the glad half, 2026-09-17) | Before: a normal book with a couple in it — the dinner a rule kept, not a night had. After: she never forgets the book and would text the group "Your spoon's been in the air since Wednesday"; the wall now takes a thing the page gave (his hand over hers, then "he felt it go"). Not 7: after the silence the hand never comes back, and it is still three Boyd pages for every dinner page. | Done: the glad half (author, "Yes, make the change"). Next two points: one of them puts a hand back on the wood after the silence and it stays through "It's Wednesday's." |
+| Ch | Author | Panel | Superfan (blind, 2026-09-18) | Panel's one sentence | What would have moved it two points (panel) |
+|---|---|---|---|---|---|
+| 17 | — | 9 | 9 | She stayed up: the window, her palm on his neck, the quarter-zip on the floor (CHARGE 8). | One warm line of him in her head at the meal-train counter, so the wait is part of the heat. |
+| 18 | — | 8 | 9 | Five nights in pictures, the beard, "I cleaned like you were," the hand on the jaw (CHARGE 8). | Monday or Tuesday night played as a scene instead of a three-line diary entry. |
+| 19 | — | 6 | 6 | She never forgets the book: "Where do you want me," the tape gun turned on purpose (CHARGE 4, never 5). | Her body in the boxes scene — what it cost her to stand a box-width from him; a want for him at the Mule's rail. |
+| 20 | **2–3** (before the add) | **3 → 6** (after the glad half, 2026-09-17) | 5 (after the add: "she leaves without a kiss and the hand never comes back") | Before: a normal book with a couple in it — the dinner a rule kept, not a night had. After: she never forgets the book and would text the group "Your spoon's been in the air since Wednesday"; the wall now takes a thing the page gave (his hand over hers, then "he felt it go"). Not 7: after the silence the hand never comes back, and it is still three Boyd pages for every dinner page. | Done: the glad half (author, "Yes, make the change"). Next two points: one of them puts a hand back on the wood after the silence and it stays through "It's Wednesday's." |
 
 **What the count is blind to (panel, 2026-09-17):** the count asks
 whether she is in his head; the level asks whether his body is in
 trouble and whether they enjoyed each other. Ch 20 has twenty
 references and one pulse, and a stool, a text and a chest strap each
 score the same as a hand held.
+
+**Two readers, blind to each other (2026-09-18):** panel 9, 8, 6, 6; superfan 9, 9, 6, 5. The only gap is ch 20, one point, and both name the same fix (a hand back on the wood after the silence).
 
 **The first calibration point (ch 20):** the author's 2–3 and the panel's blind 3 agreed; the panel's fix moved the page to 6 by its own re-read. The author's number after the add is owed.
 
