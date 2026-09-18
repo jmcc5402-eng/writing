@@ -8,9 +8,8 @@ Romance 7 · Heat 5 · Laughs 1 · Ends up · Talk quiet · Words 3500 · Pays A
 
 **The plot.**
 
-Trey's next check on the annex bike, the trainer in the room, Missy
-in the hall with her notebook. Real progress, written down, and he is
-not cleared. Then she does the thing nobody asked. She starts the file
+Trey's next check on the annex bike, Missy in the hall with her
+notebook. Real progress, written down, and he is not cleared. Then she does the thing nobody asked. She starts the file
 a scout could read, his way back built through the hold. Missy
 watches her do it. The ice comes in behind them. The hill glazes by
 dark, the town shuts, and the RAV4 cannot get down Millrow. His truck
@@ -18,8 +17,8 @@ can. He is the last one up the hill. He drives the trainer down
 first, then her, to the motel, the truck in Verna's lot for the
 minutes it takes. Nobody broke the rule. Thursday morning the board
 says it anyway: interesting who gets rides home from the facility
-these days. The two-door truck that cleared them in December is the
-one the county now puts her in.
+these days. The two-door truck that cleared them in December now
+puts her in it.
 
 **Aisha.**
 
@@ -31,8 +30,8 @@ seven and holds.
 **Dan.**
 
 The last one up the hill with a truck that can do the road. He
-drives the trainer home first without being asked. In the lot he does
-not get out. He says the date.
+drives the trainer home first, unasked. In the lot he does not get
+out. He says the date.
 
 **The romance.**
 
@@ -49,5 +48,5 @@ Ends up, on hope.
 **Your calls.**
 
 1. The storm is Wednesday the thirteenth into Thursday, or you move it a day.
-2. The trainer rides down first and she is alone in the cab for the last minute, or she is never alone in it and the post is aimed anyway.
-3. Verna is at her window when the truck stops, or the lot is dark and somebody on the square saw it.
+2. The trainer rides down first and she is alone in the cab for the last minute, or she is never alone in it.
+3. Verna is at her window when the truck stops, or somebody on the square saw it.
