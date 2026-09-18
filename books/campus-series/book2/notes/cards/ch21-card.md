@@ -41,8 +41,8 @@ the engine. After signing day, three weeks.
 
 **The town, the clock.**
 
-Verna at her window. Verna gets the line: healing is the one thing in
-this county that won't hurry for football. The window shuts tomorrow.
+Verna at her window, with the line: healing is the one thing in this
+county that won't hurry for football. The window shuts tomorrow.
 Ends up, on hope.
 
 **Your calls.**
