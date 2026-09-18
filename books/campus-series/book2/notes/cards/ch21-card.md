@@ -16,8 +16,8 @@ dark, the town shuts, and the RAV4 cannot get down Millrow. His truck
 can. He is the last one up the hill. He drives the trainer down
 first, then her, to the motel, the truck in Verna's lot for the
 minutes it takes. Nobody broke the rule. Thursday morning the board
-says it anyway: interesting who gets rides home from the facility
-these days. The two-door truck that cleared them in December now
+says it anyway: interesting to see who gets rides home from the
+facility these days. The two-door truck that cleared them in December now
 puts her in it.
 
 **Aisha.**
@@ -25,12 +25,12 @@ puts her in it.
 She builds the boy's future on her own evening because nobody else
 will, and Missy sees it. In the cab she keeps her hands to herself
 down the whole hill and does not want to. She reads the post at
-seven and holds.
+six and holds.
 
 **Dan.**
 
 The last one up the hill with a truck that can do the road. He
-drives the trainer home first, unasked. In the lot he does not get
+drives the trainer down first, unasked. In the lot he does not get
 out. He says the date.
 
 **The romance.**
