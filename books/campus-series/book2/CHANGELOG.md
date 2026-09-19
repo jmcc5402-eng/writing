@@ -2,6 +2,28 @@
 
 Manuscript-affecting changes, newest first. (Hard rule 6.)
 
+## 2026-09-19 — ch 21 "Rides Home" drafted: three blind candidates, C wins (chapter PR)
+
+- The first set piece under the matrix (`canon/TARGETS.md` row 21:
+  Romance 7 · Heat 5 · Aisha 2 · Dan 1 · Wound 2 · Fun 1 · Town 2 ·
+  Menace 0 · Ends up · Talk quiet · Words 3500 · Pays Aisha). The row
+  rode in every drafter's prompt (the brief gate held the launch to
+  it); three blind panel reads each landed it exactly — romance 7 ·
+  heat 5 · laughs 1 · ends up, three times.
+- The scoreboard (`notes/ch21-scoreboard-2026-09-19.md`): C (D3,
+  short declarative) wins on the cab — the longest, the most inside
+  her, the best laugh, nine sentences of approach to the hand. A (D2)
+  under the cab floor and ending on ch 20's chair; B (D5) reruns ch 13
+  and mirrors ch 20's last section three times.
+- Applied to the winner at the scoreboard: the panel's five asks (the
+  trainer's question shown; "nights" at the last line; two ch 13
+  verbatims re-said; the list of his acts cut to one; nine placed as
+  her room at the Magnolia Court); the lint's repetition runs.
+- B2-D25.6 ruled: the trainer says "7," never "Trey" (the author
+  handed the call to the showrunner). A and B's best lines banked.
+- Keeper page audit (E1) and the development score (E3) — see the
+  chapter PR for what they found and what was applied.
+
 ## 2026-09-17 — ch 20 ACCEPTED (#175) and folded; the author's three comments applied (fold PR; B2-D25)
 
 - The author's comments, applied by the drafter: (1) the three "Beer
