@@ -358,9 +358,9 @@ Aloud with the trainer in the cab: "Coach" / "Doc" (Dan's sole
 use of "Doc" — NAMES.md). Alone in the lot: "Dan," allowed, once,
 NOT the one-word "Dan." line (ch 19, spent). Trey: "Trey" / "Trey
 Gault" in HER POV narration and to Missy (RECENT's full list — she is
-the doctor, she uses his name); the trainer says "7" or "the boy"
-(NAMES.md — "Trey" in the trainer's mouth is the author's open call,
-B2-D25.6; do not spend it). Missy: "Missy" / "Missy Gault"; Denny by
+the doctor, she uses his name); the trainer says "7" (or "the boy"
+once), NEVER "Trey" — RULED, B2-D25.6, locked 2026-09-19; he says
+"7" in Missy's hearing and the page does not remark on it. Missy: "Missy" / "Missy Gault"; Denny by
 name if mentioned (at work). The trainer: "the trainer" (`[TK name —
 none on any page]`). Verna: "Verna" / "Verna Poteat" once. The
 athletic director: never "the AD"; on no page today. The scouts: "a
@@ -490,7 +490,7 @@ BUILD CHECK: PASS — row 21 In 4 / Out 4, no spend; the brief spends nothing. H
 21. **Who is in the buildings — RULING.** No practice (ch20:240–243); thirty-four's rehab on no January page; the kid of B2-D19.2 dropped under D19.5's default — legal; say once nobody else is in either building.
 22. **The cab — CONFIRMED NEW.** Two doors (ch12:461–462, 474; registry 79); the inside on no page — a bench, the heater, the dash light, his glove, the tracks in the gravel are NEW (registry at the fold). Three across needs the bench said (taste 10). The square and the motel are both at the bottom (ch18:31; ch12:92); the distance between them on no page — "the last minute" legal.
 23. **The opening candidates — CONFIRMED.** Accepted openings: 13 the trowel, 14 the printer, 15 the pen, 16 the ice chest, 17 the RAV4, 18 the keys, 19 the stool, 20 Sonny's twenty. None is a chair, a chest strap or a sky. The chest strap (ch20:247; ch13:115) and the chair in a boxed office (ch20:350) are consistent.
-24. **Naming — CONFIRMED, one registry wobble.** "7" in the trainer's mouth (ch20:232; B2-D25.6 open). "Doc": NAMES.md gives it to Dan alone, but Sonny says it on three accepted pages (ch03:50; ch07:181; ch13:75) and Tick on air (ch08:208) — pre-existing drift for the registry, not this chapter's; the trainer says "the doctor" (ch20:232). "Trey" in her narration and to Missy; Missy "Trey"; never "the boy" in her POV.
+24. **Naming — CONFIRMED, one registry wobble.** "7" in the trainer's mouth (ch20:232; B2-D25.6 — RULED 2026-09-19: "7", never "Trey"). "Doc": NAMES.md gives it to Dan alone, but Sonny says it on three accepted pages (ch03:50; ch07:181; ch13:75) and Tick on air (ch08:208) — pre-existing drift for the registry, not this chapter's; the trainer says "the doctor" (ch20:232). "Trey" in her narration and to Missy; Missy "Trey"; never "the boy" in her POV.
 25. **Ending — CONFIRMED.** Ch 20 down on the chair; 21 up; a morning on a thing at room nine satisfies today's ban and STYLE (c).
 26. **Furniture — cites corrected in the body:** ch20:229→232; ch20:308–310→350–351; ch20:12–14→16–18; ch12:52–53→192–193; ch13:121–123→123–125; ch13:147–153→147–153; ch13:177–178→172–173; the annex's place → ch16:215–217, ch17:59–64. Edges: 7 spent, 3 remain.
 27. **Long sentences.** Card: none at thirty. Brief: the stranger's sentence, 32 (item 11).

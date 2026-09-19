@@ -686,8 +686,14 @@ Defaults taken as recommended:
    1–10; heat ceiling 0–8; laughs (0/1/3); ending register; talk band;
    word budget; who pays. The card carries the block; the card lint
    checks it; the panel scores against it.
-6. **Open, the author's call:** the trainer says "Trey" or not
-   (NAMES.md gives the name to narration, his parents, the doctor, and
-   Dan in private; the page uses "7" in the trainer's mouth for now).
+6. **RULED (the author handed the call to the showrunner, 2026-09-19;
+   locked): the trainer says "7," never "Trey."** The name belongs to
+   the doctor and his parents; the building counts him. The trainer
+   is the building's man — he already says "7" on an accepted page
+   (ch20:232), and keeping the name out of his mouth keeps the ch 30
+   letterhead ("Trey's spring clearance") hers alone. "The boy" is
+   allowed him once. In ch 21 he says "7" in Missy's hearing, and the
+   page does not remark on it. NAMES.md row updated; RECENT's full
+   list updated.
    The fourth call from #175 (she tells him about Boyd's offer) is
    still not ruled; she does not, on this page.
