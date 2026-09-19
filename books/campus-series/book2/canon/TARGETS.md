@@ -36,26 +36,26 @@ map (`BEATS.md`), for the author to edit.
 
 | Ch | POV | Romance | Heat | Aisha | Dan | Wound | Fun | Town | Menace | Ends | Talk | Words | Pays |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | A | 3 | 1 | 1 | 1 | · | 1 | 3 | 1 | up | normal | 2461 | Aisha |
-| 2 | D | 4 | 2 | 1 | 1 | · | 1 | 2 | 1 | flat | quiet | 2779 | Dan |
-| 3 | A | 5 | 2 | 2 | 1 | · | 1 | 3 | 0 | flat | quiet | 2674 | Aisha |
-| 4 | D | 6 | 3 | 1 | 2 | · | 3 | 3 | 1 | up | normal | 2658 | Dan |
-| 5 | A | 6 | 3 | 2 | 1 | · | 1 | 2 | 1 | down | normal | 2639 | Aisha |
-| 6 | D | 5 | 2 | 1 | 2 | · | 3 | 3 | 1 | flat | normal | 3122 | Dan |
-| 7 | A | 6 | 4 | 2 | 1 | · | 3 | 3 | 1 | up | normal | 2928 | Aisha |
-| 8 | D | 7 | 4 | 2 | 2 | · | 1 | 3 | 2 | flat | quiet | 3129 | Dan |
-| 9 | A | 5 | 2 | 2 | 0 | · | 1 | 2 | 1 | flat | normal | 3698 | Aisha |
-| 10 | D | 5 | 3 | 2 | 2 | · | 1 | 2 | 3 | flat | normal | 3356 | Dan |
-| 11 | A | 7 | 4 | 2 | 1 | · | 3 | 3 | 0 | down | normal | 3241 | Aisha |
-| 12 | D | 6 | 3 | 1 | 2 | · | 1 | 3 | 1 | flat | quiet | 3268 | Dan |
-| 13 | A | 7 | 4 | 2 | 2 | · | 1 | 2 | 1 | flat | quiet | 2969 | Aisha |
-| 14 | D | 8 | 5 | 2 | 2 | · | 1 | 2 | 1 | up | normal | 3165 | Dan |
-| 15 | A | 9 | 6 | 3 | 2 | · | 1 | 2 | 0 | up | normal | 3008 | Aisha |
-| 16 | D | 8 | 5 | 1 | 2 | · | 1 | 3 | 2 | down | quiet | 3907 | Dan |
-| 17 | A | 9 | 8 | 2 | 1 | · | 1 | 3 | 0 | up | quiet | 4596 | Aisha |
-| 18 | D | 8 | 8 | 1 | 2 | · | 3 | 2 | 1 | up | normal | 6104 | Dan |
-| 19 | A | 6 | 4 | 2 | 2 | · | 1 | 2 | 2 | flat | quiet | 4809 | Aisha |
-| 20 | D | 6 | 5 | 2 | 2 | · | 3 | 2 | 2 | down | quiet | 4121 | Dan |
+| 1 | A | 3 | 1 | 1 | 1 | 1 | 1 | 3 | 0 | up | normal | 2461 | Aisha |
+| 2 | D | 4 | 2 | 1 | 1 | 1 | 1 | 2 | 1 | flat | quiet | 2779 | Dan |
+| 3 | A | 5 | 2 | 2 | 1 | 1 | 1 | 3 | 0 | flat | quiet | 2674 | Aisha |
+| 4 | D | 6 | 3 | 1 | 2 | 2 | 3 | 2 | 0 | up | normal | 2658 | Dan |
+| 5 | A | 6 | 3 | 2 | 1 | 2 | 1 | 3 | 0 | down | normal | 2639 | Aisha |
+| 6 | D | 5 | 2 | 1 | 2 | 1 | 3 | 3 | 0 | flat | normal | 3122 | Dan |
+| 7 | A | 6 | 4 | 2 | 1 | 2 | 3 | 3 | 1 | up | normal | 2928 | Aisha |
+| 8 | D | 7 | 4 | 2 | 2 | 3 | 1 | 3 | 2 | flat | quiet | 3129 | Dan |
+| 9 | A | 5 | 2 | 2 | 0 | 2 | 1 | 2 | 0 | flat | normal | 3698 | Aisha |
+| 10 | D | 5 | 3 | 2 | 2 | 3 | 1 | 2 | 3 | flat | normal | 3356 | Dan |
+| 11 | A | 7 | 4 | 2 | 1 | 2 | 3 | 2 | 1 | down | normal | 3241 | Aisha |
+| 12 | D | 6 | 3 | 1 | 2 | 2 | 1 | 3 | 0 | flat | quiet | 3268 | Dan |
+| 13 | A | 7 | 4 | 2 | 2 | 1 | 1 | 2 | 1 | flat | quiet | 2969 | Aisha |
+| 14 | D | 8 | 5 | 2 | 2 | 3 | 1 | 3 | 1 | up | normal | 3165 | Dan |
+| 15 | A | 9 | 6 | 3 | 2 | 3 | 1 | 2 | 1 | up | normal | 3008 | Aisha |
+| 16 | D | 8 | 5 | 1 | 2 | 2 | 1 | 3 | 2 | down | quiet | 3907 | Dan |
+| 17 | A | 9 | 8 | 2 | 1 | 2 | 1 | 2 | 1 | up | quiet | 4596 | Aisha |
+| 18 | D | 8 | 8 | 1 | 2 | 2 | 3 | 2 | 1 | up | normal | 6104 | Dan |
+| 19 | A | 6 | 4 | 2 | 2 | 2 | 1 | 2 | 3 | flat | quiet | 4809 | Aisha |
+| 20 | D | 6 | 5 | 2 | 2 | 2 | 3 | 2 | 3 | down | quiet | 4121 | Dan |
 | 21 | A | 7 | 5 | 2 | 1 | 2 | 1 | 2 | 0 | up | quiet | 3500 | Aisha |
 | 22 | D | 5 | 2 | 1 | 2 | 1 | 1 | 3 | 2 | flat | normal | 3200 | Dan |
 | 23 | A | 6 | 3 | 2 | 1 | 3 | 0 | 3 | 3 | down | normal | 3400 | Aisha |
@@ -67,11 +67,14 @@ map (`BEATS.md`), for the author to edit.
 | 29 | A | 9 | 6 | 3 | 3 | 1 | 1 | 2 | 0 | up | quiet | 3400 | Boyd |
 | 30 | D | 10 | 7 | 2 | 2 | 0 | 3 | 3 | 1 | up | normal | 3000 | nobody |
 
-Cells marked `·` in rows 1–20 are filled by the developmental
-editor's backfill (2026-09-19) when it lands; the heat, fun, town and
-menace cells in rows 1–20 are the showrunner's reading of the
-accepted pages pending the readers' numbers, and the readers'
-numbers replace them.
+Rows 1–20: romance from the panel (2026-09-19); development, wound,
+town and menace from the developmental editor (2026-09-19, with an
+evidence line each in `notes/scores/`); heat and fun are the
+showrunner's reading of the accepted pages pending the panel's
+numbers (the panel scores them on any re-read). The editor's note on
+the baseline: Boyd is absent, not glimpsed, at 1, 3–6, 9 and 12; the
+town stops acting on the story after 16 (four chapters at 2), so 21
+and 22 are where it has to act again.
 
 ## The shape the plan draws (rows 21–30)
 
