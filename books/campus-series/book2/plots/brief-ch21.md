@@ -8,8 +8,9 @@ once the author says go. A brief without its audit addendum is not a
 brief (drafter rule 8; the brief gate on the launch).
 
 **TARGETS (the definition of done, set before the draft — B2-D25.5):**
-Romance 7 · Heat 5 · Laughs 1 · Ends up · Talk quiet · Words 3500 ·
-Pays Aisha. The panel scores actuals against these; a romance level
+Romance 7 · Heat 5 · Aisha 2 · Dan 1 · Wound 2 · Fun 1 · Town 2 ·
+Menace 0 · Ends up · Talk quiet · Words 3500 · Pays Aisha (the
+`canon/TARGETS.md` row 21, copied). The panel scores actuals against these; a romance level
 two or more under 7 holds the chapter (`targets-check.py`). Heat 5 is
 a ceiling: a deliberate touch with no errand, in the cab, and nothing
 past it.

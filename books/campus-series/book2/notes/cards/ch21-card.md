@@ -4,7 +4,7 @@ Aisha, Wednesday the thirteenth of January. Three blind drafters.
 
 **Targets.**
 
-Romance 7 · Heat 5 · Laughs 1 · Ends up · Talk quiet · Words 3500 · Pays Aisha
+Romance 7 · Heat 5 · Aisha 2 · Dan 1 · Wound 2 · Fun 1 · Town 2 · Menace 0 · Ends up · Talk quiet · Words 3500 · Pays Aisha
 
 **The plot.**
 
