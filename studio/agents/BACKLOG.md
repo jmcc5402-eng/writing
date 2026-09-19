@@ -268,3 +268,9 @@ Still open:
   makes the file required, the roll-up mechanical, and the flags
   (a lead at 0 three chapters running; a level two or more under
   target) printed.
+- **F44 — the matrix viewed before and after (author, 2026-09-19).**
+  LANDED as environment: `matrix-strip.py` at session start (the
+  chapter in progress); the brief gate refuses a drafter whose prompt
+  lacks the row; the card lint refuses a card whose line differs; the
+  PR lint refuses a [CHAPTER] PR without the row and a [FOLD] PR
+  without plan → actual; the accept gate runs targets-check.
