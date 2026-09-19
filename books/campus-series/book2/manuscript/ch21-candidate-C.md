@@ -379,8 +379,8 @@ and then I'm going back up that hill."
 She took her hand back.
 She did not thank him for the ride, and he had not driven her for that.
 She opened the door on the trainer's side and slid across the bench
-and got down into the gravel,
-and the cold took the heat off her face in a second.
+and got down into the gravel.
+The cold took the heat off her face in a second.
 She shut the truck's door.
 The door of nine was six steps.
 Verna Poteat was inside the office window with the blind up
@@ -414,8 +414,8 @@ The RAV4 was up the hill at the warm end of the annex
 with the ice still on it.
 The space in front of nine was empty.
 When Verna's office light came on at a quarter past six,
-it lit an empty space,
-and that was a thing this county could read as well as it read anything.
+it lit an empty space.
+That was a thing this county could read as well as it read anything.
 
 She read the board at six with the tablet at arm's length on the bed.
 It was mothers in other states, mostly, and the ice.
