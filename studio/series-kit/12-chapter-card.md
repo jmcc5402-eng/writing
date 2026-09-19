@@ -41,7 +41,10 @@ to someone. The ch 16 card of campus 1.2 is the model
 
 **Targets.**
 
-Romance 6 · Heat 4 · Laughs 1 · Ends down · Talk quiet · Words 3200 · Pays <name>
+Romance 6 · Heat 4 · Aisha 2 · Dan 1 · Wound 2 · Fun 1 · Town 2 · Menace 1 · Ends down · Talk quiet · Words 3200 · Pays <name>
+
+<Copied from the book's `canon/TARGETS.md` row for this chapter — the
+matrix is the source; the card lint refuses a line that differs.>
 
 <The definition of done, set BEFORE the draft (author, 2026-09-17:
 "choose the rank of the romance before the chapter's written"). One

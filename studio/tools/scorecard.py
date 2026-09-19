@@ -65,8 +65,15 @@ def main() -> int:
             mm = re.search(r"\d+(?:–\d+)?", cell)
             author[int(m.group(1))] = mm.group(0) if mm else "—"
 
-    # the card's target
-    target = {}
+    # the plan: canon/TARGETS.md (the matrix), else the card's line
+    plan = {}
+    tp = os.path.join(book, "canon", "TARGETS.md")
+    if os.path.isfile(tp):
+        for line in read(tp).splitlines():
+            cells = [c.strip() for c in line.strip().strip("|").split("|")]
+            if len(cells) >= 14 and cells[0].isdigit():
+                plan[int(cells[0])] = dict(zip(["ch","pov","romance","heat","aisha","dan","wound","fun","town","menace","ends","talk","words","pays"], cells[:14]))
+    target = {n: int(v["romance"]) for n, v in plan.items() if v["romance"].isdigit() and n >= 21}
     for p in glob.glob(os.path.join(notes, "cards", "ch*-card.md")):
         n = int(re.search(r"ch(\d+)", os.path.basename(p)).group(1))
         m = T_RE.search(read(p))
@@ -102,25 +109,27 @@ def main() -> int:
         out.append("## Flags\n")
         out += [f"- {f}" for f in flags]
         out.append("")
-    hdr = "| Ch | Romance author / panel / target | " + " | ".join(leads) + " | Plan | Evidence |"
+    hdr = "| Ch | Romance author / panel / plan | " + " | ".join(f"{l} actual / plan" for l in leads) + " | Wound | Town | Menace | Plan | Evidence |"
     out.append("## The table\n")
     out.append(hdr)
     out.append("|" + "---|" * (hdr.count("|") - 1))
     for n in sorted(set(scores) | set(accepted)):
         r = scores.get(n)
         if not r:
-            out.append(f"| {n} | {author.get(n, '—')} / — / {target.get(n, '—')} | " + " | ".join("—" for _ in leads) + " | — | no score file |")
+            out.append(f"| {n} | {author.get(n, '—')} / — / {target.get(n, '—')} | " + " | ".join("—" for _ in leads) + " | — | — | — | — | no score file |")
             continue
         cells = []
         ev = []
+        pl = plan.get(n, {})
         for lead in leads:
             v = r["leads"].get(lead)
-            cells.append(str(v[0]) if v else "—")
+            cells.append((str(v[0]) if v else "—") + (f" / {pl.get(lead.lower(), '—')}" if pl and n >= 21 else ""))
             if v and v[1]:
                 ev.append(f"{lead}: {v[1]}")
         rom = f"{author.get(n, '—')} / {r['romance'] if r['romance'] is not None else '—'} / {target.get(n, '—')}"
+        wtm = " | ".join(str(r['leads'].get(k, ('—',''))[0]) if r['leads'].get(k) else (pl.get(k.lower(), '—') if pl else '—') for k in ("WOUND", "TOWN", "MENACE"))
         evidence = (r["romance_why"] + (" · " if r["romance_why"] and ev else "") + " · ".join(ev)).replace("|", "/")
-        out.append(f"| {n} | {rom} | " + " | ".join(cells) + f" | {r['plan'].replace('|', '/')} | {evidence} |")
+        out.append(f"| {n} | {rom} | " + " | ".join(cells) + f" | {wtm} | {r['plan'].replace('|', '/')} | {evidence} |")
     dst = os.path.join(notes, "SCORECARD.md")
     open(dst, "w", encoding="utf-8").write("\n".join(out) + "\n")
     print(f"scorecard: {len(scores)} chapters scored, {len(accepted)} accepted, {len(flags)} flag(s) → {os.path.relpath(dst)}")

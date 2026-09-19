@@ -14,6 +14,14 @@ chapter." Before this, the romance level existed from ch 17 on
 the dossiers said what each chapter *owed* a lead, and no one said
 whether it paid.
 
+## The matrix
+
+The plan lives in the book's `canon/TARGETS.md` — one row per chapter,
+all thirty, every column below, set before the chapter is drafted. The
+card's Targets line is that row copied (the card lint refuses a card
+whose line differs). This skill produces the ACTUALS for the same
+columns; `scorecard.py` puts them side by side.
+
 ## The scores
 
 **ROMANCE LEVEL, 1–10** (the reader's scale, `notes/romance-levels.md`):
@@ -63,6 +71,9 @@ that earns it, with its line number — or the number is not a score.
    ROMANCE: 6 — <one sentence> (panel)
    AISHA: 2 — <the line, l.NNN> (developmental-editor)
    DAN: 1 — <the line, l.NNN> (developmental-editor)
+   WOUND: 2 (Aisha) — <the line, l.NNN> (developmental-editor)
+   TOWN: 2 — <the line, l.NNN> (developmental-editor)
+   MENACE: 1 — <the line, l.NNN> (developmental-editor)
    PLAN: Aisha <matched|under|over> the dossier's row; Dan <…>
    ```
 4. Run `python3 studio/tools/scorecard.py books/<book>` — it rolls every

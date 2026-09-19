@@ -39,6 +39,30 @@ MAX_CALL = 40
 LEDGER = re.compile(r"\b(B2-T\d+|F\d{1,2}\b|S\d{2}\b|SC\d\b|rung|dossier|arc-docs|THREADS|romance-arc|boyd-arc)\b", re.I)
 
 
+def norm(s: str) -> str:
+    s = s.replace("Laughs", "Fun")
+    return re.sub(r"\s+", " ", s.replace(",", "")).strip().lower()
+
+
+def matrix_row(card_path: str) -> str:
+    """The canon/TARGETS.md row for this card's chapter, as a Targets line, or ''."""
+    m = re.search(r"ch(\d+)-card\.md$", card_path)
+    if not m:
+        return ""
+    n = int(m.group(1))
+    book = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(card_path))))
+    tp = os.path.join(book, "canon", "TARGETS.md")
+    if not os.path.isfile(tp):
+        return ""
+    for line in open(tp, encoding="utf-8"):
+        cells = [c.strip() for c in line.strip().strip("|").split("|")]
+        if len(cells) >= 14 and cells[0] == str(n):
+            ch, pov, rom, heat, ai, dan, wound, fun, town, men, ends, talk, words, pays = cells[:14]
+            return (f"Romance {rom} · Heat {heat} · Aisha {ai} · Dan {dan} · Wound {wound} · Fun {fun} · "
+                    f"Town {town} · Menace {men} · Ends {ends} · Talk {talk} · Words {words} · Pays {pays}")
+    return ""
+
+
 def sentences(text: str) -> list[str]:
     text = re.sub(r"\s+", " ", text)
     return [s.strip() for s in re.split(r"(?<=[.!?])\s+", text) if s.strip()]
@@ -69,7 +93,8 @@ def lint(path: str) -> tuple[list[str], list[str]]:
             labels.append(m.group(1).rstrip(".").lower())
             in_calls = m.group(1).lower().startswith("your calls")
             continue
-        body_words += len(s.split())
+        if not re.search(r"Romance\s+\d+\s*·", s):   # the targets row is data, not prose
+            body_words += len(s.split())
         if in_calls:
             if not re.match(r"^\d+\. ", s):
                 fails.append(f"l.{i}: a call that is not a numbered one-liner: \"{s[:60]}\"")
@@ -119,13 +144,19 @@ def lint(path: str) -> tuple[list[str], list[str]]:
 
     # 7. the targets line (the definition of done, set before the draft)
     tline = [s for s in prose if re.search(r"Romance\s+\d+\s*·\s*Heat\s+\d+", s)]
+    # the matrix (canon/TARGETS.md) is the source: the card's line must be its row
+    mrow = matrix_row(path)
+    if tline and mrow and norm(tline[0]) != norm(mrow):
+        fails.append(f"Targets line differs from canon/TARGETS.md row — change the matrix (with a word on why) or the card: matrix says '{mrow}'")
     if not any(l.startswith("targets") for l in labels) or not tline:
         fails.append("no **Targets.** line — 'Romance N · Heat N · Laughs N · Ends X · Talk X · Words N · Pays X' (the definition of done, set before the draft; targets-check.py reads it)")
     else:
         t = tline[0]
         if not re.search(r"Romance\s+(10|[1-9])\b", t): fails.append(f"Targets: Romance must be 1–10: \"{t[:60]}\"")
         if not re.search(r"Heat\s+[0-8]\b", t): fails.append(f"Targets: Heat must be 0–8: \"{t[:60]}\"")
-        if not re.search(r"Laughs\s+[013]\b", t): fails.append(f"Targets: Laughs is 0, 1 or 3: \"{t[:60]}\"")
+        if not re.search(r"(Laughs|Fun)\s+[013]\b", t): fails.append(f"Targets: Fun is 0, 1 or 3: \"{t[:60]}\"")
+        for k in ("Aisha", "Dan", "Wound", "Town", "Menace"):
+            if mrow and not re.search(rf"{k}\s+[0-3]\b", t): fails.append(f"Targets: {k} 0–3 is on the matrix row and missing from the card")
         if not re.search(r"Ends\s+(up|down|flat|button)\b", t, re.I): fails.append(f"Targets: Ends is up/down/flat/button: \"{t[:60]}\"")
         if not re.search(r"Talk\s+(quiet|normal)\b", t, re.I): fails.append(f"Targets: Talk is quiet/normal: \"{t[:60]}\"")
         if not re.search(r"Words\s+[\d,]{3,6}\b", t): fails.append(f"Targets: Words is a number: \"{t[:60]}\"")
