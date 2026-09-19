@@ -69,6 +69,15 @@ if [[ -f "$BOOKDIR/CHANGELOG.md" ]]; then
     || missing+=("CHANGELOG entry for today (hard rule 6) → ${BOOK}/CHANGELOG.md")
 fi
 
+# The two scores a chapter (author, 2026-09-19: "I'd like a skill that
+# does that for each chapter"): /chapter-score writes notes/scores/
+# chNN-score.md — the romance level and each lead's development, with
+# evidence. Required from ch 21; ch 1–20 are backfilled.
+SCORES_FROM=21
+if (( 10#$CH >= SCORES_FROM )); then
+  have "scores/ch${CH}-score.md" || missing+=("chapter score → notes/scores/ch${CH}-score.md  (/chapter-score: the romance level and each lead's development, with evidence)")
+fi
+
 # The definition of done, set on the card before the draft (author,
 # 2026-09-17): targets-check.py compares the card's Targets line with the
 # panel's ACTUALS line; the romance level two or more under target holds
