@@ -101,6 +101,13 @@ def main() -> int:
                 f"the title coins \"the {coin}\" and the body never "
                 f"explains it — name the work by what it does")
 
+    # 6. The matrix, before and after (author, 2026-09-19). A [CHAPTER] PR
+    #    body carries the chapter's row; a [FOLD] PR carries plan → actual.
+    if re.search(r"\[CHAPTER\]", title) and not re.search(r"Romance\s+\d+\s*·\s*Heat\s+\d+", body):
+        problems.append("a [CHAPTER] PR carries the matrix row (python3 studio/tools/matrix-strip.py <book> <ch> --row) — the author sees the plan before the page")
+    if re.search(r"\[FOLD\]", title) and not re.search(r"target\s*→\s*actual|\d+\s*→\s*\d+", body):
+        problems.append("a [FOLD] PR carries plan → actual (python3 studio/tools/matrix-strip.py <book> <ch>) — the author sees what the page did against the plan")
+
     if problems:
         print("pr-lint: BLOCKED — taste entry 13, talk to the author "
               "like an author", file=sys.stderr)

@@ -38,7 +38,8 @@ running them depended on an agent remembering.
 | **PostToolUse** on `Edit\|Write\|MultiEdit` | `prose-guard.sh` | no — `PostToolUse` is advisory by design; the edit already happened, and the finding goes back to the agent |
 | **PreToolUse** on the PR tools | `pr-lint.py` | **yes** — a PR body that fails the say-it test never reaches GitHub |
 | **PreToolUse** on `SendUserFile` | `card-lint.py` | **yes** — a chapter card under `notes/cards/` that is over 350 words, has a 30-word sentence, a two-sentence call, or a ledger word never reaches the author (2026-09-17) |
-| **PreToolUse** on `Agent` | `brief-gate.py` | **yes** — a drafting-assistant launched on a brief with no AUDIT ADDENDUM and VERDICT on disk does not launch (2026-09-17; the ch 18 stray-file mistake, BACKLOG F36) |
+| **SessionStart** | `matrix-strip.py --current` | no — prints the chapter-in-progress row of `canon/TARGETS.md` (and plan → actual once the readers have run) so every session opens on the plan (2026-09-19) |
+| **PreToolUse** on `Agent` | `brief-gate.py` (+ the matrix row must be in the drafter's prompt) | **yes** — a drafting-assistant launched on a brief with no AUDIT ADDENDUM and VERDICT on disk does not launch (2026-09-17; the ch 18 stray-file mistake, BACKLOG F36) |
 
 `PreToolUse` is the only event that can stop an action. Everything else
 reports.
@@ -63,6 +64,7 @@ bash studio/tools/accept-gate.sh <book> <ch>   # may this chapter be accepted?
 | `opening-sameness.py` | **Template drift** | Names no forbidden shape on purpose. Found that **53% of Book 1.2 opens `object-first`** — the tic that appeared *after* the calendar opening was banned. |
 | `pr-lint.py` | **Talking to the author like an engineer** | Taste entry 13 was the only entry with no check and the most repeats per week: *"don't be so clever," "too much to read," "reads like a list of things."* |
 | `card-lint.py` | **The card that reads like a ledger** | The card is the one document the author reads for every chapter and the one with the most repeated notes ("reads like a list," "too much to read," a 40-word sentence read aloud at the ch 20 audit). The rules lived in the showrunner's remit. Now the send is blocked. |
+| `matrix-strip.py` (SessionStart; in `brief-gate.py`, `pr-lint.py`) | **A plan nobody looked at** | The author: "what tool can we build to ensure that this matrix is viewed before and after each chapter?" Before: the drafter cannot launch without the row in its prompt; the card cannot be sent without it. After: a [FOLD] PR cannot open without plan → actual; the accept gate runs the comparison. |
 | `targets-check.py` (in `accept-gate.sh`, from ch 21) | **A chapter with no definition of done** | Ch 20 counted twenty romance beats and the author read it as "a normal old book," a 2 or 3. Nothing had asked for a number before the draft. Now the card carries seven targets, the panel writes actuals, and a romance level two or more under target holds the chapter. |
 | `brief-gate.py` | **A drafter on an unaudited brief** | 2026-09-13: the audited ch 18 brief went to a stray file; two of three blind drafters worked from the unaudited copy. Drafter rule 8 was the fix, as an instruction. Now the launch is blocked. |
 
