@@ -54,8 +54,9 @@ list in the agent's invocation as "banned moves this run."
   AISHA'S POV narration says "Trey" / "Trey Gault", never "the boy"
   (author, 2026-09-06: "She is the doctor, she should use his name.
   Let others use nicknames or numbers."); his
-  parents and the doctor say "Trey"; the rail, the board, Tick and
-  the chorus say "7" / "the boy" / "the quarterback"; administrators
+  parents and the doctor say "Trey"; the rail, the board, Tick, the
+  trainer (B2-D25.6, locked 2026-09-19) and the chorus say "7" /
+  "the boy" / "the quarterback"; administrators
   say "your quarterback" / "the student"; THE PROVIDER PARTNER
   (B2-D13) is "the group" / "the partner" / "our clinical partner"
   (the consultant), never named until the author names it, never
