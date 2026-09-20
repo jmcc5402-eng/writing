@@ -3,6 +3,25 @@
 Newest first. Every entry: version, what changed, and the evidence that
 drove it.
 
+## 2026-09-20 (night) — author-proxy 1.0.0 (new); instrument-auditor 1.1.0; THE AUTHOR'S READ on every brief
+
+The author: "I'm still having to give lots of comments every chapter…
+make tools or hooks or skills to implement my style of comments
+before the chapter is written." The study of thirty-five comments
+(`audits/2026-09-20-author-comment-study.md`) found six shapes and
+that nobody in the room reads as the author. Three instruments:
+`studio/AUTHOR-QUESTIONS.md` — the six questions in the author's
+words — answered per scene on every brief from ch 23 (THE AUTHOR'S
+READ; brief-gate refuses a drafter without it; `/author-read` drafts
+it; L056). `author-proxy` 1.0.0 — a new agent whose only brief is the
+author's comments verbatim; it reads the draft before the panel and
+writes the comments the author would; its TESTS line carries the six
+tokens and the accept gate requires its file from ch 23 (L057); every
+real comment afterwards is scored SAID / MISSED / NEW against it.
+`instrument-auditor` 1.1.0 — a standing pass reading RECENT's bans and
+caps against the taste sheet, after the August body cap produced the
+one-line cab (L058). PIPELINE's chapter line carries the new stage.
+
 ## 2026-09-20 (night) — drafting-assistant 1.7.2, romance-reader-panel 1.6.4: the touch is a scene, not a sentence
 
 The author, rereading ch 21's cab: "we just have one line that her arm
