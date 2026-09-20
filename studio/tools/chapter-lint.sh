@@ -19,6 +19,21 @@ echo "== banned words / scaffolds (campus scrub + RECENT.md)"
 grep -n -i 'unhurried\|declined to [a-z]*\b\|whole [a-z]* of it\|and meant it\|one beat\|before [a-z]* could vote\|before [a-z]* could dress\|never once\|which was its own\|the way \(a\|an\|the\|you\|he\|she\|they\|it\|somebody\) [a-z]* \(does\|did\|do\|would\|had\|has\|might\|could\)\b' "$f"
 echo "== BANS (studio/lessons/bans.txt — the lesson ledger's greppable bans; L028)"
 python3 "$(dirname "$0")/bans.py" "$f"
+echo "== PRONOUN CROWDING (author #179: 'it keeps saying he instead of his name… it talks about Ty also'; a paragraph with two men's names and five or more he/his/him is a finding; L045)"
+python3 - "$f" <<'PY'
+import re, sys
+text = open(sys.argv[1], encoding="utf-8").read()
+names = ["Dan", "Ty", "Tick", "Ray", "Boyd", "Denny", "Sonny", "Trey", "Odell", "Peanut", "Cal", "Marcus", "Wes", "Coach"]
+alias = {"Merritt": "Dan", "Coach": "Dan"}
+start = 1
+for para in re.split(r"\n\s*\n", text):
+    n = para.count("\n") + 2
+    found = [alias.get(nm, nm) for nm in names + ["Merritt"] if re.search(rf"\b{nm}\b", para)]
+    hes = len(re.findall(r"\b(he|his|him)\b", para, re.I))
+    if len(set(found)) >= 2 and hes >= 5:
+        print(f"{start}: {len(set(found))} men ({', '.join(sorted(set(found)))}) and {hes} he/his/him — say the name")
+    start += n
+PY
 echo "== QUESTIONS ENDING IN A PERIOD (red team 2026-09-20: on audio nobody sounds like they want the answer; cap 2 per chapter; L043)"
 grep -n -E '^"(What|Where|When|Why|How|Who|Which|Is|Are|Was|Were|Do|Does|Did|Can|Could|Would|Will|Should|Have|Has)\b[^"?]*\."' "$f" | head -12
 echo "== chorus construction \"somebody's ___\" (once per BOOK in narration; ledger in THREADS)"
