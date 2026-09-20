@@ -379,6 +379,31 @@ and it is why the wanting in these books reads as *admired* rather
 than *felt*. One filing per chapter, maximum. Sometimes the body just
 wins.
 
+### The touch has a body (author, #177, 2026-09-20)
+
+Kind 9 is the body answering before she decides. This is the body
+answering TO THE TOUCH, and it is a different beat: the author read a
+hand beat with nine sentences of approach and the whole choreography
+of two hands, and asked for "the sheer physical reaction that happens
+when two people in love touch — she felt electricity flow through her
+body." The romance craft word is the *visceral response*.
+
+**The rule.** Every touch between the leads gets at least one plain
+sentence of the POV lead's physical reaction — where it lands in the
+body (the stomach, the chest, the back of the neck, the breath), what
+it does — and the sentence is a body, not a thought about a body.
+"She noticed she wanted to" is a filing; "her stomach dropped like the
+truck had" is a body. The panel counts a touch with no body as a
+finding (the TOUCH test).
+
+### Nobody says where a thing was said (author, #177, 2026-09-20)
+
+Banned: a character remarking on WHERE a thing was said, or that it
+has now been said — "I wanted to say it in this truck," "it's been
+said where you were," "I said so in this room," "before anything else
+happens in this room." The house had nine of these on accepted pages
+before the author named it. Say the thing. Never annotate the saying.
+
 ### The awkward beat (instrumenting taste 16, 2026-09-15)
 
 Taste entry 16 has said it since the beginning — *"This type of

@@ -478,6 +478,11 @@ campus); the book's DECISIONS names the storm and what it forces
 (1.2: B2-D19, the ice storm at ch 21).
 Fails when: the weather is only cold; when the storm is a snow day
 that gives the leads a free night; when it arrives unforecast.
+Amended (2026-09-20, #177): the storm is on the page AS WEATHER — a
+paragraph on what it is and what it does to the town, and in any
+scene inside it, what is falling and what it sounds like ("I have no
+idea if it's actually snowing or sleeting or what"). A storm told only
+through its consequences fails.
 
 ## 18. It's just a romance novel — not a poem, not a mystery
 
@@ -511,6 +516,12 @@ a thing instead of a person.
 
 ## 19. The board is for the mom who doesn't care about football
 
+Amended (2026-09-20, #177): the parents' board is football parents
+talking football. Coach-and-doctor gossip lives in a separate, juicy
+room on the platform (town-ashford, "Grapevine — the PLATFORM model";
+B2-D26.5). A vaguepost about the leads on the parents' board is now a
+finding.
+
 > "The graphs are becoming way too serious and way too focused on the
 > plot. I want them to be much lighter. The point of the graphs is for
 > readers that don't know anything about football to have some
@@ -540,3 +551,48 @@ smile at it.
 entries here); after every listen (the re-mine); after every fourth
 accepted chapter (the taste audit, PIPELINE "The author's notes").
 Last review: 2026-09-14 (entry 19 added).
+
+## 20. The touch has a body
+
+> "We need more description of their physical reaction to each other
+> when they're in the truck and they touch hands. Things like their
+> hands touched and she felt electricity flow through her body. It's
+> not just the mental side of their emotions but also the sheer
+> physical reaction that happens when two people in love touch."
+> (2026-09-20, #177, on 1.2 ch 21)
+
+Caught: the hand in Verna's lot had nine sentences of approach and
+the choreography of two hands, and not one sentence of what the touch
+did to her. Kind 9 (the body answering before she decides) was on the
+page; the body answering TO THE TOUCH was not — a different beat, and
+the one the reader buys the book for. Every touch between the leads
+gets the POV lead's physical reaction in plain words: where it lands,
+what it does, for at least a sentence; the romance craft word is the
+*visceral response*.
+Check: STYLE "The touch has a body"; drafter rule 9; the panel's
+TOUCH test (a touch with no body on the page is a finding).
+Fails when: the touch is described from outside (whose hand went
+where) with no inside; when the reaction is a thought ("she noticed
+she wanted") instead of a body.
+
+## 21. The reader knows who everyone is
+
+> "We need to add more character arc to Missy. She's kind of this
+> lurking figure who's always there, but doesn't really have an
+> opinion about anything. I can't tell if she's just trying to help
+> her son be healthy or is she trying to get him back on the football
+> field fastest. Same with the dad. I wanna make sure the reader knows
+> exactly who everyone is, understanding that at some point we can
+> change them to surprise the reader." (2026-09-20, #177)
+
+Caught: twenty-one chapters of Missy in the hall with a notebook and
+no page that said what she wanted. The room had been keeping her
+ambiguous on purpose (F12, the thaw; RH2, the red herring) and the
+author does not want ambiguity — he wants a stated stance the story
+can later turn. Every named minor character has a want the POV lead
+says plain the first time they matter; a turn later is a surprise, a
+fog is not.
+Check: the brief's ROOTING FOR names each minor character's want; the
+panel's STANCE test; the dossiers' rows for the family.
+Fails when: a character is "lurking" — present on three pages with no
+stated want; when the reader is asked to guess good guy or bad guy.
