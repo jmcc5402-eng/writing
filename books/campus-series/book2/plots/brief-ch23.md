@@ -54,7 +54,7 @@ READERS (verdict files, path attached at the end)
 MUST NOT HAVE CHANGED
   [ ] the frame's contents (registry 118): her laugh at "his mother vetoed the ticket"; Dan's lean toward the sign; the sun off the lid "one hard white flash"; WE DROVE 11 HRS FOR THIS; eleven, the nineteenth of December — no minute, no thumb
   [ ] the rung ladder: no touch, no kiss, no garment — the leads do not share a scene
-  [ ] the trainer's ten thousand: NO third drop (ch 21 spent two); Missy's drinking: NO drop
+  [ ] the trainer's ten thousand: the THIRD AND LAST drop (the machine lunch, counted — the proxy's and the panel's ask; none left for 24–30); Missy's drinking: NO drop
   [ ] the gossip room's name (on ch 21's page, TK) is not repeated here ("the gossip room" / "the other room"); no name for the trainer
   [ ] no new fact, name, date or object not on a page or in canon — `[TK]` it
 VARIANCE
@@ -302,7 +302,7 @@ no drop. **Verna:** seen, no anchor. **Delores:** the anchor.
 | Rhonda Sipes | none locked — the page carries what the county knows: she said in December it explained the hold; she signs her name to it now | the post, verbatim once |
 | Verna | none locked (pull PROPOSED — not dropped as a stake) | one look; no anchor |
 | Delores | none locked | the anchor line |
-| Boyd | the pledge and the partner on the February agenda (canon) | absent; unnamed; nothing on the page points at him (B3) |
+| Boyd | the pledge and the partner on the February agenda (canon) | absent; NAMED once as the survey's owner — she watched him walk her rooms with the clipboard (ch 19); nothing on the page points at him for the picture (B3) |
 | Missy, Denny, Trey | Missy's and Denny's locked/proposed rows — NOT on this page; Trey's file only | — |
 | Kat | none | one text, if used |
 
