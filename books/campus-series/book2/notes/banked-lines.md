@@ -24,3 +24,4 @@ against it at the fold.
 - C: "You gave him my beard." (Odell)
 - C: he puts her parka over the chair, not on the hook, and she
   watches him decide it.
+| Banked, unused (ch 21's losing candidates): | A: "He took the other glove off with his teeth and put it on the dash."; "Nobody's ever used that one." / "Nobody's ever been in this truck."; her hand coming down on his thigh reaching for the middle buckle; "Not with anybody in it."; "Go in before Verna has to pretend any harder."; "three weeks was a number she could write on a wrist." B: "she could feel him not doing it"; "Say it back to me anyway."; "I'll bring you up for it when it's a road again."; "I'd have come across it at six."; "It was the hand that went, not hers."; Missy squaring the chair and staying a minute longer than the chair took |

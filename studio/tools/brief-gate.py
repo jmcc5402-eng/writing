@@ -73,6 +73,7 @@ def main() -> int:
               file=sys.stderr)
         return 0
     problems: list[str] = []
+    resolved: list[str] = []
     for b in briefs:
         p = b if os.path.isabs(b) else os.path.join(root, b)
         if not os.path.isfile(p):
@@ -83,7 +84,30 @@ def main() -> int:
                     if os.path.join(dp, f).endswith(b):
                         hits.append(os.path.join(dp, f))
             p = hits[0] if len(hits) == 1 else p
+        resolved.append(p)
         problems += check(p)
+    # the matrix row must be in front of the drafter (matrix-strip.py; the
+    # author, 2026-09-19: the matrix viewed before and after each chapter)
+    for bp in resolved:
+        mm = re.search(r"brief-ch(\d+)\.md", bp)
+        if not mm:
+            continue
+        n = int(mm.group(1))
+        bookdir = os.path.dirname(os.path.dirname(bp))
+        tp = os.path.join(bookdir, "canon", "TARGETS.md")
+        if not os.path.isfile(tp):
+            continue
+        rowline = ""
+        for line in open(tp, encoding="utf-8"):
+            cells = [c.strip() for c in line.strip().strip("|").split("|")]
+            if len(cells) >= 14 and cells[0] == str(n):
+                rowline = (f"Romance {cells[2]} · Heat {cells[3]} · Aisha {cells[4]} · Dan {cells[5]} · Wound {cells[6]} · "
+                           f"Fun {cells[7]} · Town {cells[8]} · Menace {cells[9]} · Ends {cells[10]} · Talk {cells[11]} · "
+                           f"Words {cells[12]} · Pays {cells[13]}")
+        if not rowline:
+            problems.append(f"canon/TARGETS.md has no row for ch {n} — plan it before the draft")
+        elif re.sub(r"\s+", " ", rowline).lower() not in re.sub(r"\s+", " ", prompt.replace("Laughs", "Fun")).lower():
+            problems.append(f"the drafter's prompt does not carry the matrix row for ch {n} — paste it: '{rowline}'")
     for x in problems:
         print(f"FAIL  {x}", file=sys.stderr)
     if problems:

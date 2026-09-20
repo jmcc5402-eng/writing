@@ -254,3 +254,23 @@ Still open:
   author's own number after reading goes in `notes/romance-levels.md`
   by hand from the PR comment — a script that reads the PR comments
   could do it.
+- **F42 — the accept gate's "CHANGELOG entry for today" (2026-09-19).**
+  The gate requires a CHANGELOG line dated TODAY, so a re-run on an
+  accepted chapter on a quiet day BLOCKS on nothing (ch 20 on the
+  19th). It should look for the chapter's own entry (`ch NN` in a
+  heading), not today's date. One-line fix; not done here because a
+  backfill was mid-run.
+- **F43 — /chapter-score landed (author, 2026-09-19: "I'd like a skill
+  that does that for each chapter").** The skill, `scorecard.py`, the
+  score file required at the accept gate from ch 21, and the backfill
+  of ch 1–20 (panel: romance levels; developmental editor: 0–3 per
+  lead with evidence). The two readers are agents; the environment
+  makes the file required, the roll-up mechanical, and the flags
+  (a lead at 0 three chapters running; a level two or more under
+  target) printed.
+- **F44 — the matrix viewed before and after (author, 2026-09-19).**
+  LANDED as environment: `matrix-strip.py` at session start (the
+  chapter in progress); the brief gate refuses a drafter whose prompt
+  lacks the row; the card lint refuses a card whose line differs; the
+  PR lint refuses a [CHAPTER] PR without the row and a [FOLD] PR
+  without plan → actual; the accept gate runs targets-check.

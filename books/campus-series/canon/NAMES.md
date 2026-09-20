@@ -32,7 +32,7 @@ allowed to use — spending it in a second mouth is a canon error.
 
 | Character | Aliases | Sole use |
 |---|---|---|
-| Trey Gault | Trey, Trey Gault, 7, seven, the boy, your quarterback | "Trey" — narration, his parents, and the doctor only; the rail, the board and Tick say "7" |
+| Trey Gault | Trey, Trey Gault, 7, seven, the boy, your quarterback | "Trey" — narration, his parents, and the doctor only; the rail, the board, Tick and the trainer say "7" (B2-D25.6, locked 2026-09-19) |
 | Mackenzie Doyle | Mackenzie, Mackenzie Doyle, Doyle | "Mack" (Ty only) |
 
 ## Why `sole use` matters

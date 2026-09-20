@@ -36,7 +36,8 @@ here too — from ch 21 on the card lint refuses to send such a card.
 from __future__ import annotations
 import glob, os, re, subprocess, sys
 
-T_RE = re.compile(r"Romance\s+(\d+)\s*·\s*Heat\s+(\d+)\s*·\s*Laughs\s+(\d+)\s*·\s*Ends\s+(\w+)\s*·\s*Talk\s+(\w+)\s*·\s*Words\s+([\d,]+)\s*·\s*Pays\s+(.+?)\s*$", re.I | re.M)
+T_RE = re.compile(r"Romance\s+(\d+)\s*·\s*Heat\s+(\d+)\s*·(?:\s*Aisha\s+\d\s*·\s*Dan\s+\d\s*·\s*Wound\s+\d\s*·)?\s*(?:Laughs|Fun)\s+(\d+)\s*·(?:\s*Town\s+\d\s*·\s*Menace\s+\d\s*·)?\s*Ends\s+(\w+)\s*·\s*Talk\s+(\w+)\s*·\s*Words\s+([\d,]+)\s*·\s*Pays\s+(.+?)\s*$", re.I | re.M)
+S_RE = re.compile(r"^(AISHA|DAN|WOUND|TOWN|MENACE):\s*([0-3])", re.M)
 A_RE = re.compile(r"ACTUALS:\s*romance\s+(\d+)\s*·\s*heat\s+(\d+)\s*·\s*laughs\s+(\d+)\s*·\s*ends\s+(\w+)", re.I)
 
 
@@ -62,7 +63,20 @@ def main() -> int:
     chap = os.path.join(book, "manuscript", f"ch{ch}.md")
     panels = sorted(glob.glob(os.path.join(book, "notes", f"ch{ch}-panel-*.md")))
 
+    # the matrix is the source; the card's line is its copy
+    tp = os.path.join(book, "canon", "TARGETS.md")
+    mrow = {}
+    if os.path.isfile(tp):
+        for line in open(tp, encoding="utf-8"):
+            cells = [c.strip() for c in line.strip().strip("|").split("|")]
+            if len(cells) >= 14 and cells[0] == str(int(ch)):
+                mrow = dict(zip(["ch","pov","romance","heat","aisha","dan","wound","fun","town","menace","ends","talk","words","pays"], cells[:14]))
     m = T_RE.search(read(card))
+    if mrow and not m:
+        class _M:
+            def groups(self_):
+                return (mrow["romance"], mrow["heat"], mrow["fun"], mrow["ends"], mrow["talk"], mrow["words"], mrow["pays"])
+        m = _M()
     if not m:
         print(f"targets-check ch{ch}: FAIL — the card has no Targets line "
               f"(notes/cards/ch{ch}-card.md, under **Targets.**): "
@@ -92,6 +106,15 @@ def main() -> int:
         pass
     a_talk = "quiet" if dlg != "" and dlg < 15 else ("normal" if dlg != "" else "?")
 
+    # the score file (developmental editor): Aisha, Dan, Wound, Town, Menace
+    sf = read(os.path.join(book, "notes", "scores", f"ch{ch}-score.md"))
+    sc = {k.lower(): int(v) for k, v in S_RE.findall(sf)}
+    extra = []
+    for k in ("aisha", "dan", "wound", "town", "menace"):
+        if mrow.get(k) not in (None, "·", ""):
+            tv = int(mrow[k]); av = sc.get(k)
+            verdict = "no score file" if av is None else ("ok" if av >= tv else ("under" if av == tv - 1 else "TWO UNDER"))
+            extra.append((k.capitalize(), tv, av if av is not None else "—", verdict))
     rows = [
         ("Romance", t_rom, a_rom, "GATE" if a_rom <= t_rom - 2 else ("ok" if a_rom >= t_rom - 1 else "under")),
         ("Heat", t_heat, a_heat, "ok" if a_heat <= t_heat else "OVER the ceiling"),
@@ -100,7 +123,7 @@ def main() -> int:
         ("Talk", t_talk.lower(), f"{a_talk} ({dlg}%)", "ok" if a_talk == t_talk.lower() else "differs"),
         ("Words", t_words, words, "ok" if abs(words - t_words) <= 0.15 * t_words else "off budget"),
         ("Pays", t_pays, "—", "recorded"),
-    ]
+    ] + extra
     print(f"targets-check ch{ch}   target → actual")
     fail = False
     for k, t, v, verdict in rows:

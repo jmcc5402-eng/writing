@@ -54,8 +54,9 @@ list in the agent's invocation as "banned moves this run."
   AISHA'S POV narration says "Trey" / "Trey Gault", never "the boy"
   (author, 2026-09-06: "She is the doctor, she should use his name.
   Let others use nicknames or numbers."); his
-  parents and the doctor say "Trey"; the rail, the board, Tick and
-  the chorus say "7" / "the boy" / "the quarterback"; administrators
+  parents and the doctor say "Trey"; the rail, the board, Tick, the
+  trainer (B2-D25.6, locked 2026-09-19) and the chorus say "7" /
+  "the boy" / "the quarterback"; administrators
   say "your quarterback" / "the student"; THE PROVIDER PARTNER
   (B2-D13) is "the group" / "the partner" / "our clinical partner"
   (the consultant), never named until the author names it, never
@@ -92,6 +93,17 @@ list in the agent's invocation as "banned moves this run."
   the nose"): a character naming the drinks register aloud ("Beer
   again." / "It's my drink. The other one was yours."). The register
   is seen, never said; nobody explains a drink.
+- BANNED (the superfan's 17–20 block read, 2026-09-18 — "by the fourth
+  she's counting instead of feeling"): "the first Wednesday in
+  February" as a page's phrase (say "three weeks" / "February" / the
+  date); "in plain words, because that was how she thought" (×3);
+  "timed and short and finished" (×3); Verna's light "on till eleven
+  and never a word" (×4 — Verna at the window may be seen; the
+  formula may not); the ALONE-AT-NIGHT-UNDER-A-LAMP ending (3 of 4 —
+  end on a thing, a room with two people, a morning); Boyd's silent
+  doorway staged the same way (19, 20 — the villain has more than one
+  move); the calendar-and-stool opening (all four — the opening check
+  WARNs on it).
 - BANNED: giving every speaker a punchline; write one flat line for a
   named character and let it lie there.
 - QUOTA: three personifications per chapter, no more.
