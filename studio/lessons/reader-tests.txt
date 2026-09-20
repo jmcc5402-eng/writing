@@ -16,3 +16,4 @@ L024	romance-reader-panel	APART	ch{CH}-panel-*.md	apart
 L032	romance-reader-panel	THE STANCE	ch{CH}-panel-*.md	stance
 L047	romance-reader-panel	THE STANCE	ch{CH}-panel-*.md	stance
 L048	romance-reader-panel	THE STANCE	ch{CH}-panel-*.md	stance
+L051	romance-reader-panel	THE STANCE	ch{CH}-panel-*.md	stance

@@ -621,3 +621,8 @@ type.
 Fails when: a named character is on three pages with nothing to lose;
 when a vice is a joke or a costume; when the stake is explained twice;
 when the page shows the vice being done and the author did not ask.
+Amended (2026-09-20, rereading ch 21): not a ZOMBIE either — "she only
+talks in short sentences with no emotion." The top four to six
+characters carry a PULL, two wants against each other, and it shows
+with feeling every time they appear (`canon/STAKES.md`, "The pull").
+A face that "did not do one thing" is a finding, not restraint.
