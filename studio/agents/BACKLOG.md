@@ -292,3 +292,12 @@ Still open:
   shape. Open.
 - **F58a — ch 21 has no section seams on the page** (one section to the
   ending check). Add at the next fold. Open.
+- **F59 — one branch, one open PR (2026-09-20).** Ch 23's chapter PR
+  could not open while #180 (the fold) was still open on the same
+  branch, and ch 23's commits were already on it — so #180 carries a
+  fold and a chapter, which the house rule (one chapter per PR)
+  forbids. Fix: a branch per chapter (`claude/campus-chNN`), which
+  needs the author's standing permission to push new branches; until
+  ruled, the showrunner waits for the fold PR to merge before
+  committing the next chapter's draft to the branch. OPEN — the
+  author's call.
