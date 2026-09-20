@@ -186,6 +186,14 @@ list in the agent's invocation as "banned moves this run."
   (what falls, what it sounds like), and every named minor character
   has a want the POV lead says plain (taste 21).
 
+- WATCH (red team, 2026-09-20, ch 17–21): EVERYONE IN TOWN TALKS LIKE
+  THE LEADS — Sonny, Odell, Peanut, Verna: one voice, short and wise.
+  A minor character's line must be one the others could not say; a
+  stranger should tell who is speaking with the names covered. And
+  NOBODY IS EVER WRONG: let a lead be wrong about a fact, a person,
+  or a joke once a chapter. BANNED: "did not say thank you" and its
+  shapes (L042) — the check became a line.
+
 ## junior-literary-critic
 
 - (nothing banned yet — first entries come from the next review of a review)
