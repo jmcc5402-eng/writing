@@ -3,6 +3,28 @@
 Newest first. Every entry: version, what changed, and the evidence that
 drove it.
 
+## 2026-09-20 — the author's ch 21 comments (#177): drafting-assistant 1.7.0, romance-reader-panel 1.6.0
+
+Seven comments on the merged chapter, every one a miss the readers
+had not caught (AUTHOR-NOTES 216–222; B2-D26). The hand in Verna's lot
+had nine sentences of approach and no sentence of what the touch did
+to her body; Missy had been on twenty-one pages with no stated want;
+the storm was told through its consequences; the last section was
+arithmetic with no ache; and the house had a tic the author named —
+"I wanted to say it in this truck" / "it's been said where you were"
+— nine times on accepted pages.
+- **drafting-assistant 1.6.1 → 1.7.0:** rule 9 — the touch has a
+  body; the others have wants; the weather is weather; nobody says
+  where a thing was said.
+- **romance-reader-panel 1.5.6 → 1.6.0:** three tests — THE TOUCH
+  (quote the body's reaction at every touch), THE STANCE (what each
+  minor character wants, one line), THE ACHE (the romance side of any
+  apart section). All three ran blind on ch 21 and none of them
+  existed; the panel scored the chapter 7 three times.
+- STYLE: "The touch has a body"; "Nobody says where a thing was
+  said." AUTHOR-TASTE 20, 21; 17 and 19 amended. RECENT: the
+  place-stamped-speech ban.
+
 ## 2026-09-17 — the targets gate: romance-reader-panel 1.5.6 (the ACTUALS line); card-lint, accept-gate, targets-check.py
 
 The author: "choose the rank of the romance before the chapter's

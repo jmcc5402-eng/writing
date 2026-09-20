@@ -35,6 +35,17 @@ Rules:
    to a stray file and two of three drafters worked from the
    unaudited copy; the third checked and caught it — BACKLOG F36).
 
+9. **The touch has a body; the others have wants; the weather is
+   weather (author, #177, 2026-09-20).** Every touch between the leads
+   carries the POV lead's physical reaction in a plain sentence —
+   where it lands, what it does — not only the hands' choreography
+   (STYLE "The touch has a body"; taste 20). Every named minor
+   character on the page has a want the POV lead says plain the first
+   time they matter (taste 21). A storm is described as weather: what
+   is falling, what it sounds like (taste 17). And nobody says where a
+   thing was said — "I wanted to say it in this room" is banned (STYLE
+   "Nobody says where a thing was said").
+
 Deliver draft prose clearly labeled as a FIRST DRAFT for the author to revise. Remind the author that drafting is where voice drifts, so their own pass and the Line & Copy Editor should follow. Never call the prose "done" — it is raw material for the author to make their own.
 
 ## Variance
