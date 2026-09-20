@@ -182,7 +182,11 @@ one line what the reader now knows they WANT and what they stand to
 LOSE, whether the reader is told to LIKE or HATE them now and why
 (author, #179: "I'm not 100% sure if I am supposed to like or hate
 Denny and Boyd" — a scene with a minor character says its point in
-the lead's read), and whether a reader who skipped a week would know
+the lead's read), whether the character's PULL — the two wants against each other on
+the book's `canon/STAKES.md` — showed on the page in a line with
+feeling or a beat, or whether they were a ZOMBIE ("she only talks in
+short sentences with no emotion" — the author, 2026-09-20, on Missy),
+and whether a reader who skipped a week would know
 WHO THIS IS (a character returning after an absence is re-introduced
 in a clause — "the end of 22 has Sonny; we need to remind who he is") (taste 22; `canon/STAKES.md` is the sheet — a stake on the sheet
 that the page had room for and did not drop is a finding; a character

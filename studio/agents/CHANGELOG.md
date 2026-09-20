@@ -3,6 +3,18 @@
 Newest first. Every entry: version, what changed, and the evidence that
 drove it.
 
+## 2026-09-20 (night) — the pull: drafting-assistant 1.7.1, romance-reader-panel 1.6.3
+
+The author, rereading ch 21: "She seems like a zombie… For the top
+4–6 characters we need to weave in this level of conflict throughout
+the book" (AUTHOR-NOTES 232; B2-D29). A stake was half the sheet; the
+PULL (two wants against each other) is the other half, on the page
+every time the character appears. `canon/STAKES.md` "The pull"
+(Missy locked; five proposed); drafter rule 9 amended; the panel's
+STANCE test asks whether the pull showed or the character was a
+zombie; bans.txt L050 — the flat-face shapes, with the pages'
+exhibits as fixtures.
+
 ## 2026-09-20 (evening) — the author's ch 22 comments (#179): romance-reader-panel 1.6.2; the pronoun count
 
 Three comments (AUTHOR-NOTES 228–231; B2-D28): "he" for two men in

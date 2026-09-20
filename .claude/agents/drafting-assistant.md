@@ -41,7 +41,11 @@ Rules:
    where it lands, what it does — not only the hands' choreography
    (STYLE "The touch has a body"; taste 20). Every named minor
    character on the page has a want the POV lead says plain the first
-   time they matter (taste 21). A storm is described as weather: what
+   time they matter (taste 21), and the top characters carry their
+   PULL — two wants against each other, from the book's
+   `canon/STAKES.md` — in a line with feeling or a beat every time
+   they appear; short lines are not flat lines, and a face that shows
+   nothing is a finding (B2-D29, taste 22 amended). A storm is described as weather: what
    is falling, what it sounds like (taste 17). And nobody says where a
    thing was said — "I wanted to say it in this room" is banned (STYLE
    "Nobody says where a thing was said").
