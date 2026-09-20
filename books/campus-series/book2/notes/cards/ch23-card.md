@@ -18,8 +18,8 @@ plainly on the parents' board under her own name with the accusation
 in one sentence. The room piles on for form and screenshots it into
 every side chat in the county. Marisol has to rule on the one post she
 cannot delete. Aisha reads it once at six with her boots on and goes
-to work. The reader knows who has been reading the archive since
-January. Nobody on the page does.
+to work. Nobody on the page knows who went through the album, and
+neither does the reader.
 
 **Aisha.**
 

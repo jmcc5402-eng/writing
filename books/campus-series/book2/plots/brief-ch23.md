@@ -52,7 +52,7 @@ READERS (verdict files, path attached at the end)
   [ ] continuity-keeper    → notes/ch23-keeper-<date>.md (the page audit, the clock standing)
   [ ] /chapter-score       → notes/scores/ch23-score.md
 MUST NOT HAVE CHANGED
-  [ ] the frame's contents (registry 118): her laugh at "his mother vetoed the ticket"; Dan's lean toward the sign; the sun off the lid "one hard white flash"; WE DROVE 11 HRS FOR THIS; eleven a.m., the nineteenth of December
+  [ ] the frame's contents (registry 118): her laugh at "his mother vetoed the ticket"; Dan's lean toward the sign; the sun off the lid "one hard white flash"; WE DROVE 11 HRS FOR THIS; eleven, the nineteenth of December — no minute, no thumb
   [ ] the rung ladder: no touch, no kiss, no garment — the leads do not share a scene
   [ ] the trainer's ten thousand: NO third drop (ch 21 spent two); Missy's drinking: NO drop
   [ ] no name for the gossip room on the page ("the gossip room" / "the other room"); no name for the trainer
@@ -142,20 +142,28 @@ would rather pay for it than have him pay.*
    line under it about the timestamp. "Somebody went through the
    whole album" is the room's own sentence. She reads it once. She
    looks at the frame: her laugh, his lean over the sign, the flash
-   off the lid, the boy's sign, the father's thumb (ch 16, verbatim
-   contents, registry 118). The timestamp: 11:04 a.m., December 19
-   `[CHECK: the album shows a post time or the photo's own time —
-   the drafter picks one and the page says which]` — the morning of
-   the game he sat out on her signature. HEAT 3, KIND 9: her body
+   off the lid, the boy's sign (ch 16, verbatim contents, registry
+   118 — the father's thumb is the POSTING, after the flash, not the
+   picture). The timestamp: eleven, December 19 — no minute is on
+   any page; the page says "eleven" `[CHECK: the album shows a post
+   time or the photo's own time — the drafter picks one and the page
+   says which]`. THE KEEPER'S SENTENCE FOR THE DRAFTERS: the picture
+   is stamped eleven on the morning of the game Trey sat out, two
+   days after she had already signed him out of it (Thursday the
+   17th; the hold decided on the fourteen, Monday the 14th), and the
+   county reads the laugh as the reason for a decision that was made
+   and papered before it. HEAT 3, KIND 9: her body
    answers the memory before she decides anything — the parka's
    nylon along his sleeve, close, in the lot (ch16:70–73); where she
    feels it now, four beats or more (MORE). She does not read it
    twice (dossier row 23). Boots on. The RAV4 is back in front of
-   nine (the hill clear since Saturday; she drove it down herself);
-   Verna's office light comes on at a quarter past six and lights a
-   full space (ch 21's empty one, answered). Verna at the storm door
-   with the coffee, seen — NO fourth Verna anchor (3, 15, 21 spent);
-   one look, one line at most, not the anchor.
+   nine (the hill clear since Saturday; she WALKED up for it Saturday
+   and drove it down — one clause, NEW CANON; nobody drove her).
+   Verna's office light comes on and lights a full space (ch 21's
+   empty one, answered) — and NOTHING else of ch 21's storm morning
+   in that order (the board at six, the boots, the light, the coffee
+   at the storm door — taste 6): no coffee, no storm door. Verna is
+   seen once through a window at most; NO fourth Verna anchor.
 2. **The annex, Monday** (the day's work). She drives up Millrow
    herself; the lot has water in the ruts; the Fieldhouse lot has his
    truck in it, nose to the fence (ch 21) — she does not cross. The
@@ -170,8 +178,10 @@ would rather pay for it than have him pay.*
    face because of them (WHO; the pull on her). One clause of Boyd's
    absence: the consultant's clipboard was in every door of this
    building on a Monday in January (ch 19) — she does not think of
-   him; the reader may (F3 stays unproven on the page; nobody names
-   Boyd or the consultant; the trawl has no author on the page).
+   him, and NEITHER DOES THE READER — F3's plant ("the consultant
+   seen working the board's archive") is on no page; the trawl has no
+   author for anyone, the page does not wink, and nobody names Boyd
+   or the consultant. (The plant moves to 24/25 — a fold item.)
 3. **Noon — the daylight jump** (the set piece's turn). On the
    parents' board, under a real name, the picture and the accusation
    in one sentence, plainly — DEFAULT (call 1): **Rhonda Sipes**,
@@ -200,26 +210,31 @@ would rather pay for it than have him pay.*
    days to signing day (Wednesday, February 3 — the date said as a
    date, taste 1); the trustees sit in February with her job on the
    agenda under a politer name (F-AGD-01: the provider partner that
-   rides in with the pledge — she has known since December, ch 15;
-   the page says it in her read once, plain: the letter was never
-   the thing; the picture is the paper that lets a polite agenda do
-   it). THE ANCHOR — call 3 DEFAULT: **Delores** (the aldermen's
-   third Tuesday; counts boxes with the pen, ch 14; Mt. Nebo), placed
-   honestly in Aisha's day — the Checkerboard counter at supper, or
-   the annex hall on a question for the aldermen about the annex's
-   ground — one line, chorus, seen through Aisha: *a photograph
-   doesn't lie — it just repeats whatever it's told.* ONE anchor this
-   chapter. Verna at the storm door is the alternative (call 3) and
+   rides in with the pledge — she has known since December, ch
+   15:280–295 "Your job's the price of the building"; the page says
+   it in her read once, plain: the letter was never the thing; the
+   picture is the paper that lets a polite agenda do it). THE ANCHOR
+   — call 3 DEFAULT (the card's placement): **Delores** at the annex
+   with the survey crew — the crew is already working the ground (ch
+   19 the clipboard; ch 21 the chalk under the ice, now bare in the
+   thaw); Delores is there for the aldermen, who sit TOMORROW, the
+   third Tuesday (ch14:362 — the 19th); she counted the annex's
+   forty-one boxes into Mt. Nebo with the pen and not her face (ch
+   14) and she will count this ground the same — one line, chorus,
+   seen through Aisha: *a photograph doesn't lie — it just repeats
+   whatever it's told.* ONE anchor this chapter. Verna at the storm door is the alternative (call 3) and
    then Delores is absent. Kat: by text, three listings and a
    February (registry 39) — one line if the drafter wants a friend's
    voice; not on the page in person (she comes Fridays).
 5. **Night, nine — the two phones** (the ending). The picture open
-   on her phone; the view count; the replies still coming. His phone
-   in his building has the same picture, because he reads that room
-   every night (the habit's why — a board knew first; football hidden
-   in ordinary talk — ch 2, ch 20; said in a clause), and she knows
-   it; she does not know whether he opened it tonight, and the page
-   says she does not. The ache with a body (the second time): what
+   on her phone; the view count; the replies still coming. His phone,
+   up the hill or at his house — she does not know which building,
+   and the page says so — has the same picture, because he reads the
+   parents' board every night (the habit as SHE knows it: "You read
+   that board like it's a chart," ch8:346 — not ch 2's interior; and
+   it is the parents' board he reads, not the gossip room, ch 22),
+   and she knows it; she does not know whether he opened it tonight,
+   and the page says she does not. The ache with a body (the second time): what
    she wants, where she feels it, why sixteen days is impossible now
    that the county has said it for them — and under it the wound,
    named once: she let someone close and it is costing her
@@ -232,11 +247,11 @@ would rather pay for it than have him pay.*
 
 | Scene | MORE | WHO | CONFUSING | NOSE | POINT | SENSES |
 |---|---|---|---|---|---|---|
-| 1. Six, nine, the phone | The frame's heat: her body answers the memory of the nylon along his sleeve — four beats or more (skin, breath, the heart, the hands on the phone), then the confusion said plain: it is true and the county is right about the wrong thing | Verna: wants the rent and the quiet; pull — the tenant against the town at her own door; the reader LIKES her warily (ch 21's look); the handle in the gossip room: local, unnamed, one line — the reader knows the room from ch 21 | clock: Monday the eighteenth said in the first paragraph; the thaw dated (Saturday); 11:04 a.m. December 19 = the game he sat out, said; "the other room" = the gossip room of ch 21, one clause | The room does not explain itself; nobody says "gossip"; the timestamp does the accusing — no character explains what a timestamp means | The point: she reads it once and works. Stakes: hers (every call reads bought), Dan's (the second time, in the picture's caption — a hint, not said), Verna's (the plate from out of state, now with a photo) | The thaw: water off the roof, the gravel showing through, the RAV4's grit; the light in Verna's office; the phone's light on the blanket at six |
+| 1. Six, nine, the phone | The frame's heat: her body answers the memory of the nylon along his sleeve — four beats or more (skin, breath, the heart, the hands on the phone), then the confusion said plain: it is true and the county is right about the wrong thing | Verna: wants the rent and the quiet; pull — the tenant against the town at her own door; the reader LIKES her warily (ch 21's look); seen, not spoken to; the handle in the gossip room: local, one line — the reader knows the room from ch 21 | clock: Monday the eighteenth said in the first paragraph; the thaw dated (Saturday — she walked up for the car); eleven, December 19 = the game he sat out, two days after she signed him out of it, said; "the other room" = the gossip room of ch 21, one clause | The room does not explain itself; nobody says "gossip"; the timestamp does the accusing — no character explains what a timestamp means | The point: she reads it once and works. Stakes: hers (every call reads bought), Dan's (the second time, in the picture's caption — a hint, not said) | The thaw: water off the roof, the gravel showing through, the RAV4's grit; the light in Verna's office; the phone's light on the blanket at six |
 | 2. The annex, Monday | No touch; the pull on her face — what it costs to walk into a building that has looked at her laugh; one body beat when the screen goes face down | The trainer: wants his job and to be on nobody's side; pull — head down vs the doctor whose truck he rode in; LIKE, uneasily; NO drop. The patient's mother: wants her boy's ankle and to have seen nothing. Trey's file: the boy's way back, the hold's work | Who is in the building and where (the near table, the quiet room, the records room); his truck seen across the lot, nose to the fence, and she does not cross — said | Nobody says "everyone's seen it"; the page shows the screen going face down | The point: her work, read as bought. Stakes: the trainer's job priced by the survey (in his silence), hers | The clinic open: the tank running, the tape, wet boots on the corridor floor, the lot's water; the ice gone off the RAV4 |
 | 3. Noon — the jump | The text to Marisol costs her in the body (the thumb, the breath held for the answer that does not come) — two beats; the accusation under her name — where she carries it | Rhonda Sipes: wants the hold explained and to be right in December; LIKE-or-hate: the reader is told to hate the post and pity the poster in one clause; Marisol: wants her friend and her son's spot, cannot have both; LIKE. Wes named in one clause as who he is (the walk-on the board campaigns against — a reader who skipped a week) | The screenshot is a screenshot (whose phone, whose forward, cropped); the post is quoted once, verbatim, in a block; "the copies," "the letter" — not this chapter's words | Nobody says "she can't delete it or she's biased" — the page shows the post standing and Marisol's silence; Aisha's text is not a speech | The point: the county gets its story and Aisha refuses to spend her friend. Stakes: Marisol's son, Marisol's room, Rhonda's name on it, Aisha's chart | The annex at noon: phones, the corridor, a screen turned toward her by a hand that meant it kindly |
-| 4. The afternoon — the town | The ache once, low, at the date said (sixteen days) — one body beat | Delores: wants the town counted honestly (the aldermen); LIKE; who-is-this clause (the woman who counts boxes with a pen, ch 14); Kat by text: "Honey," a February | The date: Wednesday, February 3; sixteen days; the trustees in February — said as dates; where Delores is and why, once | Delores's line is the anchor and nobody explains it | The point: the letter was never the thing — the page says the small thing is small and the agenda is the stake (her job under a politer name) | The square after the thaw: salt on the sidewalks, the Checkerboard's griddle, the county's phones |
-| 5. Night, nine — the two phones | The ache in full: what she wants, where she feels it (the mouth, the hands, the length of her side from the cab), why sixteen days is impossible now — six sentences or more; the wound named once | Dan, known not seen: the habit's why in a clause (the board knew first; the football hidden in talk); she does not know if he opened it tonight | Night, nine, the phone; his building across the lot, dark or lit — she cannot see it from nine and the page says so; the view count as the county in the room | Nobody says "two phones in two buildings" as a line of dialogue; it is her thought, once, plain | The point: the image is theirs and the county's now. Stakes: hers named (everything she built), his hinted (the second time) | Nine at night: the furnace behind, the wind, the phone's light; the gravel outside with one car in it |
+| 4. The afternoon — the town | The ache once, low, at the date said (sixteen days) — one body beat | Delores: wants the town counted honestly (the aldermen); LIKE; who-is-this clause (the woman who counted the annex's boxes into Mt. Nebo with a pen, ch 14); Kat by text: "Honey," a February | The date: Wednesday, February 3; sixteen days; the trustees in February — said as dates; Delores at the annex with the survey crew, the aldermen tomorrow (the third Tuesday) — said once | Delores's line is the anchor and nobody explains it | The point: the letter was never the thing — the page says the small thing is small and the agenda is the stake (her job under a politer name) | The annex ground in the thaw: the survey chalk bare where the ice was, the crew's flags, the county's phones |
+| 5. Night, nine — the two phones | The ache in full: what she wants, where she feels it (the mouth, the hands, the length of her side from the cab), why sixteen days is impossible now — six sentences or more; the wound named once | Dan, known not seen: the habit as she knows it, one clause ("like it's a chart"); she does not know if he opened it tonight | Night, nine, the phone; he is up the hill or at his house and she does not know which, and the page says so; the view count as the county in the room | Nobody says "two phones in two buildings" as a line of dialogue; it is her thought, once, plain | The point: the image is theirs and the county's now. Stakes: hers named (everything she built), his hinted (the second time) | Nine at night: the furnace behind, the wind, the phone's light; the gravel outside with one car in it |
 
 ## ROMANCE BEATS (one per scene, at least three, two kinds)
 
@@ -267,7 +282,7 @@ takes a public hit: at six with her boots on, then work; the text to
 Marisol. **Dan (dossier row 23):** seen/known — their image on two
 phones. **Boyd (§5; boyd-arc 23–24):** strikes through others; in
 none of it by name; the consultant absent; the trawl has no author on
-the page. **Marisol (cameo 2, real stakes):** the moderator's crisis;
+the page for the reader either (B3). **Marisol (cameo 2, real stakes):** the moderator's crisis;
 she rules by her own constitution and takes the hit — the post
 stays. **Missy, Denny:** absent (no drops). **The trainer:** present,
 no drop. **Verna:** seen, no anchor. **Delores:** the anchor.
@@ -283,7 +298,7 @@ no drop. **Verna:** seen, no anchor. **Delores:** the anchor.
 | Rhonda Sipes | none locked — the page carries what the county knows: she said in December it explained the hold; she signs her name to it now | the post, verbatim once |
 | Verna | none locked (pull PROPOSED — not dropped as a stake) | one look; no anchor |
 | Delores | none locked | the anchor line |
-| Boyd | the pledge and the partner on the February agenda (canon) | absent; unnamed; the reader's memory of the clipboard (ch 19) |
+| Boyd | the pledge and the partner on the February agenda (canon) | absent; unnamed; nothing on the page points at him (B3) |
 | Missy, Denny, Trey | Missy's and Denny's locked/proposed rows — NOT on this page; Trey's file only | — |
 | Kat | none | one text, if used |
 
@@ -427,3 +442,48 @@ like on the roof).
    with a picture under it). 2. Aisha's one text to Marisol goes
    unanswered; the post stays up. 3. Delores speaks the anchor,
    placed honestly in Aisha's day; Verna is seen and silent.
+
+## AUDIT ADDENDUM — ch 23 card + brief — BLOCK, then corrected in the body above (2026-09-20) (continuity-keeper 1.4.4, card E6: missing over wrong)
+
+Read: card, brief whole (the AUTHOR'S READ cells as claims), ch 11/12/13/14/15/16/19/21/22, outline (ch 23–24, spine, withhold bank, fair-play), romance-arc, dossiers, boyd-arc, arc-docs, STAKES, BEATS, FACTS, NAMES, town-ashford 405–470, grapevine rules, registry, THREADS, DECISIONS D19/D20/D26–D29, both keeper notes, AUTHOR-TASTE, RECENT. Card E6 changed only sweep order and weighting. No file edited.
+
+### A. Transitions and what the brief did not stage
+
+1. **Saturday, off the page.** The RAV4 was left at the annex's warm end Wednesday (ch21:249; ch22:50). The brief has it "back in front of nine… she drove it down herself" but never says how she got UP Millrow (campus shut through Friday; on foot Thursday, ch22:167). Three drafters will invent a ride — and a ride from Dan is a couple scene nobody wrote. Fix: one clause (she walked up Saturday) or `[TK]`.
+2. **Scene 1 recites ch 21's storm morning in order**: board at six, boots on, Verna's light at a quarter past, coffee handed out the storm door at half past (ch21:517–574). The card fixes "at six with her boots on"; the rest is a template (taste 6). Fix: keep the answered light (a full space), drop the coffee-at-the-storm-door beat.
+3. **Where Delores is** — the brief's CONFUSING cell says "where Delores is and why, once" and does not say it (see B4).
+4. **Night**: fine as staged (six → the drive → the annex → noon → afternoon → nine), provided N4.
+
+### B. The facts
+
+**The clock (Q1).** Ch 22 = Thursday Jan 14 (ch22:29); Monday Jan 18 is Wk 8's Monday (spine "~Jan 19–23" is loose; note it as Jan 18–22). Feb 3 = Wednesday (ch22:72) = sixteen days from the 18th — CONFIRMED. Ch 15's "first Wednesday in February" (ch15:355) holds; the phrase itself is RECENT-banned, and the brief avoids it. Thaw: ch 22 has the hill holding Thursday and refreezing at dark (registry 227); nothing on Friday or Saturday — "clear by Saturday" is new canon, uncontradicted. Salt: no page; D19.4's TK stands. The photo's time: ch16:21 "at eleven," ch16:27 "seven hours off" — NO minute anywhere. The hold: decided on the fourteen, Monday Dec 14 (ch 13); the no-go signed Thursday Dec 17 (ch 15; ch16:33 "since Thursday"); the game Saturday Dec 19 ("Held from competition December 19," ch21:170). **Drafters' sentence:** the picture is stamped eleven on the morning of the game Trey sat out, two days after she had already signed him out of it, and the county reads the laugh as the reason for a decision that was made and papered before it.
+
+**The rooms (Q2).** The album thread is on the parents' board (ch16:75–76) — Marisol's room (town-ashford 418). A picture lifted from it into the gossip room is a story jumping rooms; town-ashford 465 says no organic story jumps rooms uncosted. Rule 2/4: the plain post under a real name is the room's story-event and the board flinches — brief matches. Rhonda: out-of-state (ch11:189), "explains a LOT about the hold" (ch12:131–132, not 129–130), paired them under her name in ch 15 (l.97–110), "asking since October" (ch 22), light epigraph ch 19 — nothing contradicts her signing it; the vaguepost form IS spent by DeeAnn (12, 15) and Rhonda (12, 15), so the picture-plus-accusation is the real increment. The gossip room is NAMED on an accepted page (ch21:537 "Sideline Tea," TK) — see N7.
+
+**The frame (Q3).** Registry 118 = ch16:51–64 exactly; the brief's MUST-NOT line is right. The father is shooting his boy on the chest; Dan leans in toward the sign with her laughing at his shoulder — both in one frame is plausible. Two additions are not in the picture: see B1, B2.
+
+**The agenda and the letter (Q4).** Ch15:280–295: "a thing about February… since the Monday the class signed. Ten days… Your job's the price of the building." Known since December — CONFIRMED (F-AGD-01; ch22:127–133). The brief keeps the letter small everywhere (D28.4) — CONFIRMED. B2-T07's "catchable echo" already sits at ch18:113; nothing owed here.
+
+**The cast (Q5).** Delores: ch 14 puts her at Mt. Nebo's fellowship hall (not the annex), counting the forty-one boxes in under her one key, "the aldermen tonight, the third Tuesday" (ch14:362); the third Tuesday of January is the 19th — tomorrow is her honest why. Verna anchors 3, 15, 21 (registry 214); the ledger allows a fourth (Earlene has four) — the brief's choice not to is fine. Kat: registry 39 + "Honey" (ch11:153, 337) — CONFIRMED. Wes Pruett: said aloud ch18:140, accepted at #162, not struck — kept (registry still says PROPOSED; mark it). Trainer: drops 1 and 2 spent (registry 218, 220; fold note N2) — CONFIRMED. Edges: THREADS says ONE remains book-wide after ch 22 — a swear here is the last one (N13). "Doc" is already in the trainer's mouth (ch15:155) and Sonny's (ch13:75), so NAMES.md's sole-use row is stale, not the brief.
+
+### BLOCKING
+
+**B1. 11:04 a.m. — UNESTABLISHED, and against the card.** Scene 1 and the READ table say "11:04"; the card, ch16:21 and the brief's own MUST-NOT line say eleven. Fix: strike the minute; the page says "eleven" (or `[TK minute]`); the drafter's CHECK on post-time vs photo-time stays.
+
+**B2. "the father's thumb" listed as frame contents — CONTRADICTION (registry 118).** Ch16:74: the thumb goes across the phone AFTER the flash — it is the posting, not the picture. Fix: strike it from the contents list.
+
+**B3. The card: "The reader knows who has been reading the archive since January" — UNESTABLISHED.** F3's plant "19 (the consultant seen working the board's archive)" is on no page: ch 19 has the clipboard in every door (l.197–223) and nothing of the board; ch 18 and 20 never mention him. The reader knows nothing the page does not. Fix: the brief says so plainly (the trawl has no author for the reader either; nobody winks) and the card line is corrected on the PR; move F3's plant to 24/25 in the fair-play table.
+
+**B4. Delores's place — the card: "at the annex with the survey crew" / the brief: "the Checkerboard counter at supper, or the annex hall on a question for the aldermen" (F31).** The brief moved her without saying so. Fix: restore the card's placement (the crew is already working — ch 19 clipboard, ch 21 chalk) with tomorrow's third Tuesday as her why, or show the change as a call on the PR.
+
+### NON-BLOCKING
+
+N1. Saturday's trip up the hill (A1). N2. Scene-1 beat order = ch 21 (A2). N3. Scene 5 "the room he reads every night": his habit is the parents' board (ch 2, 20); the gossip room he does not read (ch 22 ruling, Ty's text). Fix: "the board." And "the habit's why" must be what SHE knows — ch8:346 "You read that board like it's a chart" — not ch 2's interior. N4. Scene 5 cell "his building across the lot… from nine": nine is on the square, the Fieldhouse up Millrow, and at night he is at his house (ch 18, 20). Fix: "up the hill," and she does not know which building. N5. Scene 4 SENSES "salt on the sidewalks" — D19.4 TK. Fix: strike. N6. "a patient's mother" at the annex — no page; rule 12 (parents out of state). Fix: the patient's or the trainer's phone. N7. "never a name (TK)" — the name is on ch 21's page. Fix: "its name (ch 21) is not repeated here." N8. PomPoms&Prayers is ch 22's (and 17's) epigraph. Fix: strike it from the unused list. N9. Rule 7's cost: say on the brief who pays for the lift (Rhonda's deniability here; rule 7 spent at 24) and reconcile dossier-dan row 24's DeeAnn `[CHECK]` with call 1's Rhonda. N10. Scene-1 POINT cell gives Verna a stake ("the plate… now with a photo") while the STAKES table says not dropped. Fix: strike from the cell. N11. Scene-2 POINT cell "the trainer's job priced by the survey" is a stake drop; the brief bans a third. Fix: pull only. N12. "at supper" — furniture blacklist. Fix: "at the counter." N13. Edges: the brief must say this swear is the book's last (0 left for 24–30). N14. Housekeeping: "Build check: PASS (pasted)" — nothing spent (row 23 "—"), nothing pasted; strike the claim. Cites drift (ch12:129–130 → 131–132; ch21:497–500 → 524–526).
+
+**Taste risked:** 6 (N2), 1 (B4's "where," N4), 19 (N8), 21 (Rhonda's want), 5 (N12), 18 (B3 — no wink).
+
+**New canon this brief would establish:** the hill clear by Saturday; Rhonda's plain post; the gossip room's second post with a picture; Delores's second anchor. **Open markers:** the brief's `[CHECK: post time or photo time]`; `[TK who salts Millrow]`; `[TK Sideline Tea]`; dossier-dan row 24 `[CHECK: DeeAnn]`.
+
+## VERDICT: BLOCK — B1–B4 corrected in the body above (the minute struck; the thumb out of the picture; the trawl has no author for the reader; Delores at the annex with the crew); N1–N14 applied except N13 (no edge is spent here); the brief now passes
+
+KEEPER: blocking 4 · non-blocking 14 · TK 4
