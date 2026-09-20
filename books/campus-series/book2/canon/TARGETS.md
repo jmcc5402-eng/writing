@@ -14,7 +14,10 @@ ACTUALS (the panel's romance level; the developmental editor's
 development, wound, town, menace), filled by `/chapter-score` on
 2026-09-19. **Rows 21–30 are the plan**, drafted by the showrunner
 from the outline, the curves (`studio/craft/curves.md`) and the beat
-map (`BEATS.md`), for the author to edit.
+map (`BEATS.md`), for the author to edit. A plan row is never
+rewritten with its actuals after acceptance — the actuals live in
+`notes/SCORECARD.md` and `notes/targets.md` beside the plan, so the
+gap stays visible (ch 21: plan Town 2 / Menace 0, actual 3 / 1).
 
 ## The columns
 

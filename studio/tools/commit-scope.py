@@ -49,7 +49,7 @@ def add_paths(seg: str) -> set[str]:
         toks = shlex.split(seg)
     except ValueError:
         toks = seg.split()
-    args = [t for t in toks[2:] if not t.startswith("-")]
+    args = [t for t in toks[2:] if not t.startswith("-") and ">" not in t and "<" not in t and "$" not in t and t not in ("&", "|")]
     if any(t in ("-A", "--all") for t in toks) or "." in args:
         return {l[3:] for l in git("status", "--porcelain") if l.strip()}
     out: set[str] = set()
@@ -66,7 +66,9 @@ def strip_heredocs(command: str) -> str:
 
 
 def commits_in(command: str) -> list[tuple[str, list[str]]]:
-    pending: set[str] = set(git("diff", "--cached", "--name-only"))
+    # COMMIT_SCOPE_NO_INDEX=1: judge the command line alone (hook-check
+    # runs while real work sits staged)
+    pending: set[str] = set() if os.environ.get("COMMIT_SCOPE_NO_INDEX") == "1" else set(git("diff", "--cached", "--name-only"))
     out = []
     for seg in re.split(r"&&|;|\|\||\n", strip_heredocs(command)):
         seg = seg.strip()

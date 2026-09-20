@@ -550,7 +550,7 @@ smile at it.
 **Reviewed:** at every fold (new rows in the ledger → new or amended
 entries here); after every listen (the re-mine); after every fourth
 accepted chapter (the taste audit, PIPELINE "The author's notes").
-Last review: 2026-09-14 (entry 19 added).
+Last review 2026-09-20 (entries 20–22 added 09-20; the third instrument audit)
 
 ## 20. The touch has a body
 

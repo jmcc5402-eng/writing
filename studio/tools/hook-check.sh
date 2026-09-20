@@ -10,6 +10,7 @@
 set -uo pipefail
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/../.." && pwd)"
 export CLAUDE_PROJECT_DIR="$ROOT"
+export COMMIT_SCOPE_NO_INDEX=1      # the commit-scope cases judge the command line, not whatever is staged
 T="$(mktemp -d)"; trap 'rm -rf "$T"' EXIT
 : > "$T/n"; : > "$T/fails"          # counters survive the pipe subshells
 

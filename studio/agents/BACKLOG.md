@@ -254,7 +254,7 @@ Still open:
   author's own number after reading goes in `notes/romance-levels.md`
   by hand from the PR comment — a script that reads the PR comments
   could do it.
-- **F42 — the accept gate's "CHANGELOG entry for today" (2026-09-19).**
+- **F42 — the accept gate's "CHANGELOG entry for today" (2026-09-19).** **CLOSED 2026-09-20** (the showrunner's board): the gate greps the chapter's own CHANGELOG heading (`## … ch NN`), not today's date.
   The gate requires a CHANGELOG line dated TODAY, so a re-run on an
   accepted chapter on a quiet day BLOCKS on nothing (ch 20 on the
   19th). It should look for the chapter's own entry (`ch NN` in a
@@ -274,3 +274,21 @@ Still open:
   lacks the row; the card lint refuses a card whose line differs; the
   PR lint refuses a [CHAPTER] PR without the row and a [FOLD] PR
   without plan → actual; the accept gate runs targets-check.
+
+## From the third instrument audit (2026-09-20) — open items
+
+- **F47b — the brief's STAKES ON THE PAGE must carry a row per name in
+  the NAMING list** (brief-gate checks the heading only). Open.
+- **F52 — CADENCE vs PIPELINE disagree on the red-team cadence; the
+  roster-staleness tool matches the agent name, not the deliverable**
+  (the 09-19 score runs reset the dev-editor's survey clock). Fix: a
+  deliverable token per CADENCE row; the tool matches LOG text. Open.
+- **F53 — AGENTIC-WRITING's second answer says 1,700 lines (1,912);
+  PR-WORKFLOW never defines the [FOLD] tag.** One line each. Open.
+- **F54 — seven catches restated thirty-odd times across STYLE, TASTE,
+  RECENT, the agents and the briefs; nothing retired.** Proposal: the
+  ledger row is the rule and the prose files point at it by ID; the
+  brief template's two stakes slots merged. The author's call on the
+  shape. Open.
+- **F58a — ch 21 has no section seams on the page** (one section to the
+  ending check). Add at the next fold. Open.

@@ -312,7 +312,7 @@ since the work of pitching generalizes across books.
 
 | Book | Stage | Next |
 |---|---|---|
-| `campus-series` (Annie Farrow) | Book 1.1 done; Book 1.2 at 4 — ch 1–17 accepted (2026-09-12) | ch 18's card; the ice storm at 21 (B2-D19); the retro at ch 30 |
+| `campus-series` (Annie Farrow) | Book 1.1 done; Book 1.2 at 4 — ch 1–21 accepted and folded (2026-09-20); the matrix, the gates and the lesson loop live | ch 22 (the whip count); the superfan's 21–24 block; the retro at ch 30 |
 | `spytwins` | 6 for Book 1; 3 for Book 2 | Outline Book 2 (Japan); build the pitch package; get beta readers on Book 1 |
 | `mybyb` | 4 — Draft, reboot voice locked | React to ch. 1, draft the rest of Part I, land the title |
 | `youngnick` | 2 — Bible, key decisions being locked | Lock Nick's surname; pull the manuscript in from Drive |

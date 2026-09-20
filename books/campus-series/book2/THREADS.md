@@ -39,7 +39,7 @@ docs); F## fair-play rows (b12-outline.md table governs).
   Dan, ch 4, the empty lot; "Hell of a scouting report," Dan, ch 8
   (SR-B2-12); "Hell." Dan, ch 10, the splinter; "Shit, it's cold."
   Mackenzie, ch 11, the lot (Mack counts); "Damn," Dan, ch 16, under
-  the headset. **7 spent; 3 remain** (ch 19 "Son of a bitch," to the glass; ch 18 "Well, damn," into the cup) (conformed at the ch 16 fold,
+  the headset. **8 spent; 2 remain (ch 21 spent one — audit 3, F58)** (ch 19 "Son of a bitch," to the glass; ch 18 "Well, damn," into the cup) (conformed at the ch 16 fold,
   2026-09-10, per the second instrument audit F25).
   (Corrected at the ch 12 audit, 2026-09-07 — the ch 11 fold had
   logged "none spent.")

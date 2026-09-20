@@ -30,7 +30,7 @@ Small, planned variety so repeated runs don't converge on the same moves.
 | D2 | Hands and objects: physical business carries the emotion |
 | D3 | Short-declarative session: favor plain sentences; earn every long one |
 | D4 | Give one minor character a moment of unexpected competence |
-| D5 | Weather as texture, never as topic |
+| D5 | RETIRED 2026-09-20 (third audit F49): "weather as texture, never as topic" ordered the ch 21 miss the author named ("I have no idea if it's snowing or sleeting" — taste 17 amended). Not dealt. |
 | D6 | Let one scene run a beat past comfortable before cutting |
 | D7 | RETIRED 2026-09-12 (first audit F15, second F26): "open every scene mid-motion" became the seam — three chapters of the same mid-motion opening; STYLE's establishing line and the opening check cover what the card was for. Not dealt. |
 
