@@ -120,7 +120,10 @@ the ache. Open: the sweep of the nine place-stamped lines on accepted
 pages; the gossip room's name and whether ch 12's vaguepost moves;
 the author's own romance number for 21; the fourth call; the cast
 stakes sheet (the author's Clavell ask, 2026-09-20 — ideas sent,
-picks pending).
+picks pending). The author rereading (night, B2-D29): Missy's pull
+on the page and the timeline bridge applied; the cast pulls locked
+for Missy, five proposed; the trainer's name proposed (Carl Whitlow,
+"Whit").
 
 **Ch 22 ACCEPTED (#179, 2026-09-20) and FOLDED — the first chapter
 with every instrument run first** (the board, the third audit, the

@@ -1087,6 +1087,15 @@ letterhead, the file in Missy's hands; the survey stakes (26) cross
 the chalk seen under the ice here; the fourth call (she tells him
 about Boyd's offer) still unruled — not on this page.
 
+**2026-09-20 (night), the author rereading (B2-D29):** Missy's pull
+on the page in her three scenes — the mother's question at the
+twenty, Denny at dinner, the rail she went to school with, Aisha's
+read of the three things she is afraid of (registry row); the
+timeline bridge — back inside for an hour and a half, the trainer's
+door and his voice on the phone, the lights at a quarter to six,
+"Your two were still up here at dark" (B2-D29.5, L053). Hands
+forward unchanged.
+
 ### Ch 22 — The Whip Count (ACCEPTED #179, 2026-09-20; one drafter; the author's three comments applied in the fold PR — B2-D28; THE FIRST CHAPTER WITH EVERY INSTRUMENT RUN FIRST)
 Introduces: **Thursday the fourteenth of January, the storm's second
 day, said in the first paragraph** (opening on the Fieldhouse's side
