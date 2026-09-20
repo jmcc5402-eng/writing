@@ -3,6 +3,16 @@
 Newest first. Every entry: version, what changed, and the evidence that
 drove it.
 
+## 2026-09-20 (night) — continuity-keeper 1.4.4: the clock between scenes, standing
+
+The author, rereading ch 21: "a confusing timeline when Aisha and the
+trainer decide not to drive, then it's confusing exactly when Dan
+comes to pick them up." The keeper's E4 card ("watch transitions") had
+caught exactly this on the ch 21 card and brief audit — and the page
+audit drew E1 and did not look. A transition check that depends on a
+card draw is an instruction. Now standing in the remit (AUTHOR-NOTES
+233; L053).
+
 ## 2026-09-20 (night) — the pull: drafting-assistant 1.7.1, romance-reader-panel 1.6.3
 
 The author, rereading ch 21: "She seems like a zombie… For the top
