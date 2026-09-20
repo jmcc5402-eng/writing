@@ -36,6 +36,29 @@ for para in re.split(r"\n\s*\n", text):
 PY
 echo "== QUESTIONS ENDING IN A PERIOD (red team 2026-09-20: on audio nobody sounds like they want the answer; cap 2 per chapter; L043)"
 grep -n -E '^"(What|Where|When|Why|How|Who|Which|Is|Are|Was|Were|Do|Does|Did|Can|Could|Would|Will|Should|Have|Has)\b[^"?]*\."' "$f" | head -12
+echo "== TOUCH SPAN (the touch is a scene, not a sentence — author 2026-09-20 rereading ch 21: 'we just have one line that her arm goes warm'; body sentences around each touch cluster, three or fewer is a finding; taste 20; L055)"
+python3 - "$f" <<'PY'
+import re, sys
+text = open(sys.argv[1], encoding="utf-8").read()
+lines = text.split("\n")
+touch = re.compile(r"\b(shoulder|arm|hand|hands|knee|hip|side|fingers|palm|wrist)\b[^.\n]{0,40}\b(against|on|along|through|into|over|under)\b[^.\n]{0,30}\b(his|her|him|Dan|Aisha|Merritt|Cole)\b|\b(his|her) (hand|arm|shoulder|fingers) (on|in|against|over|along) (her|his)\b", re.I)
+body = re.compile(r"\b(warm(er|est)?|heat|hot|pulse|heart(beat)?|breath(e|ed|ing)?|throat|stomach|chest|skin|neck|wrist|flush(ed)?|shiver|sweat|blood|face (went|was|burned)|could feel|felt it|feel it)\b", re.I)
+hits = [i for i, ln in enumerate(lines) if touch.search(ln) and not ln.startswith('"')]
+if not hits:
+    print("no touch between the leads found"); sys.exit(0)
+clusters, cur = [], [hits[0]]
+for h in hits[1:]:
+    if h - cur[-1] <= 25: cur.append(h)
+    else: clusters.append(cur); cur = [h]
+clusters.append(cur)
+for c in clusters:
+    lo, hi = max(0, c[0] - 6), min(len(lines), c[-1] + 40)
+    span = "\n".join(lines[lo:hi])
+    sents = re.split(r"(?<=[.!?])\s+", span)
+    bodies = [x.strip() for x in sents if body.search(x) and not x.strip().startswith('"')]
+    flag = "" if len(bodies) > 3 else "   — one line is not a scene: run her body across the beats and say the confusion plain (taste 20)"
+    print(f"touch cluster l.{c[0]+1}–{c[-1]+1}: {len(c)} touch line(s), {len(bodies)} body sentence(s) in l.{lo+1}–{hi}{flag}")
+PY
 echo "== chorus construction \"somebody's ___\" (once per BOOK in narration; ledger in THREADS)"
 grep -n -i "somebody.s [a-z]" "$f"
 echo "== arrival clock (six months / since June — cap 1 per chapter)"

@@ -17,3 +17,4 @@ L032	romance-reader-panel	THE STANCE	ch{CH}-panel-*.md	stance
 L047	romance-reader-panel	THE STANCE	ch{CH}-panel-*.md	stance
 L048	romance-reader-panel	THE STANCE	ch{CH}-panel-*.md	stance
 L051	romance-reader-panel	THE STANCE	ch{CH}-panel-*.md	stance
+L054	romance-reader-panel	THE TOUCH	ch{CH}-panel-*.md	touch

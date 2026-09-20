@@ -396,6 +396,18 @@ it does — and the sentence is a body, not a thought about a body.
 truck had" is a body. The panel counts a touch with no body as a
 finding (the TOUCH test).
 
+**The touch is a scene, not a sentence (author, 2026-09-20, rereading
+ch 21).** At a key proximity moment — the leads pressed together, a
+witness in the room — one sentence of body is a finding: "we just
+have one line that her arm goes warm." The body runs across the
+beats (the arm, the heart and where she feels it, the breath, the
+hands held still, the face inside the hood), and the POV lead says
+the confusion plain to herself: wanting him, with the wrong person a
+foot away and able to read it. Love mixed with awkwardness is the
+moment; the awkwardness is on the page, not around it. The panel
+counts the body sentences at the chapter's highest touch (three or
+fewer is a finding); `chapter-lint.sh` TOUCH SPAN counts them too.
+
 ### Nobody says where a thing was said (author, #177, 2026-09-20)
 
 Banned: a character remarking on WHERE a thing was said, or that it

@@ -574,6 +574,18 @@ TOUCH test (a touch with no body on the page is a finding).
 Fails when: the touch is described from outside (whose hand went
 where) with no inside; when the reaction is a thought ("she noticed
 she wanted") instead of a body.
+Amended (2026-09-20, rereading ch 21): ONE SENTENCE IS NOT ENOUGH at a
+key moment. "We just have one line that her arm goes warm. Talk about
+how her arm goes warm, her heart beats. How she thinks about the
+confusion of wanting Dan but being stuck in a car with [the trainer]…
+this is a key moment of love mixed with awkwardness." A proximity
+scene — pressed together, a witness present — runs her body across
+the beats (arm, heart, breath, the hands held still, the face) and
+says the confusion plain in her own head. The panel counts the body
+sentences at the chapter's highest touch; three or fewer is a
+finding. The August scrub ban "one involuntary-body beat per chapter
+max" is what produced the one line; it now applies outside touch
+scenes only.
 
 ## 21. The reader knows who everyone is
 
