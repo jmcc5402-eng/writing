@@ -2,6 +2,32 @@
 
 Manuscript-affecting changes, newest first. (Hard rule 6.)
 
+## 2026-09-20 — ch 22 "The Whip Count" drafted: one drafter, every instrument first (chapter PR)
+
+- The first chapter under the full loop: the showrunner's board, the
+  third instrument audit, the rooting-for survey and the red-team
+  taste read all ran before the card; the keeper blocked the brief on
+  four errors (a third letter — the January letter reached the
+  athletic director Dec 28, so what finishes on the board is its
+  follow-up; a Friday delivery on a shut campus; Denny relocated to
+  Dan's wall; the glance from a porch with no sightline) and the brief
+  was corrected before a drafter launched.
+- Matrix row 22 (Romance 5 · Heat 2 · Aisha 1 · Dan 2 · Wound 1 · Fun
+  1 · Town 3 · Menace 2 · Ends flat · Talk normal · Words 3200 · Pays
+  Dan). The panel read BLIND to the row for the first time (audit 3,
+  F48): romance 6 · heat 2 · laughs 3 · ends flat; the editor, blind
+  too: Aisha 1 · Dan 3 · wound 3 · town 3 · menace 2.
+- One drafter (D1, sound-forward — a radio chapter). Lint clean after
+  one opening fix (a five-word run shared with ch 16).
+- The revision pass (the same drafter): the panel's seven asks, the
+  keeper's two blocks (Tick's van down, not up; no January sheets on
+  the air) and eleven staging fixes, the editor's list of lines
+  re-said from ch 8 and ch 20 — applied before the gate.
+- New canon (registry at the fold): where Dan slept (his office chair);
+  the second Table out of season; the follow-up email Friday at eight
+  to the trustees and Compliance; the Checkerboard open on an ice
+  night (the Phams); the refreeze at dark; the agent's "Still in."
+
 ## 2026-09-20 — ch 21 ACCEPTED (#177) and folded; the author's seven comments applied (fold PR; B2-D26)
 
 - The author's comments, applied by the drafter (1.7.0, card D4):
