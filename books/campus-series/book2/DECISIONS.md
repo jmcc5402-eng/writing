@@ -867,3 +867,45 @@ simple," only drops: a few higher-stakes lines, not a plot change.
    the review at 24 and the hearing at 27) — the showrunner
    recommends leaving the dates and letting the page name the three
    items, which is the raise the reader was missing.
+
+## B2-D29 — the pull: the top characters carry conflict, not only a stake (author, 2026-09-20, rereading ch 21)
+
+"She seems like a zombie. She only talks in short sentences with no
+emotion… she's also a mother; she should have conflict about whether
+she is keeping her boy safe… For the top 4–6 characters we need to
+weave in this level of conflict throughout the book."
+
+1. **The rule.** A stake (what they stand to lose) is the half the
+   sheet had. The other half is THE PULL — two wants against each
+   other, and who they are afraid of. The top four to six characters
+   carry a pull, and it shows on the page every time they appear: a
+   line with feeling in it, or a beat (a hand that stops, a question
+   a mother asks), never a flat face and never explained twice. Short
+   lines are not flat lines: Missy may still speak in six words, and
+   the six words carry the fear.
+2. **Missy, LOCKED (the author's).** The pull: the boy safe against
+   the boy playing — she wants both and cannot have both; Denny's
+   anger if she sides with the doctor; the town she grew up in, which
+   will hate her for it. Her "zombie" register (ch 13: "her face did
+   not do one thing Aisha could have charted"; ch 21: "her mouth was a
+   line") is RETIRED. She feels on the page: a mother's question at
+   the twenty; a line about Denny; a line about the town. The purse
+   (ch 28) stays hers to turn.
+3. **The others — proposed pulls, the author picks:** Denny — loud in
+   public for the boy's field, and a man who could not put his name
+   on the January letter (the pull between the town's Denny and the
+   father; RH2 stays dark: the page shows the quiet, never the
+   refusal); the trainer — keep his head down and his job against the
+   doctor whose truck he rode in, with ten thousand riding on both;
+   Verna — her winter doctor's rent against the town's talk at her
+   own storm door; Tick — the show's sponsor money against what he
+   says off the air; Boyd — none (he is the weather; boyd-arc §5).
+   Aisha and Dan carry theirs already (the terms against the want;
+   the job against her — B2-D28.2).
+4. **Instruments.** `canon/STAKES.md` gains "The pull" table; kit 15
+   gains the column; the brief's STAKES ON THE PAGE names the pull the
+   page carries; the panel's STANCE test asks whether the pull showed
+   or the character was a zombie (1.6.3); drafter rule 9 amended;
+   bans.txt L050 — the flat-face shapes; taste 22 amended. Ch 21's
+   Missy scenes get the pass now (the author is rereading it); ch 22's
+   Denny already carries his quiet as the pull.

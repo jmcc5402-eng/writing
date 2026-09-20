@@ -589,3 +589,37 @@ than once; a new one-sentence paragraph. Sentences END (under thirty;
 at most three "and"s). The word count may rise to 4,300 at most.
 Nothing else on the page changes — not a line the author did not
 ask about.
+
+## MAIN MOVED (2026-09-20, night) — Missy's pull (B2-D29), the pass on an accepted page
+
+The author, rereading ch 21: "We still need to get more from Missy.
+She seems like a zombie… she's also a mother; she should have
+conflict about whether she is keeping her boy safe… will her boy be
+hurt, will her husband be mad, will the town where she grew up hate
+her." One drafter, in the page's own voice, on Missy's three scenes
+ONLY (the hall at the twenty; the chair and the file; the exit down
+the hill), in Aisha's POV — Missy's pull shown, not explained:
+
+1. **The twenty** (after "That's the twenty on 7" / the notebook
+   order): a mother's question in Missy's own mouth, with feeling in
+   six or ten words — is twenty safe, or is twenty what he wanted;
+   Aisha answers as the doctor; and one beat of Missy's hands (the
+   pen stopping) that Aisha reads as fear for the boy. The line
+   "Her mouth was a line, the same line it had been since November"
+   is GONE (L050); what replaces it is a face doing one thing.
+2. **The chair and the file** ("That for Birmingham?"): one more
+   exchange — Missy says a thing about Denny (he thinks the doctor
+   held the boy for the letter; she does not say what she thinks) and
+   one clause about the town (she went to school with half that
+   board), so the reader hears the husband and the town pulling; she
+   still does not thank; the line "She did not say anything else, and
+   she did not say thank you" is re-said (L042 ban; the fact may
+   stay, the sentence may not).
+3. **The exit**: one sentence of Aisha's read — what Missy is
+   carrying down that hill (the boy, the husband, the town — and the
+   thing in her purse the reader does not know), in plain words, no
+   verdict.
+The narrator paragraph at l.65–71 (her want said plain) STAYS. Nothing
+else on the page changes; the four swoons and the cab are untouched.
+BANNED: everything in RECENT and bans.txt; a POV dip into Missy; any
+hint of the Birmingham report's contents; "thaw."
