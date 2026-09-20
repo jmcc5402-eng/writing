@@ -55,7 +55,7 @@ MUST NOT HAVE CHANGED
   [ ] the frame's contents (registry 118): her laugh at "his mother vetoed the ticket"; Dan's lean toward the sign; the sun off the lid "one hard white flash"; WE DROVE 11 HRS FOR THIS; eleven, the nineteenth of December — no minute, no thumb
   [ ] the rung ladder: no touch, no kiss, no garment — the leads do not share a scene
   [ ] the trainer's ten thousand: NO third drop (ch 21 spent two); Missy's drinking: NO drop
-  [ ] no name for the gossip room on the page ("the gossip room" / "the other room"); no name for the trainer
+  [ ] the gossip room's name (on ch 21's page, TK) is not repeated here ("the gossip room" / "the other room"); no name for the trainer
   [ ] no new fact, name, date or object not on a page or in canon — `[TK]` it
 VARIANCE
   [ ] three cards drawn (LRU, drafter deck) and logged; the keeper's, the proxy's and the panel's draws logged
@@ -72,8 +72,7 @@ The inside journey's third step — I need this and I will pay for it
 — starts here in her: she would rather be the one who pays. Earned
 by: ch 16 (the frame taken; the not-looking), ch 15 (the terms), ch
 21 (the cab — her body against him, the county reading a truck), ch
-22 (his stake said plain: her, or the job). Spends nothing. Build
-check: PASS (pasted in the audit).
+22 (his stake said plain: her, or the job). Spends nothing (row 23 "—"; no build check owed).
 
 ## THE LEADS' SCENES (the floor — they do not share one)
 
@@ -81,8 +80,8 @@ No scene together (the plan: 21 → 6 at 23 with the county turning).
 The floor is this: he is in every scene of hers with her in it — the
 frame (his lean, at her shoulder); the post at six; the timestamp
 that is HIS morning too (he crossed the lots to be seen crossing
-them, ch 16); the room he reads every night; the phone in his
-building that has the same picture on it. KNOWN, NOT SEEN (dossier-dan
+them, ch 16); the parents' board he reads every night; the phone up
+the hill or at his house that has the same picture on it. KNOWN, NOT SEEN (dossier-dan
 row 23: "seen: their image on two phones in two buildings"; card:
 "seen once, or not at all" — DEFAULT: not seen; she does not cross
 the lot to his window and the page says she does not). The ache
@@ -186,17 +185,22 @@ would rather pay for it than have him pay.*
    parents' board, under a real name, the picture and the accusation
    in one sentence, plainly — DEFAULT (call 1): **Rhonda Sipes**,
    who typed in December "If it's who I think it is, this explains a
-   LOT about the hold" (ch12:129–130) and now types the same
+   LOT about the hold" (ch12:131–132) and now types the same
    sentence with the picture under it and the time. The rulebook's
    rule 2 is what breaks (no plain-text speculation about an adult's
    love life under real names — the room's own constitution, and it
-   breaks in daylight); the room piles on FOR FORM — three or four
+   breaks in daylight); the lift from the album into the gossip room
+   is a story jumping rooms and it costs (town-ashford 465): here it
+   costs Rhonda her deniability — her name is on it; rule 7's own
+   cost is spent at 24; dossier-dan row 24's `[CHECK: DeeAnn]` is
+   reconciled to Rhonda at the fold; the room piles on FOR FORM — three or four
    replies, small, organized, epistolary (rule 3): "praying," "not
    about that," "asking for clarity" — while it is screenshotted into
    every side chat in the county (rule 8: the vicious version is
    typed somewhere smaller and travels by screenshot; ON THE PAGE we
    see a screenshot, not the feed — a forward with the names cropped
-   badly, on a patient's mother's phone at the annex, or the trainer's).
+   badly, on a patient's phone at the annex, or the trainer's; NOT a
+   parent's — the parents live in other states, rule 12).
    Marisol's problem (canon, town-ashford 426–432): the post is in
    the room she moderates, about her friend, while the same room
    campaigns against her own son's spot; delete it and she is the
@@ -248,7 +252,7 @@ would rather pay for it than have him pay.*
 | Scene | MORE | WHO | CONFUSING | NOSE | POINT | SENSES |
 |---|---|---|---|---|---|---|
 | 1. Six, nine, the phone | The frame's heat: her body answers the memory of the nylon along his sleeve — four beats or more (skin, breath, the heart, the hands on the phone), then the confusion said plain: it is true and the county is right about the wrong thing | Verna: wants the rent and the quiet; pull — the tenant against the town at her own door; the reader LIKES her warily (ch 21's look); seen, not spoken to; the handle in the gossip room: local, one line — the reader knows the room from ch 21 | clock: Monday the eighteenth said in the first paragraph; the thaw dated (Saturday — she walked up for the car); eleven, December 19 = the game he sat out, two days after she signed him out of it, said; "the other room" = the gossip room of ch 21, one clause | The room does not explain itself; nobody says "gossip"; the timestamp does the accusing — no character explains what a timestamp means | The point: she reads it once and works. Stakes: hers (every call reads bought), Dan's (the second time, in the picture's caption — a hint, not said) | The thaw: water off the roof, the gravel showing through, the RAV4's grit; the light in Verna's office; the phone's light on the blanket at six |
-| 2. The annex, Monday | No touch; the pull on her face — what it costs to walk into a building that has looked at her laugh; one body beat when the screen goes face down | The trainer: wants his job and to be on nobody's side; pull — head down vs the doctor whose truck he rode in; LIKE, uneasily; NO drop. The patient's mother: wants her boy's ankle and to have seen nothing. Trey's file: the boy's way back, the hold's work | Who is in the building and where (the near table, the quiet room, the records room); his truck seen across the lot, nose to the fence, and she does not cross — said | Nobody says "everyone's seen it"; the page shows the screen going face down | The point: her work, read as bought. Stakes: the trainer's job priced by the survey (in his silence), hers | The clinic open: the tank running, the tape, wet boots on the corridor floor, the lot's water; the ice gone off the RAV4 |
+| 2. The annex, Monday | No touch; the pull on her face — what it costs to walk into a building that has looked at her laugh; one body beat when the screen goes face down | The trainer: wants his job and to be on nobody's side; pull — head down vs the doctor whose truck he rode in; LIKE, uneasily; NO drop. The patient's mother: wants her boy's ankle and to have seen nothing. Trey's file: the boy's way back, the hold's work | Who is in the building and where (the near table, the quiet room, the records room); his truck seen across the lot, nose to the fence, and she does not cross — said | Nobody says "everyone's seen it"; the page shows the screen going face down | The point: her work, read as bought. Stakes: hers; the trainer's PULL only (no drop) | The clinic open: the tank running, the tape, wet boots on the corridor floor, the lot's water; the ice gone off the RAV4 |
 | 3. Noon — the jump | The text to Marisol costs her in the body (the thumb, the breath held for the answer that does not come) — two beats; the accusation under her name — where she carries it | Rhonda Sipes: wants the hold explained and to be right in December; LIKE-or-hate: the reader is told to hate the post and pity the poster in one clause; Marisol: wants her friend and her son's spot, cannot have both; LIKE. Wes named in one clause as who he is (the walk-on the board campaigns against — a reader who skipped a week) | The screenshot is a screenshot (whose phone, whose forward, cropped); the post is quoted once, verbatim, in a block; "the copies," "the letter" — not this chapter's words | Nobody says "she can't delete it or she's biased" — the page shows the post standing and Marisol's silence; Aisha's text is not a speech | The point: the county gets its story and Aisha refuses to spend her friend. Stakes: Marisol's son, Marisol's room, Rhonda's name on it, Aisha's chart | The annex at noon: phones, the corridor, a screen turned toward her by a hand that meant it kindly |
 | 4. The afternoon — the town | The ache once, low, at the date said (sixteen days) — one body beat | Delores: wants the town counted honestly (the aldermen); LIKE; who-is-this clause (the woman who counted the annex's boxes into Mt. Nebo with a pen, ch 14); Kat by text: "Honey," a February | The date: Wednesday, February 3; sixteen days; the trustees in February — said as dates; Delores at the annex with the survey crew, the aldermen tomorrow (the third Tuesday) — said once | Delores's line is the anchor and nobody explains it | The point: the letter was never the thing — the page says the small thing is small and the agenda is the stake (her job under a politer name) | The annex ground in the thaw: the survey chalk bare where the ice was, the crew's flags, the county's phones |
 | 5. Night, nine — the two phones | The ache in full: what she wants, where she feels it (the mouth, the hands, the length of her side from the cab), why sixteen days is impossible now — six sentences or more; the wound named once | Dan, known not seen: the habit as she knows it, one clause ("like it's a chart"); she does not know if he opened it tonight | Night, nine, the phone; he is up the hill or at his house and she does not know which, and the page says so; the view count as the county in the room | Nobody says "two phones in two buildings" as a line of dialogue; it is her thought, once, plain | The point: the image is theirs and the county's now. Stakes: hers named (everything she built), his hinted (the second time) | Nine at night: the furnace behind, the wind, the phone's light; the gravel outside with one car in it |
@@ -339,7 +343,8 @@ name; never Ty). "Trey" in her head and the file; "7" in the posts.
 "Marisol" / "Marisol Pruett" once; "Wes" / "Wes Pruett" once, with who
 he is. "Rhonda Sipes" on the post (real name, the room's daylight).
 "Verna" / "Verna Poteat" once. "Delores" once, with who she is. "Kat"
-if used. "the gossip room" / "the other room" — never a name (TK).
+if used. "the gossip room" / "the other room" — its name is on ch
+21's page (TK) and is not repeated here.
 Boyd, the consultant, the athletic director, Missy, Denny: UNNAMED
 and absent (the athletic director never "the AD"). The album thread:
 *Playoff Pics — Post Here*, once, italic (ch 16).
@@ -354,7 +359,7 @@ their sentences except Rhonda's, quoted back as hers); Marisol's
 deletions seen from outside (registry 75); the parents' board's
 constitution ("where to park, my loves," town-ashford 420); room nine
 and the furnace note (ch 21); Verna's office light at a quarter past
-six (ch21:497–500 — answered, not repeated); the RAV4 (ch 21); the
+six (ch21:524–526 — answered, not repeated); the RAV4 (ch 21); the
 annex's rooms (the quiet room, the records room, the tank — ch 19);
 Trey's file (ch 21, registry); the consultant's clipboard in every
 door (ch19:197–223 — remembered by the reader, not by her); the
