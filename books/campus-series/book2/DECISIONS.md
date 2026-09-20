@@ -784,3 +784,32 @@ the money's path); Marisol (the room she moderates campaigns against
 her own son — canon already); Odell and Tick (the eleven are his
 customers; the show runs on Boyd's dealership money); Kat (about to
 need somewhere to land herself). None is canon until the author says.
+
+### B2-D27.4 — the drops for 1.2, and STAKE × LEVER (author, 2026-09-20, after #178)
+
+The author on the trainer's edge ("a trainer in debt knows the
+quarterback's medical status before anyone"): "exactly why darker /
+higher stakes are so great — they create so many complex and exciting
+plot and conflict lines. Add this concept somewhere; I want to use
+this a lot in future books." Recorded as the spec `studio/craft/
+stakes.md` (STAKE × LEVER) and kit 15; the outline skill runs a stakes
+pass on every new book. For 1.2, which "is already more cartoonish and
+simple," only drops: a few higher-stakes lines, not a plot change.
+
+1. **Ch 21 gets two drops now** (the fold PR): Missy — what is on her
+   breath at two in the afternoon, in Aisha's read, once; the trainer
+   — a score checked three times on the way down the hill, "the way a
+   man checks a score he has money on," in Aisha's read, once. Both
+   logged in the registry; the drop count per stake stays under three
+   a book.
+2. **The lever stays unpulled in 1.2** unless the author says: the
+   trainer's debt never touches the medical information on a page of
+   this book. `[TK the author's call — 1.2, a later book, or never]`.
+3. **POV — OPEN, the author's call.** The author's example was an
+   internal thought of the trainer's. The book is close third on
+   Aisha and Dan; a minor character's thought is a POV dip the
+   standard does not allow. Default until ruled: the drops come
+   through the POV lead's senses or the town's knowledge (stakes.md
+   rule 5). If the author wants brief dips into minor characters'
+   heads (Clavell is omniscient), that is a STANDARDS change and a
+   ruling, not a drafter's choice.

@@ -28,6 +28,7 @@ plus this series' own machinery.
 | 9 | A communal set piece | tailgate, festival, quiz night, farmers market |
 | 10 | Competence porn | each lead visibly excellent at their real job |
 | 11 | Weather forces intimacy or truth | plot, not decor |
+| 11a | Every named character has a stake the reader knows in the moment; some are dark; STAKE × LEVER (`studio/craft/stakes.md`; `book2/canon/STAKES.md`) | B2-D27, 2026-09-20 |
 | 12 | A food scene | doing emotional work |
 | 13 | The lie with a felt cost | planted fair; survives the five-minute honest talk |
 | 14 | The grand gesture | spends armor, not money |
