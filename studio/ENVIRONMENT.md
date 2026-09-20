@@ -39,6 +39,7 @@ running them depended on an agent remembering.
 | **PreToolUse** on the PR tools | `pr-lint.py` | **yes** — a PR body that fails the say-it test never reaches GitHub |
 | **PreToolUse** on `SendUserFile` | `card-lint.py` | **yes** — a chapter card under `notes/cards/` that is over 350 words, has a 30-word sentence, a two-sentence call, or a ledger word never reaches the author (2026-09-17) |
 | **SessionStart** | `matrix-strip.py --current` | no — prints the chapter-in-progress row of `canon/TARGETS.md` (and plan → actual once the readers have run) so every session opens on the plan (2026-09-19) |
+| **PreToolUse** on `Bash` | `commit-scope.py` | **yes** — a `git commit` whose files span two scopes (a book, studio, agents) or whose subject prefix names the wrong one is refused (2026-09-20; the showrunner's own mixed commit the day before) |
 | **PreToolUse** on `Agent` | `brief-gate.py` (+ the matrix row must be in the drafter's prompt) | **yes** — a drafting-assistant launched on a brief with no AUDIT ADDENDUM and VERDICT on disk does not launch (2026-09-17; the ch 18 stray-file mistake, BACKLOG F36) |
 
 `PreToolUse` is the only event that can stop an action. Everything else
@@ -57,6 +58,14 @@ reports.
 Its first run caught, on the chapter it was built from, a place-stamped
 line ("She had not said it yet in this building") that the drafter, the
 panel and the showrunner had all read past.
+
+### Tests for the guardrails, and the catch map (the doc's /hook-check and /what-would-catch-this, 2026-09-20)
+
+`bash studio/tools/hook-check.sh` feeds every hook a known-bad input
+and a known-good one and reports DEAD for any that lets the bad one
+through. `python3 studio/tools/catch-map.py [origin/main]` names, for
+every changed file, what would fail if it were wrong, and says GAP
+where nothing would. Both run in `guardrails.sh`.
 
 ### On demand
 

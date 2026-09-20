@@ -220,3 +220,32 @@ drafter counted its own sentences by eye.
 That is the whole lesson, and it is worth more to a customer than any
 amount of agreement about the principle: *you can do all of this right
 and still be one `ls .claude/` away from the trap.*
+
+---
+
+## The doc's skills, mapped to this repo (2026-09-20)
+
+The author uploaded the draft the day the lesson loop landed and asked
+to apply it here. Honest mapping:
+
+| The doc | Here | Built today |
+|---|---|---|
+| /context-audit | `/canon-audit` | — |
+| /make-it-a-fixture | `/lesson` (the ledger, bans as data with fixtures, reader tests, `lesson-check.py`) | yes |
+| /proof-of-done | `/chapter-proof` | — |
+| /what-would-catch-this | `catch-map.py` + `/what-would-catch-this` | yes |
+| /blast-radius | the brief's MUST NOT HAVE CHANGED; the "never touch X" hook was missing → `commit-scope.py` (one commit, one scope) | yes |
+| /fixture-census | `studio/lessons/LEDGER.md` — every catch and its enforcer, or why none | yes |
+| /hook-check | `hook-check.sh` — every hook fed a bad input; DEAD if it passes | yes |
+| /session-postmortem | `instrument-auditor`, every four accepted chapters; `/lesson` per catch | — |
+| /dead-code-census | the auditor's "ghosts" pass; the doc says skip | — |
+
+**The five questions, answered again today.** Context: shorter and
+truer than on the 15th, and still 1,700 lines; `/canon-audit` is owed
+a re-run. Delegation: yes — a drafter cannot launch without the
+audited brief and the row, and a commit cannot span two scopes.
+Verification: yes — the proof block, the matrix row, the TESTS line.
+Review: mostly — the bans, the gates and the reader tests are enforced;
+what a page *means* is still the readers' and the author's.
+Recovery: yes — the lesson loop; a fold PR cannot open until the last
+week's catches have enforcers, and the hooks have tests.

@@ -45,6 +45,15 @@
         ]
       },
       {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 \"$CLAUDE_PROJECT_DIR/studio/tools/commit-scope.py\""
+          }
+        ]
+      },
+      {
         "matcher": "Agent",
         "hooks": [
           {
