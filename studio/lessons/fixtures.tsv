@@ -1,0 +1,20 @@
+# fixtures.tsv — one sentence per ban that MUST trip it. `bans.py --test`
+# fails if a ban has no fixture or a fixture does not fire: a dead ban is
+# an instruction wearing a lab coat. ID <TAB> sentence.
+L001	She took the number down, unhurried, and said nothing.
+L002	He declined to examine what the silence had cost him.
+L003	That was the whole point of it, and she knew it.
+L004	"Good record," she said, and meant it.
+L005	He waited one beat and then went in.
+L006	He had never once said her name at the rail.
+L007	Her hand was on the door before she could vote on it.
+L008	"Don't put my name in your mouth on that board."
+L009	She thought it in plain words, because that was how she thought.
+L010	The visit was timed and short and finished before the light changed.
+L011	They were holding for the first Wednesday in February.
+L012	Verna's office light was on till eleven and never a word about it.
+L013	"Beer again," she said, and he shrugged.
+L014	He shut the door soft, which was its own answer.
+L015	Somebody had brought a casserole to the Gaults' before the supper hour.
+L016	"That's what we're holding for, and I wanted to say it in this truck."
+L017	"I know you know it. Now it's been said where you were."

@@ -596,3 +596,28 @@ Check: the brief's ROOTING FOR names each minor character's want; the
 panel's STANCE test; the dossiers' rows for the family.
 Fails when: a character is "lurking" — present on three pages with no
 stated want; when the reader is asked to guess good guy or bad guy.
+
+## 22. Dark and real, not cartoonish — everyone has a stake
+
+> "We need to add higher stakes for every character… in the moment
+> when that character is on the scene, the reader always knows that
+> the stakes are high for that character." · "I'd actually like some
+> of the character stakes to be a bit darker. In Clavell there is
+> always gambling, cheating, drug abuse. I don't want to go all-in on
+> that… One of the overall problems with the book is that it's a bit
+> 'cartoonish.' Let's start making this book, and the next ones, more
+> dark/real-life." (2026-09-20, on 1.2)
+
+Caught: twenty-one chapters where the leads had stakes and everyone
+else was furniture with lines — a trainer with no life, a mother with
+a notebook. The author's model is Clavell: every character in some
+debacle, usually their own, the reader never owed the ending. The
+vices are the ones real people have and they cost. Nothing drastic.
+Check: `canon/STAKES.md` (the sheet, locked vs proposed); the brief's
+STAKES ON THE PAGE section (`brief-gate.py` refuses a chapter brief
+without it from ch 22); the panel's STANCE test — for each named
+character, what they stand to lose, and whether anyone reads as a
+type.
+Fails when: a named character is on three pages with nothing to lose;
+when a vice is a joke or a costume; when the stake is explained twice;
+when the page shows the vice being done and the author did not ask.

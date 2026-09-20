@@ -108,6 +108,21 @@ def main() -> int:
     if re.search(r"\[FOLD\]", title) and not re.search(r"target\s*→\s*actual|\d+\s*→\s*\d+", body):
         problems.append("a [FOLD] PR carries plan → actual (python3 studio/tools/matrix-strip.py <book> <ch>) — the author sees what the page did against the plan")
 
+    # 7. The lesson loop (author, 2026-09-20: "every bug does two things —
+    #    fix the bug, and fix the environment guardrails"). A [FOLD] PR is
+    #    where the author's comments land; it cannot open while a recent
+    #    author note has no enforcer in studio/lessons/LEDGER.md. (L028)
+    if re.search(r"\[FOLD\]", title):
+        import os, subprocess
+        lc = os.path.join(os.path.dirname(os.path.abspath(__file__)), "lesson-check.py")
+        if os.path.isfile(lc):
+            res = subprocess.run([sys.executable, lc], capture_output=True, text=True)
+            if res.returncode != 0:
+                for ln in (res.stdout or "").strip().splitlines():
+                    if ln.startswith("✗"):
+                        problems.append("lesson-check: " + ln[2:])
+                problems.append("a [FOLD] PR opens only when every author note from the last week has a row in studio/lessons/LEDGER.md with its enforcer (the /lesson skill)")
+
     if problems:
         print("pr-lint: BLOCKED — taste entry 13, talk to the author "
               "like an author", file=sys.stderr)

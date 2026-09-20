@@ -158,3 +158,12 @@ has an opinion about whether the prose is good, and none of them should
 acquire one. That is the panel, the superfan, and the author — and the
 whole point of automating the counting is to spend more of the author's
 attention on the part only he can do.
+
+## The lesson loop (2026-09-20)
+
+The four parts above are for a pattern. For a single author catch the
+shape is smaller and runs the same day: the words (AUTHOR-NOTES), the
+page (a fold pass), the Kind, the enforcer, the ledger row, and
+`lesson-check.py` to prove it. See `/lesson` and
+`studio/lessons/LEDGER.md`. The test of a guardrail is a fixture that
+fires; a guardrail nobody has watched fire is an instruction.

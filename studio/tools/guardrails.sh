@@ -50,6 +50,8 @@ echo
 
 # --- the machine that makes the prose -------------------------------
 run "roster staleness"  python3 studio/tools/roster-staleness.py --quiet
+run "bans fire"         python3 studio/tools/bans.py --test
+run "lesson ledger"     python3 studio/tools/lesson-check.py
 run "canon facts"       python3 studio/tools/fact-check.py "$BOOK"
 run "AI tells"          python3 studio/tools/ai-tells.py "$BOOK"
 run "voice dials"       python3 studio/tools/voice-dial.py "$BOOK" --compare

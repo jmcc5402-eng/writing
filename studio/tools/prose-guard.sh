@@ -36,16 +36,14 @@ while IFS= read -r hit; do
   findings+=("AI-tic (paragraph ends on : or —): $hit")
 done < <(awk 'prev ~ /[:—]$/ && $0=="" {print FILENAME":"NR-1": "prev} {prev=$0}' "$file")
 
-# --- 3. Banned idioms from the recency ledger -------------------------
-RECENT="$REPO/studio/agents/variance/RECENT.md"
-if [[ -f "$RECENT" ]]; then
-  for phrase in "could vote on it" "dress it up" "unhurried" "and meant it" \
-                "that was the whole" "declined to"; do
-    if grep -qi -- "$phrase" "$file" 2>/dev/null; then
-      n="$(grep -ic -- "$phrase" "$file")"
-      findings+=("banned idiom (RECENT.md): \"$phrase\" ×$n")
-    fi
-  done
+# --- 3. Banned idioms — DATA, not a list in this script (L028) ---------
+# studio/lessons/bans.txt is the source; a ban added there with a fixture
+# is enforced here the same day. Until 2026-09-20 six phrases from August
+# were hardcoded below while RECENT.md carried twenty.
+if [[ -f "$REPO/studio/tools/bans.py" ]]; then
+  while IFS= read -r hit; do
+    [[ -n "$hit" ]] && findings+=("$hit")
+  done < <(python3 "$REPO/studio/tools/bans.py" "$file" 2>/dev/null)
 fi
 
 # --- 4. Sentence discipline on ADDED lines only -----------------------

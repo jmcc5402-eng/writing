@@ -1,0 +1,16 @@
+# reader-tests.txt — the unlintable lessons, enforced as "a named reader
+# ran this test and left the verdict on disk." The accept gate (from
+# READER_TESTS_FROM in accept-gate.sh) requires, for every row, that the
+# chapter's verdict file matches GLOB and contains TOKEN on a line that
+# starts with TESTS:. Adding a row here makes the gate demand the test
+# the same day; the agent file must carry the test by the same name
+# (lesson-check.py verifies).
+# ID <TAB> agent <TAB> test name (as in the agent file) <TAB> verdict glob <TAB> token
+L018	romance-reader-panel	THE TOUCH	ch{CH}-panel-*.md	touch
+L019	romance-reader-panel	THE STANCE	ch{CH}-panel-*.md	stance
+L020	romance-reader-panel	THE ACHE	ch{CH}-panel-*.md	ache
+L021	romance-reader-panel	POEM	ch{CH}-panel-*.md	poem
+L022	romance-reader-panel	MYSTERY	ch{CH}-panel-*.md	mystery
+L023	romance-reader-panel	THE JOKE	ch{CH}-panel-*.md	joke
+L024	romance-reader-panel	APART	ch{CH}-panel-*.md	apart
+L032	romance-reader-panel	THE STANCE	ch{CH}-panel-*.md	stance

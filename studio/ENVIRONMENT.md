@@ -44,6 +44,20 @@ running them depended on an agent remembering.
 `PreToolUse` is the only event that can stop an action. Everything else
 reports.
 
+### The lesson loop (author, 2026-09-20: "every bug does two things")
+
+| Piece | What it does |
+|---|---|
+| `studio/lessons/LEDGER.md` | every author catch, its Kind, and what now enforces it — or why nothing can |
+| `studio/lessons/bans.txt` + `fixtures.tsv` | the greppable bans as data; `bans.py --test` proves each one fires. `prose-guard.sh` and `chapter-lint.sh` read the file, so a ban is enforced the day it is written |
+| `studio/lessons/reader-tests.txt` | the unlintable lessons: a reader, a test, a token. `accept-gate.sh` demands the token on the verdict's `TESTS:` line (from ch 22) |
+| `studio/tools/lesson-check.py` | refuses a ledger row with no enforcer, a ban with no fixture, a reader test the agent does not carry, and a recent author note with no ledger row. Runs in `guardrails.sh`, and `pr-lint.py` runs it on every [FOLD] PR |
+| `/lesson` | the procedure, per catch: the words, the page, the Kind, the enforcer, the row, the check |
+
+Its first run caught, on the chapter it was built from, a place-stamped
+line ("She had not said it yet in this building") that the drafter, the
+panel and the showrunner had all read past.
+
 ### On demand
 
 ```

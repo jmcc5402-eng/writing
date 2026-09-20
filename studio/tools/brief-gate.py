@@ -40,6 +40,14 @@ def check(path: str) -> list[str]:
     if not m:
         return [f"no AUDIT ADDENDUM in {os.path.relpath(path)} — the card and brief are audited together before a drafter launches (drafter rule 8; BACKLOG F36)"]
     tail = text[m.end():]
+    # L031 (author, 2026-09-20): every named character on the page has a
+    # stake the reader knows. From ch 22 a chapter brief carries a
+    # "STAKES ON THE PAGE" section naming each one's stake and whose line
+    # drops it (canon/STAKES.md is the sheet).
+    STAKES_FROM = 22
+    mch = re.search(r"brief-ch(\d+)\.md$", path)
+    if mch and int(mch.group(1)) >= STAKES_FROM and not re.search(r"^#+ .*STAKES ON THE PAGE", text, re.M):
+        return [f"no 'STAKES ON THE PAGE' section in {os.path.relpath(path)} — from ch 22 every named character on the page has a stake the reader knows (taste 22; canon/STAKES.md; L031)"]
     if not re.search(r"^(#+ |\*\*)?VERDICT:", tail, re.M):
         return [f"the addendum in {os.path.relpath(path)} has no '## VERDICT:' line — a heading is not an audit"]
     if len(tail.split()) < 150:
