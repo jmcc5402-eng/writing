@@ -2,6 +2,41 @@
 
 Manuscript-affecting changes, newest first. (Hard rule 6.)
 
+## 2026-09-20 — ch 21 ACCEPTED (#177) and folded; the author's seven comments applied (fold PR; B2-D26)
+
+- The author's comments, applied by the drafter (1.7.0, card D4):
+  (1) Missy and Denny's wants said plain in Aisha's read — one
+  paragraph in scene 1 (she came in wanting him on the field; drove
+  him to Birmingham to have another doctor say the first one was
+  wrong and has said nothing since; deciding whether the doctor is the
+  enemy; Denny wants Trey playing and the doctor gone); (2) one
+  paragraph on the storm as weather — rain onto a frozen hill, a
+  glaze not snow, the sleeve of ice on the branches, the sound on the
+  roof; (3) freezing rain named in the cab, "like sand on tin"; (4)
+  the touch has a body — "Electricity went up her arm and into her
+  chest, and she stopped breathing" / "Her stomach dropped, the same
+  drop as the road at the top of Millrow"; the shoulder on the hill;
+  (5) "I wanted to say it in this truck" and "it's been said where you
+  were" CUT — he stops at "That's what we're holding for"; her "I
+  count it too."; (6) the vaguepost moved off the parents' board into
+  the gossip room, said once ("Sideline Tea was where the county
+  talked about who was seeing whom. She read it because the county
+  did."); (7) the ache — "She wanted him here, this morning… an ache
+  the size of a fist. Three weeks without him was not possible… She
+  was going to do it anyway."
+- By the orchestrator: two short exchanges to bring talk back toward
+  the quiet band after the additions (the trainer's "Mine's the same
+  as yours. I'm not driving that."; "That's not sleet." / "Freezing
+  rain. It doesn't quit till the air does."). Header to ACCEPTED.
+- The fold: THREADS ch 21 entry; F12 on the page; the dossiers' row
+  21; the arc row; boyd-arc row 21; thirteen registry rows (the cab,
+  the gloves, the tracks, the storm, the scout, the file, the re-eval,
+  Verna's third anchor, the wants, the handles, the gossip room);
+  B2-D26; STATE. Studio: taste 20 and 21, 17 and 19 amended; STYLE
+  "The touch has a body," "Nobody says where a thing was said";
+  RECENT ban; drafter 1.7.0; panel 1.6.0; AUTHOR-NOTES 216–222.
+- Re-leveled by panel 1.6.0 after (see the fold PR).
+
 ## 2026-09-19 — ch 21 "Rides Home" drafted: three blind candidates, C wins (chapter PR)
 
 - The first set piece under the matrix (`canon/TARGETS.md` row 21:

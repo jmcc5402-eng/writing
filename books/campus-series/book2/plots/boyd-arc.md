@@ -116,3 +116,4 @@ never "Trey." He calls her "the doctor." He never has a punchline.
 *Approving this merges it into `arc-docs.md` as Part 4 and adds
 "Boyd" to the chapter card, the kit template (11 and 12), and the
 build check's list of arcs the audit reads.*
+| 21 | Absent. The survey's blue chalk on the Millrow curb below Delmar's is under the ice, one clause (menace 1 against a plan of 0 — the brief's own licensed clause). | The money is under the weather this week; nothing moves. |

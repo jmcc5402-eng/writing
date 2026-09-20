@@ -966,6 +966,127 @@ quarterback's father unanswered; 22 — the window shuts Thursday,
 Coach's Table round two; 23 — the frame; 24 — the review with its
 trigger; 27 — F9 pays, F3's decode; 29 — the coat.
 
+### Ch 21 — Rides Home (ACCEPTED #177, 2026-09-19; THE FIFTH SET PIECE — three blind drafters, C won; the author's seven comments applied in the fold PR — B2-D26; THE FIRST CHAPTER WRITTEN TO A MATRIX ROW)
+Introduces: **Wednesday the thirteenth of January, said in the first
+paragraph** (opening on Missy carrying the one chair out of the boxed
+office into the annex hall); **THE ICE STORM (B2-D19) ON THE PAGE**:
+rain onto a hill already below freezing, a glaze not snow, a sleeve
+of ice on every branch on Millrow, the lines sagging and holding, the
+sound on the annex roof and on the cab's roof "like sand on tin";
+nobody in this county drives on ice; the college shut two days; NO
+power out, NO salt truck, NO stranded night; **the January re-eval on
+the annex bike as a CHECK UNDER LOAD, not a rung** (the ladder's next
+rung is five, full practice, and there is no practice till spring
+workouts): the full twenty at the cap against December's fourteen,
+91 resting / 133 at twelve / 136 at twenty, no symptom, "not cleared"
+because nothing exists to clear him into; the trainer in the room
+("That's the twenty on 7" — **B2-D25.6 locked: the trainer says "7,"
+never "Trey"**); Missy in the hall on the office chair with the
+notebook, *Twenty* underlined once and looked at longer than it took
+to read; **MISSY AND DENNY'S WANTS SAID PLAIN (B2-D26.1, taste 21)**:
+she came in wanting him on the field and still does; drove him to
+Birmingham to have another doctor say the first one was wrong and has
+said nothing since (the report's contents stay DARK — B2-T04 OWED 28);
+"today she was deciding whether the doctor was the enemy"; Denny
+wants Trey playing and the doctor gone, loudest on the board (RH2
+holds); **F12 ON THE PAGE — the thaw, small**: Missy brings the chair
+back around the desk "where it went," reads the file's top line from
+the door, "That for Birmingham?" / "No. Birmingham has everything.
+This is for whoever comes asking in the spring."; no thank-you (she
+has not said it in this building and does not start); **THE
+RETURN-TO-PLAY FILE FOR THE SCOUTS**: both scans, the tape times,
+every rung dated, the hold as the reason his brain is worth drafting;
+"a scout" defined once (a man a professional team paid to watch a
+college player and say what he was worth); UNSENT — Missy's or Trey's
+to hand over (the Birmingham release wall holds); costs her the
+evening and the board's reading, said once; **the staff sent down at
+three, said once; nobody else in either building; the trainer's car
+up the hill like hers ("Mine's the same as yours. I'm not driving
+that."); WHY THE RAV4 STAYS AND THE TRUCK GOES — a person's reason
+(he has gone down Millrow in the dark every winter night he has lived
+here; she has driven it in daylight), no tires, no four-wheel**;
+Aisha's edge spent once ("Well, shit," on her own step — 2 remain);
+Dan at the warm-end door at a quarter to six, no hat, ice in his
+hair, "the face from the rail, set, and looking at her, and then not
+set"; "Yours doesn't go down that tonight, Doc." / "Then get in.
+He's coming too."; **THE CAB (NEW FURNITURE)**: one bench the width
+of the truck, the heater, the dash light up under his jaw, one glove
+on the dash and one on the seat against her hip, bare hands on the
+wheel; three across — the trainer at the door, her in the middle,
+her shoulder against his arm and "the skin under it went warm"; the
+one laugh ("It's warm in here." / "It's the heater." — Dan and the
+trainer at once); "Slowest I've ever been down this hill"; freezing
+rain named in the cab ("It doesn't quit till the air does"); she
+looks at him in the dark the whole first half of the hill and keeps
+her hands on the tablet and does not want to; the survey chalk under
+the ice below Delmar's (one clause); the trainer out at the corner of
+the square ("Thanks for the ride, Coach. Doctor."); **the last minute
+alone**: she did not move over with a whole bench to her right, and
+knew it; **HEAT 5 IN VERNA'S LOT — THE HAND**: his hand palm down on
+the bench beside the glove, hers moves an inch before she has decided
+and stops, then goes the rest of the way; **THE TOUCH HAS A BODY
+(B2-D26.3, taste 20)**: "Electricity went up her arm and into her
+chest, and she stopped breathing" / his palm turns over under hers
+and closes / "Her stomach dropped, the same drop as the road at the
+top of Millrow. Her pulse was in that hand now, fast against his
+palm."; "nobody could see it" attached to the HAND; **THE DATE, said
+as a date**: "After signing day. The class closes and that's
+February. That's three weeks from tonight. I've been counting it
+every night. That's what we're holding for." / "I know what the
+date is… I count it too. Don't get out, Dan." (**the place-stamped
+lines CUT — B2-D26.4**); he does not get out; she does not thank him;
+"nine, her room at the Magnolia Court"; **VERNA AT HER WINDOW, never
+says** — looks at the truck "the way she looked at a plate from out
+of state"; the tracks in the gravel; APART-WHY said once in her head
+(the trainer in the cab for the hill, the weather, the minutes — and
+a two-door truck in Verna's gravel after dark is the thing the whole
+county can see: the cost, not a break; "The one thing the terms had
+bought her was nothing anybody could see, and the weather had spent
+it in ten minutes"); **THURSDAY THE FOURTEENTH, six, boots on**: the
+RAV4 up the hill, the empty space in front of nine lit at 6:15 by
+Verna's light (a thing the county reads); the parents' board football
+and the weather; **THE GOSSIP ROOM (B2-D26.5, NEW CANON)** — "Grapevine
+had a smaller room that was not about football. Sideline Tea was where
+the county talked about who was seeing whom. She read it because the
+county did." `[TK name — the author confirms or renames]`; **VAGUEPOST
+2 in that room**, under AshfordBornAndBred (local, since the fall), no
+photo, no reply: "Interesting to see who gets rides home from the
+facility these days."; **F7 READ THE OTHER WAY** in her head: the
+two-door truck that cleared them in December on Earlene's count is
+the truck the county puts her in now; she holds; Verna at 6:30 with
+the coffee and the radio (WDSS: the college shut through Friday) —
+**VERNA'S THIRD ANCHOR**: "Ice won't hurry for anybody. Healing's the
+one thing in this county that won't hurry for football, and it never
+has, and I'd have said so in September if anybody'd asked." — no
+reply (3, 15, 21); Missy's seven o'clock page (*Twenty*, "Slept nine
+hours. Headache zero."; "Good record."); the twenty held overnight,
+into the file; **THE ACHE (B2-D26.6)**: "She wanted him here, this
+morning, with the ice still in his hair, and not three weeks from
+now. It sat under her breastbone, an ache the size of a fist. Three
+weeks without him was not possible… She was going to do it anyway.";
+ENDS UP on the tracks and the hand: "That was one night out of three
+weeks, and it was spent, and it had held. Twenty more nights like it,
+and then February." Epigraph: FridayNightFaye, an out-of-state mother
+with the radar up ("The roads are not fine"), no weekday (the keeper's
+ruling: a handle is a proper noun, not a date). Romance (**B2-T10:
+stage 4 held, In 4 / Out 4; no new rung**; the hand at charge 5).
+**TARGETS**: plan → actual — romance 7 → 7 (three blind reads); heat
+5 → 5; fun 1 → 1; ends up → up; Aisha 2 → 2; Dan 1 → 1; wound 2 → 2;
+town 2 → 3; menace 0 → 1 (the chalk); talk quiet → 7.6% after the
+fold (the seven additions were narration); words 3500 → ~4,240 after
+the fold. Edges: one spent (2 remain). Hands forward: 22 — the window
+shuts Thursday (NOT said on this page — ch 22 carries it), Coach's
+Table round two, the hold defended on air, "two weeks out" is WRONG
+from Jan 14 (twenty days — say "three weeks" or the date), the
+gossip room's second post, the third solo-morning ending would be a
+template (taste 6 — 22 ends flat, in a room with people); 23 — the
+frame (B2-T05, the photo the reader holds and she cannot know); 24 —
+the review; 28 — Missy stands up (B2-T04 pays: the proof in her purse
+since December 23rd; F12 pays); 30 — Trey's spring clearance on her
+letterhead, the file in Missy's hands; the survey stakes (26) cross
+the chalk seen under the ice here; the fourth call (she tells him
+about Boyd's offer) still unruled — not on this page.
+
 ## New canon recorded at this fold
 
 Kickoff (rivalry game) 2:30 · Doss County RATIFIED (SR-B2-6;

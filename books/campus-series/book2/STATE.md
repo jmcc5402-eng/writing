@@ -109,11 +109,27 @@ audit (E4): five one-line fixes applied. Open: the trainer's "Trey"
 (name map); the fourth call (she tells him about the offer); the
 targets-before-the-chapter set (B2-D25.5); the dog.
 
-**Then ch 21** — "Rides Home," Aisha; the ice storm (B2-D19; the day
-locked at the card, default Wednesday the 13th); Trey's re-eval on the
-annex bike with the trainer in the room; F12 (the return-to-play
-portfolio, Missy watching); the ride in the two-door truck; vaguepost
-2; her office in boxes since the 5th.
+**Ch 21 ACCEPTED (#177, 2026-09-19) and FOLDED (2026-09-20) — the
+first chapter written to a matrix row.** Three blind drafters, C won;
+three blind panel reads landed the row exactly (romance 7 · heat 5 ·
+laughs 1 · ends up). The author's seven comments applied (B2-D26):
+Missy and Denny said plain (taste 21), the storm as weather (taste
+17), the touch has a body (taste 20), the place-stamped speech cut
+(RECENT), the post in the new gossip room ("Sideline Tea" — name TK),
+the ache. Open: the sweep of the nine place-stamped lines on accepted
+pages; the gossip room's name and whether ch 12's vaguepost moves;
+the author's own romance number for 21; the fourth call; the cast
+stakes sheet (the author's Clavell ask, 2026-09-20 — ideas sent,
+picks pending).
+
+**Then ch 22** — Dan; Thursday Jan 14, the window shuts; Coach's
+Table round two; the hold defended on air; the town acts again (the
+editor's baseline note); ends flat, in a room with people (not a
+third solo morning — taste 6); "two weeks out" is WRONG from Jan 14
+(twenty days); matrix row 22: Romance 5 · Heat 2 · Aisha 1 · Dan 2 ·
+Wound 1 · Fun 1 · Town 3 · Menace 2 · Ends flat · Talk normal · Words
+3200 · Pays Dan. Every minor character on the page gets a want, said
+plain (taste 21).
 
 **Was: Ch 20 DRAFTED (2026-09-17), PR open — the first chapter under the
 gates** (brief-gate, card-lint, prose-guard, accept-gate; chapter-proof
