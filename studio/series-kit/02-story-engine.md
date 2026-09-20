@@ -25,6 +25,7 @@ audited against this table._
 | 4 | <a local friend + an ally who holds proof but can't act> | |
 | 5 | <a visible public clock> | on the page EARLY, date stated |
 | 6 | <weather/environment changes the PLOT, not the decor> | |
+| 6a | <every named character has a stake the reader knows in the moment; some dark; STAKE × LEVER — kit 15, studio/craft/stakes.md> | |
 | 7 | <a "first" — tech, skill, or experience> | |
 | 8 | <local transport/system mastered> | can double as a clue plant |
 | 9 | <a skill planted early that pays in the climax> | |

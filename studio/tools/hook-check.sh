@@ -78,6 +78,12 @@ printf '{"tool_input":{"command":"git add studio/STYLE.md && git commit -m \\"ca
 printf '{"tool_input":{"command":"git add studio/STYLE.md && git commit -m \\"studio: x\\""}}' \
   | expect 0 "commit-scope passes one scope, right prefix" python3 "$ROOT/studio/tools/commit-scope.py"
 printf '{"tool_input":{"command":"ls -la"}}' | expect 0 "commit-scope ignores a non-commit command" python3 "$ROOT/studio/tools/commit-scope.py"
+printf '%s' '{"tool_input":{"command":"git add books/campus-series/book2/STATE.md && git commit -m \"campus: a\" && git add studio/STYLE.md && git commit -m \"studio: b\" && git add .claude/skills/lesson/SKILL.md && git commit -m \"agents: c\""}}' \
+  | expect 0 "commit-scope passes three scoped commits on one line" python3 "$ROOT/studio/tools/commit-scope.py"
+printf '%s' '{"tool_input":{"command":"git add .claude/skills/lesson/SKILL.md && git commit -m \"studio: c\""}}' \
+  | expect 2 "commit-scope knows .claude/skills is the agents scope" python3 "$ROOT/studio/tools/commit-scope.py"
+printf '%s' '{"tool_input":{"command":"python3 - <<EOF\nprint(\"git add a && git commit -m x\")\nEOF\n"}}' \
+  | expect 0 "commit-scope ignores a git commit quoted inside a heredoc" python3 "$ROOT/studio/tools/commit-scope.py"
 
 # --- the bans' own fixtures --------------------------------------------
 expect 0 "bans.py --test: every ban fires on its fixture" python3 "$ROOT/studio/tools/bans.py" --test
