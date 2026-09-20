@@ -3,6 +3,20 @@
 Newest first. Every entry: version, what changed, and the evidence that
 drove it.
 
+## 2026-09-20 (night) — drafting-assistant 1.7.2, romance-reader-panel 1.6.4: the touch is a scene, not a sentence
+
+The author, rereading ch 21's cab: "we just have one line that her arm
+goes warm… a key moment of love mixed with awkwardness." The panel's
+TOUCH test had passed the cab on that one line — the test asked for
+a body sentence and got one. It now counts the body sentences at the
+chapter's highest touch and quotes the confusion said plain; three
+or fewer is a finding (L054). The drafter's rule 9 says the same.
+The cause was an instrument: RECENT's August scrub ban "one
+involuntary-body beat per chapter max" rode in every campus brief
+and told the drafter to write one line. Narrowed to outside touch
+scenes (L055); chapter-lint TOUCH SPAN counts the body sentences
+around each touch so the next one-line cab shows up before a reader.
+
 ## 2026-09-20 (night) — continuity-keeper 1.4.4: the clock between scenes, standing
 
 The author, rereading ch 21: "a confusing timeline when Aisha and the

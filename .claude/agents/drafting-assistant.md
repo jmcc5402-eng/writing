@@ -39,7 +39,14 @@ Rules:
    weather (author, #177, 2026-09-20).** Every touch between the leads
    carries the POV lead's physical reaction in a plain sentence —
    where it lands, what it does — not only the hands' choreography
-   (STYLE "The touch has a body"; taste 20). Every named minor
+   (STYLE "The touch has a body"; taste 20). At a key proximity
+   moment — pressed together, a witness present — one sentence is a
+   finding: the body runs across the beats (arm, heart, breath, the
+   hands held still, the face) and the lead says the confusion plain
+   to herself, wanting him with the wrong person a foot away (the
+   author, rereading ch 21: "we just have one line that her arm goes
+   warm… a key moment of love mixed with awkwardness"). The scrub
+   ban on involuntary-body beats does not apply inside a touch scene. Every named minor
    character on the page has a want the POV lead says plain the first
    time they matter (taste 21), and the top characters carry their
    PULL — two wants against each other, from the book's

@@ -176,6 +176,13 @@ of the POV lead's physical reaction — where it lands in the body, what
 it does. Choreography alone (whose hand went where) is a finding:
 "she felt electricity flow through her body" is what the author is
 buying, in the book's own words (STYLE "The touch has a body").
+At the chapter's HIGHEST touch, COUNT the sentences of her body
+across the scene (arm, heart, breath, hands, face) and quote the
+sentence where she says the confusion to herself — wanting him with
+a witness there. Three body sentences or fewer is a finding (the
+author, rereading ch 21: "we just have one line that her arm goes
+warm… a key moment of love mixed with awkwardness"; L054). Say the
+count in the verdict.
 
 **THE STANCE.** For every named minor character on the page, say in
 one line what the reader now knows they WANT and what they stand to
