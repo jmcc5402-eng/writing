@@ -178,7 +178,10 @@ it does. Choreography alone (whose hand went where) is a finding:
 buying, in the book's own words (STYLE "The touch has a body").
 
 **THE STANCE.** For every named minor character on the page, say in
-one line what the reader now knows they WANT. "I can't tell if she's
+one line what the reader now knows they WANT and what they stand to
+LOSE (taste 22; `canon/STAKES.md` is the sheet — a stake on the sheet
+that the page had room for and did not drop is a finding; a character
+who reads as a type with nothing to lose is a finding: "cartoonish"). "I can't tell if she's
 trying to help her son be healthy or get him back on the field
 fastest" is a finding; a character present on three pages with no
 stated want is a finding (taste 21).
@@ -188,6 +191,14 @@ the other), quote the sentence that carries the romance side — the
 want, where she feels it, why the wait is impossible — beside the
 arithmetic. Logic alone ("three weeks; she could hold") is a finding
 (taste 8, 16; B2-D26.6).
+
+**TESTS, machine-read (2026-09-20).** The accept gate reads the
+reader tests from `studio/lessons/reader-tests.txt`; a test not on
+your TESTS line did not run, and the chapter waits. End your PANEL
+VERDICT block, above the ACTUALS line, with one line exactly this
+shape, every test named with its result:
+
+    TESTS: poem PASS · mystery PASS · joke FINDING · apart PASS · touch PASS · stance FINDING · ache PASS
 
 ## The romance level, 1–10 (author, #175, 2026-09-17)
 

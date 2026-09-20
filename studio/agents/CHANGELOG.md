@@ -3,6 +3,25 @@
 Newest first. Every entry: version, what changed, and the evidence that
 drove it.
 
+## 2026-09-20 — the lesson loop; romance-reader-panel 1.6.1 (the TESTS line; the stance test asks what they stand to lose)
+
+The author: "every bug does two things: fix the bug, and fix the
+environment guardrails… in this new paradigm where we use skills,
+hooks, in addition to md files." Built: `studio/lessons/` (the ledger,
+the bans as data with fixtures, the reader tests), `bans.py` (the
+guards read the data; `--test` proves every ban fires),
+`lesson-check.py` (every catch has an enforcer; runs in guardrails and
+on every [FOLD] PR), the `/lesson` skill. `prose-guard.sh` and
+`chapter-lint.sh` now read `bans.txt` instead of a hardcoded list —
+its first run caught a place-stamp on ch 21 three readers had missed.
+- **romance-reader-panel 1.6.0 → 1.6.1:** the verdict ends with a
+  `TESTS:` line the accept gate reads (from ch 22); THE STANCE test
+  now asks what each named character stands to LOSE and whether anyone
+  reads as a type (taste 22, the author's Clavell direction:
+  `canon/STAKES.md`).
+- `brief-gate.py`: from ch 22 a chapter brief carries STAKES ON THE
+  PAGE (L031).
+
 ## 2026-09-20 — the author's ch 21 comments (#177): drafting-assistant 1.7.0, romance-reader-panel 1.6.0
 
 Seven comments on the merged chapter, every one a miss the readers
