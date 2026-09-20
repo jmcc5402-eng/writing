@@ -355,8 +355,8 @@ register (B2-D25.1 — nothing explained); Delores counting with the pen
   the trawl has no author and the page does not wink at one. Jokes
   understood (c) — there are none (Fun 0). Apart-why said (d).
 - ONE anchor (Delores's, or Verna's if call 3 goes the other way).
-  Edges: Aisha may swear ONCE (the edges ledger: check THREADS before
-  spending); not in the text to Marisol.
+  Edges: ONE remains for the whole book (THREADS, ch 22 entry) — NOT
+  spent here; save it for ch 27. Nobody swears on this page.
 - Calendar: "Monday the eighteenth of January" in the first paragraph;
   "the third of February" / "sixteen days"; the hill clear "since
   Saturday"; NEVER "two weeks"; never "signing day" as narration's
@@ -386,9 +386,9 @@ register (B2-D25.1 — nothing explained); Delores counting with the pen
   "Interesting to see who" (ch 12, 21 — the county's line, spent);
   "Sideline Tea"; Ty for the trainer; any sentence quoted as an
   example in the audit addendum.
-- The epigraph's handles unused by 19–22: GrammyInSectionC,
-  PomPoms&Prayers, Tim Brasher (check the ch 22 epigraph's handle in
-  the registry and skip it).
+- The epigraph's handles unused by 19–22: GrammyInSectionC, Tim
+  Brasher (PomPoms&Prayers was ch 22's; Rhonda Sipes is this
+  chapter's poster and cannot be the epigraph's eye).
 - ECHO REPLIES and volleys: findings anywhere.
 - `[TK ...]` only between beats.
 
@@ -397,8 +397,8 @@ register (B2-D25.1 — nothing explained); Delores counting with the pen
 Per STYLE "The epigraph" and taste 19: a parent's eye, no plot, no
 count, no rule, no named object, no weekday. The thaw from a mother's
 side — the dorm's wet coats, a car that started, "he says he's fine
-and he sounds fine" — under a handle from registry 24 not used by ch
-19–22, under 35 words. NOT the album, NOT the picture: the epigraph
+and he sounds fine" — under GrammyInSectionC or Tim Brasher (registry
+24; unused by ch 19–22), under 35 words. NOT the album, NOT the picture: the epigraph
 does not know what the chapter knows.
 
 ## TASTE (the entries this chapter risks)
