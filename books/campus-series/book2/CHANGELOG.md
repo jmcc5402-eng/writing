@@ -2,6 +2,32 @@
 
 Manuscript-affecting changes, newest first. (Hard rule 6.)
 
+## 2026-09-20 (night) — ch 23 "The Album" drafted: three blind candidates, B wins (chapter PR) — THE FIRST CHAPTER RUN WITH THE AUTHOR'S READ AND THE AUTHOR-PROXY
+
+- The card (`notes/cards/ch23-card.md`) and the brief
+  (`plots/brief-ch23.md`, with THE AUTHOR'S READ — the author's six
+  questions answered per scene, L056) audited together by the keeper
+  (E6): four blocks — the photo's minute struck (eleven; no minute on
+  any page), the father's thumb out of the picture (it is the posting),
+  the trawl has no author for the reader either (F3's plant was on no
+  page; moves to 24/25), Delores at the annex with the crew as the card
+  said — and fourteen non-blocking fixes applied.
+- Three blind drafters (D6, D1, D4). Each candidate read FIRST by
+  `author-proxy` 1.0.0 (the author's comments verbatim as its brief;
+  L057), then by the blind panel (1.6.4). All three: romance 6 · heat
+  3 · ends down. B wins (`notes/ch23-scoreboard-2026-09-20.md`): on
+  budget, normal talk, a clean clock, three laughs, POINT passed.
+- The revision pass on B: the proxy's eight and the panel's seven —
+  the trainer's line said once; the truck and the door given her body;
+  the trainer's third and last stake drop; Rhonda's December sentence
+  said where it is teased; the letter named; Boyd's crew named as his;
+  signing day and the terms said plain; Kat introduced; the board's
+  why; the survey scene warmed with him; the recap cut; two tics
+  recast; the bracket out of the prose.
+- Instrument from this run: the panel on B saw the card's Targets
+  line — `card-blind.py` now writes the blind copy (L059; panel
+  1.6.5).
+
 ## 2026-09-20 (night) — ch 21: Missy's pull and the timeline bridge (the author rereading; fold PR; B2-D29)
 
 - "She seems like a zombie." The drafter's pass on Missy's three
