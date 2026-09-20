@@ -66,7 +66,9 @@ def strip_heredocs(command: str) -> str:
 
 
 def commits_in(command: str) -> list[tuple[str, list[str]]]:
-    pending: set[str] = set(git("diff", "--cached", "--name-only"))
+    # COMMIT_SCOPE_NO_INDEX=1: judge the command line alone (hook-check
+    # runs while real work sits staged)
+    pending: set[str] = set() if os.environ.get("COMMIT_SCOPE_NO_INDEX") == "1" else set(git("diff", "--cached", "--name-only"))
     out = []
     for seg in re.split(r"&&|;|\|\||\n", strip_heredocs(command)):
         seg = seg.strip()

@@ -15,6 +15,15 @@ import sys
 
 src, dst, title = sys.argv[1], sys.argv[2], sys.argv[3]
 card = sys.argv[4] if len(sys.argv) > 4 else None
+# F57 (audit 3): the card rides to the author on this file, not through
+# SendUserFile, so the lint runs HERE too — a failing card never rides.
+if card:
+    import os, subprocess
+    _r = subprocess.run([sys.executable, os.path.join(os.path.dirname(os.path.abspath(__file__)), "card-lint.py"), card], capture_output=True, text=True)
+    if _r.returncode != 0:
+        sys.stderr.write(_r.stderr)
+        sys.stderr.write("listening-file: REFUSED — the card fails card-lint; fix it before it rides to the author\n")
+        sys.exit(2)
 lines = open(src, encoding="utf-8").read().split("\n")
 body = lines[lines.index("---") + 1:]
 out = [f"# {title}", ""]

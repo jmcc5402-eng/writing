@@ -144,6 +144,11 @@ def main() -> int:
         s = re.sub(rf"^\| {int(ch)} \|.*\n", "", s, flags=re.M)
         open(led, "w").write(s.rstrip("\n") + "\n" + line)
         print(f"  recorded → {os.path.relpath(led)}")
+    # F48 (audit 3): a reader shown the target returns it. When every
+    # panel field equals the card, say so — the panel is launched blind
+    # to the Targets line from ch 22.
+    if a_rom == t_rom and a_heat == t_heat and a_laugh == t_laugh and str(a_end).lower() == str(t_end).lower():
+        print("  ECHO? the panel's actuals equal the card's targets in every field — a reader shown the target returns it (audit 3, F48); launch the panel blind to the Targets line", file=sys.stderr)
     if fail:
         print(f"  HOLD — the romance level is two or more under its target; back to the drafter, or the author lowers the target on the card and says why.", file=sys.stderr)
         return 2

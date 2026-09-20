@@ -52,10 +52,20 @@ fi
 # A chapter that is ALREADY accepted and is being edited again is a
 # retrofit: the most dangerous class, because whole-book knowledge writes
 # lines the page cannot support. It owes a continuity read, always.
+# The keeper's read of THIS chapter (audit 3, F56: any *continuity*.md
+# used to satisfy every chapter forever). From ch 21 the page audit is
+# a file named for the chapter; retrofits of older chapters still owe
+# a sweep file.
+KEEPER_FROM=21
 if [[ "$MODE" == "--retrofit" ]] || head -12 "$CHAP" | grep -qi "ACCEPTED"; then
-  compgen -G "$NOTES/*continuity*.md" >/dev/null 2>&1 \
-    || compgen -G "$NOTES/*sweep*.md" >/dev/null 2>&1 \
-    || missing+=("continuity-keeper → notes/*continuity*.md  (REQUIRED: this chapter is folded prose)")
+  if (( 10#$CH >= KEEPER_FROM )); then
+    have "ch${CH}-keeper-*.md" \
+      || missing+=("continuity-keeper → notes/ch${CH}-keeper-<date>.md  (REQUIRED: the page audit of this chapter, not a sweep)")
+  else
+    compgen -G "$NOTES/*continuity*.md" >/dev/null 2>&1 \
+      || compgen -G "$NOTES/*sweep*.md" >/dev/null 2>&1 \
+      || missing+=("continuity-keeper → notes/*continuity*.md  (REQUIRED: this chapter is folded prose)")
+  fi
 fi
 
 # Every agent run draws a variance card and logs it.
@@ -104,6 +114,8 @@ if (( 10#$CH >= READER_TESTS_FROM )) && [[ -f "$REPO/studio/lessons/reader-tests
     if compgen -G "$NOTES/$g" >/dev/null 2>&1; then
       if ! grep -hi "^TESTS:" $NOTES/$g 2>/dev/null | grep -qi "$token"; then
         missing+=("$agent → the verdict's TESTS: line must carry '$token' ($test, $lid) — the reader ran the test or the chapter waits")
+      elif grep -hi "^TESTS:" $NOTES/$g 2>/dev/null | grep -qiE "$token[[:space:]]+FINDING"; then
+        soft+=("$test ($lid): the reader marked it FINDING — read the panel's ask before accepting")
       fi
     fi
   done < "$REPO/studio/lessons/reader-tests.txt"

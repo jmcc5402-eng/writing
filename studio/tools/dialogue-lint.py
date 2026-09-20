@@ -4,9 +4,11 @@
 The dialogue floor (author, 2026-08-18, recorded in
 studio/DRAFTING-PROTOCOL.md): the shelf runs 30-40% dialogue; this
 voice is narration-forward on purpose, so the working targets are a
-book average near 25%, a per-chapter floor of 15%, at most one
-deliberate quiet chapter (~8-10%) per quarter, and never two
-sub-floor chapters in a row.
+book average near 25% and a per-chapter floor of 15%; a chapter the
+matrix plans as QUIET (canon/TARGETS.md) may run 8–15%. Below 8% the
+lint exits 2 (audit 3, F50 — until 2026-09-20 it always exited 0 and
+the accept gate could not fire). The old "one quiet per quarter" rule
+is retired: the matrix decides the band per chapter.
 
 That ruling says: "the linter counts quoted words and reports the
 percentage with every candidate." This is that linter.
@@ -42,7 +44,7 @@ def verdict(pct):
     if pct >= FLOOR:
         return "OK"
     if pct >= QUIET_MIN:
-        return "quiet-chapter band (one per quarter)"
+        return "quiet band (the matrix plans it)"
     return "BELOW FLOOR"
 
 
@@ -66,7 +68,8 @@ def main(paths):
             print(f"sub-floor: {names}")
         if any(b - a == 1 for a, b in zip(sub, sub[1:])):
             print("VIOLATION: two or more sub-floor chapters in a row.")
-    return 0
+    # F50 (audit 3): below the quiet floor is a failure the gate can see
+    return 2 if any(r[3] < QUIET_MIN for r in rows) else 0
 
 
 if __name__ == "__main__":

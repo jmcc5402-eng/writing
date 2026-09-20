@@ -162,6 +162,25 @@ def lint(path: str) -> tuple[list[str], list[str]]:
         if not re.search(r"Words\s+[\d,]{3,6}\b", t): fails.append(f"Targets: Words is a number: \"{t[:60]}\"")
         if not re.search(r"Pays\s+\S", t): fails.append(f"Targets: Pays names who loses: \"{t[:60]}\"")
 
+    # 8. the drafter count on the card matches the brief's Status line (audit 3, F51)
+    m8 = re.search(r"ch(\d+)-card\.md$", path)
+    if m8:
+        bookdir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(path))))
+        bp = os.path.join(bookdir, "plots", f"brief-ch{int(m8.group(1)):02d}.md")
+        if os.path.isfile(bp):
+            btxt = open(bp, encoding="utf-8").read()
+            bstat = re.search(r"\*\*Status:\s*([^*]+)\*\*", btxt)
+            card_head = " ".join(lines[:5]).lower()
+            if bstat:
+                st = bstat.group(1).lower()
+                brief_three = "three blind" in st or "set piece" in st
+                card_three = "three blind" in card_head
+                card_one = "one drafter" in card_head
+                if brief_three and card_one:
+                    fails.append("the card says one drafter; the brief's Status says a set piece (three blind) — make them agree")
+                if (not brief_three) and card_three:
+                    fails.append("the card says three blind drafters; the brief's Status says one — make them agree")
+
     # 5. ledger words
     for s in [x for x in prose if not re.search(r"Romance\s+\d+\s*·", x)] + calls:
         m = LEDGER.search(s)

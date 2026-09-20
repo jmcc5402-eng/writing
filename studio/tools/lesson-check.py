@@ -98,8 +98,14 @@ def audit():
                             break
                     if ok:
                         break
-                if not ok and k != "CANON":
-                    problems.append(f"{lid}: kind {k} but the Enforced-by column names no file that exists: '{r['enforcer'][:60]}'")
+                if k == "CANON":
+                    # F47 (audit 3): a CANON row is enforced only when a fact file carries the ID
+                    ok = False
+                    for cand in glob.glob(os.path.join(REPO, "books", "*", "canon", "FACTS.md")) + glob.glob(os.path.join(REPO, "books", "*", "*", "DECISIONS.md")) + glob.glob(os.path.join(REPO, "books", "*", "*", "canon", "*.md")):
+                        if file_has(cand, lid):
+                            ok = True; break
+                if not ok:
+                    problems.append(f"{lid}: kind {k} but the Enforced-by column names no file that exists{' (a CANON row needs a FACTS/DECISIONS/canon row carrying the ID)' if k == 'CANON' else ''}: '{r['enforcer'][:60]}'")
             elif k == "INSTRUCTION":
                 if "why" not in r["enforcer"].lower():
                     problems.append(f"{lid}: kind INSTRUCTION with no 'Why not enforced' reason in the Enforced-by column")
