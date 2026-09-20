@@ -53,17 +53,24 @@ fi
 # problem — only what this pass introduced.
 if git -C "$REPO" rev-parse --git-dir >/dev/null 2>&1; then
   rel="${file#$REPO/}"
-  added="$(git -C "$REPO" diff -- "$rel" 2>/dev/null | grep '^+' | grep -v '^+++' | sed 's/^+//')"
+  # -U0 and a blank line between hunks, so two added lines from different
+  # places are never glued into one sentence (the ch 22 revision drafter's
+  # note, 2026-09-20: four false "sentence discipline" hits per edit)
+  added="$(git -C "$REPO" diff -U0 -- "$rel" 2>/dev/null | awk '/^\+\+\+/ {next} /^\+/ {print substr($0,2); next} {print ""}')"
   if [[ -n "$added" ]]; then
     while IFS= read -r line; do
       [[ -n "$line" ]] && findings+=("$line")
     done < <(printf '%s\n' "$added" | python3 -c '
 import sys, re
-text = re.sub(r"\s+", " ", " ".join(l.strip() for l in sys.stdin if l.strip()))
-for s in re.split(r"(?<=[.!?])\s+(?=[A-Z\"“>])", text):
-    w, a = len(s.split()), len(re.findall(r"\band\b", s))
-    if w > 30 or a > 3:
-        print(f"sentence discipline: {w}w and*{a} -> {s[:70]}...")
+# blocks of ADDED lines, split wherever a removed or unchanged line sat
+# between them, so two additions from different places never glue
+blocks = re.split(r"\n\s*\n", sys.stdin.read())
+for block in blocks:
+    text = re.sub(r"\s+", " ", " ".join(l.strip() for l in block.splitlines() if l.strip()))
+    for s in re.split(r"(?<=[.!?])\s+(?=[A-Z\"“>])", text):
+        w, a = len(s.split()), len(re.findall(r"\band\b", s))
+        if w > 30 or a > 3:
+            print(f"sentence discipline: {w}w and*{a} -> {s[:70]}...")
 ' 2>/dev/null)
   fi
 fi
