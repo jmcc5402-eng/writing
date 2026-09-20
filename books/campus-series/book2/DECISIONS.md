@@ -909,3 +909,27 @@ weave in this level of conflict throughout the book."
    bans.txt L050 — the flat-face shapes; taste 22 amended. Ch 21's
    Missy scenes get the pass now (the author is rereading it); ch 22's
    Denny already carries his quiet as the pull.
+
+### B2-D29.5 — the clock between scenes; the trainer's name (author, 2026-09-20, rereading ch 21)
+
+"There is a confusing timeline when Aisha and the trainer decide not
+to drive, then it's confusing exactly when Dan comes to pick them up.
+Does Aisha and Ty go back inside first?"
+
+1. **The clock between scenes is on the page.** When a scene ends and
+   the next begins, the page says where each person went, how long,
+   and how the next person knew to come. Ch 21's bridge: after the
+   trainer's line they go back inside — she to the file, he to the
+   rehab rooms — until the truck's lights cross the lot at a quarter
+   to six; Dan came because both their cars were still on his side of
+   the lot from the Fieldhouse window at dark. The keeper checks every
+   scene's entry and exit on every page audit (1.4.4), not only under
+   card E4.
+2. **The trainer's name — OPEN, proposed.** The author wrote "Ty" for
+   the man in the cab; Ty Beaumont is the receivers coach. The trainer
+   has no name on any page (twenty-two chapters), which is why he
+   blurs — the red team's "a stake with no name is a prop with a
+   habit." PROPOSED: Carl Whitlow, "Whit" to the staff, "the trainer"
+   in narration until a lead says it; the author strikes or keeps.
+   Until ruled, "the trainer" stands and the page never says Ty for
+   him.
