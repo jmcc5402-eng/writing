@@ -64,9 +64,12 @@ if ! grep -q "$(date +%Y-%m-%d)" "$REPO/studio/agents/variance/LOG.md" 2>/dev/nu
 fi
 
 # Hard rule 6: manuscript edits are logged in the book's CHANGELOG.
+# The chapter's OWN entry (a heading naming "ch NN"), not a line dated
+# today — a quiet day used to block the gate (BACKLOG F42, fixed
+# 2026-09-20 on the showrunner's board).
 if [[ -f "$BOOKDIR/CHANGELOG.md" ]]; then
-  grep -q "$(date +%Y-%m-%d)" "$BOOKDIR/CHANGELOG.md" 2>/dev/null \
-    || missing+=("CHANGELOG entry for today (hard rule 6) → ${BOOK}/CHANGELOG.md")
+  grep -qiE "^## .*\bch 0?$((10#$CH))\b" "$BOOKDIR/CHANGELOG.md" 2>/dev/null \
+    || missing+=("CHANGELOG entry for ch $((10#$CH)) (hard rule 6) → ${BOOK}/CHANGELOG.md")
 fi
 
 # The two scores a chapter (author, 2026-09-19: "I'd like a skill that

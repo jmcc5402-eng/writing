@@ -28,6 +28,7 @@ anywhere, so just edit and commit.
 
 | Book | What it is | Where it stands |
 |---|---|---|
+| `books/campus-series` | Adult sweet-shelf romance, closed door: a town, a coach, a doctor (Book 1.2 in progress) | Book 1.1 done; Book 1.2 ch 1–21 accepted; the matrix, the gates and the lesson loop run here first |
 | `books/spytwins` | Middle grade (8–12), twins solving mysteries while their parents are secretly spies | Book 1 complete and edited; Book 2 outline started |
 | `books/mybyb` | Adult humor / gift book: surviving your first decade at work | Concept locked, reboot chapters drafting |
 | `books/youngnick` | Frontier survival-adventure that's secretly a Santa origin myth | Bible drafted, key decisions being locked |
