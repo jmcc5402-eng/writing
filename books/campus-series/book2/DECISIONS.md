@@ -933,3 +933,17 @@ Does Aisha and Ty go back inside first?"
    in narration until a lead says it; the author strikes or keeps.
    Until ruled, "the trainer" stands and the page never says Ty for
    him.
+
+### B2-D29.6 — the cab: the touch is a scene, not a sentence (author, 2026-09-20, rereading ch 21)
+
+"When the three are in the truck going slow, this is where we need more internal struggle and body reaction by Aisha. We just have one line that her arm goes warm. Talk about how her arm goes warm, her heart beats. How she thinks about the confusion of wanting Dan but being stuck in a car with Ty. We just need more to make this interesting, this is a key moment of love mixed with awkwardness."
+
+**LOCKED.** At a key proximity moment the POV lead's body runs across
+the beats and the confusion is said plain in her own head — wanting
+him, pressed against him, with the trainer a foot away and able to
+read it. Ch 21's cab section gets the pass (one drafter, in place;
+the existing beats kept). Instruments: taste 20 amended; STYLE; the
+panel counts body sentences at the chapter's highest touch (1.6.4);
+`chapter-lint.sh` TOUCH SPAN; the August "one involuntary-body beat
+per chapter" scrub ban narrowed to outside touch scenes — it was the
+guardrail that made the one line (RECENT.md).

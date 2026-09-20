@@ -18,6 +18,11 @@ Manuscript-affecting changes, newest first. (Hard rule 6.)
   the lot from the Fieldhouse window at dark.
 - The trainer's name: proposed to the author (Carl Whitlow, "Whit");
   "the trainer" stands on the page until ruled.
+- "We just have one line that her arm goes warm." The cab pass
+  (B2-D29.6), one drafter in place: Aisha's body across the ride —
+  the arm, the heart, the breath, the hands held still — and the
+  confusion said plain, wanting Dan with the trainer a foot away.
+  Every existing beat kept.
 
 ## 2026-09-20 (evening) — ch 22 ACCEPTED (#179) and folded; the author's three comments applied (fold PR; B2-D28)
 
