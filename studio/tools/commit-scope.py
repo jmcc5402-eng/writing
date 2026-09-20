@@ -49,7 +49,7 @@ def add_paths(seg: str) -> set[str]:
         toks = shlex.split(seg)
     except ValueError:
         toks = seg.split()
-    args = [t for t in toks[2:] if not t.startswith("-") and ">" not in t and "<" not in t and t not in ("&", "|")]
+    args = [t for t in toks[2:] if not t.startswith("-") and ">" not in t and "<" not in t and "$" not in t and t not in ("&", "|")]
     if any(t in ("-A", "--all") for t in toks) or "." in args:
         return {l[3:] for l in git("status", "--porcelain") if l.strip()}
     out: set[str] = set()
