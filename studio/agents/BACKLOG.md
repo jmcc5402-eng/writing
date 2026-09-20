@@ -299,5 +299,6 @@ Still open:
   forbids. Fix: a branch per chapter (`claude/campus-chNN`), which
   needs the author's standing permission to push new branches; until
   ruled, the showrunner waits for the fold PR to merge before
-  committing the next chapter's draft to the branch. OPEN — the
-  author's call.
+  committing the next chapter's draft to the branch. RULED
+  (2026-09-20): no branches; one open PR at a time; the branch
+  freezes when a PR opens (showrunner 2.4.5; PR-WORKFLOW; L061).

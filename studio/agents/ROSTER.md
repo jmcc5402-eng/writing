@@ -32,13 +32,13 @@ Rules of the project:
 | `kid-reader-panel` | 1.1.0 | inherit | Simulated 8–12 reader reactions |
 | `red-team-critic` | 1.2.0 | inherit / high | Adversarial read before anything goes out |
 | `romance-reader-panel` | 1.6.5 | inherit / high | Simulated 35–45 romance reader: engagement, skim, swoon, DNF |
-| `author-proxy` | 1.0.0 | inherit / high | Reads a draft AS THE AUTHOR — the six standing questions (studio/AUTHOR-QUESTIONS.md) and the author's comments verbatim as its only brief; writes the comments the author would, before the panel; scored against the real comments after |
+| `author-proxy` | 1.0.1 | inherit / high | Reads a draft AS THE AUTHOR — the six standing questions (studio/AUTHOR-QUESTIONS.md) and the author's comments verbatim as its only brief; writes the comments the author would, before the panel; scored against the real comments after |
 | `superfan-reviewer` | 1.0.0 | inherit / high | The retail review section, predicted: star math, pet peeves, promise-keeping; the anti-professional-critic |
 | `culture-researcher` | 1.1.0 | inherit | Setting/culture research + fact-check, web access |
 | `market-pitch-agent` | 1.1.0 | inherit | Comps, queries, synopses, publishing strategy |
 | `junior-literary-critic` | 1.1.0 | inherit / high | Two-part outside read: one-page critique + one-page prioritized recommendations |
 | `gtm-strategist` | 1.0.0 | inherit / high | Go-to-market strategy and portfolio economics; materials stay with market-pitch-agent |
-| `showrunner` | 2.4.4 | inherit / high | The ambitious publisher-author: nightly all-books shift, publisher's-eye + author's-eye per book, dispatches the instrument battery, momentum mandate; still never writes prose, decides canon, or merges |
+| `showrunner` | 2.4.5 | inherit / high | The ambitious publisher-author: nightly all-books shift, publisher's-eye + author's-eye per book, dispatches the instrument battery, momentum mandate; still never writes prose, decides canon, or merges |
 | `instrument-auditor` | 1.1.0 | inherit / high | The audit of the instruments themselves, every four accepted chapters: rules that became templates, author catches no instrument caught, rule-vs-practice drift, agent contradictions, stale references, ledger ghosts, blind spots, over-tooling. Proposes; never edits |
 
 Plus the skills `/new-book-outline` (`.claude/skills/new-book-outline/`)

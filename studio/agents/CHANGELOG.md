@@ -3,6 +3,19 @@
 Newest first. Every entry: version, what changed, and the evidence that
 drove it.
 
+## 2026-09-20 (night) — author-proxy 1.0.1: the two big questions first; showrunner 2.4.5: one open PR at a time
+
+The author on the proxy's first run: "all of those examples are
+fixes about continuity and very nuts and bolts errors. My main
+comments have been about things like 'are we making enough conflict
+with X character' or 'are we feeling enough romance from this
+scene.'" The proxy's read of ch 23 B had three of eight comments in
+those shapes and the orchestrator led with the other five. Now: MORE
+and WHO-conflict first and at least half; the counts line rates
+romance felt per scene (1–10) and conflict per top character (0–3)
+(L060). And the showrunner: one open PR at a time, the branch
+freezes, no side branches (L061).
+
 ## 2026-09-20 (night) — romance-reader-panel 1.6.5: blind means blind
 
 The ch 23 panel on candidate B: "the card's Targets line is inside
