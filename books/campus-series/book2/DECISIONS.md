@@ -697,3 +697,51 @@ Defaults taken as recommended:
    list updated.
    The fourth call from #175 (she tells him about Boyd's offer) is
    still not ruled; she does not, on this page.
+
+## B2-D26 — the ch 21 rulings (author, 2026-09-20, #177 comments)
+
+Seven comments on the merged chapter; all applied in the ch 21 fold
+PR unless marked OPEN. Every one became an instrument the same day
+(AUTHOR-NOTES 216–222; taste 20 and 21; STYLE "The touch has a body";
+RECENT; drafter 1.7.0; panel 1.6.0).
+
+1. **The reader knows who everyone is.** Missy and Denny's wants are
+   said plain on the page in Aisha's read, the first time they matter:
+   Missy came in wanting him on the field, drove to Birmingham for
+   ammunition, and is deciding whether the doctor is the enemy; Denny
+   wants the boy playing and the doctor gone, loudest on the board.
+   A stance can turn later — the surprise is the turn (ch 28: the
+   proof in her purse since December), not the fog. The F12 thaw
+   stays; it is now a thaw FROM something the reader can see.
+2. **The storm is on the page as weather.** One paragraph on the
+   storm itself before it forces the ride; in the cab, what is
+   falling is said: freezing rain onto a hill already below freezing,
+   a glaze, not snow (B2-D19.1, the Deep South kind), and what it
+   sounds like on the truck.
+3. **The touch has a body.** At the hand in Verna's lot, her physical
+   reaction is on the page in plain words — where it lands in her,
+   what it does — not only the hand's choreography. The rule is
+   general: every touch between the leads, every book.
+4. **BANNED: place-stamped speech.** "I wanted to say it in this
+   truck" / "Now it's been said where you were" cut and re-said. The
+   device — a character remarking on where a thing was said or that
+   it has now been said — is banned going forward (RECENT). Nine
+   instances stand on accepted pages (ch10:208; ch15:282, 394;
+   ch16:325, 350; ch17:477; ch20:69; ch21 ×2). **OPEN — the author's
+   call, asked in the thread:** sweep the accepted pages, or ban
+   forward only.
+5. **The gossip room.** Grapevine gets a third room, the juicy one,
+   where the coach-and-doctor talk lives; the parents' board stays
+   football. Vaguepost 2 moves there. Name PROPOSED: **Sideline Tea**
+   — `[TK the author confirms or renames]`. **OPEN:** whether ch 12's
+   vaguepost 1 (DeeAnn's) and the "in one sentence since the fall"
+   lines move to the new room in a sweep, or the new room is new from
+   ch 21 (a thread that JUMPED rooms — the realism rulebook's
+   escalation beat). Default until ruled: new from ch 21; the page
+   says once that the room exists and what it is.
+6. **The ache.** The last section owes the romance side of three
+   weeks — what she wants, where she feels it, why three weeks
+   without him is impossible — in plain words, beside the arithmetic.
+   The author asked "Do you agree that we're missing that
+   completely?" Yes; the panel's own read called the section logical.
+7. **The author's romance number for ch 21:** not left. Asked.

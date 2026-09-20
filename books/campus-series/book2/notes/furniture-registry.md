@@ -200,3 +200,4 @@ finding). Started at the wave-1 fold (2026-08-30).
 | Ty Beaumont | "Ty" / "the receivers coach" (ch 11, in her head: "Ty Beaumont, receivers") | Dan: "Ty" (ch 12, aloud); Ty to Dan: "Coach" / "Morning, Coach"; the board: "the receivers coach"; Mackenzie: "Ty" | — (open: who gets a name for him that only they use) |
 | Delores Fountain-Mabry | "Delores" / "Delores Fountain-Mabry" once | Dan: "Miss Delores"; she: "Coach," "Doctor" | Dan's "Miss Delores" |
 | The colleague (ten years ago) | "her" / "a woman on the academic side" — never a name, title, or state | the board: "a woman on the same staff" (ch 2) | — |
+| The gossip room ("Sideline Tea" — `[TK name, author]`) | the third Grapevine room, the juicy one: who is seeing whom; local handles; the coach-and-doctor talk lives here, never on the parents' board (B2-D26.5); vaguepost 2 is its first post on the page | ch 21 |

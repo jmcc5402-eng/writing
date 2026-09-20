@@ -432,6 +432,19 @@ real-life group behavior — "real life chat rooms are
 outrageous enough" — per the realism rulebook
 (book2/notes/grapevine-realism-*.md).
 
+**The gossip room (author, #177, 2026-09-20, B2-D26.5).** A third
+room on the platform, the juicy one: where the town talks about who
+is seeing whom, the coach and the doctor included. The parents' board
+stays football ("football parents talking about football stuff, not
+hard-core gossip like coaches dating each other"). Name PROPOSED —
+**Sideline Tea** `[TK the author confirms or renames]`; its moderator
+is open. Smaller than the parents' board, faster, local handles; the
+realism rulebook still binds (no real names paired in plain text —
+the vaguepost form is the room's native register). Vaguepost 2 (ch
+21) is its first post on the page. OPEN: whether ch 12's vaguepost 1
+and the earlier "in one sentence" pairings move here in a sweep, or
+the room is new to the page from ch 21 (a story that JUMPED rooms).
+
 ## SR-EPI-1 — the sock campaign works BOTH rooms (2026-09-02, **RATIFIED**)
 
 Raised by the continuity gate on the epigraph pass. On the page,
