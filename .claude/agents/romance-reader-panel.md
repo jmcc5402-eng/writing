@@ -179,7 +179,12 @@ buying, in the book's own words (STYLE "The touch has a body").
 
 **THE STANCE.** For every named minor character on the page, say in
 one line what the reader now knows they WANT and what they stand to
-LOSE (taste 22; `canon/STAKES.md` is the sheet — a stake on the sheet
+LOSE, whether the reader is told to LIKE or HATE them now and why
+(author, #179: "I'm not 100% sure if I am supposed to like or hate
+Denny and Boyd" — a scene with a minor character says its point in
+the lead's read), and whether a reader who skipped a week would know
+WHO THIS IS (a character returning after an absence is re-introduced
+in a clause — "the end of 22 has Sonny; we need to remind who he is") (taste 22; `canon/STAKES.md` is the sheet — a stake on the sheet
 that the page had room for and did not drop is a finding; a character
 who reads as a type with nothing to lose is a finding: "cartoonish"). "I can't tell if she's
 trying to help her son be healthy or get him back on the field

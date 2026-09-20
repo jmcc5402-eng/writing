@@ -3,6 +3,20 @@
 Newest first. Every entry: version, what changed, and the evidence that
 drove it.
 
+## 2026-09-20 (evening) — the author's ch 22 comments (#179): romance-reader-panel 1.6.2; the pronoun count
+
+Three comments (AUTHOR-NOTES 228–231; B2-D28): "he" for two men in
+one paragraph; Dan's stake (a second time ends him) told to the
+reader; Sonny returning unintroduced; the porch conversations flat
+because the reader was not told whether to like or hate Denny and
+Boyd; the letter small and the trustees' agenda unexplained.
+- **romance-reader-panel 1.6.1 → 1.6.2:** THE STANCE test asks two
+  more things — like or hate now, and why; would a reader who skipped
+  a week know who this is.
+- `chapter-lint.sh`: PRONOUN CROWDING (L045). FACTS F-DAN-01,
+  F-AGD-01. `canon/STAKES.md`: Dan's locked row and "How the reader
+  is meant to read them now."
+
 ## 2026-09-20 — the lesson loop; romance-reader-panel 1.6.1 (the TESTS line; the stance test asks what they stand to lose)
 
 The author: "every bug does two things: fix the bug, and fix the
