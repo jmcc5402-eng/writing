@@ -2,6 +2,23 @@
 
 Manuscript-affecting changes, newest first. (Hard rule 6.)
 
+## 2026-09-20 (night) — ch 21: Missy's pull and the timeline bridge (the author rereading; fold PR; B2-D29)
+
+- "She seems like a zombie." The drafter's pass on Missy's three
+  scenes (B2-D29.2): a mother's question at the twenty in her own
+  mouth; her hands' beat read as fear for the boy; the flat-face line
+  cut (ban L050); a line about Denny and a clause about the town at
+  the chair; Aisha's one-sentence read of what Missy carries down
+  the hill. The narrator paragraph on the wants stays.
+- "A confusing timeline… does Aisha and the trainer go back inside
+  first?" The bridge (B2-D29.5), by the orchestrator: after the
+  trainer's line they go back inside — she to the file, he to the
+  rehab rooms — until the truck's lights cross the lot at a quarter
+  to six; Dan came because both their cars were still on his side of
+  the lot from the Fieldhouse window at dark.
+- The trainer's name: proposed to the author (Carl Whitlow, "Whit");
+  "the trainer" stands on the page until ruled.
+
 ## 2026-09-20 (evening) — ch 22 ACCEPTED (#179) and folded; the author's three comments applied (fold PR; B2-D28)
 
 - The author's comments, applied by the drafter (D1): (1) names, not
