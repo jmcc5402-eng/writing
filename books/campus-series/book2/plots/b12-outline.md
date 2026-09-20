@@ -701,7 +701,8 @@ name, and the county hears both the defense and the withhold.
 The letter campaign's quiet machinery finishes: signatures
 gathered, CC line drafted, receipts folder zipped (shown as
 craft, per the rulebook — eerily polite). Signing day is a
-fixed Wednesday two weeks out; the extension sits on the spring
+fixed Wednesday two weeks out [CORRECTED 2026-09-20: Feb 3 is twenty
+days from Jan 14 — say the date or "three weeks"]; the extension sits on the spring
 agenda; every clock in the book is now visible at once. The
 roads are still bad from the storm; the show goes on anyway
 (texture only). —

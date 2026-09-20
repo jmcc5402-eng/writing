@@ -4,4 +4,4 @@ Written by `studio/tools/targets-check.py --record`. The romance level gates acc
 
 | Ch | Romance T→A | Heat T→A | Laughs T→A | Ends T→A | Talk T→A | Words T→A | Pays | Date |
 |---|---|---|---|---|---|---|---|---|
-| 21 | 7→8 | 5→5 | 1→2 | up→up | quiet→quiet | 3500→4357 | Aisha | 2026-09-20 |
+| 21 | 7→8 | 5→5 | 1→2 | up→up | quiet→quiet | 3500→4355 | Aisha | 2026-09-20 |
