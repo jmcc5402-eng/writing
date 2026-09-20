@@ -805,11 +805,10 @@ simple," only drops: a few higher-stakes lines, not a plot change.
 2. **The lever stays unpulled in 1.2** unless the author says: the
    trainer's debt never touches the medical information on a page of
    this book. `[TK the author's call — 1.2, a later book, or never]`.
-3. **POV — OPEN, the author's call.** The author's example was an
-   internal thought of the trainer's. The book is close third on
-   Aisha and Dan; a minor character's thought is a POV dip the
-   standard does not allow. Default until ruled: the drops come
-   through the POV lead's senses or the town's knowledge (stakes.md
-   rule 5). If the author wants brief dips into minor characters'
-   heads (Clavell is omniscient), that is a STANDARDS change and a
-   ruling, not a drafter's choice.
+3. **POV — RULED (author, 2026-09-20): keep the POV, option 1.** The
+   drops come through the POV lead's senses or the town's knowledge,
+   never a minor character's thought. The author's own model drop:
+   "Aisha waited for the trainer, and saw him close the sports betting
+   app before he came into the room." Seen, named, plain — not
+   inferred. On the page at ch 21 (the corridor; the cab keeps the
+   score, put away). stakes.md rule 5 carries the example.
