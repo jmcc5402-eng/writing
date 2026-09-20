@@ -254,7 +254,7 @@ Still open:
   author's own number after reading goes in `notes/romance-levels.md`
   by hand from the PR comment — a script that reads the PR comments
   could do it.
-- **F42 — the accept gate's "CHANGELOG entry for today" (2026-09-19).**
+- **F42 — the accept gate's "CHANGELOG entry for today" (2026-09-19).** **CLOSED 2026-09-20** (the showrunner's board): the gate greps the chapter's own CHANGELOG heading (`## … ch NN`), not today's date.
   The gate requires a CHANGELOG line dated TODAY, so a re-run on an
   accepted chapter on a quiet day BLOCKS on nothing (ch 20 on the
   19th). It should look for the chapter's own entry (`ch NN` in a
