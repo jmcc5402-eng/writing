@@ -117,3 +117,4 @@ never "Trey." He calls her "the doctor." He never has a punchline.
 "Boyd" to the chapter card, the kit template (11 and 12), and the
 build check's list of arcs the audit reads.*
 | 21 | Absent. The survey's blue chalk on the Millrow curb below Delmar's is under the ice, one clause (menace 1 against a plan of 0 — the brief's own licensed clause). | The money is under the weather this week; nothing moves. |
+| 22 | In the room (#179): at Ray's serving window with a paper plate, talking ribs, smiling, on Dan's stretch of wall; one line off the air from the window, no threat; Dan's read plain — his money wants her rooms and her job, and he came down on ice to hear the coach say "her protocol" (B2-D28.3: the reader distrusts him now). | Present; hears the withhold; says nothing new. |

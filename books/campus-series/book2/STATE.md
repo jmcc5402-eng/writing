@@ -122,7 +122,26 @@ the author's own romance number for 21; the fourth call; the cast
 stakes sheet (the author's Clavell ask, 2026-09-20 — ideas sent,
 picks pending).
 
-**Then ch 22** — Dan; Thursday Jan 14, the window shuts; Coach's
+**Ch 22 ACCEPTED (#179, 2026-09-20) and FOLDED — the first chapter
+with every instrument run first** (the board, the third audit, the
+rooting-for survey, the red-team taste read; the keeper blocked the
+brief on four errors). One drafter (D1). The panel read blind to the
+row: romance 6 on a plan of 5. The author's three comments applied
+(B2-D28): names not "he"; Dan's stake said plain (a second time ends
+him — her, or the job); Sonny re-introduced; the point of the corner
+and Boyd's line, like or hate said; the letter small, the February
+agenda's three items named. Open: the stakes picks; the sweep; the
+gossip room's name; the author's numbers for 21 and 22; the ch 18 and
+ch 20/21 proposals from the readers.
+
+**Then ch 23** — Aisha; the frame (B2-T05: the photo the reader holds
+and she cannot know; the consultant's trawl; Boyd strikes through
+others); menace 3; ends down; matrix row 23: Romance 6 · Heat 3 ·
+Aisha 2 · Dan 1 · Wound 3 · Fun 0 · Town 3 · Menace 3 · Ends down ·
+Talk normal · Words 3400 · Pays Aisha. Dan's stake as a hint, once;
+the seed for book 3's couple (BEATS, ±2 chapters) owed here or at 24.
+
+**Was: then ch 22** — Dan; Thursday Jan 14, the window shuts; Coach's
 Table round two; the hold defended on air; the town acts again (the
 editor's baseline note); ends flat, in a room with people (not a
 third solo morning — taste 6); "two weeks out" is WRONG from Jan 14

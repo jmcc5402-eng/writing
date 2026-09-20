@@ -2,6 +2,26 @@
 
 Manuscript-affecting changes, newest first. (Hard rule 6.)
 
+## 2026-09-20 (evening) — ch 22 ACCEPTED (#179) and folded; the author's three comments applied (fold PR; B2-D28)
+
+- The author's comments, applied by the drafter (D1): (1) names, not
+  "he," wherever two men share a paragraph — the office section with
+  Ty, the corner, the counter; (2) Dan's stake said plain at the
+  glance — a year sat down ten years ago for a screenshot that was
+  true; a second time is the end of college coaching; the county's
+  windows are the screenshot now; her, or the job — and one hint at
+  the counter; (3) Sonny re-introduced in a clause (the feed store's
+  counter; the pumper when the pager goes); (4) the point of the
+  corner and of Boyd's line said in Dan's read, and the reader told
+  whether to like or hate them now; (5) the letter is small, said so,
+  and what it is for — the February agenda's three items (the pledge,
+  the extension, the partner that takes her job) — said once.
+- The fold: THREADS ch 22 entry; B2-T08 rung 3; the dossiers' row 22;
+  the arc row; boyd-arc row 22; twelve registry rows; B2-D28; STATE;
+  FACTS F-DAN-01, F-AGD-01; STAKES.md (Dan locked; how the reader is
+  meant to read Boyd and Denny now). Studio: AUTHOR-NOTES 228–231;
+  ledger L045–L049; chapter-lint PRONOUN CROWDING; panel 1.6.2.
+
 ## 2026-09-20 — ch 22 "The Whip Count" drafted: one drafter, every instrument first (chapter PR)
 
 - The first chapter under the full loop: the showrunner's board, the
