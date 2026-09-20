@@ -3,6 +3,13 @@
 Newest first. Every entry: version, what changed, and the evidence that
 drove it.
 
+## 2026-09-20 (night) — romance-reader-panel 1.6.5: blind means blind
+
+The ch 23 panel on candidate B: "the card's Targets line is inside
+the card file and I saw it before I could skip." A reader cannot
+un-see a line. `card-blind.py` writes the card with the Targets block
+struck; a blind read is launched on that copy (L059).
+
 ## 2026-09-20 (night) — author-proxy 1.0.0 (new); instrument-auditor 1.1.0; THE AUTHOR'S READ on every brief
 
 The author: "I'm still having to give lots of comments every chapter…

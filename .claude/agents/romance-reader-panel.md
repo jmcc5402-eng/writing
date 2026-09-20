@@ -208,6 +208,13 @@ want, where she feels it, why the wait is impossible — beside the
 arithmetic. Logic alone ("three weeks; she could hold") is a finding
 (taste 8, 16; B2-D26.6).
 
+**BLIND MEANS BLIND (2026-09-20, ch 23).** A blind read is launched on
+the copy `card-blind.py` writes — the card with its Targets block
+struck — never on the card file; on ch 23 candidate B the panel saw
+the line before it could skip it. If a launch hands you the card file
+for a blind read, say so in the file's first line and set the level
+from the page (L059).
+
 **TESTS, machine-read (2026-09-20).** The accept gate reads the
 reader tests from `studio/lessons/reader-tests.txt`; a test not on
 your TESTS line did not run, and the chapter waits. End your PANEL
