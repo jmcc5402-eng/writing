@@ -812,3 +812,58 @@ simple," only drops: a few higher-stakes lines, not a plot change.
    app before he came into the room." Seen, named, plain — not
    inferred. On the page at ch 21 (the corridor; the cab keeps the
    score, put away). stakes.md rule 5 carries the example.
+
+## B2-D28 — the ch 22 rulings (author, 2026-09-20, #179 comments)
+
+1. **Say the name when two men are in the paragraph.** "It keeps
+   saying 'he' instead of his name… it talks about Ty also." The
+   office section re-said with names; chapter-lint counts a paragraph
+   with two men and five or more he/his/him (L045).
+2. **Dan's stake, LOCKED: a second time ends him.** "If he gets caught
+   with Aisha that will be two times and he will be out of college
+   coaching forever." Canon behind it: ch 14 — ten years ago, the
+   woman on the academic side, the screenshot, "the school sat me
+   down a year." The first time was a year sat down; the second time
+   is the end of college coaching. Said plain on the page at the
+   glance in ch 22 (the author's own placement: "when he's watching
+   her walk across the street from the Checkerboard"), and dropped as
+   hints after, once a chapter at most. It is the conflict the author
+   names: true to Aisha, or the job. `canon/STAKES.md` Dan row;
+   FACTS F-DAN-01; every brief's STAKES ON THE PAGE carries it.
+3. **Like or hate, said now; the point of a scene said.** "I'm not
+   100% sure if I am supposed to like or hate Denny and Boyd." Ruled:
+   the reader is told now, in the POV lead's read, and a turn later is
+   the surprise (taste 21). BOYD: the reader distrusts him now — his
+   money wants her rooms and her job (B2-D13) and he smiles; never a
+   cartoon; Dan's read says it plain. DENNY: the reader reads him now
+   as the father who wants the doctor gone and blames her for the
+   boy's fall; Dan does not like him and does the kind thing anyway;
+   the turn is ch 28 (RH2 — the reader is not told he refused to
+   sign). Every scene with a minor character says its point in one
+   plain sentence of the lead's read: the Denny corner — Dan goes to
+   the one man on the porch who wants the doctor gone and asks after
+   his son, because the boy is not the letter; the Boyd line — the
+   man whose money is on the February agenda came to hear Dan say
+   "her protocol" on the air, and heard it. SONNY, returning: one
+   clause of who he is (the feed store's counter; the pumper when the
+   pager goes). The panel's STANCE test gains both questions.
+4. **The letter is small; the agenda is not — RULED from canon.** "It
+   seems we are making a bigger deal out of a letter that isn't a big
+   deal at a big football school… How can we raise the stakes of this
+   meeting with the trustees?" The page says the letter is small,
+   plainly. What it is FOR is the February agenda, which already
+   holds three things in canon: Boyd's pledge (the performance center
+   on the annex's ground — B2-D15), Dan's extension ("a review" after
+   the loss — B2-D15), and the provider partner that rides in with
+   the pledge and takes over team physician services — her job
+   (B2-D13; Dan has known since ch 10). A polite letter asking for
+   "clarity on medical decision-making" is the paper that lets the
+   trustees vote her job to Boyd's group as a process fix, in the same
+   sitting as his building and Dan's contract, with nobody's
+   fingerprints on it. That is said in Dan's head in ch 22, once, in
+   plain words; FACTS F-AGD-01 fixes the agenda's three items. OPEN
+   for the author, a raise beyond canon: whether the trustees' vote
+   is moved UP from spring to the February sitting (the outline has
+   the review at 24 and the hearing at 27) — the showrunner
+   recommends leaving the dates and letting the page name the three
+   items, which is the raise the reader was missing.
