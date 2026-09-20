@@ -14,3 +14,5 @@ L022	romance-reader-panel	MYSTERY	ch{CH}-panel-*.md	mystery
 L023	romance-reader-panel	THE JOKE	ch{CH}-panel-*.md	joke
 L024	romance-reader-panel	APART	ch{CH}-panel-*.md	apart
 L032	romance-reader-panel	THE STANCE	ch{CH}-panel-*.md	stance
+L047	romance-reader-panel	THE STANCE	ch{CH}-panel-*.md	stance
+L048	romance-reader-panel	THE STANCE	ch{CH}-panel-*.md	stance
