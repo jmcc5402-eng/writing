@@ -64,8 +64,12 @@ pulled or not.
    knows — a score checked three times, a breath at two in the
    afternoon, a bill on a counter. The lead does not have to
    understand it; the reader does. (A brief dip into a minor
-   character's head is a POV decision for the author, not a drafter's
-   convenience; see the open question in the book's DECISIONS.)
+   character's head is not allowed — the author ruled it, 2026-09-20,
+   for 1.2 and the books after.) The author's model drop, the shape to
+   copy: *"Aisha waited for the trainer, and saw him close the sports
+   betting app before he came into the room."* Seen, named, plain. Not
+   "a score he has money on" — that asks the reader to infer; the app
+   says it.
 6. **Planned at the outline, dropped at the brief.** The stakes sheet
    is written when the cast is (series-kit 15); the outline audit
    asks STAKE × LEVER of every named character; each chapter brief
