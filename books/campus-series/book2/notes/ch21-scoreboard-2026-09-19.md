@@ -45,4 +45,4 @@ up" ×3 → 2). Nothing else touched.
 **Banked from A and B** (`notes/banked-lines.md`): see the table there.
 
 **Filed:** `notes/ch21-panel-{A,B,C}-2026-09-19.md`;
-`manuscript/ch21-candidate-{A,B,C}.md` kept for the record.
+`notes/candidates/ch21-candidate-{A,B,C}.md` kept for the record (moved at the third audit, F58).

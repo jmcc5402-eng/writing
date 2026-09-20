@@ -703,7 +703,7 @@ gathered, CC line drafted, receipts folder zipped (shown as
 craft, per the rulebook — eerily polite). Signing day is a
 fixed Wednesday two weeks out [CORRECTED 2026-09-20: Feb 3 is twenty
 days from Jan 14 — say the date or "three weeks"]; the extension sits on the spring
-agenda; every clock in the book is now visible at once. The
+agenda [CORRECTED 2026-09-20: the FEBRUARY agenda — F9 as priced at ch 20]; every clock in the book is now visible at once. The
 roads are still bad from the storm; the show goes on anyway
 (texture only). —
 *Pays: ladder rung 3; the campaigns' merge complete. Plants:
