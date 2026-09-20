@@ -17,6 +17,8 @@ echo "== sentences with 2+ em dashes (budget ONE per chapter)"
 tr '\n' ' ' < "$f" | tr '.!?' '\n\n\n' | grep '—.*—' | sed 's/^ *//' | cut -c1-120
 echo "== banned words / scaffolds (campus scrub + RECENT.md)"
 grep -n -i 'unhurried\|declined to [a-z]*\b\|whole [a-z]* of it\|and meant it\|one beat\|before [a-z]* could vote\|before [a-z]* could dress\|never once\|which was its own\|the way \(a\|an\|the\|you\|he\|she\|they\|it\|somebody\) [a-z]* \(does\|did\|do\|would\|had\|has\|might\|could\)\b' "$f"
+echo "== BANS (studio/lessons/bans.txt — the lesson ledger's greppable bans; L028)"
+python3 "$(dirname "$0")/bans.py" "$f"
 echo "== chorus construction \"somebody's ___\" (once per BOOK in narration; ledger in THREADS)"
 grep -n -i "somebody.s [a-z]" "$f"
 echo "== arrival clock (six months / since June — cap 1 per chapter)"

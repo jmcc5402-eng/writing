@@ -168,6 +168,24 @@ list in the agent's invocation as "banned moves this run."
   chapter; a new use earns its slot. The ch 5/9/12 seeds (B2-T14)
   spent two more on the author's instruction.
 
+- BANNED (author, #177, 2026-09-20, 1.2 ch 21 — "I wanted to say it
+  in this truck" / "you've told me in this truck": "there's something
+  about this writing style that isn't good where the writer loves to
+  say things like that… we need to remove that concept from the
+  writing"): PLACE-STAMPED SPEECH — a character remarking on WHERE a
+  thing was said, or that it has now been said ("I said so in this
+  room"; "before anything else happens in this room"; "it's been said
+  where you were"; "I wanted to say it once, here"). Say the thing;
+  never annotate the saying. Nine stand on accepted pages (B2-D26.4);
+  the sweep is the author's call.
+- RULE (author, #177, 2026-09-20): THE TOUCH HAS A BODY — every touch
+  between the leads carries the POV lead's physical reaction in plain
+  words (STYLE "The touch has a body"; taste 20). A touch with only
+  choreography is a finding.
+- RULE (author, #177, 2026-09-20): a storm is described as weather
+  (what falls, what it sounds like), and every named minor character
+  has a want the POV lead says plain (taste 21).
+
 ## junior-literary-critic
 
 - (nothing banned yet — first entries come from the next review of a review)

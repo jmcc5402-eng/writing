@@ -1,0 +1,24 @@
+# bans.txt — the greppable bans, as DATA the guards read.
+# One per line: ID <TAB> regex (Python, case-insensitive) <TAB> note.
+# prose-guard.sh (PostToolUse on every manuscript edit) and chapter-lint.sh
+# read this file; `python3 studio/tools/bans.py --test` proves every line
+# fires on its fixture (studio/lessons/fixtures.tsv). Add a ban here the
+# day the author names it, with a fixture, and it is enforced the same
+# day. An entry in RECENT.md alone is an instruction.
+L001	\bunhurried\b	RECENT scrub ban (2026-08-22)
+L002	\bdeclined to (think|consider|examine|itemize|blame|answer|say|ask|notice|name|wonder|look|check|count)\b	RECENT scrub ban — "declined to [verb of thought]"
+L003	\bthat was the whole \w+ of it\b	RECENT scrub ban
+L004	\band meant it\b	RECENT scrub ban
+L005	\bone beat\b	RECENT — motif closed at five
+L006	\bnever once\b	RECENT watch → ban (25 uses book-wide)
+L007	\bbefore (he|she|it|they|\w+) could (vote|dress)\b	RECENT — committee-of-the-self
+L008	\bname in (my|your|his|her|their) mouth\b	author #155 — "I don't like the phrase"
+L009	\bin plain words, because\b	superfan block read 2026-09-18 (×3)
+L010	\btimed and short and finished\b	superfan block read 2026-09-18 (×3)
+L011	\bthe first Wednesday in February\b	superfan block read 2026-09-18 — say "three weeks"
+L012	\b(on )?till eleven and never\b	superfan block read 2026-09-18 — Verna's light formula (×4)
+L013	\bBeer again\b	author #175 — a drink explained aloud
+L014	\bwhich was its own \w+\b	RECENT watch — naming what a gesture meant
+L015	\b(supper|casserole|tinfoil|percolator)\b	author 2026-09-03/06 — furniture blacklist
+L016	\b(say|said|saying|tell|told|telling)\b[^.!?\n]{0,40}\b(in|inside) (this|that|the same) (room|truck|cab|kitchen|house|building|lot|office|car|bar)\b	author #177 (2026-09-20) — place-stamped speech: "I wanted to say it in this truck"
+L017	\b(been said where|it's been said|it has been said|now it's said|then it's said)\b	author #177 (2026-09-20) — place-stamped speech: "it's been said where you were"

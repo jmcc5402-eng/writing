@@ -95,7 +95,7 @@ to. This table is what `studio/tools/romance-build-check.py` reads.
 | 18 | 4 | 4 | The glorious week (#162): five nights, rung 9 repeated, told; NYE at his house; the first texts; her new signal | — | — | — |
 | 19 | 4 | 4 | The packing in public; she lets him carry — on the page (#164): the boxes in daylight with Boyd watching; the tape gun, hands not meeting; "I want them." | — | — | — |
 | 20 | 4 | 4 | Dinner at his house with the town home (#175): the glad half — her hand across the table and his over it, held; the firewall's tax paid by both ("There's a kitchen now, Dan" / "That's fair"); the reply typed and deleted; the chair | — | — | — |
-| 21 | 4 | 4 | A photo exists; the ice storm puts her in his truck (B2-D19) | — | — | — |
+| 21 | 4 | 4 | The ice storm puts her in his truck (#177): three across on the bench, her shoulder against his arm the whole hill; the last minute alone, the bench she did not slide across; HEAT 5 in Verna's lot — his hand palm down beside the glove, hers an inch and then the rest, his palm turning over and closing, "electricity went up her arm" (the touch has a body, B2-D26.3); the date said as a date; "Don't get out, Dan."; Verna at her window; the tracks; the post in the gossip room; the ache (B2-D26.6). Romance level 7 (three blind reads), re-leveled after the fold | — | ch 15 (the terms), ch 20 (the hand across the table) | — |
 | 22 | 4 | 4 | He defends the hold on air, everything but her name | — | — | — |
 | 23 | 5 | 5 | Their own image weaponized | — | — | — |
 | 24 | 5 | 5 | His silence | — | — | — |

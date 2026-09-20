@@ -697,3 +697,118 @@ Defaults taken as recommended:
    list updated.
    The fourth call from #175 (she tells him about Boyd's offer) is
    still not ruled; she does not, on this page.
+
+## B2-D26 — the ch 21 rulings (author, 2026-09-20, #177 comments)
+
+Seven comments on the merged chapter; all applied in the ch 21 fold
+PR unless marked OPEN. Every one became an instrument the same day
+(AUTHOR-NOTES 216–222; taste 20 and 21; STYLE "The touch has a body";
+RECENT; drafter 1.7.0; panel 1.6.0).
+
+1. **The reader knows who everyone is.** Missy and Denny's wants are
+   said plain on the page in Aisha's read, the first time they matter:
+   Missy came in wanting him on the field, drove to Birmingham for
+   ammunition, and is deciding whether the doctor is the enemy; Denny
+   wants the boy playing and the doctor gone, loudest on the board.
+   A stance can turn later — the surprise is the turn (ch 28: the
+   proof in her purse since December), not the fog. The F12 thaw
+   stays; it is now a thaw FROM something the reader can see.
+2. **The storm is on the page as weather.** One paragraph on the
+   storm itself before it forces the ride; in the cab, what is
+   falling is said: freezing rain onto a hill already below freezing,
+   a glaze, not snow (B2-D19.1, the Deep South kind), and what it
+   sounds like on the truck.
+3. **The touch has a body.** At the hand in Verna's lot, her physical
+   reaction is on the page in plain words — where it lands in her,
+   what it does — not only the hand's choreography. The rule is
+   general: every touch between the leads, every book.
+4. **BANNED: place-stamped speech.** "I wanted to say it in this
+   truck" / "Now it's been said where you were" cut and re-said. The
+   device — a character remarking on where a thing was said or that
+   it has now been said — is banned going forward (RECENT). Nine
+   instances stand on accepted pages (ch10:208; ch15:282, 394;
+   ch16:325, 350; ch17:477; ch20:69; ch21 ×2). **OPEN — the author's
+   call, asked in the thread:** sweep the accepted pages, or ban
+   forward only.
+5. **The gossip room.** Grapevine gets a third room, the juicy one,
+   where the coach-and-doctor talk lives; the parents' board stays
+   football. Vaguepost 2 moves there. Name PROPOSED: **Sideline Tea**
+   — `[TK the author confirms or renames]`. **OPEN:** whether ch 12's
+   vaguepost 1 (DeeAnn's) and the "in one sentence since the fall"
+   lines move to the new room in a sweep, or the new room is new from
+   ch 21 (a thread that JUMPED rooms — the realism rulebook's
+   escalation beat). Default until ruled: new from ch 21; the page
+   says once that the room exists and what it is.
+6. **The ache.** The last section owes the romance side of three
+   weeks — what she wants, where she feels it, why three weeks
+   without him is impossible — in plain words, beside the arithmetic.
+   The author asked "Do you agree that we're missing that
+   completely?" Yes; the panel's own read called the section logical.
+7. **The author's romance number for ch 21:** not left. Asked.
+
+## B2-D27 — stakes for everyone, and darker (author, 2026-09-20, chat after #177)
+
+The author's Clavell principle: every character on the page has high
+stakes the reader knows, mostly self-inflicted, and the reader is never
+owed the resolution. And darker: "gambling, cheating, drug abuse — I
+don't want to go all-in on that," but the book is "a bit cartoonish"
+and this book and the next get more dark and real-life, nothing
+drastic. The sheet is `canon/STAKES.md`; the brief gate demands a
+STAKES ON THE PAGE section from ch 22; the panel's STANCE test asks
+what each named character stands to lose.
+
+LOCKED (the author's own):
+1. **The trainer owes ten thousand dollars on a gambling habit.** Never
+   named; the debt is his stake. Dropped in lines, in the POV lead's
+   read or in what the town knows. The edge the room must watch and
+   the author has not ruled: a trainer in debt knows the quarterback's
+   medical status before anyone — `[TK does the debt ever touch the
+   medical information, or is it only his private disaster?]`.
+2. **Missy Gault: the marriage stake stands** (the Birmingham proof in
+   her purse since December 23rd, untold to Denny — B2-T04), **and a
+   drinking problem.** Never shown drinking; a few lines across the
+   book (what Aisha smells, what Verna knows, what the seven o'clock
+   page's handwriting does some mornings — the drafter picks, the
+   keeper logs each drop in the registry so the count stays small).
+3. **Standing direction:** dark and real, not cartoonish, for 1.2 and
+   the books after. A vice is a real one and costs; nobody is a type.
+
+PROPOSED, awaiting the author's picks (the 2026-09-20 ideas message):
+Denny (the NFL as his own do-over; the December draft was his and his
+name is not on the January letter — ch18:114, the keeper's correction); Trey (every month on the bike is money); the coordinator (interim
+if Dan falls; already taking calls); Ty (his job inside Dan's
+extension); the AD and the consultant (Boyd's pledge; the partner's
+contract); Verna (the survey chalk through her gravel); Sonny (the
+pumper on the same February agenda as the pledge); Peanut (the Mule in
+the money's path); Marisol (the room she moderates campaigns against
+her own son — canon already); Odell and Tick (the eleven are his
+customers; the show runs on Boyd's dealership money); Kat (about to
+need somewhere to land herself). None is canon until the author says.
+
+### B2-D27.4 — the drops for 1.2, and STAKE × LEVER (author, 2026-09-20, after #178)
+
+The author on the trainer's edge ("a trainer in debt knows the
+quarterback's medical status before anyone"): "exactly why darker /
+higher stakes are so great — they create so many complex and exciting
+plot and conflict lines. Add this concept somewhere; I want to use
+this a lot in future books." Recorded as the spec `studio/craft/
+stakes.md` (STAKE × LEVER) and kit 15; the outline skill runs a stakes
+pass on every new book. For 1.2, which "is already more cartoonish and
+simple," only drops: a few higher-stakes lines, not a plot change.
+
+1. **Ch 21 gets two drops now** (the fold PR): Missy — what is on her
+   breath at two in the afternoon, in Aisha's read, once; the trainer
+   — a score checked three times on the way down the hill, "the way a
+   man checks a score he has money on," in Aisha's read, once. Both
+   logged in the registry; the drop count per stake stays under three
+   a book.
+2. **The lever stays unpulled in 1.2** unless the author says: the
+   trainer's debt never touches the medical information on a page of
+   this book. `[TK the author's call — 1.2, a later book, or never]`.
+3. **POV — RULED (author, 2026-09-20): keep the POV, option 1.** The
+   drops come through the POV lead's senses or the town's knowledge,
+   never a minor character's thought. The author's own model drop:
+   "Aisha waited for the trainer, and saw him close the sports betting
+   app before he came into the room." Seen, named, plain — not
+   inferred. On the page at ch 21 (the corridor; the cab keeps the
+   score, put away). stakes.md rule 5 carries the example.

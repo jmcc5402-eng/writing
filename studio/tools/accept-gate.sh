@@ -89,6 +89,23 @@ if (( 10#$CH >= TARGETS_FROM )) && [[ -f "$REPO/studio/tools/targets-check.py" ]
   printf '%s\n' "$tc" | sed 's/^/  /'
 fi
 
+# The reader tests (studio/lessons/reader-tests.txt): each row names a
+# reader, a test, and a token that must appear on a TESTS: line in the
+# chapter's verdict file. Adding a row there makes this gate demand the
+# test the same day (the lesson loop, L028; from ch 22).
+READER_TESTS_FROM=22
+if (( 10#$CH >= READER_TESTS_FROM )) && [[ -f "$REPO/studio/lessons/reader-tests.txt" ]]; then
+  while IFS=$'\t' read -r lid agent test glob token; do
+    [[ "$lid" == L* ]] || continue
+    g="${glob//\{CH\}/$CH}"
+    if compgen -G "$NOTES/$g" >/dev/null 2>&1; then
+      if ! grep -hi "^TESTS:" $NOTES/$g 2>/dev/null | grep -qi "$token"; then
+        missing+=("$agent → the verdict's TESTS: line must carry '$token' ($test, $lid) — the reader ran the test or the chapter waits")
+      fi
+    fi
+  done < "$REPO/studio/lessons/reader-tests.txt"
+fi
+
 # ---- MECHANICAL CHECKS ------------------------------------------------
 lint_out=""
 if [[ -x "$REPO/studio/tools/chapter-lint.sh" ]]; then

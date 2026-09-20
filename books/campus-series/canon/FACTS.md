@@ -122,3 +122,5 @@ continuity-keeper, gated by `accept-gate.sh`.
 Knowing which errors are mechanical and which need a reader is the
 whole skill. Claiming a checker covers the second kind is how a repo
 gets a false sense of safety.
+| F-TRN-01 | The trainer's debt | **Ten thousand dollars**, a gambling habit; the amount never drifts (B2-D27.1, LOCKED 2026-09-20; canon/STAKES.md) | B2-D27 | 1.2 | `\b(five|six|seven|eight|nine|twelve|fifteen|twenty|thirty|forty|fifty) (thousand|grand)\b[^.]{0,40}\b(bookie|owed|owes|debt|gambl|bet)` |
+| F-MIS-01 | Missy Gault's drinking | A drinking problem, **never shown being done** — smelled, counted, missed, paid for (B2-D27.2, LOCKED 2026-09-20; canon/STAKES.md) | B2-D27 | 1.2 | `Missy[^.]{0,40}\b(drank|drinking|poured|sipped|swallowed|knocked back)\b[^.]{0,30}\b(wine|vodka|bourbon|beer|whiskey|a glass|a bottle|a drink)\b` |

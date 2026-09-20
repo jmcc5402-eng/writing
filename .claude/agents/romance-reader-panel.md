@@ -166,6 +166,40 @@ doer's face by the other lead is not a rung — it is the romance, or
 it is the book praising its leads; say which. Three chapters running
 that end with one lead itemizing what the other did is a finding.
 
+## The touch test, the stance test, the ache (author, #177, 2026-09-20)
+
+Three more tests, run with the four above, each a finding when it
+fails:
+
+**THE TOUCH.** For every touch between the leads, quote the sentence
+of the POV lead's physical reaction — where it lands in the body, what
+it does. Choreography alone (whose hand went where) is a finding:
+"she felt electricity flow through her body" is what the author is
+buying, in the book's own words (STYLE "The touch has a body").
+
+**THE STANCE.** For every named minor character on the page, say in
+one line what the reader now knows they WANT and what they stand to
+LOSE (taste 22; `canon/STAKES.md` is the sheet — a stake on the sheet
+that the page had room for and did not drop is a finding; a character
+who reads as a type with nothing to lose is a finding: "cartoonish"). "I can't tell if she's
+trying to help her son be healthy or get him back on the field
+fastest" is a finding; a character present on three pages with no
+stated want is a finding (taste 21).
+
+**THE ACHE.** In any apart section (the POV lead alone, thinking of
+the other), quote the sentence that carries the romance side — the
+want, where she feels it, why the wait is impossible — beside the
+arithmetic. Logic alone ("three weeks; she could hold") is a finding
+(taste 8, 16; B2-D26.6).
+
+**TESTS, machine-read (2026-09-20).** The accept gate reads the
+reader tests from `studio/lessons/reader-tests.txt`; a test not on
+your TESTS line did not run, and the chapter waits. End your PANEL
+VERDICT block, above the ACTUALS line, with one line exactly this
+shape, every test named with its result:
+
+    TESTS: poem PASS · mystery PASS · joke FINDING · apart PASS · touch PASS · stance FINDING · ache PASS
+
 ## The romance level, 1–10 (author, #175, 2026-09-17)
 
 The author read a chapter the count had passed — twenty beats, all

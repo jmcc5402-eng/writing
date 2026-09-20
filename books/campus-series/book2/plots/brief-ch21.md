@@ -514,3 +514,78 @@ The card passes with the three corrections. The E6 list (items 1–5, 7) is not 
 The cab's inside (bench, heater, dash light); his glove; tire tracks in Verna's gravel; "a scout" / "the scouts" / "draft" as talent words; the return-to-play file in her hands; the trainer's reason for riding; the January re-eval on the bike as a check, not a rung; Verna's third anchor; the handle for vaguepost 2; the epigraph's handle.
 
 Files: `notes/cards/ch21-card.md`, `plots/brief-ch21.md`, `DECISIONS.md` (B2-D19, D24, D25), `plots/b12-outline.md`, `plots/romance-arc.md`, `manuscript/ch03, 04, 05, 07, 08, 12, 13, 15, 16, 17, 18, 19, 20`, `notes/furniture-registry.md`, `THREADS.md`, `plots/dossier-aisha.md`, `plots/dossier-dan.md`, `notes/grapevine-realism-2026-08-29.md`, `../STANDARDS.md`, `../town-ashford.md`, `../canon/NAMES.md`, `../canon/FACTS.md`, `../notes/heat-continuity-sweep-2026-09-15.md`, `../notes/romance-density-survey-2026-09-14.md`, `studio/STYLE.md`, `studio/agents/variance/RECENT.md`, `studio/AUTHOR-TASTE.md`, `studio/tools/card-lint.py`, `studio/tools/targets-check.py`.
+
+## MAIN MOVED (2026-09-20) — the author's #177 comments, the fold pass
+
+The chapter is ACCEPTED (#177 merged). This pass applies the author's
+seven comments (B2-D26; AUTHOR-NOTES 216–222) to `manuscript/ch21.md`
+and nothing else. One drafter, in the page's own voice (candidate C's,
+short declarative). The matrix row still binds: Romance 7 · Heat 5 ·
+Aisha 2 · Dan 1 · Wound 2 · Fun 1 · Town 2 · Menace 0 · Ends up ·
+Talk quiet · Words 3500 · Pays Aisha — the panel re-levels after.
+
+1. **Missy and Denny, said plain (taste 21).** In scene 1 or 2, in
+   Aisha's read, one short paragraph that says what Missy wants and
+   what Denny wants, as of today, in plain words. Canon: Missy came in
+   wanting him on the field (ch 4, 13, 15); she drove to Birmingham
+   for a second opinion as ammunition (ch 17 — the answer is DARK on
+   every page and stays dark until ch 28: the page may say she went
+   to prove the doctor wrong and has said nothing since, NOT what the
+   report said); she is deciding whether the doctor is the enemy.
+   Denny: wants the boy playing and the doctor gone; loudest voice on
+   the board; the December letter was his draft (registry 30); at
+   work today. The thaw (Missy and the chair, "That for Birmingham?")
+   stays exactly as it is — it is now a thaw FROM a stance the reader
+   can see. Nothing about the Birmingham report's contents. Missy
+   speaks no new line.
+2. **The storm, as weather (taste 17).** One paragraph in scene 3,
+   before the trainer comes down the corridor: what it is — rain
+   falling on a hill already below freezing and freezing where it
+   lands, a glaze, not snow (B2-D19.1: "the Deep South kind") — what
+   it does to the trees, the lines, the lot, the sound of it on the
+   annex roof; what the town does (shuts). No power out (D19.3). No
+   salt truck named. Plain words; no poem (taste 18): the ice is a
+   fact with a sound.
+3. **The storm in the cab.** In scene 4, once, what is falling on the
+   truck and what it sounds like on the roof and the glass — sleet or
+   freezing rain, named — so a listener knows what they are driving
+   in. Keep the wipers, keep the heater.
+4. **The touch has a body (taste 20; STYLE).** At the hand in Verna's
+   lot (l.342–358): keep every sentence that is there and ADD her
+   physical reaction to the touch in plain words — at least two
+   sentences of it, a body not a thought: where it goes in her, what
+   it does to her breath, her stomach, the back of her neck, her
+   hands; "electricity" is the author's own word for it and may be
+   used once. Also one sentence of the body at the shoulder on the
+   hill (l.256–257) if it fits in one.
+5. **BANNED, cut and re-said (STYLE "Nobody says where a thing was
+   said").** l.364–366 "and I wanted to say it in this truck, once,
+   with you sitting in it" and l.370 "Now it's been said where you
+   were" — gone. He says the date and what they are holding for and
+   stops; she answers as herself. No sentence anywhere on the page
+   remarks on where a thing was said or that it has now been said.
+6. **The post moves to the gossip room (B2-D26.5).** Scene 5: the
+   vaguepost is not on the parents' board. It is in the third room —
+   "Sideline Tea" (the proposed name; the author may rename) — the
+   room where the town talks about who is seeing whom; the page says
+   once, plainly, that the room exists and what it is for, and that
+   she reads it because the county does. The parents' board stays
+   football: mothers, the ice, the college shut. The post's words,
+   the handle (AshfordBornAndBred), no photo, no reply — unchanged.
+   "The board had had the two of them in one sentence since the fall"
+   — re-said for the new room without contradicting ch 12/19/20
+   (say the room, not the board, has been pairing them).
+7. **The ache (taste 8, 16; B2-D26.6).** The last section (l.474–500):
+   keep the arithmetic and ADD the romance side beside it, in plain
+   words, at least four sentences — what she wants (him, here, not in
+   three weeks), where she feels it (the body), why three weeks
+   without him is impossible and she is going to do it anyway. Not
+   wry. Not a verdict. Then the tracks, as they are.
+
+BANNED on this pass: everything in RECENT as of 2026-09-20; "in this
+truck" / "in this room" / "been said" in any form; "electricity" more
+than once; "somebody's"; "never once"; "one beat"; "plainly" more
+than once; a new one-sentence paragraph. Sentences END (under thirty;
+at most three "and"s). The word count may rise to 4,300 at most.
+Nothing else on the page changes — not a line the author did not
+ask about.

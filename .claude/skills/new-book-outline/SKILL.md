@@ -18,6 +18,13 @@ Guide the author from a premise to a chapter outline using the project's story e
    - Expand to ~4 paragraphs (act by act).
    - Break into a chapter-by-chapter beat outline.
 4. **Structure check:** list every planted clue and where it pays off; confirm there are no dangling setups, no luck-based solutions, that stakes escalate, and that the climax lets the lead use their established strength. Confirm every "must-have" checklist item is placed: run the series' engine checklist (the project's `ENGINE-CHECKLIST.md` or the kit's `02-story-engine.md` table) row by row, fill the outline's Ingredient audit table, and file it beside the outline — an ABSENT row carries a WAIVED line or a fix, never a silent drop. The outline is not ratified without it.
-5. **Save** the outline into the project's `plots/` folder (or wherever outlines live) and summarize what to decide next.
+5. **Stakes pass** (`studio/craft/stakes.md`; kit 15): for every named
+   character in the cast, one sentence of what they stand to lose,
+   whether they did it to themselves, and STAKE × LEVER — which thing
+   the plot turns on it could touch. Write it to the book's
+   `canon/STAKES.md` (locked vs proposed). A named character with no
+   stake is a finding, not a pass; the brief gate will refuse a
+   chapter brief without a STAKES ON THE PAGE section.
+6. **Save** the outline into the project's `plots/` folder (or wherever outlines live) and summarize what to decide next.
 
 For heavy plotting or a full structural pass, hand off to the **plot-architect** agent.
