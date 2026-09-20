@@ -745,3 +745,42 @@ RECENT; drafter 1.7.0; panel 1.6.0).
    The author asked "Do you agree that we're missing that
    completely?" Yes; the panel's own read called the section logical.
 7. **The author's romance number for ch 21:** not left. Asked.
+
+## B2-D27 — stakes for everyone, and darker (author, 2026-09-20, chat after #177)
+
+The author's Clavell principle: every character on the page has high
+stakes the reader knows, mostly self-inflicted, and the reader is never
+owed the resolution. And darker: "gambling, cheating, drug abuse — I
+don't want to go all-in on that," but the book is "a bit cartoonish"
+and this book and the next get more dark and real-life, nothing
+drastic. The sheet is `canon/STAKES.md`; the brief gate demands a
+STAKES ON THE PAGE section from ch 22; the panel's STANCE test asks
+what each named character stands to lose.
+
+LOCKED (the author's own):
+1. **The trainer owes ten thousand dollars on a gambling habit.** Never
+   named; the debt is his stake. Dropped in lines, in the POV lead's
+   read or in what the town knows. The edge the room must watch and
+   the author has not ruled: a trainer in debt knows the quarterback's
+   medical status before anyone — `[TK does the debt ever touch the
+   medical information, or is it only his private disaster?]`.
+2. **Missy Gault: the marriage stake stands** (the Birmingham proof in
+   her purse since December 23rd, untold to Denny — B2-T04), **and a
+   drinking problem.** Never shown drinking; a few lines across the
+   book (what Aisha smells, what Verna knows, what the seven o'clock
+   page's handwriting does some mornings — the drafter picks, the
+   keeper logs each drop in the registry so the count stays small).
+3. **Standing direction:** dark and real, not cartoonish, for 1.2 and
+   the books after. A vice is a real one and costs; nobody is a type.
+
+PROPOSED, awaiting the author's picks (the 2026-09-20 ideas message):
+Denny (the NFL as his own do-over; the December letter with his name on
+it); Trey (every month on the bike is money); the coordinator (interim
+if Dan falls; already taking calls); Ty (his job inside Dan's
+extension); the AD and the consultant (Boyd's pledge; the partner's
+contract); Verna (the survey chalk through her gravel); Sonny (the
+pumper on the same February agenda as the pledge); Peanut (the Mule in
+the money's path); Marisol (the room she moderates campaigns against
+her own son — canon already); Odell and Tick (the eleven are his
+customers; the show runs on Boyd's dealership money); Kat (about to
+need somewhere to land herself). None is canon until the author says.
