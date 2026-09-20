@@ -448,6 +448,24 @@ card); 10 (who is where on the porch, once, audible).
   the middle of the band, not its floor.
 - The end thinks and comes back to her, in a room with people.
 
+## FROM THE ROOTING-FOR SURVEY (developmental-editor, E2, 2026-09-20) — binding
+
+1. **The hold on air is not priced afterward.** No sentence in his
+   head and nobody on the porch says what it cost; the withheld name
+   IS the cost and the county's silence is the reader's to hear.
+   Tick's anchor is not a thank-you in costume.
+2. **Denny's wall is for Denny.** Dan stands there for the man, not
+   for the board's next sentence; Denny's want comes out of Denny's
+   mouth ("He's all right."), not a narrator paragraph; no second
+   trainer drop; no Verna "never said a word."
+3. **The ending does not catalogue her.** Five endings in a row (17–21)
+   close on one lead listing the other's virtues — a template (taste
+   6). Ch 22 ends on the room: one joke Dan loses at the counter
+   before the dread, then the second stool. No "she had…" list.
+4. **The lead sees the trouble and chooses not to use it** (the
+   survey's rule for darker stakes): Dan reads Denny's quiet and the
+   letter's missing name and does nothing with either.
+
 ## THE CARD'S CALLS — DEFAULTS FOR DRAFTING
 1. Boyd at the top of the yard steps, silent (menace 2).
 2. Her one look is across the square before the show; she is never on the porch.
