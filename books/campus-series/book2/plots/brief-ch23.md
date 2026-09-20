@@ -379,8 +379,9 @@ register (B2-D25.1 — nothing explained); Delores counting with the pen
   spent here; save it for ch 27. Nobody swears on this page.
 - Calendar: "Monday the eighteenth of January" in the first paragraph;
   "the third of February" / "sixteen days"; the hill clear "since
-  Saturday"; NEVER "two weeks"; never "signing day" as narration's
-  noun.
+  Saturday"; NEVER "two weeks"; "signing day" allowed once, glossed,
+  in her read (the keeper's ruling on the page: the ch 22 ban was
+  calendar hygiene; the proxy asked for it plain).
 - The frame's contents: verbatim from ch 16 / registry 118 — nothing
   added to the picture (no hand on an arm that was not there).
 - NO drop for the trainer (two spent); NO Missy line; NO Denny.
