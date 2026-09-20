@@ -91,6 +91,15 @@ if (( 10#$CH >= SCORES_FROM )); then
   have "scores/ch${CH}-score.md" || missing+=("chapter score → notes/scores/ch${CH}-score.md  (/chapter-score: the romance level and each lead's development, with evidence)")
 fi
 
+# The author's read of the draft, before the panel (the author,
+# 2026-09-20: "implement my style of comments before the chapter is
+# written"): author-proxy writes notes/chNN-author-proxy-<date>.md with
+# a TESTS line of the six tokens (reader-tests.txt L057). From ch 23.
+PROXY_FROM=23
+if (( 10#$CH >= PROXY_FROM )); then
+  have "ch${CH}-author-proxy-*.md" || missing+=("author-proxy → notes/ch${CH}-author-proxy-<date>.md  (REQUIRED from ch 23: the author's six questions asked of the draft before the panel — studio/AUTHOR-QUESTIONS.md)")
+fi
+
 # The definition of done, set on the card before the draft (author,
 # 2026-09-17): targets-check.py compares the card's Targets line with the
 # panel's ACTUALS line; the romance level two or more under target holds
