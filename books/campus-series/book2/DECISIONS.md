@@ -774,8 +774,8 @@ LOCKED (the author's own):
    the books after. A vice is a real one and costs; nobody is a type.
 
 PROPOSED, awaiting the author's picks (the 2026-09-20 ideas message):
-Denny (the NFL as his own do-over; the December letter with his name on
-it); Trey (every month on the bike is money); the coordinator (interim
+Denny (the NFL as his own do-over; the December draft was his and his
+name is not on the January letter — ch18:114, the keeper's correction); Trey (every month on the bike is money); the coordinator (interim
 if Dan falls; already taking calls); Ty (his job inside Dan's
 extension); the AD and the consultant (Boyd's pledge; the partner's
 contract); Verna (the survey chalk through her gravel); Sonny (the

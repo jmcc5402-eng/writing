@@ -26,7 +26,7 @@ paid for. Nothing here resolves unless the outline says so.
 
 | Who | The stake | Self-inflicted? |
 |---|---|---|
-| Denny Gault | The boy's arm is his do-over (a year lost somewhere); the December letter with his name on it proves he tried to hurry his own son's brain | Yes |
+| Denny Gault | The boy's arm is his do-over (a year lost somewhere); the December letter was his own draft (registry 30), and his name was NOT on the eleven families' January letter (ch18:114, F8) — the town will ask why he wrote one and would not sign the other | Yes |
 | Trey | Every month on the bike is money; the scouts come to spring workouts | No |
 | The coordinator | Interim if Dan falls in February; already taking calls | Yes |
 | Ty Beaumont | His job is inside Dan's extension; a girl in this town now | No |
