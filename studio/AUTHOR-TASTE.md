@@ -201,6 +201,14 @@ and swoon inventories; the standing table earns a scene when the
 plot has been loud too long; the kiss chart and heat slots.
 Fails when: the town is background instead of company; a chapter has
 no room the reader wants to stay in.
+Amended (2026-09-21, #180 on 1.2 ch 23): "This whole book is a little
+bit of a downer. It's just these two people that are constantly
+alone; I want to add some more fun to it… a scene where Kat shows up
+as a surprise with some listings and a bottle of wine, just to take
+the edge off the book." Two apart chapters in a row with nobody the
+lead enjoys is a finding; a friend's surprise is the shape the author
+reaches for. The FUN question joins the author's standing six
+(`studio/AUTHOR-QUESTIONS.md` 7).
 
 **Added 2026-09-07 to entry 7 (the #139 comments on 1.2 ch 11):**
 wine night must be PLAYFUL even when it carries the plain moment —
@@ -538,6 +546,10 @@ top of a chapter is the non-football reader's door: a kid's laundry,
 the drive back, the dorm, the diner, the cold, a grandmother's
 parking question. Light. It may rhyme with the chapter; it never
 carries a beat.
+Amended (2026-09-21, #180): "Epigraphs should have some funny ones."
+At least every third epigraph is a laugh — the real board's register
+(the retainer found in a waffle; the planter moved six inches; the
+light on Millrow, day forty). Light is the floor; funny is owed.
 Check: STYLE "The epigraph"; the brief's EPIGRAPH line; the keeper's
 audit reads the epigraph against this entry; the fold's registry row
 for board fixtures.
@@ -638,3 +650,10 @@ talks in short sentences with no emotion." The top four to six
 characters carry a PULL, two wants against each other, and it shows
 with feeling every time they appear (`canon/STAKES.md`, "The pull").
 A face that "did not do one thing" is a finding, not restraint.
+Amended (2026-09-21, after ch 23): BLATANT. "I still don't feel the
+stakes are very high. Maybe we need to be more blatant and say if
+they are caught… they will both instantly get fired… the glass tower
+is still just kind of a sideshow with no point… the letter still
+doesn't really have any teeth." A stake is not on the page until the
+page says what exactly happens if — in one plain sentence, every
+time the thing appears (B2-D30.1, D30.4). Subtle is a finding.

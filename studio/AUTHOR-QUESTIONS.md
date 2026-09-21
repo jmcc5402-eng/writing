@@ -18,8 +18,18 @@ A cell is one line: what the page will carry, or "—" and why not.
 | 2 | WHO | "Are we making enough conflict with this character?" — "I can't tell if she's trying to help her son or get him back on the field. We aren't sure if they are good guys or bad guys. She should have conflict about whether she is keeping her boy safe. The end of 22 has Sonny; we need to remind who he is. Why does this football coach read a message board?" | Every named character in the scene: what they want, their pull (STAKES.md), whether the reader is told to like or hate them now, the who-is-this clause if they have been away, the why for any habit shown. |
 | 3 | CONFUSING | "It's confusing exactly when Dan comes to pick them up. It keeps saying 'he' — at one point it talks about Ty also. I have no idea if it's snowing or sleeting. Is 'the copies' the letter?" | The clock into and out of the scene (where each person is, how long, how the next one knew); every referent a reader who skipped a week needs; names not "he" where two men share a paragraph; what is falling. |
 | 4 | NOSE | "Now we're being too on the nose. Better to have him pull the beer out and nothing be said about it. 'I wanted to say it in this truck' — remove that concept from the writing." | Any place the scene is tempted to explain its own device — a drink, a place, a callback, a rule — and the plainer thing the page does instead. |
-| 5 | POINT | "The conversations on the porch are flat. I don't know what the point is. We are making a bigger deal out of a letter that isn't a big deal. How can we raise the stakes of this meeting?" | What the scene is for in one line; what is at stake in it for every person in the room (the sheet); whether the thing the scene treats as big is big, and what the page says if it is small. |
+| 5 | POINT | "Are the stakes blatant enough — what exactly happens if?" — "The conversations on the porch are flat. I don't know what the point is. I still don't feel the stakes are very high. Maybe we need to be more blatant and say if they are caught they will both instantly get fired. The glass tower is still a sideshow with no point. The letter still doesn't have any teeth." | What the scene is for in one line; what is at stake in it for every person in the room (the sheet); whether the thing the scene treats as big is big, and what the page says if it is small. |
 | 6 | SENSES | "Let's spend a little bit of time describing the storm. Let's have a paragraph at least. The dinner looser — the wine, the jar." | What the world is doing in this scene as a physical thing — the weather, the room, the props, the sound — and where its paragraph goes. |
+| 7 | FUN | "Is this chapter a downer?" — "This whole book is a little bit of a downer. It's just these two people that are constantly alone; I want to add some more fun to it. What about a scene where Kat shows up as a surprise with a bottle of wine, just to take the edge off." | Where the fun is in this scene — a friend, a room the reader wants to stay in, a laugh — and, if the scene is a hit by design, what in the chapter takes the edge off; two chapters running with the lead alone and nobody she enjoys is a finding. |
+
+## The author's scale (2026-09-21)
+
+The author rated ch 23 romance 3 where the panel said 6, and ch 20
+2–3 where the panel said 6. The gap is a rule: ROMANCE needs conflict
+between the two of them on the page — longing alone is a 3; HEAT
+counts only with the two in a room — remembering is not heat. The
+proxy and the panel rate on `notes/romance-levels.md`'s author rows as
+anchors, not on the count.
 
 ## The two that matter most
 
