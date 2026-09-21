@@ -3,6 +3,19 @@
 Newest first. Every entry: version, what changed, and the evidence that
 drove it.
 
+## 2026-09-21 — author-proxy 1.1.0: scored against the author's real comments — zero of seven
+
+The experiment ran. The author's seven comments on ch 23 (#180 and
+chat): none the proxy had said; four it missed (the stakes not
+blatant, why they are apart, the romance level — 3 vs the panel's 6
+— and the heat level); three new (funny epigraphs, the book a
+downer, the wound higher). The proxy had caught nuts-and-bolts and
+passed POINT. Now: romance and heat rated on the author's own anchors
+(romance-levels.md rows 20, 23; heat only in a shared room); the
+stakes-blatant line (what exactly happens if — quote it or say none);
+the apart-why; a seventh question, FUN (L062–L064). The score file is
+notes/ch23-proxy-score-2026-09-21.md; ch 24 scores it again.
+
 ## 2026-09-20 (night) — author-proxy 1.0.1: the two big questions first; showrunner 2.4.5: one open PR at a time
 
 The author on the proxy's first run: "all of those examples are
