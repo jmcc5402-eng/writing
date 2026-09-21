@@ -98,6 +98,30 @@ printf '%s' '{"tool_input":{"command":"git add .claude/skills/lesson/SKILL.md &&
 printf '%s' '{"tool_input":{"command":"python3 - <<EOF\nprint(\"git add a && git commit -m x\")\nEOF\n"}}' \
   | expect 0 "commit-scope ignores a git commit quoted inside a heredoc" python3 "$ROOT/studio/tools/commit-scope.py"
 
+# --- thread-scope (PreToolUse Edit|Write|MultiEdit, Bash, Agent) — L067 -
+# STUDIO_THREAD_SCOPE forces the scope so the cases hold on any branch.
+TSP="$ROOT/studio/tools/thread-scope.py"
+printf '{"tool_name":"Edit","tool_input":{"file_path":"%s/books/campus-series/book2/manuscript/ch05.md"}}' "$ROOT" \
+  | STUDIO_THREAD_SCOPE=environment expect 2 "thread-scope refuses a manuscript edit on an environment branch" python3 "$TSP"
+printf '{"tool_name":"Edit","tool_input":{"file_path":"%s/books/campus-series/book2/canon/REGISTERS.md"}}' "$ROOT" \
+  | STUDIO_THREAD_SCOPE=environment expect 0 "thread-scope lets an environment branch edit canon" python3 "$TSP"
+printf '{"tool_name":"Write","tool_input":{"file_path":"%s/studio/STYLE.md"}}' "$ROOT" \
+  | STUDIO_THREAD_SCOPE=environment expect 0 "thread-scope lets an environment branch edit studio" python3 "$TSP"
+printf '{"tool_name":"Edit","tool_input":{"file_path":"%s/books/campus-series/book2/manuscript/ch05.md"}}' "$ROOT" \
+  | STUDIO_THREAD_SCOPE=story expect 0 "thread-scope leaves a story branch alone" python3 "$TSP"
+printf '{"tool_name":"Bash","tool_input":{"command":"git add -A && git commit -m \\"studio: x\\""}}' \
+  | STUDIO_THREAD_SCOPE=environment expect 2 "thread-scope refuses git add -A on an environment branch" python3 "$TSP"
+printf '{"tool_name":"Bash","tool_input":{"command":"sed -i s/a/b/ books/campus-series/book2/manuscript/ch05.md"}}' \
+  | STUDIO_THREAD_SCOPE=environment expect 2 "thread-scope refuses sed -i on a manuscript" python3 "$TSP"
+printf '%s' '{"tool_name":"Bash","tool_input":{"command":"cat <<EOF > books/campus-series/book2/manuscript/ch05.md\nx\nEOF\n"}}' \
+  | STUDIO_THREAD_SCOPE=environment expect 2 "thread-scope sees a heredoc redirected onto a manuscript" python3 "$TSP"
+printf '{"tool_name":"Bash","tool_input":{"command":"git add studio/STYLE.md && git commit -m \\"studio: x\\""}}' \
+  | STUDIO_THREAD_SCOPE=environment expect 0 "thread-scope passes a named studio commit" python3 "$TSP"
+printf '{"tool_name":"Agent","tool_input":{"subagent_type":"drafting-assistant","prompt":"draft ch 25"}}' \
+  | STUDIO_THREAD_SCOPE=environment expect 2 "thread-scope refuses a drafter on an environment branch" python3 "$TSP"
+printf '{"tool_name":"Agent","tool_input":{"subagent_type":"continuity-keeper","prompt":"read ch 25"}}' \
+  | STUDIO_THREAD_SCOPE=environment expect 0 "thread-scope lets an environment branch launch a keeper" python3 "$TSP"
+
 # --- the bans' own fixtures --------------------------------------------
 expect 0 "bans.py --test: every ban fires on its fixture" python3 "$ROOT/studio/tools/bans.py" --test
 
