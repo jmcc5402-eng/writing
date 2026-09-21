@@ -15,8 +15,8 @@ February. Boyd put her name in that pipe so she would go. She packs her office i
 an afternoon because she never unpacked a life here. The whole six
 months fits back in the car it came in. She carries Verna's twelve
 towels down to the washers herself, folded in thirds, the count
-square. Mt. Nebo's February program hands her the county's other
-memory of the annex. Back in nine she rereads the
+square. At Mt. Nebo she checks the count of her boxes against her
+copy, and the hall's business goes on around her. Back in nine she rereads the
 Cordelia letter for the first time since the wall. Then the town
 starts doing small things nobody asked for. Coffee on the house. The
 coach's slice at her elbow, unasked. Verna not charging February.
@@ -47,6 +47,6 @@ boxes pack fast when nobody's asked you to stay.
 
 **Your calls.**
 
-1. She calls Dan the night she decides and tells him about the offer, or she does not and he learns it from the county in 26.
+1. She calls Dan the night she decides and tells him about the offer, or she does not and how he learns it is 26's problem.
 2. Kat's surprise lands here, two bottles and the listings on the night she packs, or Kat stays a text.
 3. The Cordelia letter is read on the page in full, in your words, or only its last line.
