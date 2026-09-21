@@ -255,7 +255,7 @@ standard 24)
 |---|---|---|---|---|
 | F1 | The hold vindicated: her documentation is airtight and the review affirms the call | 5 (baseline imaging + her charting habit), 9 (she boxes the annex records herself — chain of custody) | the whiteboard protocol; "extra imaging, her own order, her own dime of time" | 27–28 |
 | F2 | The Birmingham report confirms the December no-go | 17 (the trip) | Missy's board posts go quiet after Christmas — someone notices at the Table | 28 |
-| F3 | The complaint is Boyd-adjacent (manufactured, not grassroots) | 10 (the phrase), 19 (the consultant seen working the board's archive) | same-week annex greenlight — "y'all can count" (ch 24 anchor) | 27 (decoded; the WIRE to Boyd stays unproven on the page — P7 discipline holds, hands to 1.3) |
+| F3 | The complaint is Boyd-adjacent (manufactured, not grassroots) | 10 (the phrase), 24/25 (the consultant seen working the board's archive — the ch 19 plant was on no page; keeper 2026-09-20 B3; ch 23's trawl has no author on the page) | same-week annex greenlight — "y'all can count" (ch 24 anchor) | 27 (decoded; the WIRE to Boyd stays unproven on the page — P7 discipline holds, hands to 1.3) |
 | F4 | The tailgate photo's provenance: the board's own public album, over-documented for love | 16 (taken on page) | the board's playoff-album thread named in 16 | 23 |
 | F5 | S01 letter | 9 | the wall cavity behind the key hook, staged plainly | 25 local rent (her stay/leave counterweight); series texture thereafter |
 | F6 | The hookup leak chain: friend-chat screenshot escapes ring by ring; no villain, only physics | 11 (the rings shown), 12 (the artifact) | "Who types a pause?" — the screenshot's giveaway formatting (estate 31 assigned) | 12–13; dignity repair 18–30 |

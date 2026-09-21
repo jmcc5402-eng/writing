@@ -137,12 +137,26 @@ agenda's three items named. Open: the stakes picks; the sweep; the
 gossip room's name; the author's numbers for 21 and 22; the ch 18 and
 ch 20/21 proposals from the readers.
 
-**Then ch 23** — Aisha; the frame (B2-T05: the photo the reader holds
-and she cannot know; the consultant's trawl; Boyd strikes through
-others); menace 3; ends down; matrix row 23: Romance 6 · Heat 3 ·
-Aisha 2 · Dan 1 · Wound 3 · Fun 0 · Town 3 · Menace 3 · Ends down ·
-Talk normal · Words 3400 · Pays Aisha. Dan's stake as a hint, once;
-the seed for book 3's couple (BEATS, ±2 chapters) owed here or at 24.
+**Ch 23 ACCEPTED (#180, 2026-09-21) and FOLDED — the first chapter
+run with THE AUTHOR'S READ on the brief and the author-proxy read
+before the panel.** Three blind drafters (D6, D1, D4), B won; three
+blind panel reads at romance 6; the author at 3 ("no romance
+conflict, only longing") — the author's scale is canon (TARGETS
+definitions; heat needs a shared room). The author's comments applied
+(B2-D30): both fired in season said blatantly; after signing day its
+own storm; fourteen-hour days and her pull; the building's point and
+the letter's teeth in one plain sentence each; the epigraph funny.
+The proxy scored 0 of 7 against the real comments and was rebuilt
+(1.1.0). PROPOSED, the author's go: Kat's surprise wine night (D30.6).
+Open: the trainer's name; the pulls to lock; the gossip room's name;
+the sweep; the two keeper questions; Boyd named once in 23.
+
+**Then ch 24** — Dan; "Pending Review": the suspension in the AD's
+neutral prose with a published fortnight; the annex greenlight the
+same week; rule 7 spent; Dan's silence and hers not asking (the
+couple's worst hour); matrix row 24 — one open PR at a time: the
+card, brief and audit run while the fold PR is open; drafters after
+the merge.
 
 **Was: then ch 22** — Dan; Thursday Jan 14, the window shuts; Coach's
 Table round two; the hold defended on air; the town acts again (the
