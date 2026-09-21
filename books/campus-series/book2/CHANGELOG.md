@@ -2,6 +2,26 @@
 
 Manuscript-affecting changes, newest first. (Hard rule 6.)
 
+## 2026-09-21 — ch 24 "Pending Review" drafted: three blind candidates, B wins (chapter PR) — THE SECOND TRIAL OF THE AUTHOR-PROXY
+
+- The card and the brief (with THE AUTHOR'S READ, seven columns —
+  FUN new) audited together by the keeper (E1): six blocks — the
+  count moved behind the ten o'clock statement; Aisha leaves at noon
+  in daylight; the aldermen's vote is the town's side of Millrow
+  rezoned, not the university's ground; Earlene speaks, never types;
+  the opening off the Checkerboard counter; six example sentences
+  banned — and eleven non-blocking fixes. The ending moved to her
+  empty office door at the annex.
+- Three blind drafters (D2, D3, D4), each read FIRST by author-proxy
+  1.1.0 (rating on the author's scale; the stakes-blatant line; the
+  apart-why; FUN), then by the blind panel on the card-blind copy
+  (the first). Every reader: romance 4–5 on the author's scale, the
+  stake blatant, the same four asks (her side of the window; her in
+  the middle and the ending; Boyd named once; one room he is not
+  alone in). B wins (`notes/ch24-scoreboard-2026-09-21.md`).
+- The revision pass on B: the proxy's eight, the panel's five, the
+  four shared asks.
+
 ## 2026-09-21 — ch 23 ACCEPTED (#180) and folded; the author's comments applied (fold PR; B2-D30)
 
 - The author's comments (#180 and chat), applied by the drafter: (1)
