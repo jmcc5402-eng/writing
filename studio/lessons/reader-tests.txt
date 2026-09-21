@@ -1,4 +1,5 @@
 # reader-tests.txt — the unlintable lessons, enforced as "a named reader
+# columns: ID <TAB> agent <TAB> TEST <TAB> file glob <TAB> token [<TAB> from=NN — demanded from that chapter on]
 # ran this test and left the verdict on disk." The accept gate (from
 # READER_TESTS_FROM in accept-gate.sh) requires, for every row, that the
 # chapter's verdict file matches GLOB and contains TOKEN on a line that
@@ -24,5 +25,5 @@ L057	author-proxy	CONFUSING	ch{CH}-author-proxy-*.md	confusing
 L057	author-proxy	NOSE	ch{CH}-author-proxy-*.md	nose
 L057	author-proxy	POINT	ch{CH}-author-proxy-*.md	point
 L057	author-proxy	SENSES	ch{CH}-author-proxy-*.md	senses
-L062	author-proxy	FUN	ch{CH}-author-proxy-*.md	fun
-L065	author-proxy	FUN	ch{CH}-author-proxy-*.md	fun
+L062	author-proxy	FUN	ch{CH}-author-proxy-*.md	fun	from=24
+L065	author-proxy	FUN	ch{CH}-author-proxy-*.md	fun	from=24
