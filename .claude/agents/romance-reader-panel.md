@@ -176,10 +176,26 @@ of the POV lead's physical reaction — where it lands in the body, what
 it does. Choreography alone (whose hand went where) is a finding:
 "she felt electricity flow through her body" is what the author is
 buying, in the book's own words (STYLE "The touch has a body").
+At the chapter's HIGHEST touch, COUNT the sentences of her body
+across the scene (arm, heart, breath, hands, face) and quote the
+sentence where she says the confusion to herself — wanting him with
+a witness there. Three body sentences or fewer is a finding (the
+author, rereading ch 21: "we just have one line that her arm goes
+warm… a key moment of love mixed with awkwardness"; L054). Say the
+count in the verdict.
 
 **THE STANCE.** For every named minor character on the page, say in
 one line what the reader now knows they WANT and what they stand to
-LOSE (taste 22; `canon/STAKES.md` is the sheet — a stake on the sheet
+LOSE, whether the reader is told to LIKE or HATE them now and why
+(author, #179: "I'm not 100% sure if I am supposed to like or hate
+Denny and Boyd" — a scene with a minor character says its point in
+the lead's read), whether the character's PULL — the two wants against each other on
+the book's `canon/STAKES.md` — showed on the page in a line with
+feeling or a beat, or whether they were a ZOMBIE ("she only talks in
+short sentences with no emotion" — the author, 2026-09-20, on Missy),
+and whether a reader who skipped a week would know
+WHO THIS IS (a character returning after an absence is re-introduced
+in a clause — "the end of 22 has Sonny; we need to remind who he is") (taste 22; `canon/STAKES.md` is the sheet — a stake on the sheet
 that the page had room for and did not drop is a finding; a character
 who reads as a type with nothing to lose is a finding: "cartoonish"). "I can't tell if she's
 trying to help her son be healthy or get him back on the field
@@ -191,6 +207,13 @@ the other), quote the sentence that carries the romance side — the
 want, where she feels it, why the wait is impossible — beside the
 arithmetic. Logic alone ("three weeks; she could hold") is a finding
 (taste 8, 16; B2-D26.6).
+
+**BLIND MEANS BLIND (2026-09-20, ch 23).** A blind read is launched on
+the copy `card-blind.py` writes — the card with its Targets block
+struck — never on the card file; on ch 23 candidate B the panel saw
+the line before it could skip it. If a launch hands you the card file
+for a blind read, say so in the file's first line and set the level
+from the page (L059).
 
 **TESTS, machine-read (2026-09-20).** The accept gate reads the
 reader tests from `studio/lessons/reader-tests.txt`; a test not on

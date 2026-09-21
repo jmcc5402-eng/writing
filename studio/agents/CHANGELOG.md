@@ -3,6 +3,95 @@
 Newest first. Every entry: version, what changed, and the evidence that
 drove it.
 
+## 2026-09-20 (night) — author-proxy 1.0.1: the two big questions first; showrunner 2.4.5: one open PR at a time
+
+The author on the proxy's first run: "all of those examples are
+fixes about continuity and very nuts and bolts errors. My main
+comments have been about things like 'are we making enough conflict
+with X character' or 'are we feeling enough romance from this
+scene.'" The proxy's read of ch 23 B had three of eight comments in
+those shapes and the orchestrator led with the other five. Now: MORE
+and WHO-conflict first and at least half; the counts line rates
+romance felt per scene (1–10) and conflict per top character (0–3)
+(L060). And the showrunner: one open PR at a time, the branch
+freezes, no side branches (L061).
+
+## 2026-09-20 (night) — romance-reader-panel 1.6.5: blind means blind
+
+The ch 23 panel on candidate B: "the card's Targets line is inside
+the card file and I saw it before I could skip." A reader cannot
+un-see a line. `card-blind.py` writes the card with the Targets block
+struck; a blind read is launched on that copy (L059).
+
+## 2026-09-20 (night) — author-proxy 1.0.0 (new); instrument-auditor 1.1.0; THE AUTHOR'S READ on every brief
+
+The author: "I'm still having to give lots of comments every chapter…
+make tools or hooks or skills to implement my style of comments
+before the chapter is written." The study of thirty-five comments
+(`audits/2026-09-20-author-comment-study.md`) found six shapes and
+that nobody in the room reads as the author. Three instruments:
+`studio/AUTHOR-QUESTIONS.md` — the six questions in the author's
+words — answered per scene on every brief from ch 23 (THE AUTHOR'S
+READ; brief-gate refuses a drafter without it; `/author-read` drafts
+it; L056). `author-proxy` 1.0.0 — a new agent whose only brief is the
+author's comments verbatim; it reads the draft before the panel and
+writes the comments the author would; its TESTS line carries the six
+tokens and the accept gate requires its file from ch 23 (L057); every
+real comment afterwards is scored SAID / MISSED / NEW against it.
+`instrument-auditor` 1.1.0 — a standing pass reading RECENT's bans and
+caps against the taste sheet, after the August body cap produced the
+one-line cab (L058). PIPELINE's chapter line carries the new stage.
+
+## 2026-09-20 (night) — drafting-assistant 1.7.2, romance-reader-panel 1.6.4: the touch is a scene, not a sentence
+
+The author, rereading ch 21's cab: "we just have one line that her arm
+goes warm… a key moment of love mixed with awkwardness." The panel's
+TOUCH test had passed the cab on that one line — the test asked for
+a body sentence and got one. It now counts the body sentences at the
+chapter's highest touch and quotes the confusion said plain; three
+or fewer is a finding (L054). The drafter's rule 9 says the same.
+The cause was an instrument: RECENT's August scrub ban "one
+involuntary-body beat per chapter max" rode in every campus brief
+and told the drafter to write one line. Narrowed to outside touch
+scenes (L055); chapter-lint TOUCH SPAN counts the body sentences
+around each touch so the next one-line cab shows up before a reader.
+
+## 2026-09-20 (night) — continuity-keeper 1.4.4: the clock between scenes, standing
+
+The author, rereading ch 21: "a confusing timeline when Aisha and the
+trainer decide not to drive, then it's confusing exactly when Dan
+comes to pick them up." The keeper's E4 card ("watch transitions") had
+caught exactly this on the ch 21 card and brief audit — and the page
+audit drew E1 and did not look. A transition check that depends on a
+card draw is an instruction. Now standing in the remit (AUTHOR-NOTES
+233; L053).
+
+## 2026-09-20 (night) — the pull: drafting-assistant 1.7.1, romance-reader-panel 1.6.3
+
+The author, rereading ch 21: "She seems like a zombie… For the top
+4–6 characters we need to weave in this level of conflict throughout
+the book" (AUTHOR-NOTES 232; B2-D29). A stake was half the sheet; the
+PULL (two wants against each other) is the other half, on the page
+every time the character appears. `canon/STAKES.md` "The pull"
+(Missy locked; five proposed); drafter rule 9 amended; the panel's
+STANCE test asks whether the pull showed or the character was a
+zombie; bans.txt L050 — the flat-face shapes, with the pages'
+exhibits as fixtures.
+
+## 2026-09-20 (evening) — the author's ch 22 comments (#179): romance-reader-panel 1.6.2; the pronoun count
+
+Three comments (AUTHOR-NOTES 228–231; B2-D28): "he" for two men in
+one paragraph; Dan's stake (a second time ends him) told to the
+reader; Sonny returning unintroduced; the porch conversations flat
+because the reader was not told whether to like or hate Denny and
+Boyd; the letter small and the trustees' agenda unexplained.
+- **romance-reader-panel 1.6.1 → 1.6.2:** THE STANCE test asks two
+  more things — like or hate now, and why; would a reader who skipped
+  a week know who this is.
+- `chapter-lint.sh`: PRONOUN CROWDING (L045). FACTS F-DAN-01,
+  F-AGD-01. `canon/STAKES.md`: Dan's locked row and "How the reader
+  is meant to read them now."
+
 ## 2026-09-20 — the lesson loop; romance-reader-panel 1.6.1 (the TESTS line; the stance test asks what they stand to lose)
 
 The author: "every bug does two things: fix the bug, and fix the

@@ -6,8 +6,8 @@ the moment they are on the page, and some of it is dark. The spec is
 
 ## The sheet
 
-| Who | The stake (what they stand to lose) | Self-inflicted? | The lever (which thing the story turns on could this touch?) | How it drops (through whose eye; a line, a smell, a bill) | Resolved? |
-|---|---|---|---|---|---|
+| Who | The stake (what they stand to lose) | Self-inflicted? | The lever (which thing the story turns on could this touch?) | THE PULL (two wants against each other; who they fear) — on the page every time they appear, with feeling | How it drops (through whose eye; a line, a smell, a bill) | Resolved? |
+|---|---|---|---|---|---|---|
 | | | | | | |
 
 ## The audit questions, per character

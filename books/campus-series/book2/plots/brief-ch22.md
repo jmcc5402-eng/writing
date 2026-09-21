@@ -581,3 +581,55 @@ Sources read: STANDARDS, NAMES, FACTS, TARGETS r22, STAKES, BEATS, DECISIONS D15
 2. Friday delivery to a shut campus; "Wed–Thu" wrong (B1) — CORRECTED (email; through Friday).
 3. Denny relocated to Dan's wall (B7) — CORRECTED (the northeast corner).
 4. The glance's sightline unestablished (B9) — CORRECTED (the square's corner).
+
+## MAIN MOVED (2026-09-20, evening) — the author's #179 comments, the fold pass
+
+The chapter is ACCEPTED (#179 merged). This pass applies the author's
+comments (B2-D28; AUTHOR-NOTES 228–231) to `manuscript/ch22.md` and
+nothing else. One drafter, the page's own voice (D1). The matrix row
+still binds.
+
+1. **Names, not "he" (D28.1).** The office section (the paragraph with
+   Ty's text, and any paragraph the lint flags — chapter-lint's
+   PRONOUN CROWDING lists them): when two men are in a paragraph, the
+   name is said. Ty is Ty; Dan is Dan. Read the whole page for it.
+2. **Dan's stake, said plain at the glance (D28.2).** At the square,
+   after she looks and he does not cross: two or three plain
+   sentences in his head — ten years ago it was a year sat down for a
+   screenshot that was true; a second time is not a year, it is the
+   end of college coaching, and the county's windows are the
+   screenshot now; and that is the choice on the square — her, or the
+   job. Not a speech; his own words; the stake and the conflict both
+   named. (Canon: ch14:222–243; FACTS F-DAN-01.) Then, in the last
+   section, ONE hint back at it — a clause, not a repeat.
+3. **Sonny, re-introduced (D28.3).** At the counter, one clause of who
+   he is the first time he is named: the feed store's counter by day,
+   the pumper when the pager goes (town-ashford 267; ch 20 "half his
+   gear").
+4. **Denny and Boyd: the point, and like or hate (D28.3).** The corner:
+   one plain sentence of Dan's read before or after "How's Trey" — this
+   is the man who wants the doctor gone and has blamed her since the
+   fall, and Dan does not like him, and the boy is not the letter, so
+   he asks; the reader knows what the scene is for. Boyd: Dan's read,
+   plain, once — the smile is the man whose money wants her rooms and
+   her job, and he came down on ice to hear the coach say "her
+   protocol" on the air, and he heard it; Boyd's one line lands as
+   that. Nothing PROPOSED; no threat in Boyd's mouth.
+5. **The letter is small; the agenda is not (D28.4).** In the film
+   room, where the follow-up post is read: say plainly that eleven
+   polite families are not much at a program this size, and then what
+   the paper is FOR — in February the trustees sit down to Boyd's
+   pledge, Dan's extension, and the group that comes with the pledge
+   and takes over team physician services, which is her job (he has
+   known since October — ch 10; he told her in December — ch 15); a
+   letter asking for clarity on medical decisions is what lets them
+   hand her job to the group as a process fix, in one sitting, with
+   nobody's fingerprints on it. Three or four sentences, his words,
+   once. The later mentions of the copies and the agenda then carry
+   that weight without restating it.
+
+BANNED on this pass: everything in RECENT and bans.txt; any sentence
+the panel protected (the four swoons); "in this room/truck"; a
+narrator label for a want that is already in a character's mouth;
+"fired" for the first time (he was sat down a year). Sentences END.
+Change nothing the comments do not name.

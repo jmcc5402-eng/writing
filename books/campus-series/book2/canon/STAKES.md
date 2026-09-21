@@ -19,8 +19,30 @@ paid for. Nothing here resolves unless the outline says so.
 
 | Who | The stake | Self-inflicted? | How it shows (the drops) | Resolved? |
 |---|---|---|---|---|
+| Dan | **A second time ends him.** Ten years ago the woman on the academic side, the screenshot, "the school sat me down a year" (ch 14). Caught with Aisha is the second time, and a coach is not sat down twice: he is out of college coaching for good. The conflict the author names: true to her, or the job. (B2-D28.2, LOCKED 2026-09-20) | Yes, the first time; the second is a choice he is making now | Said plain once at the glance in ch 22; then hints, at most one a chapter, in his read — the county's windows, the board's next sentence, the trustees' page | Ch 27 (he spends it: his name on the record) |
 | The trainer | Ten thousand dollars owed on a gambling habit. He is the man between the doctor and the coach, and the survey is pricing his job. | Yes | A line in Aisha's read (a call he takes in the corridor; the truck he does not drive); what the town knows; `[TK does it ever touch the medical information — the author's call]` | Not owed |
 | Missy Gault | The marriage: Birmingham said the doctor was right and the proof has been in her purse since December 23rd, untold to Denny (B2-T04). And a drinking problem. | Yes | The purse (ch 28 pays). The drinking: never shown — a few lines across the book: what Aisha smells at the hall chair; a morning the seven o'clock page's hand is not the same; what Verna knows | The purse pays ch 28; the drinking is not owed |
+
+## The pull (B2-D29 — a stake is what they lose; the pull is the two wants against each other, on the page every time they appear)
+
+| Who | The pull | Afraid of | How it shows (a line with feeling, or a beat — never a flat face, never twice) | Status |
+|---|---|---|---|---|
+| Missy | the boy SAFE against the boy PLAYING — she wants both and cannot have both | Denny's anger if she sides with the doctor; the town she grew up in hating her for it; the next hit | a mother's question at the twenty ("Is that safe, or is that what he wanted"); a line about Denny; a line about the town; the notebook and the chair as what her hands do with it | LOCKED (the author, 2026-09-20; L052) |
+| Denny | the town's Denny (loud, the letter's author in December) against the father who could not sign the January one | being wrong in front of the corner; the boy never getting his field | his quiet where he used to hold court; the coat buttoned; "It's all I ever wanted for him" — the page shows the quiet, never the refusal (RH2) | PROPOSED |
+| The trainer | head down and the job against the doctor whose truck he rode in | the ten thousand; the survey pricing his job; being seen to pick a side | the app closed before her door; the score on his knee; "Mine's the same as yours"; what he does not say in the cab | PROPOSED |
+| Verna | her winter doctor's rent against the town's talk at her own storm door | losing the tenant; the survey through her gravel | the look at the truck "like a plate from out of state"; the coffee handed out with no room for an answer | PROPOSED |
+| Tick | the show's sponsor money against what he says off the air | the station; the porch's mood | the anchors off air, to Dan alone; the on-air tone against the off-air one | PROPOSED |
+| Aisha | the terms (nothing anybody can see) against the want | the county reading a truck; nobody has ever spent anything on her | ch 21's cab; the ache | canon (the dossier) |
+| Dan | the job (a second time ends him) against her | the county's verdict; the screenshot that is true this time | the square; the board unopened | LOCKED (B2-D28.2) |
+
+## How the reader is meant to read them now (B2-D28.3 — a turn later is the surprise)
+
+| Who | Now | The turn |
+|---|---|---|
+| Boyd | Distrust him. His money wants her rooms and her job (B2-D13); he smiles and never threatens; he is the weather | None in this book (boyd-arc §4: he exits smiling) |
+| Denny | The father who wants the doctor gone and blames her for the boy's fall; Dan does not like him and is kind to him anyway | Ch 28: he refused to sign the January letter (RH2) — the reader is not told before |
+| Missy | Wants him on the field; Birmingham was ammunition; deciding whether the doctor is the enemy; drinks | Ch 28: the proof in her purse |
+| The trainer | Ten thousand on a gambling habit; the man between the doctor and the coach | Not owed |
 
 ## Proposed (the showrunner's ideas, 2026-09-20 — none canon until picked)
 

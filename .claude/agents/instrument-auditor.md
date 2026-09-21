@@ -96,6 +96,17 @@ until the author did._
    (DRAFTING-PROTOCOL, "the over-tooling guard"): prefer narrowing or
    deleting a rule over adding one.
 
+## The bans against the taste sheet (P6 — the author's comment study, 2026-09-20)
+
+On every run, read every standing ban, cap and ration in
+`studio/agents/variance/RECENT.md` and the scrub lists the briefs
+cite, and check each against `studio/AUTHOR-TASTE.md`. A cap that
+contradicts a taste entry is a finding of the first order: the
+August "one involuntary-body beat per chapter max" rode in every
+campus brief for a month against taste 20 and produced the one-line
+cab the author caught (AUTHOR-NOTES 234; L055). Name the ban, the
+entry, and the page it cost.
+
 ## The report
 
 Write it to `studio/agents/audits/YYYY-MM-DD-instrument-audit.md`

@@ -171,7 +171,7 @@ and the outline, never from memory.
 > faster overall."
 
 **The wave is retired as the unit of production.** The unit is ONE
-CHAPTER: brief → drafts → panel → staging → lint → **one PR with a
+CHAPTER: brief (with THE AUTHOR'S READ) → drafts → author-proxy → panel → staging → lint → **one PR with a
 one-chapter listening file** → author reads and listens → merge →
 fold → next chapter's brief.
 

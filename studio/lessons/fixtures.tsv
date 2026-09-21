@@ -1,6 +1,8 @@
 # fixtures.tsv — one sentence per ban that MUST trip it. `bans.py --test`
 # fails if a ban has no fixture or a fixture does not fire: a dead ban is
 # an instruction wearing a lab coat. ID <TAB> sentence.
+# !ID <TAB> sentence is a clean exhibit the ban must NOT fire on (a
+# false positive it once tripped), so tightening is proven and stays.
 L001	She took the number down, unhurried, and said nothing.
 L002	He declined to examine what the silence had cost him.
 L003	That was the whole point of it, and she knew it.
@@ -24,9 +26,14 @@ L016	in this room," she said. "Say something else."
 L016	not to go, two nights ago, in this room, and she had said it
 L016	"I said it in a bar to two women in December
 L016	Dan had worked out both of those in this room and had said neither,
+!L016	because he had told the coach he would be in the room, and he was.
+!L016	and typed it into the chart before she said it to anyone in the room.
 L017	"I know you know it. Now it's been said where you were."
 L042	and did not say thank you.
 L042	He did not say thank you.
 L042	He did not say thank you, and Dan had not said it for that.
 L042	She did not say anything else, and she did not say thank you.
 L042	She did not thank him for the ride, and he had not driven her for that.
+L042	There was no thanks in it.
+L050	and her face did not do one thing Aisha could have charted,
+L050	Her mouth was a line, the same line it had been since November.

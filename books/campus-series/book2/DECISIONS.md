@@ -812,3 +812,138 @@ simple," only drops: a few higher-stakes lines, not a plot change.
    app before he came into the room." Seen, named, plain — not
    inferred. On the page at ch 21 (the corridor; the cab keeps the
    score, put away). stakes.md rule 5 carries the example.
+
+## B2-D28 — the ch 22 rulings (author, 2026-09-20, #179 comments)
+
+1. **Say the name when two men are in the paragraph.** "It keeps
+   saying 'he' instead of his name… it talks about Ty also." The
+   office section re-said with names; chapter-lint counts a paragraph
+   with two men and five or more he/his/him (L045).
+2. **Dan's stake, LOCKED: a second time ends him.** "If he gets caught
+   with Aisha that will be two times and he will be out of college
+   coaching forever." Canon behind it: ch 14 — ten years ago, the
+   woman on the academic side, the screenshot, "the school sat me
+   down a year." The first time was a year sat down; the second time
+   is the end of college coaching. Said plain on the page at the
+   glance in ch 22 (the author's own placement: "when he's watching
+   her walk across the street from the Checkerboard"), and dropped as
+   hints after, once a chapter at most. It is the conflict the author
+   names: true to Aisha, or the job. `canon/STAKES.md` Dan row;
+   FACTS F-DAN-01; every brief's STAKES ON THE PAGE carries it.
+3. **Like or hate, said now; the point of a scene said.** "I'm not
+   100% sure if I am supposed to like or hate Denny and Boyd." Ruled:
+   the reader is told now, in the POV lead's read, and a turn later is
+   the surprise (taste 21). BOYD: the reader distrusts him now — his
+   money wants her rooms and her job (B2-D13) and he smiles; never a
+   cartoon; Dan's read says it plain. DENNY: the reader reads him now
+   as the father who wants the doctor gone and blames her for the
+   boy's fall; Dan does not like him and does the kind thing anyway;
+   the turn is ch 28 (RH2 — the reader is not told he refused to
+   sign). Every scene with a minor character says its point in one
+   plain sentence of the lead's read: the Denny corner — Dan goes to
+   the one man on the porch who wants the doctor gone and asks after
+   his son, because the boy is not the letter; the Boyd line — the
+   man whose money is on the February agenda came to hear Dan say
+   "her protocol" on the air, and heard it. SONNY, returning: one
+   clause of who he is (the feed store's counter; the pumper when the
+   pager goes). The panel's STANCE test gains both questions.
+4. **The letter is small; the agenda is not — RULED from canon.** "It
+   seems we are making a bigger deal out of a letter that isn't a big
+   deal at a big football school… How can we raise the stakes of this
+   meeting with the trustees?" The page says the letter is small,
+   plainly. What it is FOR is the February agenda, which already
+   holds three things in canon: Boyd's pledge (the performance center
+   on the annex's ground — B2-D15), Dan's extension ("a review" after
+   the loss — B2-D15), and the provider partner that rides in with
+   the pledge and takes over team physician services — her job
+   (B2-D13; Dan has known since ch 10). A polite letter asking for
+   "clarity on medical decision-making" is the paper that lets the
+   trustees vote her job to Boyd's group as a process fix, in the same
+   sitting as his building and Dan's contract, with nobody's
+   fingerprints on it. That is said in Dan's head in ch 22, once, in
+   plain words; FACTS F-AGD-01 fixes the agenda's three items. OPEN
+   for the author, a raise beyond canon: whether the trustees' vote
+   is moved UP from spring to the February sitting (the outline has
+   the review at 24 and the hearing at 27) — the showrunner
+   recommends leaving the dates and letting the page name the three
+   items, which is the raise the reader was missing.
+
+## B2-D29 — the pull: the top characters carry conflict, not only a stake (author, 2026-09-20, rereading ch 21)
+
+"She seems like a zombie. She only talks in short sentences with no
+emotion… she's also a mother; she should have conflict about whether
+she is keeping her boy safe… For the top 4–6 characters we need to
+weave in this level of conflict throughout the book."
+
+1. **The rule.** A stake (what they stand to lose) is the half the
+   sheet had. The other half is THE PULL — two wants against each
+   other, and who they are afraid of. The top four to six characters
+   carry a pull, and it shows on the page every time they appear: a
+   line with feeling in it, or a beat (a hand that stops, a question
+   a mother asks), never a flat face and never explained twice. Short
+   lines are not flat lines: Missy may still speak in six words, and
+   the six words carry the fear.
+2. **Missy, LOCKED (the author's).** The pull: the boy safe against
+   the boy playing — she wants both and cannot have both; Denny's
+   anger if she sides with the doctor; the town she grew up in, which
+   will hate her for it. Her "zombie" register (ch 13: "her face did
+   not do one thing Aisha could have charted"; ch 21: "her mouth was a
+   line") is RETIRED. She feels on the page: a mother's question at
+   the twenty; a line about Denny; a line about the town. The purse
+   (ch 28) stays hers to turn.
+3. **The others — proposed pulls, the author picks:** Denny — loud in
+   public for the boy's field, and a man who could not put his name
+   on the January letter (the pull between the town's Denny and the
+   father; RH2 stays dark: the page shows the quiet, never the
+   refusal); the trainer — keep his head down and his job against the
+   doctor whose truck he rode in, with ten thousand riding on both;
+   Verna — her winter doctor's rent against the town's talk at her
+   own storm door; Tick — the show's sponsor money against what he
+   says off the air; Boyd — none (he is the weather; boyd-arc §5).
+   Aisha and Dan carry theirs already (the terms against the want;
+   the job against her — B2-D28.2).
+4. **Instruments.** `canon/STAKES.md` gains "The pull" table; kit 15
+   gains the column; the brief's STAKES ON THE PAGE names the pull the
+   page carries; the panel's STANCE test asks whether the pull showed
+   or the character was a zombie (1.6.3); drafter rule 9 amended;
+   bans.txt L050 — the flat-face shapes; taste 22 amended. Ch 21's
+   Missy scenes get the pass now (the author is rereading it); ch 22's
+   Denny already carries his quiet as the pull.
+
+### B2-D29.5 — the clock between scenes; the trainer's name (author, 2026-09-20, rereading ch 21)
+
+"There is a confusing timeline when Aisha and the trainer decide not
+to drive, then it's confusing exactly when Dan comes to pick them up.
+Does Aisha and Ty go back inside first?"
+
+1. **The clock between scenes is on the page.** When a scene ends and
+   the next begins, the page says where each person went, how long,
+   and how the next person knew to come. Ch 21's bridge: after the
+   trainer's line they go back inside — she to the file, he to the
+   rehab rooms — until the truck's lights cross the lot at a quarter
+   to six; Dan came because both their cars were still on his side of
+   the lot from the Fieldhouse window at dark. The keeper checks every
+   scene's entry and exit on every page audit (1.4.4), not only under
+   card E4.
+2. **The trainer's name — OPEN, proposed.** The author wrote "Ty" for
+   the man in the cab; Ty Beaumont is the receivers coach. The trainer
+   has no name on any page (twenty-two chapters), which is why he
+   blurs — the red team's "a stake with no name is a prop with a
+   habit." PROPOSED: Carl Whitlow, "Whit" to the staff, "the trainer"
+   in narration until a lead says it; the author strikes or keeps.
+   Until ruled, "the trainer" stands and the page never says Ty for
+   him.
+
+### B2-D29.6 — the cab: the touch is a scene, not a sentence (author, 2026-09-20, rereading ch 21)
+
+"When the three are in the truck going slow, this is where we need more internal struggle and body reaction by Aisha. We just have one line that her arm goes warm. Talk about how her arm goes warm, her heart beats. How she thinks about the confusion of wanting Dan but being stuck in a car with Ty. We just need more to make this interesting, this is a key moment of love mixed with awkwardness."
+
+**LOCKED.** At a key proximity moment the POV lead's body runs across
+the beats and the confusion is said plain in her own head — wanting
+him, pressed against him, with the trainer a foot away and able to
+read it. Ch 21's cab section gets the pass (one drafter, in place;
+the existing beats kept). Instruments: taste 20 amended; STYLE; the
+panel counts body sentences at the chapter's highest touch (1.6.4);
+`chapter-lint.sh` TOUCH SPAN; the August "one involuntary-body beat
+per chapter" scrub ban narrowed to outside touch scenes — it was the
+guardrail that made the one line (RECENT.md).

@@ -7,6 +7,16 @@ triages from anywhere, approves or rules, and the team keeps moving.
 The author is not the writer; the author is the engineering director
 who merges._
 
+## One open PR at a time (author, 2026-09-20)
+
+One branch, one open PR. When a PR opens the branch freezes: only
+that PR's own fixes are pushed to it. The next chapter's card, brief
+and audits run in the meantime and are committed locally; its
+drafters start after the merge; its PR opens within minutes of the
+merge. No side branches (the author: "I don't want to do wonky
+things like creating branches"). A PR that carries a fold and a
+chapter is the failure this rule prevents (#180, 2026-09-20; L061).
+
 ## The core mechanic
 
 **A PR is a recorded decision with an approval button.** This is hard

@@ -6,7 +6,9 @@
     python3 studio/tools/bans.py --list           # the bans, for a brief
 
 The bans live in studio/lessons/bans.txt (ID, regex, note); the fixtures
-in studio/lessons/fixtures.tsv (ID, a sentence that must trip it).
+in studio/lessons/fixtures.tsv (ID, a sentence that must trip it;
+!ID, a clean sentence that must NOT — the false positives a ban
+once fired on, so a loosened regex is caught the same day).
 prose-guard.sh and chapter-lint.sh call this instead of carrying their
 own lists — before 2026-09-20 prose-guard had six phrases hardcoded
 from August and RECENT.md had twenty bans, so a new ban was an
@@ -37,14 +39,20 @@ def load_bans():
 
 
 def load_fixtures():
-    fx = {}
+    """Returns (must_fire, must_not_fire), each {ID: [sentence, ...]}."""
+    fx, clean = {}, {}
     for line in open(os.path.join(LESSONS, "fixtures.tsv"), encoding="utf-8"):
         if not line.strip() or line.startswith("#"):
             continue
         parts = line.rstrip("\n").split("\t", 1)
-        if len(parts) == 2:
-            fx.setdefault(parts[0].strip(), []).append(parts[1])
-    return fx
+        if len(parts) != 2:
+            continue
+        bid = parts[0].strip()
+        if bid.startswith("!"):
+            clean.setdefault(bid[1:], []).append(parts[1])
+        else:
+            fx.setdefault(bid, []).append(parts[1])
+    return fx, clean
 
 
 def check_file(path, bans):
@@ -64,7 +72,7 @@ def check_file(path, bans):
 
 
 def self_test(bans):
-    fx = load_fixtures()
+    fx, clean = load_fixtures()
     bad = []
     for bid, rx, raw, _ in bans:
         if bid not in fx:
@@ -73,7 +81,10 @@ def self_test(bans):
         for s in fx[bid]:
             if not rx.search(s):
                 bad.append(f"{bid}: fixture does not fire: \"{s}\"  (regex: {raw})")
-    for bid in fx:
+        for s in clean.get(bid, []):
+            if rx.search(s):
+                bad.append(f"{bid}: clean fixture FIRES (false positive): \"{s}\"  (regex: {raw})")
+    for bid in list(fx) + list(clean):
         if bid not in {b[0] for b in bans}:
             bad.append(f"{bid}: fixture with no ban")
     return bad

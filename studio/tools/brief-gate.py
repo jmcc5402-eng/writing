@@ -48,6 +48,29 @@ def check(path: str) -> list[str]:
     mch = re.search(r"brief-ch(\d+)\.md$", path)
     if mch and int(mch.group(1)) >= STAKES_FROM and not re.search(r"^#+ .*STAKES ON THE PAGE", text, re.M):
         return [f"no 'STAKES ON THE PAGE' section in {os.path.relpath(path)} — from ch 22 every named character on the page has a stake the reader knows (taste 22; canon/STAKES.md; L031)"]
+    # L056 (the author, 2026-09-20: "implement my style of comments before
+    # the chapter is written"): from ch 23 a chapter brief carries THE
+    # AUTHOR'S READ — the six questions of studio/AUTHOR-QUESTIONS.md
+    # answered one line per scene of THE SCENES.
+    READ_FROM = 23
+    if mch and int(mch.group(1)) >= READ_FROM:
+        mr = re.search(r"^#+ .*THE AUTHOR'S READ", text, re.M)
+        if not mr:
+            return [f"no 'THE AUTHOR'S READ' section in {os.path.relpath(path)} — from ch 23 the author's six questions are answered per scene before a drafter launches (studio/AUTHOR-QUESTIONS.md; /author-read; L056)"]
+        sect = text[mr.end():]
+        nxt = re.search(r"^#+ ", sect, re.M)
+        sect = sect[:nxt.start()] if nxt else sect
+        rows = [ln for ln in sect.splitlines() if ln.startswith("|") and not re.match(r"^\|\s*-", ln) and not re.match(r"^\|\s*Scene\b", ln, re.I)]
+        ms = re.search(r"^#+ .*THE SCENES", text, re.M)
+        scenes = 0
+        if ms:
+            body = text[ms.end():]
+            nx = re.search(r"^## ", body, re.M)
+            body = body[:nx.start()] if nx else body
+            scenes = len(re.findall(r"^\d+\. \*\*", body, re.M))
+        need = scenes if scenes else 3
+        if len(rows) < need:
+            return [f"THE AUTHOR'S READ in {os.path.relpath(path)} has {len(rows)} row(s) for {need} scene(s) — one row per scene of THE SCENES (L056)"]
     if not re.search(r"^(#+ |\*\*)?VERDICT:", tail, re.M):
         return [f"the addendum in {os.path.relpath(path)} has no '## VERDICT:' line — a heading is not an audit"]
     if len(tail.split()) < 150:

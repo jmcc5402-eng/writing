@@ -17,7 +17,7 @@ docs); F## fair-play rows (b12-outline.md table governs).
 | B2-T05 | The tailgate photo: her laugh, his lean, the flash off the ice chest; a father's phone; *Playoff Pics — Post Here* | ch 16 (#156 — PLANTED on the page, small; nobody notices) | **ch 23** the consultant's trawl | PLANTED — OWED 23 |
 | B2-T06 | The Cordelia letter (S01) | ch 9 | **ch 25** reread | PLANTED ch 9 (#134) — OWED ch 25 |
 | B2-T07 | The complaint's authorship (the consultant's pet phrase) | ch 10 · **ch 18 (the phrase inside the eleven families' letter, once, unremarked)** | **ch 27** decode | PLANTED ch 10 (#137, "proactive risk posture") · CARRIED ch 18 — OWED ch 27 |
-| B2-T08 | Dan's nightly board tab — last thing before lights out, read to the bottom | ch 2 (shown without comment) | echo pays **ch 29**; FIRST TURN spent ch 4 (button: board pocketed unread, film instead); **SECOND TURN ch 12** (three reads counted; "Nobody was making him now"; the phone face up) · **THIRD TURN ch 18** (the board read at midnight with her watching his face and not the screen) · **FOUGHT ch 20** (his first typed words, a defense of her, deleted a letter at a time; the two whys said — the old one in a clause, the new one: he reads it for the football hidden in a parent's question, B2-D25.2) | OWED (the ch 29 echo) |
+| B2-T08 | Dan's nightly board tab — last thing before lights out, read to the bottom | ch 2 (shown without comment) | echo pays **ch 29**; FIRST TURN spent ch 4 (button: board pocketed unread, film instead); **SECOND TURN ch 12** (three reads counted; "Nobody was making him now"; the phone face up) · **THIRD TURN ch 18** (the board read at midnight with her watching his face and not the screen) · **FOUGHT ch 20** (his first typed words, a defense of her, deleted a letter at a time; the two whys said — the old one in a clause, the new one: he reads it for the football hidden in a parent's question, B2-D25.2) · **RUNG 3 ch 22 (#179): THE BOARD UNOPENED — the first night in ten years; the phone face down by the water; the wound named once and let blindside him on purpose** | OWED (the ch 29 echo) |
 | B2-T09 | Dan's move: agree in the room, escalate outside it (the verdict-manager on the page, seen from her side) | ch 5 (the athletic director's email; "Projector off, he had said… Film on, to his boss.") + **ch 6, from HIS side, one interior clause: the athletic director told him no on Tuesday, Denny does not know it, and he does not tell him** | echoes **ch 8** ("You hedged." / "I did."), inverts **ch 15** (backs her call before she knows), spends **ch 27** | OWED (the ch 15 inversion) |
 | F8/RH2 | Denny Gault, loudest voice, obvious complaint author — DECLARED red herring — **ch 18 SIGNAL SET: "Denny Gault's name was not at the bottom of it" (one clause, no conclusion)** | ch 4: **Denny AUTHORED the "just asking for clarity on the evaluation timeline" thread** (ruled, sweep Q3) + **ch 6 (the DECEMBER letter is his own draft, on his phone, and Dan refuses it in public)** + 12 | cleared **ch 28** — **and the letter he refuses to sign is the JANUARY one**, the same campaign rewritten by other hands (ch 18, "Eleven Families," where his name is absent from the eleven). Two letters, not one; the December draft is his and honest, the January rewrite is not his and is the knife | OWED |
 | F10 | The walk-on stays on merit — **ch 18: WES PRUETT kept on the January roster, the whole name said once to an empty room, nobody told (B2-D20)** | honest signal ch 3 (one line: the backup package the walk-on ran all week) + **ch 6 SPENT (the December letter never names him; Dan names him — "That letter's about Marisol Pruett's boy losing his spot" — and refuses; F10's rehearsal logic starts here)** + 12, 18 | **ch 28** | OWED |
@@ -1086,6 +1086,124 @@ since December 23rd; F12 pays); 30 — Trey's spring clearance on her
 letterhead, the file in Missy's hands; the survey stakes (26) cross
 the chalk seen under the ice here; the fourth call (she tells him
 about Boyd's offer) still unruled — not on this page.
+
+**2026-09-20 (night), the author rereading (B2-D29):** Missy's pull
+on the page in her three scenes — the mother's question at the
+twenty, Denny at dinner, the rail she went to school with, Aisha's
+read of the three things she is afraid of (registry row); the
+timeline bridge — back inside for an hour and a half, the trainer's
+door and his voice on the phone, the lights at a quarter to six,
+"Your two were still up here at dark" (B2-D29.5, L053). Hands
+forward unchanged.
+
+### Ch 22 — The Whip Count (ACCEPTED #179, 2026-09-20; one drafter; the author's three comments applied in the fold PR — B2-D28; THE FIRST CHAPTER WITH EVERY INSTRUMENT RUN FIRST)
+Introduces: **Thursday the fourteenth of January, the storm's second
+day, said in the first paragraph** (opening on the Fieldhouse's side
+door frozen shut and his shoulder in it); **where Dan slept — his
+office chair at the Fieldhouse** ("the building was open and the town
+was not"), the rain quit after midnight; his own tracks on Millrow
+both ways; her RAV4 under its skin at the annex's warm end — **the ice
+scraped off her side of the windshield first, and he would not have
+told anybody why**; **THE PORTAL WINDOW SHUTS** — the agent's text at
+seven, "Still in," the father quiet since Friday (no un-sign; 27's);
+the two February verbals still quiet; **every clock said once in
+order** — the window, the third of February (a Wednesday, twenty
+days), the February agenda; **TY'S TEXT** — the room that is not the
+parents' board has a line about rides home, "and did Coach want to
+know" (the gossip room's name UNSPENT on this page; Ty's want: the
+truck payment); the parents' board is mothers and the ice; **THE
+FOLLOW-UP, NOT A THIRD LETTER (keeper B4)**: the eleven-families
+letter has sat on the athletic director's desk since the Monday after
+Christmas; what finishes on the board is the campaign's follow-up —
+copies to the trustees and Compliance at eight Friday by email, the
+receipts folder (the board's own threads, "medical determination,"
+the December practice sheet's first-team line, the hold's dates),
+Rhonda "asking since October," "respectful and factual," Marisol cuts
+nothing, Denny's name absent (one clause, no conclusion); **THE
+LETTER IS SMALL, THE AGENDA IS NOT (B2-D28.4)**: in Dan's head, once —
+eleven polite families are not much at a program this size; what the
+paper is for is February, when the trustees sit to Boyd's pledge,
+Dan's extension, and the group that comes with the pledge and takes
+over team physician services (her job — B2-D13), and a letter asking
+for clarity on medical decisions is what lets them do it as a process
+fix with nobody's fingerprints on it; **THE GLANCE** — the truck at
+the square's corner (winter parking), she crossing from the
+Checkerboard's side toward Verna's, hood down, curls out, her boots
+the only sound; "His breath stopped in the cold. He had not told it
+to."; one look, held, turned back; his stomach dropped like a missed
+step; neither lifts a hand; "nobody at a window could have read it";
+APART-WHY said once (twenty days in the terms; the county put her in
+his truck this morning; a coach who crossed the square would give the
+county its next line); **DAN'S STAKE, SAID PLAIN (B2-D28.2)** — ten
+years ago a year sat down for a screenshot that was true; a second
+time is the end of college coaching; the county's windows are the
+screenshot now; her, or the job; **THE JANUARY TABLE** — the second
+ever out of season, Tick's call at one, twenty on a porch where
+December had a full one, the county at home on 1340; the low town
+thawed by afternoon, the hill held, refroze at dark; **BOYD at Ray's
+serving window with a paper plate**, talking ribs ("Cold's good for
+the bark. That's the crust."), on Dan's stretch of wall — Dan's read
+plain: the smile is the man whose money wants her rooms and her job,
+come down on ice to hear the coach say "her protocol" on the air
+(B2-D28.3: the reader distrusts him now); **DENNY in the northeast
+corner**, alone; **ON THE AIR** — Tick fresh; the ice caller (nobody
+plowing; no salt truck named); "Is the third still the third?" / "It's
+the third."; the family's caller, polite, "clarity on how the medical
+decisions are being—" (the October phrase, not Denny's December
+sentence) — and **DAN, UNPROMPTED, RUNG 3**: "I'll take that one"
+before she finishes; the program has the best in the league and
+follows her protocol; the December no; a step at a time (no sheets in
+January — keeper B2); "It's written down, and it's hers." — "the
+doctor," "our team physician," "her protocol," NEVER HER NAME, and
+the county puts the two words in for him; the porch does not price it
+(the survey's ask); a mother two states off; Tick's station break;
+**OFF THE AIR — THE CORNER**: Dan goes to the northeast corner, not
+his wall; Dan's read plain (the man who wants the doctor gone and has
+blamed her since the fall; Dan does not like him; the boy is not the
+letter); "How's Trey" — his one "Trey," off air (SR-B2-23); "He's all
+right."; "He's on the bike. His mother drives him up. I'm at work. He
+wants a field, Coach. That's all he wants. It's all I ever wanted for
+him." — Denny's want in Denny's mouth (D26.1; RH2's quiet gets a
+witness); Denny's name not on the letter, Dan asks nothing; Verna's
+light seen from the corner, "she was behind it somewhere"; **BOYD'S
+ONE LINE from the window**, not the rail ("Ray tells me a cold
+night's good for a smoker, Coach."), no threat, gone down the steps;
+**TICK'S THIRD ANCHOR**, coiling cable, to Dan alone (signing day is a
+holiday for a thing that already happened; most things are by the
+time this town celebrates them — fresh words), a beer at Dan's elbow,
+set down, unexplained; Tick's van DOWN toward the square (keeper B1);
+**THE CHECKERBOARD AT TEN** — open because the Phams never shut it
+for weather; the cook alone, back to the room; **SONNY DILLARD
+re-introduced** (the feed store's counter; the pumper when the pager
+goes — B2-D28.3), in half his gear off a call, eggs; Dan on his stool
+nearest the register, hers the second, empty; water; "Slice is a
+morning item, Coach." / "Make an exception." / "I made one for the
+ice." — **the joke Dan loses**; Sonny's want tonight (home before the
+pager goes again); **THE BOARD UNOPENED — the first night in ten
+years** (arc-docs rung 3), the phone face down by the water; the
+wound named once (the man who checks the verdict every night lets it
+blindside him on purpose); why (the porch saw the corner; her name in
+a sentence under his by now; she would see what it cost on his face
+Friday and pay it too); twenty days too long, felt low in him; ENDS
+FLAT with dread, in a room with people, on a thing: "The copies went
+at eight." — the second stool with nobody on it. Epigraph:
+PomPoms&Prayers, a dorm with a kitchen, eggs, no weekday. Romance
+(**B2-T10: stage 4 held, In 4 / Out 4; no touch, one look**).
+**TARGETS**: plan → actual — romance 5 → 6 (the panel BLIND to the row
+for the first time); heat 2 → 2; fun 1 → 3; ends flat → flat; Aisha 1
+→ 1; Dan 2 → 3 (the board unopened, a turn); wound 1 → 3; town 3 → 3;
+menace 2 → 2; talk normal → 18.5%; words 3200 → ~3,500. Edges: one
+spent, off air (1 remains). Hands forward: 23 — the frame (B2-T05,
+the photo the reader holds; the consultant's trawl; Boyd strikes
+through others), the review's trigger; Dan's stake as hints, one a
+chapter at most (B2-D28.2); the trustees' February agenda now named
+on the page (F-AGD-01) — 24's review and 27's hearing draw on it; 24 —
+the greenlight the same week as the suspension; 27 — the last inch
+(her name on the record), F9 pays; 28 — Denny's refusal (RH2 clears),
+Missy stands up; 29 — the board habit's echo (B2-T08); the gossip
+room's name still unspent in his POV; Ty's crew cab and payment (his
+stake, if the author locks it); the fourth call (she tells him about
+Boyd's offer) still unruled — not on this page.
 
 ## New canon recorded at this fold
 

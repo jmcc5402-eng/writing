@@ -14,3 +14,13 @@ L022	romance-reader-panel	MYSTERY	ch{CH}-panel-*.md	mystery
 L023	romance-reader-panel	THE JOKE	ch{CH}-panel-*.md	joke
 L024	romance-reader-panel	APART	ch{CH}-panel-*.md	apart
 L032	romance-reader-panel	THE STANCE	ch{CH}-panel-*.md	stance
+L047	romance-reader-panel	THE STANCE	ch{CH}-panel-*.md	stance
+L048	romance-reader-panel	THE STANCE	ch{CH}-panel-*.md	stance
+L051	romance-reader-panel	THE STANCE	ch{CH}-panel-*.md	stance
+L054	romance-reader-panel	THE TOUCH	ch{CH}-panel-*.md	touch
+L057	author-proxy	MORE	ch{CH}-author-proxy-*.md	more
+L057	author-proxy	WHO	ch{CH}-author-proxy-*.md	who
+L057	author-proxy	CONFUSING	ch{CH}-author-proxy-*.md	confusing
+L057	author-proxy	NOSE	ch{CH}-author-proxy-*.md	nose
+L057	author-proxy	POINT	ch{CH}-author-proxy-*.md	point
+L057	author-proxy	SENSES	ch{CH}-author-proxy-*.md	senses

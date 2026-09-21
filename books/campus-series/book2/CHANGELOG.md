@@ -2,6 +2,74 @@
 
 Manuscript-affecting changes, newest first. (Hard rule 6.)
 
+## 2026-09-20 (night) — ch 23 "The Album" drafted: three blind candidates, B wins (chapter PR) — THE FIRST CHAPTER RUN WITH THE AUTHOR'S READ AND THE AUTHOR-PROXY
+
+- The card (`notes/cards/ch23-card.md`) and the brief
+  (`plots/brief-ch23.md`, with THE AUTHOR'S READ — the author's six
+  questions answered per scene, L056) audited together by the keeper
+  (E6): four blocks — the photo's minute struck (eleven; no minute on
+  any page), the father's thumb out of the picture (it is the posting),
+  the trawl has no author for the reader either (F3's plant was on no
+  page; moves to 24/25), Delores at the annex with the crew as the card
+  said — and fourteen non-blocking fixes applied.
+- Three blind drafters (D6, D1, D4). Each candidate read FIRST by
+  `author-proxy` 1.0.0 (the author's comments verbatim as its brief;
+  L057), then by the blind panel (1.6.4). All three: romance 6 · heat
+  3 · ends down. B wins (`notes/ch23-scoreboard-2026-09-20.md`): on
+  budget, normal talk, a clean clock, three laughs, POINT passed.
+- The revision pass on B: the proxy's eight and the panel's seven —
+  the trainer's line said once; the truck and the door given her body;
+  the trainer's third and last stake drop; Rhonda's December sentence
+  said where it is teased; the letter named; Boyd's crew named as his;
+  signing day and the terms said plain; Kat introduced; the board's
+  why; the survey scene warmed with him; the recap cut; two tics
+  recast; the bracket out of the prose.
+- Instrument from this run: the panel on B saw the card's Targets
+  line — `card-blind.py` now writes the blind copy (L059; panel
+  1.6.5).
+
+## 2026-09-20 (night) — ch 21: Missy's pull and the timeline bridge (the author rereading; fold PR; B2-D29)
+
+- "She seems like a zombie." The drafter's pass on Missy's three
+  scenes (B2-D29.2): a mother's question at the twenty in her own
+  mouth; her hands' beat read as fear for the boy; the flat-face line
+  cut (ban L050); a line about Denny and a clause about the town at
+  the chair; Aisha's one-sentence read of what Missy carries down
+  the hill. The narrator paragraph on the wants stays.
+- "A confusing timeline… does Aisha and the trainer go back inside
+  first?" The bridge (B2-D29.5), by the orchestrator: after the
+  trainer's line they go back inside — she to the file, he to the
+  rehab rooms — until the truck's lights cross the lot at a quarter
+  to six; Dan came because both their cars were still on his side of
+  the lot from the Fieldhouse window at dark.
+- The trainer's name: proposed to the author (Carl Whitlow, "Whit");
+  "the trainer" stands on the page until ruled.
+- "We just have one line that her arm goes warm." The cab pass
+  (B2-D29.6), one drafter in place: Aisha's body across the ride —
+  the arm, the heart, the breath, the hands held still — and the
+  confusion said plain, wanting Dan with the trainer a foot away.
+  Every existing beat kept.
+
+## 2026-09-20 (evening) — ch 22 ACCEPTED (#179) and folded; the author's three comments applied (fold PR; B2-D28)
+
+- The author's comments, applied by the drafter (D1): (1) names, not
+  "he," wherever two men share a paragraph — the office section with
+  Ty, the corner, the counter; (2) Dan's stake said plain at the
+  glance — a year sat down ten years ago for a screenshot that was
+  true; a second time is the end of college coaching; the county's
+  windows are the screenshot now; her, or the job — and one hint at
+  the counter; (3) Sonny re-introduced in a clause (the feed store's
+  counter; the pumper when the pager goes); (4) the point of the
+  corner and of Boyd's line said in Dan's read, and the reader told
+  whether to like or hate them now; (5) the letter is small, said so,
+  and what it is for — the February agenda's three items (the pledge,
+  the extension, the partner that takes her job) — said once.
+- The fold: THREADS ch 22 entry; B2-T08 rung 3; the dossiers' row 22;
+  the arc row; boyd-arc row 22; twelve registry rows; B2-D28; STATE;
+  FACTS F-DAN-01, F-AGD-01; STAKES.md (Dan locked; how the reader is
+  meant to read Boyd and Denny now). Studio: AUTHOR-NOTES 228–231;
+  ledger L045–L049; chapter-lint PRONOUN CROWDING; panel 1.6.2.
+
 ## 2026-09-20 — ch 22 "The Whip Count" drafted: one drafter, every instrument first (chapter PR)
 
 - The first chapter under the full loop: the showrunner's board, the

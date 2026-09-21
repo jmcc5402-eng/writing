@@ -13,7 +13,9 @@ list in the agent's invocation as "banned moves this run."
 ### Scrub bans (2026-08-22, campus — ride in every brief; a brief points HERE "as of <date>" instead of restating the list, and the fold appends new catches here the same day — first audit F10)
 
 - BANNED: "before s/he could vote on it" and all committee-of-the-self
-  variants; one involuntary-body beat per chapter max.
+  variants; one involuntary-body beat per chapter max OUTSIDE a touch
+  scene — inside one, the body runs across the beats (taste 20
+  amended 2026-09-20; this ban was what made the cab's one line; L055).
 - BANNED: the words "unhurried", "declined to [verb of thought]",
   "That was the whole ___ of it", "and meant it".
 - BANNED: filing/ledger metaphors for feelings outside Cal's POV;

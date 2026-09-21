@@ -71,6 +71,18 @@ printf '{"tool_input":{"subagent_type":"drafting-assistant","prompt":"Draft from
 printf '{"tool_input":{"subagent_type":"continuity-keeper","prompt":"Audit %s/plots/brief-ch99.md"}}' "$T" \
   | expect 0 "brief-gate lets a keeper read an unaudited brief" python3 "$ROOT/studio/tools/brief-gate.py"
 
+python3 - "$T" <<'PY'
+import sys
+T=sys.argv[1]
+verdict="## AUDIT ADDENDUM\n\n"+" ".join(["word"]*160)+"\n\n## VERDICT: PASS\n"
+open(T+"/plots/brief-ch97.md","w").write("# Brief — ch 97\n\n## THE SCENES\n\n1. **A**\n2. **B**\n\n## STAKES ON THE PAGE\n\nx\n\n"+verdict)
+open(T+"/plots/brief-ch96.md","w").write("# Brief — ch 96\n\n## THE SCENES\n\n1. **A**\n2. **B**\n\n## STAKES ON THE PAGE\n\nx\n\n## THE AUTHOR'S READ\n\n| Scene | MORE | WHO | CONFUSING | NOSE | POINT | SENSES |\n|---|---|---|---|---|---|---|\n| 1. A | a | b | c | d | e | f |\n| 2. B | a | b | c | d | e | f |\n\n"+verdict)
+PY
+printf '{"tool_input":{"subagent_type":"drafting-assistant","prompt":"Draft from %s/plots/brief-ch97.md"}}' "$T" \
+  | expect 2 "brief-gate refuses a ch 23+ brief with no THE AUTHOR'S READ" python3 "$ROOT/studio/tools/brief-gate.py"
+printf '{"tool_input":{"subagent_type":"drafting-assistant","prompt":"Draft from %s/plots/brief-ch96.md"}}' "$T" \
+  | expect 0 "brief-gate passes a brief with one AUTHOR'S READ row per scene" python3 "$ROOT/studio/tools/brief-gate.py"
+
 # --- commit-scope (PreToolUse Bash) ------------------------------------
 printf '{"tool_input":{"command":"git add books/campus-series/book2/STATE.md studio/STYLE.md && git commit -m \\"campus: x\\""}}' \
   | expect 2 "commit-scope refuses a campus+studio commit" python3 "$ROOT/studio/tools/commit-scope.py"

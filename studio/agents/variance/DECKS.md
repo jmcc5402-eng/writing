@@ -34,7 +34,7 @@ Small, planned variety so repeated runs don't converge on the same moves.
 | D6 | Let one scene run a beat past comfortable before cutting |
 | D7 | RETIRED 2026-09-12 (first audit F15, second F26): "open every scene mid-motion" became the seam — three chapters of the same mid-motion opening; STYLE's establishing line and the opening check cover what the card was for. Not dealt. |
 
-## Critic deck — `junior-literary-critic`, `red-team-critic`, `kid-reader-panel`, `superfan-reviewer`
+## Critic deck — `junior-literary-critic`, `red-team-critic`, `kid-reader-panel`, `superfan-reviewer`, `author-proxy`
 
 | ID | Card |
 |---|---|

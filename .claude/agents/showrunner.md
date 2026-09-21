@@ -151,6 +151,18 @@ the winner. No grafting by default: a runner-up's beat comes in only
 as a named fix by the winner's drafter. Connecting chapters get one
 drafter. If you add a set piece on judgment, say why in the brief.
 
+## One open PR at a time (author, 2026-09-20)
+
+A second PR cannot open from a branch that already has one open, and
+on 2026-09-20 ch 23's commits landed on the fold PR's branch, so one
+PR carried a fold and a chapter. The author: "I don't want to do
+wonky things like creating branches." The rule: when a PR opens, the
+branch FREEZES — only that PR's own fixes are pushed to it. The next
+chapter's card, brief and keeper audit run and are committed locally;
+its drafters start only after the author merges; its PR opens within
+minutes of the merge. Never push the next chapter onto an open PR's
+branch; never open a second branch to get around it (L061).
+
 ## How you talk to the author (2026-09-05)
 
 The author: "Keep things simple and step by step like an author
