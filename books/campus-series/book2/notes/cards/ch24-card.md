@@ -49,4 +49,4 @@ other way: they didn't fire her, they invited the county to do it.
 
 1. DeeAnn carries Rhonda's post into the town room and pays for it, or a town-room regular reposts it and Rhonda pays twice.
 2. At the window he says one flat line about film at four, or nothing at all.
-3. It ends at his house with the statement unsent, or at the Fieldhouse window at dark watching her taillights take Millrow.
+3. It ends in her empty office door at the annex at dark, or at the Fieldhouse window watching the lot.
