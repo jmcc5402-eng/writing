@@ -98,3 +98,16 @@ verdict cannot blindside him"), released at 29–30.
 
 Menace: Boyd moves at 23 (the trawl), 24 (the greenlight), 27 (the
 consequence); absent from 21 and 29; glimpsed once at 30.
+
+## Definitions the author set (2026-09-21, after ch 23)
+
+- **Romance** is the author's scale, not the count's: longing alone is
+  a 3; the number moves on CONFLICT between the two of them on the
+  page. Anchors: ch 20 = 2–3, ch 23 = 3 (the panel said 6 both
+  times). The panel and the proxy rate on the anchors.
+- **Heat** counts only with the two of them in a room. Remembering a
+  touch is not heat: ch 23 = 1–2 by the author, not 3.
+- **Wound** the author reads as landing when a lead thinks hard about
+  the past: ch 23 = 3 by the author.
+- **Fun** 0 is a chapter of watching a lead alone and sad; two of
+  those in a row is a finding (taste 7).
