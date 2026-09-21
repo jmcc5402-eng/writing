@@ -947,3 +947,58 @@ panel counts body sentences at the chapter's highest touch (1.6.4);
 `chapter-lint.sh` TOUCH SPAN; the August "one involuntary-body beat
 per chapter" scrub ban narrowed to outside touch scenes — it was the
 guardrail that made the one line (RECENT.md).
+
+## B2-D30 — the ch 23 rulings (author, 2026-09-21, #180 comments and chat)
+
+Four PR comments and two chat notes on the merged chapter; the
+author's numbers beside the panel's. Every one an instrument the same
+day (AUTHOR-NOTES 238–244).
+
+1. **Caught in season, both fired — LOCKED, and said blatantly.** "Maybe
+   we need to be more blatant and say if they are caught as having a
+   relationship during the season and that means they will both
+   instantly get fired." The rule of the book: a coach and the team
+   physician in a relationship during the season are both gone the day
+   it is proven — his second time ends him in college coaching
+   (D28.2 stands), hers ends her here and follows her. Said plain once
+   in ch 23 (the fold: her arithmetic on the step) and as a hint in
+   every apart chapter after. FACTS F-DAN-02; STAKES rows.
+2. **After signing day is its own storm.** "There's still the one
+   problem that there's a likely conflict of interest of a coach and a
+   doctor being together in public even after signing day." One or two
+   lines in her arithmetic: the terms buy sixteen days; a coach and a
+   doctor in public after them is a storm of its own, and they are not
+   going to worry about that one yet.
+3. **Fourteen-hour days, eleven months.** "Readers will find it
+   suspicious that they are apart so much." One line in ch 23, her
+   head: a head coach at a big football school works fourteen-hour
+   days eleven months a year, and they both know it; and her pull:
+   she wants this and knows what that life is. Every apart chapter
+   after reminds in a clause.
+4. **Boyd's building has a point; the letter has teeth — blatantly.**
+   "The whole talk about the glass tower is still just kind of a
+   sideshow with no point… the letter still doesn't really have any
+   teeth." D28.4 stands and was not landing. From now the building is
+   never on a page without its price in one plain sentence — her
+   clinic's ground, her job to his group, in the February sitting —
+   and the letter is never on a page without the same sentence: alone
+   it is nothing; stapled to the picture it is the paper the trustees
+   vote on. Every brief's STAKES ON THE PAGE names the sentence.
+5. **Epigraphs: some funny.** Taste 19 amended: light AND sometimes
+   funny, the real board's register; at least every third epigraph is
+   a laugh; ch 23's gets one in the fold.
+6. **Kat's surprise wine night — PROPOSED, the author's go.** "What
+   about a scene where Kat shows up as a surprise with some listings
+   and a bottle of wine, just to take the edge off the book." A
+   structural change to ch 23's last scene: Kat's headlights in
+   Verna's lot at nine, two bottles and the listings, the night shared
+   at nine's table — the chapter still ends down (Kat asleep on the
+   other bed; the picture; the two phones), with fun in it (Fun 0 →
+   2). Proposed on the fold PR; applied on "go."
+7. **The author's numbers.** Romance 3 (the panel 6): "there was no
+   romance conflict" — romance needs conflict between them, not
+   longing alone. Heat 1–2 (the panel 3): heat counts only with the
+   two in a room; remembering is not heat. Wound higher (3). Fun 0,
+   confirmed. RULED as the scale: the panel and the proxy rate on the
+   author's calibration (romance-levels.md rows 20 and 23 as anchors);
+   TARGETS carries the definitions.

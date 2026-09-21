@@ -14,7 +14,7 @@ docs); F## fair-play rows (b12-outline.md table governs).
 | B2-T02 | The coat: the re-badged staff parka was HIS spare | ch 7 · **ch 18: she sees the twin on his hook ("That's mine's twin." / "Staff issue.") and he does NOT say it — SAVED for 29 by the author (B2-D21.8)** | **ch 29** via the equipment manager | planted ch 7; **the reader knows from ch 10 (Dan's POV)**; Aisha learns ch 29; the manager's line banked |
 | B2-T03 | The scandal's true shape (B2-D17): separated first; the colleague was eligibility, not medicine; it was TRUE then; the colleague paid worse | ch 2 (the board's WRONG version on the page: "a wife at home… sat him down for a year… came back leaner") | **ch 14** the annex, before PONR | **SPENT ch 14 (#154)** — told outward as proof ("There's no way, Doc."); the board's ch 2 version stands uncorrected in public |
 | B2-T04 | The Birmingham second opinion | ch 14 (SIGHTED, undated: "the Gaults have booked a second opinion. Birmingham. After the game." — Missy's page, under the hours) · **ch 17 ON THE PAGE** (the office's name and number at the bottom of Missy's page; her whole chart sent at ten Tuesday on her own; the release at two; the drive Wednesday the 23rd, offstage; the answer DARK) | **ch 28** Missy | PLANTED ch 14 — SPENT 17 (the trip) — OWED 28 (the answer) |
-| B2-T05 | The tailgate photo: her laugh, his lean, the flash off the ice chest; a father's phone; *Playoff Pics — Post Here* | ch 16 (#156 — PLANTED on the page, small; nobody notices) | **ch 23** the consultant's trawl | PLANTED — OWED 23 |
+| B2-T05 | The tailgate photo: her laugh, his lean, the flash off the ice chest; a father's phone; *Playoff Pics — Post Here* | ch 16 (#156 — PLANTED on the page, small; nobody notices) | **ch 23** the gossip room lifts it from the album — the trawl has no author on the page (F3's plant moves to 24/25) | PAID ch 23 (#180) |
 | B2-T06 | The Cordelia letter (S01) | ch 9 | **ch 25** reread | PLANTED ch 9 (#134) — OWED ch 25 |
 | B2-T07 | The complaint's authorship (the consultant's pet phrase) | ch 10 · **ch 18 (the phrase inside the eleven families' letter, once, unremarked)** | **ch 27** decode | PLANTED ch 10 (#137, "proactive risk posture") · CARRIED ch 18 — OWED ch 27 |
 | B2-T08 | Dan's nightly board tab — last thing before lights out, read to the bottom | ch 2 (shown without comment) | echo pays **ch 29**; FIRST TURN spent ch 4 (button: board pocketed unread, film instead); **SECOND TURN ch 12** (three reads counted; "Nobody was making him now"; the phone face up) · **THIRD TURN ch 18** (the board read at midnight with her watching his face and not the screen) · **FOUGHT ch 20** (his first typed words, a defense of her, deleted a letter at a time; the two whys said — the old one in a clause, the new one: he reads it for the football hidden in a parent's question, B2-D25.2) · **RUNG 3 ch 22 (#179): THE BOARD UNOPENED — the first night in ten years; the phone face down by the water; the wound named once and let blindside him on purpose** | OWED (the ch 29 echo) |
@@ -22,7 +22,7 @@ docs); F## fair-play rows (b12-outline.md table governs).
 | F8/RH2 | Denny Gault, loudest voice, obvious complaint author — DECLARED red herring — **ch 18 SIGNAL SET: "Denny Gault's name was not at the bottom of it" (one clause, no conclusion)** | ch 4: **Denny AUTHORED the "just asking for clarity on the evaluation timeline" thread** (ruled, sweep Q3) + **ch 6 (the DECEMBER letter is his own draft, on his phone, and Dan refuses it in public)** + 12 | cleared **ch 28** — **and the letter he refuses to sign is the JANUARY one**, the same campaign rewritten by other hands (ch 18, "Eleven Families," where his name is absent from the eleven). Two letters, not one; the December draft is his and honest, the January rewrite is not his and is the knife | OWED |
 | F10 | The walk-on stays on merit — **ch 18: WES PRUETT kept on the January roster, the whole name said once to an empty room, nobody told (B2-D20)** | honest signal ch 3 (one line: the backup package the walk-on ran all week) + **ch 6 SPENT (the December letter never names him; Dan names him — "That letter's about Marisol Pruett's boy losing his spot" — and refuses; F10's rehearsal logic starts here)** + 12, 18 | **ch 28** | OWED |
 | F11 | The outside offer's timing is Boyd-nudged, never litigated (the tailored temptation) | **ch 19 PLANTED** — "her name had come up out west. A directorship."; "I pass names along"; he'd hate to lose her; "Mr. Boyd," and nothing else; thought about once at ten (B2-D22.2) and made a temptation (the one thing three buildings never gave her) | never proven; noted as designed (gate flag 4); the offer formalizes ch 25 | PLANTED 19 — OWED 25 (the offer formal), 29 (the answer) |
-| F13 | The county's official wrong story as engine thesis | ch 1 (square kiss retold fondly, wrong, uncorrected — "It's how we tell it") | **ch 23** aimed, **ch 28** corrected | OWED |
+| F13 | The county's official wrong story as engine thesis | ch 1 (square kiss retold fondly, wrong, uncorrected — "It's how we tell it") | **ch 23** aimed — DONE ch 23 (the county's story better than the truth, and true), **ch 28** corrected | OWED |
 | B2-T10 | The romance's ladder (plots/romance-arc.md, CANON #130): stage 2 "admitted inside" reached ch 5 (hers) and ch 8 (his); stage 3 OPENED INSIDE ch 11 (#139: "I want Dan," to the women) / opens outside ch 13 / RUNG 7 ch 14 (hers) / RUNG 8 ch 15 — THE KISS, hers; the terms; the firewall planted / RUNG 9 ch 17 — THE LIT ROOM, hers; HEAT 2 to the first garment; the night told; the want said aloud in both voices / **ch 18 RUNG 9 REPEATED, told — the glorious week; stage 4 held** | ch 5, ch 8 | the build check runs before ch 11, 13, 15, 27 briefs | ch 2 fight shown — DONE (#132); ch 4 one more exchange — DONE (#133). Both earning scenes for ch 8's want are on the page. |
 | B2-T11 | The provider partner (B2-D13): a sports-medicine group takes over team physician services with the pledge; her job is the price | ch 10 (Dan hears "the university stops carrying that line"; "Dan knew whose line it was") | he tells her **ch 15** (default) before the kiss; announced **ch 24** the week of the suspension; the phrase beside the group's own notice **ch 27**; the deal stalls with the pledge **27–28**; handed to 1.3 | SPENT at 15 (#155 — told before the kiss, in ch 10\'s words) — OWED ch 24 (the announcement), 27, 27–28 |
 | B2-T12 | The stakes of the nineteenth (B2-D15): the win is Boyd's STAGE (the announcement on the field); Dan's extension priced (February agenda; "a review"); the town's second December; her double bind said once | ch 13 (the town's money; the announcement sighted) · ch 14 (1, 2, 5 in Dan's mouth; the athletic director's line 14/15) | **ch 16** the loss carries all four · **ch 20** Boyd's price pays the stage · **ch 24** the athletic director signs · **ch 27** extension off the agenda | PLANTED ch 13 (stake 4 said by Verna; stake 1 sighted via the coordinator) · ch 14 PAID (1 as a reminder and 2 in Dan's mouth, the athletic director's sentence verbatim; 5 in HERS — "If I sign and he goes down, I'm done.") · ch 15 stake 5 SPENT (she is the reason, Thursday) · ch 16 ALL FOUR carried (the suite and the score held; "review"; the eighth Saturday spent; the chain-link\'s line) · **ch 20 PAID — Boyd's price in his own mouth (the pledge and the extension sequenced; re-sequenced if the medical situation embarrasses the program), the stage lost named as the why** — OWED 24, 27 |
@@ -1204,6 +1204,74 @@ Missy stands up; 29 — the board habit's echo (B2-T08); the gossip
 room's name still unspent in his POV; Ty's crew cab and payment (his
 stake, if the author locks it); the fourth call (she tells him about
 Boyd's offer) still unruled — not on this page.
+
+### Ch 23 — The Album (ACCEPTED #180, 2026-09-21; THE SIXTH SET PIECE — three blind drafters, B won; the author's four comments and two chat notes applied in the fold PR — B2-D30; THE FIRST CHAPTER WITH THE AUTHOR'S READ ON THE BRIEF AND THE AUTHOR-PROXY READ BEFORE THE PANEL)
+
+**Monday, January 18 — the thaw.** Aisha. **Introduces:** the frame
+surfacing — the gossip room lifts the one picture from the parents'
+board's album overnight (four hundred pictures; one line about the
+time — "eleven," no minute; the album's post time, the father from the
+lot); the hold dated on the page (the fourteen Monday the 14th; her
+signature Thursday the 17th; the game Saturday the 19th) — the county
+reads the laugh as the reason for a decision made and papered before
+it; her body at the memory of the nylon along his sleeve (seven
+sentences; the confusion said plain: right about the wrong thing);
+the RAV4 walked up for Saturday; Verna's light on a full space;
+the clinic open — the kicker ("It's my left. I kick with my right."),
+the phone face down "the way a kid covers a grade," the trainer's
+side chosen out loud once, the shut door offered and refused ("The
+clinic's open"); THE TRAINER'S THIRD AND LAST DROP (the machine lunch,
+counted — none left 24–30); **THE DAYLIGHT JUMP** — Rhonda Sipes signs
+her December sentence under the picture on the parents' board before
+noon (the room's rule 2 broken; three polite replies; Kendra Voyles a
+letter family; a screenshot on the trainer's phone, names cropped);
+**Marisol's crisis** (her room; Wes the walk-on in one clause) and
+**Aisha's one text** — leave it up, don't spend your son on me —
+unanswered, the post standing; the survey crew on the annex ground
+(three men, a long tape, orange flags where the chalk was; Rex Boyd's
+crew — she knows it from ch 19; **the building goes where her clinic
+stands and the group with it takes her job in the same February
+sitting** — D30.4); **Delores's second anchor** ("A photograph doesn't
+lie. It just repeats whatever it's told."), counting for the aldermen
+(Tuesday the 19th); the arithmetic on the step with the stake said
+BLATANTLY (D30.1: caught in season, both gone that day — his second
+time ends him in college coaching, this one ends her here; D30.2:
+after signing day is its own storm, not worried about yet); the letter
+with its teeth (alone a polite letter; stapled to this picture the
+paper the trustees vote on); Kat by text (who she is; three houses
+with a February; the farmhouse); night in nine with the county in the
+phone — Dan's board habit as SHE knows it (like a chart; a board knew
+first; the football in ordinary talk), the building unknown, one hint
+of his first screenshot; **fourteen-hour days eleven months and her
+pull about that life** (D30.3); the ache in the body (mouth, hands,
+the left side cold); the wound named once (nobody has ever spent
+anything on her); "She would rather be the one who paid" (stage 5's
+inside); ENDS DOWN on two phones in two buildings. Epigraph:
+GrammyInSectionC, the red hoodie in the whites — FUNNY (D30.5, the
+first). **Carries:** B2-T05 PAID (the frame detonates — the trawl has
+no author on the page, for the reader either; F3's plant moves to
+24/25); F4 PAID (the album's own provenance); F13 aimed; B2-T08 (his
+habit, her read); F-AGD-01 (the agenda, once); the terms (ch 15).
+**Romance (B2-T10): stage 5 opens, In 5 / Out 5 — their own image
+weaponized; no touch; no shared scene.** **TARGETS**: plan → actual —
+romance 6 → 6 by the panel (three blind reads) and **3 by the author**
+("no romance conflict, only longing" — the author's scale is canon
+now, TARGETS definitions); heat 3 → 3 (panel) / **1–2 (author** — not
+in a room together); laughs 0 → 3; ends down → down; Aisha 2 → 2; Dan
+1 → 1; wound 3 → 2 (editor) / **3 (author)**; town 3 → 3; menace 3 →
+2; talk normal → 15.6%; words 3400 → 3,594. Edges: none spent (1
+remains, for 27). The proxy scored 0 of 7 against the author's real
+comments (notes/ch23-proxy-score-2026-09-21.md). Hands forward: 24 —
+the suspension pending review (the AD's neutral prose, a published
+fortnight), the annex greenlight the same week, rule 7 spent (a post
+jumps rooms and costs its poster — dossier-dan row 24's DeeAnn →
+Rhonda), Dan's silence on counsel's advice and hers not asking; the
+stake as a hint (D30.1) and the apart-why clause (D30.3) in EVERY
+apart chapter; Kat's surprise wine night PROPOSED (D30.6 — the author's
+go; ch 23's night or ch 25); the epigraph funny every third; 25 — the
+boxes, the offer, the Cordelia letter; 26 — the survey stakes cross
+the chalk seen bare here; 27 — the phrase decoded, his name on the
+record; 28 — Missy's purse; the trainer has NO drops left.
 
 ## New canon recorded at this fold
 

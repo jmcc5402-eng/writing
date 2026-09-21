@@ -32,8 +32,8 @@ paid for. Nothing here resolves unless the outline says so.
 | The trainer | head down and the job against the doctor whose truck he rode in | the ten thousand; the survey pricing his job; being seen to pick a side | the app closed before her door; the score on his knee; "Mine's the same as yours"; what he does not say in the cab | PROPOSED |
 | Verna | her winter doctor's rent against the town's talk at her own storm door | losing the tenant; the survey through her gravel | the look at the truck "like a plate from out of state"; the coffee handed out with no room for an answer | PROPOSED |
 | Tick | the show's sponsor money against what he says off the air | the station; the porch's mood | the anchors off air, to Dan alone; the on-air tone against the off-air one | PROPOSED |
-| Aisha | the terms (nothing anybody can see) against the want | the county reading a truck; nobody has ever spent anything on her | ch 21's cab; the ache | canon (the dossier) |
-| Dan | the job (a second time ends him) against her | the county's verdict; the screenshot that is true this time | the square; the board unopened | LOCKED (B2-D28.2) |
+| Aisha | the terms (nothing anybody can see; caught in season, both fired — B2-D30.1; and after signing day a coach and a doctor in public is its own storm, not worried about yet — D30.2) against the want; and the life itself: fourteen-hour days, eleven months a year, and she knows it (D30.3) (L066) | the county reading a truck; nobody has ever spent anything on her | ch 21's cab; the ache | canon (the dossier) |
+| Dan | the job (caught in season, both fired that day — his second time ends him in college coaching; B2-D30.1) against her | the county's verdict; the screenshot that is true this time | the square; the board unopened | LOCKED (B2-D28.2) |
 
 ## How the reader is meant to read them now (B2-D28.3 — a turn later is the surprise)
 

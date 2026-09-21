@@ -9,9 +9,10 @@ who merges._
 
 ## One open PR at a time (author, 2026-09-20)
 
-One branch, one open PR. When a PR opens the branch freezes: only
-that PR's own fixes are pushed to it. The next chapter's card, brief
-and audits run in the meantime and are committed locally; its
+One branch, one open PR. When a PR opens the branch freezes for
+prose: no draft of the next chapter is pushed to it. The next
+chapter's card, brief and audits are prep, not a chapter — they are
+committed and pushed, and the open PR's body says so in one line; its
 drafters start after the merge; its PR opens within minutes of the
 merge. No side branches (the author: "I don't want to do wonky
 things like creating branches"). A PR that carries a fold and a

@@ -117,8 +117,12 @@ fi
 # test the same day (the lesson loop, L028; from ch 22).
 READER_TESTS_FROM=22
 if (( 10#$CH >= READER_TESTS_FROM )) && [[ -f "$REPO/studio/lessons/reader-tests.txt" ]]; then
-  while IFS=$'\t' read -r lid agent test glob token; do
+  while IFS=$'\t' read -r lid agent test glob token from; do
     [[ "$lid" == L* ]] || continue
+    # an optional sixth column "from=NN": a test added after a chapter's
+    # readers ran is demanded from that chapter on, not retroactively
+    # (ch 23, 2026-09-21: the FUN test landed after the proxy had read)
+    if [[ "$from" == from=* ]] && (( 10#$CH < 10#${from#from=} )); then continue; fi
     g="${glob//\{CH\}/$CH}"
     if compgen -G "$NOTES/$g" >/dev/null 2>&1; then
       if ! grep -hi "^TESTS:" $NOTES/$g 2>/dev/null | grep -qi "$token"; then

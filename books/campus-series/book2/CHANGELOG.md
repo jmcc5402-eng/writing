@@ -2,6 +2,20 @@
 
 Manuscript-affecting changes, newest first. (Hard rule 6.)
 
+## 2026-09-21 — ch 23 ACCEPTED (#180) and folded; the author's comments applied (fold PR; B2-D30)
+
+- The author's comments (#180 and chat), applied by the drafter: (1)
+  the stake said blatantly in her arithmetic — caught in season, both
+  fired that day (B2-D30.1, F-DAN-02); (2) after signing day is its
+  own storm, not worried about yet (D30.2); (3) fourteen-hour days,
+  eleven months, and her pull about that life (D30.3); (4) Boyd's
+  building with its point and the letter with its teeth, one plain
+  sentence each (D30.4); (5) the epigraph funny (D30.5).
+- PROPOSED, the author's go: Kat's surprise wine night at nine (D30.6).
+- The author's numbers recorded (romance 3, heat 1–2, wound 3, fun 0 —
+  romance-levels row 23; TARGETS definitions). The proxy scored: 0 of
+  7 said (notes/ch23-proxy-score-2026-09-21.md); author-proxy 1.1.0.
+
 ## 2026-09-20 (night) — ch 23 "The Album" drafted: three blind candidates, B wins (chapter PR) — THE FIRST CHAPTER RUN WITH THE AUTHOR'S READ AND THE AUTHOR-PROXY
 
 - The card (`notes/cards/ch23-card.md`) and the brief

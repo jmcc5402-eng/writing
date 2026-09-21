@@ -1,6 +1,6 @@
 ---
 name: author-read
-description: Draft THE AUTHOR'S READ table for a chapter brief — the author's six standing questions (MORE, WHO, CONFUSING, NOSE, POINT, SENSES) answered one line per scene, before any drafter launches. Use on every chapter brief from ch 23; brief-gate refuses a drafter without it.
+description: Draft THE AUTHOR'S READ table for a chapter brief — the author's seven standing questions (MORE, WHO, CONFUSING, NOSE, POINT, SENSES, FUN) answered one line per scene, before any drafter launches. Use on every chapter brief from ch 23; brief-gate refuses a drafter without it.
 ---
 
 # /author-read plots/brief-chNN.md
@@ -18,9 +18,9 @@ questions are in `studio/AUTHOR-QUESTIONS.md`, in the author's words.
    ```
    ## THE AUTHOR'S READ (studio/AUTHOR-QUESTIONS.md; L056)
 
-   | Scene | MORE | WHO | CONFUSING | NOSE | POINT | SENSES |
-   |---|---|---|---|---|---|---|
-   | 1. The morning | — (no touch; the ache at l.x: one paragraph, where she feels it) | Verna: wants the rent; pull — the tenant vs the town; LIKE, warily | clock: 6:10, boots on, the phone face down since last night; "the copies" = the letter's copies to the trustees, said | the drink is seen, never named | the point: she reads it once and goes to work; stakes for her: the accusation stands under her name all day | the lot after the thaw: gravel, water in the ruts, the RAV4 back |
+   | Scene | MORE | WHO | CONFUSING | NOSE | POINT | SENSES | FUN |
+   |---|---|---|---|---|---|---|---|
+   | 1. The morning | — (no touch; the ache at l.x: one paragraph, where she feels it; romance felt 3) | Verna: wants the rent; pull — the tenant vs the town; LIKE, warily; conflict 1 | clock: 6:10, boots on, the phone face down since last night; "the copies" = the letter's copies to the trustees, said | the drink is seen, never named | the point: she reads it once and goes to work; the stake BLATANT: what exactly happens if — quote the sentence | the lot after the thaw: gravel, water in the ruts, the RAV4 back | a downer by design; what takes the edge off: Verna's one line at the window |
    ```
 
    A cell is one line. "—" is allowed with a reason. MORE carries a
