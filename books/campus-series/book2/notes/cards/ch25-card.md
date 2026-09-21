@@ -48,5 +48,4 @@ boxes pack fast when nobody's asked you to stay.
 **Your calls.**
 
 1. She calls Dan the night she decides and tells him about the offer, or she does not and how he learns it is 26's problem.
-2. Kat's surprise lands here, two bottles and the listings on the night she packs, or Kat stays a text.
-3. The Cordelia letter is read on the page in full, in your words, or only its last line.
+2. The Cordelia letter is read on the page in full, in your words, or only its last line.

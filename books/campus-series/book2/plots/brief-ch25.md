@@ -10,9 +10,10 @@ column, not a chapter — no cameo, no Adhesion here); romance-arc row 25, In 5 
 (`notes/cards/ch25-card.md`) and this brief are audited TOGETHER by
 the keeper before a drafter launches; the brief carries THE AUTHOR'S
 READ (seven questions). ONE OPEN PR AT A TIME: the drafters launch
-after #182 (ch 24) merges. THREE OF THE CARD'S CALLS ARE THE AUTHOR'S
-AND ARE NOT DEFAULTED HERE — the fourth call, Kat's placement, the
-Cordelia letter's text (S01-sensitive; the author blesses) — see THE
+after #182 (ch 24) merges. TWO OF THE CARD'S CALLS ARE THE AUTHOR'S
+AND ARE NOT DEFAULTED HERE — the fourth call and the Cordelia
+letter's text (S01-sensitive; the author blesses); Kat is RULED (no
+scene; a text) — see THE
 CARD'S CALLS at the bottom: the drafters take the defaults there
 unless the author rules before launch.
 
@@ -420,10 +421,8 @@ January).
    author says she calls: the call is the chapter's romance conflict
    on the page — she tells him the offer and the date, he says the
    true thing one chapter late, and neither of them says stay.)
-2. Kat's surprise — DEFAULT: Kat stays a text (the author has not
-   ruled the ch 23 placement); if the author places her here: Kat's
-   headlights at nine, two bottles and the listings, the boxes seen,
-   one laugh, and the chapter still ends on the coat.
+2. Kat — RULED (the author, 2026-09-21): no surprise scene; Kat stays
+   a text; the card's call is struck.
 3. The Cordelia letter — DEFAULT: its sense in her paraphrase, one
    sentence, and `[TK the letter's text — the author blesses]`; the
    text itself only in the author's words.
