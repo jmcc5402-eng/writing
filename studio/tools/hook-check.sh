@@ -155,6 +155,27 @@ printf '{"tool_name":"Bash","tool_input":{"command":"git push -u origin x"}}' \
 printf '{"tool_name":"Bash","tool_input":{"command":"ls -la"}}' \
   | expect 0 "id-check ignores a command that is not a push" python3 "$ROOT/studio/tools/id-check.py"
 
+# --- handoff (SessionStart; --gate in accept-gate) — L070 ----------------
+HOFF="$ROOT/studio/tools/handoff.py"
+expect 0 "handoff prints the story thread's open rows" python3 "$HOFF" --for story
+expect 0 "handoff --audit lists every open row" python3 "$HOFF" --audit
+expect 0 "handoff --gate passes a chapter with no BLOCK row" python3 "$HOFF" --gate books/campus-series/book2 25
+python3 - "$T" <<'PY'
+import pathlib, sys
+T = sys.argv[1]
+hdr = "| ID | For | Chapter | Severity | Finding | Detail | Status |\n|---|---|---|---|---|---|---|\n"
+pathlib.Path(T, "board-ruled.md").write_text(
+    "## Open\n\n" + hdr + "| H900 | story | 25 | BLOCK | x | author 2026-09-22 #183 | OPEN |\n")
+pathlib.Path(T, "board-unruled.md").write_text(
+    "## Open\n\n" + hdr + "| H901 | story | 25 | BLOCK | x | an agent said so | OPEN |\n")
+PY
+cp "$ROOT/studio/threads/HANDOFF.md" "$T/board-real.md"
+cp "$T/board-ruled.md" "$ROOT/studio/threads/HANDOFF.md"
+expect 2 "handoff --gate holds a chapter on an author-ruled BLOCK" python3 "$HOFF" --gate books/campus-series/book2 25
+cp "$T/board-unruled.md" "$ROOT/studio/threads/HANDOFF.md"
+expect 0 "handoff --gate ignores a BLOCK with no author ruling" python3 "$HOFF" --gate books/campus-series/book2 25
+cp "$T/board-real.md" "$ROOT/studio/threads/HANDOFF.md"
+
 # --- the bans' own fixtures --------------------------------------------
 expect 0 "bans.py --test: every ban fires on its fixture" python3 "$ROOT/studio/tools/bans.py" --test
 
