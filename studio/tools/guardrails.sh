@@ -52,6 +52,7 @@ echo
 run "roster staleness"  python3 studio/tools/roster-staleness.py --quiet
 run "thread ids"        python3 studio/tools/id-check.py --audit
 run "handoff board"     python3 studio/tools/handoff.py --audit
+run "proposals"         python3 studio/tools/proposal-lint.py
 run "bans fire"         python3 studio/tools/bans.py --test
 run "lesson ledger"     python3 studio/tools/lesson-check.py
 run "hooks refuse"      bash studio/tools/hook-check.sh
