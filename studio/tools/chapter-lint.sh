@@ -117,6 +117,37 @@ for para in paras:
             print(f"  {len(w):3d}w  and×{n_and}  {s[:72]}")
 print(f"  {long_} over thirty words; {ands} with more than three 'and's")
 PY
+echo "== SENTENCE SHAPE (the cap is a budget, not a ban — variance lives in the tail; L071)"
+python3 - "$f" <<'PY'
+import re, statistics as st, sys
+t = open(sys.argv[1], encoding="utf-8").read()
+if "\n---\n" in t: t = t.split("\n---\n", 1)[1]
+t = re.sub(r"^>.*$", "", t, flags=re.M)
+L = [len(re.findall(r"[A-Za-z'’]+", s))
+     for s in re.split(r"(?<=[.!?])\s+", " ".join(t.split())) if s.strip()]
+L = [x for x in L if x]
+if len(L) < 40:
+    print("  too few sentences to judge the shape"); raise SystemExit
+cv = st.pstdev(L) / (sum(L) / len(L))
+p95 = sorted(L)[int(len(L) * .95)]
+over, under = sum(1 for x in L if x > 30), sum(1 for x in L if x <= 7)
+print(f"  {len(L)} sentences · mean {sum(L)/len(L):4.1f} · p95 {p95} · max {max(L)} · "
+      f"over-30 {over} ({100*over/len(L):.1f}%) · under-8 {under} ({100*under/len(L):.1f}%) · CV {cv:.2f}")
+bad = []
+if cv < 0.60:
+    bad.append(f"CV {cv:.2f} is under 0.60 — the sentences are running to one length")
+if p95 < 33:
+    bad.append(f"p95 {p95} — the long tail is gone; nothing here breathes out")
+if over == 0:
+    bad.append("not one sentence over thirty words — rule 7 says ORDINARILY under thirty, not never")
+for b in bad:
+    print(f"  FINDING: {b}")
+if bad:
+    print("  Reference: ch 12-17 ran CV 0.78-0.89, p95 38-68, over-30 10-35%.")
+    print("  Ch 18-24 ran CV 0.52-0.57, p95 27-32, over-30 0.3-5% — seven chapters")
+    print("  of metronome, and every one of them passed its own gate. The fix for")
+    print("  the long sentence deleted the long sentence. Let one or two run.")
+PY
 echo "== [TK] / [CHECK]"
 grep -n '\[TK\|\[CHECK' "$f"
 echo "== trailing whitespace"

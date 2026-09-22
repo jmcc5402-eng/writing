@@ -176,6 +176,27 @@ cp "$T/board-unruled.md" "$ROOT/studio/threads/HANDOFF.md"
 expect 0 "handoff --gate ignores a BLOCK with no author ruling" python3 "$HOFF" --gate books/campus-series/book2 25
 cp "$T/board-real.md" "$ROOT/studio/threads/HANDOFF.md"
 
+# --- chapter-lint SENTENCE SHAPE (L071) ----------------------------------
+python3 - "$T" <<'PY'
+import random, sys
+T = sys.argv[1]; r = random.Random(7)
+def chap(lens):
+    out = ["# Chapter 99 - X", "", "POV: x.", "", "---", ""]
+    for i in range(0, len(lens), 4):
+        out.append(" ".join(" ".join(["word"] * n) + "." for n in lens[i:i + 4]))
+        out.append("")
+    return "\n".join(out)
+open(f"{T}/flat.md", "w").write(chap([r.choice([12, 13, 14, 15, 16]) for _ in range(120)]))
+open(f"{T}/varied.md", "w").write(chap([r.choice([3, 5, 7, 12, 14, 34, 41, 55]) for _ in range(120)]))
+PY
+shape() { bash "$ROOT/studio/tools/chapter-lint.sh" "$1" 2>&1 | sed -n '/SENTENCE SHAPE/,/^== /p' | grep -c FINDING; }
+[[ "$(shape "$T/flat.md")" -ge 2 ]] \
+  && expect 0 "chapter-lint SENTENCE SHAPE fires on metronomic prose" true \
+  || expect 0 "chapter-lint SENTENCE SHAPE fires on metronomic prose" false
+[[ "$(shape "$T/varied.md")" -eq 0 ]] \
+  && expect 0 "chapter-lint SENTENCE SHAPE stays quiet on varied prose" true \
+  || expect 0 "chapter-lint SENTENCE SHAPE stays quiet on varied prose" false
+
 # --- the bans' own fixtures --------------------------------------------
 expect 0 "bans.py --test: every ban fires on its fixture" python3 "$ROOT/studio/tools/bans.py" --test
 
