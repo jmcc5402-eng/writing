@@ -36,8 +36,8 @@ differently than at the start). Dan 1: seen — the slice set down at
 her elbow is the town's, not his; he is not in her chapter. Wound 3:
 every account settled before she goes, which is the wound (nobody
 has ever spent anything on her and she will not owe anybody); the
-Cordelia letter names it back to her. Fun 1 (Kat, if placed here,
-makes it 2–3 — call 2; without Kat, Verna and the cook are the fun).
+Cordelia letter names it back to her. Fun 1 (Kat is RULED out —
+a text only; Verna and the cook are the fun).
 Town 3: the town ACTS three times, small and wordless (coffee on the
 house; the slice unasked; February's rent) — the chorus's
 counter-current starting, paid at 28. Menace 1: the offer's sender is
@@ -53,7 +53,7 @@ MECHANICAL (commands, output attached at the end)
   [ ] python3 studio/tools/bans.py manuscript/ch25.md → clean
   [ ] python3 studio/tools/opening-check.py / ending-check.py → not a repeat (NOT an email on a phone as the opening — 24; NOT alone under a light as the ending — 23, 24; NOT an empty chair or stool — 20, 22, 24)
   [ ] python3 studio/tools/fact-check.py books/campus-series → clean
-  [ ] every sentence under 30 words, ≤3 "and"s; wrap at 80; ≤3600 words
+  [ ] sentences ordinarily under 30 words, ≤3 "and"s; wrap at 80; ≤3600 words — AND a tail: chapter-lint SENTENCE SHAPE shows CV ≥ 0.60, p95 ≥ 33, at least one sentence over thirty (HANDOFF H001; L071)
 READERS (verdict files, path attached at the end)
   [ ] author-proxy 1.1.0    → notes/ch25-author-proxy-<A|B|C>-<date>.md (BEFORE the panel; seven tokens; romance and heat on the author's scale; the stakes-blatant line)
   [ ] romance-reader-panel  → notes/ch25-panel-<A|B|C>-<date>.md (BLIND — on the card-blind copy; on the author's anchors)
@@ -107,8 +107,8 @@ and NOT alone under a light (the keeper: the third chapter running —
 at Verna's storm door with Verna in it — the month's envelope, the
 anchor in Verna's words — and the last image is the parka folded flat
 on the top box in the RAV4's back seat, seen through the glass from
-Verna's step, the name up. Kat, if placed here (call 2), is in this
-last section. ENDS DOWN on the folded coat.
+Verna's step, the name up. Kat is a text on her phone, not a car in
+the gravel (RULED). ENDS DOWN on the folded coat.
 
 **WOVEN:** she is packing him: the mug, the file she is not allowed
 to take, the sentence, the coat.
@@ -231,8 +231,8 @@ packs; the call she does not make is the one he would have answered.*
    Then Verna's storm door — NOT alone under a light: Verna's ANCHOR
    in Verna's words (her fourth: boxes pack fast when nobody's asked
    you to stay — the meaning, not the outline's wording), the car in
-   the gravel a thing the county reads (ch 21), Kat's headlights if
-   placed (call 2). ENDS DOWN on the image seen from Verna's step:
+   the gravel a thing the county reads (ch 21); Kat is a text, not
+   headlights (RULED). ENDS DOWN on the image seen from Verna's step:
    the parka folded on the top box through the glass, the name up.
 
 ## THE AUTHOR'S READ (studio/AUTHOR-QUESTIONS.md; L056)
@@ -244,7 +244,7 @@ packs; the call she does not make is the one he would have answered.*
 | 3. Early afternoon, the annex | Romance felt 4: his truck across the lot — one body beat; the drawer she does not open — the wound in her hands; the coat question (the wool one on her) | The cover man: wants no trouble; the trainer in the door: no side, conflict 1, no drop; Aisha: conflict 3 — taking only what is hers costs her | Asked out by noon on the 20th; her own key; what is hers and what is the clinic's (the numbered boxes stay); the paper chart stays; the tablet's file is hers | Nobody says "she never unpacked" — two boxes say it | The point: six months of hers fits in two boxes. The stake: the chart she cannot take is the boy's | The office: the lamp, the mug ring, the tape gun, the corridor's heat; the whirlpool room; the towels | — (the trainer's one line, if any) |
 | 4. Mid-afternoon, Mt. Nebo | Romance felt 3: none; the building's memory instead of hers | Odell: late from the shop, cranky, particular, busy — wants the essays judged and the meeting moved; Delores: counts; LIKE both; Aisha: conflict 2 — the hall keeps her building's paper and not her | Why she is there (the count against her copy — the review's chain, F1); what the meeting is (Canaan Bottom, 1968 — one clause, as the hall's own business); the boxes behind the key | Nobody explains the church or the meeting; the agenda sheet does it | The point: the county's other memory of the annex is forty-one boxes it carried and did not have to | The hall's length; folding chairs; the pass-through; the key on its ribbon | Odell's particularity is the laugh |
 | 5. Late afternoon, the Court — the towels; the rent | Romance felt 3: none — the account settled is the wound | Verna: wants the rent and the tenant; conflict 2 — the envelope handed back; Sonny: on the repairs, sees, says nothing; Aisha: the towels she did not have to fold | Twelve of fourteen, in thirds, from the whirlpool room; how she learns February is not charged (shown); Sonny's reason for being there | Nobody calls the rent kindness; "the heater rattled" is Verna's whole sentence | The point: every account settled before she goes — and Verna refusing one | The washers; the thirds; the gravel; the office window | Verna's "Mm" |
-| 6. Night, nine — the letter; the storm door | Romance felt 5 (6 if the call is made — call 1): the letter's sense; the ache in the body four beats; the parka folded with the name up; the choice said plain; Kat if here | Verna: her fourth anchor; Kat if here: wants her friend to stay and says it with a bottle; Aisha: TURNED — she chooses the offer | The letter's text (`[TK]` — the author); the reply sent or held, said; the wool coat's pocket; which boxes go in the car (two, and the suitcases); how she is back in nine | Nobody says "nobody asked me to stay" as dialogue — Verna's anchor carries it; the letter's sense once, paraphrased | The point: she leaves because nobody asked, and the town is asking in a language she does not read. Stakes blatant: the answer Saturday; the findings Wednesday; the terms to Wednesday | Nine at night; the furnace; the gravel; the dome light off; the parka's nylon on the box | Kat, if here — the chapter's laugh; else Verna's line |
+| 6. Night, nine — the letter; the storm door | Romance felt 5 (6 if the call is made — call 1): the letter's sense; the ache in the body four beats; the parka folded with the name up; the choice said plain; Kat's text, read once | Verna: her fourth anchor; Kat by text: wants her friend to stay and says it in eleven words; Aisha: TURNED — she chooses the offer | The letter's text (`[TK]` — the author); the reply sent or held, said; the wool coat's pocket; which boxes go in the car (two, and the suitcases); how she is back in nine | Nobody says "nobody asked me to stay" as dialogue — Verna's anchor carries it; the letter's sense once, paraphrased | The point: she leaves because nobody asked, and the town is asking in a language she does not read. Stakes blatant: the answer Saturday; the findings Wednesday; the terms to Wednesday | Nine at night; the furnace; the gravel; the dome light off; the parka's nylon on the box | Kat's text may be the chapter's laugh; else Verna's line |
 
 ## ROMANCE BEATS (one per scene, at least three, two kinds)
 
@@ -270,7 +270,7 @@ to the letter (the kindness); TURNED (3). **Dan (dossier row 25):**
 seen — the slice is the chorus's; not in her chapter. **Boyd (§5):**
 the offer's sender, once. **Verna:** the anchor; February's rent.
 **Delores, Odell:** Mt. Nebo, one line each. **The trainer:** in a
-door, no drop. **Kat:** call 2. **Missy, Denny, Marisol:** absent.
+door, no drop. **Kat:** a text only (RULED). **Missy, Denny, Marisol:** absent.
 
 ## STAKES ON THE PAGE (taste 22 amended — BLATANT; `canon/STAKES.md`; the brief gate)
 
@@ -282,7 +282,7 @@ door, no drop. **Kat:** call 2. **Missy, Denny, Marisol:** absent.
 | Verna | none locked (pull PROPOSED: the tenant against the town) | February's rent, unasked; the anchor |
 | The trainer | ten thousand (LOCKED) — NO drop (none left) | pull only |
 | Delores, Odell, the cook, Earlene, Sonny, the cover man | none | — |
-| Kat | none | call 2 |
+| Kat | none | a text only (RULED 2026-09-21) |
 
 ## THE STAKES, THIS CHAPTER'S
 
@@ -318,7 +318,7 @@ Narration (her POV): "Dan" in her head; "Coach" in the county's mouth
 "Delores Fountain-Mabry" once; "Odell" / "Odell Fountain" once, with
 who he is (a barber, a deacon); "the trainer" ONLY; "the cover man"
 (unnamed); "Rex Boyd" once; the western chair UNNAMED; "the athletic
-director" never "the AD"; "Kat" if placed. Cordelia Hartwell on the
+director" never "the AD"; "Kat" by text only. Cordelia Hartwell on the
 flap, once. Trey's file: "Trey" once.
 
 ## FURNITURE, CITED
@@ -334,12 +334,26 @@ fellowship hall and the locked room (ch 14:333–345, 380–405; registry
 98–99); Odell (town-ashford 249–252; §8); the offer (ch 19:252,
 585–605; B2-D08.2 the sixth a Saturday); the Fieldhouse lot, his truck
 nose to the fence (ch 21, 23, 24); Kat's wine-night shape (ch 11:120–
-160) if placed; the drinks register (nothing explained).
+160) — NOT here, Kat is a text; the drinks register (nothing explained).
 
 ## BANS AND BUDGETS
 
-- Sentences END (STYLE (a)): under thirty; at most three "and"s; no
-  one-sentence paragraph. Hand count and report the five longest.
+- Sentences END (STYLE (a)): ORDINARILY under thirty; at most three
+  "and"s; no one-sentence paragraph. Hand count and report the five
+  longest. THE TAIL (HANDOFF H001, 2026-09-22): seven chapters running
+  (18–24) came in metronomic — every sentence 17–29 words, none over
+  thirty, because the lint printed every long one as a violation.
+  Let one or two sentences per chapter run to forty or more where
+  the breath wants it — hers at the storm door, the slice set down,
+  the letter's sense — and let some run under eight. `chapter-lint`
+  now prints SENTENCE SHAPE (CV, p95, over-30, under-8) and FINDS a
+  missing tail; read it before delivering. A clean BANS line with a
+  flat shape is not done.
+- FIVE SHAPES the editor found by hand across 21–24 (HANDOFF H003),
+  banned here: the `said, to the <object>` dialogue tag ("she said,
+  to the windshield"); heart-in-hand THEN stomach-dropped in that
+  order; "in daylight"; "was the paper"; and the alone-at-night
+  ending, which this brief already routes to Verna's storm door.
 - No mystery-making (b): the offer is an offer; the letter is a letter
   whose text the page does not carry until the author blesses it —
   say so in a `[TK]`, do not tease. Jokes understood (c). Apart-why
@@ -361,7 +375,7 @@ nose to the fence (ch 21, 23, 24); Kat's wine-night shape (ch 11:120–
 - The clock between scenes on the page (L053): morning → the annex
   (how she got in) → Mt. Nebo (why; when) → the square at dusk →
   nine at night; where she was; how each thing reached her.
-- BANNED: RECENT.md as of 2026-09-21; studio/lessons/bans.txt (the
+- BANNED: RECENT.md as of 2026-09-22; studio/lessons/bans.txt (the
   hooks read it); "in this room/car/office" in any form; "somebody's";
   "never once"; "one beat"; "plainly" more than once; a phone face
   down or at night as the ending (20, 22, 23); the empty chair or
@@ -397,13 +411,13 @@ lost retainer, the laundry — under Tim Brasher or Kendra Voyles, under
 ## TASTE (the entries this chapter risks)
 
 7 amended (the third apart chapter running; the book a downer —
-Kat's placement is the author's; without Kat the counter-current and
+Kat is a text only (RULED); the counter-current and
 Verna are the fun, and the page must have one room the reader wants
 to stay in); 8 and 16 (the ache beside the arithmetic, twice, with a
 body); 22 amended (BLATANT: the offer's sender, the building, the
 answer date — once each, plain; no cartoon: Boyd's offer is real and
 good); 20 amended (a remembered touch runs across beats); 21 (who
-Odell is, who the cover man is, who Kat is if here); 1 (every clock a
+Odell is, who the cover man is, who Kat is — a text); 1 (every clock a
 date); 15 (the towels unthanked; the file unthanked); 2 (Aisha pays);
 12 (the offer SHOWN — its lines, hers); 18 (the letter's text is not a
 mystery — it is a `[TK]` the author owns); 6 (not a fifth date-line;
