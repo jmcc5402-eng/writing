@@ -89,7 +89,20 @@ until the author did._
    would slip past it that it claims to catch? Test it on the batch's
    own misses — feed the tool the thing the author caught and see
    whether it fires. A check that cannot fail is not a check.
-7. **THE OVER-TOOLING PASS.** The opposite failure. Which rules,
+7. **THE DISPLACEMENT PASS.** Every cap, ban and floor in force:
+   name the shape it deletes, and say what checks that the deleted
+   shape has not gone missing entirely. A one-sided check is the
+   studio's most expensive failure and it has now cost twice —
+   banning the calendar opening moved the tic to `object-first`
+   (53% of Book 1.2), and rule 7's thirty-word cap deleted the long
+   sentence outright (ch 18–24 ran CV 0.52–0.57 against 0.78–0.89
+   before it, seven chapters, every one passing its own gate). Both
+   times the ban was right and the missing floor was the defect.
+   Ask of each: **is this a ban or a budget, and who checks the
+   other end?** A rule whose wording carries a hedge ("ordinarily
+   under thirty") and whose lint carries none has already lost the
+   hedge — that gap is a finding.
+8. **THE OVER-TOOLING PASS.** The opposite failure. Which rules,
    bans or checks in force have not fired in two batches, contradict
    a later ruling, or cost more than they catch? Propose deletions
    and mergers. The studio's instrument-governance guard applies

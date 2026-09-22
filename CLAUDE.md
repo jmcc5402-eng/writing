@@ -97,6 +97,11 @@ doesn't exist to other threads.
 - **Decisions leave the thread fast.** A ruling that exists only in a
   conversation is invisible to every other thread — commit it, or PR
   it, the same day.
+- **A thread has a scope.** `studio/threads/SCOPES.md` names each branch
+  `story` or `environment`. An environment branch cannot edit a
+  manuscript, brief, card or note, sweep the tree into a commit, or
+  launch a drafter (`thread-scope.py`, PreToolUse). It builds the check
+  and puts the page fix on the board for the book thread.
 - **Cross-series material belongs to `studio/`.** Shared universe
   furniture (invented platforms, invented shows, crossover cameos)
   lives in `studio/SHARED-CANON.md` — PR-governed; no single series

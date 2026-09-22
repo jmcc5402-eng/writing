@@ -261,6 +261,96 @@ The accept gate holds until the keeper's page audit at the fold.
 
 Not on the page (not ruled): she does not tell him about Boyd's
 directorship offer — the superfan's flag stands for the author.
+## 2026-09-16 — SAMENESS PASS, ch 1 / 3 / 9 / 10 / 11 / 15 / 17 / 18
+
+Mechanical only. No story, no beat, no line of dialogue changed.
+
+**Openings (B).** `opening-sameness.py` measured **10 of 19 chapters
+(53%) opening object-first** — `The [object] [verb]`, ten times — with
+ch 5 and ch 9 sharing a sentence architecture almost word for word
+("The tape gun ran out halfway across the fourth box, and Aisha
+finished the seam…" against ch 5's blue marker). Recast four leads
+without changing their content:
+
+| Ch | Was | Now leads with |
+|---|---|---|
+| 9 | The tape gun ran out… | Aisha |
+| 11 | The sheet had come off… | She |
+| 15 | The pen came out… | Aisha Cole |
+| 17 | The RAV4 took a parking space… | On the first try |
+
+Distribution now object-first 6 / clock 5 / name 4 / other 3 /
+pronoun 1 — nothing over a third. Six verbatim four-word echoes
+between openings also broken (ch 5/9, 9/17, 11/13, 11/15, 13/15,
+14/15, 15/18, and ch 8/10's "county wanted to hear").
+
+**Left alone on purpose:** "a table in February" recurs in ch 16 and
+ch 17 openings and the tool flags it. It is the contract-review
+refrain, used four times on purpose. A motif is not a tic. *(The tool
+has no way to declare one — see the open item below.)*
+
+**Em dashes (D).** b2 ch 1 was running **4.9 per 1,000 words against a
+corpus median of 0.9**, ch 3 at 3.3 — both of them the same
+construction, `statement — elaboration`, over and over. Eight
+converted to periods, commas or a full stop. Both chapters now clear.
+
+**Rhythm (C) — PARTIAL, and the finding is bigger than the fix.**
+`ai-tells` flagged ch 18 and ch 19 for uniform sentence length. It is
+not a length artifact and it is not marginal:
+
+```
+  all other 47 chapters   CV 0.66 – 0.94   (median 0.80)
+  ch 18                   CV 0.54
+  ch 19                   CV 0.57
+```
+
+ch 17 is 4,596 words and sits at 0.83, so length is not the cause.
+**The two most recently drafted chapters are rhythmically unlike the
+other forty-seven** — every sentence landing in the same 17–29 word
+compound shape. Four compounds were split in ch 18 (0.53 → 0.54),
+which is all a handful of edits can do to a whole-chapter statistic.
+
+Closing the rest is a rhythm pass over 11,000 words of the book's
+climax and aftermath, which is a line-edit with an ear on it, not a
+mechanical fix. **Not done here; it needs the author or a line pass.**
+
+**Owed on all of the above:** every chapter touched was ACCEPTED.
+prose-guard flagged each edit; a continuity-keeper read is required
+before re-acceptance. Also surfaced, pre-existing and untouched: the
+epigraphs in **ch 3 (54 words)** and **ch 10 (36)** exceed the 35-word
+cap.
+
+## 2026-09-16 — REGISTER SEED, ch 3 / 5 / 6 (author-directed)
+
+Three sentences, planting Aisha's default drink before it is spent.
+Found by the first full-corpus `guardrails.sh` run.
+
+`register-check.py` reported her seltzer with **one** ordinary use
+before the ch-11 wine spend, against the spec's three
+(`studio/craft/registers.md` rule 2). The word did not appear in the
+book at all before ch 11 — the reader met her default *after* the
+substitution that was supposed to mean something against it. Seeded:
+
+- **ch 3** — she lifts the seltzer from the car and declines both of
+  Verna's offers. Was a bare "Not yet."
+- **ch 5** — the Checkerboard has never stocked it, so she drinks the
+  coffee. The default established by its absence, which is also why
+  nobody noticed it was missing.
+- **ch 6** — a seltzer in her other hand at the rail, in Dan's POV.
+  He is the one who has to have learned it for ch 18 to land.
+
+Now 4 ordinary uses before the spend; `register-check.py` exits 0.
+
+**Not a finding after all:** the same run reported Aisha's coat at
+zero uses before its ch-7 shift. That was a **bug in the checker** —
+it split alternation on a bare `|` and silently dropped the first
+term of `her coat\|own coat`. The coat has five ordinary uses and was
+always correct. Fixed in the tool, same commit; no prose changed.
+
+**Owed:** all three chapters were ACCEPTED. A continuity-keeper read
+is required before they are re-accepted (prose-guard flagged each
+edit). Also surfaced, pre-existing: **ch 3's epigraph is 54 words
+against the 35-word cap.**
 
 ## 2026-09-15 — HEAT PASS, ch 1–10 (author-directed, the drought zone)
 

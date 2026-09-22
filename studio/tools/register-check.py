@@ -81,7 +81,17 @@ def build_rx(spec: str):
     "wine !wine night" matches the drink and not the event — which the
     first run needed, because it reported Dan's ch-18 wine as spent
     early on the strength of two mentions of *wine night*.
+
+    The canon docs write alternation the way the CLAUDE.md grep line
+    does — `her coat\\|own coat` — so a backslash-pipe has to mean the
+    same thing here as a bare pipe. It did not, and the cost was a
+    silent lie: splitting on a bare `|` left the first alternative
+    ending in a backslash, `\\bher coat\\\\\\b` matched nothing, and the
+    checker reported Aisha's coat as having ZERO ordinary uses before
+    its ch-7 spend. It has five. A check that reads its own spec
+    wrongly is worse than no check, because it is believed.
     """
+    spec = spec.replace("\\|", "|")
     parts = [p.strip() for p in spec.split("!")]
     pos = [t.strip() for t in parts[0].split("|") if t.strip()]
     neg = [t.strip() for t in parts[1:] if t.strip()]
