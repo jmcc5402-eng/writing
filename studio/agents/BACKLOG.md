@@ -325,7 +325,7 @@ Still open:
   sameness pass (seltzer seeded in 1.2 ch 3/5/6; four openings recast;
   em dashes in ch 1/3; four splits in ch 18) — made on the author's
   instruction five days before the branch was scoped `environment`
-  (L067). All ten chapters were ACCEPTED; prose-guard flagged each
+  (L068). All ten chapters were ACCEPTED; prose-guard flagged each
   edit; the keeper read that re-accepts them was never run (the
   workflow was declined). The lock now stops this branch touching
   them again. Needs the author: merge them with the keeper read owed
