@@ -41,7 +41,8 @@ running them depended on an agent remembering.
 | **SessionStart** | `matrix-strip.py --current` | no — prints the chapter-in-progress row of `canon/TARGETS.md` (and plan → actual once the readers have run) so every session opens on the plan (2026-09-19) |
 | **PreToolUse** on `Bash` | `commit-scope.py` | **yes** — a `git commit` whose files span two scopes (a book, studio, agents) or whose subject prefix names the wrong one is refused (2026-09-20; the showrunner's own mixed commit the day before) |
 | **PreToolUse** on `Agent` | `brief-gate.py` (+ the matrix row must be in the drafter's prompt) | **yes** — a drafting-assistant launched on a brief with no AUDIT ADDENDUM and VERDICT on disk does not launch (2026-09-17; the ch 18 stray-file mistake, BACKLOG F36) |
-| **PreToolUse** on `Edit\|Write\|MultiEdit\|NotebookEdit`, `Bash`, `Agent` | `thread-scope.py` | **yes** — on a branch scoped `environment` in `studio/threads/SCOPES.md`, an edit to a manuscript, brief, card or note, a `git add -A`, a `sed -i` or redirect onto a story path, or a drafter launch is refused (2026-09-21; the author: "the other thread always reverts to the story"; L067) |
+| **PreToolUse** on `Bash` (a `git push`) | `id-check.py` | **yes** — a ledger ID or author-note number that is a different row on another fetched thread refuses the push (2026-09-21; two threads minted L067 and 245 the same day; L069) |
+| **PreToolUse** on `Edit\|Write\|MultiEdit\|NotebookEdit`, `Bash`, `Agent` | `thread-scope.py` | **yes** — on a branch scoped `environment` in `studio/threads/SCOPES.md`, an edit to a manuscript, brief, card or note, a `git add -A`, a `sed -i` or redirect onto a story path, or a drafter launch is refused (2026-09-21; the author: "the other thread always reverts to the story"; L068) |
 
 `PreToolUse` is the only event that can stop an action. Everything else
 reports.

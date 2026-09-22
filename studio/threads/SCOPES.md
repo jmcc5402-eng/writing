@@ -29,7 +29,7 @@ table for one shell (hook-check uses it to test the lock; a person may
 use it to lock an unlisted branch). `--unlock-thread-scope` anywhere in
 a Bash command lets that one command through, and it is visible in the
 transcript — the same shape as commit-scope's `--allow-mixed-scope`.
-Ledger: L067.
+Ledger: L068.
 
 | Branch | Scope | Note |
 |---|---|---|

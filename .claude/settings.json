@@ -63,6 +63,10 @@
           {
             "type": "command",
             "command": "python3 \"$CLAUDE_PROJECT_DIR/studio/tools/thread-scope.py\""
+          },
+          {
+            "type": "command",
+            "command": "python3 \"$CLAUDE_PROJECT_DIR/studio/tools/id-check.py\""
           }
         ]
       },

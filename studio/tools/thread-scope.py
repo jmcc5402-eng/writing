@@ -26,7 +26,7 @@ told to build guardrails drifts to fixing the page, because the page
 is right there and the fix is satisfying. That is an instruction
 failing in the usual way. This is the same rule as a lock: the thread
 can build the check and cannot apply the fix, so the fix goes to the
-book thread by the board and the check gets built. (L067)
+book thread by the board and the check gets built. (L068)
 
 Known hole: a script that writes a story file from inside python or a
 heredoc is not parsed. The commit-scope hook and the PR diff are the
@@ -142,9 +142,27 @@ def check_bash(ti: dict, br: str) -> int:
             toks = shlex.split(seg)
         except ValueError:
             toks = seg.split()
-        story_toks = [t for t in toks if "books/" in t and is_story(t.split("=", 1)[-1])]
-        if story_toks and (MUTATORS.search(" " + seg) or ">" in seg):
-            return block(f"the command writes to {rel(story_toks[0])}.", br)
+        # Only a story path being WRITTEN is a breach. Reading one is the
+        # job: `cp ch05.md scratch/` and `python3 x.py ch05.md` pass;
+        # `cp x ch05.md`, `> ch05.md`, `sed -i ... ch05.md` do not. The
+        # first live day blocked a copy OUT of a manuscript (2026-09-21).
+        written = []
+        for i, tok in enumerate(toks):
+            if tok in (">", ">>") and i + 1 < len(toks):
+                written.append(toks[i + 1])
+            elif tok.startswith((">", ">>")) and len(tok) > 1 and not tok.startswith(">&"):
+                written.append(tok.lstrip(">"))
+        m = MUTATORS.search(" " + seg)
+        if m:
+            verb = m.group(0).strip()
+            args = [t for t in toks[1:] if not t.startswith("-")] if toks else []
+            if verb in ("mv", "cp"):
+                written += args[-1:]                     # destination only
+            else:                                        # sed -i, rm, tee, truncate, git add/rm/mv/restore/checkout --
+                written += args
+        hit = [w for w in written if "books/" in w and is_story(w.split("=", 1)[-1])]
+        if hit:
+            return block(f"the command writes to {rel(hit[0])}.", br)
     return 0
 
 
