@@ -30,6 +30,10 @@ MAP = [
     (r"books/.+/canon/FACTS\.md$", "fact-check (every regex greps every chapter; a bad regex is a silent no-op)", "a row whose regex never matches anything is not tested — add a fixture"),
     (r"books/.+/canon/TARGETS\.md$", "card-lint (the card must equal the row); targets-check at the gate; matrix-strip at session start", ""),
     (r"books/.+/canon/STAKES\.md$", "brief-gate demands the section; the panel's STANCE test", "the sheet's own consistency with DECISIONS — nobody greps it"),
+    (r"books/.+/canon/REGISTERS\.md$", "register-check (every default counted before its first spend; a spend found early is exit 2); guardrails.sh", "a register carried by a situation, not a noun (the stool) — the panel's eye only"),
+    (r"books/.+/canon/INGREDIENTS\.md$", "engine-check (each of the 23 declared present, missing or waived against the pages); guardrails.sh", ""),
+    (r"books/.+/canon/(NAMES|BEATS)\.md$", "story-matrix (names by relationship; each beat against its curve, LATE flagged); guardrails.sh", "a beat declared at the wrong chapter is a wrong number, not a caught one — the panel reads the page"),
+    (r"books/.+/DIALS\.md$", "voice-dial (Modernity, Warmth, Edge measured against the sheet, ±1.5); guardrails.sh", "Heat, Humour and Audience centre are declared only"),
     (r"books/.+/(DECISIONS|THREADS|STATE|CHANGELOG)\.md$", "accept-gate wants a CHANGELOG entry dated today; nothing else", "GAP: a decision that contradicts the page is caught only by the keeper at the next fold"),
     (r"books/.+/notes/(scores/)?ch\d+-.*\.md$", "accept-gate (the file must exist and be non-trivial); targets-check reads ACTUALS; scorecard reads scores", "a verdict's content — the gate checks presence, not judgment"),
     (r"books/.+/notes/furniture-registry\.md$", "nothing", "GAP: registry rows are read by the keeper by hand; fact-check does not read them"),
@@ -40,6 +44,7 @@ MAP = [
     (r"studio/lessons/", "lesson-check; bans.py --test", ""),
     (r"studio/(STYLE|AUTHOR-TASTE|AUTHOR-NOTES)\.md$", "lesson-check (a recent author note needs a ledger row); canon-audit sorts the rules", "GAP: a rule in STYLE is an instruction until a ledger row names its enforcer"),
     (r"studio/agents/variance/", "accept-gate wants a draw logged today", "GAP: nothing checks a card was actually the LRU one"),
+    (r"studio/threads/SCOPES\.md$", "thread-scope reads it on every Edit/Write, Bash and Agent call; hook-check's ten scope cases", "a branch left off the table is story by default — an environment thread nobody listed is unlocked"),
     (r"studio/.*\.md$", "pr-lint on the PR body only", "GAP: studio prose is governed by review"),
     (r"CLAUDE\.md$", "commit-scope enforces its one-scope rule; canon-audit", "the rest of CLAUDE.md is instruction"),
 ]

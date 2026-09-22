@@ -98,6 +98,105 @@ printf '%s' '{"tool_input":{"command":"git add .claude/skills/lesson/SKILL.md &&
 printf '%s' '{"tool_input":{"command":"python3 - <<EOF\nprint(\"git add a && git commit -m x\")\nEOF\n"}}' \
   | expect 0 "commit-scope ignores a git commit quoted inside a heredoc" python3 "$ROOT/studio/tools/commit-scope.py"
 
+# --- thread-scope (PreToolUse Edit|Write|MultiEdit, Bash, Agent) — L068 -
+# STUDIO_THREAD_SCOPE forces the scope so the cases hold on any branch.
+TSP="$ROOT/studio/tools/thread-scope.py"
+printf '{"tool_name":"Edit","tool_input":{"file_path":"%s/books/campus-series/book2/manuscript/ch05.md"}}' "$ROOT" \
+  | STUDIO_THREAD_SCOPE=environment expect 2 "thread-scope refuses a manuscript edit on an environment branch" python3 "$TSP"
+printf '{"tool_name":"Edit","tool_input":{"file_path":"%s/books/campus-series/book2/canon/REGISTERS.md"}}' "$ROOT" \
+  | STUDIO_THREAD_SCOPE=environment expect 0 "thread-scope lets an environment branch edit canon" python3 "$TSP"
+printf '{"tool_name":"Write","tool_input":{"file_path":"%s/studio/STYLE.md"}}' "$ROOT" \
+  | STUDIO_THREAD_SCOPE=environment expect 0 "thread-scope lets an environment branch edit studio" python3 "$TSP"
+printf '{"tool_name":"Edit","tool_input":{"file_path":"%s/books/campus-series/book2/manuscript/ch05.md"}}' "$ROOT" \
+  | STUDIO_THREAD_SCOPE=story expect 0 "thread-scope leaves a story branch alone" python3 "$TSP"
+printf '{"tool_name":"Bash","tool_input":{"command":"git add -A && git commit -m \\"studio: x\\""}}' \
+  | STUDIO_THREAD_SCOPE=environment expect 2 "thread-scope refuses git add -A on an environment branch" python3 "$TSP"
+printf '{"tool_name":"Bash","tool_input":{"command":"sed -i s/a/b/ books/campus-series/book2/manuscript/ch05.md"}}' \
+  | STUDIO_THREAD_SCOPE=environment expect 2 "thread-scope refuses sed -i on a manuscript" python3 "$TSP"
+printf '{"tool_name":"Bash","tool_input":{"command":"cp books/campus-series/book2/manuscript/ch05.md /tmp/scratch/"}}' \
+  | STUDIO_THREAD_SCOPE=environment expect 0 "thread-scope lets a manuscript be copied OUT (reading is the job)" python3 "$TSP"
+printf '{"tool_name":"Bash","tool_input":{"command":"cp /tmp/x.md books/campus-series/book2/manuscript/ch05.md"}}' \
+  | STUDIO_THREAD_SCOPE=environment expect 2 "thread-scope refuses a copy INTO a manuscript" python3 "$TSP"
+printf '{"tool_name":"Bash","tool_input":{"command":"python3 studio/tools/ai-tells.py books/campus-series/book2/manuscript/ch05.md > /tmp/out.txt"}}' \
+  | STUDIO_THREAD_SCOPE=environment expect 0 "thread-scope lets a tool read a manuscript and write elsewhere" python3 "$TSP"
+printf '%s' '{"tool_name":"Bash","tool_input":{"command":"cat <<EOF > books/campus-series/book2/manuscript/ch05.md\nx\nEOF\n"}}' \
+  | STUDIO_THREAD_SCOPE=environment expect 2 "thread-scope sees a heredoc redirected onto a manuscript" python3 "$TSP"
+printf '{"tool_name":"Bash","tool_input":{"command":"git add studio/STYLE.md && git commit -m \\"studio: x\\""}}' \
+  | STUDIO_THREAD_SCOPE=environment expect 0 "thread-scope passes a named studio commit" python3 "$TSP"
+printf '{"tool_name":"Agent","tool_input":{"subagent_type":"drafting-assistant","prompt":"draft ch 25"}}' \
+  | STUDIO_THREAD_SCOPE=environment expect 2 "thread-scope refuses a drafter on an environment branch" python3 "$TSP"
+printf '{"tool_name":"Agent","tool_input":{"subagent_type":"continuity-keeper","prompt":"read ch 25"}}' \
+  | STUDIO_THREAD_SCOPE=environment expect 0 "thread-scope lets an environment branch launch a keeper" python3 "$TSP"
+
+# --- thread-scope: the inline-script hole and the two backstops (L068) ---
+# Payloads live in files: the hook would (correctly) block a command line
+# that carried these story paths, so the cases cannot be inline printf.
+python3 - "$T" <<'PY'
+import json, sys
+T = sys.argv[1]
+CH = "books/campus-series/book2/manuscript/ch05.md"
+def w(name, cmd):
+    open(f"{T}/{name}", "w").write(json.dumps({"tool_name": "Bash", "tool_input": {"command": cmd}}))
+w("ts-heredoc.json", 'python3 - <<PY\nopen("' + CH + '","w").write("x")\nPY\n')
+w("ts-var.json",     'python3 - <<PY\np = pathlib.Path("' + CH + '")\nt = p.read_text()\np.write_text(t)\nPY\n')
+w("ts-read.json",    'python3 - <<PY\nb = open("' + CH + '").read()\nopen("/tmp/out.md","w").write(b)\nPY\n')
+w("ts-studio.json",  'python3 - <<PY\npathlib.Path("studio/STYLE.md").write_text("x")\nPY\n')
+PY
+STUDIO_THREAD_SCOPE=environment expect 2 "thread-scope refuses a heredoc that writes a manuscript" python3 "$TSP" < "$T/ts-heredoc.json"
+STUDIO_THREAD_SCOPE=environment expect 2 "thread-scope refuses a path bound to a name then written" python3 "$TSP" < "$T/ts-var.json"
+STUDIO_THREAD_SCOPE=environment expect 0 "thread-scope lets a script READ a manuscript and write scratch" python3 "$TSP" < "$T/ts-read.json"
+STUDIO_THREAD_SCOPE=environment expect 0 "thread-scope lets a script write studio from python" python3 "$TSP" < "$T/ts-studio.json"
+STUDIO_THREAD_SCOPE=story expect 0 "thread-scope --tree is a no-op on a story branch" python3 "$TSP" --tree
+STUDIO_THREAD_SCOPE=story expect 0 "thread-scope --push is a no-op on a story branch" python3 "$TSP" --push
+
+# --- id-check (PreToolUse Bash, on git push) — L069 ----------------------
+printf '{"tool_name":"Bash","tool_input":{"command":"git push -u origin x"}}' \
+  | expect 0 "id-check passes a push when no ID collides with another ref" python3 "$ROOT/studio/tools/id-check.py"
+printf '{"tool_name":"Bash","tool_input":{"command":"ls -la"}}' \
+  | expect 0 "id-check ignores a command that is not a push" python3 "$ROOT/studio/tools/id-check.py"
+
+# --- handoff (SessionStart; --gate in accept-gate) — L070 ----------------
+HOFF="$ROOT/studio/tools/handoff.py"
+expect 0 "handoff prints the story thread's open rows" python3 "$HOFF" --for story
+expect 0 "handoff --audit lists every open row" python3 "$HOFF" --audit
+expect 0 "handoff --gate passes a chapter with no BLOCK row" python3 "$HOFF" --gate books/campus-series/book2 25
+python3 - "$T" <<'PY'
+import pathlib, sys
+T = sys.argv[1]
+hdr = "| ID | For | Chapter | Severity | Finding | Detail | Status |\n|---|---|---|---|---|---|---|\n"
+pathlib.Path(T, "board-ruled.md").write_text(
+    "## Open\n\n" + hdr + "| H900 | story | 25 | BLOCK | x | author 2026-09-22 #183 | OPEN |\n")
+pathlib.Path(T, "board-unruled.md").write_text(
+    "## Open\n\n" + hdr + "| H901 | story | 25 | BLOCK | x | an agent said so | OPEN |\n")
+PY
+cp "$ROOT/studio/threads/HANDOFF.md" "$T/board-real.md"
+cp "$T/board-ruled.md" "$ROOT/studio/threads/HANDOFF.md"
+expect 2 "handoff --gate holds a chapter on an author-ruled BLOCK" python3 "$HOFF" --gate books/campus-series/book2 25
+cp "$T/board-unruled.md" "$ROOT/studio/threads/HANDOFF.md"
+expect 0 "handoff --gate ignores a BLOCK with no author ruling" python3 "$HOFF" --gate books/campus-series/book2 25
+cp "$T/board-real.md" "$ROOT/studio/threads/HANDOFF.md"
+
+# --- chapter-lint SENTENCE SHAPE (L071) ----------------------------------
+python3 - "$T" <<'PY'
+import random, sys
+T = sys.argv[1]; r = random.Random(7)
+def chap(lens):
+    out = ["# Chapter 99 - X", "", "POV: x.", "", "---", ""]
+    for i in range(0, len(lens), 4):
+        out.append(" ".join(" ".join(["word"] * n) + "." for n in lens[i:i + 4]))
+        out.append("")
+    return "\n".join(out)
+open(f"{T}/flat.md", "w").write(chap([r.choice([12, 13, 14, 15, 16]) for _ in range(120)]))
+open(f"{T}/varied.md", "w").write(chap([r.choice([3, 5, 7, 12, 14, 34, 41, 55]) for _ in range(120)]))
+PY
+shape() { bash "$ROOT/studio/tools/chapter-lint.sh" "$1" 2>&1 | sed -n '/SENTENCE SHAPE/,/^== /p' | grep -c FINDING; }
+[[ "$(shape "$T/flat.md")" -ge 2 ]] \
+  && expect 0 "chapter-lint SENTENCE SHAPE fires on metronomic prose" true \
+  || expect 0 "chapter-lint SENTENCE SHAPE fires on metronomic prose" false
+[[ "$(shape "$T/varied.md")" -eq 0 ]] \
+  && expect 0 "chapter-lint SENTENCE SHAPE stays quiet on varied prose" true \
+  || expect 0 "chapter-lint SENTENCE SHAPE stays quiet on varied prose" false
+
 # --- the bans' own fixtures --------------------------------------------
 expect 0 "bans.py --test: every ban fires on its fixture" python3 "$ROOT/studio/tools/bans.py" --test
 

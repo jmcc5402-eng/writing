@@ -10,6 +10,10 @@
           {
             "type": "command",
             "command": "python3 \"$CLAUDE_PROJECT_DIR/studio/tools/matrix-strip.py\" --current || true"
+          },
+          {
+            "type": "command",
+            "command": "python3 \"$CLAUDE_PROJECT_DIR/studio/tools/handoff.py\" --quiet || true"
           }
         ]
       }
@@ -23,9 +27,27 @@
             "command": "bash \"$CLAUDE_PROJECT_DIR/studio/tools/prose-guard.sh\""
           }
         ]
+      },
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 \"$CLAUDE_PROJECT_DIR/studio/tools/thread-scope.py\" --tree"
+          }
+        ]
       }
     ],
     "PreToolUse": [
+      {
+        "matcher": "Edit|Write|MultiEdit|NotebookEdit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 \"$CLAUDE_PROJECT_DIR/studio/tools/thread-scope.py\""
+          }
+        ]
+      },
       {
         "matcher": "mcp__github__create_pull_request|mcp__github__update_pull_request",
         "hooks": [
@@ -50,6 +72,14 @@
           {
             "type": "command",
             "command": "python3 \"$CLAUDE_PROJECT_DIR/studio/tools/commit-scope.py\""
+          },
+          {
+            "type": "command",
+            "command": "python3 \"$CLAUDE_PROJECT_DIR/studio/tools/thread-scope.py\""
+          },
+          {
+            "type": "command",
+            "command": "python3 \"$CLAUDE_PROJECT_DIR/studio/tools/id-check.py\""
           }
         ]
       },
@@ -59,6 +89,10 @@
           {
             "type": "command",
             "command": "python3 \"$CLAUDE_PROJECT_DIR/studio/tools/brief-gate.py\""
+          },
+          {
+            "type": "command",
+            "command": "python3 \"$CLAUDE_PROJECT_DIR/studio/tools/thread-scope.py\""
           }
         ]
       }

@@ -302,3 +302,32 @@ Still open:
   committing the next chapter's draft to the branch. RULED
   (2026-09-20): no branches; one open PR at a time; the branch
   freezes when a PR opens (showrunner 2.4.5; PR-WORKFLOW; L061).
+- **F60 — six chapters flat in a row, and the gate passed every one
+  (2026-09-21).** `ai-tells` measures sentence-length variation (CV).
+  Every chapter of both books drafted before 1.2 ch 18 sits between
+  0.66 and 0.94 (median 0.80). Every chapter from ch 18 on sits below
+  the 0.55 floor: 18 = 0.54, 19 = 0.55, 20 = 0.53, 21 = 0.53, 22 =
+  0.54, 23 = 0.54. Ch 18 v2 was "the first run under drafter 1.6.0"
+  (2026-09-13), whose rule 7 capped sentences under thirty words and
+  banned one-sentence paragraphs — a lid on the long tail and a floor
+  under the short one, so the distribution narrowed from both ends.
+  The fix for "paras that read like a weird poem" produced a metronome:
+  displacement, the failure `opening-sameness` was built to name. The
+  finding is advisory (guardrails.sh only); each chapter's gate saw
+  "a hair too even" and passed it, because a per-chapter read cannot
+  see six in a row. Proposed, for the author: (a) a GATE — `accept-gate`
+  refuses a chapter whose CV is under the floor, from ch 25; (b) the
+  drafter's rule 7 keeps its cap and drops the one-sentence-paragraph
+  ban, or states a floor as well as a lid ("some sentences under eight
+  words"). Not a page fix; ch 18–23 are the book thread's. Open.
+- **F61 — the environment branch is carrying ten page edits
+  (2026-09-21).** `claude/model-fable-y2vo9s` holds the 2026-09-16
+  sameness pass (seltzer seeded in 1.2 ch 3/5/6; four openings recast;
+  em dashes in ch 1/3; four splits in ch 18) — made on the author's
+  instruction five days before the branch was scoped `environment`
+  (L068). All ten chapters were ACCEPTED; prose-guard flagged each
+  edit; the keeper read that re-accepts them was never run (the
+  workflow was declined). The lock now stops this branch touching
+  them again. Needs the author: merge them with the keeper read owed
+  to the book thread at its next fold, or revert them here and redo
+  from the story branch. Open — the environment thread's own PR asks.

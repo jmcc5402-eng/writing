@@ -41,10 +41,13 @@ different character and an offer, not a spend. Texture, not signal.)*
 ## Aisha — the drink
 
 - **default:** `sparkling water\|seltzer`
-- **established by:** ch 16 — **which is after the ch-11 spend.** Her
-  register was never designed, only noticed. Either seed seltzer into
-  ch 2–7 so the default is learned first, or drop this register and let
-  the coat carry her.
+- **established by:** ch 3, again at ch 5 and ch 6 (seeded 2026-09-16)
+
+  Originally established at ch 16 — *after* the ch-11 spend. The
+  register was never designed, only noticed. Three ordinary uses were
+  seeded into ch 3 / 5 / 6 so the default is learned before it is
+  spent; ch 6 is the one in Dan's POV, because he is the one who has
+  to have learned it for ch 18.
 
 | Ch | Substitution | What it says |
 |---|---|---|

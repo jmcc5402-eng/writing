@@ -39,6 +39,12 @@ have() { compgen -G "$NOTES/$1" >/dev/null 2>&1; }
 # Add to this list the day an instrument becomes load-bearing; that is
 # the ratchet.
 
+# The other thread's findings for THIS chapter. A row the author set to
+# BLOCK holds the gate; a FIX prints and does not. (L070)
+hoff="$(python3 "$REPO/studio/tools/handoff.py" --gate "$BOOK" "$CH" 2>&1)"; hrc=$?
+[[ -n "$hoff" ]] && printf '%s\n' "$hoff"
+((hrc == 2)) && missing+=("handoff: a row the author set to BLOCK is open for ch $CH — studio/threads/HANDOFF.md")
+
 have "ch${CH}-panel-*.md"     || missing+=("romance-reader-panel  → notes/ch${CH}-panel-<date>.md")
 have "ch${CH}*scoreboard*.md" || soft+=("no scoreboard — fine for a single-drafter chapter, required for a competition")
 
