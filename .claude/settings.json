@@ -23,6 +23,15 @@
             "command": "bash \"$CLAUDE_PROJECT_DIR/studio/tools/prose-guard.sh\""
           }
         ]
+      },
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 \"$CLAUDE_PROJECT_DIR/studio/tools/thread-scope.py\" --tree"
+          }
+        ]
       }
     ],
     "PreToolUse": [

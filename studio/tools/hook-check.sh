@@ -128,6 +128,27 @@ printf '{"tool_name":"Agent","tool_input":{"subagent_type":"drafting-assistant",
 printf '{"tool_name":"Agent","tool_input":{"subagent_type":"continuity-keeper","prompt":"read ch 25"}}' \
   | STUDIO_THREAD_SCOPE=environment expect 0 "thread-scope lets an environment branch launch a keeper" python3 "$TSP"
 
+# --- thread-scope: the inline-script hole and the two backstops (L068) ---
+# Payloads live in files: the hook would (correctly) block a command line
+# that carried these story paths, so the cases cannot be inline printf.
+python3 - "$T" <<'PY'
+import json, sys
+T = sys.argv[1]
+CH = "books/campus-series/book2/manuscript/ch05.md"
+def w(name, cmd):
+    open(f"{T}/{name}", "w").write(json.dumps({"tool_name": "Bash", "tool_input": {"command": cmd}}))
+w("ts-heredoc.json", 'python3 - <<PY\nopen("' + CH + '","w").write("x")\nPY\n')
+w("ts-var.json",     'python3 - <<PY\np = pathlib.Path("' + CH + '")\nt = p.read_text()\np.write_text(t)\nPY\n')
+w("ts-read.json",    'python3 - <<PY\nb = open("' + CH + '").read()\nopen("/tmp/out.md","w").write(b)\nPY\n')
+w("ts-studio.json",  'python3 - <<PY\npathlib.Path("studio/STYLE.md").write_text("x")\nPY\n')
+PY
+STUDIO_THREAD_SCOPE=environment expect 2 "thread-scope refuses a heredoc that writes a manuscript" python3 "$TSP" < "$T/ts-heredoc.json"
+STUDIO_THREAD_SCOPE=environment expect 2 "thread-scope refuses a path bound to a name then written" python3 "$TSP" < "$T/ts-var.json"
+STUDIO_THREAD_SCOPE=environment expect 0 "thread-scope lets a script READ a manuscript and write scratch" python3 "$TSP" < "$T/ts-read.json"
+STUDIO_THREAD_SCOPE=environment expect 0 "thread-scope lets a script write studio from python" python3 "$TSP" < "$T/ts-studio.json"
+STUDIO_THREAD_SCOPE=story expect 0 "thread-scope --tree is a no-op on a story branch" python3 "$TSP" --tree
+STUDIO_THREAD_SCOPE=story expect 0 "thread-scope --push is a no-op on a story branch" python3 "$TSP" --push
+
 # --- id-check (PreToolUse Bash, on git push) — L069 ----------------------
 printf '{"tool_name":"Bash","tool_input":{"command":"git push -u origin x"}}' \
   | expect 0 "id-check passes a push when no ID collides with another ref" python3 "$ROOT/studio/tools/id-check.py"

@@ -15,6 +15,8 @@
                    - an Agent launch of a drafter, a line editor or a
                      plot architect
     python3 studio/tools/thread-scope.py --show     prints the branch and its scope
+    python3 studio/tools/thread-scope.py --tree     story files dirty in the tree (exit 2)
+    python3 studio/tools/thread-scope.py --push     story files in the branch diff (exit 2)
     STUDIO_THREAD_SCOPE=environment  overrides the table for one shell
     --unlock-thread-scope            anywhere in a Bash command lets that one
                                      command through; it is visible in the transcript
@@ -28,9 +30,19 @@ failing in the usual way. This is the same rule as a lock: the thread
 can build the check and cannot apply the fix, so the fix goes to the
 book thread by the board and the check gets built. (L068)
 
-Known hole: a script that writes a story file from inside python or a
-heredoc is not parsed. The commit-scope hook and the PR diff are the
-second line.
+Three lines of defence, because one is never enough:
+  1. the command check below (fast, and it teaches);
+  2. `--tree` (PostToolUse on Bash): after ANY command, a story file
+     modified in the working tree is reported with the command to undo
+     it. This catches every write technique — python, a heredoc, an
+     editor, a script calling a script — because it reads the tree, not
+     the command;
+  3. `--push` (PreToolUse on Bash, on `git push`): the branch's own diff
+     against origin/main may contain no story path that is not waived in
+     SCOPES.md. Nothing reaches the remote, however it got written.
+
+The first live day proved the need: the per-command check let
+`python3 - <<PY / open("…/ch05.md","w") / PY` straight through. (L068)
 """
 from __future__ import annotations
 import fnmatch, json, os, re, shlex, subprocess, sys
@@ -127,6 +139,12 @@ def check_bash(ti: dict, br: str) -> int:
         return 0
     # Strip heredoc BODIES only. The first line stays, so `cat <<EOF > ch05.md`
     # still shows its redirection onto a story path.
+    # An inline script (heredoc body, python -c, perl -e) writing a story
+    # path is the hole the first live day found. Look for a write verb and
+    # a story path in the SAME statement, and for the two-line shape where
+    # a variable is bound to the path and written later.
+    if (rc := check_inline(cmd, br)):
+        return rc
     body = re.sub(r"(<<-?\s*['\"]?(\w+)['\"]?[^\n]*)\n.*?\n\2[ \t]*(?=\n|$)", r"\1", cmd, flags=re.S)
     for seg in re.split(r"&&|;|\|\||\n", body):
         seg = seg.strip()
@@ -166,6 +184,126 @@ def check_bash(ti: dict, br: str) -> int:
     return 0
 
 
+WRITE_VERB = re.compile(
+    r"""(?x)
+    open\s*\([^)]*?['"][wax]  |  \.write_text\s*\(  |  \.write\s*\(  |
+    \.writelines\s*\(        |  shutil\.(copy|copy2|copyfile|move)\s*\( |
+    os\.(replace|rename|remove|unlink)\s*\(           |  \.unlink\s*\(  |
+    \.rename\s*\(            |  \.touch\s*\(         |  \.mkdir\s*\(
+    """)
+STORY_LIT = re.compile(r"""['"]([^'"]*books/[^'"]+)['"]""")
+
+
+def is_push(cmd: str) -> bool:
+    """A real `git push` STATEMENT, not the words in a comment or a string.
+
+    The first run of this check fired on a heredoc that merely contained
+    the phrase "on git push" in a comment. A check that cries wolf gets
+    switched off, which turns it back into an instruction.
+    """
+    if "--unlock-thread-scope" in cmd:
+        return False
+    body = re.sub(r"(<<-?\s*['\"]?(\w+)['\"]?[^\n]*)\n.*?\n\2[ \t]*(?=\n|$)", r"\1", cmd, flags=re.S)
+    for seg in re.split(r"&&|;|\|\||\n", body):
+        seg = seg.strip().lstrip("(").strip()
+        if seg.startswith("#"):
+            continue
+        if re.match(r"(sudo\s+)?git\s+(-C\s+\S+\s+)?push\b", seg):
+            return True
+    return False
+
+
+def check_inline(cmd: str, br: str) -> int:
+    """A write verb and a story path inside one inline script.
+
+    Two shapes are caught: the path written in place
+    (`open("…/ch05.md","w")`), and the path bound to a name that is
+    written later (`p = Path("…/ch05.md")` … `p.write_text(x)`), which is
+    how anyone actually edits a file from python.
+    """
+    if not WRITE_VERB.search(cmd):
+        return 0
+    lines = cmd.splitlines()
+    bound = set()
+    for ln in lines:
+        story_here = [m for m in STORY_LIT.findall(ln) if is_story(m)]
+        if story_here and WRITE_VERB.search(ln):
+            return block(f"an inline script writes to {rel(story_here[0])}.", br)
+        if story_here:
+            m = re.match(r"\s*(\w+)\s*=", ln)
+            if m:
+                bound.add(m.group(1))
+        for name in list(bound):
+            if re.search(rf"\b{re.escape(name)}\s*\.\s*(write_text|write|writelines|unlink|rename|touch)\s*\(", ln) \
+               or re.search(rf"\b(shutil\.(copy|copy2|copyfile|move)|os\.(replace|rename|remove|unlink))\s*\([^)]*\b{re.escape(name)}\b[^)]*\)\s*$", ln):
+                return block(f"an inline script writes to the story path held in '{name}'.", br)
+    return 0
+
+
+def waivers(br: str) -> list[str]:
+    """Globs a branch may carry despite its scope — the `## Waivers` table."""
+    out = []
+    try:
+        lines = open(SCOPES, encoding="utf-8").read().splitlines()
+    except OSError:
+        return out
+    inw = False
+    for line in lines:
+        if line.startswith("## "):
+            inw = line.strip("# ").lower().startswith("waiver")
+            continue
+        if not inw or not line.startswith("|"):
+            continue
+        cells = [c.strip() for c in line.strip().strip("|").split("|")]
+        if len(cells) < 2 or not cells[0].startswith("`"):
+            continue
+        if fnmatch.fnmatchcase(br, cells[0].strip("`")):
+            out += [g.strip().strip("`") for g in cells[1].split(",") if g.strip()]
+    return out
+
+
+def dirty_story() -> list[str]:
+    out = git("status", "--porcelain")
+    return sorted({ln[3:].split(" -> ")[-1].strip().strip('"')
+                   for ln in out if ln.strip() and is_story(ln[3:].split(" -> ")[-1].strip().strip('"'))})
+
+
+def diff_story(base: str = "origin/main") -> list[str]:
+    return [f for f in git("diff", "--name-only", f"{base}...HEAD") if is_story(f)]
+
+
+def check_tree(br: str) -> int:
+    """PostToolUse: the tree is the truth. Any write technique lands here."""
+    bad = dirty_story()
+    if not bad:
+        return 0
+    print(f"thread-scope: STORY FILES ARE DIRTY on '{br}', an environment branch.", file=sys.stderr)
+    for f in bad[:8]:
+        print(f"    {f}", file=sys.stderr)
+    if len(bad) > 8:
+        print(f"    …and {len(bad) - 8} more", file=sys.stderr)
+    print("  Something wrote a chapter, brief, card or note. Undo it now:", file=sys.stderr)
+    print(f"    git checkout -- {' '.join(bad[:4])}{' …' if len(bad) > 4 else ''}", file=sys.stderr)
+    print("  Then put the page fix on the board for the book thread and build the check here.", file=sys.stderr)
+    return 2
+
+
+def check_push(br: str) -> int:
+    """PreToolUse on `git push`: nothing story-shaped reaches the remote."""
+    waived = waivers(br)
+    bad = [f for f in diff_story() if not any(fnmatch.fnmatchcase(f, g) for g in waived)]
+    if not bad:
+        return 0
+    print(f"thread-scope: BLOCKED — '{br}' is scoped 'environment' and its diff "
+          f"against origin/main carries {len(bad)} story file(s):", file=sys.stderr)
+    for f in bad[:8]:
+        print(f"    {f}", file=sys.stderr)
+    print("  The command check can be evaded; the diff cannot. Drop them from the", file=sys.stderr)
+    print("  branch, or waive them by name in the `## Waivers` table of", file=sys.stderr)
+    print("  studio/threads/SCOPES.md with a reason and an expiry.", file=sys.stderr)
+    return 2
+
+
 def check_agent(ti: dict, br: str) -> int:
     kind = (ti.get("subagent_type") or "").lower()
     if any(d in kind for d in DENIED_AGENTS):
@@ -176,6 +314,12 @@ def check_agent(ti: dict, br: str) -> int:
 def main() -> int:
     br = branch()
     sc = scope_of(br)
+    for flag, fn in (("--tree", check_tree), ("--push", check_push)):
+        if flag in sys.argv:
+            if sc != "environment":
+                print(f"thread-scope: '{br}' is scoped '{sc}' — nothing to check")
+                return 0
+            return fn(br)
     if "--show" not in sys.argv:
         try:
             payload = json.load(sys.stdin)
@@ -186,6 +330,9 @@ def main() -> int:
         tool = payload.get("tool_name") or ""
         ti = payload.get("tool_input") or {}
         if "command" in ti and (tool in ("", "Bash")):
+            if is_push(ti.get("command") or ""):
+                if (rc := check_push(br)):
+                    return rc
             return check_bash(ti, br)
         if "subagent_type" in ti:
             return check_agent(ti, br)

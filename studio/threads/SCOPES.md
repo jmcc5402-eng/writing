@@ -39,6 +39,17 @@ Ledger: L068.
 | `campus/*` | story | |
 | `claude/ch5-recut-campus-*` | story | the campus 1.2 thread |
 
+## Waivers — story paths a branch already carries
+
+`thread-scope.py --push` refuses a push while an environment branch's
+diff against `origin/main` contains a story path. A path listed here is
+allowed anyway. A waiver names its reason and what ends it; it is meant
+to look like debt, because it is.
+
+| Branch | Paths (comma-separated globs) | Why | Until |
+|---|---|---|---|
+| `claude/model-fable-y2vo9s` | `books/campus-series/book2/manuscript/ch*.md` | the 2026-09-16 sameness pass — ten accepted chapters, edited on the author's instruction five days before this branch was scoped (BACKLOG F61). The keeper read that re-accepts them was never run | the author rules A or B on PR #183; then this row is deleted |
+
 ## Changing a scope
 
 Edit the row and say why in the commit. A thread that needs to touch
