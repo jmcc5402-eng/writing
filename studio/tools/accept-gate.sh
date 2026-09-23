@@ -117,6 +117,13 @@ if (( 10#$CH >= TARGETS_FROM )) && [[ -f "$REPO/studio/tools/targets-check.py" ]
   printf '%s\n' "$tc" | sed 's/^/  /'
 fi
 
+# How far the readers' numbers have run from the author's. Reported, never
+# blocking: an instrument running hot is a reason to weigh its number, not a
+# reason to stop the book. (L075)
+if [[ -f "$REPO/studio/tools/calibration.py" ]]; then
+  python3 "$REPO/studio/tools/calibration.py" "$BOOKDIR" --gate 2>/dev/null || true
+fi
+
 # The reader tests (studio/lessons/reader-tests.txt): each row names a
 # reader, a test, and a token that must appear on a TESTS: line in the
 # chapter's verdict file. Adding a row there makes this gate demand the

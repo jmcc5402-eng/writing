@@ -34,11 +34,21 @@ run() {
   out="$("$@" 2>&1)"; rc=$?
   if ((rc == 0)); then
     passes+=("$name")
-  else
-    fails+=("$name")
-    printf '\n\033[1m── %s ─────────────────────────\033[0m\n' "$name"
-    printf '%s\n' "$out"
+    return
   fi
+  # A finding already on the handoff board, or already ruled by the author,
+  # prints as a count rather than a block (studio/threads/ACKED.md; L074).
+  local filtered raw_n left_n
+  raw_n="$(grep -c '✗' <<<"$out" || true)"
+  filtered="$(python3 "$ROOT/studio/tools/ack.py" --filter <<<"$out" 2>/dev/null || printf '%s' "$out")"
+  left_n="$(grep -c '✗' <<<"$filtered" || true)"
+  if ((raw_n > 0 && left_n == 0)); then
+    passes+=("$name  (all $raw_n finding(s) acknowledged)")
+    return
+  fi
+  fails+=("$name")
+  printf '\n\033[1m── %s ─────────────────────────\033[0m\n' "$name"
+  printf '%s\n' "$filtered"
 }
 
 echo "guardrails  ($BOOK)"
@@ -52,6 +62,9 @@ echo
 run "roster staleness"  python3 studio/tools/roster-staleness.py --quiet
 run "thread ids"        python3 studio/tools/id-check.py --audit
 run "handoff board"     python3 studio/tools/handoff.py --audit
+run "proposals"         python3 studio/tools/proposal-lint.py
+run "comment census"    python3 studio/tools/comment-census.py --audit
+run "calibration"       python3 studio/tools/calibration.py "$BOOK/book2"
 run "bans fire"         python3 studio/tools/bans.py --test
 run "lesson ledger"     python3 studio/tools/lesson-check.py
 run "hooks refuse"      bash studio/tools/hook-check.sh

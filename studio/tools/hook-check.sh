@@ -197,6 +197,40 @@ shape() { bash "$ROOT/studio/tools/chapter-lint.sh" "$1" 2>&1 | sed -n '/SENTENC
   && expect 0 "chapter-lint SENTENCE SHAPE stays quiet on varied prose" true \
   || expect 0 "chapter-lint SENTENCE SHAPE stays quiet on varied prose" false
 
+# --- proposal-lint (L072) ------------------------------------------------
+expect 0 "proposal-lint passes the open proposals as written" python3 "$ROOT/studio/tools/proposal-lint.py"
+mkdir -p "$T/proposals"
+python3 - "$T" <<'PY'
+import sys
+T = sys.argv[1]
+base = ("Status: OPEN\n\n## What\nx\n\n## Found by\n`grep x`\n\n## Where\nstudio/STYLE.md:1\n\n"
+        "## Now\n```\n%s\n```\n\n## Proposed\n```\nsomething else entirely\n```\n\n"
+        "## Why\nx\n\n## Verify\n`grep -c x studio/STYLE.md`\n")
+open(f"{T}/proposals/P900.md", "w").write(base % "TEXT THAT IS NOT IN THAT FILE AT ALL")
+open(f"{T}/proposals/P901.md", "w").write(
+    "Status: OPEN\n\n## What\nx\n\n## Where\nstudio/STYLE.md:1\n\n## Now\n```\na\n```\n")
+PY
+expect 2 "proposal-lint refuses a Now block that is not in the file" python3 "$ROOT/studio/tools/proposal-lint.py" "$T/proposals/P900.md"
+expect 2 "proposal-lint refuses a proposal missing sections" python3 "$ROOT/studio/tools/proposal-lint.py" "$T/proposals/P901.md"
+
+# --- ack + calibration (L074, L075) --------------------------------------
+printf '  \xe2\x9c\x97 book2/ch18  sentence lengths too uniform: CV 0.54\n' \
+  | expect 0 "ack --filter suppresses a finding tracked on the board" bash -c \
+  'out=$(python3 "'"$ROOT"'/studio/tools/ack.py" --filter); grep -q "acknowledged, not shown" <<<"$out"'
+printf '  \xe2\x9c\x97 something nobody has ever acknowledged at all\n' \
+  | expect 0 "ack --filter passes an unacknowledged finding through" bash -c \
+  'out=$(python3 "'"$ROOT"'/studio/tools/ack.py" --filter); grep -q "nobody has ever" <<<"$out"'
+expect 0 "calibration reports and refuses to judge under its floor" python3 "$ROOT/studio/tools/calibration.py" "$ROOT/books/campus-series/book2"
+python3 - "$T" <<'PY'
+import pathlib, sys
+T = sys.argv[1]
+d = pathlib.Path(T, "bk", "notes"); d.mkdir(parents=True, exist_ok=True)
+(d / "romance-levels.md").write_text(
+    "| Ch | Author | Panel |\n|---|---|---|\n"
+    "| 1 | **2** | **6** |\n| 2 | **3** | **7** |\n| 3 | **3** | **8** |\n")
+PY
+expect 2 "calibration fails an instrument running outside tolerance" python3 "$ROOT/studio/tools/calibration.py" "$T/bk"
+
 # --- the bans' own fixtures --------------------------------------------
 expect 0 "bans.py --test: every ban fires on its fixture" python3 "$ROOT/studio/tools/bans.py" --test
 

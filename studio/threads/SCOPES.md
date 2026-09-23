@@ -48,7 +48,7 @@ to look like debt, because it is.
 
 | Branch | Paths (comma-separated globs) | Why | Until |
 |---|---|---|---|
-| `claude/model-fable-y2vo9s` | `books/campus-series/book2/manuscript/ch*.md` | the 2026-09-16 sameness pass — ten accepted chapters, edited on the author's instruction five days before this branch was scoped (BACKLOG F61). The keeper read that re-accepts them was never run | the author rules A or B on PR #183; then this row is deleted |
+| *(none — the 2026-09-16 waiver was retired when #183 merged, which accepted those ten chapters onto main)* | | | |
 
 ## Changing a scope
 
