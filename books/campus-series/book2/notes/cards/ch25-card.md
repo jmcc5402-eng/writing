@@ -4,10 +4,10 @@ Aisha, Tuesday the twenty-sixth of January. Three blind drafters.
 
 **Targets.**
 
-Romance 6 · Heat 1 · Aisha 3 · Dan 2 · Wound 3 · Fun 1 · Town 3 · Menace 2 · Ends down · Talk quiet · Words 3400 · Pays Aisha
+Romance 6 · Heat 1 · Aisha 3 · Dan 2 · Wound 3 · Fun 1 · Town 3 · Menace 1 · Ends down · Talk quiet · Words 3400 · Pays Aisha
 
-Changed from the plan: heat 3 to 1, since they share no room. Dan and
-menace 1 to 2, because his words run her morning.
+Changed from the plan: heat 3 to 1, since they share no room. Dan 1
+to 2, because his words run her morning.
 
 **The plot.**
 
@@ -22,15 +22,14 @@ cook leaves the Slice where it is.
 
 At nine the offer comes in writing. A directorship out west, answer
 by Saturday the sixth. Boyd put her name in that pipe. She packs her
-office in an afternoon. At Mt. Nebo, Delores says the boy has one
-head, whatever the radio thinks. Verna won't take February's rent.
+office in an afternoon. At Mt. Nebo, Delores takes her side, plainly. Verna won't take February's rent.
 At night she rereads the Cordelia letter, its last line as you
 blessed it. She chooses the offer.
 
 **Aisha.**
 
-Turned. She settles every account before she goes, which is the
-wound. She leaves because nobody asked her to stay, and the one man
+Turned. At the radio the wound tears open, inside her head and
+angry, as you ruled. Then she settles every account before she goes. She leaves because nobody asked her to stay, and the one man
 who might have just told the county he would have played the boy.
 
 **Dan.**
