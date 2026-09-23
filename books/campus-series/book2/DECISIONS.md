@@ -1117,7 +1117,8 @@ lines in ch 24 (6), each quoted in the PR. The author's rule since
       the trap in the question.
     - **The wrong thing — it must really hurt her (author, 2026-09-23:
       "it still needs to come out as saying the wrong thing and really
-      screwing her over"; AUTHOR-NOTES 269).** DEFAULT (A): the
+      screwing her over"; AUTHOR-NOTES 269). A RULED (author,
+      2026-09-23: "A is perfect"; AUTHOR-NOTES 270).** The
       reviewer asks whether, knowing what he knows now, he would have
       played Trey on the nineteenth. He answers as the coach he used
       to be: "Every coach in the country plays him. I'd have played
@@ -1126,7 +1127,7 @@ lines in ch 24 (6), each quoted in the PR. The author's rule since
       was wrong; the letter's case gets its best witness, and it is
       the man who loves her. Ch 27, he finishes it: I said I'd have
       played him; that is exactly why the rule says I don't decide.
-      ALTERNATIVE (B, the harder hit): asked whether she discussed
+      STRUCK (B, the harder hit, not taken): asked whether she discussed
       Trey with him outside the building, he answers the feeling, not
       the question: "We talked about everything." It guts her
       independence and points at the relationship in season (the
