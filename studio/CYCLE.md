@@ -74,8 +74,8 @@ waiting for the next one) · `RELEASED`.
 **The studio's** (before the held book can release — the gate checks):
 
 - [ ] Pre-launch review of 1.1, glaring errors only (O002)
-- [ ] `front-matter.md` for 1.1 — title page, copyright, disclaimer
-- [ ] `back-matter.md` for 1.1 — continue-the-series link to 1.2, newsletter, review request
+- [ ] `studio/launch/campus-series/front-matter.md` for 1.1 — title page, copyright, disclaimer
+- [ ] `studio/launch/campus-series/back-matter.md` for 1.1 — continue-the-series link to 1.2, newsletter, review request
 - [ ] Clean export (`python3 studio/tools/export-book.py books/campus-series`)
 
 See `studio/gtm/kdp-launch-mechanics-2026-09-03.md` for each step. The

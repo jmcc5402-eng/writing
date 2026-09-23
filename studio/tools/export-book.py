@@ -23,7 +23,11 @@ the customer receives, not the source it was built from. (L082)
 Front and back matter (title page, copyright, the series call to action
 that `kdp-launch-mechanics` says is "where KU series money is actually
 made") are reported as missing until `front-matter.md` and
-`back-matter.md` exist beside the manuscript.
+`back-matter.md` exist in `studio/launch/<slug>/`, where the slug is the
+book directory under `books/` with `/` as `-` (1.1 is `campus-series`,
+1.2 is `campus-series-book2`). Launch material lives in `studio/`
+because the delivery thread is scoped off `books/` (AUTHOR-NOTES 268).
+A copy beside the manuscript is still read if `studio/launch/` has none.
 """
 from __future__ import annotations
 import os, pathlib, re, sys
@@ -47,6 +51,20 @@ LEAKS = [
 
 def chapters(book: pathlib.Path) -> list[pathlib.Path]:
     return sorted((book / "manuscript").glob("ch[0-9][0-9].md"))
+
+
+def launch_dir(book: pathlib.Path) -> pathlib.Path:
+    """studio/launch/<slug>/ — books/campus-series/book2 -> campus-series-book2."""
+    try:
+        slug = str(book.relative_to(pathlib.Path(REPO, "books"))).replace("/", "-")
+    except ValueError:
+        slug = book.name
+    return pathlib.Path(REPO, "studio", "launch", slug)
+
+
+def matter(book: pathlib.Path, name: str) -> pathlib.Path:
+    launch = launch_dir(book) / name
+    return launch if launch.exists() or not (book / name).exists() else book / name
 
 
 def reader_text(path: pathlib.Path) -> str:
@@ -78,7 +96,7 @@ def main() -> int:
         print(f"export-book: no manuscript/chNN.md under {book}")
         return 0
     parts = []
-    front, back = book / "front-matter.md", book / "back-matter.md"
+    front, back = matter(book, "front-matter.md"), matter(book, "back-matter.md")
     if front.exists():
         parts.append(front.read_text(encoding="utf-8").strip() + "\n")
     parts += [reader_text(c) for c in chs]
@@ -101,7 +119,7 @@ def main() -> int:
     bad = lint(out)
     missing = [n for n, p in (("front-matter.md", front), ("back-matter.md", back)) if not p.exists()]
     for n in missing:
-        print(f"  MISSING: {n} — a shippable book needs it (studio/gtm/kdp-launch-mechanics-2026-09-03.md §2b)")
+        print(f"  MISSING: {launch_dir(book).relative_to(REPO)}/{n} — a shippable book needs it (studio/gtm/kdp-launch-mechanics-2026-09-03.md §2b)")
     if not bad and not missing:
         print("  clean — nothing from the workshop reaches the reader")
         return 0
