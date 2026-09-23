@@ -108,6 +108,20 @@ list in the agent's invocation as "banned moves this run."
   WARNs on it).
 - BANNED: giving every speaker a punchline; write one flat line for a
   named character and let it lie there.
+- BANNED (the developmental editor by hand on 1.2 ch 24; HANDOFF
+  H003, 2026-09-22 — five shapes across ch 21–24 that no instrument
+  reads): the `said, to the <object>` dialogue tag ("she said, to the
+  windshield" — 3/2/1 across three chapters); heart-in-hand THEN
+  stomach-dropped, in that order; "in daylight"; "was the paper"; and
+  the alone-at-night ending (banned above; it ran three chapters
+  running anyway — the brief now names where the chapter ends
+  instead). Two clean runs each and the entry drops.
+- THE TAIL (HANDOFF H001, L071, 2026-09-22): ch 18–24 ran metronomic
+  (CV 0.52–0.57 against 0.78–0.89 before) because the lint printed
+  every sentence over thirty as a violation and the drafter learned
+  "never". Rule 7 says ORDINARILY. One or two sentences a chapter may
+  run to forty and more; some run under eight. `chapter-lint`
+  SENTENCE SHAPE finds a missing tail; read it before delivering.
 - QUOTA: three personifications per chapter, no more.
 
 

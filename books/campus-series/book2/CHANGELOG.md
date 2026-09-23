@@ -2,6 +2,26 @@
 
 Manuscript-affecting changes, newest first. (Hard rule 6.)
 
+## 2026-09-21 — ch 24 "Pending Review" drafted: three blind candidates, B wins (chapter PR) — THE SECOND TRIAL OF THE AUTHOR-PROXY
+
+- The card and the brief (with THE AUTHOR'S READ, seven columns —
+  FUN new) audited together by the keeper (E1): six blocks — the
+  count moved behind the ten o'clock statement; Aisha leaves at noon
+  in daylight; the aldermen's vote is the town's side of Millrow
+  rezoned, not the university's ground; Earlene speaks, never types;
+  the opening off the Checkerboard counter; six example sentences
+  banned — and eleven non-blocking fixes. The ending moved to her
+  empty office door at the annex.
+- Three blind drafters (D2, D3, D4), each read FIRST by author-proxy
+  1.1.0 (rating on the author's scale; the stakes-blatant line; the
+  apart-why; FUN), then by the blind panel on the card-blind copy
+  (the first). Every reader: romance 4–5 on the author's scale, the
+  stake blatant, the same four asks (her side of the window; her in
+  the middle and the ending; Boyd named once; one room he is not
+  alone in). B wins (`notes/ch24-scoreboard-2026-09-21.md`).
+- The revision pass on B: the proxy's eight, the panel's five, the
+  four shared asks.
+
 ## 2026-09-21 — ch 23 ACCEPTED (#180) and folded; the author's comments applied (fold PR; B2-D30)
 
 - The author's comments (#180 and chat), applied by the drafter: (1)
@@ -241,6 +261,20 @@ The accept gate holds until the keeper's page audit at the fold.
 
 Not on the page (not ruled): she does not tell him about Boyd's
 directorship offer — the superfan's flag stands for the author.
+## 2026-09-22 — the keeper's re-accept read of the sameness pass
+
+PR #183 edited ten accepted chapters without the keeper page audit
+that re-accepts them (BACKLOG F61). Run today by the story thread:
+`notes/sameness-pass-keeper-2026-09-22.md`. 21 hunks: 16 CLEAN, 3
+FACT (the register seed — "seltzer" on three pages two days after
+B2-D23.5 ruled the page says sparkling water; ch 3:335 stages Aisha
+indoors before she has crossed Verna's threshold and adds a dialogue
+line), 1 VOICE (ch 11 now opens on "She" — the establishing line),
+1 mechanical (ch 3:270–273, a comma opening what a dash closes).
+VERDICT: RE-ACCEPT EXCEPT X1–X4. Fixes proposed, not applied; they
+wait for the branch to be free of prose and land with the ch 24 fold.
+Pre-existing "seltzer" on ch 11/16/17/18 is the author's sweep call.
+
 ## 2026-09-16 — SAMENESS PASS, ch 1 / 3 / 9 / 10 / 11 / 15 / 17 / 18
 
 Mechanical only. No story, no beat, no line of dialogue changed.

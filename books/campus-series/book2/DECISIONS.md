@@ -987,7 +987,10 @@ day (AUTHOR-NOTES 238–244).
 5. **Epigraphs: some funny.** Taste 19 amended: light AND sometimes
    funny, the real board's register; at least every third epigraph is
    a laugh; ch 23's gets one in the fold.
-6. **Kat's surprise wine night — PROPOSED, the author's go.** "What
+6. **Kat's surprise wine night — RULED NO (author, 2026-09-21: "Kat's
+   wine night is good as is. No change needed.").** The wine night the
+   book has (ch 11) stands; no surprise scene in 23 or 25; Kat stays a
+   text in 23. The FUN question stands. The proposal as it was: "What
    about a scene where Kat shows up as a surprise with some listings
    and a bottle of wine, just to take the edge off the book." A
    structural change to ch 23's last scene: Kat's headlights in
