@@ -3,6 +3,20 @@
 Newest first. Every entry: version, what changed, and the evidence that
 drove it.
 
+## 2026-09-23 — author-proxy 1.1.1: two of eight on ch 24, and what it missed as a stranger
+
+The second trial scored SAID 2 · MISSED 3 · NEW 3 against the author's
+eight comments on #182 (notes/ch24-proxy-score-2026-09-23.md; ch 23
+was 0 · 5 · 3). The two SAIDs were the big questions it was rebuilt to
+lead with: Dan folding too fast, and what the job costs him. The three
+misses were things the author catches reading as a stranger to the
+book's rules — "Film's at four," the town room's shrug — and a turning
+point from ch 22 not carried. The three NEWs are one new want: the
+argument fair on both sides (taste 23). Four reads added: CONFUSING as
+a stranger; POINT, is the setback believable; WHO, does the other side
+have a fair case; MORE, is the owed moment carried. The TESTS tokens
+are unchanged; reader-tests L091–L095 name the reads, from ch 25.
+
 ## 2026-09-21 — author-proxy 1.1.0: scored against the author's real comments — zero of seven
 
 The experiment ran. The author's seven comments on ch 23 (#180 and
