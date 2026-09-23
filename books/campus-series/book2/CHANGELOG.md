@@ -261,6 +261,39 @@ The accept gate holds until the keeper's page audit at the fold.
 
 Not on the page (not ruled): she does not tell him about Boyd's
 directorship offer — the superfan's flag stands for the author.
+## 2026-09-23 — the ch 24 fold: the author's comments on the page (B2-D31)
+
+The author's eight comments on #182 were answered in #190 (B2-D31) and
+ruled. Forward, not backward: everything lands in ch 25–30 except the
+lines below, each a single line the author approved by quote.
+
+- **ch 24 l.154–156 (D31.6a).** After "a board had known what he was
+  once before anybody said it to his face": a head job at this level
+  was the dream job, fought for every day, because somebody was always
+  trying to pull him down. The author's comment on that line.
+- **ch 24 l.179–181 (D31.6b).** "Nobody in the town room cared what the
+  review found. / They cared who had tracked it in on her shoes." became
+  the county hating the doctor fine in the rooms built for it, and this
+  room turning on DeeAnn for tracking her in. The author read the shrug
+  as the town not caring.
+- **ch 24 l.262–263 (D31.6c).** After "That was the whole line.": the
+  one thing a coach could say in a parking lot with the lawyer in his
+  ear — practice at four, he would be at it, and she would not. The
+  author could not decode "Film's at four."
+- **ch 16 l.242 (D31.1).** A third local on Millrow, after "She might.":
+  "Anybody else's doctor would've had him back Saturday." Her call is
+  arguable before the suspension.
+- **The sameness-pass fixes (the keeper's X1–X4, 2026-09-22).** ch 3
+  l.272 the appositive closes with a comma; ch 3 l.335 the can is
+  sparkling water brought from the car, "Set on the rest." cut, and the
+  clamshell goes into her free hand; ch 5 l.133 and ch 6 l.109
+  "seltzer" to "sparkling water" (B2-D23.5; D31.9 — ch 11, 16, 17, 18
+  stay as written); ch 11 l.21 opens on "Aisha Cole".
+
+Not touched, on purpose: the pre-existing bans hits on ch 3, 5, 6 and 11
+and ch 24's talk-to-body ratio (HANDOFF H007) are floors for ch 25 on,
+not revisions.
+
 ## 2026-09-22 — the keeper's re-accept read of the sameness pass
 
 PR #183 edited ten accepted chapters without the keeper page audit
