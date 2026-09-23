@@ -19,8 +19,16 @@ Rules:
    line breaks are for the diff, not for chaining: a narration
    sentence is ordinarily under thirty words and never carries more
    than three "and"s; a paragraph is never one long sentence.
-   **"Ordinarily" is a budget, not a ban (PROPOSED 2026-09-23 — the
-   author rules on PR #186).** One or two sentences a chapter SHOULD
+   **The ban is the CHAIN, not the length (author, merging #186):**
+   *"the spirit of this problem was not about long sentences that are
+   well formatted, it was about weird clause-like long sentences that
+   had seven commas in them."* Four or more commas in a narration
+   sentence is the finding; the chapter lint counts them. Ch 17, the
+   chapter that drew the complaint, ran 21.7% of its narration at four
+   or more commas and a maximum of nine. Ch 14, which nobody
+   complained about, ran 9.2% with sentences of 71 words. **Length was
+   never the problem.**
+   **"Ordinarily" is a budget, not a ban (RULED 2026-09-23, #186).** One or two sentences a chapter SHOULD
    run past thirty; a chapter with none has lost its long tail. Before
    2026-09-13 this book ran 10–35% of sentences over thirty and a CV
    of 0.78–0.89; under the cap as the lint enforced it, ch 18–24 run
