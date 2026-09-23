@@ -1026,7 +1026,9 @@ lines in ch 24 (6), each quoted in the PR. The author's rule since
    the town's version is that anybody else's doctor would have had
    the boy back for the playoff. PLANTED once before the suspension —
    ch 16, the two locals on Millrow, a third line after "She might.":
-   "Anybody else's doctor would've had him back Saturday." FORWARD:
+   "Anybody else's doctor would've had him back tonight." (Keeper at
+   the fold, 2026-09-23: "tonight," not "Saturday" — it is said walking
+   home from the game on the nineteenth.) FORWARD:
    ch 25, a man at the Checkerboard counter says the same thing in
    her hearing; ch 27, the independent reviewer's first question is
    why her ladder ran slower than other programs'. Ch 28's finding
@@ -1089,7 +1091,9 @@ lines in ch 24 (6), each quoted in the PR. The author's rule since
    for tracking her in. (c) After "Film's at four" / "That was the
    whole line." (l.255–257), one sentence of what it meant: the only
    thing a coach could say in a parking lot with the lawyer in his
-   ear — practice at four, and he would be at it, and she would not.
+   ear — film at four, and he would be at work, and she would not.
+   (Keeper at the fold: "film," not "practice" — there is no practice
+   until spring, ch 20:241, 21:47; "at work" says what she lost.)
 7. **Ch 25: she does not call Dan the night she decides.** He learns
    in 26 from the AD, which deepens (5). Alternative: she calls, tells
    him the offer and the date, and he says the true thing one chapter

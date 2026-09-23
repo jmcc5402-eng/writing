@@ -1295,7 +1295,7 @@ because somebody is always trying to pull him down (D31.6a); noon in
 the annex lot, one box and the heat on; he crosses in the rain, taps
 the glass, his body across eight sentences; **"Film's at four"** —
 the one thing a coach can say in a parking lot with the lawyer in his
-ear: practice at four, he will be at it, she will not (D31.6c); "I
+ear: film at four, he will be at work, she will not (D31.6c); "I
 know"; she does not ask him to speak, and he sees her not ask — the
 wound (nobody ever spent anything on her); the window goes up; film
 at four with the staff; the Coach's Slice at six, the cook's

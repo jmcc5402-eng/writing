@@ -278,11 +278,19 @@ lines below, each a single line the author approved by quote.
   as the town not caring.
 - **ch 24 l.262–263 (D31.6c).** After "That was the whole line.": the
   one thing a coach could say in a parking lot with the lawyer in his
-  ear — practice at four, he would be at it, and she would not. The
+  ear — film at four, he would be at work, and she would not. The
   author could not decode "Film's at four."
-- **ch 16 l.242 (D31.1).** A third local on Millrow, after "She might.":
-  "Anybody else's doctor would've had him back Saturday." Her call is
-  arguable before the suspension.
+- **ch 16 l.242 (D31.1).** A third line from the two locals on Millrow,
+  after "She might.": "Anybody else's doctor would've had him back
+  tonight." Her call is arguable before the suspension.
+- **The keeper's fold audit (notes/ch24-fold-keeper-2026-09-23.md):**
+  RE-ACCEPT EXCEPT four, all applied. ch 16 "Saturday" → "tonight"
+  (it is game night); ch 24 the dream-job sentence split in two (37
+  words, 88 columns); ch 24 the town room's shrug given to the room,
+  not the county ("Its verdict on the doctor was a shrug." / "The town
+  room could read her name…") — the fold's new line had the county
+  hating her six lines before it shrugged; ch 24 "Practice" → "Film"
+  and "at it" → "at work" (no practice until spring).
 - **The sameness-pass fixes (the keeper's X1–X4, 2026-09-22).** ch 3
   l.272 the appositive closes with a comma; ch 3 l.335 the can is
   sparkling water brought from the car, "Set on the rest." cut, and the
