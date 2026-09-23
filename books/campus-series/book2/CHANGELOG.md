@@ -2,6 +2,45 @@
 
 Manuscript-affecting changes, newest first. (Hard rule 6.)
 
+## 2026-09-23 — ch 25 "Boxes" drafted: three blind candidates, A wins (chapter PR) — THE FIRST CHAPTER ON THE AUTHOR'S DAN RULINGS
+
+- The card and the brief re-written on B2-D31 (the review interview:
+  "Every coach in the country plays him. I'd have played him."; the
+  wound tears open, inside her head, angry, "I knew it") and audited
+  again by the keeper before any drafter (E6): VERDICT 2 PASS.
+- Three blind drafters (D1 sound-forward, D2 hands and objects, D3
+  short declarative), each read first by author-proxy 1.1.1 (the four
+  new stranger's reads), then by the blind panel. All readers: romance
+  4–5 on the author's scale; the radio moment landed as asked. The
+  card-blind copy leaked two target changes to all three panels; each
+  panel set heat from the page, and the tool now strikes them (L097).
+- A wins (`notes/ch25-scoreboard-2026-09-23.md`): clean on every lint,
+  the only body run not templated on ch 23, and a reason for leaving
+  that keeps Dan responsible ("He had not asked."). B (over length,
+  CV 0.59, opening shared with ch 17) and C (its ending forgives him;
+  its body run templates ch 23) to `notes/candidates/`.
+- Revision pass (D4): the proxy's and panel's asks; B's "He had not
+  had a sentence for her at that window. He had found one for the
+  review." ported as a move; his last text from before reaches her.
+  The trainer money drop in the brief was cut — none left to drop
+  (registry 222).
+- Score (`notes/scores/ch25-score.md`): Aisha 3, Dan 1, wound 3, town
+  3, menace 2; THE BILL paid — the head coach's public backing, taken
+  on 1340.
+- Keeper page audit (E1): ACCEPT WITH FIXES. B1 cut Delores's "Not the
+  coach's." (the half he meant belongs to ch 27); B3 moved the last
+  image off ch 23's office light; N1–N3, N7, N8 one-word fixes.
+- Fix pass (D6): the parka paragraph recast off ch 23's body template;
+  her anger acts once (his numbered box turned to the wall); the
+  Cordelia letter set beside the rent envelope in daylight; the cook's
+  slice decoded; the clock clauses (Verna phoned Delores; the coat at
+  nine; "until the sixth"). Lints: 3,596 words, talk 8.6%, talk:body
+  1.10, CV 0.60, no chains.
+- Open for the author: romance planned 6, read 4–5; whether the Table
+  spends its one suspicion here; the email's "what we talked about"
+  (N9); the wound named at the letter (N11); Verna's anchor line,
+  convergent across all three drafters (N13).
+
 ## 2026-09-21 — ch 24 "Pending Review" drafted: three blind candidates, B wins (chapter PR) — THE SECOND TRIAL OF THE AUTHOR-PROXY
 
 - The card and the brief (with THE AUTHOR'S READ, seven columns —

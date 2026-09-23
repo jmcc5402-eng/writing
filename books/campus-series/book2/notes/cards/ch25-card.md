@@ -11,8 +11,8 @@ to 2, because his words run her morning.
 
 **The plot.**
 
-Half past seven at the Checkerboard. The cook fills her cup on the
-house and sets the Coach's Slice at her elbow, unasked. Then 1340
+Half past seven at the Checkerboard. Earlene fills her cup on the
+house and the cook sets the Coach's Slice at her elbow, unasked. Then 1340
 reads the leak from the review. Asked if he would have played Trey,
 Coach Merritt said every coach plays him, and he would have. The
 department answers in his name: full confidence in the review. Twelve
