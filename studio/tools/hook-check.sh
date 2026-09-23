@@ -303,6 +303,15 @@ printf '{"tool_input":{"title":"[campus][RELEASE] Book 1.1 to KDP","body":"## As
   && expect 0 "scorecard attributes chat notes to their chapter (ch 23 repeats MORE)" true \
   || expect 0 "scorecard attributes chat notes to their chapter (ch 23 repeats MORE)" false
 
+# --- export-book and the shippable gate (L082) ---------------------------
+mkdir -p "$T/eb/manuscript"
+printf '# Chapter 1 - X\n\nPOV: A.\n(ACCEPTED by #1, card D2)\n\n---\n\nShe walked in.\n' > "$T/eb/manuscript/ch01.md"
+printf 'Title page.\n' > "$T/eb/front-matter.md"; printf 'Read book two.\n' > "$T/eb/back-matter.md"
+expect 0 "export-book strips the production header and passes clean prose" python3 "$ROOT/studio/tools/export-book.py" "$T/eb" --check
+printf '# Chapter 2 - Y\n\n---\n\nShe said [TK the name] and left.\n' > "$T/eb/manuscript/ch02.md"
+expect 2 "export-book refuses workshop text in the reader-facing prose" python3 "$ROOT/studio/tools/export-book.py" "$T/eb" --check
+expect 2 "export-book reports Book 1.1 missing front and back matter" python3 "$ROOT/studio/tools/export-book.py" "$ROOT/books/campus-series" --check
+
 # --- the bans' own fixtures --------------------------------------------
 expect 0 "bans.py --test: every ban fires on its fixture" python3 "$ROOT/studio/tools/bans.py" --test
 

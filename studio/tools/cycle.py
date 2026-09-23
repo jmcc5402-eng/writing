@@ -115,7 +115,34 @@ def gate(book: str) -> int:
         print("  The author, 2026-09-24: \"I always have one book finished when we launched "
               "the previous book… the biggest failure mode is getting out of this cycle.\"", file=sys.stderr)
         return 2
-    print(f"cycle: {book} may release — {nxt['book']} is complete ({a}/{p}).")
+    # "Complete" is the story; "shippable" is the product. The author,
+    # 2026-09-24: "Honestly, I'm not convinced that 1.1 is done either."
+    # Releasing N also needs the reader-facing export clean and a
+    # pre-launch review of N on disk with a verdict. (L082)
+    me = bs[i]
+    held = []
+    if me["dir"] and me["dir"] != "—":
+        ex = pathlib.Path(REPO, "studio", "tools", "export-book.py")
+        import subprocess
+        r = subprocess.run([sys.executable, str(ex), str(pathlib.Path(REPO, me["dir"])), "--check"],
+                           capture_output=True, text=True)
+        if r.returncode != 0:
+            held.append("the export is not clean — " + "; ".join(
+                l.strip() for l in r.stdout.splitlines() if "MISSING" in l or "would ship" in l))
+        notes = pathlib.Path(REPO, me["dir"], "notes")
+        rev = sorted(notes.glob("prelaunch-review-*.md")) if notes.is_dir() else []
+        if not rev:
+            held.append(f"no pre-launch review of {book} (notes/prelaunch-review-<date>.md; "
+                        f"scope: studio/threads/orders/O002)")
+        elif not re.search(r"^VERDICT:\s*(SHIP|SHIP WITH FIXES DONE)\b", rev[-1].read_text(encoding="utf-8"), re.M):
+            held.append(f"{rev[-1].name} has no 'VERDICT: SHIP' line")
+    if held:
+        print(f"cycle: BLOCKED — {nxt['book']} is complete, but {book} is not shippable yet:", file=sys.stderr)
+        for h in held:
+            print(f"    · {h}", file=sys.stderr)
+        return 2
+    print(f"cycle: {book} may release — {nxt['book']} is complete ({a}/{p}), the export is "
+          f"clean and the pre-launch review says SHIP.")
     return 0
 
 
