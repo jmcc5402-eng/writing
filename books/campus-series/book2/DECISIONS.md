@@ -827,7 +827,9 @@ simple," only drops: a few higher-stakes lines, not a plot change.
    is the end of college coaching. Said plain on the page at the
    glance in ch 22 (the author's own placement: "when he's watching
    her walk across the street from the Checkerboard"), and dropped as
-   hints after, once a chapter at most. It is the conflict the author
+   hints after, once a chapter at most. AMENDED (author merged #185, 2026-09-23): said plain ONCE PER CHAPTER, the
+   same stake each time; a second, different stake in the same chapter is
+   the hint (`canon/STAKES.md`, "How often the stake is said plain"). It is the conflict the author
    names: true to Aisha, or the job. `canon/STAKES.md` Dan row;
    FACTS F-DAN-01; every brief's STAKES ON THE PAGE carries it.
 3. **Like or hate, said now; the point of a scene said.** "I'm not
@@ -962,7 +964,9 @@ day (AUTHOR-NOTES 238–244).
    it is proven — his second time ends him in college coaching
    (D28.2 stands), hers ends her here and follows her. Said plain once
    in ch 23 (the fold: her arithmetic on the step) and as a hint in
-   every apart chapter after. FACTS F-DAN-02; STAKES rows.
+   every apart chapter after. AMENDED (author merged #185, 2026-09-23): said plain ONCE PER CHAPTER, the
+   same stake each time; a second, different stake in the same chapter is
+   the hint (`canon/STAKES.md`, "How often the stake is said plain"). FACTS F-DAN-02; STAKES rows.
 2. **After signing day is its own storm.** "There's still the one
    problem that there's a likely conflict of interest of a coach and a
    doctor being together in public even after signing day." One or two
