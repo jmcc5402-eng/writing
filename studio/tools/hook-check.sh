@@ -231,6 +231,49 @@ d = pathlib.Path(T, "bk", "notes"); d.mkdir(parents=True, exist_ok=True)
 PY
 expect 2 "calibration fails an instrument running outside tolerance" python3 "$ROOT/studio/tools/calibration.py" "$T/bk"
 
+# --- the four builds of 2026-09-23 (L076, L077, L078) --------------------
+mkdir -p "$T/ms/manuscript" "$T/ms/canon"
+python3 - "$T" <<'PY'
+import sys
+T = sys.argv[1]
+def chap(path, sents):
+    open(path, "w").write("# Chapter 99 - X\n\nPOV: x.\n\n---\n\n" + "\n\n".join(sents) + "\n")
+# chaining: many 4+-comma narration sentences
+chap(f"{T}/ms/manuscript/ch01.md",
+     [" ".join(["He went to the door, and the door, which was open, stood there, waiting, still."] * 3)] * 12)
+# clean: varied, few commas, and a long one that runs
+chap(f"{T}/ms/manuscript/ch02.md",
+     ["She stopped. " + " ".join(["The road was long and it went on past the fence and the field and the far "
+      "line of trees where the light had not reached yet and would not for an hour."] * 2)] * 12)
+open(f"{T}/ms/canon/TARGETS.md", "w").write(
+    "| Ch | POV | Romance | Heat | A | D | Wound | Fun | Town | Menace | Ends | Talk | Words | Pays |\n"
+    + "|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n"
+    + "".join(f"| {i} | A | 5 | 2 | 1 | 1 | 1 | 1 | 2 | 0 | flat | quiet | 3000 | Dan |\n" for i in range(1, 13)))
+PY
+chain() { bash "$ROOT/studio/tools/chapter-lint.sh" "$1" 2>&1 | sed -n '/== SENTENCES/,/^== /p' | grep -c "FINDING: the sentences are chaining"; }
+ceil() { bash "$ROOT/studio/tools/chapter-lint.sh" "$1" 2>&1 | sed -n '/== SENTENCES/,/^== /p' | grep -c "Nothing here runs"; }
+[[ "$(chain "$T/ms/manuscript/ch01.md")" -ge 1 ]] && expect 0 "chapter-lint flags comma-chaining, not length" true || expect 0 "chapter-lint flags comma-chaining, not length" false
+[[ "$(chain "$T/ms/manuscript/ch02.md")" -eq 0 ]] && expect 0 "chapter-lint passes long sentences that do not chain" true || expect 0 "chapter-lint passes long sentences that do not chain" false
+[[ "$(ceil "$T/ms/manuscript/ch01.md")" -ge 1 ]] && expect 0 "chapter-lint flags a chapter whose longest sentence hits the cap" true || expect 0 "chapter-lint flags a chapter whose longest sentence hits the cap" false
+expect 2 "stakes-check fails a book whose antagonist never moves" python3 "$ROOT/studio/tools/stakes-check.py" "$T/ms"
+expect 0 "stakes-check --gate reports and never blocks" python3 "$ROOT/studio/tools/stakes-check.py" "$T/ms" --gate 3
+# --first 3 exits 2 on this book because it CORRECTLY finds the drift the
+# sheet has carried since 2026-08-30. The test is that it read three
+# chapters and still saw it, which is the whole point of an early read.
+early() { python3 "$ROOT/studio/tools/voice-dial.py" "$ROOT/books/campus-series/book2" --first 3 2>&1; }
+[[ "$(early | grep -c 'EARLY READ — first 3')" -ge 1 ]] \
+  && expect 0 "voice-dial --first reads only the opening chapters" true \
+  || expect 0 "voice-dial --first reads only the opening chapters" false
+[[ "$(early | grep -c 'Modernity')" -ge 1 ]] \
+  && expect 0 "voice-dial --first still scores at the three-chapter floor" true \
+  || expect 0 "voice-dial --first still scores at the three-chapter floor" false
+grep -q "THE BILL" "$ROOT/.claude/agents/developmental-editor.md" \
+  && expect 0 "the developmental editor carries THE BILL (reader-tests L078)" true \
+  || expect 0 "the developmental editor carries THE BILL (reader-tests L078)" false
+grep -q "The dials" "$ROOT/studio/series-kit/05-book-premise.md" \
+  && expect 0 "the series kit asks for the dials at the premise gate" true \
+  || expect 0 "the series kit asks for the dials at the premise gate" false
+
 # --- the bans' own fixtures --------------------------------------------
 expect 0 "bans.py --test: every ban fires on its fixture" python3 "$ROOT/studio/tools/bans.py" --test
 

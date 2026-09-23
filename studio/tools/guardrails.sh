@@ -65,6 +65,7 @@ run "handoff board"     python3 studio/tools/handoff.py --audit
 run "proposals"         python3 studio/tools/proposal-lint.py
 run "comment census"    python3 studio/tools/comment-census.py --audit
 run "calibration"       python3 studio/tools/calibration.py "$BOOK/book2"
+run "stakes curve"      python3 studio/tools/stakes-check.py "$BOOK/book2"
 run "bans fire"         python3 studio/tools/bans.py --test
 run "lesson ledger"     python3 studio/tools/lesson-check.py
 run "hooks refuse"      bash studio/tools/hook-check.sh

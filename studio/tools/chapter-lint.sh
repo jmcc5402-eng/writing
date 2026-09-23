@@ -95,7 +95,7 @@ for run, n in c.most_common():
     if sum(x in stop for x in run) >= 3: continue
     print(f"  {n}x  {' '.join(run)}")
 PY
-echo "== SENTENCES (narration over 30 words; more than three 'and's; or two 'and's with a name said twice — STYLE 'say it plain' (a))"
+echo "== SENTENCES (the CHAIN, not the length — 4+ commas, or more than three 'and's; L076)"
 python3 - "$f" <<'PY'
 import re, sys
 t = open(sys.argv[1], encoding="utf-8").read()
@@ -104,7 +104,9 @@ t = re.sub(r"^>.*$", "", t, flags=re.M)          # epigraphs
 t = re.sub(r"\*[^*\n]+\*", "", t)                 # italics (texts, notes)
 t = re.sub(r'"[^"]*"', '""', t)                    # dialogue out
 paras = [p for p in re.split(r"\n\s*\n", t) if p.strip()]
-long_ = ands = 0
+chains = ands = 0
+commas = []
+lens = []
 for para in paras:
     flat = " ".join(l.strip() for l in para.split("\n"))
     for s in re.split(r"(?<=[.!?])\s+", flat):
@@ -112,10 +114,23 @@ for para in paras:
         n_and = sum(1 for x in w if x.lower() == "and")
         names = [x for x in w if x[:1].isupper() and x.lower() not in ("i",)]
         rep = len(names) - len(set(names))   # a name said twice in one sentence
-        if len(w) > 30 or n_and > 3 or (n_and >= 2 and rep >= 1 and len(w) > 14):
-            long_ += len(w) > 30; ands += n_and > 3
-            print(f"  {len(w):3d}w  and×{n_and}  {s[:72]}")
-print(f"  {long_} over thirty words; {ands} with more than three 'and's")
+        n_comma = s.count(",")
+        if n_comma >= 4 or n_and > 3 or (n_and >= 2 and rep >= 1 and len(w) > 14):
+            chains += n_comma >= 4; ands += n_and > 3
+            print(f"  {len(w):3d}w  ,x{n_comma}  and x{n_and}  {s[:66]}")
+        commas.append(n_comma); lens.append(len(w))
+print(f"  {chains} sentence(s) with four or more commas; {ands} with more than three 'and's")
+if lens:
+    hi = 100 * sum(1 for c in commas if c >= 4) / len(commas)
+    print(f"  chain rate {hi:.1f}% of narration sentences  (ch 17, the 'weird poem' chapter, ran 21.7%;")
+    print(f"  ch 14, which nobody complained about, ran 9.2%. Over 12% is the finding.)")
+    if hi > 12:
+        print("  FINDING: the sentences are chaining. This is the thing the author meant by")
+        print("  'weird clause-like long sentences that had seven commas in them' - not length.")
+    if max(lens) <= 31:
+        print(f"  FINDING: the longest narration sentence is {max(lens)} words. Nothing here runs.")
+        print("  A max of exactly 30 is a writer hitting a ceiling, not a voice. Rule 7's cap")
+        print("  is a budget: one or two a chapter SHOULD run past thirty (L071, L076).")
 PY
 echo "== TALK vs BODY (the ask the author has repeated most; L073)"
 python3 - "$f" <<'PY'

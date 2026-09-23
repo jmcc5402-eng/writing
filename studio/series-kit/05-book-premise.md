@@ -48,3 +48,52 @@ BEFORE drafting>]
   filled by the author and the researcher, never by the outline.
 - After the research pass, deposit unused nuggets in the setting bank
   (see `books/spytwins/series-bible/city-bank.md` for the model).
+
+
+---
+
+## The dials — REQUIRED before a drafter launches  *(L077)*
+
+The author, 2026-09-23: *"I'm OK if this book feels country, because
+that's how this set has shaken out. I wanna make sure that in future
+sets or books if I want to dial the vibe left or right I can."*
+
+He could not, and this section is why. Book 1.2's sheet declared
+**Modernity 5** on 2026-08-30 and the prose measured **2.1**. The gap
+survived twenty-four chapters because nothing asked for the number at
+the gate and nothing measured it until `voice-dial.py` existed.
+
+**Every book's premise names its dials, as numbers, before the outline
+is approved.** Copy this block into the book's `DIALS.md` row.
+
+| Dial | Scale | Set it by |
+|---|---|---|
+| **Modernity** | 1 small-town country → 10 contemporary/cosmopolitan | the ROOMS and the INSTITUTIONS |
+| **Warmth** | 1 cool, formal, apart → 10 warm, funny, together | the chorus and the ensemble |
+| **Edge** | 1 mild oaths → 10 profane | vocabulary (the only dial words move) |
+| Audience centre, Humour register, Heat | declared only | the panel's ear |
+
+### The rule this exists to teach
+
+**You do not move Modernity with a word list.** In Book 1.2, `porch`
+(223) and `county` (212) are **54% of every country marker in the
+book**, and those are rooms, not adjectives. A drafter told "less
+country" drops a *y'all* and writes another porch scene.
+
+So a premise that wants a different vibe names **different rooms,
+different institutions and different jobs** — an apartment, a hospital
+system, a rideshare, a city council — and the dial follows. A premise
+that names the same rooms and a higher number is a wish.
+
+### The checks
+
+- `voice-dial.py <book> --first 3` the day chapter 3 exists. **Three is
+  the floor**; one or two chapters hold too few markers to score. Book
+  1.2 read 1.8 at three chapters against a finished 2.1 — the drift was
+  findable at 8,000 words.
+- `voice-dial.py <book> --drivers` names which words are actually
+  carrying the dial, so a wrong number points at the outline rather
+  than the prose.
+- `guardrails.sh` runs the full comparison against `DIALS.md` every
+  stint. **The adjacency rule holds**: no dial moves more than one click
+  between neighbouring books in a set.

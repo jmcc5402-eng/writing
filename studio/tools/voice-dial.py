@@ -116,8 +116,11 @@ def declared(series: pathlib.Path, book_label: str) -> dict[str, float]:
     return out
 
 
-def analyse(book: pathlib.Path) -> dict:
-    text = "\n".join(bl.body(f) for f in bl.chapters(book).values())
+def analyse(book: pathlib.Path, first: int | None = None) -> dict:
+    chs = bl.chapters(book)
+    if first:
+        chs = {n: f for n, f in sorted(chs.items())[:first]}
+    text = "\n".join(bl.body(f) for f in chs.values())
     return {name: score(text, lo, hi) for name, (lo, hi) in DIALS.items()}, text
 
 
@@ -128,16 +131,29 @@ def main() -> int:
                     help="every book under this path, side by side")
     ap.add_argument("--drivers", action="store_true",
                     help="which words actually move each dial")
+    ap.add_argument("--first", type=int, metavar="N",
+                    help="read only the first N chapters — the early warning. "
+                         "THREE is the floor: ch 1-2 hold too few markers to score, "
+                         "ch 1-3 of Book 1.2 read Modernity 1.8 against a finished 2.1 "
+                         "and a sheet declaring 5. That gap was findable at 8,000 words "
+                         "and nobody found it until chapter 24. (L077)")
     args = ap.parse_args()
 
     root = pathlib.Path(args.book).resolve()
     books = bl.find_books(root) if args.compare else [root]
     series = root if (root / "DIALS.md").exists() else root.parent
 
-    print(f"voice-dial   scale 1–10, high pole named\n")
+    if args.first:
+        print(f"voice-dial   EARLY READ — first {args.first} chapter(s) only")
+        print("  A dial is set by the rooms and the institutions, and those are fixed at")
+        print("  the outline. Reading ch 1 tells you at 3,000 words what the finished book")
+        print("  will measure, instead of at 60,000. The gap is cheap to close here and an")
+        print("  outline rewrite later.\n")
+    else:
+        print(f"voice-dial   scale 1–10, high pole named\n")
     rows = {}
     for b in books:
-        scores, text = analyse(b)
+        scores, text = analyse(b, args.first)
         rows[b] = (scores, text)
         label = "1.1" if b.name != "book2" else "1.2"
         want = declared(series, label)
