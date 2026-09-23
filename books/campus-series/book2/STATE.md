@@ -151,12 +151,29 @@ The proxy scored 0 of 7 against the real comments and was rebuilt
 Open: the trainer's name; the pulls to lock; the gossip room's name;
 the sweep; the two keeper questions; Boyd named once in 23.
 
-**Then ch 24** — Dan; "Pending Review": the suspension in the AD's
-neutral prose with a published fortnight; the annex greenlight the
-same week; rule 7 spent; Dan's silence and hers not asking (the
-couple's worst hour); matrix row 24 — one open PR at a time: the
-card, brief and audit run while the fold PR is open; drafters after
-the merge.
+**Ch 24 ACCEPTED (#182, 2026-09-23) and FOLDED.** Three blind
+drafters (D3 won); the proxy 1.1.0 before the panel; romance 5. The
+author's eight comments answered in #190 (B2-D31, merged) and one
+more ruling after it: **Dan's one big mistake is the review
+interview — "I'd have played him," the half he meant left in his
+head, never corrected in public (B2-D31.10)**. Three single lines in
+ch 24 and one planted in ch 16; the sameness fixes X1–X4; the stake
+said plain once per chapter (#185 — D28.2, D30.1, F-DAN-02 amended).
+The proxy scored 2 of 8 (was 0 of 7) and is 1.1.1 (reads as a
+stranger; is the setback believable; is the other side fair; is the
+owed moment carried). The 2026-09-23 rulings apply from here: the
+heat line is body words, a notch at a time (HANDOFF H009); the
+consent wall; talk-to-body at ch 21's ratio (H007); stakes high, not
+only said (L078).
+
+**Then ch 25** — Aisha; "Boxes", Tuesday January 26. The card, brief
+and audit exist (2026-09-21) and are RE-BRIEFED before any drafter:
+the sound bite heard Tuesday morning and the radio's line with his
+name (D31.10, D31.5); the man at the counter (D31.1); Delores on her
+side (D31.4); the air defense remembered (D31.3); she does not call
+him (D31.7); the Cordelia letter's last line (D31.8); sparkling water;
+the heat notch and the body ratio. Matrix row 25 re-checked against
+the angrier chapter.
 
 **Was: then ch 22** — Dan; Thursday Jan 14, the window shuts; Coach's
 Table round two; the hold defended on air; the town acts again (the

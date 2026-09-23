@@ -24,8 +24,8 @@ docs); F## fair-play rows (b12-outline.md table governs).
 | F11 | The outside offer's timing is Boyd-nudged, never litigated (the tailored temptation) | **ch 19 PLANTED** — "her name had come up out west. A directorship."; "I pass names along"; he'd hate to lose her; "Mr. Boyd," and nothing else; thought about once at ten (B2-D22.2) and made a temptation (the one thing three buildings never gave her) | never proven; noted as designed (gate flag 4); the offer formalizes ch 25 | PLANTED 19 — OWED 25 (the offer formal), 29 (the answer) |
 | F13 | The county's official wrong story as engine thesis | ch 1 (square kiss retold fondly, wrong, uncorrected — "It's how we tell it") | **ch 23** aimed — DONE ch 23 (the county's story better than the truth, and true), **ch 28** corrected | OWED |
 | B2-T10 | The romance's ladder (plots/romance-arc.md, CANON #130): stage 2 "admitted inside" reached ch 5 (hers) and ch 8 (his); stage 3 OPENED INSIDE ch 11 (#139: "I want Dan," to the women) / opens outside ch 13 / RUNG 7 ch 14 (hers) / RUNG 8 ch 15 — THE KISS, hers; the terms; the firewall planted / RUNG 9 ch 17 — THE LIT ROOM, hers; HEAT 2 to the first garment; the night told; the want said aloud in both voices / **ch 18 RUNG 9 REPEATED, told — the glorious week; stage 4 held** | ch 5, ch 8 | the build check runs before ch 11, 13, 15, 27 briefs | ch 2 fight shown — DONE (#132); ch 4 one more exchange — DONE (#133). Both earning scenes for ch 8's want are on the page. |
-| B2-T11 | The provider partner (B2-D13): a sports-medicine group takes over team physician services with the pledge; her job is the price | ch 10 (Dan hears "the university stops carrying that line"; "Dan knew whose line it was") | he tells her **ch 15** (default) before the kiss; announced **ch 24** the week of the suspension; the phrase beside the group's own notice **ch 27**; the deal stalls with the pledge **27–28**; handed to 1.3 | SPENT at 15 (#155 — told before the kiss, in ch 10\'s words) — OWED ch 24 (the announcement), 27, 27–28 |
-| B2-T12 | The stakes of the nineteenth (B2-D15): the win is Boyd's STAGE (the announcement on the field); Dan's extension priced (February agenda; "a review"); the town's second December; her double bind said once | ch 13 (the town's money; the announcement sighted) · ch 14 (1, 2, 5 in Dan's mouth; the athletic director's line 14/15) | **ch 16** the loss carries all four · **ch 20** Boyd's price pays the stage · **ch 24** the athletic director signs · **ch 27** extension off the agenda | PLANTED ch 13 (stake 4 said by Verna; stake 1 sighted via the coordinator) · ch 14 PAID (1 as a reminder and 2 in Dan's mouth, the athletic director's sentence verbatim; 5 in HERS — "If I sign and he goes down, I'm done.") · ch 15 stake 5 SPENT (she is the reason, Thursday) · ch 16 ALL FOUR carried (the suite and the score held; "review"; the eighth Saturday spent; the chain-link\'s line) · **ch 20 PAID — Boyd's price in his own mouth (the pledge and the extension sequenced; re-sequenced if the medical situation embarrasses the program), the stage lost named as the why** — OWED 24, 27 |
+| B2-T11 | The provider partner (B2-D13): a sports-medicine group takes over team physician services with the pledge; her job is the price | ch 10 (Dan hears "the university stops carrying that line"; "Dan knew whose line it was") | he tells her **ch 15** (default) before the kiss; announced **ch 24** the week of the suspension; the phrase beside the group's own notice **ch 27**; the deal stalls with the pledge **27–28**; handed to 1.3 | SPENT at 15 (#155 — told before the kiss, in ch 10\'s words) — ch 24 SAID (the group wants her job; the trustees vote in February, ch24 l.198–200) — OWED 26 (the athletic director's July line, B2-D31.2), 27, 27–28 |
+| B2-T12 | The stakes of the nineteenth (B2-D15): the win is Boyd's STAGE (the announcement on the field); Dan's extension priced (February agenda; "a review"); the town's second December; her double bind said once | ch 13 (the town's money; the announcement sighted) · ch 14 (1, 2, 5 in Dan's mouth; the athletic director's line 14/15) | **ch 16** the loss carries all four · **ch 20** Boyd's price pays the stage · **ch 24** the athletic director signs · **ch 27** extension off the agenda | PLANTED ch 13 (stake 4 said by Verna; stake 1 sighted via the coordinator) · ch 14 PAID (1 as a reminder and 2 in Dan's mouth, the athletic director's sentence verbatim; 5 in HERS — "If I sign and he goes down, I'm done.") · ch 15 stake 5 SPENT (she is the reason, Thursday) · ch 16 ALL FOUR carried (the suite and the score held; "review"; the eighth Saturday spent; the chain-link\'s line) · **ch 20 PAID — Boyd's price in his own mouth (the pledge and the extension sequenced; re-sequenced if the medical situation embarrasses the program), the stage lost named as the why** — **ch 24 PAID (the athletic director signs the suspension)** — OWED 27 |
 | B2-T13 | Help for free: every man who helped her in a building wanted a thing for it; she quit asking (B2-D17) | ch 11 (wine night, the plant) | ch 14 the truck ("What's it going to cost me"), the story told outward as proof, the turf ("I'm telling you I noticed.") · ch 15 she lets him spend something on her | PAID ch 14 (#154) · second turn PAID ch 15 ("So I'm keeping it.") — CLOSED; the firewall is what she built over it |
 | B2-T14 | The two stools: his nearest the register, hers the second, the register between them where somebody is always standing — six months side by side without a sentence (the SEEDS, author #158 + chat 2026-09-12: "she'd see them at the diner coming and going. He held the door for her once but there was always a couple in between them") | ch 5 (the counter's furniture, hers) · ch 9 (the door held once, September) · ch 12 (his side, the empty second stool) — SEEDED 2026-09-12 · **ch 18 his side: thirty-four on her stool beside his, worked out and kept** · **ch 19: his stool empty on a weekday, "It meant something now"; she lets thirty-four keep hers** | **ch 17** the empty town clears the register; her walk close behind his stool; the stool given to thirty-four | SEEDED 5/9/12 — PAID 17 (retroactively; the seeds were written after the pay, on the author's read) |
 | F6 | The hookup leak chain (outline F6): the rings shown ch 11, the artifact ch 12 | ch 11 (the phone down the rail) · **ch 12 PAID** (the screenshot; "Who types a pause?") | dignity repair 18–30 | PAID ch 12; the sub-couple's exposure carries |
@@ -1272,6 +1272,65 @@ go; ch 23's night or ch 25); the epigraph funny every third; 25 — the
 boxes, the offer, the Cordelia letter; 26 — the survey stakes cross
 the chalk seen bare here; 27 — the phrase decoded, his name on the
 record; 28 — Missy's purse; the trainer has NO drops left.
+
+### Ch 24 — Pending Review (ACCEPTED #182, 2026-09-23; three blind drafters, B won; the author's eight comments answered in #190 — B2-D31 — and three single lines applied in the fold)
+
+**Wednesday, January 20 — the first rain since the ice.** Dan.
+**Introduces:** the suspension — the athletic director's email at the
+Fieldhouse door, her name under his: leave pending an independent
+review, findings in fourteen days, which is signing day, Wednesday the
+third; out of the annex by noon; the department's four-sentence
+statement at ten, read on 1340 at a quarter past; the lawyer and the
+press woman — "Anything you say about Dr. Cole makes it worse for
+her"; Dan swallows the back half of his sentence in the room and says
+"All right" (twelve minutes); fourteen hours a day, eleven months, and
+a coach is not sat down twice (the second stake, as the hint);
+**Rhonda's post crosses into the town room under DeeAnn Prewitt's
+name, and the room turns on DeeAnn for tracking the doctor in** (rule
+7 spent; D31.6b) — the county hates her fine in the rooms built for
+it; the Millrow rezoning passed, the money wanting her rooms for the
+building and her job for the group, the trustees voting on both in
+February (B2-T11 said); **the dream job**, fought for every day
+because somebody is always trying to pull him down (D31.6a); noon in
+the annex lot, one box and the heat on; he crosses in the rain, taps
+the glass, his body across eight sentences; **"Film's at four"** —
+the one thing a coach can say in a parking lot with the lawyer in his
+ear: film at four, he will be at work, she will not (D31.6c); "I
+know"; she does not ask him to speak, and he sees her not ask — the
+wound (nobody ever spent anything on her); the window goes up; film
+at four with the staff; the Coach's Slice at six, the cook's
+exception; Earlene's count ("they didn't fire her — they invited the
+county to"); ENDS DOWN in her empty office door at dark, the lamp on
+the clean square, and he does not go in. **Carries:** B2-T12 (the
+athletic director signs — PAID); B2-T11 (the group and her job, said
+plain); F3's plant (the phrase) toward 27; the survey greenlit the
+same week (the Table only); the terms (ch 15); his record sentence,
+whole in his head (ch 27's line). **Romance (B2-T10): stage 5, the
+couple's worst hour — In 5 / Out 5; the window is the one shared
+place; no touch.** **TARGETS**: plan → actual — romance 5 → 5 (panel)
+/ 4 (the proxy, on the author's scale); heat 2 → 3 (panel) / 2
+(proxy); laughs 0 → 3; ends down → down; talk quiet → 13.0%; words
+3200 → 3,389 (before the fold's three lines); Aisha 2 → 2; Dan 3 → 2;
+wound 3 → 2; town 2 → 2; menace 3 → 3. The author's comments, and
+what they became (B2-D31): her call made arguable (a planted line at
+ch 16:242; the counter in 25; the reviewer in 27); Boyd behind the
+suspension through the athletic director's July line (26), the
+families and the trustees in good faith; the air defense of ch 22
+carried (25, 26, closed at 27); four voices on her side (25–28);
+**Dan's one big mistake — the review interview, "I'd have played
+him," the half he meant left in his head, never corrected in public
+(B2-D31.10)**; she does not call him (25); the Cordelia letter's last
+line blessed; sparkling water forward. The dossier's DeeAnn beat
+("practice is at four") was spent on Aisha's window instead —
+released, not owed. Hands forward: 25 — the boxes, the offer (answer
+Saturday the sixth), the sound bite heard Tuesday morning, the
+radio's line with his name, Delores at Mt. Nebo, the letter's last
+line, the parka folded, she chooses the offer; 26 — the interview
+room a step back to Monday, his head on her, the July line, the
+stakes cross the chalk, the standoff, the turn signal; 27 — the
+review, the reviewer's question, the trustee's line, his testimony
+finishing the sentence and her name; the stake plain once per chapter
+(#185).
 
 ## New canon recorded at this fold
 

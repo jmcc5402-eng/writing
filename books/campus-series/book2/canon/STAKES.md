@@ -63,7 +63,7 @@ paid for. Nothing here resolves unless the outline says so.
 
 ---
 
-## How often the stake is said plain  *(PROPOSED — the author rules on PR)*
+## How often the stake is said plain  *(RULED A — the author merged #185, 2026-09-23; B2-D28.2, D30.1 and F-DAN-02 amended at the ch 24 fold)*
 
 Two standing rules disagree, and the ch 24 keeper blocked the chapter on
 the gap (`notes/ch24-keeper-2026-09-21.md`, blocking item 3).

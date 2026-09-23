@@ -827,7 +827,9 @@ simple," only drops: a few higher-stakes lines, not a plot change.
    is the end of college coaching. Said plain on the page at the
    glance in ch 22 (the author's own placement: "when he's watching
    her walk across the street from the Checkerboard"), and dropped as
-   hints after, once a chapter at most. It is the conflict the author
+   hints after, once a chapter at most. AMENDED (author merged #185, 2026-09-23): said plain ONCE PER CHAPTER, the
+   same stake each time; a second, different stake in the same chapter is
+   the hint (`canon/STAKES.md`, "How often the stake is said plain"). It is the conflict the author
    names: true to Aisha, or the job. `canon/STAKES.md` Dan row;
    FACTS F-DAN-01; every brief's STAKES ON THE PAGE carries it.
 3. **Like or hate, said now; the point of a scene said.** "I'm not
@@ -962,7 +964,9 @@ day (AUTHOR-NOTES 238–244).
    it is proven — his second time ends him in college coaching
    (D28.2 stands), hers ends her here and follows her. Said plain once
    in ch 23 (the fold: her arithmetic on the step) and as a hint in
-   every apart chapter after. FACTS F-DAN-02; STAKES rows.
+   every apart chapter after. AMENDED (author merged #185, 2026-09-23): said plain ONCE PER CHAPTER, the
+   same stake each time; a second, different stake in the same chapter is
+   the hint (`canon/STAKES.md`, "How often the stake is said plain"). FACTS F-DAN-02; STAKES rows.
 2. **After signing day is its own storm.** "There's still the one
    problem that there's a likely conflict of interest of a coach and a
    doctor being together in public even after signing day." One or two
@@ -1022,7 +1026,9 @@ lines in ch 24 (6), each quoted in the PR. The author's rule since
    the town's version is that anybody else's doctor would have had
    the boy back for the playoff. PLANTED once before the suspension —
    ch 16, the two locals on Millrow, a third line after "She might.":
-   "Anybody else's doctor would've had him back Saturday." FORWARD:
+   "Anybody else's doctor would've had him back tonight." (Keeper at
+   the fold, 2026-09-23: "tonight," not "Saturday" — it is said walking
+   home from the game on the nineteenth.) FORWARD:
    ch 25, a man at the Checkerboard counter says the same thing in
    her hearing; ch 27, the independent reviewer's first question is
    why her ladder ran slower than other programs'. Ch 28's finding
@@ -1085,7 +1091,9 @@ lines in ch 24 (6), each quoted in the PR. The author's rule since
    for tracking her in. (c) After "Film's at four" / "That was the
    whole line." (l.255–257), one sentence of what it meant: the only
    thing a coach could say in a parking lot with the lawyer in his
-   ear — practice at four, and he would be at it, and she would not.
+   ear — film at four, and he would be at work, and she would not.
+   (Keeper at the fold: "film," not "practice" — there is no practice
+   until spring, ch 20:241, 21:47; "at work" says what she lost.)
 7. **Ch 25: she does not call Dan the night she decides.** He learns
    in 26 from the AD, which deepens (5). Alternative: she calls, tells
    him the offer and the date, and he says the true thing one chapter
@@ -1099,3 +1107,58 @@ lines in ch 24 (6), each quoted in the PR. The author's rule since
    seeded (ch 3, 5, 6) change to the ruled word (B2-D23.5) at the
    fold, and every page from ch 25 says sparkling water. The four
    older chapters that say seltzer (11, 16, 17, 18) stay as written.
+10. **Dan's one big mistake: the review interview — RULED (author,
+    2026-09-23, after #190; AUTHOR-NOTES 267–268).** "We need the
+    reader to be really mad at Dan." Then: "have the interviewer ask
+    a really tricky question that he answers poorly. He still doesn't
+    come to her defense, but it's more of a sound bite against her
+    that gets out, saying he pushed her… and then he doesn't vocally
+    correct it after… internal monologue where he's thinking about
+    her and struggling and that's why he was off his game… now we
+    understand why Ayesha is mad at him, but we know that she should
+    not be mad at him because it was just an honest mistake."
+    The extension signed as a trade (option B) is RULED OUT as too
+    much. What the page does:
+    - **The interview.** The independent review interviews Dan before
+      the hearing. His head is on her the whole time, on the page:
+      the car window, her face through the glass, the hook. He misses
+      the trap in the question.
+    - **The wrong thing — it must really hurt her (author, 2026-09-23:
+      "it still needs to come out as saying the wrong thing and really
+      screwing her over"; AUTHOR-NOTES 269). A RULED (author,
+      2026-09-23: "A is perfect"; AUTHOR-NOTES 270).** The
+      reviewer asks whether, knowing what he knows now, he would have
+      played Trey on the nineteenth. He answers as the coach he used
+      to be: "Every coach in the country plays him. I'd have played
+      him." The half he means — and that is why it is not my call —
+      stays in his head. The head coach is on record that her hold
+      was wrong; the letter's case gets its best witness, and it is
+      the man who loves her. Ch 27, he finishes it: I said I'd have
+      played him; that is exactly why the rule says I don't decide.
+      STRUCK (B, the harder hit, not taken): asked whether she discussed
+      Trey with him outside the building, he answers the feeling, not
+      the question: "We talked about everything." It guts her
+      independence and points at the relationship in season (the
+      both-fired stake, F-DAN-02); the correction at 27 is the
+      couple's own rule, "everything but him." B makes 27–28 answer
+      the relationship question too, not only her call.
+    - **The sound bite.** His sentence leaks without the half he
+      meant. Who leaks it is never said (`[TK]` — Boyd's walls hold;
+      the Table suspects out loud once).
+    - **He does not correct it.** He has a chance in public and lets
+      it stand, on the lawyer's same advice as ch 24. This is the
+      choice the reader holds against him; the interview itself was
+      an honest slip.
+    - **Order — DEFAULT, the author may flip it:** the interview is
+      Monday the twenty-fifth, between 24 and 25. Ch 25 (Aisha): she
+      hears the sound bite Tuesday morning, and the reader is angry
+      with her. Ch 26 (Dan): opens in the interview room, a step back
+      to Monday, and the reader learns why. The reader knows before
+      she does that she is wrong about him. Ch 27: he finishes the
+      sentence at the hearing — she held, and she was right.
+    - **Amends** item 5 (his public silence now centres on the sound
+      bite he will not correct; the department's radio line stays as
+      texture) and item 7 (she does not call him; the sound bite is
+      part of why). Items 1 and 3 read with it: the one man on record
+      doubting her call is the man who loves her, and the name he
+      left off the air in 22 is the half he leaves off in the room.
