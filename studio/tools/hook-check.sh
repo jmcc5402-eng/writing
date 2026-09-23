@@ -293,6 +293,16 @@ expect 0 "order-lint ignores chapter ranges under a NOT-being-asked heading" pyt
 expect 0 "the live orders are forward-first" python3 "$ROOT/studio/tools/order-lint.py"
 expect 2 "stakes-check --first flags an opening where nothing presses" python3 "$ROOT/studio/tools/stakes-check.py" "$ROOT/books/campus-series/book2" --first 3
 
+# --- the release cycle and the scorecard (L080, L081) --------------------
+expect 2 "cycle --gate holds a release while the next book is incomplete" python3 "$ROOT/studio/tools/cycle.py" --gate 1.1
+expect 2 "cycle --gate refuses a book not declared in CYCLE.md" python3 "$ROOT/studio/tools/cycle.py" --gate 9.9
+expect 0 "cycle --status prints the state" python3 "$ROOT/studio/tools/cycle.py" --status
+printf '{"tool_input":{"title":"[campus][RELEASE] Book 1.1 to KDP","body":"## Ask\\n\\nMerge to release Book 1.1.\\n\\nShort body."}}' \
+  | expect 2 "pr-lint holds a [RELEASE] PR on the cycle" python3 "$ROOT/studio/tools/pr-lint.py"
+[[ "$(python3 "$ROOT/studio/tools/comment-census.py" --scorecard | grep -c 'ch23 .* MORE')" -ge 1 ]] \
+  && expect 0 "scorecard attributes chat notes to their chapter (ch 23 repeats MORE)" true \
+  || expect 0 "scorecard attributes chat notes to their chapter (ch 23 repeats MORE)" false
+
 # --- the bans' own fixtures --------------------------------------------
 expect 0 "bans.py --test: every ban fires on its fixture" python3 "$ROOT/studio/tools/bans.py" --test
 

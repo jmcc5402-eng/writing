@@ -26,6 +26,18 @@ nothing is lost, nothing moves. The hold lifts when campus Book 1.1
 is out or the author says so. The ~10% residue is reactive only —
 processing anything the author merges or asks for on those books.
 
+**THE RELEASE CYCLE (author, 2026-09-24, in chat — recorded by the
+environment thread; strike it on the PR if the wording is wrong): "My
+plan was to ship 1.1 once 1.2 was done. I wanna get into this long-term
+pattern where I always have one book finished when we launched the
+previous book. For me, the biggest failure mode is getting out of this
+cycle, so I'm buffering upfront."** Operationally: Book N is released
+only when Book N+1 is complete (`studio/CYCLE.md`; `cycle.py` holds any
+[RELEASE] PR until it is). Book 1.1 is therefore HELD, not blocked — it
+ships when 1.2 is done. The lead measures are the book after next (1.3
+must be moving by then) and launch admin, which takes calendar time and
+belongs in the buffer months.
+
 **Pace (author, 2026-08-21, in chat): "start moving faster but
 doing it in a measured pace so we don't have costly mistakes."**
 Operationally: the conveyor runs whole stages per shift instead of

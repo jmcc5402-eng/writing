@@ -91,6 +91,8 @@ run "thread ids"        python3 studio/tools/id-check.py --audit
 run "handoff board"     python3 studio/tools/handoff.py --audit
 run "proposals"         python3 studio/tools/proposal-lint.py
 run "work orders"       python3 studio/tools/order-lint.py
+run "release cycle"     python3 studio/tools/cycle.py
+run "scorecard"         python3 studio/tools/comment-census.py --scorecard
 run "comment census"    python3 studio/tools/comment-census.py --audit
 run "calibration"       python3 studio/tools/calibration.py "$BOOK/book2"
 run "stakes curve"      python3 studio/tools/stakes-check.py "$BOOK/book2"

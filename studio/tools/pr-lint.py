@@ -25,7 +25,7 @@ the agent's own output to the human — was ungoverned, which is why the
 same note kept coming back.
 """
 from __future__ import annotations
-import json, re, sys
+import json, os, re, sys
 
 MAX_WORDS = 1200          # a PR body the author has to read in one sitting
 MAX_FIRST_SENTENCE = 28   # STYLE "say it plain" (a), applied to us
@@ -113,7 +113,7 @@ def main() -> int:
     #    where the author's comments land; it cannot open while a recent
     #    author note has no enforcer in studio/lessons/LEDGER.md. (L028)
     if re.search(r"\[FOLD\]", title):
-        import os, subprocess
+        import subprocess
         lc = os.path.join(os.path.dirname(os.path.abspath(__file__)), "lesson-check.py")
         if os.path.isfile(lc):
             res = subprocess.run([sys.executable, lc], capture_output=True, text=True)
@@ -122,6 +122,26 @@ def main() -> int:
                     if ln.startswith("✗"):
                         problems.append("lesson-check: " + ln[2:])
                 problems.append("a [FOLD] PR opens only when every author note from the last week has a row in studio/lessons/LEDGER.md with its enforcer (the /lesson skill)")
+
+    # The release cycle (studio/CYCLE.md; L080): Book N ships only when Book
+    # N+1 is complete. The author named breaking this as his biggest failure
+    # mode, and cycles break silently — so a release PR is where it is held.
+    if re.search(r"\[RELEASE\]", title):
+        bk = re.search(r"\b(\d+\.\d+)\b", title)
+        cy = os.path.join(os.path.dirname(os.path.abspath(__file__)), "cycle.py")
+        if bk and os.path.exists(cy):
+            import subprocess
+            r = subprocess.run([sys.executable, cy, "--gate", bk.group(1)], capture_output=True, text=True)
+            if r.returncode == 2:
+                # Not a writing problem: no rewrite of the body fixes it. Say
+                # so, rather than falling through to the say-it-plain advice.
+                print("pr-lint: BLOCKED — the release cycle (studio/CYCLE.md)", file=sys.stderr)
+                for ln in r.stderr.strip().splitlines():
+                    print(f"  {ln}", file=sys.stderr)
+                print("  This is not fixed by rewriting the PR. It opens when the next book is complete.", file=sys.stderr)
+                return 2
+        elif not bk:
+            problems.append("a [RELEASE] PR names its book (e.g. 1.1) so the cycle can be checked")
 
     if problems:
         print("pr-lint: BLOCKED — taste entry 13, talk to the author "

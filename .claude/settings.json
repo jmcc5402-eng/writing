@@ -5,6 +5,10 @@
         "hooks": [
           {
             "type": "command",
+            "command": "python3 \"$CLAUDE_PROJECT_DIR/studio/tools/cycle.py\" --status || true"
+          },
+          {
+            "type": "command",
             "command": "python3 \"$CLAUDE_PROJECT_DIR/studio/tools/roster-staleness.py\" --quiet || true"
           },
           {
