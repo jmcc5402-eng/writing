@@ -9,41 +9,90 @@ column, not a chapter — no cameo, no Adhesion here); romance-arc row 25, In 5 
 "the identity's answer to the crisis is to leave." The card
 (`notes/cards/ch25-card.md`) and this brief are audited TOGETHER by
 the keeper before a drafter launches; the brief carries THE AUTHOR'S
-READ (seven questions). ONE OPEN PR AT A TIME: the drafters launch
-after #182 (ch 24) merges. TWO OF THE CARD'S CALLS ARE THE AUTHOR'S
-AND ARE NOT DEFAULTED HERE — the fourth call and the Cordelia
-letter's text (S01-sensitive; the author blesses); Kat is RULED (no
-scene; a text) — see THE
-CARD'S CALLS at the bottom: the drafters take the defaults there
-unless the author rules before launch.
+READ (seven questions). #182, #190 and #191 are MERGED. RE-BRIEFED
+2026-09-23 on the author's rulings (B2-D31, D31.10): **MAIN MOVED,
+below, overrides anything in this brief it contradicts.** The card's
+calls are RULED (she does not call him — D31.7; the Cordelia letter's
+last line, blessed — D31.8); Kat is a text only.
 
-**TARGETS (the definition of done — `canon/TARGETS.md` row 25, copied):**
-Romance 6 · Heat 3 · Aisha 3 · Dan 1 · Wound 3 · Fun 1 · Town 3 ·
-Menace 1 · Ends down · Talk quiet · Words 3400 · Pays Aisha.
-On the AUTHOR'S scale (TARGETS definitions): Romance 6 with the leads
-apart is the plan's stretch — it needs CONFLICT between them on the
-page, not longing; the conflict here is hers with him in absence, and
-the page must make it between them: the phone in her hand twice, the
-sentence he did not say at the window packed around, and (call 1) the
-call she makes or does not. If call 1 is NO (the default), the honest
-number on the author's scale is 4–5 and the page should not pretend
-otherwise; the PR says so. Heat 3 counts only in a shared room — with
-no shared room this chapter, heat is 1 on the author's scale (the coat
-on the box is memory); the plan's 3 was set before the author's
-definitions and the PR says that too. Aisha 3: TURNED — she chooses
-to leave (the identity's answer; the person at the end decides
-differently than at the start). Dan 1: seen — the slice set down at
-her elbow is the town's, not his; he is not in her chapter. Wound 3:
-every account settled before she goes, which is the wound (nobody
-has ever spent anything on her and she will not owe anybody); the
-Cordelia letter names it back to her. Fun 1 (Kat is RULED out —
-a text only; Verna and the cook are the fun).
-Town 3: the town ACTS three times, small and wordless (coffee on the
-house; the slice unasked; February's rent) — the chorus's
-counter-current starting, paid at 28. Menace 1: the offer's sender is
-the man who wants her ground, said once, plain. Talk QUIET (8–15%).
-Ends DOWN on an image (the folded coat). Pays Aisha. Words 3400;
-3600 the ceiling.
+**TARGETS (the definition of done — `canon/TARGETS.md` row 25, copied;
+CHANGED 2026-09-23: heat 3 → 1, Dan 1 → 2, menace 1 → 2):**
+Romance 6 · Heat 1 · Aisha 3 · Dan 2 · Wound 3 · Fun 1 · Town 3 ·
+Menace 2 · Ends down · Talk quiet · Words 3400 · Pays Aisha.
+On the AUTHOR'S scale (TARGETS definitions): romance moves on CONFLICT
+between the leads, and this chapter has it — his own sentence on the
+air against her, and the call she will not make. Romance 6 is the
+morning's radio, her body at it, and the phone put down twice. Heat 1:
+they share no room, and remembering is not heat. Aisha 3: TURNED —
+she chooses to leave. Dan 2: not in her chapter, but his words run
+her morning and the reader is angry at him here (B2-D31.10). Wound 3:
+every account settled before she goes; nobody has ever spent anything
+on her, and the man who might have just told the county he would have
+played the boy. Fun 1: the cook, Verna, Kat's text. Town 3: SPLIT —
+kind to her in person (coffee on the house; the slice unasked;
+February's rent), against her on the air and at the counter (the man's
+case). Menace 2: the leaked sound bite strengthens the case against
+her in the review's week, and the man who wants her ground opens her
+a door out the same morning. Talk QUIET (8–15%). Ends DOWN on an image
+(the folded coat). Pays Aisha. Words 3400; 3600 the ceiling.
+
+## MAIN MOVED — the author's rulings since this brief (2026-09-23; overrides the body)
+
+Read these first. Each is the author's words, ruled on #190 or after
+it (DECISIONS B2-D31; AUTHOR-NOTES 267–278).
+
+1. **The sound bite — Dan's one big mistake (B2-D31.10, A).** On
+   Monday the twenty-fifth the independent review interviewed Dan
+   (offstage here; ch 26 shows the room). Asked whether, knowing what
+   he knows, he would have played Trey on the nineteenth, he said:
+   "Every coach in the country plays him. I'd have played him." The
+   half he meant — and that is why it is not my call — never came
+   out. It leaks without it. **Scene 1: 1340 reads it at the
+   Checkerboard at half past seven** ("sources close to the review";
+   who leaks it is never said — `[TK]`), and the athletic department's
+   answer, in his name: "Coach Merritt has full confidence in the
+   independent review process." Nothing corrects it. The author: "we
+   understand why Ayesha is mad at him." Her body at it runs across
+   the beats (taste 20); the reader is angry with her. Do NOT let the
+   page explain him — ch 26 does that.
+2. **The air defense, remembered (D31.3).** Twelve days ago, on the
+   same station (ch 22, Thursday the fourteenth), he said "her
+   protocol" to the whole county. She remembers it once, at the radio.
+   That is what makes this morning cut.
+3. **Her call is arguable (D31.1).** A man at the counter — not a
+   Table regular, unnamed — says it in her hearing after the radio:
+   anybody else's doctor would have had the boy back for the playoff,
+   and now the coach says so himself. Fair, not cartoon; she does not
+   answer. The cook sets the Slice down anyway, or leaves it where it
+   is — the town's answer, wordless.
+4. **Voices on her side (D31.4).** Delores at Mt. Nebo, one line, NO
+   anchor: the boy has one head, whatever the radio thinks. In her
+   words, not these.
+5. **She does not call him (D31.7).** The phone in her hand twice.
+   The why, said plain once in her head: he chose the job at the
+   window, this morning he told the county he'd have played the boy,
+   and a doctor on leave who calls the coach hands the county its
+   caption.
+6. **The Cordelia letter's last line, on the page once (D31.8 —
+   blessed):** "You keep asking what I stayed for, as if a town were a
+   reason. It was never the town. It was being needed by it on
+   purpose." The rest of the letter stays in her paraphrase.
+7. **Sparkling water (D31.9).** If her drink is on the page, it is
+   sparkling water.
+8. **The stake said plain ONCE (#185).** The same stake each time:
+   caught in a relationship during the season, both of them gone that
+   day. Any other stake in the chapter is a hint.
+9. **The body, not the talk (HANDOFF H007).** Aim at ch 21's
+   talk-to-body ratio, under 2.0 on chapter-lint's TALK vs BODY line
+   (ch 24 ran 5.11). The radio morning and the letter at night are
+   where her body runs.
+10. **Heat (H009).** The new line (body words) applies from here, a
+    notch at a time. This chapter has no shared room and no intimate
+    scene, so it spends none.
+11. **The readers (L091–L095).** The proxy is 1.1.1: it reads as a
+    stranger, asks whether the setback is believable, whether the
+    other side has a fair case, and whether the owed moment (the air
+    defense) is carried.
 
 ## PROOF OF DONE — campus 1.2 ch 25, 2026-09-21 (chapter-proof; filled at the end)
 
@@ -55,16 +104,18 @@ MECHANICAL (commands, output attached at the end)
   [ ] python3 studio/tools/fact-check.py books/campus-series → clean
   [ ] sentences ordinarily under 30 words, ≤3 "and"s; wrap at 80; ≤3600 words — AND a tail: chapter-lint SENTENCE SHAPE shows CV ≥ 0.60, p95 ≥ 33, at least one sentence over thirty (HANDOFF H001; L071)
 READERS (verdict files, path attached at the end)
-  [ ] author-proxy 1.1.0    → notes/ch25-author-proxy-<A|B|C>-<date>.md (BEFORE the panel; seven tokens; romance and heat on the author's scale; the stakes-blatant line)
+  [ ] author-proxy 1.1.1    → notes/ch25-author-proxy-<A|B|C>-<date>.md (BEFORE the panel; seven tokens; romance and heat on the author's scale; the stakes-blatant line)
   [ ] romance-reader-panel  → notes/ch25-panel-<A|B|C>-<date>.md (BLIND — on the card-blind copy; on the author's anchors)
   [ ] continuity-keeper     → notes/ch25-keeper-<date>.md (the page audit, the clock standing)
   [ ] /chapter-score        → notes/scores/ch25-score.md
 MUST NOT HAVE CHANGED
   [ ] the rung ladder: no touch, no kiss; the leads do not share a scene
-  [ ] the Cordelia letter's TEXT: on the page ONLY as the author blesses it (call 3); until ruled, the page carries its last line's sense in her paraphrase and `[TK the letter's text — the author]`
+  [ ] the Cordelia letter: its last line verbatim ONCE, as blessed (D31.8); the rest paraphrase
+  [ ] the sound bite verbatim ("Every coach in the country plays him. I'd have played him.") and the department's line; the half he meant NOT on this page (ch 26's)
+  [ ] chapter-lint TALK vs BODY under 2.0 (H007)
   [ ] the coat plant (B2-T02) is SAVED for ch 29 (D21.8): the PARKA (A. COLE) is folded for return on the top box and NOT handed in; nobody says the thing about it; the wool coat is hers and the letter comes out of its pocket
   [ ] the trainer: NO drop (none left); Missy: NO drop; the athletic director unnamed; Boyd named once at most (the offer's sender)
-  [ ] Dan's stake: a hint at most (both gone if caught — D30.1's shape) — she is suspended, the season is on, the terms still run to the third
+  [ ] the stake said plain ONCE (#185): caught in season, both gone that day; any other stake a hint
   [ ] no new fact, name, date or object not on a page or in canon — `[TK]` it (the western university and its chair UNNAMED; Mt. Nebo's program content `[TK]`; who conducts the review `[TK]`)
 VARIANCE
   [ ] three cards drawn (LRU, drafter deck; distinct) and logged; the keeper's, the proxy's and the panel's draws logged
@@ -89,8 +140,8 @@ each would rather be the one who pays — she pays by leaving.
 No scene together. The floor: he is in every scene of hers with her
 in it — the sentence he did not say at the window (ch 24), packed
 around like a thing in the box she cannot throw out; the phone in her
-hand twice (the morning, the night) and not called (call 1's
-DEFAULT); the slice set down at her elbow that is his order and not
+hand twice (the morning, the night) and not called (RULED,
+B2-D31.7); the slice set down at her elbow that is his order and not
 his doing; the coat folded flat on the top box — RULED by the keeper: the
 PARKA (team issue, navy, XXL, A. COLE — registry 35; "It's the
 team's coat," ch 11:147) is the coat folded for return, and it is NOT
@@ -99,7 +150,8 @@ ch 30 needs it still hers); the wool coat is hers, and the letter
 comes out of ITS inside breast pocket, buttoned (ch 9:499–504). The ache TWICE with a body: the morning (the offer read;
 the phone) and the night (the letter; the coat); APART, WHY — said
 once, plain, in her head: he chose the job in front of her and she
-let him, and a doctor who calls a coach on leave hands the county the
+let him; this morning he told the county he would have played the
+boy; and a doctor who calls a coach on leave hands the county the
 caption; the terms still have eight days in them and they have
 already cost him a sentence. The chapter's last section is hers,
 and NOT alone under a light (the keeper: the third chapter running —
@@ -138,20 +190,27 @@ Earlene at the window with the pot — one look, NO anchor).
 her. A man who wants her ground has found her a building with its
 name on it already. The town, which has not said stay, starts setting
 things down beside her. She wants to be asked and will not ask to
-be.* Between the leads: *the sentence he did not say is the one she
-packs; the call she does not make is the one he would have answered.*
+be.* Between the leads: *the sentence he did not say at the window is the
+one she packs; the sentence he did say, in a room she was not in, is
+the one the county heard; the call she does not make is the one he
+would have answered.*
 
 ## THE SCENES
 
 1. **Half past seven, the Checkerboard** (the opening). Her stool;
    coffee on the house (the cook, no words; the cup filled); the
    Coach's Slice set down at her elbow, unasked — HIS order (registry
-   9, 73), a morning item in the morning; she eats it or does not, the
-   drafter's call, said. Earlene at the window: one look, no anchor
-   (Verna's chapter; Earlene has five). The town's silence in her
-   favor, in person (the town room stepped around DeeAnn on the 20th
-   — say "in person," not "first"). Kind 6/3: the slice is his; her
-   body at it, three beats.
+   9, 73), a morning item in the morning. Then 1340 on the radio over
+   the griddle: the leaked sound bite and the department's line in his
+   name (MAIN MOVED 1) — her body at it across the beats, the fork, the
+   cup, the heat in her face. She remembers "her protocol" on the same
+   station twelve days ago (MAIN MOVED 2). The man at the counter says
+   his piece (MAIN MOVED 3); she does not answer. The Slice stays
+   where the cook put it — she eats it or does not, the drafter's
+   call, said. Earlene at the window: one look, no anchor (Verna's
+   chapter; Earlene has five). The town split in one room: kind in
+   person, against her on the air. Kind 6/3: the slice is his order;
+   his voice is his.
 2. **Nine, mid-morning — the offer in writing** (the offer). Back at
    the Magnolia Court — three streets over from the square (ch 3:318;
    the walk or the drive on the page). Day six. The offer, in writing:
@@ -161,16 +220,15 @@ packs; the call she does not make is the one he would have answered.*
    its name on it already" is Boyd's phrase (ch 19:252–255 — ITS
    name, not hers; do not misquote; do not reuse "a building nobody
    was going to box" verbatim, ch 19:594); answer by Saturday the
-   sixth of February (B2-D08.2). Her read, once, plain (menace 1):
+   sixth of February (B2-D08.2). Her read, once, plain (menace, with the radio's):
    Boyd passed her name along so she would go, and the building he
    wants her out of is the one she was asked to leave by noon on the
-   twentieth. Missy's seven o'clock page on the sixth day of a
-   suspension — `[TK the author: does it come; Missy's stance]`. The
-   phone in her hand — Dan — and put down (call 1 DEFAULT: not called;
-   the why said: a doctor on leave who calls the coach hands the
-   county its caption; he chose the job at the window and she let him;
-   the terms have eight days; fourteen-hour days eleven months — D30.3
-   — in a clause). KIND 9: her body at the word "directorship"; where
+   twentieth. Missy: silent until 28 (the card's call 2, default) — no page. The
+   phone in her hand — Dan — and put down (RULED, D31.7: not called;
+   the why said once, plain: he chose the job at the window, this
+   morning he told the county he'd have played the boy, and a doctor
+   on leave who calls the coach hands the county its caption;
+   fourteen-hour days eleven months — D30.3 — in a clause). KIND 9: her body at the word "directorship"; where
    she feels the sixth.
 3. **Early afternoon, the annex — the office packs itself** (the
    packing). She was asked to be out of the annex by noon on the 20th
@@ -201,7 +259,8 @@ packs; the call she does not make is the one he would have answered.*
    forty-one-box count (ch 14:388) is the review's chain of custody
    (F1) — she goes to Delores for the count against her copy before
    the findings publish; Delores with her key and the pad, one line,
-   NO anchor (hers was 23); Odell one line. The county's other memory
+   NO anchor (hers was 23), and the line is on Aisha's side (MAIN
+   MOVED 4); Odell one line. The county's other memory
    of the annex the hall holds: the forty-one boxes behind Delores's
    one key beside the church's own paper (ch 14:369–388); "the WPA's
    infirmary" may be recalled in Aisha's head as Earlene's line (ch
@@ -218,10 +277,8 @@ packs; the call she does not make is the one he would have answered.*
 6. **Night, nine — the letter; the choice; the storm door** (the
    ending). The Cordelia letter out of the WOOL coat's inside breast
    pocket, buttoned (ch 9:499–504; registry 52): reread for the first
-   time since the wall — ON THE PAGE ONLY AS THE AUTHOR BLESSES (call
-   3): DEFAULT — its sense in her paraphrase, one sentence, and `[TK
-   the letter's text — the author blesses]`; the outline's sentence
-   is BANNED verbatim. All the page may say of Cordelia: "For the
+   time since the wall — its last line verbatim, once, as the author
+   blessed it (MAIN MOVED 6); the rest in her paraphrase. All the page may say of Cordelia: "For the
    night nurse"; the name on the flap; Hartwell like the House; she
    stayed in room nine. Estate 5: the brave thing and the wanted
    thing. She chooses the offer — the reply typed and held till
@@ -239,12 +296,12 @@ packs; the call she does not make is the one he would have answered.*
 
 | Scene | MORE | WHO | CONFUSING | NOSE | POINT | SENSES | FUN |
 |---|---|---|---|---|---|---|---|
-| 1. Half past seven, the Checkerboard | Romance felt 5: the slice is HIS order set down by the town — her body at it, three beats; she does not call | The cook: wants the griddle and says nothing; Earlene: one look; the Table: silent in her favor, in person | Tuesday the twenty-sixth inside a sentence; her stool; the Slice named once (registry 9); a morning item kept | Nobody says "the town is on your side"; the slice does it | The point: the counter-current starts, small, in person, and she cannot read it as asking | The griddle; the plate; the cup filled without a word; the last of the rain on the square's glass | The room the reader wants to stay in — and she leaves it |
-| 2. Nine, the offer | Romance felt 4: the phone in her hand, his name, two body beats; the why said plain (the terms; the window; fourteen-hour days) | Boyd (absent): wants her gone — said once; the chair out west: unnamed; Missy's page — TK; Aisha: conflict 2 | Day six said; how the offer reached her (a clause, TK); the sixth of February a Saturday; the walk from the square to the Court | Nobody explains the offer; its lines do it | The point: a man who wants her ground has found her a door. Stakes blatant: the building she was asked to leave is the one the pledge takes in February, and her job with it (F-AGD-01) | Nine before nine: the furnace; the phone's light; the gravel | — |
+| 1. Half past seven, the Checkerboard | Romance felt 6: his own sentence on the air, her body at it across the beats; the slice his order beside her | The cook: wants the griddle and says nothing, and leaves the Slice; the man at the counter: the other side's fair case, conflict 2; Earlene: one look; Aisha: conflict 3 — she does not answer | Tuesday the twenty-sixth inside a sentence; 1340 and what the leak is (the review's interview, Monday); "her protocol" twelve days ago, placed; the Slice named once | Nobody says "he betrayed her"; the radio and her body do it | The point: the town splits in one room, and the one man who might have spoken for her spoke against her. Stakes blatant: his sentence is in the review's week | The griddle; the radio over it; the cup filled without a word; the fork set down | The cook's silence is the dry laugh; else none |
+| 2. Nine, the offer | Romance felt 4: the phone in her hand, his name, two body beats; the why said plain (the window; this morning's sentence; the caption) | Boyd (absent): wants her gone — said once; the chair out west: unnamed; Missy: silent; Aisha: conflict 3 | Day six said; how the offer reached her (a clause, TK); the sixth of February a Saturday; the walk from the square to the Court | Nobody explains the offer; its lines do it | The point: the morning he spoke against her, a man who wants her ground has found her a door. Stakes blatant: the building she was asked to leave is the one the pledge takes in February, and her job with it (F-AGD-01) | Nine before nine: the furnace; the phone's light; the gravel | — |
 | 3. Early afternoon, the annex | Romance felt 4: his truck across the lot — one body beat; the drawer she does not open — the wound in her hands; the coat question (the wool one on her) | The cover man: wants no trouble; the trainer in the door: no side, conflict 1, no drop; Aisha: conflict 3 — taking only what is hers costs her | Asked out by noon on the 20th; her own key; what is hers and what is the clinic's (the numbered boxes stay); the paper chart stays; the tablet's file is hers | Nobody says "she never unpacked" — two boxes say it | The point: six months of hers fits in two boxes. The stake: the chart she cannot take is the boy's | The office: the lamp, the mug ring, the tape gun, the corridor's heat; the whirlpool room; the towels | — (the trainer's one line, if any) |
-| 4. Mid-afternoon, Mt. Nebo | Romance felt 3: none; the building's memory instead of hers | Odell: late from the shop, cranky, particular, busy — wants the essays judged and the meeting moved; Delores: counts; LIKE both; Aisha: conflict 2 — the hall keeps her building's paper and not her | Why she is there (the count against her copy — the review's chain, F1); what the meeting is (Canaan Bottom, 1968 — one clause, as the hall's own business); the boxes behind the key | Nobody explains the church or the meeting; the agenda sheet does it | The point: the county's other memory of the annex is forty-one boxes it carried and did not have to | The hall's length; folding chairs; the pass-through; the key on its ribbon | Odell's particularity is the laugh |
+| 4. Mid-afternoon, Mt. Nebo | Romance felt 3: none; the building's memory instead of hers | Odell: late from the shop, cranky, particular, busy; Delores: counts, and one line on Aisha's side (the boy has one head); LIKE both; Aisha: conflict 2 | Why she is there (the count against her copy — the review's chain, F1); what the meeting is (one clause, the hall's own business); the boxes behind the key | Nobody explains the church or the meeting; the agenda sheet does it | The point: the county's other memory of the annex, and the first voice that says the doctor was right | The hall's length; folding chairs; the pass-through; the key on its ribbon | Odell's particularity is the laugh |
 | 5. Late afternoon, the Court — the towels; the rent | Romance felt 3: none — the account settled is the wound | Verna: wants the rent and the tenant; conflict 2 — the envelope handed back; Sonny: on the repairs, sees, says nothing; Aisha: the towels she did not have to fold | Twelve of fourteen, in thirds, from the whirlpool room; how she learns February is not charged (shown); Sonny's reason for being there | Nobody calls the rent kindness; "the heater rattled" is Verna's whole sentence | The point: every account settled before she goes — and Verna refusing one | The washers; the thirds; the gravel; the office window | Verna's "Mm" |
-| 6. Night, nine — the letter; the storm door | Romance felt 5 (6 if the call is made — call 1): the letter's sense; the ache in the body four beats; the parka folded with the name up; the choice said plain; Kat's text, read once | Verna: her fourth anchor; Kat by text: wants her friend to stay and says it in eleven words; Aisha: TURNED — she chooses the offer | The letter's text (`[TK]` — the author); the reply sent or held, said; the wool coat's pocket; which boxes go in the car (two, and the suitcases); how she is back in nine | Nobody says "nobody asked me to stay" as dialogue — Verna's anchor carries it; the letter's sense once, paraphrased | The point: she leaves because nobody asked, and the town is asking in a language she does not read. Stakes blatant: the answer Saturday; the findings Wednesday; the terms to Wednesday | Nine at night; the furnace; the gravel; the dome light off; the parka's nylon on the box | Kat's text may be the chapter's laugh; else Verna's line |
+| 6. Night, nine — the letter; the storm door | Romance felt 5: the letter's last line; the ache in the body four beats; the parka folded with the name up; the phone put down the second time; the choice said plain; Kat's text | Verna: her fourth anchor; Kat by text: wants her friend to stay; Aisha: TURNED — she chooses the offer | The letter's last line verbatim (blessed); the reply sent or held, said; the wool coat's pocket; which boxes go in the car; how she is back in nine | Nobody says "nobody asked me to stay" as dialogue — Verna's anchor carries it | The point: she leaves because nobody asked, and the one who might have told the county he'd have played the boy. Stakes blatant: the answer Saturday; the findings Wednesday | Nine at night; the furnace; the gravel; the dome light off; the parka's nylon on the box | Kat's text may be the laugh; else Verna's line |
 
 ## ROMANCE BEATS (one per scene, at least three, two kinds)
 
@@ -260,7 +317,8 @@ author's anchors; seven tokens on the proxy's line.
 Aisha loses the building, the file, and the county's story, and
 gives up the sentence she was owed; she chooses it (PAYS Aisha).
 Verna loses a tenant and does not say so. Boyd gains a vacancy and
-is named once. Dan, offstage, loses the chance to be asked.
+is named once. Dan, offstage, loses the chance to be asked, and the benefit of the
+doubt: the reader holds the sound bite against him until 26.
 
 ## ARC BEATS
 
@@ -277,7 +335,7 @@ door, no drop. **Kat:** a text only (RULED). **Missy, Denny, Marisol:** absent.
 | Who | Locked stake carried | The drop (whose eye, what) — the blatant sentence, in the drafter's words |
 |---|---|---|
 | Aisha | on leave; her job on the February agenda under a politer name (F-AGD-01); the offer's answer Saturday the sixth; the findings Wednesday the third; caught in season, both gone (D30.1 — a hint at most: the terms still run) | scene 1, her read, once: the building she is barred from is the one the pledge takes in February, and her job with it; the offer is the door the same man opened |
-| Dan (absent) | a second time ends him (D30.1) | a hint at most, in the why she does not call |
+| Dan (absent) | a second time ends him (D30.1); his sentence in the review's file (D31.10) | the sound bite on the air, scene 1; his stake a hint at most, in the why she does not call |
 | Boyd | the pledge; the building; the offer's pipe (ch 19) | named ONCE, scene 1 |
 | Verna | none locked (pull PROPOSED: the tenant against the town) | February's rent, unasked; the anchor |
 | The trainer | ten thousand (LOCKED) — NO drop (none left) | pull only |
@@ -295,7 +353,8 @@ already cost him a sentence; nobody has asked her to stay.
 ## COUPLE LINE
 
 None spoken. The line is the one he did not say, in her head, once;
-and the call not made (call 1).
+and the call not made (B2-D31.7). His sentence on the air is the
+conflict the couple line answers in 27.
 
 ## END REGISTER: DOWN, on an image. Ch 24 ended down at her office door; 23 down on two phones; 22 flat at a counter.
 
@@ -427,19 +486,16 @@ epigraph); 3 (the wound named once, at the letter); 13 (the card);
 rain, the gravel, what the weather is doing in the last week of
 January).
 
-## THE CARD'S CALLS — DEFAULTS FOR DRAFTING (the author may rule before launch)
+## THE CARD'S CALLS — RULED, and the two left
 
-1. The fourth call — DEFAULT: she does not call; the phone twice in
-   her hand; how he learns of the offer is ch 26's brief (no page
-   gives the county the offer — Boyd and Aisha only). (If the
-   author says she calls: the call is the chapter's romance conflict
-   on the page — she tells him the offer and the date, he says the
-   true thing one chapter late, and neither of them says stay.)
-2. Kat — RULED (the author, 2026-09-21): no surprise scene; Kat stays
-   a text; the card's call is struck.
-3. The Cordelia letter — DEFAULT: its sense in her paraphrase, one
-   sentence, and `[TK the letter's text — the author blesses]`; the
-   text itself only in the author's words.
+1. The fourth call — RULED (B2-D31.7): she does not call; how he
+   learns she chose the offer is ch 26's.
+2. Kat — RULED (2026-09-21): a text only.
+3. The Cordelia letter — RULED (B2-D31.8): its last line verbatim,
+   once; the rest paraphrase.
+4. Open on the card, with defaults the drafters take: she hears the
+   sound bite here, before 26 shows the interview (default: here);
+   Missy silent until 28 (default).
 
 ## AUDIT ADDENDUM — ch 25 card + brief (continuity-keeper 1.4.4, card E3, 2026-09-21) — BLOCK, then corrected in the body above
 
