@@ -1162,3 +1162,19 @@ lines in ch 24 (6), each quoted in the PR. The author's rule since
       part of why). Items 1 and 3 read with it: the one man on record
       doubting her call is the man who loves her, and the name he
       left off the air in 22 is the half he leaves off in the room.
+11. **The wound tears back open — RULED (author, 2026-09-23, on the
+    ch 25 re-brief; AUTHOR-NOTES 279).** "Make sure we are inside
+    Aisha's head and she's really angry or even just saying I knew it.
+    I knew nothing could ever really happen for me once again a man is
+    doing me wrong. This is the ultimate wound tearing back open
+    moment." When the radio reads "I'd have played him" (D31.10), the
+    page stays inside her head, and she is ANGRY, not sad. It is her
+    false belief proven by the one man she let close: needing anyone
+    is how you get hurt (arc-docs §1–2). Every time her judgment was
+    inconvenient to someone with more power she was reclassified from
+    the expert to the problem and moved along; this morning the man
+    she let in did it in front of the county. "I knew it," in her
+    words. Her past in canon's terms only — never fired, never kept;
+    the athletic director who read the dates on the CV (ch 11:311–313)
+    — the dossier's two past programs are NEW and unruled, so no
+    drafter names them. Her body runs across the beats (taste 20).
