@@ -1114,17 +1114,28 @@ lines in ch 24 (6), each quoted in the PR. The author's rule since
     - **The interview.** The independent review interviews Dan before
       the hearing. His head is on her the whole time, on the page:
       the car window, her face through the glass, the hook. He misses
-      the trap in the question. Proposed wording, the author's to
-      change: the reviewer asks whether it is fair to say the hold on
-      Trey cost the team the playoff. He says, "It cost us. I pushed
-      her on it every Friday since June," and the rest of it — that
-      she never moved, and she was right — does not come out. The
-      true half is on the page already (ch 13: "Every Friday since
-      June this man had pushed on a sheet and she had held it").
-    - **The sound bite.** The two sentences leak without the rest:
-      the coach told the review the doctor's hold "cost us" and that
-      he "pushed her on it every Friday." Who leaks it is never said
-      (`[TK]` — Boyd's walls hold; the Table suspects out loud once).
+      the trap in the question.
+    - **The wrong thing — it must really hurt her (author, 2026-09-23:
+      "it still needs to come out as saying the wrong thing and really
+      screwing her over"; AUTHOR-NOTES 269).** DEFAULT (A): the
+      reviewer asks whether, knowing what he knows now, he would have
+      played Trey on the nineteenth. He answers as the coach he used
+      to be: "Every coach in the country plays him. I'd have played
+      him." The half he means — and that is why it is not my call —
+      stays in his head. The head coach is on record that her hold
+      was wrong; the letter's case gets its best witness, and it is
+      the man who loves her. Ch 27, he finishes it: I said I'd have
+      played him; that is exactly why the rule says I don't decide.
+      ALTERNATIVE (B, the harder hit): asked whether she discussed
+      Trey with him outside the building, he answers the feeling, not
+      the question: "We talked about everything." It guts her
+      independence and points at the relationship in season (the
+      both-fired stake, F-DAN-02); the correction at 27 is the
+      couple's own rule, "everything but him." B makes 27–28 answer
+      the relationship question too, not only her call.
+    - **The sound bite.** His sentence leaks without the half he
+      meant. Who leaks it is never said (`[TK]` — Boyd's walls hold;
+      the Table suspects out loud once).
     - **He does not correct it.** He has a chance in public and lets
       it stand, on the lawyer's same advice as ch 24. This is the
       choice the reader holds against him; the interview itself was
