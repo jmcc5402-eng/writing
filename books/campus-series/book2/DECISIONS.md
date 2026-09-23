@@ -1099,3 +1099,46 @@ lines in ch 24 (6), each quoted in the PR. The author's rule since
    seeded (ch 3, 5, 6) change to the ruled word (B2-D23.5) at the
    fold, and every page from ch 25 says sparkling water. The four
    older chapters that say seltzer (11, 16, 17, 18) stay as written.
+10. **Dan's one big mistake: the review interview — RULED (author,
+    2026-09-23, after #190; AUTHOR-NOTES 267–268).** "We need the
+    reader to be really mad at Dan." Then: "have the interviewer ask
+    a really tricky question that he answers poorly. He still doesn't
+    come to her defense, but it's more of a sound bite against her
+    that gets out, saying he pushed her… and then he doesn't vocally
+    correct it after… internal monologue where he's thinking about
+    her and struggling and that's why he was off his game… now we
+    understand why Ayesha is mad at him, but we know that she should
+    not be mad at him because it was just an honest mistake."
+    The extension signed as a trade (option B) is RULED OUT as too
+    much. What the page does:
+    - **The interview.** The independent review interviews Dan before
+      the hearing. His head is on her the whole time, on the page:
+      the car window, her face through the glass, the hook. He misses
+      the trap in the question. Proposed wording, the author's to
+      change: the reviewer asks whether it is fair to say the hold on
+      Trey cost the team the playoff. He says, "It cost us. I pushed
+      her on it every Friday since June," and the rest of it — that
+      she never moved, and she was right — does not come out. The
+      true half is on the page already (ch 13: "Every Friday since
+      June this man had pushed on a sheet and she had held it").
+    - **The sound bite.** The two sentences leak without the rest:
+      the coach told the review the doctor's hold "cost us" and that
+      he "pushed her on it every Friday." Who leaks it is never said
+      (`[TK]` — Boyd's walls hold; the Table suspects out loud once).
+    - **He does not correct it.** He has a chance in public and lets
+      it stand, on the lawyer's same advice as ch 24. This is the
+      choice the reader holds against him; the interview itself was
+      an honest slip.
+    - **Order — DEFAULT, the author may flip it:** the interview is
+      Monday the twenty-fifth, between 24 and 25. Ch 25 (Aisha): she
+      hears the sound bite Tuesday morning, and the reader is angry
+      with her. Ch 26 (Dan): opens in the interview room, a step back
+      to Monday, and the reader learns why. The reader knows before
+      she does that she is wrong about him. Ch 27: he finishes the
+      sentence at the hearing — she held, and she was right.
+    - **Amends** item 5 (his public silence now centres on the sound
+      bite he will not correct; the department's radio line stays as
+      texture) and item 7 (she does not call him; the sound bite is
+      part of why). Items 1 and 3 read with it: the one man on record
+      doubting her call is the man who loves her, and the name he
+      left off the air in 22 is the half he leaves off in the room.
