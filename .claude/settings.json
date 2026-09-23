@@ -5,6 +5,10 @@
         "hooks": [
           {
             "type": "command",
+            "command": "python3 \"$CLAUDE_PROJECT_DIR/studio/tools/cycle.py\" --status || true"
+          },
+          {
+            "type": "command",
             "command": "python3 \"$CLAUDE_PROJECT_DIR/studio/tools/roster-staleness.py\" --quiet || true"
           },
           {
@@ -14,6 +18,10 @@
           {
             "type": "command",
             "command": "python3 \"$CLAUDE_PROJECT_DIR/studio/tools/handoff.py\" --quiet || true"
+          },
+          {
+            "type": "command",
+            "command": "python3 \"$CLAUDE_PROJECT_DIR/studio/tools/comment-census.py\" --quiet || true"
           }
         ]
       }

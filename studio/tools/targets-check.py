@@ -26,8 +26,10 @@ The panel's line, anywhere in its verdict block:
 
     ACTUALS: romance 6 · heat 4 · laughs 2 · ends down
 
-Talk and Words are measured here, not by the panel. Pays is recorded,
-not judged.
+Talk and Words are measured here, not by the panel. Pays is planned
+here and JUDGED by the developmental editor's THE BILL test from ch 25
+(reader-tests L078) — "recorded" was the gap that let ch 24 be scored
+"the cost is felt, never paid".
 
 GATE: romance actual two or more under target → exit 2. Everything
 else is reported. A chapter whose card carries no Targets line fails
@@ -122,7 +124,7 @@ def main() -> int:
         ("Ends", t_end.lower(), a_end, "ok" if a_end == t_end.lower() else "differs"),
         ("Talk", t_talk.lower(), f"{a_talk} ({dlg}%)", "ok" if a_talk == t_talk.lower() else "differs"),
         ("Words", t_words, words, "ok" if abs(words - t_words) <= 0.15 * t_words else "off budget"),
-        ("Pays", t_pays, "—", "recorded"),
+        ("Pays", t_pays, "—", "see THE BILL in the score"),
     ] + extra
     print(f"targets-check ch{ch}   target → actual")
     fail = False

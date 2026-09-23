@@ -18,7 +18,23 @@ Rules:
 7. **Sentences end; say it plain (author, 2026-09-13).** Semantic
    line breaks are for the diff, not for chaining: a narration
    sentence is ordinarily under thirty words and never carries more
-   than three "and"s; a paragraph is never one long sentence. A plot
+   than three "and"s; a paragraph is never one long sentence.
+   **The ban is the CHAIN, not the length (author, merging #186):**
+   *"the spirit of this problem was not about long sentences that are
+   well formatted, it was about weird clause-like long sentences that
+   had seven commas in them."* Four or more commas in a narration
+   sentence is the finding; the chapter lint counts them. Ch 17, the
+   chapter that drew the complaint, ran 21.7% of its narration at four
+   or more commas and a maximum of nine. Ch 14, which nobody
+   complained about, ran 9.2% with sentences of 71 words. **Length was
+   never the problem.**
+   **"Ordinarily" is a budget, not a ban (RULED 2026-09-23, #186).** One or two sentences a chapter SHOULD
+   run past thirty; a chapter with none has lost its long tail. Before
+   2026-09-13 this book ran 10–35% of sentences over thirty and a CV
+   of 0.78–0.89; under the cap as the lint enforced it, ch 18–24 run
+   0.3–5% and a CV of 0.52–0.57. Seven chapters of metronome, and
+   every one passed its own gate. Check the lint's SENTENCE SHAPE
+   line, not only its violation count. A plot
    object weighs what the plot has made it weigh — say its meaning
    once in plain words and do not carry it as a mystery. A joke
    between minor characters is understood on the page (a plain line,

@@ -60,3 +60,39 @@ paid for. Nothing here resolves unless the outline says so.
 | Marisol Pruett | Moderates the room that campaigns against her own son (canon already) | Yes |
 | Odell / Tick | The eleven who signed are his customers / the show runs on Boyd's dealership money | No / Yes |
 | Kat | Wants Aisha to stay because she is about to need somewhere to land herself | Yes |
+
+---
+
+## How often the stake is said plain  *(PROPOSED — the author rules on PR)*
+
+Two standing rules disagree, and the ch 24 keeper blocked the chapter on
+the gap (`notes/ch24-keeper-2026-09-21.md`, blocking item 3).
+
+- **B2-D28.2 / D30.1 / F-DAN-02:** said plain **once**, in ch 23, then a
+  hint per apart chapter, once a chapter at most.
+- **Taste 22, amended 2026-09-21** on the author's own words: *"I still
+  don't feel the stakes are very high. Maybe we need to be more blatant
+  and say if they are caught… they will both instantly get fired."*
+
+Ch 24 obeyed the newer one and broke the older one. The proxy asked for
+it plain; the drafter complied; the keeper blocked, correctly, because a
+LOCKED decision moves only by the author (hard rule 7). Until this is
+ruled, every apart chapter buys a revision round on the same sentence.
+
+**A — RECOMMENDED, applied below.** The newer taste wins, with a cap.
+**B** — D28.2 stands; ch 24's two plain sentences collapse to hints.
+**C** — split them: the firing stake plain per chapter, the
+end-of-career stake a hint only.
+
+### The rule, as A would write it
+
+**The stake may be said plain ONCE per chapter, and it must be the same
+stake each time it is said.** Not once per book. A reader who skipped a
+week is told again what it costs them, in one sentence, and the chapter
+spends nothing else on it. Two plain statements of two different stakes
+in one chapter (ch 24: the firing at l.67–68 and the end-of-career at
+l.137–139) is one too many — the second is the hint.
+
+*If the author rules A, the story thread amends B2-D28.2, D30.1 and
+F-DAN-02 to match at the next fold; `DECISIONS.md` is outside this
+thread's scope (`studio/threads/SCOPES.md`).*

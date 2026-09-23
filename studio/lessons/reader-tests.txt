@@ -27,3 +27,4 @@ L057	author-proxy	POINT	ch{CH}-author-proxy-*.md	point
 L057	author-proxy	SENSES	ch{CH}-author-proxy-*.md	senses
 L062	author-proxy	FUN	ch{CH}-author-proxy-*.md	fun	from=24
 L065	author-proxy	FUN	ch{CH}-author-proxy-*.md	fun	from=24
+L078	developmental-editor	THE BILL	scores/ch{CH}-score.md	bill	from=25

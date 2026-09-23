@@ -197,6 +197,121 @@ shape() { bash "$ROOT/studio/tools/chapter-lint.sh" "$1" 2>&1 | sed -n '/SENTENC
   && expect 0 "chapter-lint SENTENCE SHAPE stays quiet on varied prose" true \
   || expect 0 "chapter-lint SENTENCE SHAPE stays quiet on varied prose" false
 
+# --- proposal-lint (L072) ------------------------------------------------
+expect 0 "proposal-lint passes the open proposals as written" python3 "$ROOT/studio/tools/proposal-lint.py"
+mkdir -p "$T/proposals"
+python3 - "$T" <<'PY'
+import sys
+T = sys.argv[1]
+base = ("Status: OPEN\n\n## What\nx\n\n## Found by\n`grep x`\n\n## Where\nstudio/STYLE.md:1\n\n"
+        "## Now\n```\n%s\n```\n\n## Proposed\n```\nsomething else entirely\n```\n\n"
+        "## Why\nx\n\n## Verify\n`grep -c x studio/STYLE.md`\n")
+open(f"{T}/proposals/P900.md", "w").write(base % "TEXT THAT IS NOT IN THAT FILE AT ALL")
+open(f"{T}/proposals/P901.md", "w").write(
+    "Status: OPEN\n\n## What\nx\n\n## Where\nstudio/STYLE.md:1\n\n## Now\n```\na\n```\n")
+PY
+expect 2 "proposal-lint refuses a Now block that is not in the file" python3 "$ROOT/studio/tools/proposal-lint.py" "$T/proposals/P900.md"
+expect 2 "proposal-lint refuses a proposal missing sections" python3 "$ROOT/studio/tools/proposal-lint.py" "$T/proposals/P901.md"
+
+# --- ack + calibration (L074, L075) --------------------------------------
+printf '  \xe2\x9c\x97 book2/ch18  sentence lengths too uniform: CV 0.54\n' \
+  | expect 0 "ack --filter suppresses a finding tracked on the board" bash -c \
+  'out=$(python3 "'"$ROOT"'/studio/tools/ack.py" --filter); grep -q "acknowledged, not shown" <<<"$out"'
+printf '  \xe2\x9c\x97 something nobody has ever acknowledged at all\n' \
+  | expect 0 "ack --filter passes an unacknowledged finding through" bash -c \
+  'out=$(python3 "'"$ROOT"'/studio/tools/ack.py" --filter); grep -q "nobody has ever" <<<"$out"'
+expect 0 "calibration reports and refuses to judge under its floor" python3 "$ROOT/studio/tools/calibration.py" "$ROOT/books/campus-series/book2"
+python3 - "$T" <<'PY'
+import pathlib, sys
+T = sys.argv[1]
+d = pathlib.Path(T, "bk", "notes"); d.mkdir(parents=True, exist_ok=True)
+(d / "romance-levels.md").write_text(
+    "| Ch | Author | Panel |\n|---|---|---|\n"
+    "| 1 | **2** | **6** |\n| 2 | **3** | **7** |\n| 3 | **3** | **8** |\n")
+PY
+expect 2 "calibration fails an instrument running outside tolerance" python3 "$ROOT/studio/tools/calibration.py" "$T/bk"
+
+# --- the four builds of 2026-09-23 (L076, L077, L078) --------------------
+mkdir -p "$T/ms/manuscript" "$T/ms/canon"
+python3 - "$T" <<'PY'
+import sys
+T = sys.argv[1]
+def chap(path, sents):
+    open(path, "w").write("# Chapter 99 - X\n\nPOV: x.\n\n---\n\n" + "\n\n".join(sents) + "\n")
+# chaining: many 4+-comma narration sentences
+chap(f"{T}/ms/manuscript/ch01.md",
+     [" ".join(["He went to the door, and the door, which was open, stood there, waiting, still."] * 3)] * 12)
+# clean: varied, few commas, and a long one that runs
+chap(f"{T}/ms/manuscript/ch02.md",
+     ["She stopped. " + " ".join(["The road was long and it went on past the fence and the field and the far "
+      "line of trees where the light had not reached yet and would not for an hour."] * 2)] * 12)
+open(f"{T}/ms/canon/TARGETS.md", "w").write(
+    "| Ch | POV | Romance | Heat | A | D | Wound | Fun | Town | Menace | Ends | Talk | Words | Pays |\n"
+    + "|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n"
+    + "".join(f"| {i} | A | 5 | 2 | 1 | 1 | 1 | 1 | 2 | 0 | flat | quiet | 3000 | Dan |\n" for i in range(1, 13)))
+PY
+chain() { bash "$ROOT/studio/tools/chapter-lint.sh" "$1" 2>&1 | sed -n '/== SENTENCES/,/^== /p' | grep -c "FINDING: the sentences are chaining"; }
+ceil() { bash "$ROOT/studio/tools/chapter-lint.sh" "$1" 2>&1 | sed -n '/== SENTENCES/,/^== /p' | grep -c "Nothing here runs"; }
+[[ "$(chain "$T/ms/manuscript/ch01.md")" -ge 1 ]] && expect 0 "chapter-lint flags comma-chaining, not length" true || expect 0 "chapter-lint flags comma-chaining, not length" false
+[[ "$(chain "$T/ms/manuscript/ch02.md")" -eq 0 ]] && expect 0 "chapter-lint passes long sentences that do not chain" true || expect 0 "chapter-lint passes long sentences that do not chain" false
+[[ "$(ceil "$T/ms/manuscript/ch01.md")" -ge 1 ]] && expect 0 "chapter-lint flags a chapter whose longest sentence hits the cap" true || expect 0 "chapter-lint flags a chapter whose longest sentence hits the cap" false
+expect 2 "stakes-check fails a book whose antagonist never moves" python3 "$ROOT/studio/tools/stakes-check.py" "$T/ms"
+expect 0 "stakes-check --gate reports and never blocks" python3 "$ROOT/studio/tools/stakes-check.py" "$T/ms" --gate 3
+# --first 3 exits 2 on this book because it CORRECTLY finds the drift the
+# sheet has carried since 2026-08-30. The test is that it read three
+# chapters and still saw it, which is the whole point of an early read.
+early() { python3 "$ROOT/studio/tools/voice-dial.py" "$ROOT/books/campus-series/book2" --first 3 2>&1; }
+[[ "$(early | grep -c 'EARLY READ — first 3')" -ge 1 ]] \
+  && expect 0 "voice-dial --first reads only the opening chapters" true \
+  || expect 0 "voice-dial --first reads only the opening chapters" false
+[[ "$(early | grep -c 'Modernity')" -ge 1 ]] \
+  && expect 0 "voice-dial --first still scores at the three-chapter floor" true \
+  || expect 0 "voice-dial --first still scores at the three-chapter floor" false
+grep -q "THE BILL" "$ROOT/.claude/agents/developmental-editor.md" \
+  && expect 0 "the developmental editor carries THE BILL (reader-tests L078)" true \
+  || expect 0 "the developmental editor carries THE BILL (reader-tests L078)" false
+grep -q "The dials" "$ROOT/studio/series-kit/05-book-premise.md" \
+  && expect 0 "the series kit asks for the dials at the premise gate" true \
+  || expect 0 "the series kit asks for the dials at the premise gate" false
+
+# --- order-lint: forward-first (L079) ------------------------------------
+mkdir -p "$T/orders"
+python3 - "$T" <<'PY'
+import sys
+T = sys.argv[1]
+open(f"{T}/orders/O900.md", "w").write(
+    "# O900\nStatus: OPEN\n## Why this stretch\nx\n## What done looks like\n"
+    "A revision pass over ch 1-7 raising the body count.\n")
+open(f"{T}/orders/O901.md", "w").write(
+    "# O901\nStatus: OPEN\n## The forward fix\nEvery chapter from 25 on meets the floor.\n"
+    "## Why backward\nThe sample is mission critical.\nA light pass over ch 1-2 only.\n"
+    "## What is NOT being asked for\nNo revision pass over ch 4-20.\n")
+PY
+expect 2 "order-lint refuses an order that is only backward" python3 "$ROOT/studio/tools/order-lint.py" "$T/orders/O900.md"
+expect 0 "order-lint passes a forward-first order with a bounded backward ask" python3 "$ROOT/studio/tools/order-lint.py" "$T/orders/O901.md"
+expect 0 "order-lint ignores chapter ranges under a NOT-being-asked heading" python3 "$ROOT/studio/tools/order-lint.py" "$T/orders/O901.md"
+expect 0 "the live orders are forward-first" python3 "$ROOT/studio/tools/order-lint.py"
+expect 2 "stakes-check --first flags an opening where nothing presses" python3 "$ROOT/studio/tools/stakes-check.py" "$ROOT/books/campus-series/book2" --first 3
+
+# --- the release cycle and the scorecard (L080, L081) --------------------
+expect 2 "cycle --gate holds a release while the next book is incomplete" python3 "$ROOT/studio/tools/cycle.py" --gate 1.1
+expect 2 "cycle --gate refuses a book not declared in CYCLE.md" python3 "$ROOT/studio/tools/cycle.py" --gate 9.9
+expect 0 "cycle --status prints the state" python3 "$ROOT/studio/tools/cycle.py" --status
+printf '{"tool_input":{"title":"[campus][RELEASE] Book 1.1 to KDP","body":"## Ask\\n\\nMerge to release Book 1.1.\\n\\nShort body."}}' \
+  | expect 2 "pr-lint holds a [RELEASE] PR on the cycle" python3 "$ROOT/studio/tools/pr-lint.py"
+[[ "$(python3 "$ROOT/studio/tools/comment-census.py" --scorecard | grep -c 'ch23 .* MORE')" -ge 1 ]] \
+  && expect 0 "scorecard attributes chat notes to their chapter (ch 23 repeats MORE)" true \
+  || expect 0 "scorecard attributes chat notes to their chapter (ch 23 repeats MORE)" false
+
+# --- export-book and the shippable gate (L082) ---------------------------
+mkdir -p "$T/eb/manuscript"
+printf '# Chapter 1 - X\n\nPOV: A.\n(ACCEPTED by #1, card D2)\n\n---\n\nShe walked in.\n' > "$T/eb/manuscript/ch01.md"
+printf 'Title page.\n' > "$T/eb/front-matter.md"; printf 'Read book two.\n' > "$T/eb/back-matter.md"
+expect 0 "export-book strips the production header and passes clean prose" python3 "$ROOT/studio/tools/export-book.py" "$T/eb" --check
+printf '# Chapter 2 - Y\n\n---\n\nShe said [TK the name] and left.\n' > "$T/eb/manuscript/ch02.md"
+expect 2 "export-book refuses workshop text in the reader-facing prose" python3 "$ROOT/studio/tools/export-book.py" "$T/eb" --check
+expect 2 "export-book reports Book 1.1 missing front and back matter" python3 "$ROOT/studio/tools/export-book.py" "$ROOT/books/campus-series" --check
+
 # --- the bans' own fixtures --------------------------------------------
 expect 0 "bans.py --test: every ban fires on its fixture" python3 "$ROOT/studio/tools/bans.py" --test
 

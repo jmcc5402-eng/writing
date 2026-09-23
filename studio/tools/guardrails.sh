@@ -18,10 +18,12 @@ cd "$ROOT"
 
 BOOK="books/campus-series"
 QUICK=0
+OPENING=0
 while (($#)); do
   case "$1" in
     --book) BOOK="$2"; shift 2 ;;
     --quick) QUICK=1; shift ;;
+    --opening) OPENING=1; shift ;;
     *) echo "usage: guardrails.sh [--book DIR] [--quick]" >&2; exit 1 ;;
   esac
 done
@@ -34,12 +36,47 @@ run() {
   out="$("$@" 2>&1)"; rc=$?
   if ((rc == 0)); then
     passes+=("$name")
-  else
-    fails+=("$name")
-    printf '\n\033[1m── %s ─────────────────────────\033[0m\n' "$name"
-    printf '%s\n' "$out"
+    return
   fi
+  # A finding already on the handoff board, or already ruled by the author,
+  # prints as a count rather than a block (studio/threads/ACKED.md; L074).
+  local filtered raw_n left_n
+  raw_n="$(grep -c '✗' <<<"$out" || true)"
+  filtered="$(python3 "$ROOT/studio/tools/ack.py" --filter <<<"$out" 2>/dev/null || printf '%s' "$out")"
+  left_n="$(grep -c '✗' <<<"$filtered" || true)"
+  if ((raw_n > 0 && left_n == 0)); then
+    passes+=("$name  (all $raw_n finding(s) acknowledged)")
+    return
+  fi
+  fails+=("$name")
+  printf '\n\033[1m── %s ─────────────────────────\033[0m\n' "$name"
+  printf '%s\n' "$filtered"
 }
+
+# --opening: the first three chapters of a book, measured the day they
+# exist. Book 1.2's cold sample was findable at 8,000 words and nobody
+# looked until 64,000. Three is the floor; one or two hold too little
+# signal to score. (L079)
+if ((OPENING)); then
+  echo "guardrails --opening  ($BOOK)  — the first three chapters"
+  echo
+  python3 studio/tools/voice-dial.py "$BOOK" --first 3 2>&1 | sed 's/^/  /'
+  python3 studio/tools/stakes-check.py "$BOOK" --first 3 2>&1 | sed 's/^/  /'
+  rc=$?
+  for n in 01 02 03; do
+    f="$BOOK/manuscript/ch$n.md"
+    [[ -f "$f" ]] || continue
+    echo
+    echo "  ch$n"
+    bash studio/tools/chapter-lint.sh "$f" 2>&1 \
+      | sed -n '/TALK vs BODY/,/^== /p' | sed -n '2,6p' | sed 's/^/  /'
+  done
+  echo
+  echo "  The opening is set by who is in the room and what presses, and both are"
+  echo "  fixed at the outline. A cold sample is an outline finding, not a drafting"
+  echo "  one — which is why it is cheap here and expensive later."
+  exit $rc
+fi
 
 echo "guardrails  ($BOOK)"
 
@@ -52,6 +89,14 @@ echo
 run "roster staleness"  python3 studio/tools/roster-staleness.py --quiet
 run "thread ids"        python3 studio/tools/id-check.py --audit
 run "handoff board"     python3 studio/tools/handoff.py --audit
+run "proposals"         python3 studio/tools/proposal-lint.py
+run "work orders"       python3 studio/tools/order-lint.py
+run "release cycle"     python3 studio/tools/cycle.py
+run "export (1.1)"      python3 studio/tools/export-book.py books/campus-series --check
+run "scorecard"         python3 studio/tools/comment-census.py --scorecard
+run "comment census"    python3 studio/tools/comment-census.py --audit
+run "calibration"       python3 studio/tools/calibration.py "$BOOK/book2"
+run "stakes curve"      python3 studio/tools/stakes-check.py "$BOOK/book2"
 run "bans fire"         python3 studio/tools/bans.py --test
 run "lesson ledger"     python3 studio/tools/lesson-check.py
 run "hooks refuse"      bash studio/tools/hook-check.sh
