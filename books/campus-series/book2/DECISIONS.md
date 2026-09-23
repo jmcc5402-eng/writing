@@ -1005,3 +1005,97 @@ day (AUTHOR-NOTES 238–244).
    confirmed. RULED as the scale: the panel and the proxy rate on the
    author's calibration (romance-levels.md rows 20 and 23 as anchors);
    TARGETS carries the definitions.
+
+## B2-D31 — the ch 24 comments: the answers, and what they change in 25–30 (PROPOSED 2026-09-23; locks on merge)
+
+The author left eight comments reading #182 (2026-09-22) and merged
+it. Three asked for ideas. Every recommendation below is written
+forward: it lands in ch 25–30, which do not exist yet. The only
+backward changes are one planted line in ch 16 (1) and three single
+lines in ch 24 (6), each quoted in the PR. The author's rule since
+2026-09-24: forward, not backward, except small and mission-critical.
+
+1. **Her call is arguable, and she is still right.** The comment: "no
+   school would really suspend a doctor for doing standard medical
+   practices… just a line or two… to show that there could've been
+   another way." Her ladder makes every step sleep a night (ch 15);
+   the town's version is that anybody else's doctor would have had
+   the boy back for the playoff. PLANTED once before the suspension —
+   ch 16, the two locals on Millrow, a third line after "She might.":
+   "Anybody else's doctor would've had him back Saturday." FORWARD:
+   ch 25, a man at the Checkerboard counter says the same thing in
+   her hearing; ch 27, the independent reviewer's first question is
+   why her ladder ran slower than other programs'. Ch 28's finding
+   still affirms her. [CHECK: the culture-researcher verifies before
+   ch 27 what a conference-standard return-to-play ladder allows, so
+   the reviewer's question is fair and her answer is right.]
+2. **Boyd is behind the suspension; the families and the trustees
+   acted in good faith.** The comment: "Boyd whispered suspending her
+   somehow giving the justification that she's gonna get fired anyway
+   once the new hospital system is in place… the board and the letter
+   end up actually being somewhat innocent." Canon already carries
+   the reason: the provider partner takes her line (B2-D13, B2-T11).
+   The athletic director says it to Dan in ch 26, in his own words,
+   once: the partner comes in July either way, so why spend a season
+   defending a line that is gone by July. Where the AD heard it is
+   never said; Dan knows. Boyd's walls hold — never on the page
+   saying it, never proven, exits smiling. The eleven families signed
+   what they believed; the wording was handed to them (B2-T07 stands,
+   so the ch 27 decode still pays, and it now reads as honest people
+   used). The trustees vote in February on what the AD hands them.
+   Denny's refusal (28) stands.
+3. **Dan's radio defense matters.** The comment: "maybe the fact that
+   he regretted saying it, maybe the fact that he doesn't… that was
+   an important moment that we've sort of glossed over." Ruled: he
+   does not regret the defense (ch 22, on air, "her protocol"). He
+   regrets the name he left off it. Ch 25: Aisha remembers hearing him
+   say "her protocol" to the whole county, which is what makes this
+   week's silence cut. Ch 26: he replays the air and knows the county
+   heard the gap. Ch 27 closes it with her name, as outlined.
+4. **More people say the doctor is right.** The comment: "we're making
+   it seem like everybody just wants the boy to play football… look,
+   football is important, but that boy's life depends on the doctor's
+   call." Four voices, one line each, none a speech, all forward:
+   Delores at Mt. Nebo (25); Odell's shop, a customer or Odell (26); a
+   trustee at the hearing, `[TK name]`: what would we be saying today
+   if she had cleared him and he had gone down (27); Tick on air (28,
+   the anchor already written). With (1), the town is split, not one
+   voice.
+5. **Dan's wound goes deeper, and the reader is angry at him.** The
+   comments: "the hate factor of Dan is not that strong… he made the
+   one decision with the athletic director in the room, but that
+   seemed too easy"; and "a football job at this high level of college
+   is a dream job and something you have to fight for every single
+   moment." Ch 25 (Aisha): WDSS reads the department's line with his
+   name on it, "Coach Merritt has full confidence in the independent
+   review process," a week after he said "her protocol" on the same
+   air. The reader is angry here. Ch 26 (Dan): the struggle on the
+   page, not in five lines. The AD's July line (2); the dream job said
+   plain, a job you fight for every day because somebody always wants
+   it; his staff's jobs ride on his extension (new canon; Ty's
+   proposed row stays cut unless ruled). He chooses silence through
+   the hearing's week and knows what it costs her. The outline's
+   standoff and the turn signal stay. Angry at 25, understood at 26,
+   bought back at 27.
+6. **Three single lines in ch 24, applied at the fold.** (a) After "a
+   board had known what he was once before anybody said it to his
+   face" (l.153), the dream job in his head, one sentence. (b) The
+   town room (l.176–177): the county hates her fine in the rooms
+   built for it; this room is for lost dogs, and it turns on DeeAnn
+   for tracking her in. (c) After "Film's at four" / "That was the
+   whole line." (l.255–257), one sentence of what it meant: the only
+   thing a coach could say in a parking lot with the lawyer in his
+   ear — practice at four, and he would be at it, and she would not.
+7. **Ch 25: she does not call Dan the night she decides.** He learns
+   in 26 from the AD, which deepens (5). Alternative: she calls, tells
+   him the offer and the date, and he says the true thing one chapter
+   late.
+8. **The Cordelia letter's last line, on the page once, as the
+   outline has it (S01; the author blesses by merging):** "You keep
+   asking what I stayed for, as if a town were a reason. It was never
+   the town. It was being needed by it on purpose." The rest of the
+   letter stays paraphrase.
+9. **"Sparkling water," forward.** The three pages the 2026-09-16 pass
+   seeded (ch 3, 5, 6) change to the ruled word (B2-D23.5) at the
+   fold, and every page from ch 25 says sparkling water. The four
+   older chapters that say seltzer (11, 16, 17, 18) stay as written.
