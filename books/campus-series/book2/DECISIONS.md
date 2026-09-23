@@ -1174,7 +1174,9 @@ lines in ch 24 (6), each quoted in the PR. The author's rule since
     inconvenient to someone with more power she was reclassified from
     the expert to the problem and moved along; this morning the man
     she let in did it in front of the county. "I knew it," in her
-    words. Her past in canon's terms only — never fired, never kept;
-    the athletic director who read the dates on the CV (ch 11:311–313)
-    — the dossier's two past programs are NEW and unruled, so no
-    drafter names them. Her body runs across the beats (taste 20).
+    words. AMENDED the same day (AUTHOR-NOTES 280): "it doesn't have
+    to be a previous wound, it just needs to show her really hurt."
+    The hurt is about now, not her history: at most one clause of the
+    old pattern (never fired, never kept), and none is fine; the
+    dossier's past programs stay unruled and unnamed. Her body runs
+    across the beats (taste 20).

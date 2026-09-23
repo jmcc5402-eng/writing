@@ -56,18 +56,17 @@ it (DECISIONS B2-D31; AUTHOR-NOTES 267–278).
    the beats (taste 20); the reader is angry with her. Do NOT let the
    page explain him — ch 26 does that.
    **THE WOUND TEARS BACK OPEN (B2-D31.11, the author: "the ultimate
-   wound tearing back open moment").** Inside her head, and ANGRY —
-   not sad, not composed, not the doctor. "I knew it," in her words.
-   Nothing was ever really going to happen for her; once again a man
-   with more power has made her the problem. It is her false belief
-   proven by the one man she let close (arc-docs §1–2: needing anyone
-   is how you get hurt; reclassified from the expert to the problem
-   and moved along; never fired, never kept). Her past in canon's
-   terms only — the athletic director who read the dates on the CV
-   (ch 11:311–313); name no past program, city or man (the dossier's
-   are unruled). The anger runs in her body across the beats — face,
-   hands, the fork, the cup — and she does not let the room see it.
-   This is the chapter's highest moment; slow down here (taste 16).
+   wound tearing back open moment" — and "it doesn't have to be a
+   previous wound, it just needs to show her really hurt").** Inside
+   her head, and REALLY HURT — angry, not composed, not the doctor.
+   "I knew it," in her words: nothing was ever really going to happen
+   for her. The hurt is about NOW — the man she let close said it to
+   the county — not a history lesson. No backstory is owed: at most
+   one clause of the old pattern (never fired, never kept), and none
+   is fine. Name no past program, city or man. The hurt runs in her
+   body across the beats — face, hands, the fork, the cup — and she
+   does not let the room see it. This is the chapter's highest
+   moment; slow down here (taste 16).
 2. **The air defense, remembered (D31.3).** Twelve days ago, on the
    same station (ch 22, Thursday the fourteenth), he said "her
    protocol" to the whole county. She remembers it once, at the radio.
