@@ -34,6 +34,7 @@ Ledger: L068.
 | Branch | Scope | Note |
 |---|---|---|
 | `claude/model-fable-y2vo9s` | environment | the guardrails thread (2026-09-21) |
+| `claude/vibrant-sagan-xvho2l` | environment | the delivery thread — packaging and launch, never a chapter (2026-09-23) |
 | `studio/*` | environment | studio branches carry no prose |
 | `agents/*` | environment | writers'-room branches carry no prose |
 | `campus/*` | story | |
