@@ -117,6 +117,11 @@ if (( 10#$CH >= TARGETS_FROM )) && [[ -f "$REPO/studio/tools/targets-check.py" ]
   printf '%s\n' "$tc" | sed 's/^/  /'
 fi
 
+# What this chapter's planned payer must be shown to have LOST (L078).
+if [[ -f "$REPO/studio/tools/stakes-check.py" ]]; then
+  python3 "$REPO/studio/tools/stakes-check.py" "$BOOKDIR" --gate "$CH" 2>/dev/null || true
+fi
+
 # How far the readers' numbers have run from the author's. Reported, never
 # blocking: an instrument running hot is a reason to weigh its number, not a
 # reason to stop the book. (L075)

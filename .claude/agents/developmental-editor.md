@@ -116,3 +116,36 @@ that stands beside it. Your last finding, every run, is
 TASTE: which entries the work risks, and where. An entry that recurs
 after it became a rule is a finding against the check, not only the
 chapter.
+
+
+## THE BILL — what was actually taken  *(from ch 25; L078)*
+
+The author, 2026-09-23: *"not only do we need to say the stakes, the
+stakes need to be high."*
+
+Every other instrument asks whether the stake is SAID. This one asks
+whether it was **charged**. The matrix plans a `Pays` for every chapter
+— who loses something — and until now that column was recorded and never
+judged, which is how ch 24 could be scored with *"the cost is felt,
+never paid — nothing is taken from Dan today."*
+
+For the chapter's planned payer, answer in one line each:
+
+1. **What was taken**, named as a thing, with the line number. Not a
+   feeling about a thing: a job, a stool, an hour, a name off a door, a
+   phone call that does not come.
+2. **Who took it**, and whether the reader watched it happen or was told
+   afterwards.
+3. **What it costs them next chapter** — a bill with no consequence is a
+   mood.
+
+If nothing was taken, say so plainly. `Pays: nobody` is allowed once a
+book and the page should not pretend otherwise.
+
+End the score file with a line beginning `TESTS:` carrying the token
+**`bill`**, plus `paid` or `unpaid`:
+
+    TESTS: bill paid — the stool at l.379 (Earlene gives it away in front of him)
+
+`accept-gate.sh` demands that line from ch 25 (`reader-tests.txt`
+L078). A score without it is not a score.

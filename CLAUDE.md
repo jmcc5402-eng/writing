@@ -181,5 +181,14 @@ is made (`studio/PIPELINE.md`, "The author's notes").
 
 ## Working style
 
+**Forward, not backward (author, 2026-09-24).** *"An anti-pattern is for
+us to continually look backwards at stuff that's already written. I'm OK
+making very slight changes to existing work, but would rather focus our
+efforts on building the guard rail, so future work is improved."* A
+finding about finished chapters becomes a floor for the chapters that do
+not exist yet. It becomes a revision only when the backward work is
+mission-critical, and then it is small — `studio/threads/orders/` and
+`order-lint.py` enforce this on every work order.
+
 Agile: one small, finished increment at a time. Ship it, learn, pick the next
 one. Don't try to perfect everything at once.

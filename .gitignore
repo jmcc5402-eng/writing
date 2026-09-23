@@ -1,2 +1,5 @@
 __pycache__/
 *.pyc
+
+# The reader-facing export (export-book.py). Derived; rebuild any time.
+build/
