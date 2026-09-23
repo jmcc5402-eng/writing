@@ -274,6 +274,25 @@ grep -q "The dials" "$ROOT/studio/series-kit/05-book-premise.md" \
   && expect 0 "the series kit asks for the dials at the premise gate" true \
   || expect 0 "the series kit asks for the dials at the premise gate" false
 
+# --- order-lint: forward-first (L079) ------------------------------------
+mkdir -p "$T/orders"
+python3 - "$T" <<'PY'
+import sys
+T = sys.argv[1]
+open(f"{T}/orders/O900.md", "w").write(
+    "# O900\nStatus: OPEN\n## Why this stretch\nx\n## What done looks like\n"
+    "A revision pass over ch 1-7 raising the body count.\n")
+open(f"{T}/orders/O901.md", "w").write(
+    "# O901\nStatus: OPEN\n## The forward fix\nEvery chapter from 25 on meets the floor.\n"
+    "## Why backward\nThe sample is mission critical.\nA light pass over ch 1-2 only.\n"
+    "## What is NOT being asked for\nNo revision pass over ch 4-20.\n")
+PY
+expect 2 "order-lint refuses an order that is only backward" python3 "$ROOT/studio/tools/order-lint.py" "$T/orders/O900.md"
+expect 0 "order-lint passes a forward-first order with a bounded backward ask" python3 "$ROOT/studio/tools/order-lint.py" "$T/orders/O901.md"
+expect 0 "order-lint ignores chapter ranges under a NOT-being-asked heading" python3 "$ROOT/studio/tools/order-lint.py" "$T/orders/O901.md"
+expect 0 "the live orders are forward-first" python3 "$ROOT/studio/tools/order-lint.py"
+expect 2 "stakes-check --first flags an opening where nothing presses" python3 "$ROOT/studio/tools/stakes-check.py" "$ROOT/books/campus-series/book2" --first 3
+
 # --- the bans' own fixtures --------------------------------------------
 expect 0 "bans.py --test: every ban fires on its fixture" python3 "$ROOT/studio/tools/bans.py" --test
 

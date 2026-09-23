@@ -147,6 +147,22 @@ def gate(book: pathlib.Path, ch_raw: str) -> int:
 def main() -> int:
     args = [a for a in sys.argv[1:] if not a.startswith("-")]
     book = pathlib.Path(args[0]).resolve() if args else pathlib.Path(REPO, "books/campus-series/book2")
+    if "--first" in sys.argv:
+        i = sys.argv.index("--first")
+        n = int(sys.argv[i + 1])
+        rs = rows(book)[:n]
+        if not rs:
+            print("stakes-check: nothing to read"); return 0
+        quiet = sum(1 for r in rs if r["menace"] <= 1)
+        print(f"  stakes (first {len(rs)} chapters): Menace " +
+              "".join(str(r["menace"]) for r in rs) +
+              f" — {quiet} of {len(rs)} at 1 or less")
+        if quiet == len(rs):
+            print("  FINDING: nothing presses anywhere in the opening. This is the")
+            print("  stretch a reader downloads free. Book 1.2 ran seven consecutive")
+            print("  chapters at Menace 1 or less and nobody saw it until ch 24. (L079)")
+            return 2
+        return 0
     if "--gate" in sys.argv:
         i = sys.argv.index("--gate")
         return gate(book, sys.argv[i + 1] if len(sys.argv) > i + 1 else args[-1])

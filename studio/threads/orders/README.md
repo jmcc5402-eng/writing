@@ -13,6 +13,32 @@ A work order exists because the other two cannot say *"raise the body
 count across seven chapters."* A proposal needs text you could have
 typed; a board row is one line.
 
+## The first rule — forward, unless it is mission-critical
+
+The author, 2026-09-24: *"I generally wanna focus on future books more
+than the existing or previous books. I think an anti-pattern is for us
+to continually look backwards at stuff that's already written… I'd
+rather focus our efforts on building the guard rail, so future work is
+improved. So for any messages to the writers, please make sure they know
+to go light on any changes in the past unless we really think they are
+mission critical."*
+
+**Every order leads with the forward fix**, and `order-lint.py` refuses
+one that does not. A finding about written chapters becomes a floor for
+the chapters that do not exist yet; it becomes a revision only when the
+backward work passes a named test, and then it is small.
+
+- a `## The forward fix` section is **required**
+- a backward ask needs a `## Why backward` or mission-critical section
+- a backward ask over **three chapters** is a warning: narrow it
+
+The pull toward the past is structural, not careless — the pages exist
+and the numbers are already computed, so it is the easiest thing to act
+on. O001's first draft turned a real measurement into a revision pass
+over seven finished chapters, written by the thread whose job is to
+stop anti-patterns, on the day the author named it. That is why this is
+a lint and not a paragraph of advice. (L079)
+
 ## The rule that makes an order useful
 
 **An order carries numbers and a verification, never a scene.** The
