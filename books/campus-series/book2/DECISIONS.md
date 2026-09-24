@@ -1241,12 +1241,13 @@ victory." (AUTHOR-NOTES 287)
    causes the win, it does not decorate it.
 2. **The false high — ch 28.** She is cleared; the town takes its hats
    off. The reader thinks it is over.
-3. **The final disaster — the end of 28.** The reader remembers she
-   has accepted the job out west. Cleared changes nothing: nobody has
-   asked her to stay. `[TK — the author's call: she SENDS the typed
-   acceptance at the end of 28 (recommended: the yes is real, and 29
-   costs her taking it back), or it sits unsent to the deadline, as
-   ch 25 left it]`
+3. **The final disaster — the end of 28. She SENDS the acceptance —
+   RULED (author, 2026-09-24: "I like the send and then the take
+   back. It's a little corny, but so are these books."; AUTHOR-NOTES
+   288).** The typed yes from ch 25 goes out. Cleared changes nothing:
+   nobody has asked her to stay. How the reader learns it in Dan's
+   chapter is the ch 28 brief's (proposed: the athletic director has
+   it by afternoon, as with the offer in 26).
 4. **Climax two — THE CLIMAX OF THE BOOK — ch 29: Dan finds her and
    asks her to stay.** In plain words, the one thing he did not do
    (ch 25's last beat: "He had not asked."). This is the book's
@@ -1259,6 +1260,15 @@ victory." (AUTHOR-NOTES 287)
    them. The ask in 29 is private, and that is where she forgives:
    she unpacks the car and lets him carry half. The board app deleted
    (the old ch 29 beat) is texture at most; it is not the repair.
+7. **The take-back, the modern way — RULED (author, 2026-09-24).** "In
+   a real romance movie, they'd have her ripping up the paper in front
+   of everyone as the last scene… for us, which is a little more
+   modern, we have her forward her cancellation to Dan." After he
+   asks, she writes the chair to withdraw her yes and forwards it to
+   Dan; his phone lights in his hand. It is her answer to the ask, in
+   her own gesture — corny on purpose, the way these books are. The
+   ch 29 brief places it (proposed: while he is standing right there,
+   before a word is said, and the car gets unpacked after).
 6. **Why she stays — with a job, and by choice.** The partner
    contract sits on the same February agenda as Boyd's pledge and
    rides on it (F-AGD-01). When the pledge is re-sequenced at 27, the
