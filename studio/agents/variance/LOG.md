@@ -518,3 +518,5 @@ card, flag it in `../BACKLOG.md`.
 | 2026-09-24 | romance-reader-panel (ch 27 candidate B — blind, on the card-blind copy) | P1 binge (1.2 book card — no draw) | books/campus-series/book2/notes/ch27-panel-B-2026-09-24.md |
 | 2026-09-24 | romance-reader-panel (ch 27 candidate C — blind, on the card-blind copy) | P1 binge (1.2 book card — no draw) | books/campus-series/book2/notes/ch27-panel-C-2026-09-24.md |
 | 2026-09-24 | drafting-assistant (campus 1.2 ch 27 REVISION of C (the six reads)) | D4 Give one minor character a moment of unexpected competence (LRU by variance-draw.py; read as: revision) | books/campus-series/book2/manuscript/ch27-candidate-C.md |
+| 2026-09-24 | continuity-keeper (ch 27 — page audit of the revised winner) | E5 Dialogue mechanics pass first (LRU by variance-draw.py; read as: page) | books/campus-series/book2/manuscript/ch27-candidate-C.md |
+| 2026-09-24 | developmental-editor (ch 27 — /chapter-score, blind to the row) | E2 Start from the weakest chapter, not the first (LRU by variance-draw.py; read as: page) | books/campus-series/book2/manuscript/ch27-candidate-C.md |
