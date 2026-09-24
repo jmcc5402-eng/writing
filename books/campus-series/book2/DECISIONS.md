@@ -1180,3 +1180,14 @@ lines in ch 24 (6), each quoted in the PR. The author's rule since
     old pattern (never fired, never kept), and none is fine; the
     dossier's past programs stay unruled and unnamed. Her body runs
     across the beats (taste 20).
+
+12. **Boyd got her the job out west — RULED (author, 2026-09-24, #192
+    comment; AUTHOR-NOTES 281).** "Boyd had contacted the people out
+    west to help her get the job that would clean things up. Boyd
+    seems like the kind of guy that would always clean up his messes."
+    Boyd called out west and put in a word for her, to help her get the
+    directorship. A doctor who leaves for a better job is a mess that
+    cleans itself up. In ch 25 she is sure of it and cannot prove it;
+    it is said plainly, in her head, when the offer comes. How the
+    chair then reached her (the email's "what we talked about") stays
+    `[TK]`.

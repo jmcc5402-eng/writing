@@ -36,6 +36,10 @@ Manuscript-affecting changes, newest first. (Hard rule 6.)
   slice decoded; the clock clauses (Verna phoned Delores; the coat at
   nine; "until the sixth"). Lints: 3,596 words, talk 8.6%, talk:body
   1.10, CV 0.60, no chains.
+- The author's #192 comment applied (B2-D31.12): at the offer, she is
+  sure Boyd called out west and put in a word to get her the job —
+  "Boyd was the kind of man who always cleaned up his messes, / and
+  this morning she was one." It replaces "It was a guess."
 - Open for the author: romance planned 6, read 4–5; whether the Table
   spends its one suspicion here; the email's "what we talked about"
   (N9); the wound named at the letter (N11); Verna's anchor line,
