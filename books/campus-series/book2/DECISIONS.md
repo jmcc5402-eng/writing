@@ -1162,3 +1162,32 @@ lines in ch 24 (6), each quoted in the PR. The author's rule since
       part of why). Items 1 and 3 read with it: the one man on record
       doubting her call is the man who loves her, and the name he
       left off the air in 22 is the half he leaves off in the room.
+11. **The wound tears back open — RULED (author, 2026-09-23, on the
+    ch 25 re-brief; AUTHOR-NOTES 279).** "Make sure we are inside
+    Aisha's head and she's really angry or even just saying I knew it.
+    I knew nothing could ever really happen for me once again a man is
+    doing me wrong. This is the ultimate wound tearing back open
+    moment." When the radio reads "I'd have played him" (D31.10), the
+    page stays inside her head, and she is ANGRY, not sad. It is her
+    false belief proven by the one man she let close: needing anyone
+    is how you get hurt (arc-docs §1–2). Every time her judgment was
+    inconvenient to someone with more power she was reclassified from
+    the expert to the problem and moved along; this morning the man
+    she let in did it in front of the county. "I knew it," in her
+    words. AMENDED the same day (AUTHOR-NOTES 280): "it doesn't have
+    to be a previous wound, it just needs to show her really hurt."
+    The hurt is about now, not her history: at most one clause of the
+    old pattern (never fired, never kept), and none is fine; the
+    dossier's past programs stay unruled and unnamed. Her body runs
+    across the beats (taste 20).
+
+12. **Boyd got her the job out west — RULED (author, 2026-09-24, #192
+    comment; AUTHOR-NOTES 281).** "Boyd had contacted the people out
+    west to help her get the job that would clean things up. Boyd
+    seems like the kind of guy that would always clean up his messes."
+    Boyd called out west and put in a word for her, to help her get the
+    directorship. A doctor who leaves for a better job is a mess that
+    cleans itself up. In ch 25 she is sure of it and cannot prove it;
+    it is said plainly, in her head, when the offer comes. How the
+    chair then reached her (the email's "what we talked about") stays
+    `[TK]`.

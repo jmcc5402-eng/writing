@@ -64,6 +64,14 @@ def main() -> int:
     card = os.path.join(book, "notes", "cards", f"ch{ch}-card.md")
     chap = os.path.join(book, "manuscript", f"ch{ch}.md")
     panels = sorted(glob.glob(os.path.join(book, "notes", f"ch{ch}-panel-*.md")))
+    # blind candidates each get a panel; only the winner's ACTUALS count.
+    # The scoreboard names it ("**A wins."). Without this the last file
+    # sorted — a loser's — set the chapter's romance level (ch 25, 2026-09-23).
+    for sb in sorted(glob.glob(os.path.join(book, "notes", f"ch{ch}-scoreboard-*.md"))):
+        w = re.search(r"\*\*([A-Z]) wins", read(sb))
+        mine = [p for p in panels if w and re.search(rf"-panel-{w.group(1)}-", os.path.basename(p))]
+        if mine:
+            panels = mine
 
     # the matrix is the source; the card's line is its copy
     tp = os.path.join(book, "canon", "TARGETS.md")
