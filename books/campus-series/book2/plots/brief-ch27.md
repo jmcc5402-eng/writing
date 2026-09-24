@@ -170,7 +170,7 @@ to hit a number.
    first at the recess, how she knows where he is with no words between
    them (she sees which way he goes), and why neither is seen by the
    lawyer or the forty (they go the other way — to the front hall, the
-   coffee). Heat 4: bodies in it, four or more body sentences; no kiss;
+   coffee). Heat 5 (AUTHOR-NOTES 293): bodies in it, four or more body sentences; no kiss;
    both clear-headed. Then they are apart again.
 8. **Boyd's money moves by evening (boyd-arc 27; game-stakes 27;
    F-AGD-01).** **The public source (keeper B7e — SETTLED; new canon,
@@ -227,7 +227,7 @@ MUST NOT HAVE CHANGED
   [ ] Missy does not stand; Birmingham's answer unsaid
   [ ] "the patient," never Trey's name, in HER testimony
   [ ] no bylaw number; no symptom score number
-  [ ] the hallway touch out of sight; no kiss; heat ≤ 4
+  [ ] the hallway touch out of sight; no kiss; heat ≤ 5 (AUTHOR-NOTES 293)
   [ ] no new fact, name, date or object not on a page or in canon — `[TK]` it
 VARIANCE
   [ ] three cards drawn (LRU, drafter deck; distinct) and logged; the keeper's, the proxy's and the panel's draws logged
