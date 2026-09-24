@@ -111,6 +111,16 @@ consequence); absent from 21 and 29; glimpsed once at 30.
   the past: ch 23 = 3 by the author.
 - **Fun** 0 is a chapter of watching a lead alone and sad; two of
   those in a row is a finding (taste 7).
+- **The plan is direction, not precision (the author, 2026-09-24,
+  AUTHOR-NOTES 294).** "The point of the scoring is not for it to be
+  perfect. It's for us to have a plan going in to the chapter… so we
+  can plan the arc of heat over the whole book. I almost don't care
+  whether it's one or two up or down, as long as we agree on the
+  directionality before the writing." The matrix is agreed BEFORE the
+  drafting; an actual one off its plan is recorded, not brought to the
+  author as a call. What goes to the author is direction: a chapter
+  whose heat or romance moves the wrong way against the arc the rows
+  draw.
 - **Every number is the whole chapter (the author, 2026-09-24, #195).**
   "One specific line shouldn't be generally able to move a number up or
   down, it should be the collection of the entire chapter." A reader
