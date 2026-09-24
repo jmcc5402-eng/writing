@@ -225,6 +225,17 @@ and parallelizes everything else.
    - Cost, stated: three drafts and three panel reads per set piece;
      the author's time does not change.
 
+6. **The revision order closes every reader ask (L102, author
+   2026-09-24).** The revision pass on a winner lists each ask from the
+   author-proxy, the panel and the editor ONE PER LINE, and the drafter
+   returns each marked APPLIED (with the new line) or DECLINED (with
+   the reason). A CONFUSING ask is not APPLIED by a single word: the
+   answer is said plain, in a sentence a stranger can't miss. The
+   keeper's page audit reads the list. Why: on ch 25 the proxy asked
+   "just say Boyd set this up" and "why decide tonight," the editor
+   flagged the clock, and the revision answered each in a word or a
+   guess; the author then asked all three on #192.
+
 ## Snowflake prose is written for a stranger (author, 2026-08-08)
 
 Rung 1–3 artifacts are the first place a book must sell itself —
