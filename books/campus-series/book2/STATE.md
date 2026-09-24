@@ -166,14 +166,24 @@ heat line is body words, a notch at a time (HANDOFF H009); the
 consent wall; talk-to-body at ch 21's ratio (H007); stakes high, not
 only said (L078).
 
-**Then ch 25** — Aisha; "Boxes", Tuesday January 26. The card, brief
-and audit exist (2026-09-21) and are RE-BRIEFED before any drafter:
-the sound bite heard Tuesday morning and the radio's line with his
-name (D31.10, D31.5); the man at the counter (D31.1); Delores on her
-side (D31.4); the air defense remembered (D31.3); she does not call
-him (D31.7); the Cordelia letter's last line (D31.8); sparkling water;
-the heat notch and the body ratio. Matrix row 25 re-checked against
-the angrier chapter.
+**Ch 25 ACCEPTED (#192, 2026-09-24) and FOLDED.** Three blind
+drafters (A, D1 won); the proxy 1.1.1 before the panel; romance 5
+(panel) / 4 (proxy) against a 6. The author: "the best written chapter
+yet" (283). Applied: Boyd called out west to clean up his mess
+(B2-D31.12); the car loaded but not leaving till the sixth (the fold).
+The proxy said all three of the author's comments; the revision
+under-applied them — conveyor item 6 (L102) closes every reader ask
+from ch 26 on. Tools fixed on the way: card-blind strikes target
+changes (L097); targets-check reads the winner's panel (L098).
+
+**Then ch 26** — Dan; the interview room a step back to Monday, his
+head on her (D31.10); the July line (Boyd behind the suspension); he
+learns she is going from the athletic director, not from her (D31.7);
+the stakes cross the chalk; the standoff; the turn signal. Romance 6
+when they share a room. **Before the brief: the author's pick on the
+trainer** (AUTHOR-NOTES 282 — name Whit, one want, whether his debt
+becomes the leak). The revision order closes every reader ask
+(conveyor item 6).
 
 **Was: then ch 22** — Dan; Thursday Jan 14, the window shuts; Coach's
 Table round two; the hold defended on air; the town acts again (the
