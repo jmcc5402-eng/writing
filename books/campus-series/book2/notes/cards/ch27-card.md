@@ -12,7 +12,7 @@ The trustees' boardroom, forty seats, every one full. Earlene in the
 hallway says today they find out if doing her job is allowed.
 
 The reviewer's first question is why her ladder ran slower than other
-programs'. She answers from the chart: the baseline scans, the dated
+programs'. She answers from the chart: the baseline tests, the dated
 orders, the boxes she packed in December. A trustee asks what they
 would be saying today if she had cleared him and he had gone down.
 
