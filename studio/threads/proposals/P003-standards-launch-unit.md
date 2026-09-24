@@ -7,7 +7,7 @@ Raised: 2026-09-23 by the delivery thread (environment)
 ## What
 
 STANDARDS still says the quartet is the unit of launch. The author
-ruled on 2026-09-23 (AUTHOR-NOTES 267) that `studio/CYCLE.md` governs
+ruled on 2026-09-23 (AUTHOR-NOTES 292) that `studio/CYCLE.md` governs
 instead: each book ships once the next one is complete. The author's
 2026-08-08 words stay as they are; a dated line under them records
 that the launch half is superseded.
@@ -30,7 +30,7 @@ books/campus-series/STANDARDS.md
 ## Proposed
 
 ```
-**Superseded in part (author, 2026-09-23, AUTHOR-NOTES 267):** the
+**Superseded in part (author, 2026-09-23, AUTHOR-NOTES 292):** the
 quartet stays the unit of work but is no longer the unit of launch —
 each book ships when the next is complete (`studio/CYCLE.md`).
 

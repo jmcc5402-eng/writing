@@ -151,12 +151,56 @@ The proxy scored 0 of 7 against the real comments and was rebuilt
 Open: the trainer's name; the pulls to lock; the gossip room's name;
 the sweep; the two keeper questions; Boyd named once in 23.
 
-**Then ch 24** — Dan; "Pending Review": the suspension in the AD's
-neutral prose with a published fortnight; the annex greenlight the
-same week; rule 7 spent; Dan's silence and hers not asking (the
-couple's worst hour); matrix row 24 — one open PR at a time: the
-card, brief and audit run while the fold PR is open; drafters after
-the merge.
+**Ch 24 ACCEPTED (#182, 2026-09-23) and FOLDED.** Three blind
+drafters (D3 won); the proxy 1.1.0 before the panel; romance 5. The
+author's eight comments answered in #190 (B2-D31, merged) and one
+more ruling after it: **Dan's one big mistake is the review
+interview — "I'd have played him," the half he meant left in his
+head, never corrected in public (B2-D31.10)**. Three single lines in
+ch 24 and one planted in ch 16; the sameness fixes X1–X4; the stake
+said plain once per chapter (#185 — D28.2, D30.1, F-DAN-02 amended).
+The proxy scored 2 of 8 (was 0 of 7) and is 1.1.1 (reads as a
+stranger; is the setback believable; is the other side fair; is the
+owed moment carried). The 2026-09-23 rulings apply from here: the
+heat line is body words, a notch at a time (HANDOFF H009); the
+consent wall; talk-to-body at ch 21's ratio (H007); stakes high, not
+only said (L078).
+
+**Ch 25 ACCEPTED (#192, 2026-09-24) and FOLDED.** Three blind
+drafters (A, D1 won); the proxy 1.1.1 before the panel; romance 5
+(panel) / 4 (proxy) against a 6. The author: "the best written chapter
+yet" (283). Applied: Boyd called out west to clean up his mess
+(B2-D31.12); the car loaded but not leaving till the sixth (the fold).
+The proxy said all three of the author's comments; the revision
+under-applied them — conveyor item 6 (L102) closes every reader ask
+from ch 26 on. Tools fixed on the way: card-blind strikes target
+changes (L097); targets-check reads the winner's panel (L098).
+
+**THE ENDING (B2-D33, RULED 2026-09-24) — read before any brief 26–30.**
+Climax one: he testifies at 27, at a cost, and it is why Missy stands
+up. The false high at 28, then the final disaster: she has accepted
+the job out west. THE CLIMAX OF THE BOOK is ch 29 — Dan finds her and
+asks her to stay; she forgives by unpacking the car. Her job survives
+one season (the partner contract rode on the pledge). Ch 29 is a set
+piece, checked as the best scene in the book.
+
+**Ch 26 ACCEPTED (#194, 2026-09-24) and FOLDED.** Three blind drafters
+(C, D3 won — her anger with an edge); the proxy before the panel; romance
+8 on the panel's re-read of the revised page, heat 6 (the keeper 5 — the
+author merged with the line in). The half he meant in his head once,
+never aloud. Whit named (B2-D32). The athletic director's carrot (the
+author's #194 comment). Boyd unnamed; the decision left to the turn
+signal (the card). The beat map moved to D33 (climax 29).
+
+**Then ch 27** — Aisha; the hearing, Monday February 1 (climax one,
+B2-D33.1). Dan walks in unscheduled against the lawyer and the carrot;
+"I said I'd have played him. That's exactly why the rule says I don't
+decide." and her name; his testimony is why Missy stands up in 28; a
+trustee's question (D31.4); Marisol's receipts (B2-T07). BAN ch 26's
+l.54–57 words on 27's page (keeper N10). Pay where the turn signal went
+(`[TK]`). A Dan rung for someone not Aisha (the ch 26 score, #3). The
+revision order closes every ask (conveyor item 6); name the carrot and
+the cost (L106).
 
 **Was: then ch 22** — Dan; Thursday Jan 14, the window shuts; Coach's
 Table round two; the hold defended on air; the town acts again (the

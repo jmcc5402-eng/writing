@@ -599,6 +599,14 @@ finding. The August scrub ban "one involuntary-body beat per chapter
 max" is what produced the one line; it now applies outside touch
 scenes only.
 
+Confirmed (2026-09-24, #192, on 1.2 ch 25 — the author's "best
+written chapter yet"): "The amount of detail about her feelings mixed
+with how it physically impacted her like her eyes burning and her
+chest being warm it really showed the audience that she was unhappy
+and that she's heartbroken." The body runs across a WOUND beat too,
+not only a touch: the feeling said plain in her head, then where it
+lands in her body, beat after beat.
+
 ## 21. The reader knows who everyone is
 
 > "We need to add more character arc to Missy. She's kind of this
@@ -657,3 +665,29 @@ is still just kind of a sideshow with no point… the letter still
 doesn't really have any teeth." A stake is not on the page until the
 page says what exactly happens if — in one plain sentence, every
 time the thing appears (B2-D30.1, D30.4). Subtle is a finding.
+
+## 23. Fair on both sides — the argument is real
+
+> "Right now we've made all of the data and everything that Ayesha
+> has done seem like it's the perfect approach to a concussion, so now
+> that she's getting suspended it just seems weird like no school
+> would really suspend a dr for doing standard medical practices." ·
+> "We also need more people in this book agreeing with Aisha…
+> we're making it seem like everybody just wants the boy to play
+> football… this helps make the book a little more balanced." ·
+> "the board and the letter end up actually being somewhat innocent."
+> (2026-09-22, on 1.2 ch 24)
+
+Caught: a setback that could not be believed because one side had
+all the right answers and the other side had all the people. Her call
+was the textbook, so the suspension read as a cartoon; the town was
+uniformly against her, so the book read as rigged. The author wants
+the argument real: the lead's call arguable by honest people, the
+opponents mostly acting in good faith with one hand behind them, and
+some of the town on the lead's side out loud.
+Check: the author-proxy's WHO (does the other side have a fair case)
+and POINT (is the setback believable) reads (1.1.1; L091, L092);
+B2-D31.1 and D31.4 on the page from ch 25.
+Fails when: the lead is right and nobody reasonable could think
+otherwise; when the institution acts with no engine a reader
+believes; when every voice in a room is on one side.

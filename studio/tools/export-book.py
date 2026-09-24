@@ -26,7 +26,7 @@ made") are reported as missing until `front-matter.md` and
 `back-matter.md` exist in `studio/launch/<slug>/`, where the slug is the
 book directory under `books/` with `/` as `-` (1.1 is `campus-series`,
 1.2 is `campus-series-book2`). Launch material lives in `studio/`
-because the delivery thread is scoped off `books/` (AUTHOR-NOTES 268).
+because the delivery thread is scoped off `books/` (AUTHOR-NOTES 293).
 A copy beside the manuscript is still read if `studio/launch/` has none.
 """
 from __future__ import annotations

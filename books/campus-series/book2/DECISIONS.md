@@ -827,7 +827,9 @@ simple," only drops: a few higher-stakes lines, not a plot change.
    is the end of college coaching. Said plain on the page at the
    glance in ch 22 (the author's own placement: "when he's watching
    her walk across the street from the Checkerboard"), and dropped as
-   hints after, once a chapter at most. It is the conflict the author
+   hints after, once a chapter at most. AMENDED (author merged #185, 2026-09-23): said plain ONCE PER CHAPTER, the
+   same stake each time; a second, different stake in the same chapter is
+   the hint (`canon/STAKES.md`, "How often the stake is said plain"). It is the conflict the author
    names: true to Aisha, or the job. `canon/STAKES.md` Dan row;
    FACTS F-DAN-01; every brief's STAKES ON THE PAGE carries it.
 3. **Like or hate, said now; the point of a scene said.** "I'm not
@@ -925,7 +927,8 @@ Does Aisha and Ty go back inside first?"
    the lot from the Fieldhouse window at dark. The keeper checks every
    scene's entry and exit on every page audit (1.4.4), not only under
    card E4.
-2. **The trainer's name — OPEN, proposed.** The author wrote "Ty" for
+2. **The trainer's name — RULED 2026-09-24: Carl Whitlow, "Whit"
+   (B2-D32).** Was OPEN, proposed: The author wrote "Ty" for
    the man in the cab; Ty Beaumont is the receivers coach. The trainer
    has no name on any page (twenty-two chapters), which is why he
    blurs — the red team's "a stake with no name is a prop with a
@@ -962,7 +965,9 @@ day (AUTHOR-NOTES 238–244).
    it is proven — his second time ends him in college coaching
    (D28.2 stands), hers ends her here and follows her. Said plain once
    in ch 23 (the fold: her arithmetic on the step) and as a hint in
-   every apart chapter after. FACTS F-DAN-02; STAKES rows.
+   every apart chapter after. AMENDED (author merged #185, 2026-09-23): said plain ONCE PER CHAPTER, the
+   same stake each time; a second, different stake in the same chapter is
+   the hint (`canon/STAKES.md`, "How often the stake is said plain"). FACTS F-DAN-02; STAKES rows.
 2. **After signing day is its own storm.** "There's still the one
    problem that there's a likely conflict of interest of a coach and a
    doctor being together in public even after signing day." One or two
@@ -987,7 +992,10 @@ day (AUTHOR-NOTES 238–244).
 5. **Epigraphs: some funny.** Taste 19 amended: light AND sometimes
    funny, the real board's register; at least every third epigraph is
    a laugh; ch 23's gets one in the fold.
-6. **Kat's surprise wine night — PROPOSED, the author's go.** "What
+6. **Kat's surprise wine night — RULED NO (author, 2026-09-21: "Kat's
+   wine night is good as is. No change needed.").** The wine night the
+   book has (ch 11) stands; no surprise scene in 23 or 25; Kat stays a
+   text in 23. The FUN question stands. The proposal as it was: "What
    about a scene where Kat shows up as a surprise with some listings
    and a bottle of wine, just to take the edge off the book." A
    structural change to ch 23's last scene: Kat's headlights in
@@ -1002,3 +1010,276 @@ day (AUTHOR-NOTES 238–244).
    confirmed. RULED as the scale: the panel and the proxy rate on the
    author's calibration (romance-levels.md rows 20 and 23 as anchors);
    TARGETS carries the definitions.
+
+## B2-D31 — the ch 24 comments: the answers, and what they change in 25–30 (PROPOSED 2026-09-23; locks on merge)
+
+The author left eight comments reading #182 (2026-09-22) and merged
+it. Three asked for ideas. Every recommendation below is written
+forward: it lands in ch 25–30, which do not exist yet. The only
+backward changes are one planted line in ch 16 (1) and three single
+lines in ch 24 (6), each quoted in the PR. The author's rule since
+2026-09-24: forward, not backward, except small and mission-critical.
+
+1. **Her call is arguable, and she is still right.** The comment: "no
+   school would really suspend a doctor for doing standard medical
+   practices… just a line or two… to show that there could've been
+   another way." Her ladder makes every step sleep a night (ch 15);
+   the town's version is that anybody else's doctor would have had
+   the boy back for the playoff. PLANTED once before the suspension —
+   ch 16, the two locals on Millrow, a third line after "She might.":
+   "Anybody else's doctor would've had him back tonight." (Keeper at
+   the fold, 2026-09-23: "tonight," not "Saturday" — it is said walking
+   home from the game on the nineteenth.) FORWARD:
+   ch 25, a man at the Checkerboard counter says the same thing in
+   her hearing; ch 27, the independent reviewer's first question is
+   why her ladder ran slower than other programs'. Ch 28's finding
+   still affirms her. [CHECK: the culture-researcher verifies before
+   ch 27 what a conference-standard return-to-play ladder allows, so
+   the reviewer's question is fair and her answer is right.]
+2. **Boyd is behind the suspension; the families and the trustees
+   acted in good faith.** The comment: "Boyd whispered suspending her
+   somehow giving the justification that she's gonna get fired anyway
+   once the new hospital system is in place… the board and the letter
+   end up actually being somewhat innocent." Canon already carries
+   the reason: the provider partner takes her line (B2-D13, B2-T11).
+   The athletic director says it to Dan in ch 26, in his own words,
+   once: the partner comes in July either way, so why spend a season
+   defending a line that is gone by July. Where the AD heard it is
+   never said; Dan knows. Boyd's walls hold — never on the page
+   saying it, never proven, exits smiling. The eleven families signed
+   what they believed; the wording was handed to them (B2-T07 stands,
+   so the ch 27 decode still pays, and it now reads as honest people
+   used). The trustees vote in February on what the AD hands them.
+   Denny's refusal (28) stands.
+3. **Dan's radio defense matters.** The comment: "maybe the fact that
+   he regretted saying it, maybe the fact that he doesn't… that was
+   an important moment that we've sort of glossed over." Ruled: he
+   does not regret the defense (ch 22, on air, "her protocol"). He
+   regrets the name he left off it. Ch 25: Aisha remembers hearing him
+   say "her protocol" to the whole county, which is what makes this
+   week's silence cut. Ch 26: he replays the air and knows the county
+   heard the gap. Ch 27 closes it with her name, as outlined.
+4. **More people say the doctor is right.** The comment: "we're making
+   it seem like everybody just wants the boy to play football… look,
+   football is important, but that boy's life depends on the doctor's
+   call." Four voices, one line each, none a speech, all forward:
+   Delores at Mt. Nebo (25); Odell's shop, a customer or Odell (26); a
+   trustee at the hearing, `[TK name]`: what would we be saying today
+   if she had cleared him and he had gone down (27); Tick on air (28,
+   the anchor already written). With (1), the town is split, not one
+   voice.
+5. **Dan's wound goes deeper, and the reader is angry at him.** The
+   comments: "the hate factor of Dan is not that strong… he made the
+   one decision with the athletic director in the room, but that
+   seemed too easy"; and "a football job at this high level of college
+   is a dream job and something you have to fight for every single
+   moment." Ch 25 (Aisha): WDSS reads the department's line with his
+   name on it, "Coach Merritt has full confidence in the independent
+   review process," a week after he said "her protocol" on the same
+   air. The reader is angry here. Ch 26 (Dan): the struggle on the
+   page, not in five lines. The AD's July line (2); the dream job said
+   plain, a job you fight for every day because somebody always wants
+   it; his staff's jobs ride on his extension (new canon; Ty's
+   proposed row stays cut unless ruled). He chooses silence through
+   the hearing's week and knows what it costs her. The outline's
+   standoff and the turn signal stay. Angry at 25, understood at 26,
+   bought back at 27.
+6. **Three single lines in ch 24, applied at the fold.** (a) After "a
+   board had known what he was once before anybody said it to his
+   face" (l.153), the dream job in his head, one sentence. (b) The
+   town room (l.176–177): the county hates her fine in the rooms
+   built for it; this room is for lost dogs, and it turns on DeeAnn
+   for tracking her in. (c) After "Film's at four" / "That was the
+   whole line." (l.255–257), one sentence of what it meant: the only
+   thing a coach could say in a parking lot with the lawyer in his
+   ear — film at four, and he would be at work, and she would not.
+   (Keeper at the fold: "film," not "practice" — there is no practice
+   until spring, ch 20:241, 21:47; "at work" says what she lost.)
+7. **Ch 25: she does not call Dan the night she decides.** He learns
+   in 26 from the AD, which deepens (5). Alternative: she calls, tells
+   him the offer and the date, and he says the true thing one chapter
+   late.
+8. **The Cordelia letter's last line, on the page once, as the
+   outline has it (S01; the author blesses by merging):** "You keep
+   asking what I stayed for, as if a town were a reason. It was never
+   the town. It was being needed by it on purpose." The rest of the
+   letter stays paraphrase.
+9. **"Sparkling water," forward.** The three pages the 2026-09-16 pass
+   seeded (ch 3, 5, 6) change to the ruled word (B2-D23.5) at the
+   fold, and every page from ch 25 says sparkling water. The four
+   older chapters that say seltzer (11, 16, 17, 18) stay as written.
+10. **Dan's one big mistake: the review interview — RULED (author,
+    2026-09-23, after #190; AUTHOR-NOTES 267–268).** "We need the
+    reader to be really mad at Dan." Then: "have the interviewer ask
+    a really tricky question that he answers poorly. He still doesn't
+    come to her defense, but it's more of a sound bite against her
+    that gets out, saying he pushed her… and then he doesn't vocally
+    correct it after… internal monologue where he's thinking about
+    her and struggling and that's why he was off his game… now we
+    understand why Ayesha is mad at him, but we know that she should
+    not be mad at him because it was just an honest mistake."
+    The extension signed as a trade (option B) is RULED OUT as too
+    much. What the page does:
+    - **The interview.** The independent review interviews Dan before
+      the hearing. His head is on her the whole time, on the page:
+      the car window, her face through the glass, the hook. He misses
+      the trap in the question.
+    - **The wrong thing — it must really hurt her (author, 2026-09-23:
+      "it still needs to come out as saying the wrong thing and really
+      screwing her over"; AUTHOR-NOTES 269). A RULED (author,
+      2026-09-23: "A is perfect"; AUTHOR-NOTES 270).** The
+      reviewer asks whether, knowing what he knows now, he would have
+      played Trey on the nineteenth. He answers as the coach he used
+      to be: "Every coach in the country plays him. I'd have played
+      him." The half he means — and that is why it is not my call —
+      stays in his head. The head coach is on record that her hold
+      was wrong; the letter's case gets its best witness, and it is
+      the man who loves her. Ch 27, he finishes it: I said I'd have
+      played him; that is exactly why the rule says I don't decide.
+      STRUCK (B, the harder hit, not taken): asked whether she discussed
+      Trey with him outside the building, he answers the feeling, not
+      the question: "We talked about everything." It guts her
+      independence and points at the relationship in season (the
+      both-fired stake, F-DAN-02); the correction at 27 is the
+      couple's own rule, "everything but him." B makes 27–28 answer
+      the relationship question too, not only her call.
+    - **The sound bite.** His sentence leaks without the half he
+      meant. Who leaks it is never said (`[TK]` — Boyd's walls hold;
+      the Table suspects out loud once).
+    - **He does not correct it.** He has a chance in public and lets
+      it stand, on the lawyer's same advice as ch 24. This is the
+      choice the reader holds against him; the interview itself was
+      an honest slip.
+    - **Order — DEFAULT, the author may flip it:** the interview is
+      Monday the twenty-fifth, between 24 and 25. Ch 25 (Aisha): she
+      hears the sound bite Tuesday morning, and the reader is angry
+      with her. Ch 26 (Dan): opens in the interview room, a step back
+      to Monday, and the reader learns why. The reader knows before
+      she does that she is wrong about him. Ch 27: he finishes the
+      sentence at the hearing — she held, and she was right.
+    - **Amends** item 5 (his public silence now centres on the sound
+      bite he will not correct; the department's radio line stays as
+      texture) and item 7 (she does not call him; the sound bite is
+      part of why). Items 1 and 3 read with it: the one man on record
+      doubting her call is the man who loves her, and the name he
+      left off the air in 22 is the half he leaves off in the room.
+11. **The wound tears back open — RULED (author, 2026-09-23, on the
+    ch 25 re-brief; AUTHOR-NOTES 279).** "Make sure we are inside
+    Aisha's head and she's really angry or even just saying I knew it.
+    I knew nothing could ever really happen for me once again a man is
+    doing me wrong. This is the ultimate wound tearing back open
+    moment." When the radio reads "I'd have played him" (D31.10), the
+    page stays inside her head, and she is ANGRY, not sad. It is her
+    false belief proven by the one man she let close: needing anyone
+    is how you get hurt (arc-docs §1–2). Every time her judgment was
+    inconvenient to someone with more power she was reclassified from
+    the expert to the problem and moved along; this morning the man
+    she let in did it in front of the county. "I knew it," in her
+    words. AMENDED the same day (AUTHOR-NOTES 280): "it doesn't have
+    to be a previous wound, it just needs to show her really hurt."
+    The hurt is about now, not her history: at most one clause of the
+    old pattern (never fired, never kept), and none is fine; the
+    dossier's past programs stay unruled and unnamed. Her body runs
+    across the beats (taste 20).
+
+12. **Boyd got her the job out west — RULED (author, 2026-09-24, #192
+    comment; AUTHOR-NOTES 281).** "Boyd had contacted the people out
+    west to help her get the job that would clean things up. Boyd
+    seems like the kind of guy that would always clean up his messes."
+    Boyd called out west and put in a word for her, to help her get the
+    directorship. A doctor who leaves for a better job is a mess that
+    cleans itself up. In ch 25 she is sure of it and cannot prove it;
+    it is said plainly, in her head, when the offer comes. How the
+    chair then reached her (the email's "what we talked about") stays
+    `[TK]`.
+
+## B2-D32 — the trainer is a person (author, 2026-09-24, #192 comment and chat after #193)
+
+"The trainer doesn't have a name… Currently they're kind of like a
+cartoon faceless person. Let's discuss how we can make the trainer
+actually a real character." (AUTHOR-NOTES 282) Then, on the options:
+"Whit, A, no leak. And I like the gambling line, but let's make it
+very light does not need to be a big distractor." (AUTHOR-NOTES 285)
+
+1. **Name — RULED.** Carl Whitlow, "Whit" to the staff. From ch 26 the
+   page calls him Whit once somebody in the room says it; "the trainer"
+   stays usable. Chapters 1–25 are not revised (forward, not back).
+2. **His want — RULED (option A).** His daughter is a sophomore at
+   Ashford. The ten thousand he owes (F-TRN-01) was her tuition, and he
+   bet it trying to double it. `[TK the daughter's name]`
+3. **The gambling — RULED: very light.** It is a line, not a subplot.
+   At most one drop in a chapter he is in, seen or known plainly (the
+   app closed, a score on his knee, the tuition he owes); never a
+   scene of its own, never a thread that pulls focus from the leads.
+4. **Not the leak — RULED.** Whit did not leak Dan's interview; his
+   debt never touches the review or the medical information in 1.2
+   (B2-D27.4 item 2 stands). Who leaked stays `[TK]`.
+5. **One moment where he chooses** — somewhere in 26–30, small, on the
+   page (proposed; the brief that carries it names it).
+
+## B2-D33 — the ending: two climaxes, and the ask is the book's (author, 2026-09-24, chat after the ch 26 card)
+
+The author asked where 26's pieces land, and whether the hero moment,
+why she stays, and how she forgives are strong enough. On the answers:
+"These are really good." (AUTHOR-NOTES 286) Then: "make the moment
+that he asks her to stay the true climax of the entire book… the first
+climax is when he testifies so the reader thinks everyone is happy and
+we're done, but then we remember that Ayesha's basically accepted the
+other job, which is the final disaster for the reader. So then when
+Dan finds Ayesha and asks her to stay, that's the final final
+victory." (AUTHOR-NOTES 287)
+
+**The shape (RULED):**
+
+1. **Climax one — ch 27, he testifies.** He walks in unscheduled and
+   finishes the sentence in the same words: "I said I'd have played
+   him. That's exactly why the rule says I don't decide." Then her
+   name. It must COST: in 26 the lawyer says don't, and he knows it
+   ends the extension (the dream job, his staff's jobs). The reader
+   sees the price before he opens his mouth. **His testimony is why
+   Missy stands up** in 28 with the Birmingham report — his moment
+   causes the win, it does not decorate it.
+2. **The false high — ch 28.** She is cleared; the town takes its hats
+   off. The reader thinks it is over.
+3. **The final disaster — the end of 28. She SENDS the acceptance —
+   RULED (author, 2026-09-24: "I like the send and then the take
+   back. It's a little corny, but so are these books."; AUTHOR-NOTES
+   288).** The typed yes from ch 25 goes out. Cleared changes nothing:
+   nobody has asked her to stay. How the reader learns it in Dan's
+   chapter is the ch 28 brief's (proposed: the athletic director has
+   it by afternoon, as with the offer in 26).
+4. **Climax two — THE CLIMAX OF THE BOOK — ch 29: Dan finds her and
+   asks her to stay.** In plain words, the one thing he did not do
+   (ch 25's last beat: "He had not asked."). This is the book's
+   strongest scene and is built and checked as such: a SET PIECE
+   (three blind drafters); the brief names it the climax; every
+   reader is asked, "is this the best scene in the book?"; a scene
+   that is not is a finding, not a pass. Re-brief under the new heat
+   line (HANDOFF H009) and the deadline (Saturday the sixth).
+5. **How she forgives.** 27 is public and settles nothing between
+   them. The ask in 29 is private, and that is where she forgives:
+   she unpacks the car and lets him carry half. The board app deleted
+   (the old ch 29 beat) is texture at most; it is not the repair.
+7. **The take-back, the modern way — RULED (author, 2026-09-24).** "In
+   a real romance movie, they'd have her ripping up the paper in front
+   of everyone as the last scene… for us, which is a little more
+   modern, we have her forward her cancellation to Dan." After he
+   asks, she writes the chair to withdraw her yes and forwards it to
+   Dan; his phone lights in his hand. It is her answer to the ask, in
+   her own gesture — corny on purpose, the way these books are. The
+   ch 29 brief places it (proposed: while he is standing right there,
+   before a word is said, and the car gets unpacked after).
+6. **Why she stays — with a job, and by choice.** The partner
+   contract sits on the same February agenda as Boyd's pledge and
+   rides on it (F-AGD-01). When the pledge is re-sequenced at 27, the
+   contract has nothing to ride on; the trustees keep her line for
+   another season. One season, not forever (1.3 can use it). The job
+   out west is still the better job; she turns it down because for
+   the first time somebody kept her — Dan in public, Missy, the hats,
+   Verna taking the rent. Her wound, answered: "She had never been
+   kept."
+
+Supersedes the outline where it differs: ch 27–29 in
+`plots/b12-outline.md` and the partner rows 27–30 in
+`plots/provider-partner.md` (the deal no longer only "stalls").
+

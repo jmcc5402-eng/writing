@@ -20,7 +20,7 @@ paid for. Nothing here resolves unless the outline says so.
 | Who | The stake | Self-inflicted? | How it shows (the drops) | Resolved? |
 |---|---|---|---|---|
 | Dan | **A second time ends him.** Ten years ago the woman on the academic side, the screenshot, "the school sat me down a year" (ch 14). Caught with Aisha is the second time, and a coach is not sat down twice: he is out of college coaching for good. The conflict the author names: true to her, or the job. (B2-D28.2, LOCKED 2026-09-20) | Yes, the first time; the second is a choice he is making now | Said plain once at the glance in ch 22; then hints, at most one a chapter, in his read — the county's windows, the board's next sentence, the trustees' page | Ch 27 (he spends it: his name on the record) |
-| The trainer | Ten thousand dollars owed on a gambling habit. He is the man between the doctor and the coach, and the survey is pricing his job. | Yes | A line in Aisha's read (a call he takes in the corridor; the truck he does not drive); what the town knows; `[TK does it ever touch the medical information — the author's call]` | Not owed |
+| The trainer (Whit, B2-D32) | Ten thousand dollars owed on a gambling habit — his daughter's tuition (a sophomore at Ashford), bet trying to double it. He is the man between the doctor and the coach, and the survey is pricing his job. KEPT VERY LIGHT: one drop at most per chapter, never a subplot (the author, 2026-09-24). | Yes | A line in Aisha's read (a call he takes in the corridor; the truck he does not drive); what the town knows; `[TK does it ever touch the medical information — the author's call]` | Not owed |
 | Missy Gault | The marriage: Birmingham said the doctor was right and the proof has been in her purse since December 23rd, untold to Denny (B2-T04). And a drinking problem. | Yes | The purse (ch 28 pays). The drinking: never shown — a few lines across the book: what Aisha smells at the hall chair; a morning the seven o'clock page's hand is not the same; what Verna knows | The purse pays ch 28; the drinking is not owed |
 
 ## The pull (B2-D29 — a stake is what they lose; the pull is the two wants against each other, on the page every time they appear)
@@ -63,7 +63,7 @@ paid for. Nothing here resolves unless the outline says so.
 
 ---
 
-## How often the stake is said plain  *(PROPOSED — the author rules on PR)*
+## How often the stake is said plain  *(RULED A — the author merged #185, 2026-09-23; B2-D28.2, D30.1 and F-DAN-02 amended at the ch 24 fold)*
 
 Two standing rules disagree, and the ch 24 keeper blocked the chapter on
 the gap (`notes/ch24-keeper-2026-09-21.md`, blocking item 3).

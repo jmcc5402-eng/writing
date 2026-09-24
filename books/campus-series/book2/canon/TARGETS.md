@@ -63,8 +63,8 @@ gap stays visible (ch 21: plan Town 2 / Menace 0, actual 3 / 1).
 | 22 | D | 5 | 2 | 1 | 2 | 1 | 1 | 3 | 2 | flat | normal | 3200 | Dan |
 | 23 | A | 6 | 3 | 2 | 1 | 3 | 0 | 3 | 3 | down | normal | 3400 | Aisha |
 | 24 | D | 5 | 2 | 2 | 3 | 3 | 0 | 2 | 3 | down | quiet | 3200 | Dan |
-| 25 | A | 6 | 3 | 3 | 1 | 3 | 1 | 3 | 1 | down | quiet | 3400 | Aisha |
-| 26 | D | 7 | 4 | 2 | 3 | 3 | 0 | 1 | 2 | button | normal | 3000 | Dan |
+| 25 | A | 6 | 1 | 3 | 2 | 3 | 1 | 3 | 1 | down | quiet | 3400 | Aisha |
+| 26 | D | 7 | 6 | 2 | 3 | 3 | 0 | 1 | 2 | button | normal | 3000 | Dan |
 | 27 | A | 8 | 4 | 3 | 3 | 2 | 1 | 3 | 3 | flat | normal | 3800 | Dan |
 | 28 | D | 7 | 3 | 2 | 2 | 1 | 3 | 3 | 1 | up | normal | 3400 | Boyd |
 | 29 | A | 9 | 6 | 3 | 3 | 1 | 1 | 2 | 0 | up | quiet | 3400 | Boyd |
@@ -111,3 +111,9 @@ consequence); absent from 21 and 29; glimpsed once at 30.
   the past: ch 23 = 3 by the author.
 - **Fun** 0 is a chapter of watching a lead alone and sad; two of
   those in a row is a finding (taste 7).
+- **Every number is the whole chapter (the author, 2026-09-24, #195).**
+  "One specific line shouldn't be generally able to move a number up or
+  down, it should be the collection of the entire chapter." A reader
+  gives each number for the chapter as a whole and says why in terms of
+  the chapter; a line may be cited as evidence, never as the thing that
+  sets the number, and no fix is "cut this one line to move the score."

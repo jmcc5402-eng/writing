@@ -13,10 +13,24 @@ a path under the session scratchpad) and prints it.
 """
 import re, sys, os
 
+TARGET_WORDS = r"(?:romance|heat|aisha|dan|wound|fun|town|menace|laughs|talk|words)"
+# L097 (2026-09-23): on ch 25 the Targets block was struck but a
+# "Changed from the plan: heat 3 to 1 … Dan 1 to 2" paragraph under it
+# survived, and all three blind panels saw two targets before reading.
+CHANGE = re.compile(r"\b" + TARGET_WORDS + r"(?:\s+and\s+" + TARGET_WORDS + r")?\s+\d+\s+(?:to|→)\s+\d+", re.I)
+
 def blind(text: str) -> str:
     # strike the "**Targets.**" block (the label line, the row line, and
     # the blank line after) wherever the card carries it
-    return re.sub(r"\*\*Targets\.\*\*\s*\n+[^\n]*\n+", "", text, count=1)
+    text = re.sub(r"\*\*Targets\.\*\*\s*\n+[^\n]*\n+", "", text, count=1)
+    # strike any paragraph that states a target or a change to one (L097)
+    paras = re.split(r"(\n\s*\n)", text)
+    keep = []
+    for p in paras:
+        if CHANGE.search(p) or re.match(r"\s*Changed from the plan", p, re.I):
+            continue
+        keep.append(p)
+    return re.sub(r"\n{3,}", "\n\n", "".join(keep))
 
 def main():
     if len(sys.argv) < 2:
@@ -26,6 +40,8 @@ def main():
     out = blind(text)
     if re.search(r"Romance \d+ · Heat \d+", out):
         print("card-blind: a targets row survived — check the card's shape", file=sys.stderr); return 1
+    if CHANGE.search(out):
+        print("card-blind: a target change survived (L097) — check the card's shape", file=sys.stderr); return 1
     dst = sys.argv[2] if len(sys.argv) > 2 else None
     if dst:
         os.makedirs(os.path.dirname(dst) or ".", exist_ok=True)

@@ -2,6 +2,147 @@
 
 Manuscript-affecting changes, newest first. (Hard rule 6.)
 
+## 2026-09-24 — ch 26 ACCEPTED (#194) and folded (fold PR)
+
+- The author's one comment (AUTHOR-NOTES 290), applied before the merge:
+  the athletic director's carrot — "Don't call her. Don't say a word to
+  anybody with a microphone. If this week goes smooth, your extension in
+  February is close to a formality." (February, not March — the
+  extension is on the February agenda; flagged.)
+- Merged without a ruling on the three calls, so the page stands: the
+  kiss line kept (heat 6 by the panel, 5 by the keeper — TARGETS row 26
+  left at 5 until the author says); Boyd unnamed; the decision left to
+  the turn signal.
+- The proxy scored: the one comment SAID in part
+  (notes/ch26-proxy-score-2026-09-24.md).
+- The beat map moved to B2-D33: Climax 29 (climax one the testimony at
+  27); Grand gesture 27; Aisha's essence chosen at cost 29.
+- THREADS, STATE and the registry folded (the keeper's new canon).
+
+## 2026-09-24 — ch 26 "The Survey Stakes" drafted: three blind candidates, C wins (chapter PR)
+
+- The card (moved to Thursday the 28th: the Coach's Table is his chance
+  on the same air as "her protocol") and the brief audited together by
+  the keeper (E2): BLOCK, eight fixes — the athletic director learns of
+  the offer by a reference call, not a records request; the third Table
+  out of season, said why; Odell's anchor counts something new; the
+  stakes seen from the warm-end step, driven not planted; the kiss
+  indoors, behind room nine's door; the building's price once; heat 4 →
+  5 by the author's ruling (AUTHOR-NOTES 289). PASS.
+- Three blind drafters (D1, D2, D3), none with a shell — the orchestrator
+  ran every lint. A failed the opening check (ch 25's opening run). Each
+  read first by author-proxy 1.1.1, then by the blind panel on the
+  card-blind copy. Every proxy: romance 6; A's and B's led with the fight
+  at her door too polite; all three asked to hear the half he meant.
+  Every panel: heat 6, one over the ceiling. C wins
+  (`notes/ch26-scoreboard-2026-09-24.md`): clean, her anger with an edge
+  ("Say nothing Monday. You've had the practice."), and the unasked ask
+  set up for 29. A and B to `notes/candidates/`.
+- A correction to the brief at the revision: MAIN MOVED 1 had banned
+  the half he means in any wording; B2-D31.10 says it "stays in his
+  head" — so it is in his head, once, and never said aloud.
+- Revision pass (D4), nineteen asks, each closed APPLIED or DECLINED
+  (conveyor item 6, its first run): the half in his head; watching him
+  not ask; the cost felt in the truck; heat brought down; the stop
+  slowed; one laugh between them (the haircut); Tuesday's radio heard;
+  the recaps cut.
+- Score (`notes/scores/ch26-score.md`): romance 7, Aisha 2, Dan 3, wound
+  2, town 2, menace 2; THE BILL paid.
+- Keeper page audit (E3): ACCEPT WITH FIXES. Boyd's name out of Dan's
+  head (B2-D31.2); the decision left to the turn signal (the card); four
+  contradictions and three clock gaps.
+- Fix pass (D6): those, plus the editor's move — at her door, her way
+  out for him is the deal he took ten years ago (ch 14's words); Odell's
+  forty days carried to the Table. Lints: 3,436 words, talk 15.8%,
+  talk:body 1.70, CV 0.65.
+- Open for the author: Boyd named in Dan's head, or not; the decision
+  said, or left to the signal; the half he meant in his head (the
+  correction); where the turn signal goes (`[TK]`).
+
+## 2026-09-24 — ch 25 ACCEPTED (#192) and folded; the author's comments applied (fold PR)
+
+- The author on the merge: "the best written chapter yet" — her
+  feelings mixed with the body (AUTHOR-NOTES 283; taste 20 confirmed
+  outside a touch scene; L101).
+- Applied before the merge (B2-D31.12): Boyd called out west to clean
+  up his mess, replacing "It was a guess."
+- Applied in the fold (284): the car loaded but she is not leaving
+  tonight — "She was not leaving tonight. / She would sit for the
+  findings on the third, because she kept her dates, / and be on the
+  interstate the morning of the sixth, / and she had loaded it now so
+  she could not talk herself out of it in eleven days." Lints clean
+  (CV 0.61; talk 8.3%; ratio 1.10).
+- The proxy scored: all three comments SAID (one in part); the misses
+  were the revision's (notes/ch25-proxy-score-2026-09-24.md; L102 —
+  DRAFTING-PROTOCOL conveyor item 6).
+- Open for the author: the trainer (AUTHOR-NOTES 282 — name, a want,
+  and whether his debt becomes the leak); how the chair reached her
+  (`[TK]`). The romance number merged without a ruling; the four small
+  calls stand at their defaults.
+
+## 2026-09-23 — ch 25 "Boxes" drafted: three blind candidates, A wins (chapter PR) — THE FIRST CHAPTER ON THE AUTHOR'S DAN RULINGS
+
+- The card and the brief re-written on B2-D31 (the review interview:
+  "Every coach in the country plays him. I'd have played him."; the
+  wound tears open, inside her head, angry, "I knew it") and audited
+  again by the keeper before any drafter (E6): VERDICT 2 PASS.
+- Three blind drafters (D1 sound-forward, D2 hands and objects, D3
+  short declarative), each read first by author-proxy 1.1.1 (the four
+  new stranger's reads), then by the blind panel. All readers: romance
+  4–5 on the author's scale; the radio moment landed as asked. The
+  card-blind copy leaked two target changes to all three panels; each
+  panel set heat from the page, and the tool now strikes them (L097).
+- A wins (`notes/ch25-scoreboard-2026-09-23.md`): clean on every lint,
+  the only body run not templated on ch 23, and a reason for leaving
+  that keeps Dan responsible ("He had not asked."). B (over length,
+  CV 0.59, opening shared with ch 17) and C (its ending forgives him;
+  its body run templates ch 23) to `notes/candidates/`.
+- Revision pass (D4): the proxy's and panel's asks; B's "He had not
+  had a sentence for her at that window. He had found one for the
+  review." ported as a move; his last text from before reaches her.
+  The trainer money drop in the brief was cut — none left to drop
+  (registry 222).
+- Score (`notes/scores/ch25-score.md`): Aisha 3, Dan 1, wound 3, town
+  3, menace 2; THE BILL paid — the head coach's public backing, taken
+  on 1340.
+- Keeper page audit (E1): ACCEPT WITH FIXES. B1 cut Delores's "Not the
+  coach's." (the half he meant belongs to ch 27); B3 moved the last
+  image off ch 23's office light; N1–N3, N7, N8 one-word fixes.
+- Fix pass (D6): the parka paragraph recast off ch 23's body template;
+  her anger acts once (his numbered box turned to the wall); the
+  Cordelia letter set beside the rent envelope in daylight; the cook's
+  slice decoded; the clock clauses (Verna phoned Delores; the coat at
+  nine; "until the sixth"). Lints: 3,596 words, talk 8.6%, talk:body
+  1.10, CV 0.60, no chains.
+- The author's #192 comment applied (B2-D31.12): at the offer, she is
+  sure Boyd called out west and put in a word to get her the job —
+  "Boyd was the kind of man who always cleaned up his messes, / and
+  this morning she was one." It replaces "It was a guess."
+- Open for the author: romance planned 6, read 4–5; whether the Table
+  spends its one suspicion here; the email's "what we talked about"
+  (N9); the wound named at the letter (N11); Verna's anchor line,
+  convergent across all three drafters (N13).
+
+## 2026-09-21 — ch 24 "Pending Review" drafted: three blind candidates, B wins (chapter PR) — THE SECOND TRIAL OF THE AUTHOR-PROXY
+
+- The card and the brief (with THE AUTHOR'S READ, seven columns —
+  FUN new) audited together by the keeper (E1): six blocks — the
+  count moved behind the ten o'clock statement; Aisha leaves at noon
+  in daylight; the aldermen's vote is the town's side of Millrow
+  rezoned, not the university's ground; Earlene speaks, never types;
+  the opening off the Checkerboard counter; six example sentences
+  banned — and eleven non-blocking fixes. The ending moved to her
+  empty office door at the annex.
+- Three blind drafters (D2, D3, D4), each read FIRST by author-proxy
+  1.1.0 (rating on the author's scale; the stakes-blatant line; the
+  apart-why; FUN), then by the blind panel on the card-blind copy
+  (the first). Every reader: romance 4–5 on the author's scale, the
+  stake blatant, the same four asks (her side of the window; her in
+  the middle and the ending; Boyd named once; one room he is not
+  alone in). B wins (`notes/ch24-scoreboard-2026-09-21.md`).
+- The revision pass on B: the proxy's eight, the panel's five, the
+  four shared asks.
+
 ## 2026-09-21 — ch 23 ACCEPTED (#180) and folded; the author's comments applied (fold PR; B2-D30)
 
 - The author's comments (#180 and chat), applied by the drafter: (1)
@@ -241,6 +382,61 @@ The accept gate holds until the keeper's page audit at the fold.
 
 Not on the page (not ruled): she does not tell him about Boyd's
 directorship offer — the superfan's flag stands for the author.
+## 2026-09-23 — the ch 24 fold: the author's comments on the page (B2-D31)
+
+The author's eight comments on #182 were answered in #190 (B2-D31) and
+ruled. Forward, not backward: everything lands in ch 25–30 except the
+lines below, each a single line the author approved by quote.
+
+- **ch 24 l.154–156 (D31.6a).** After "a board had known what he was
+  once before anybody said it to his face": a head job at this level
+  was the dream job, fought for every day, because somebody was always
+  trying to pull him down. The author's comment on that line.
+- **ch 24 l.179–181 (D31.6b).** "Nobody in the town room cared what the
+  review found. / They cared who had tracked it in on her shoes." became
+  the county hating the doctor fine in the rooms built for it, and this
+  room turning on DeeAnn for tracking her in. The author read the shrug
+  as the town not caring.
+- **ch 24 l.262–263 (D31.6c).** After "That was the whole line.": the
+  one thing a coach could say in a parking lot with the lawyer in his
+  ear — film at four, he would be at work, and she would not. The
+  author could not decode "Film's at four."
+- **ch 16 l.242 (D31.1).** A third line from the two locals on Millrow,
+  after "She might.": "Anybody else's doctor would've had him back
+  tonight." Her call is arguable before the suspension.
+- **The keeper's fold audit (notes/ch24-fold-keeper-2026-09-23.md):**
+  RE-ACCEPT EXCEPT four, all applied. ch 16 "Saturday" → "tonight"
+  (it is game night); ch 24 the dream-job sentence split in two (37
+  words, 88 columns); ch 24 the town room's shrug given to the room,
+  not the county ("Its verdict on the doctor was a shrug." / "The town
+  room could read her name…") — the fold's new line had the county
+  hating her six lines before it shrugged; ch 24 "Practice" → "Film"
+  and "at it" → "at work" (no practice until spring).
+- **The sameness-pass fixes (the keeper's X1–X4, 2026-09-22).** ch 3
+  l.272 the appositive closes with a comma; ch 3 l.335 the can is
+  sparkling water brought from the car, "Set on the rest." cut, and the
+  clamshell goes into her free hand; ch 5 l.133 and ch 6 l.109
+  "seltzer" to "sparkling water" (B2-D23.5; D31.9 — ch 11, 16, 17, 18
+  stay as written); ch 11 l.21 opens on "Aisha Cole".
+
+Not touched, on purpose: the pre-existing bans hits on ch 3, 5, 6 and 11
+and ch 24's talk-to-body ratio (HANDOFF H007) are floors for ch 25 on,
+not revisions.
+
+## 2026-09-22 — the keeper's re-accept read of the sameness pass
+
+PR #183 edited ten accepted chapters without the keeper page audit
+that re-accepts them (BACKLOG F61). Run today by the story thread:
+`notes/sameness-pass-keeper-2026-09-22.md`. 21 hunks: 16 CLEAN, 3
+FACT (the register seed — "seltzer" on three pages two days after
+B2-D23.5 ruled the page says sparkling water; ch 3:335 stages Aisha
+indoors before she has crossed Verna's threshold and adds a dialogue
+line), 1 VOICE (ch 11 now opens on "She" — the establishing line),
+1 mechanical (ch 3:270–273, a comma opening what a dash closes).
+VERDICT: RE-ACCEPT EXCEPT X1–X4. Fixes proposed, not applied; they
+wait for the branch to be free of prose and land with the ch 24 fold.
+Pre-existing "seltzer" on ch 11/16/17/18 is the author's sweep call.
+
 ## 2026-09-16 — SAMENESS PASS, ch 1 / 3 / 9 / 10 / 11 / 15 / 17 / 18
 
 Mechanical only. No story, no beat, no line of dialogue changed.

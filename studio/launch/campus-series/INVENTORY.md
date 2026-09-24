@@ -5,7 +5,7 @@ Book 1.1 needs: what exists, what doesn't, who does it, how long it
 takes. The release rule is `studio/CYCLE.md`: 1.1 ships when 1.2 is
 complete (21 of 30 accepted today), the pre-launch review says SHIP
 and the export is clean. Book 1.1 launches by itself (AUTHOR-NOTES
-267).
+292).
 
 **Nothing goes live on Amazon without the author's explicit go.**
 
@@ -33,7 +33,7 @@ Status: **none** · **partial** · **done**.
 | Item | Status | Who | Notes |
 |---|---|---|---|
 | Clean export | **partial** | studio | `export-book.py books/campus-series`: 30 chapters, 66,693 reader words, **no workshop text**. Only the front and back matter are missing. |
-| Front matter: title page, copyright, dedication placeholder | none | studio | Goes in `studio/launch/campus-series/front-matter.md` (AUTHOR-NOTES 268). The title page waits on A. |
+| Front matter: title page, copyright, dedication placeholder | none | studio | Goes in `studio/launch/campus-series/front-matter.md` (AUTHOR-NOTES 293). The title page waits on A. |
 | Back matter: continue-to-1.2 page, newsletter, review request, about the author | none | studio | Same directory. The 1.2 page needs 1.2's title, which is still [TK] (flag-13). A placeholder link works until 1.2 has an ASIN. |
 | Scene breaks | none | story thread | The 2026-09-03 instrument found 12 breaks missing, 10 that don't pass the time/place test, and one form to settle. Still undone: the manuscript carries 42 `---` and 11 `***`. Page work, so it goes to the story thread via `/propose`. The export can at least normalize the form. |
 | Pre-launch review (O002) | none | story thread | Glaring errors only. The gate reads `notes/prelaunch-review-*.md` with a VERDICT line. Best run around 1.2 = 27/30. |
