@@ -927,7 +927,8 @@ Does Aisha and Ty go back inside first?"
    the lot from the Fieldhouse window at dark. The keeper checks every
    scene's entry and exit on every page audit (1.4.4), not only under
    card E4.
-2. **The trainer's name — OPEN, proposed.** The author wrote "Ty" for
+2. **The trainer's name — RULED 2026-09-24: Carl Whitlow, "Whit"
+   (B2-D32).** Was OPEN, proposed: The author wrote "Ty" for
    the man in the cab; Ty Beaumont is the receivers coach. The trainer
    has no name on any page (twenty-two chapters), which is why he
    blurs — the red team's "a stake with no name is a prop with a
@@ -1191,3 +1192,28 @@ lines in ch 24 (6), each quoted in the PR. The author's rule since
     it is said plainly, in her head, when the offer comes. How the
     chair then reached her (the email's "what we talked about") stays
     `[TK]`.
+
+## B2-D32 — the trainer is a person (author, 2026-09-24, #192 comment and chat after #193)
+
+"The trainer doesn't have a name… Currently they're kind of like a
+cartoon faceless person. Let's discuss how we can make the trainer
+actually a real character." (AUTHOR-NOTES 282) Then, on the options:
+"Whit, A, no leak. And I like the gambling line, but let's make it
+very light does not need to be a big distractor." (AUTHOR-NOTES 285)
+
+1. **Name — RULED.** Carl Whitlow, "Whit" to the staff. From ch 26 the
+   page calls him Whit once somebody in the room says it; "the trainer"
+   stays usable. Chapters 1–25 are not revised (forward, not back).
+2. **His want — RULED (option A).** His daughter is a sophomore at
+   Ashford. The ten thousand he owes (F-TRN-01) was her tuition, and he
+   bet it trying to double it. `[TK the daughter's name]`
+3. **The gambling — RULED: very light.** It is a line, not a subplot.
+   At most one drop in a chapter he is in, seen or known plainly (the
+   app closed, a score on his knee, the tuition he owes); never a
+   scene of its own, never a thread that pulls focus from the leads.
+4. **Not the leak — RULED.** Whit did not leak Dan's interview; his
+   debt never touches the review or the medical information in 1.2
+   (B2-D27.4 item 2 stands). Who leaked stays `[TK]`.
+5. **One moment where he chooses** — somewhere in 26–30, small, on the
+   page (proposed; the brief that carries it names it).
+
