@@ -4,7 +4,7 @@ Dan, Thursday the twenty-eighth of January. Three blind drafters.
 
 **Targets.**
 
-Romance 7 · Heat 4 · Aisha 2 · Dan 3 · Wound 3 · Fun 0 · Town 1 · Menace 2 · Ends button · Talk normal · Words 3000 · Pays Dan
+Romance 7 · Heat 5 · Aisha 2 · Dan 3 · Wound 3 · Fun 0 · Town 1 · Menace 2 · Ends button · Talk normal · Words 3000 · Pays Dan
 
 **The plot.**
 
@@ -15,11 +15,11 @@ coach he used to be, and the half he means stays in his head.
 
 Thursday morning the athletic director gives him two things. The partner
 comes in July either way, so why spend a season defending her line?
-And she is taking the job out west. He learns it from him, not her.
+And her new school out west has called him about her. He learns it from him, not her.
 
 Whit tapes an ankle and says his girl is a sophomore here. At
 Odell's, a customer says the doctor was right. The survey stakes cross
-the annex lawn. That evening on the Coach's Table, Tick offers him the
+the ground by the annex. That evening on the Coach's Table, Tick offers him the
 air where he said "her protocol." He lets the sound bite stand.
 
 At night he drives to Verna's and sees the loaded car. Each offers
@@ -39,13 +39,13 @@ Seen only through him. Angry, packed, and still wanting him.
 
 **The romance.**
 
-The heat notch lands at her door. They kiss, and it does not turn into
-staying.
+The heat notch lands inside her door, shut on the gravel. They kiss,
+and it does not turn into staying.
 
 **The town, the clock.**
 
-Four days to the hearing, six to the findings. Odell's anchor: a
-barber can count, and so can y'all.
+Four days to the hearing, six to the findings. Odell's anchor
+counts something true that nobody has counted yet.
 
 **Your calls.**
 

@@ -12,17 +12,19 @@ from home. — The decision made, not yet spent." The card
 the keeper before a drafter launches. The author said go on the card
 with its defaults (2026-09-24).
 
-**TARGETS (the definition of done — `canon/TARGETS.md` row 26, copied):**
-Romance 7 · Heat 4 · Aisha 2 · Dan 3 · Wound 3 · Fun 0 · Town 1 ·
+**TARGETS (the definition of done — `canon/TARGETS.md` row 26, copied;
+CHANGED 2026-09-24 by the author: heat 4 → 5, keeper B6):**
+Romance 7 · Heat 5 · Aisha 2 · Dan 3 · Wound 3 · Fun 0 · Town 1 ·
 Menace 2 · Ends button · Talk normal · Words 3000 · Pays Dan.
 On the AUTHOR'S scale: romance moves on CONFLICT between the leads, and
 this chapter has them in one room for the first time since the window
 (ch 24) — the sound bite between them, the loaded car, each offering
 the other the way out. Romance 7 is the standoff and the kiss at her
-door. Heat 4 (0–8, the charge scale; counts only with the two of them
+door. Heat 5 (0–8, the charge scale; counts only with the two of them
 in a room): the new line, body words (HANDOFF H009) — a kiss with
-bodies in it, hands, her back to the door or the car; clothes stay on;
-it breaks before it turns into staying. Aisha 2: seen only through
+bodies in it, hands, her back to the inside of room nine's door, the
+door shut on the gravel (keeper B5: indoors — the terms, the stake);
+clothes stay on; it breaks before it turns into staying. Aisha 2: seen only through
 him — angry, packed, still wanting him. Dan 3: TURNED — the struggle on
 the page, and the decision made in the truck (shown only as the turn
 signal). Wound 3 (Dan's: he knows what his silence costs her, and he
@@ -56,10 +58,18 @@ Words 3000; 3450 the ceiling (±15%).
    the partner comes in July either way, so why spend a season
    defending a line that is gone by July. Where he heard it is never
    said; Dan knows (Boyd's walls hold; Boyd unnamed in the AD's mouth).
-   (b) She is leaving: her new school has called for her file — Dan
-   learns it from the athletic director, not from her. `[TK the
-   western school — unnamed; a records request is the proposed
-   mechanism: the keeper rules]`
+   (b) She has an offer out west: the western department called the
+   athletic director this week about her — a REFERENCE CALL, not a file
+   or records request (keeper's ruling, B1). He knows the offer, the
+   post and the date, Saturday the sixth; he does NOT know her answer,
+   and the page never says she has sent one (ch 25:391–394). Any
+   "she's taking it" is his own read, said as his. Dan's certainty
+   comes at night, from the loaded car. Who put in the word stays
+   unsaid (D31.12). `[TK the western school; the chair — unnamed]`
+   The July line means "whatever the review finds" — NOT "with or
+   without the pledge" (the partner contract rides on the pledge,
+   F-AGD-01; D33.6); the athletic director is wrong by 27–28, by
+   design. "July" is new canon (D31.2).
 3. **The dream job, and the staff (D31.5).** The struggle on the page,
    not in five lines: a head job at this level is fought for every day
    (ch 24 said it once — FRESH WORDS here; BANNED ch 24's sentence);
@@ -73,6 +83,16 @@ Words 3000; 3450 the ceiling (±15%).
    stand, on the lawyer's advice. He replays "her protocol" and knows
    the county heard the gap. Tick flat, no opinion (his on-air voice
    for her is 28's). This is the choice the reader holds against him.
+   **(Keeper B2.)** This is NOT a standing January show: it is the
+   THIRD Table ever held out of season (ch 22:156–159 was the second).
+   The page says in one clause that Tick called it and why — from the
+   calendar already on the page (signing week, ch 22:400). And in one
+   clause why Dan is on air in a week the lawyer said "not to the
+   radio" (ch 24:97; the department's no-statement order, 24:50–52):
+   he is cleared to talk football and nothing else — which is what
+   makes Tick's question a refusal the reader can hold. Rex Boyd is
+   NOT on the porch. The Table's one suspicion of the leak out loud is
+   SAVED for 28 (keeper N19).
 5. **Whit — the trainer is a person (B2-D32).** Named on the page:
    Carl Whitlow, "Whit" — the page calls him Whit once somebody in the
    room says it. One scene or a piece of one: he tapes an ankle (a
@@ -81,15 +101,23 @@ Words 3000; 3450 the ceiling (±15%).
    distractor"): at most one clause (the tuition, the app closed), and
    none is fine. He is not the leak; the leak stays `[TK]`.
 6. **Odell's shop — a voice on her side (D31.4); Odell's anchor.** A
-   customer or Odell, one line: the doctor was right. Odell's ANCHOR
-   (his third — ch 8, 18): the annex goes down the same week they sat
-   her down; a barber can count. In his words, not these.
-7. **The survey stakes** cross the annex lawn (the outline's title
-   image): orange stakes walked in by a crew while she is NOT there
-   (she is on leave, out of the annex since the twentieth — the
-   keeper's correction to the outline). Dan sees it from the Fieldhouse
-   side. `[CHECK: the flags of ch 23 — the stakes are the survey
-   proper, not a repeat]`
+   CUSTOMER (the card), not Odell, one line: the doctor was right.
+   Odell's ANCHOR (his third — ch 8, 18) counts something TRUE on
+   Thursday the twenty-eighth that no page has counted (keeper B3) —
+   NOT the same-week coincidence (Earlene's, ch 24:372–374), NOT a
+   claim the annex falls this week (the trustees vote in February,
+   F-AGD-01), NOT ch 18's "count both." In his words.
+7. **The survey stakes** on the ground between the annex and the
+   fence (ch 23:320; "annex lawn" is on no page): while she is NOT
+   there (on leave; back once, Tuesday at one, for her two boxes —
+   25:190–249). Dan sees them from the warm-end step as he leaves Whit
+   (ch 23:318). **Keeper's ruling (B4):** the stakes are a different
+   object from Monday's flags — driven in, not planted; the page says
+   the difference in one plain sentence: the flags marked the ground,
+   the stakes mark where the building goes. They run from the near
+   corner, the whirlpool room (ch 10; registry 61), toward the fence.
+   NOT a three-man tape crew calling numbers; Delores is not at the
+   lot.
 8. **The standoff at her door (arc-docs 26; the card's calls, RULED at
    default).** Night. He drives to the Magnolia Court and sees the
    loaded car in Verna's gravel (ch 25). No misunderstanding anywhere
@@ -98,9 +126,22 @@ Words 3000; 3450 the ceiling (±15%).
    "say it to them, where it counts," in her words (not "Say it to
    them" verbatim, the card's example). **Her exit for him:** keep the
    season, tell them nothing, she was leaving anyway. **His:** he will
-   take the cost. Neither accepts. **Call 2 (default): the kiss** at her
-   door — HEAT 4 (MAIN MOVED 10) — and SHE ends it. Both clear-headed
-   (the consent wall). It does not turn into staying.
+   take the cost. Neither accepts. **Call 2 (default): the kiss** —
+   INDOORS, her back to the inside of room nine's door, the door shut
+   on the gravel (keeper B5: the terms say nothing public until the
+   first Wednesday in February, registry 114; caught together, both
+   fired that day, F-DAN-02; his truck in that gravel at night became a
+   post once, ch 21) — HEAT (MAIN MOVED 10) — and SHE ends it. Both
+   clear-headed (the consent wall). It does not turn into staying.
+   Scene 6 says where the truck stands; his knowledge of what a truck
+   in that gravel means is the stake's HINT, not its plain saying.
+   **Her exit for him** is his silence and his extension — NOT "the
+   season" (there is none until spring) and NOT "the offer" (in her
+   mouth that reads as her own western offer; keeper N15). The parka
+   through the car glass needs a light: Verna's office light (23:100)
+   or room nine's lamp — and the page states the lamp's and the
+   curtain's state so it cannot read as the signal she did not give
+   (registry 148; keeper N13).
 9. **The turn signal (arc-docs 26; B2-D33.1).** In the truck after:
    he weighs it, on the page — the lawyer says don't; speaking at the
    hearing ends the extension, the dream job, and his staff's jobs ride
@@ -111,8 +152,9 @@ Words 3000; 3450 the ceiling (±15%).
     2026-09-23).** Body words on the page: the kiss, hands, her body
     against his, what it does to him in plain body words. Off the
     page: explicit anatomy and the act. Consent: both clear-headed.
-    This is the first real notch after ch 21's hand — make it land
-    (taste 20: the touch has a body, across four or more sentences at
+    This is the first touch between them since ch 21; heat 5 is the
+    ceiling — ch 16's level, the author's ruling (2026-09-24; keeper
+    B6), under ch 15's first kiss (6) and under 29's peak (taste 20: the touch has a body, across four or more sentences at
     the highest touch; the romance craft word is the visceral response).
 11. **The stake said plain ONCE (#185; F-DAN-02).** Caught in a
     relationship during the season, both gone that day — said plain
@@ -130,6 +172,33 @@ Words 3000; 3450 the ceiling (±15%).
     Every proxy, panel and editor ask comes back APPLIED (with the
     line) or DECLINED (with the reason); a CONFUSING ask gets a
     sentence, not a word.
+
+15. **From the keeper's audit (notes, applied).**
+    - **The hearing** is first on the page here: say plainly what it is
+      (the review sitting on Monday the first) and that Dan is NOT on
+      its list (N2). The Monday interview room is NOT the trustees'
+      boardroom (27's one-visit room).
+    - **The lawyer's "don't"** about Monday the first is ON this page —
+      the hallway after the interview (N3; B2-D33.1). The interview is
+      the review's summons, the lawyer beside him (ch 24:96).
+    - **No suit** on Monday — the suit he hates is 27's (N4).
+    - **Whit** does not say "Doc" in Dan's POV; he says "7" for Trey
+      (N5). His girl's line needs a prompt on the page — something asks
+      it (taste 1). The debt, if dropped, takes a NEW shape: not the
+      app, the score on the knee, the corridor call, the machine lunch
+      (N7); B2-D32.3 (one per chapter) supersedes registry 222. The
+      ankle is from the ice or the weight room — there are no winter
+      workouts on the page (N8). Say whether the cover man (24:394) is
+      in the rehab rooms, and why Dan is in her building (N9; L053).
+      Whit's one moment where he chooses is NOT this chapter (27–30;
+      B2-D32.5; N20). `[TK Glenda Whitlow (1.1's board poster): kin to
+      Whit or not — author]` (N6).
+    - **The turn signal**: his house has no street or direction on any
+      page (registry 145) — invent none. "Away from home" is the only
+      fact. `[TK where the signal goes — paid by the ch 27 brief]` (N14).
+    - **The parka on its hook, Monday** is HIS twin, on the hook at his
+      house (ch 10:490–494; 18:314) — remembered; hers was on room
+      nine's rod (25:410) (N22).
 
 ## PROOF OF DONE — campus 1.2 ch 26, 2026-09-24 (chapter-proof; filled at the end)
 
@@ -149,7 +218,7 @@ READERS (verdict files, path attached at the end)
 MUST NOT HAVE CHANGED
   [ ] the sound bite verbatim; the half he means NOT written, anywhere (27's)
   [ ] Dan does NOT ask her to stay (29's — B2-D33.4)
-  [ ] the kiss ends; nobody stays; clothes stay on; both clear-headed
+  [ ] the kiss ends; nobody stays; clothes stay on; both clear-headed; heat ≤ 5
   [ ] the coat plant (B2-T02) SAVED for 29: the parka's twin on his hook may be SEEN; nobody says whose hers is
   [ ] Whit named; the gambling one clause at most; not the leak
   [ ] Boyd unnamed in the athletic director's mouth; the leak `[TK]`
@@ -167,8 +236,9 @@ betrayal — and then watches him choose to let it stand, which is worse
 and better at once. At her door the want is said with bodies, and each
 tries to pay for the other. Earned by: ch 24 (the window — "Film's at
 four"), ch 25 (the sound bite; the loaded car; "He had not asked"), ch
-22 (her protocol, on air), ch 21 (the hand; the cab). Spends: the heat
-notch. Saves: the ask (29), the coat (29), the sentence's second half
+22 (her protocol, on air), ch 21 (the hand; the cab). Spends (arc
+doc): none — the standoff is NOT the private repair (that is 29's,
+B2-D33.5; romance-arc row 26's [CHECK] closes at the fold). Saves: the ask (29), the coat (29), the sentence's second half
 (27).
 
 ## THE LEADS' SCENES (the floor)
@@ -212,33 +282,35 @@ instead.*
    her face through the glass, the parka's twin on the hook) — his
    body (hands, the chair, the water). The question; he misses the
    trap; the sound bite, verbatim; the half he means stays unwritten —
-   the page shows a man stopping one sentence early. The lawyer's pen
-   moving. Out into the hall: he knows something went wrong and not
+   the page shows a man stopping one sentence early. Out into the hall: he knows something went wrong and not
    yet what. KIND 8/9.
 2. **Thursday morning — the athletic director's office** (a hard jump
    forward, said: Thursday the twenty-eighth). The July line (MAIN
-   MOVED 2a), once. Then (2b): her file requested out west; she is
-   leaving. His body at it. The dream job and the staff (MAIN MOVED
+   MOVED 2a), once. Then (2b): the western department's call — the
+   offer, the post, the date; not her answer. His body at it. The dream job and the staff (MAIN MOVED
    3), in his head, fresh words. Kind 4.
 3. **Late morning — the rehab rooms; Whit** (MAIN MOVED 5). Whit
    taping a winter-workout ankle; says his girl is a sophomore here;
    Dan sees him as a man for the first time; at most one clause of the
-   debt. Through the window: the survey stakes walked across the annex
-   lawn (MAIN MOVED 7). Kind 6 (her building).
+   debt. From the warm-end step as he leaves: the survey stakes (MAIN
+   MOVED 7). Kind 6 (her building).
 4. **Afternoon — Odell's shop** (MAIN MOVED 6). A haircut before the
    hearing week, or the drafter's reason, said. A customer or Odell
-   says the doctor was right; Odell's anchor. Dan says nothing back —
+   says the doctor was right (a customer, not Odell); Odell's anchor. Dan says nothing back —
    the silence costs him in the chair. Kind 6.
 5. **Evening — the Coach's Table** (MAIN MOVED 4). Delmar's porch; the
    heaters; Tick's mixer. The chance; he lets it stand. "Her protocol"
    replayed in his head. Kind 8.
 6. **Night — the Magnolia Court; the standoff; the door** (MAIN MOVED
-   8; the longest scene). The loaded car in the gravel; the parka on
-   the top box through the glass (ch 25's image — seen from HIS side,
-   one beat); room nine's door. She stops the explanation. The two
-   exits; neither accepts. The kiss — heat 4, bodies, four or more
-   body sentences — and she ends it. Verna: one look from the office
-   window at most, no anchor. Kinds 1, 2, 5, 8.
+   8; the longest scene). The truck, where it stands; the loaded car
+   in the gravel; the parka on the top box through the glass, lit by
+   a named light (ch 25's image — seen from HIS side, briefly); room
+   nine's door. She lets him in, or they talk at the door and go in —
+   the drafter's call, said. She stops the explanation. The two exits;
+   neither accepts. The kiss INSIDE, her back to the shut door — heat 5, bodies,
+   four or more body sentences — and she ends it. Verna: one look at
+   the truck arriving or leaving, not at the kiss; no anchor. Kinds 1,
+   2, 5, 8.
 7. **The truck — the turn signal** (MAIN MOVED 9). He weighs it, on
    the page. The signal, away from home. ENDS BUTTON, dark.
 
@@ -246,8 +318,8 @@ instead.*
 
 | Scene | MORE | WHO | CONFUSING | NOSE | POINT | SENSES | FUN |
 |---|---|---|---|---|---|---|---|
-| 1. Monday, the interview | Romance felt 5: his head on her the whole time — the window, her face, the hook; his body at the question | The reviewer: wants the true answer, a fair trap; the lawyer: wants silence; Dan: conflict 3 — off his game because of her | "Monday, a step back" said plain; who the lawyer is (ch 24's); why he is in the room (the review's summons) | Nobody says "he blew it"; his stopped sentence does it | The point: an honest slip by a man thinking about her. The reader now knows more than Aisha | The room's air, the pitcher, the pen, his hands | — |
-| 2. Thursday, the AD | Romance felt 5: she is leaving — his body at it | The AD: wants a quiet February; the July line his, not Boyd's; Dan: conflict 3 | Thursday said; how the AD knows (the file requested) | Nobody names Boyd; the July line does it | The point: the July line is the reason, and she is going — from his boss | The office, the window, the cold | — |
+| 1. Monday, the interview | Romance felt 5: his head on her the whole time — the window, her face, the hook; his body at the question | The reviewer: wants the true answer, a fair trap; the lawyer: wants silence; Dan: conflict 3 — off his game because of her | "Monday, a step back" said plain; who the lawyer is (ch 24's); why he is in the room (the review's summons) | Nobody says "he blew it"; his stopped sentence does it | The point: an honest slip by a man thinking about her. The reader now knows more than Aisha | The room's air, his hands, the chair — the drafter's objects | — |
+| 2. Thursday, the AD | Romance felt 5: she is leaving — his body at it | The AD: wants a quiet February; the July line his, not Boyd's; Dan: conflict 3 | Thursday said; how the AD knows (the western department called him) | Nobody names Boyd; the July line does it | The point: the July line is the reason, and she is going — from his boss | The office, the window, the cold | — |
 | 3. Late morning, Whit | Romance felt 3: her building out the window | Whit: wants his girl's tuition square and his job; conflict 1–2; named | Who Whit is (the trainer, named at last); the stakes vs ch 23's flags | Nobody explains the debt; one clause at most | The point: the man in her corridor is a person; her building being staked | Tape tearing; the whirlpool; orange stakes | Whit's dry line, if any |
 | 4. Afternoon, Odell's | Romance felt 3: somebody else says she was right | Odell: particular, busy, counts; the customer: on her side; Dan: silent | Why Dan is in the chair | Nobody says "Dan should speak"; the anchor does it | The point: the town can count; Dan can't say it | Clippers, talc, the chair's lever | Odell's particularity |
 | 5. Evening, the Table | Romance felt 4: her protocol replayed; the gap heard | Tick: flat, gives him the air; Delmar, Ray: the porch; Dan: conflict 3 — lets it stand | The same air as the fourteenth; what "let it stand" is | Nobody calls it cowardice; the silence does | The point: the choice the reader holds against him | The heaters, the mixer, the smoker | Tick's mixer, Ray |
@@ -285,10 +357,11 @@ his daughter. **Odell:** the anchor. **Tick:** the air, flat.
 
 | Who | Locked stake carried | The drop (whose eye, what) |
 |---|---|---|
-| Dan | a second time ends him (D30.1); the extension on the February agenda (F-AGD-01); his staff's jobs ride on it (D31.5, new); caught in season, both gone that day (F-DAN-02) — said plain ONCE | the AD's office or the door; the dream job in fresh words; the staff once |
+| Dan | caught in season, both gone that day (F-DAN-02) — said plain ONCE; a second time ends him (D30.1/D28.2) — a HINT only; the extension on the February agenda (F-AGD-01); his staff's jobs ride on it (D31.5, new) | the AD's office or the door; the dream job in fresh words; the staff once |
 | Aisha | on leave; the offer typed, unsent, answer Saturday the sixth; the findings Wednesday the third; her line gone by July (the AD) | seen through him: the loaded car |
 | Whit | ten thousand — his daughter's tuition (B2-D32) | one clause at most; none is fine |
 | Boyd | the pledge; the partner (B2-D13) | the July line, unnamed |
+| The building (D30.4 — LOCKED: never on the page without its price) | the stakes put it on the page | ONCE, plain, fresh words (not 23:327–328, 24:199–201): it goes where her clinic stands, and the group that comes in with it takes her job at the February sitting; no name on the money |
 | Odell, Tick, the AD, the lawyer, the reviewer | none locked | — |
 
 ## THE STAKES, THIS CHAPTER'S
@@ -348,9 +421,11 @@ a carport (registry 145) — "home" for the turn signal.
 - "Stay" asked by Dan in any wording — 29's.
 - ch 24's dream-job sentence ("the dream job… fought for every day…
   somebody was always trying to pull him down") — fresh words.
-- "Say it to them" verbatim (the card's example); "a barber can count,
-  and so can y'all" (the outline's example); "take the offer, I'm the
-  cost" verbatim (the dossier's). These are examples: write your own.
+- "Say it to them" verbatim (the card's example); "where it counts";
+  "keep the season" and "I was leaving anyway" verbatim; "a barber can
+  count" in any form; "same week"; "take the offer, I'm the cost"
+  verbatim (the dossier's); OPENING on a pen, a pitcher, or a legal
+  pad (the brief's own examples). These are examples: write your own.
 - ONE anchor (Odell's). Verna none. Nobody swears beyond STANDARDS 16.
 - Calendar: "Monday the twenty-fifth" and "Thursday the twenty-eighth"
   said, each inside a sentence; "Monday the first" for the hearing;
@@ -373,7 +448,8 @@ a carport (registry 145) — "home" for the turn signal.
 A parent's eye, no plot, light; funny welcome (25 was funny — the ski
 mask). The last week of January from a parent's side, under a handle
 unused by 21–25 (not Kendra Voyles — 25; not GrammyInSectionC,
-PieBeforeKickoff, PomPoms&Prayers, FridayNightFaye), under 35 words.
+PieBeforeKickoff, PomPoms&Prayers, FridayNightFaye; NEVER Glenda
+Whitlow — keeper N6), under 35 words.
 NOT the review, NOT the suspension.
 
 ## TASTE (the entries this chapter risks)
@@ -391,3 +467,28 @@ fourth solo ending); 3 (the wound — his — in his body); 13 (the card).
 1. He starts to explain the sound bite and she stops him.
 2. They kiss at her door and she ends it.
 3. The reference call for fifty-six is cut.
+
+## AUDIT ADDENDUM — ch 26 card + brief (continuity-keeper, card E2, 2026-09-24) — BLOCK, then corrected in the body above
+
+B1 how the athletic director knows — a reference call from the
+western department, not a records request; he knows the offer, the
+post and the date, not her answer (MAIN MOVED 2b; scene 2; the
+AUTHOR'S READ). B2 the Coach's Table is the third ever held out of
+season — Tick called it and why, in one clause; Dan cleared to talk
+football only; Boyd not on the porch; the Table's suspicion saved for
+28 (MAIN MOVED 4). B3 Odell's anchor counts something true today that
+no page has counted — not the same-week coincidence, not the annex
+falling, not "count both"; "a barber can count" and "same week"
+banned (MAIN MOVED 6; BANS). B4 the stakes seen from the warm-end
+step; driven, not planted; a different object from ch 23's flags,
+said plain (MAIN MOVED 7; scene 3). B5 the kiss indoors, her back to
+the inside of room nine's door (TARGETS; MAIN MOVED 8; scene 6). B6
+heat — the author ruled 5 (TARGETS row 26 changed). B7 a customer,
+not Odell, says the doctor was right (MAIN MOVED 6). B8 the
+building's price, once, plain, fresh words (STAKES ON THE PAGE).
+NOTES N1–N23 applied as MAIN MOVED 15, the exits (N15), the light and
+the lamp (N13), the stake's hint (N16), the bans (N17), "Spends: none"
+(N18). New canon listed by the keeper is recorded at the fold.
+
+## VERDICT: PASS — B1–B8 corrected in the body above (B6 by the author's ruling: heat 5); the notes applied
+
