@@ -1,0 +1,467 @@
+# Chapter 26 — The Survey Stakes
+
+POV: Dan, third person limited, past tense.
+(DRAFT — blind candidate C, card D3, per plots/brief-ch26.md.)
+
+---
+
+> **On Grapevine, the Ashford parents' board —**
+>
+> **Tim Brasher:** My daughter says the dining hall has "a waffle
+> situation" this semester. I asked what that means. She said, "Dad.
+> You wouldn't get it." I am paying for the waffle situation.
+
+
+The plastic water bottle in Dan Merritt's hand cracked
+whenever his grip changed on it,
+and it changed every time the talk came near Aisha Cole.
+The independent review had called him in on Monday the twenty-fifth,
+the day before the radio had him, to answer for December,
+and the university's lawyer sat beside him
+to see that nothing else got answered.
+The review would decide whether she had been right
+to keep Trey off the field for the playoff.
+Whatever Dan said today went into its findings on the third.
+
+[TK who conducts the review; the room's building]
+
+The room was small and too warm.
+The reviewer wanted true answers and asked fair questions to get them.
+The lawyer from the morning of the suspension
+wanted as little said as the truth allowed.
+
+"Who decided he would not play on the nineteenth?" the reviewer asked.
+
+"Dr. Cole," Dan said.
+
+The questions were easy, and none of them needed him.
+His head went where it had gone all week.
+It went to her car window on Wednesday, at noon in the rain.
+Her eyes had come up to his mouth through four inches of glass
+and waited for him to say one true thing.
+He had told her film was at four.
+Then the glass had gone up.
+
+The bottle cracked in his fist.
+His pulse was going in that hand,
+and heat had come up his neck under his collar.
+
+This morning the navy coat on the hook in his hall
+had swung against his knuckles.
+It was the mate to hers, and it went through his chest like cold water.
+He wanted her in that hall so badly it made him stupid.
+
+"Coach." The reviewer's voice brought him back.
+"Knowing what you know now,
+would you have played your quarterback on the nineteenth?"
+
+It was a fair question.
+It was the question every coach got asked about every hurt kid in America,
+and for most of his working life he had given the same answer
+to every one of them without a second thought.
+Her face was still behind the glass in his head.
+
+"Every coach in the country plays him," Dan said. "I'd have played him."
+
+The next sentence was right behind it.
+He had it by the front end, and he took a breath for it.
+The reviewer read the line back once, word for word, and Dan nodded.
+Then the reviewer turned a page in the file,
+and the breath went out of him with nothing in it.
+
+Out in the hall the cold hit the sweat on his neck.
+
+"Short answers. Good," the lawyer said.
+"The review sits Monday the first to hear the people on its list.
+That's the hearing. You're not on the list, and you don't go near it.
+You don't call her, and you don't add a word to anything you said today.
+Anything you add makes it worse for her."
+
+"I know it."
+
+He did know it.
+Something else was wrong, too.
+It was the feeling he got on a sideline when a play went wrong in front of him
+and he could not see yet which of his own men had missed the block.
+
+
+On Thursday the twenty-eighth, three days after the interview,
+Dan sat across a desk from the athletic director at eight in the morning
+and knew at last which man had missed his block.
+It was him.
+The radio had read his answer on Tuesday with nothing after it.
+Nobody but Dan knew there had ever been a second sentence.
+
+"The partner comes in July, Dan," the athletic director said.
+"Whatever the review finds, it comes in July.
+I'm not spending a season defending a line that's gone by July,
+and I'd like it if you didn't either."
+
+It was a real argument, and Dan knew it.
+The athletic director had a review on his desk and eleven families behind it,
+a class that signed on Wednesday,
+and trustees who would vote in February on whatever he chose to hand them.
+He wanted a quiet February.
+But it was not his sentence.
+Dan had heard it once before, in his own office door,
+from a man who would not sit down.
+Neither of them said where it came from.
+
+"One more thing," the athletic director said.
+"A department out west called me Tuesday about Dr. Cole.
+A reference call. They've offered her a directorship,
+and they want her answer by Saturday the sixth.
+I told them she's the best doctor I've had.
+They didn't say if she's answered.
+It's a better job than this one. I'd take it."
+
+Something went out from under Dan,
+like a stair he had miscounted in the dark.
+His throat shut.
+The heat went up the back of his neck,
+and his heart was going as if he had run the stadium steps.
+She had not told him.
+He was hearing it from his boss with the door shut.
+
+"She'll decide it herself," Dan said. "She always has."
+
+There were not many jobs like his in the country,
+and every one of them had a line of men behind it that never sat down.
+His staff had come to this town on his contract,
+and if the trustees let the extension die in February,
+every coach on that staff would be out looking for work by spring
+without one of them having done a thing to earn it.
+
+The lawyer said silence protected her.
+So he would keep quiet through the hearing's week
+and let the county go on sure
+that the one man on record about her call thought she was wrong.
+He knew what that cost her, and he felt it low in his chest.
+He had kept away from her all week
+because anything he said about her made it worse for her, the lawyer said,
+and a coach on the phone to a suspended doctor in the week of her hearing
+was the county's next post by morning.
+
+[TK the western school; the chair — unnamed]
+[TK who leaked the interview]
+
+
+At ten the kicker who had gone down on the ice
+was in Dan's office door on one foot, asking if he could kick today.
+Dan walked him across the lot to the annex himself.
+He told himself it was because the kid would never have gone on his own,
+and that was true,
+and it was not the reason that had him out of his chair so fast.
+It was her building.
+
+In the rehab room the trainer had the kicker on the near table
+with the tape going.
+The cover man was next door in the whirlpool room.
+
+"Is it going to hold, Whit?" the kicker said.
+
+The trainer's name was Carl Whitlow.
+The staff called him Whit,
+and Dan had called him that all season
+without asking him one thing about himself.
+
+"Doctor said ten days on this," Whit said. "Today's ten."
+
+He kept his eyes on the tape while he said it,
+and his ears went red to the tips.
+It would be the man next door who signed the kid off today, not her.
+Whit had kept her count anyway.
+
+"Can I still make my eleven o'clock?" the kicker said.
+
+"You'll make it," Whit said.
+"My girl's a sophomore here, and she's never been late to a class.
+I'd hear about it if I made you late."
+
+"I didn't know you had a girl here," Dan said.
+
+"Sophomore." For a second Whit's whole face was a father's.
+"She's why I'm still in this building."
+
+Whit wanted his job, and he wanted his girl through this school,
+and on a trainer's pay the second one rode on the first.
+Dan looked at him and saw a man for the first time.
+
+On his way out he passed Aisha's office.
+The clinic's boxes stood along the wall with their numbers out,
+all but one at the end, turned to the wall.
+The number on the side he could not see was in his own marker.
+His throat closed, and he went out the warm-end door onto her step.
+
+On the ground between the annex and the fence
+stood a line of wooden stakes driven into the frozen dirt,
+their tops painted orange.
+They ran from the near corner, the whirlpool room, out toward the fence.
+The flags last week had marked the ground.
+The stakes marked where the building went.
+The trustees voted on it in February.
+If it passed, the building would stand on top of her clinic,
+and the partner the money brought with it would be doing her job by July,
+whatever the review found on the third.
+His chest went tight and stayed that way.
+
+[TK Glenda Whitlow (1.1's board poster): kin to Whit or not — author]
+
+
+At three Dan drove down to Fountain's on Fountain Row for a haircut,
+because the porch would be full tonight and the county would look at him hard.
+Odell had him tipped back with the cape to his chin.
+Odell was a deacon at Mt. Nebo on Sundays and a barber the rest of the week,
+and what he wanted out of any afternoon
+was a straight line on the back of a neck and a man who held still for it.
+
+A man in the waiting chair wanted the radio's business settled before his turn.
+
+"I'll say it if nobody else in here will," the man said.
+"That doctor was right about 7."
+
+He looked at Dan in the mirror when he said it, and kept looking.
+The coach and the doctor had been in one sentence in this county since the fall,
+and the man wanted to hear which side of it
+the coach would come down on out loud.
+
+Dan said nothing.
+Under the cape his hands had shut on each other.
+His pulse went in both wrists.
+His neck burned under Odell's fingers,
+and Odell felt it there, and the fingers did not stop.
+Then the clippers went off.
+
+"Forty days since that boy sat, Coach," Odell said.
+"He's on a bike, and he knows his own name.
+I counted it this morning over my coffee.
+Somebody ought to say that number on the radio."
+
+Dan said nothing to that either.
+It cost him to sit there with his mouth shut,
+and he paid it with his chin on his chest.
+
+
+After Odell's he left the truck on the square
+and walked to Delmar's at the foot of Millrow,
+and by seven he was in the guest chair on the screen porch
+with the heaters going.
+Tick Moran had called a Table for signing week,
+the third one ever held out of season,
+because the class signed on Wednesday and the county wanted its parade early.
+The lawyer had cleared Dan to sit it for football and nothing else.
+Ray had the smoker going.
+
+The first caller wanted the class.
+
+"Coach, how many you signing Wednesday?"
+
+"Two," Dan said.
+"Most of the class signed in December.
+Two families said yes in the fall and sign on the third,
+and I'll be glad to see both of them."
+
+At twenty to eight Tick kept his hand on the fader
+and looked at Dan over the mixer.
+
+"Coach, the county heard a line of yours on this station Tuesday morning,"
+Tick said. "Air's yours, if you want to put anything beside it."
+
+His voice had nothing in it, for Dan or against him.
+The porch went quiet.
+
+Dan had the words in his chest, whole.
+On the fourteenth, with the ice on the hill, he had said her protocol
+on this same air,
+and the whole county had heard the doctor in it without her name.
+Tonight it would hear the gap where the rest of his answer belonged.
+He believed anything he said made it worse for her.
+He also knew it was the easy thing to believe tonight.
+His throat was tight, and he could hear his own pulse over the heaters.
+
+"I'm here to talk about the class, Tick," Dan said.
+
+Tick took his hand off the fader.
+"Then we'll talk about the class," Tick said, and took line two.
+
+He wanted to say her name into that microphone
+more than he had wanted anything on a porch in his life,
+and he sat there with both hands flat on the card table and did not.
+The county heard him talk about two recruits until eight,
+and it heard what he left out.
+
+"Brisket's done, Coach, if you're eating," Ray said through the window
+when the bulb went off.
+
+
+At twenty past eight he drove out of the square
+toward the Magnolia Court, Verna's motel, instead of up the hill.
+Saturday the sixth had ridden with him all day.
+He put the truck in Verna's gravel beside the RAV4 and cut the engine.
+A truck in that gravel at night had been a post once already.
+He left it there.
+Verna Poteat looked out at it once from her office window.
+
+The RAV4 sat in front of nine with its back seat full.
+Verna's office light lay across the frozen gravel
+and in through the side glass,
+and it lit the boxes on the back seat
+and the navy parka folded flat on the top one.
+Nobody loaded a car like that for a hearing.
+Aisha was going.
+Nobody had told him so.
+It was his own read, and he believed it all the way down.
+His breath went out white and did not come back right.
+
+Nine's curtain was open on a dark room, and the lamp was off.
+The door opened before he got to it, because Aisha had heard the truck.
+She stood in it in a sweater with her arms folded and her curls down.
+Her face in Verna's light was set hard.
+Her eyes were not.
+
+"Doc," he said.
+
+"Not in the gravel," Aisha said, and stood back from the door.
+
+He went past her into nine,
+and she shut the door on the gravel and the light and the county.
+If anybody caught a coach and the team physician together in the season,
+both of them were gone that day,
+and he knew it with Verna's whole lot on the other side of an inch of door.
+He had come in anyway.
+
+She pulled the curtain shut and did not touch the lamp.
+Lamp on and curtain shut had meant come, once, for him and nobody else.
+Tonight the curtain was for the county,
+and she left the lamp off so it would mean nothing.
+Verna's light came thin through the curtain, enough to see her face by.
+
+His hand went toward the lamp out of habit.
+He took it back and did not know what to do with it,
+so he put it in his coat.
+The corner of her mouth moved and did not get as far as a smile.
+
+"Monday, with the review," he said.
+"I had more to say, and I didn't get—"
+
+"Don't." Her chin came up.
+"Don't bring the rest of it to me, Dan.
+I'm not the one who wrote the first half down.
+If there's a second half, you know whose it is."
+
+She was not letting him spend it on her.
+He saw that, and it went into his chest worse than the radio had.
+
+"The athletic director had a call about you Tuesday," he said.
+"From out west."
+
+Something went across her face, fast, and then her eyes were steady again.
+Her throat moved once.
+"So you heard it from him."
+
+"I'd rather have had it from you," Dan said.
+
+"I know." She looked at the curtain, and back at him.
+"I didn't call you, and you didn't call me.
+Here's what you do.
+Say nothing Monday. You've had the practice.
+Sign your extension in February.
+I'm on the interstate the morning of the sixth,
+and nobody in this county has to pay for anything."
+
+That was her way out for him, held out whole.
+Her voice held steady, and her hands did not.
+They were fists in the sleeves of the sweater.
+
+"No," Dan said. "Whatever it costs, I'll pay it. Not you."
+
+"It costs you the job you've wanted your whole life," she said.
+"It costs every man on your staff.
+You'd be paying all that for a woman with her car already packed."
+
+"Then that's who I'm paying it for."
+
+"No." It came out low, and her eyes did not leave his.
+
+Each of them stood there holding a way out for the other,
+and neither one would reach for it.
+
+She had not moved from the door since she shut it.
+Her back was to it, and he was a foot from her in the dark.
+He could feel the cold coming off the door and the warm coming off her.
+Her eyes were wet, and she was angry, and she wanted him.
+He could see all three.
+Then her hand came out of the sleeve and took hold of the front of his coat.
+
+She did not pull.
+She held on, with her knuckles against his chest, and her eyes stayed on his.
+
+"Aisha," he said. It was a question.
+
+"I know exactly what I'm doing," she said. "Come here."
+
+He came the last step on his own.
+He put one hand flat on the door beside her head,
+and the wood was cold under his palm.
+Her breath came up warm against his chin.
+For a second neither of them moved,
+and he could hear the furnace working in the wall.
+Then he bent his head and kissed her.
+
+Her mouth was warm, and it was angry, and it went through him to the knees.
+Her back came flat against the door,
+and the whole length of her came against him,
+and his heart went so hard under the coat
+that he knew she could feel it against her fist.
+Heat went up his throat into his face.
+His other hand found her waist over the sweater and held on.
+His breath went ragged against her mouth, and he could not get it back.
+He wanted her more than he had ever wanted anything,
+and he was the reason her car was loaded in the gravel outside,
+and both of those were in his two hands at once.
+
+She was the one who stopped.
+She turned her mouth off his and put her forehead against his chest.
+Then her palm came flat against his chest and pushed, not hard,
+and he stepped back at once.
+Her face was flushed in the thin light, and her eyes were wet.
+
+"Go home, Dan," she said.
+"I'm not going to be the thing this cost you.
+I'd rather be gone than be that."
+
+"I know you would," he said.
+His throat had shut on anything else he might have said.
+
+She opened the door behind her without turning around,
+and the cold came in off the gravel.
+He went out past her.
+She did not shut it until he was in the truck.
+
+
+Dan backed out of Verna's gravel
+and stopped at the edge of the road with the engine running.
+
+[TK where the signal goes — paid by the ch 27 brief]
+
+The lawyer had said don't.
+The review sat Monday the first, and his name was not on its list.
+If he walked in anyway and finished his answer out loud,
+the extension was dead in February,
+and the job went with it, and every coach on his staff.
+He thought of Whit's girl too, a sophomore across campus,
+and did not know why.
+That was the price, and he counted it to the dollar.
+
+What scared him was not the price.
+He was afraid she would be on the interstate on the morning of the sixth
+believing the last thing he ever said about her
+was the thing a stranger read on the radio on Tuesday morning.
+
+His heart had not come down yet.
+The cold of her door was still in his palm,
+and his coat still had the shape of her fist in it.
+She had told him to go home.
+
+He put the turn signal on, away from home.
+It ticked in the dark cab, and he did not turn it off.
