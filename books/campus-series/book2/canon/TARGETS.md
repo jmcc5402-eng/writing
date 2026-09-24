@@ -65,7 +65,7 @@ gap stays visible (ch 21: plan Town 2 / Menace 0, actual 3 / 1).
 | 24 | D | 5 | 2 | 2 | 3 | 3 | 0 | 2 | 3 | down | quiet | 3200 | Dan |
 | 25 | A | 6 | 1 | 3 | 2 | 3 | 1 | 3 | 1 | down | quiet | 3400 | Aisha |
 | 26 | D | 7 | 6 | 2 | 3 | 3 | 0 | 1 | 2 | button | normal | 3000 | Dan |
-| 27 | A | 8 | 4 | 3 | 3 | 2 | 1 | 3 | 3 | flat | normal | 3800 | Dan |
+| 27 | A | 8 | 5 | 3 | 3 | 2 | 1 | 3 | 3 | flat | normal | 3800 | Dan |
 | 28 | D | 7 | 3 | 2 | 2 | 1 | 3 | 3 | 1 | up | normal | 3400 | Boyd |
 | 29 | A | 9 | 6 | 3 | 3 | 1 | 1 | 2 | 0 | up | quiet | 3400 | Boyd |
 | 30 | D | 10 | 7 | 2 | 2 | 0 | 3 | 3 | 1 | up | normal | 3000 | nobody |
