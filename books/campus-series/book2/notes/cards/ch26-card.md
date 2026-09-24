@@ -4,7 +4,7 @@ Dan, Thursday the twenty-eighth of January. Three blind drafters.
 
 **Targets.**
 
-Romance 7 · Heat 5 · Aisha 2 · Dan 3 · Wound 3 · Fun 0 · Town 1 · Menace 2 · Ends button · Talk normal · Words 3000 · Pays Dan
+Romance 7 · Heat 6 · Aisha 2 · Dan 3 · Wound 3 · Fun 0 · Town 1 · Menace 2 · Ends button · Talk normal · Words 3000 · Pays Dan
 
 **The plot.**
 
