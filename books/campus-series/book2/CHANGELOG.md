@@ -2,6 +2,23 @@
 
 Manuscript-affecting changes, newest first. (Hard rule 6.)
 
+## 2026-09-24 — ch 26 ACCEPTED (#194) and folded (fold PR)
+
+- The author's one comment (AUTHOR-NOTES 290), applied before the merge:
+  the athletic director's carrot — "Don't call her. Don't say a word to
+  anybody with a microphone. If this week goes smooth, your extension in
+  February is close to a formality." (February, not March — the
+  extension is on the February agenda; flagged.)
+- Merged without a ruling on the three calls, so the page stands: the
+  kiss line kept (heat 6 by the panel, 5 by the keeper — TARGETS row 26
+  left at 5 until the author says); Boyd unnamed; the decision left to
+  the turn signal.
+- The proxy scored: the one comment SAID in part
+  (notes/ch26-proxy-score-2026-09-24.md).
+- The beat map moved to B2-D33: Climax 29 (climax one the testimony at
+  27); Grand gesture 27; Aisha's essence chosen at cost 29.
+- THREADS, STATE and the registry folded (the keeper's new canon).
+
 ## 2026-09-24 — ch 26 "The Survey Stakes" drafted: three blind candidates, C wins (chapter PR)
 
 - The card (moved to Thursday the 28th: the Coach's Table is his chance

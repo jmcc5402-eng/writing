@@ -1377,6 +1377,64 @@ Monday, his head on her; he learns she is going from the athletic
 director, not from her (D31.7); the romance's 6 when they share a
 room; 27 — the review; 29 — the car, the rent, the parka.
 
+
+### Ch 26 — The Survey Stakes (ACCEPTED #194, 2026-09-24; three blind drafters, C won; the author's one comment applied — the athletic director's carrot)
+
+**Monday, January 25 (a step back), then Thursday, January 28.** Dan.
+**Introduces:** the review's interview — the lawyer beside him, his head
+on her (the window, the parka's twin on his hook), the reviewer's fair
+question, the sound bite, and **the half he meant, in his head once and
+never aloud** (B2-D31.10 read as written: "A coach always wanted to play
+the boy… that was the reason the call had never been a coach's to make.
+It was the doctor's. It was hers."); the hall ("The review sits Monday
+the first. That's the hearing. You're not on its list… You don't call
+her."); Tuesday on 1340, heard in the truck, his thumb over her name;
+Thursday the athletic director, summoned at eight: the July line
+("whatever the review finds," D31.2 — the reason under it Boyd's,
+UNNAMED, "Dan knew whose it was"), the western department's reference
+call (the offer, the post, the date, not her answer), "I'd take it," and
+**the carrot** ("Don't call her. Don't say a word to anybody with a
+microphone. If this week goes smooth, your extension in February is
+close to a formality." — AUTHOR-NOTES 290); the pull — the job his in
+February if he smiled and kept his mouth shut; his staff; her; **Whit**
+named by the kicker, his girl a sophomore, "She's why I'm still in this
+building," Whit keeping her count; the survey stakes driven where the
+building goes, over her clinic (the price once); his box turned to the
+wall, seen from his side; Fountain's — a customer: "That doctor was
+right about 7"; Odell's anchor (forty days); the third Table out of
+season — Tick offers the air and Dan lets the sound bite stand, Odell's
+forty days in his head; the Magnolia Court — the truck left in her
+gravel, the parka on the top box in Verna's light, the curtain shut and
+the lamp left off "so it would mean nothing"; she stops the explanation
+("the review's the one that needs it. Not me."); her way out for him
+(say nothing Monday, sign in February, the interstate on the sixth) —
+**the deal settled for him ten years ago** (ch 14's words); his (he'll
+pay it); neither accepts; the haircut laugh; the kiss behind her shut
+door (heat 5 by the keeper, 6 by the panel — the author merged with the
+line in); "Go home, Dan"; he wants to ask her to stay and does not ("no
+business asking her for anything"); the truck — the price felt; ENDS
+BUTTON on the turn signal, away from home. **Pays:** D31.2, D31.3, D31.4,
+D31.5, D31.7, D31.10, D32.1–2, D33.1 (the price seen before 27), D30.4,
+F-DAN-02 (plain once), ch 25's box, car, parka, lamp and curtain; the
+truck-as-post (ch 21); Ty's truck payment (ch 24). **Carries / OWED:**
+the half in his head → 27 in 27's own words (BAN l.54–57's words on 27's
+page — keeper N10); where the signal goes `[TK]` → the ch 27 brief;
+the ask not made (l.437–441) → 29 (D33.4); "Come here" — her one ask so
+far, a crack, not a breach → 29; the extension priced and the carrot →
+27–28; the reference call and "I'd take it" → 28 (she sends, D33.3);
+Whit keeping her count → his choosing moment (D32.5); the stakes → the
+February sitting; Tick's air refused → 28's anchor; Odell's forty days →
+28 if paid. **Romance (B2-T10): stage 5 — In 5 / Out 5; one shared room;
+the kiss; NOT the private repair (29's, D33.5).** **TARGETS**: plan →
+actual — romance 7 → 8 (panel re-read) / 6 (proxy); heat 5 → 6 (panel) /
+5 (keeper); laughs 0 → 2; ends button → button (the panel reads "up");
+talk normal → 16.6%; words 3000 → 3,438; Aisha 2 → 2; Dan 3 → 3; wound 3
+→ 2; town 1 → 2; menace 2 → 2. Hands forward: 27 — the hearing, Monday
+the first; he walks in unscheduled against the lawyer and the carrot;
+"I said I'd have played him. That's exactly why the rule says I don't
+decide." and her name; his testimony is why Missy stands up (D33.1); a
+Dan rung for someone not Aisha (the score's #3).
+
 ## New canon recorded at this fold
 
 Kickoff (rivalry game) 2:30 · Doss County RATIFIED (SR-B2-6;
