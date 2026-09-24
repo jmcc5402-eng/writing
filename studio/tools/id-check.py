@@ -63,7 +63,13 @@ def key(s: str) -> str:
 def collisions():
     here = {"ledger": rows_at("WORKTREE", LEDGER, "ledger"), "notes": rows_at("WORKTREE", NOTES, "notes")}
     found = []
+    # This branch's own remote copy is what the push replaces, not another
+    # thread: a renumber after merging main would otherwise collide with the
+    # stale numbers it is fixing. (L110)
+    own = "origin/" + git("rev-parse", "--abbrev-ref", "HEAD").strip()
     for ref in refs():
+        if ref == own:
+            continue
         for kind, path in (("ledger", LEDGER), ("notes", NOTES)):
             theirs = rows_at(ref, path, kind)
             for i, mine in here[kind].items():

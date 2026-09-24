@@ -310,7 +310,9 @@ printf 'Title page.\n' > "$T/eb/front-matter.md"; printf 'Read book two.\n' > "$
 expect 0 "export-book strips the production header and passes clean prose" python3 "$ROOT/studio/tools/export-book.py" "$T/eb" --check
 printf '# Chapter 2 - Y\n\n---\n\nShe said [TK the name] and left.\n' > "$T/eb/manuscript/ch02.md"
 expect 2 "export-book refuses workshop text in the reader-facing prose" python3 "$ROOT/studio/tools/export-book.py" "$T/eb" --check
-expect 2 "export-book reports Book 1.1 missing front and back matter" python3 "$ROOT/studio/tools/export-book.py" "$ROOT/books/campus-series" --check
+mkdir -p "$T/eb2/manuscript"
+printf '# Chapter 1 - X\n\n---\n\nShe walked in.\n' > "$T/eb2/manuscript/ch01.md"
+expect 2 "export-book holds a book with no front or back matter" python3 "$ROOT/studio/tools/export-book.py" "$T/eb2" --check
 
 # --- the bans' own fixtures --------------------------------------------
 expect 0 "bans.py --test: every ban fires on its fixture" python3 "$ROOT/studio/tools/bans.py" --test

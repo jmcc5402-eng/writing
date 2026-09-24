@@ -33,8 +33,8 @@ Status: **none** · **partial** · **done**.
 | Item | Status | Who | Notes |
 |---|---|---|---|
 | Clean export | **partial** | studio | `export-book.py books/campus-series`: 30 chapters, 66,693 reader words, **no workshop text**. Only the front and back matter are missing. |
-| Front matter: title page, copyright, dedication placeholder | none | studio | Goes in `studio/launch/campus-series/front-matter.md` (AUTHOR-NOTES 293). The title page waits on A. |
-| Back matter: continue-to-1.2 page, newsletter, review request, about the author | none | studio | Same directory. The 1.2 page needs 1.2's title, which is still [TK] (flag-13). A placeholder link works until 1.2 has an ASIN. |
+| Front matter: title page, copyright, dedication placeholder | **partial** | studio → author | Drafted 2026-09-24 in `front-matter.md` here (AUTHOR-NOTES 293). Still `[TK]`: the title (A), year, ISBN (print only), cover designer, edition date, dedication. |
+| Back matter: continue-to-1.2 page, newsletter, review request, about the author | **partial** | studio → author | Drafted 2026-09-24 in `back-matter.md` here. Still `[TK]`: the review link, 1.2's title (flag-13) and store link, the newsletter link (F), the bio. The 1.2 teaser uses only what is still canon from the 2026-08-30 back cover; its \"closed door\" line was retired (AUTHOR-NOTES 255, 260). |
 | Scene breaks | none | story thread | The 2026-09-03 instrument found 12 breaks missing, 10 that don't pass the time/place test, and one form to settle. Still undone: the manuscript carries 42 `---` and 11 `***`. Page work, so it goes to the story thread via `/propose`. The export can at least normalize the form. |
 | Pre-launch review (O002) | none | story thread | Glaring errors only. The gate reads `notes/prelaunch-review-*.md` with a VERDICT line. Best run around 1.2 = 27/30. |
 | EPUB | none | studio | pandoc from the export, since the manuscript already lives in git. Validate with epubcheck and preview in Kindle Previewer (a free download). |
