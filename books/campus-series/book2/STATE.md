@@ -184,14 +184,23 @@ asks her to stay; she forgives by unpacking the car. Her job survives
 one season (the partner contract rode on the pledge). Ch 29 is a set
 piece, checked as the best scene in the book.
 
-**Then ch 26** — Dan; the interview room a step back to Monday, his
-head on her (D31.10); the July line (Boyd behind the suspension); he
-learns she is going from the athletic director, not from her (D31.7);
-the stakes cross the chalk; the standoff; the turn signal. Romance 6
-when they share a room. **Before the brief: the author's pick on the
-trainer** (AUTHOR-NOTES 282 — name Whit, one want, whether his debt
-becomes the leak). The revision order closes every reader ask
-(conveyor item 6).
+**Ch 26 ACCEPTED (#194, 2026-09-24) and FOLDED.** Three blind drafters
+(C, D3 won — her anger with an edge); the proxy before the panel; romance
+8 on the panel's re-read of the revised page, heat 6 (the keeper 5 — the
+author merged with the line in). The half he meant in his head once,
+never aloud. Whit named (B2-D32). The athletic director's carrot (the
+author's #194 comment). Boyd unnamed; the decision left to the turn
+signal (the card). The beat map moved to D33 (climax 29).
+
+**Then ch 27** — Aisha; the hearing, Monday February 1 (climax one,
+B2-D33.1). Dan walks in unscheduled against the lawyer and the carrot;
+"I said I'd have played him. That's exactly why the rule says I don't
+decide." and her name; his testimony is why Missy stands up in 28; a
+trustee's question (D31.4); Marisol's receipts (B2-T07). BAN ch 26's
+l.54–57 words on 27's page (keeper N10). Pay where the turn signal went
+(`[TK]`). A Dan rung for someone not Aisha (the ch 26 score, #3). The
+revision order closes every ask (conveyor item 6); name the carrot and
+the cost (L106).
 
 **Was: then ch 22** — Dan; Thursday Jan 14, the window shuts; Coach's
 Table round two; the hold defended on air; the town acts again (the

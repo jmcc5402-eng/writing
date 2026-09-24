@@ -21,7 +21,7 @@ length. A gap inside tolerance is not reported.
 | Change of Plans | 25 | 8 |
 | Point of No Return | 50 | 15 |
 | Major Setback | 75 | 23 |
-| Climax | 90 | 28 |
+| Climax | 90 | 29 (B2-D33: climax one is the testimony at 27; THE climax is the ask at 29) |
 
 ## Romance — `curves.md` §1
 
@@ -35,7 +35,7 @@ length. A gap inside tolerance is not reported.
 | Deepening doubt | 68 | 21 |
 | Retreat | 75 | 23 |
 | Dark night | 82 | 26 |
-| Grand gesture | 90 | 28 |
+| Grand gesture | 90 | 27 (his testimony, public — B2-D33.1; the ask at 29 is the climax) |
 | Whole-hearted yes | 98 | 30 |
 
 ## Aisha's arc — `curves.md` §2
@@ -47,7 +47,7 @@ length. A gap inside tolerance is not reported.
 | First crack | 25 | 9 |
 | Essence glimpsed | 50 | 15 |
 | Retreat to identity | 75 | 24 |
-| Essence chosen at cost | 90 | 28 |
+| Essence chosen at cost | 90 | 29 (she turns the job down — B2-D33.6) |
 
 ## Dan's arc — `curves.md` §2
 
