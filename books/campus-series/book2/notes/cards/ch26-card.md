@@ -1,6 +1,6 @@
 # Chapter 26 — The Survey Stakes
 
-Dan, Wednesday the twenty-seventh of January. Three blind drafters.
+Dan, Thursday the twenty-eighth of January. Three blind drafters.
 
 **Targets.**
 
@@ -13,25 +13,25 @@ is on her the whole time: her face through the car glass, the parka on
 its hook. The reviewer asks if he'd have played Trey. He answers as the
 coach he used to be, and the half he means stays in his head.
 
-Wednesday the athletic director gives him two things. The partner
+Thursday morning the athletic director gives him two things. The partner
 comes in July either way, so why spend a season defending her line?
-And she is taking the job out west. He learns it from the AD, not
-from her.
+And she is taking the job out west. He learns it from him, not her.
 
-A reporter gives him the chance to correct it on the record. The
-lawyer's advice holds, and he lets it stand. Whit tapes an ankle and
-says his girl is a sophomore here. At Odell's, a customer says the
-doctor was right. The survey stakes cross the annex lawn.
+Whit tapes an ankle and says his girl is a sophomore here. At
+Odell's, a customer says the doctor was right. The survey stakes cross
+the annex lawn. That evening on the Coach's Table, Tick offers him the
+air where he said "her protocol." He lets the sound bite stand.
 
 At night he drives to Verna's and sees the loaded car. Each offers
 the other the way out. She says keep the season, she was leaving
-anyway. He says he'll take the cost. Neither accepts.
+anyway. He says he'll take the cost. Neither accepts. In the truck he
+weighs it: the lawyer says don't, and speaking at the hearing ends the
+extension. The turn signal, away from home, is his answer.
 
 **Dan.**
 
-The struggle on the page, not in five lines. A dream job you fight
-for every day, his staff's jobs riding on it, and her. He chooses
-silence through the hearing week and knows what it costs her.
+The struggle on the page, not in five lines: a dream job, his
+staff's jobs, and her. He knows what his silence costs her.
 
 **Aisha.**
 
@@ -44,7 +44,7 @@ staying.
 
 **The town, the clock.**
 
-Five days to the hearing, seven to the findings. Odell's anchor: a
+Four days to the hearing, six to the findings. Odell's anchor: a
 barber can count, and so can y'all.
 
 **Your calls.**
