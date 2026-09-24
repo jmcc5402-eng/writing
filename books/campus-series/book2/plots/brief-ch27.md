@@ -40,18 +40,34 @@ to hit a number.
    university's lawyer (ch 24, 26; unnamed) and against the carrot the
    reader heard in 26 ("your extension in February is close to a
    formality"). Aisha does not know the carrot; the READER does, and
-   the lawyer half-standing is the reader's reminder. How an
-   unscheduled man gets the floor: the reviewer allows it, and the page
-   says why in one clause `[TK the review's rule for hearing an
-   unlisted witness — keeper]`. He says, in this order or close to it:
-   - **the timeline** — her no-go on Trey came before everything else
-     on the review's table (arc-docs 27, Dan's);
-   - **the pressure he put on her in November, and where it broke
-     against her** — his own part, said plain;
-   - the room's one laugh may be his (arc-docs 27, the one planned
-     line; the drafter may use it or write the same meaning fresh):
-     "if she was trading favors she was terrible at it — she benched
-     my season";
+   the lawyer half-standing is the reader's reminder. **How he gets the
+   floor (keeper B5 — SETTLED for all three drafters; new canon,
+   proposed at the PR):** the review sits in an open room; the reviewer
+   says at the start, once, that the review will hear anyone it chooses
+   to, at the reviewer's own discretion. Marisol asks and is heard; Dan
+   asks from the doorway and is heard. No other procedure is invented.
+   He says, in this order or close to it:
+   - **the timeline (keeper B4 — narrowed to what the pages date):**
+     the hold ran from November 28; her no-go (Thursday, December 17)
+     came before the families' letter reached the athletic director
+     (the Monday after Christmas, ch 22) and before the picture (January
+     18, ch 24). NOT "before everything": the board's count (Dec 12) and
+     Denny's draft (ch 6) came first;
+   - **the pressure he put on her, and where it broke against her** —
+     his own part, said plain, NAMED not dated by month (keeper N5): the
+     Friday-check push (ch 2) and the escalation behind the athletic
+     director's email of Tuesday, December 1 (ch 5);
+   - **a rung for someone not Aisha (STATE; keeper N14):** he takes the
+     pressure on himself so his staff are not in it — his staff did what
+     he told them;
+   - **"trading favors" is STRUCK before launch (keeper B3 —
+     CONTRADICTION flagged to the author at the PR):** no page makes a
+     favor-shaped charge except the relationship (ch 12, 23–24); a
+     denial on the record breaks "nothing about them" and F-DAN-02, and
+     would be a lie. If the laugh is his, it stays on the CALL itself —
+     she cost him his season's best player and would do it again — with
+     no word for any arrangement between them. Otherwise Delores's pad
+     takes the laugh;
    - **the sentence, finished, VERBATIM (B2-D33.1):** "I said I'd have
      played him. That's exactly why the rule says I don't decide."
    - **then her name** — plainly, the whole of it, on the record: the
@@ -59,6 +75,11 @@ to hit a number.
      on the twenty-sixth (the sound bite) closed (B2-D31.3).
    He says NOTHING about them (the terms; F-DAN-02). He does not ask
    her anything. He does not look for her approval before he speaks.
+   In public he says "7," "my quarterback" or "the boy," never "Trey"
+   (keeper N7). After he speaks: the reviewer thanks him and calls a
+   recess, and Dan leaves the room first (keeper B7b); the review is
+   NOT closed Monday — it sits again Wednesday morning, when Missy
+   stands (outline 28; keeper N9).
 2. **Aisha's turn — she lets it count (arc-docs 27, hers).** She does
    not stop him, does not correct him, does not take the record back
    and say it better. The pull to do all three is ON THE PAGE, in her
@@ -82,16 +103,23 @@ to hit a number.
      takes, not the most; at step two, minute fourteen, sixteen days
      out, he answered — his hand went up under the hood (ch 13:139–143)
      — and it was MORE than the checklist lets a physician ride through
-     (not mild, not brief). So the stop was the checklist, and past two
-     weeks the checklist says re-evaluate, which she did — Birmingham
-     (the referral is hers; what Birmingham ANSWERED is NOT hers to say
-     — B2-T04 is Missy's, 28's). No symptom score as a number `[TK]` —
-     write the fact without one.
-   - **The chart:** the August baseline TESTS (not scans — research
-     note §2), the dated orders, the tape times (14 and 7:59, ch 13), the
-     re-eval (ch 21), Missy's seven o'clock pages — every rung dated.
-   - **The records' custody (F1; ch 25):** the annex's forty-one boxes,
-     packed in December and locked at Mt. Nebo; her count matches
+     (not mild, not brief). So the stop was the checklist: step down,
+     clock restarted (ch 13:151, 166–168), and past two weeks her own
+     re-evaluation — the January re-eval under load (ch 21). **Birmingham
+     is NOT her referral (keeper B1):** the Gaults booked it themselves
+     (ch 14, 17, 21); what she did was send the whole chart on her own
+     (ch 17:235). What Birmingham ANSWERED is not hers to say (B2-T04,
+     28's). No symptom score as a number — write the fact without one.
+   - **The chart (keeper B8):** the August baseline (on the page as
+     imaging, ch 5:75, 281; if the studies are named, the Nov 28 and Dec
+     3 dates, ch 13:269–272), the dated orders, the tape times (14 and
+     7:59, ch 13), the re-eval (ch 21), Missy's seven o'clock pages —
+     every rung dated. She answers for herself: she has no lawyer on any
+     page (keeper N1).
+   - **The records' custody (F1; ch 14, 25):** the annex's forty-one
+     RECORDS boxes, locked at Mt. Nebo since December — not the
+     clinic's numbered boxes, and Trey's paper chart is in neither (her
+     office drawer, ch 25:227) (keeper N15); her count matches
      Delores Fountain-Mabry's pad; the pad does not leave the church
      (Delores, ch 25:287–289 — "the review can come to this hall and
      ask me for it"). This can be the chapter's laugh if Dan's is not.
@@ -106,38 +134,56 @@ to hit a number.
    the town is split, not one voice.
 5. **Marisol's receipts — the decode (B2-T07 PAYS; F3; provider-
    partner row 27).** Marisol Pruett lays the eleven families' letter
-   beside the survey notice (or the group's own brochure): one coined
-   phrase in both — "proactive risk posture" (ch 10, 18). The campaign
+   beside **the consultant's printed materials** — ch 10's "You'll see
+   the phrase in the materials" (keeper B2; the survey notice and the
+   brochure are on no page, STRUCK): one coined phrase in both —
+   "proactive risk posture" (ch 10:129–135; ch 18:110–113). **How she
+   holds both — ONE clause on the page (new canon, `[TK]` proposed at
+   the PR):** the letter was organized on the board she moderates, so
+   she has the families' own copy; the materials came to the public in
+   the trustees' February agenda packet. The campaign
    shown manufactured; the families shown honest people, used (B2-D31.2).
    **The wire to Boyd stays UNPROVEN — said out loud ONCE, by Marisol,
    that she cannot prove who wrote it.** Boyd's name: at most once, in
-   that sentence, or not at all. Why Marisol is in the room and on the
-   record: `[TK her standing at the review — public comment? — keeper]`;
-   she moderates the board that ran the campaign (STAKES), her boy Wes
-   a walk-on (registry 32).
+   that sentence, or not at all. She is heard at the reviewer's
+   discretion (MAIN MOVED 1); she moderates the room that campaigns
+   against her own son (STAKES 60), her boy Wes a walk-on (registry 32).
 6. **Missy in the room — RULED (call 2, default).** Missy Gault is in
    the forty, and Aisha sees Dan's words land on her: one or two
    physical tells, no reading of them (the notebook shut on her thumb,
    ch 21; her hand on her purse's clasp). Missy does NOT stand today —
    that is 28's, and HIS testimony is why (B2-D33.1). Aisha does not
    know what is in the purse (B2-T04 is untold). Denny: the drafter's
-   call whether he is beside her; if so, one detail, no line.
+   call whether he is beside her; if so, one detail, no line — his
+   refusal to sign (ch 18:114) is 28's. Trey is NOT in the room (keeper
+   N8).
 7. **The hallway after — RULED (call 3, default).** His hand and hers
-   for one count, and no words that settle anything. OUT OF SIGHT: the
+   for one count, and NO WORDS at all (keeper B6 — the card wins). OUT
+   OF SIGHT: the
    terms still hold two more days — nothing anybody can see till the
    first Wednesday in February (registry 114); caught in season, both
    fired that day (F-DAN-02) — so the page places it where nobody can
    see (a stairwell, a side corridor, a coat rack's corner — the
-   drafter's, said). Heat 4: bodies in it, four or more body sentences;
-   no kiss; both clear-headed. Then they are apart again.
+   drafter's, said). The page says (keeper B7c) that he left the room
+   first at the recess, how she knows where he is with no words between
+   them (she sees which way he goes), and why neither is seen by the
+   lawyer or the forty (they go the other way — to the front hall, the
+   coffee). Heat 4: bodies in it, four or more body sentences; no kiss;
+   both clear-headed. Then they are apart again.
 8. **Boyd's money moves by evening (boyd-arc 27; game-stakes 27;
-   F-AGD-01).** Aisha learns it from a person already on her pages
-   (Verna, Delores, Earlene or Marisol — the drafter's pick, said): the
-   pledge "re-sequenced," and Dan's extension off the February agenda.
+   F-AGD-01).** **The public source (keeper B7e — SETTLED; new canon,
+   proposed at the PR):** the trustees' posted February agenda,
+   amended late in the day — the pledge item "re-sequenced to a later
+   sitting," the extension item struck. "Re-sequenced" was Boyd's word
+   to Dan alone (ch 20:147), so the page's source is the posted agenda,
+   not a mouth. No vote date anywhere. **The messenger:** Verna, who
+   read it (the drafter says where Aisha is when Verna finds her). Say
+   "February agenda," never "spring agenda" (keeper N10).
    She knows exactly what that cost him, in her body. BANNED here: any
-   reading that her own job is saved by it (the partner contract riding
-   on the pledge is 29's — B2-D33.6); the portal quarterback's flip
-   (28's, on air).
+   reading that her own job is saved by it — she knows the group rides
+   on the pledge (ch 25:153), and this brief SAVES her doing that sum
+   for 29 (the brief's own sequencing; keeper N11); the portal
+   quarterback's flip (28's, on air).
 9. **Where the turn signal went — RULED (call 1, default): Dan tells
    her in 29.** Nothing on this page says where he drove on the night
    of the twenty-eighth. She does not ask.
@@ -173,7 +219,7 @@ READERS
   [ ] /chapter-score → notes/scores/ch27-score.md
 MUST NOT HAVE CHANGED
   [ ] "I said I'd have played him. That's exactly why the rule says I don't decide." VERBATIM; her name after it
-  [ ] ch 26 l.54–57's words NOT on this page (keeper N10)
+  [ ] ch 26 l.57–59's words NOT on this page (keeper N10)
   [ ] Dan does NOT ask her to stay; she does NOT send, withdraw or unpack (28, 29)
   [ ] the wire to Boyd unproven; Boyd never on the page
   [ ] Missy does not stand; Birmingham's answer unsaid
@@ -224,9 +270,16 @@ front of everyone, and she has to let him.*
 ## THE SCENES
 
 1. **Morning — the hallway outside the trustees' boardroom** (the
-   opening). The room seats forty and every seat is full (the 1.1 echo
-   unremarked). Earlene's anchor (MAIN MOVED 10). Aisha in the good
-   jacket; the parka in the car. Who is here, fast: Missy (and Denny?),
+   opening). The room seats forty (1.1 ch 28:18; the building `[TK]`)
+   and every seat is full, the 1.1 echo unremarked. Earlene's anchor
+   (MAIN MOVED 10). **How she got here (keeper B7a):** the loaded RAV4
+   stays in Verna's gravel — a loaded car at the building would be read
+   by the county (ch 25:434–435); Verna drives her in and does not come
+   in. **The good jacket (keeper N2):** first time on a page — NOT the
+   wool city coat ("a good coat," ch 7); the page says the wool coat
+   stayed at the Court and the parka on the top box. **The lawyer:** a
+   man in a gray suit with no folder (ch 24:81). The athletic director:
+   in the room or not, the drafter says; if in, no line (keeper N4). Who is here, fast: Missy (and Denny?),
    Marisol, Delores or not, the lawyer, the reviewer's table. Dan is
    not here — she notes it and does not let herself look for him.
    Kinds 8, 9.
@@ -244,7 +297,9 @@ front of everyone, and she has to let him.*
 5. **After — the hallway, out of sight** (MAIN MOVED 7). One count;
    bodies; no words that settle anything. Kinds 2, 5.
 6. **Evening — the news reaches her** (MAIN MOVED 8, 11). From a person
-   already on her pages. The pledge re-sequenced; the extension gone.
+   already on her pages. **Between (keeper B7d):** the session runs
+   into the afternoon; she goes back to the Court; Verna finds her
+   there near dark. The pledge re-sequenced; the extension gone.
    The car still loaded; the acceptance still unsent. ENDS FLAT, held
    quiet. Kind 8.
 
@@ -281,6 +336,7 @@ jacket, "the patient." **Dan (arc-docs 27; dossier 27, seen):** the
 doorway, the suit, her name on the record. **Boyd (boyd-arc 27):**
 named once at most, never proven; the pledge re-sequenced.
 **Marisol:** the receipts. **Earlene:** the anchor. **Missy:** listening.
+**The trustee:** unnamed in the prose (keeper N13).
 
 ## STAKES ON THE PAGE (taste 22 amended — BLATANT; `canon/STAKES.md`)
 
@@ -289,7 +345,7 @@ named once at most, never proven; the pledge re-sequenced.
 | Aisha | on leave; the findings Wednesday the third; the offer typed, unsent, answer Saturday the sixth (ch 25); the terms till Wednesday | her head, once: what the findings decide |
 | Dan | the extension on the February agenda (F-AGD-01) and the carrot (ch 26); his staff's jobs ride on it (D31.5); caught in season, both gone that day (F-DAN-02) — a HINT only here | the lawyer standing; the evening's news |
 | Missy | Birmingham in her purse, untold (B2-T04) — NOT said here | her hand on the clasp, seen, not read |
-| Marisol | the board she moderates ran the campaign against her own son's team's doctor | her one sentence of what she can't prove |
+| Marisol | moderates the room that campaigns against her own son (STAKES 60) | her one sentence of what she can't prove |
 | Earlene, the trustee, the reviewer, the lawyer | none locked | — |
 | Boyd | the pledge; the partner (B2-D13) | the pledge re-sequenced, by evening |
 | The building (D30.4 — never on the page without its price) | if the pledge is named, its price with it, fresh words | once, if at all |
@@ -301,9 +357,8 @@ his extension on the February agenda until tonight.
 
 ## COUPLE LINE
 
-None said between them that settles anything. His words are to the
-room; hers to the room. The hallway has no couple line — or one, not
-"stay," not "thank you" (L042), not an apology.
+None. His words are to the room; hers to the room. The hallway has NO
+words (keeper B6).
 
 ## END REGISTER: FLAT (held quiet)
 
@@ -343,9 +398,10 @@ suit he hates (outline 27).
 
 - Sentences END: ordinarily under thirty; at most three "and"s. THE
   TAIL (H001): one or two sentences run past forty.
-- ch 26 l.54–57's words (keeper N10): "the call had never been a
-  coach's to make"; "It was the doctor's. It was hers."; "A coach always
-  wanted to play the boy."
+- ch 26 l.57–59's words (keeper N10; line numbers per the ch 27
+  audit, N6): "the call had never been a coach's to make"; "It was the
+  doctor's. It was hers."; "A coach always wanted to play the boy." The
+  sound bite at l.54 MAY be quoted as the record.
 - "Stay" asked by anybody; the send; the withdrawal; the unpacking
   (28, 29).
 - Earlene's outline words verbatim ("today we find out if that's
@@ -373,7 +429,7 @@ Glenda Whitlow). Under 35 words. NOT the review.
 23 (fair on both sides — the reviewer's question is fair); 20 (the touch
 has a body); 16 (slow down at his testimony); 1 (why he gets the floor;
 what re-sequenced means); 21 (who Marisol, Earlene, the trustee are);
-22 (stakes blatant); 15 (rooted for — her stillness must read as
+22 (stakes blatant); 8; 15 (rooted for — her stillness must read as
 strength, not passivity); 7 (not her alone for 60% — she is in a room
 of forty); 13 (the card).
 
@@ -383,3 +439,45 @@ of forty); 13 (the card).
 2. Missy is in the room watching Dan speak.
 3. The hallway after: his hand and hers for one count.
 4. The minute-fourteen headache was more than the checklist tolerates.
+
+## AUDIT ADDENDUM — ch 27 card + brief (continuity-keeper, card E4, 2026-09-24) — BLOCK, then corrected in the body above
+
+B1 Birmingham is the Gaults' second opinion, booked by them (ch 14, 17,
+21); she sent the whole chart on her own (ch 17:235) — not her referral
+(MAIN MOVED 3). B2 the survey notice and the brochure are on no page —
+the second document is ch 10's "materials," and how Marisol holds both
+is one clause of proposed new canon (MAIN MOVED 5; the card). B3
+"trading favors" answers a charge no page makes except the relationship
+— STRUCK before launch; a CONTRADICTION with arc-docs 27 flagged to the
+author (MAIN MOVED 1). B4 the no-go did not precede "everything" —
+narrowed to the letter reaching the athletic director and the picture
+(MAIN MOVED 1). B5 the review's procedure SETTLED once for all three
+drafters: an open room; the reviewer hears whom the reviewer chooses
+(MAIN MOVED 1, 5). B6 the hallway has no words (MAIN MOVED 7; COUPLE
+LINE). B7 the gaps between scenes said: how she arrives (Verna drives
+her; the loaded car stays in the gravel), the recess and Dan leaving
+first, how they find each other unseen, the afternoon to evening, the
+agenda amended as the public source and Verna the messenger (scenes 1,
+6; MAIN MOVED 1, 7, 8). B8 "not scans" struck — August imaging is on
+the page (MAIN MOVED 3; the card).
+
+NOTES N1–N16 applied: she answers for herself (N1); the good jacket
+and the wool coat (N2); forty seats is 1.1 ch 28:18 (N3); the lawyer's
+gray suit, the athletic director in or out (N4); the pressure named, not
+dated (N5); the ban's lines l.57–59 (N6); "7" / "my quarterback" in
+Dan's public mouth (N7); Trey not in the room, Denny's refusal 28's
+(N8); the record not closed Monday (N9); "February agenda" (N10); the
+partner sum saved by the brief's own sequencing (N11); STAKES 60's
+wording (N12); the trustee unnamed (N13); a rung for his staff (N14);
+two sets of boxes (N15); taste 8 added (N16).
+
+NEW CANON (recorded at the fold): the suit he hates; the good jacket on
+a page; the review's session rule (open room; the reviewer's
+discretion); the transcript; the consultant's materials in the
+trustees' February packet and the families' copy of the letter on the
+board; the trustee `[TK]`; Missy's purse on the page; the hallway spot;
+the agenda amended Feb 1 — pledge re-sequenced to a later sitting,
+extension struck (F-AGD-01 scope note); Verna the messenger; "the
+patient" in her testimony.
+
+## VERDICT: PASS — B1–B8 corrected in the body above (B3 struck and flagged to the author at the PR); the notes applied
