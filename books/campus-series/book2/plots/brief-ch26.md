@@ -492,3 +492,14 @@ the lamp (N13), the stake's hint (N16), the bans (N17), "Spends: none"
 
 ## VERDICT: PASS — B1–B8 corrected in the body above (B6 by the author's ruling: heat 5); the notes applied
 
+## CORRECTION AT THE REVISION (the orchestrator, 2026-09-24) — MAIN MOVED 1 over-read
+
+MAIN MOVED 1 banned "the half he means" in any wording. B2-D31.10 says
+the half he means "stays in his head" — he THINKS it and does not SAY
+it; the keeper's ch 25 ban (B1) was on another mouth (Delores) saying
+it. All three proxies asked for it ("if I have to guess, I can't forgive
+him yet"). Corrected: the substance goes in Dan's head, plainly, ONCE,
+in the interview room. Still banned: ch 27's exact sentence, and Dan
+saying the half OUT LOUD to anyone. Flagged to the author on the
+chapter PR.
+
