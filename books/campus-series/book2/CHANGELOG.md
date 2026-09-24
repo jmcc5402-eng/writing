@@ -2,6 +2,27 @@
 
 Manuscript-affecting changes, newest first. (Hard rule 6.)
 
+## 2026-09-24 — ch 25 ACCEPTED (#192) and folded; the author's comments applied (fold PR)
+
+- The author on the merge: "the best written chapter yet" — her
+  feelings mixed with the body (AUTHOR-NOTES 283; taste 20 confirmed
+  outside a touch scene; L101).
+- Applied before the merge (B2-D31.12): Boyd called out west to clean
+  up his mess, replacing "It was a guess."
+- Applied in the fold (284): the car loaded but she is not leaving
+  tonight — "She was not leaving tonight. / She would sit for the
+  findings on the third, because she kept her dates, / and be on the
+  interstate the morning of the sixth, / and she had loaded it now so
+  she could not talk herself out of it in eleven days." Lints clean
+  (CV 0.61; talk 8.3%; ratio 1.10).
+- The proxy scored: all three comments SAID (one in part); the misses
+  were the revision's (notes/ch25-proxy-score-2026-09-24.md; L102 —
+  DRAFTING-PROTOCOL conveyor item 6).
+- Open for the author: the trainer (AUTHOR-NOTES 282 — name, a want,
+  and whether his debt becomes the leak); how the chair reached her
+  (`[TK]`). The romance number merged without a ruling; the four small
+  calls stand at their defaults.
+
 ## 2026-09-23 — ch 25 "Boxes" drafted: three blind candidates, A wins (chapter PR) — THE FIRST CHAPTER ON THE AUTHOR'S DAN RULINGS
 
 - The card and the brief re-written on B2-D31 (the review interview:

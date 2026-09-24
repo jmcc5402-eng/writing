@@ -599,6 +599,14 @@ finding. The August scrub ban "one involuntary-body beat per chapter
 max" is what produced the one line; it now applies outside touch
 scenes only.
 
+Confirmed (2026-09-24, #192, on 1.2 ch 25 — the author's "best
+written chapter yet"): "The amount of detail about her feelings mixed
+with how it physically impacted her like her eyes burning and her
+chest being warm it really showed the audience that she was unhappy
+and that she's heartbroken." The body runs across a WOUND beat too,
+not only a touch: the feeling said plain in her head, then where it
+lands in her body, beat after beat.
+
 ## 21. The reader knows who everyone is
 
 > "We need to add more character arc to Missy. She's kind of this

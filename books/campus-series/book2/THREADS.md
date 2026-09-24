@@ -15,7 +15,7 @@ docs); F## fair-play rows (b12-outline.md table governs).
 | B2-T03 | The scandal's true shape (B2-D17): separated first; the colleague was eligibility, not medicine; it was TRUE then; the colleague paid worse | ch 2 (the board's WRONG version on the page: "a wife at home… sat him down for a year… came back leaner") | **ch 14** the annex, before PONR | **SPENT ch 14 (#154)** — told outward as proof ("There's no way, Doc."); the board's ch 2 version stands uncorrected in public |
 | B2-T04 | The Birmingham second opinion | ch 14 (SIGHTED, undated: "the Gaults have booked a second opinion. Birmingham. After the game." — Missy's page, under the hours) · **ch 17 ON THE PAGE** (the office's name and number at the bottom of Missy's page; her whole chart sent at ten Tuesday on her own; the release at two; the drive Wednesday the 23rd, offstage; the answer DARK) | **ch 28** Missy | PLANTED ch 14 — SPENT 17 (the trip) — OWED 28 (the answer) |
 | B2-T05 | The tailgate photo: her laugh, his lean, the flash off the ice chest; a father's phone; *Playoff Pics — Post Here* | ch 16 (#156 — PLANTED on the page, small; nobody notices) | **ch 23** the gossip room lifts it from the album — the trawl has no author on the page (F3's plant moves to 24/25) | PAID ch 23 (#180) |
-| B2-T06 | The Cordelia letter (S01) | ch 9 | **ch 25** reread | PLANTED ch 9 (#134) — OWED ch 25 |
+| B2-T06 | The Cordelia letter (S01) | ch 9 | **ch 25** reread | PLANTED ch 9 (#134) — PAID ch 25 (#192: read to the end; "being needed by it on purpose") |
 | B2-T07 | The complaint's authorship (the consultant's pet phrase) | ch 10 · **ch 18 (the phrase inside the eleven families' letter, once, unremarked)** | **ch 27** decode | PLANTED ch 10 (#137, "proactive risk posture") · CARRIED ch 18 — OWED ch 27 |
 | B2-T08 | Dan's nightly board tab — last thing before lights out, read to the bottom | ch 2 (shown without comment) | echo pays **ch 29**; FIRST TURN spent ch 4 (button: board pocketed unread, film instead); **SECOND TURN ch 12** (three reads counted; "Nobody was making him now"; the phone face up) · **THIRD TURN ch 18** (the board read at midnight with her watching his face and not the screen) · **FOUGHT ch 20** (his first typed words, a defense of her, deleted a letter at a time; the two whys said — the old one in a clause, the new one: he reads it for the football hidden in a parent's question, B2-D25.2) · **RUNG 3 ch 22 (#179): THE BOARD UNOPENED — the first night in ten years; the phone face down by the water; the wound named once and let blindside him on purpose** | OWED (the ch 29 echo) |
 | B2-T09 | Dan's move: agree in the room, escalate outside it (the verdict-manager on the page, seen from her side) | ch 5 (the athletic director's email; "Projector off, he had said… Film on, to his boss.") + **ch 6, from HIS side, one interior clause: the athletic director told him no on Tuesday, Denny does not know it, and he does not tell him** | echoes **ch 8** ("You hedged." / "I did."), inverts **ch 15** (backs her call before she knows), spends **ch 27** | OWED (the ch 15 inversion) |
@@ -1331,6 +1331,51 @@ stakes cross the chalk, the standoff, the turn signal; 27 — the
 review, the reviewer's question, the trustee's line, his testimony
 finishing the sentence and her name; the stake plain once per chapter
 (#185).
+
+
+### Ch 25 — Boxes (ACCEPTED #192, 2026-09-24; three blind drafters, A won; the author's "best written chapter yet"; two comments applied — Boyd before the merge, the car at the fold)
+
+**Tuesday, January 26 — the morning after the review interview.**
+Aisha. **Introduces:** the sound bite on 1340 at the Checkerboard
+counter — "Every coach in the country plays him. I'd have played him."
+— heard in a stranger's voice and again in Dan's (B2-D31.10); **the
+wound tears open inside her head: *I knew it*, furious, not sad**
+(D31.11); the same station that carried *her protocol* twelve days
+ago (D31.3); the fair man two stools down makes the other side's case
+and she knows he isn't wrong (D31.1; taste 23); the offer in writing
+from the chair out west, answer by Saturday the sixth; **Boyd called
+out west himself to clean up his mess — she is sure and can't prove
+it (B2-D31.12)**; the stake said plain once (F-DAN-02); the office
+cleared, his numbered box turned to the wall; the trainer's two towels
+folded to match hers; Delores at Mt. Nebo takes her side out loud
+(D31.4); Verna won't take February's rent; the Cordelia letter read to
+the end — "It was being needed by it on purpose"; she types yes; she
+packs room nine in nine minutes; the parka folded to go back, the
+body across six sentences; **the car loaded in Verna's gravel — not
+leaving tonight: the findings on the third, the interstate on the
+sixth, loaded so she can't talk herself out of it** (the fold); ENDS
+DOWN at Verna's step — she would have stayed if he had asked her.
+**Pays:** B2-T06 (the letter — PAID); F11 (the offer in writing);
+D31.1, D31.3, D31.4, D31.7 (she does not call him), D31.9 (sparkling
+water), D31.10, D31.11, D31.12; the diploma box (ch 5); the nine
+minutes (ch 1). **Carries / OWED:** the acceptance typed, unsent →
+29; the loaded car → 29 (he carries half); the parka on the top box,
+ready to go back → 29 (B2-T02); February's rent refused → 29; Delores's
+pad → 27; Trey's chart left in the drawer → 27 (optional); the email's
+"what we talked about" `[TK how the chair reached her]`; the trainer's
+name and want (AUTHOR-NOTES 282 — the author's pick owed before 26).
+**Romance (B2-T10): stage 5, apart — In 5 / Out 5; no shared room; his
+last text from before reaches her.** **TARGETS**: plan → actual —
+romance 6 → 5 (panel) / 4 (proxy); heat 1 → 1; laughs 1 → 2; ends
+down → down; talk quiet → 8.3%; words 3400 → 3,682; Aisha 3 → 3; Dan 2
+→ 1; wound 3 → 3; town 3 → 3; menace 1 → 2. The author merged without
+ruling on the romance number; the four small calls stand at their
+defaults (the Table's suspicion saved for 26 or 28; the email's
+`[TK]`; the old hurt named once at the letter; Verna's closing line
+kept). Hands forward: 26 — Dan; the interview room a step back to
+Monday, his head on her; he learns she is going from the athletic
+director, not from her (D31.7); the romance's 6 when they share a
+room; 27 — the review; 29 — the car, the rent, the parka.
 
 ## New canon recorded at this fold
 
