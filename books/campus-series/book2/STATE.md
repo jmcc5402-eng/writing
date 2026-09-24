@@ -176,6 +176,14 @@ under-applied them — conveyor item 6 (L102) closes every reader ask
 from ch 26 on. Tools fixed on the way: card-blind strikes target
 changes (L097); targets-check reads the winner's panel (L098).
 
+**THE ENDING (B2-D33, RULED 2026-09-24) — read before any brief 26–30.**
+Climax one: he testifies at 27, at a cost, and it is why Missy stands
+up. The false high at 28, then the final disaster: she has accepted
+the job out west. THE CLIMAX OF THE BOOK is ch 29 — Dan finds her and
+asks her to stay; she forgives by unpacking the car. Her job survives
+one season (the partner contract rode on the pledge). Ch 29 is a set
+piece, checked as the best scene in the book.
+
 **Then ch 26** — Dan; the interview room a step back to Monday, his
 head on her (D31.10); the July line (Boyd behind the suspension); he
 learns she is going from the athletic director, not from her (D31.7);
