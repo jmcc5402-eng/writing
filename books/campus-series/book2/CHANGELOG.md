@@ -2,6 +2,43 @@
 
 Manuscript-affecting changes, newest first. (Hard rule 6.)
 
+## 2026-09-24 — ch 27 "The Hearing" drafted: three blind candidates, C wins (chapter PR)
+
+- The card and the brief audited together by the keeper (E4): BLOCK,
+  eight fixes — Birmingham is the Gaults' second opinion, not her
+  referral; the consultant's printed materials, not a "survey notice";
+  "trading favors" struck (it answers a charge no page makes except the
+  relationship — flagged to the author); Dan's timeline narrowed to what
+  the pages date; the review's procedure settled once (the reviewer
+  hears whom the reviewer chooses); the hallway has no words; the gaps
+  between scenes said; "baseline tests (not scans)" struck — August
+  imaging is on the page.
+- The ladder researched (notes/research-ch27-ladder-2026-09-24.md): the
+  NCAA checklist and Independent Medical Care ("unchallengeable
+  autonomous authority"). The author ruled the minute-fourteen headache
+  more than the checklist tolerates (AUTHOR-NOTES 292).
+- Three blind drafters (D1, D2, D3); six reads (proxy, blind panel);
+  C won (notes/ch27-scoreboard-2026-09-24.md). The losers are in
+  notes/candidates/.
+- Heat 4 → 5 by the author's ruling after the blind round (AUTHOR-NOTES
+  293); then: the targets are direction, not precision (294).
+- Revision (D4) closed fifteen asks, all APPLIED
+  (notes/ch27-revision-ledger-2026-09-24.md): the win lands, Verna says
+  the glad thing out loud; Dan's face at the look; Thursday's kiss in
+  her body; Missy and Denny react; "the picture" struck from Dan's
+  testimony (the brief's own error); one near-laugh on the stairs, the
+  jacket seen; "Rex Boyd" once in her head, the reason a guess.
+- The score (romance 8, Aisha 3, Dan 3) and the keeper's page audit
+  (BLOCK: the stake said twice; the chart's copy) → the fix pass (D6):
+  one man along the back wall who does not move; the athletic director
+  out the front with his phone at the recess; the evening's debt line
+  replaced with ch 11's wound ("the good ones took longer to say
+  what"); "Coach, that's not necessary" (ch 1's words); the TKs moved to
+  one block at the end; the chest ×8 → 3.
+- Three punctuation-only splits at beats by the orchestrator, no word
+  changed (l.93, 300, 463), for the sentence-shape floor with the TK
+  block excluded (CV 0.591 → 0.602).
+
 ## 2026-09-24 — ch 26 ACCEPTED (#194) and folded (fold PR)
 
 - The author's one comment (AUTHOR-NOTES 290), applied before the merge:

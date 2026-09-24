@@ -308,3 +308,194 @@ None in full. Two partial notes:
   12 overrides it.
 - The item 15 CHECK on the Independent Medical Care wording is carried
   in this ledger and the report, not typed onto the page.
+
+## FIX PASS (D6)
+
+Fix pass on `manuscript/ch27-candidate-C.md`, in place, 2026-09-24,
+by the drafting assistant. The inputs were the keeper's page audit
+(`notes/ch27-keeper-2026-09-24.md`), the score (`notes/scores/ch27-score.md`:
+its TWO POINTS, notes 1–3, "Smaller", and "Must survive"), and the
+orchestrator's fix order. Variance card D6: "let one scene run a beat
+past comfortable before cutting." It is spent at the look (l.396–401).
+The stairs had to stay whole, and they are ruled at one count.
+
+**No shell in this run either.** The lints were not run, so every
+number below is by hand. The orchestrator runs chapter-lint,
+dialogue-lint, bans.py, opening-check and fact-check. The prose-guard
+hook did fire on each edit, and its hits are listed under Sweeps.
+
+Line numbers are the fixed file's.
+
+### The fix order
+
+- **K-B1: APPLIED.** The firing stake is said plain once, at
+  l.90–92, unchanged. The old l.405–409 is now a hint, at l.424:
+  "Forty people and a lawyer were two thin walls away." The firing is
+  not stated a second time.
+- **K-B2: APPLIED.** At l.98–100 she has "her own printed copy of the
+  record tabbed at her elbow, / not the paper chart in her office
+  drawer." That matches ch 25:227–230.
+  - New canon for the fold: her printed copy.
+- **K-N1: APPLIED.** "Friday" is cut at l.128 ("across her sheet") and
+  at l.238 ("across the sheet"). Dan's "Friday sheet" stays at l.303.
+- **K-N2: APPLIED.** l.172 now reads "Delores Fountain-Mabry keeps
+  the church's count."
+- **K-N3: APPLIED.** l.224 now reads "in their letter."
+- **K-N4: APPLIED.** l.498 now reads: "Earlene had me at your recess,
+  by a quarter to."
+  - The recess comes after Marisol (10:30) and Dan, so a quarter to
+    twelve matches l.501.
+  - This adds three spoken words and no new procedure.
+- **E-1 (Fix A): APPLIED.** *Amen* and the cap stay. l.354–356 add
+  one image: "Farther down the wall a big man in a work coat / stood
+  with his arms folded and his hat on his head, / and at *she was
+  right* he kept both where they were."
+  - He is seen once and not read.
+  - Missy moves to her own paragraph at l.358, so the pronoun-crowding
+    check does not fire on the pair.
+  - New canon (unnamed): the work-coat man. Tell the ch 28 brief that
+    one cap is spent and one hat stayed on.
+- **E-2: APPLIED.** At l.415–418 the athletic director goes out ahead
+  of the room with his phone already at his ear. Through the double
+  doors Aisha watches him walk past the urn and out the front of the
+  building.
+  - The old l.400 ("The lawyer went with them, and the athletic
+    director after him") is cut. l.419 still carries the lawyer at the
+    urn.
+  - Boyd stays off the page.
+- **E-3 (Fix A): APPLIED.**
+  - l.481 ("Nothing today had moved Saturday the sixth") is cut.
+  - The car and the unsent acceptance stay as two plain facts
+    (l.492–493).
+  - l.524–525 are replaced at l.534–538 by ch 11:311–312 turned to
+    tonight: "Every man who had ever helped her in a building had
+    wanted a thing for it. / The good ones had just taken longer to
+    say what. / This one had stood up for her in front of the whole
+    county / and gone down the back stairs without a word, / and she
+    was still waiting on the step to hear his price."
+  - "Proud" now appears once, at l.392. The evening's "proud of him to
+    the soles of her feet, and she could not have said which was
+    bigger" had nothing left to weigh against, so it went with the
+    ledger line.
+  - The ending stays flat: two on the step, and the open palm
+    (l.544–547, unchanged).
+- **E-S1: APPLIED.** l.253 now reads: "He did not look at the rows,
+  or at her."
+- **E-S2: APPLIED, cut-back variant.** The riddle ("Dan had kept that
+  rule better than she had kept anything that winter") is cut.
+  - The rule sentence stays at l.238–239, since K-N1 edits it.
+  - l.240 closes it plainly: "Dan had kept it."
+  - I did not write a clause naming what she broke. No page names a
+    broken rule of hers, and choosing one would be new canon.
+- **E-S3: APPLIED.** At l.294–295 the unsaid line is now *"Coach,
+  that's not necessary."*
+  - These are ch 1:134's words, where she refuses the den mother's
+    slice. It is the same refusal to be paid for.
+  - l.299 "Her mouth opened on *Coach*." is unchanged.
+- **E-S4: APPLIED.** All five TKs are now one block after the last
+  line of prose (l.549–554), each with its words unchanged.
+- **E-S5, the chest: APPLIED.** Three chest landings remain: l.311,
+  l.371, and l.453 (the stairs, which had to stay whole). The others
+  moved:
+  - l.131 → the palm on the paper
+  - l.155 → "low in her stomach"
+  - l.183 → "Aisha's breath eased a notch"
+  - l.392 → the wrists only
+  - l.532–533 → "an ache across her shoulders and in both knees"
+- **E-S5, the openings: APPLIED, three of four.**
+  - l.199: "Marisol Pruett stood up … at half past ten"
+  - l.412: "Chairs scraped at the recess"
+  - l.489: "The light was going off Verna's gravel by five"
+  - "At nine" (l.96) is kept. It is the review's own start, and the
+    brief's L053 asks for the clock between scenes.
+
+### The lint targets (hand counts; the lint must confirm)
+
+- **TALK vs BODY.** I grepped the chapter with the lint's own BODY
+  regex. Hits went from 36 to 47, all in narration.
+  - New hits: neck ×2 (l.87, l.193), palm (l.197, l.400), stomach
+    (l.233), pulse and wrist (l.276), skin (l.400), spine and ached
+    (l.421), breath (l.505), ache and knees (l.533).
+  - The lint's ratio is spoken words ÷ (10 × body hits). Speech is
+    about 889 words: 2.46 × 36 × 10, plus three from K-N4.
+  - Estimated ratio: **about 1.89**, under 2.0.
+  - No dialogue was added except K-N4's clause.
+  - neck ×2, throat ×2 and pulse ×1 are all inside the brief's cap.
+- **Words.** A hand count of token changes gives 4,263 + 92, about
+  **4,355**. The ceiling is 4,370. Talk is about 20.4%, which is
+  normal.
+- **SENTENCE SHAPE: estimated only.**
+  - Sentences of 33 words or more: about 23, before counting the TK
+    artifact. At about 360 sentences, that should put p95 at 33–35.
+  - My model of CV lands at about **0.60–0.62**, which is borderline.
+    The lint must confirm it.
+  - Long sentences added or kept, each with three commas or fewer and
+    three "and"s or fewer:
+    - l.98–102 (46 words, the one past forty)
+    - l.235–237 (36)
+    - l.313–315 (37)
+    - l.354–356 (33)
+    - l.392–394 (35)
+    - l.396–399 (38)
+    - l.415–418 (34)
+    - l.536–538 (34)
+  - Twelve short sentences added or split out at their beats: l.88,
+    89, 118, 182, 193, 201, 233, 240, 241, 269, 285, 358.
+  - **Artifact:** the TK block (l.549–554) has no sentence-ending
+    punctuation. SENTENCE SHAPE therefore reads it as one sentence of
+    about 49 words, and prose-guard read it as 53. Read p95 and CV
+    with that in mind. The same block is one "sentence" with two em
+    dashes, so the 2+-em-dash check will list it. That is a false
+    positive from putting the TKs together.
+
+### Sweeps
+
+- AI-tic sweep (paragraph ending in ":" or "—"): **zero hits** by
+  grep.
+- bans.txt and the brief's BANS: zero new hits by grep. The
+  reviewer's "Thank you, Coach Merritt" (l.403) was already there, and
+  L042 does not match it.
+- prose-guard survivors, all deliberate as the tail the fix order
+  asked for:
+  - l.354–356 (33 words): the back-wall man, E-1
+  - l.396–399 (38 words, three "and"s): the look, card D6
+  - l.415–418 (34 words): the athletic director's phone, E-2
+  - l.536–538 (34 words): his price, E-3
+  - the TK block (53 words): the artifact above
+
+### Must survive: checked
+
+- The coat rack and stake paragraph are untouched.
+- Unchanged: "Lists"; the discretion and coffee lines; "not me"; "the
+  patient"; the pad; the trustee and the boots.
+- "I can't prove … they're his" and the phone number are intact.
+- The suit and the half-standing lawyer are intact.
+- The price on the aisle keeps its words, split into two sentences.
+- "She corrected people" through the hand on the chart has one change:
+  E-S3's words, as ordered.
+- Unchanged: "Everywhere I pushed"; "Put it on me"; the laugh; the
+  sentence (l.339, verbatim) and then her name (l.348).
+- The look is extended by D6, not changed.
+- "Sweet enough" and "the hardest thing" are intact.
+- The stairs (l.426–482) are whole, and the lawyer is at the urn.
+- Verna's two lines and the open palm are intact.
+- The order still runs her case, the campaign, the man. The couple
+  stays wordless.
+
+### Hard rules
+
+- The sentence is verbatim, and her name follows it.
+- Nothing about them goes on the record, and no words pass between
+  them.
+- No send, withdraw, unpack or ask. "Waiting to hear his price" is
+  her thought, not an ask.
+- Missy does not stand.
+- No touch was added. The heat stays at 5.
+- The two new items of staging are logged above as canon for the
+  fold: her printed copy, and the work-coat man.
+
+### DECLINED
+
+- **None in full.** One partial: E-S2 took the cut-back variant with a
+  four-word plain close. No page says what rule she broke, so none is
+  named.
