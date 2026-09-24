@@ -789,6 +789,7 @@ they sat her down — a barber can count, and so can y'all.*
 *End: BUTTON (wave 7's one, dark) — the turn signal.*
 
 ### Ch 27 — The Hearing (Aisha · Wk10 Mon)
+*B2-D33 (2026-09-24) supersedes where it differs: CLIMAX ONE — his testimony costs the extension and is why Missy stands up in 28.*
 The independent review, trustees' boardroom, seats forty, every
 seat full (single-visit venue; the 1.1 echo unremarked). Her
 case is the chart: the baseline imaging, the dated orders, the
@@ -815,6 +816,7 @@ allowed.* *End: held-quiet (verdict pending; his name spent;
 hers not yet answered).*
 
 ### Ch 28 — Signing Day (Dan · Wk10 Wed)
+*B2-D33 (2026-09-24): the false high, then the final disaster — she has accepted the job out west, and nobody has asked her to stay.*
 February's national signing day — inert since the class signed
 in December (FC1 honored), and WDSS broadcasts its three-hour
 ritual anyway, dead fax and all, half the county gathered at the
@@ -840,6 +842,7 @@ mattered this year already dried in December, and it was a
 doctor's.* *End: warm-flat (cleared, and the car still loaded).*
 
 ### Ch 29 — The Answer (Aisha · Wk10 Fri)
+*B2-D33 (2026-09-24): THE CLIMAX OF THE BOOK — Dan finds her and asks her to stay; she forgives by unpacking and letting him carry half. A set piece. Re-brief: the deadline is Saturday the sixth; the heat line is the new one (H009).*
 Friday, the offer's deadline. She answers it as a want, not a
 duty — declines standing in the Checkerboard doorway, phone in
 one hand, the coach's slice going cold in front of her seat at

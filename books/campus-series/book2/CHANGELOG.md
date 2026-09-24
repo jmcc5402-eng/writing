@@ -2,6 +2,46 @@
 
 Manuscript-affecting changes, newest first. (Hard rule 6.)
 
+## 2026-09-24 — ch 26 "The Survey Stakes" drafted: three blind candidates, C wins (chapter PR)
+
+- The card (moved to Thursday the 28th: the Coach's Table is his chance
+  on the same air as "her protocol") and the brief audited together by
+  the keeper (E2): BLOCK, eight fixes — the athletic director learns of
+  the offer by a reference call, not a records request; the third Table
+  out of season, said why; Odell's anchor counts something new; the
+  stakes seen from the warm-end step, driven not planted; the kiss
+  indoors, behind room nine's door; the building's price once; heat 4 →
+  5 by the author's ruling (AUTHOR-NOTES 289). PASS.
+- Three blind drafters (D1, D2, D3), none with a shell — the orchestrator
+  ran every lint. A failed the opening check (ch 25's opening run). Each
+  read first by author-proxy 1.1.1, then by the blind panel on the
+  card-blind copy. Every proxy: romance 6; A's and B's led with the fight
+  at her door too polite; all three asked to hear the half he meant.
+  Every panel: heat 6, one over the ceiling. C wins
+  (`notes/ch26-scoreboard-2026-09-24.md`): clean, her anger with an edge
+  ("Say nothing Monday. You've had the practice."), and the unasked ask
+  set up for 29. A and B to `notes/candidates/`.
+- A correction to the brief at the revision: MAIN MOVED 1 had banned
+  the half he means in any wording; B2-D31.10 says it "stays in his
+  head" — so it is in his head, once, and never said aloud.
+- Revision pass (D4), nineteen asks, each closed APPLIED or DECLINED
+  (conveyor item 6, its first run): the half in his head; watching him
+  not ask; the cost felt in the truck; heat brought down; the stop
+  slowed; one laugh between them (the haircut); Tuesday's radio heard;
+  the recaps cut.
+- Score (`notes/scores/ch26-score.md`): romance 7, Aisha 2, Dan 3, wound
+  2, town 2, menace 2; THE BILL paid.
+- Keeper page audit (E3): ACCEPT WITH FIXES. Boyd's name out of Dan's
+  head (B2-D31.2); the decision left to the turn signal (the card); four
+  contradictions and three clock gaps.
+- Fix pass (D6): those, plus the editor's move — at her door, her way
+  out for him is the deal he took ten years ago (ch 14's words); Odell's
+  forty days carried to the Table. Lints: 3,436 words, talk 15.8%,
+  talk:body 1.70, CV 0.65.
+- Open for the author: Boyd named in Dan's head, or not; the decision
+  said, or left to the signal; the half he meant in his head (the
+  correction); where the turn signal goes (`[TK]`).
+
 ## 2026-09-24 — ch 25 ACCEPTED (#192) and folded; the author's comments applied (fold PR)
 
 - The author on the merge: "the best written chapter yet" — her

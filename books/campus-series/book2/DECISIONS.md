@@ -927,7 +927,8 @@ Does Aisha and Ty go back inside first?"
    the lot from the Fieldhouse window at dark. The keeper checks every
    scene's entry and exit on every page audit (1.4.4), not only under
    card E4.
-2. **The trainer's name — OPEN, proposed.** The author wrote "Ty" for
+2. **The trainer's name — RULED 2026-09-24: Carl Whitlow, "Whit"
+   (B2-D32).** Was OPEN, proposed: The author wrote "Ty" for
    the man in the cab; Ty Beaumont is the receivers coach. The trainer
    has no name on any page (twenty-two chapters), which is why he
    blurs — the red team's "a stake with no name is a prop with a
@@ -1191,3 +1192,94 @@ lines in ch 24 (6), each quoted in the PR. The author's rule since
     it is said plainly, in her head, when the offer comes. How the
     chair then reached her (the email's "what we talked about") stays
     `[TK]`.
+
+## B2-D32 — the trainer is a person (author, 2026-09-24, #192 comment and chat after #193)
+
+"The trainer doesn't have a name… Currently they're kind of like a
+cartoon faceless person. Let's discuss how we can make the trainer
+actually a real character." (AUTHOR-NOTES 282) Then, on the options:
+"Whit, A, no leak. And I like the gambling line, but let's make it
+very light does not need to be a big distractor." (AUTHOR-NOTES 285)
+
+1. **Name — RULED.** Carl Whitlow, "Whit" to the staff. From ch 26 the
+   page calls him Whit once somebody in the room says it; "the trainer"
+   stays usable. Chapters 1–25 are not revised (forward, not back).
+2. **His want — RULED (option A).** His daughter is a sophomore at
+   Ashford. The ten thousand he owes (F-TRN-01) was her tuition, and he
+   bet it trying to double it. `[TK the daughter's name]`
+3. **The gambling — RULED: very light.** It is a line, not a subplot.
+   At most one drop in a chapter he is in, seen or known plainly (the
+   app closed, a score on his knee, the tuition he owes); never a
+   scene of its own, never a thread that pulls focus from the leads.
+4. **Not the leak — RULED.** Whit did not leak Dan's interview; his
+   debt never touches the review or the medical information in 1.2
+   (B2-D27.4 item 2 stands). Who leaked stays `[TK]`.
+5. **One moment where he chooses** — somewhere in 26–30, small, on the
+   page (proposed; the brief that carries it names it).
+
+## B2-D33 — the ending: two climaxes, and the ask is the book's (author, 2026-09-24, chat after the ch 26 card)
+
+The author asked where 26's pieces land, and whether the hero moment,
+why she stays, and how she forgives are strong enough. On the answers:
+"These are really good." (AUTHOR-NOTES 286) Then: "make the moment
+that he asks her to stay the true climax of the entire book… the first
+climax is when he testifies so the reader thinks everyone is happy and
+we're done, but then we remember that Ayesha's basically accepted the
+other job, which is the final disaster for the reader. So then when
+Dan finds Ayesha and asks her to stay, that's the final final
+victory." (AUTHOR-NOTES 287)
+
+**The shape (RULED):**
+
+1. **Climax one — ch 27, he testifies.** He walks in unscheduled and
+   finishes the sentence in the same words: "I said I'd have played
+   him. That's exactly why the rule says I don't decide." Then her
+   name. It must COST: in 26 the lawyer says don't, and he knows it
+   ends the extension (the dream job, his staff's jobs). The reader
+   sees the price before he opens his mouth. **His testimony is why
+   Missy stands up** in 28 with the Birmingham report — his moment
+   causes the win, it does not decorate it.
+2. **The false high — ch 28.** She is cleared; the town takes its hats
+   off. The reader thinks it is over.
+3. **The final disaster — the end of 28. She SENDS the acceptance —
+   RULED (author, 2026-09-24: "I like the send and then the take
+   back. It's a little corny, but so are these books."; AUTHOR-NOTES
+   288).** The typed yes from ch 25 goes out. Cleared changes nothing:
+   nobody has asked her to stay. How the reader learns it in Dan's
+   chapter is the ch 28 brief's (proposed: the athletic director has
+   it by afternoon, as with the offer in 26).
+4. **Climax two — THE CLIMAX OF THE BOOK — ch 29: Dan finds her and
+   asks her to stay.** In plain words, the one thing he did not do
+   (ch 25's last beat: "He had not asked."). This is the book's
+   strongest scene and is built and checked as such: a SET PIECE
+   (three blind drafters); the brief names it the climax; every
+   reader is asked, "is this the best scene in the book?"; a scene
+   that is not is a finding, not a pass. Re-brief under the new heat
+   line (HANDOFF H009) and the deadline (Saturday the sixth).
+5. **How she forgives.** 27 is public and settles nothing between
+   them. The ask in 29 is private, and that is where she forgives:
+   she unpacks the car and lets him carry half. The board app deleted
+   (the old ch 29 beat) is texture at most; it is not the repair.
+7. **The take-back, the modern way — RULED (author, 2026-09-24).** "In
+   a real romance movie, they'd have her ripping up the paper in front
+   of everyone as the last scene… for us, which is a little more
+   modern, we have her forward her cancellation to Dan." After he
+   asks, she writes the chair to withdraw her yes and forwards it to
+   Dan; his phone lights in his hand. It is her answer to the ask, in
+   her own gesture — corny on purpose, the way these books are. The
+   ch 29 brief places it (proposed: while he is standing right there,
+   before a word is said, and the car gets unpacked after).
+6. **Why she stays — with a job, and by choice.** The partner
+   contract sits on the same February agenda as Boyd's pledge and
+   rides on it (F-AGD-01). When the pledge is re-sequenced at 27, the
+   contract has nothing to ride on; the trustees keep her line for
+   another season. One season, not forever (1.3 can use it). The job
+   out west is still the better job; she turns it down because for
+   the first time somebody kept her — Dan in public, Missy, the hats,
+   Verna taking the rent. Her wound, answered: "She had never been
+   kept."
+
+Supersedes the outline where it differs: ch 27–29 in
+`plots/b12-outline.md` and the partner rows 27–30 in
+`plots/provider-partner.md` (the deal no longer only "stalls").
+
