@@ -39,6 +39,10 @@ DIRECTION, NOT PRECISION (the author, 2026-09-24, AUTHOR-NOTES 294):
 have a plan going in… so we can plan the arc of heat over the whole
 book… as long as we agree on the directionality before the writing." A
 number one off its plan is "within one" — recorded, never a call for
+the author. WORDS OVER is recorded, never a cut order (the author,
+2026-09-25, AUTHOR-NOTES 298): "only cut the words if they really are
+not consequential… rather keep good content and go over… that also
+adds some variety." A
 the author. Only two or more off (or a heat that climbs where the plan
 drops, or drops where it climbs) is flagged. A chapter whose card carries no Targets line fails
 here too — from ch 21 on the card lint refuses to send such a card.
@@ -139,7 +143,7 @@ def main() -> int:
         ("Laughs", t_laugh, a_laugh, "ok" if a_laugh >= t_laugh else "under"),
         ("Ends", t_end.lower(), a_end, "ok" if a_end == t_end.lower() else "differs"),
         ("Talk", t_talk.lower(), f"{a_talk} ({dlg}%)", "ok" if a_talk == t_talk.lower() else "differs"),
-        ("Words", t_words, words, "ok" if abs(words - t_words) <= 0.15 * t_words else "off budget"),
+        ("Words", t_words, words, "ok" if abs(words - t_words) <= 0.15 * t_words else ("long — recorded, never a cut order" if words > t_words else "short")),
         ("Pays", t_pays, "—", "see THE BILL in the score"),
     ] + extra
     print(f"targets-check ch{ch}   target → actual")

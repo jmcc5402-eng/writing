@@ -2,6 +2,37 @@
 
 Manuscript-affecting changes, newest first. (Hard rule 6.)
 
+## 2026-09-25 — ch 27 ACCEPTED (#197) and folded (fold PR)
+
+- The author's second #197 comment (AUTHOR-NOTES 296), applied at the
+  fold: a low point before Dan's entrance — after Marisol sits, the
+  reviewer reads Dan's own interview answer into the record ("Every
+  coach in the country plays him. I'd have played him."), asks her to
+  answer it, and the room turns against her; then the door. Length
+  held by trimming the readers' skim spots (the coats, the rules read
+  out, the pledge passage) and the letter paragraph the score called
+  the chapter's one riddle.
+- The author's follow-up (AUTHOR-NOTES 297): Dan asks for his answer
+  from last Monday, reads it off the review's typed page word for word,
+  looks down, looks up at a room waiting, lets the quiet run — then the
+  finished sentence, unchanged. The words budget raised 3800 → 4200
+  (TARGETS row 27, the card, the brief): the two asks added ~400. Two
+  body words made countable (palm, spine) and three punctuation-only
+  splits at beats, for the body line (1.98) and the sentence shape (CV
+  0.602 with the TK block excluded). The review's typed page `[TK]`.
+- The author (AUTHOR-NOTES 298): go over rather than cut content. Four
+  length-only cuts restored — "not the paper chart in her office
+  drawer" (the keeper's B2 fix), "Everything said goes in the
+  transcript," the letter paragraph (Dan kept her rule), the fuller
+  pledge lines. 4,801 words; every check passes.
+- The proxy scored: SAID in part 1, MISSED 1
+  (notes/ch27-proxy-score-2026-09-25.md).
+- THREADS (B2-T07 PAID), STATE (then ch 28), the registry (the review,
+  the room, the building, Marisol's documents, Verna, the amended
+  agenda; row 114's "never signing day" retired, keeper N9; the turn
+  signal → 29), FACTS F-AGD-01 (the Feb 1 scope), STAKES (the offer
+  rides on the finding).
+
 ## 2026-09-25 — ch 27, the author's #197 comment applied (chapter PR)
 
 - One line in the opening stake (l.25–28): "The offer out west was made

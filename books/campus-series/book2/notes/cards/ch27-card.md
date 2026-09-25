@@ -4,7 +4,7 @@ Aisha, Monday the first of February. Three blind drafters. Climax one.
 
 **Targets.**
 
-Romance 8 · Heat 5 · Aisha 3 · Dan 3 · Wound 2 · Fun 1 · Town 3 · Menace 3 · Ends flat · Talk normal · Words 3800 · Pays Dan
+Romance 8 · Heat 5 · Aisha 3 · Dan 3 · Wound 2 · Fun 1 · Town 3 · Menace 3 · Ends flat · Talk normal · Words 4200 · Pays Dan
 
 **The plot.**
 

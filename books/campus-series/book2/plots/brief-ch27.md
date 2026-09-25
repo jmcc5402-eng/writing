@@ -11,7 +11,7 @@ the card's calls and the ladder call (AUTHOR-NOTES 292, 2026-09-24).
 **TARGETS (the definition of done — `canon/TARGETS.md` row 27, copied;
 CHANGED 2026-09-24 by the author: heat 4 → 5, AUTHOR-NOTES 293):**
 Romance 8 · Heat 5 · Aisha 3 · Dan 3 · Wound 2 · Fun 1 · Town 3 ·
-Menace 3 · Ends flat · Talk normal · Words 3800 · Pays Dan.
+Menace 3 · Ends flat · Talk normal · Words 4200 · Pays Dan (words 3800 → 4200 at the fold: the author's two #197 asks added ~400, AUTHOR-NOTES 296–297).
 On the AUTHOR'S scale: romance moves on CONFLICT between the leads.
 Here the conflict is public and one-way: he spends his name on her in a
 room of forty, and she has to let it count — the thing her false belief
