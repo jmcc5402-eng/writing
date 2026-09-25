@@ -10,8 +10,9 @@ Romance 7 · Heat 3 · Aisha 2 · Dan 2 · Wound 1 · Fun 3 · Town 3 · Menace 
 
 Half the county sits in the high school gym for the radio's signing-day
 show, though the class signed in December. Dan is there because the
-show expects him. The two families due to sign today have gone quiet,
-and Tick reads that on the air. That is his cost, in public.
+show expects him. The quarterback he flipped in January signs with the
+other school, and the two families due today send nothing. Tick reads it
+on the air. That is his cost, in public.
 
 Before the broadcast, in the gym's hallway, Dan tells the athletic
 director the pledge went with his testimony, not the office. "You
@@ -50,4 +51,4 @@ early. Boyd's survey crew shows up mid-scene.
 
 1. The chapter ends up, as planned, or down on her yes, which is how the ending was ruled (default: down).
 2. How Dan learns she said yes: the athletic director hears from the western chair, or Verna tells him (default: the chair).
-3. The chair mentions that a trustee here spoke well of her, so Dan knows Boyd's word helped send her, or leave it out (default: mention it).
+3. The chair mentions that a donor here (Boyd is no trustee) spoke well of her, so Dan knows Boyd's word helped send her, or leave it out (default: mention it).
