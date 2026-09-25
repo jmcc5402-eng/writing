@@ -16,7 +16,7 @@ docs); F## fair-play rows (b12-outline.md table governs).
 | B2-T04 | The Birmingham second opinion | ch 14 (SIGHTED, undated: "the Gaults have booked a second opinion. Birmingham. After the game." — Missy's page, under the hours) · **ch 17 ON THE PAGE** (the office's name and number at the bottom of Missy's page; her whole chart sent at ten Tuesday on her own; the release at two; the drive Wednesday the 23rd, offstage; the answer DARK) | **ch 28** Missy | PLANTED ch 14 — SPENT 17 (the trip) — OWED 28 (the answer) |
 | B2-T05 | The tailgate photo: her laugh, his lean, the flash off the ice chest; a father's phone; *Playoff Pics — Post Here* | ch 16 (#156 — PLANTED on the page, small; nobody notices) | **ch 23** the gossip room lifts it from the album — the trawl has no author on the page (F3's plant moves to 24/25) | PAID ch 23 (#180) |
 | B2-T06 | The Cordelia letter (S01) | ch 9 | **ch 25** reread | PLANTED ch 9 (#134) — PAID ch 25 (#192: read to the end; "being needed by it on purpose") |
-| B2-T07 | The complaint's authorship (the consultant's pet phrase) | ch 10 · **ch 18 (the phrase inside the eleven families' letter, once, unremarked)** | **ch 27** decode | PLANTED ch 10 (#137, "proactive risk posture") · CARRIED ch 18 — OWED ch 27 |
+| B2-T07 | The complaint's authorship (the consultant's pet phrase) | ch 10 · **ch 18 (the phrase inside the eleven families' letter, once, unremarked)** | **ch 27** decode | PLANTED ch 10 (#137, "proactive risk posture") · CARRIED ch 18 · **PAID ch 27 (#197)** — Marisol lays the families' letter beside the consultant's printed materials; "I can't prove who put his words in their letter. I can show you they're his." The wire to Boyd unproven |
 | B2-T08 | Dan's nightly board tab — last thing before lights out, read to the bottom | ch 2 (shown without comment) | echo pays **ch 29**; FIRST TURN spent ch 4 (button: board pocketed unread, film instead); **SECOND TURN ch 12** (three reads counted; "Nobody was making him now"; the phone face up) · **THIRD TURN ch 18** (the board read at midnight with her watching his face and not the screen) · **FOUGHT ch 20** (his first typed words, a defense of her, deleted a letter at a time; the two whys said — the old one in a clause, the new one: he reads it for the football hidden in a parent's question, B2-D25.2) · **RUNG 3 ch 22 (#179): THE BOARD UNOPENED — the first night in ten years; the phone face down by the water; the wound named once and let blindside him on purpose** | OWED (the ch 29 echo) |
 | B2-T09 | Dan's move: agree in the room, escalate outside it (the verdict-manager on the page, seen from her side) | ch 5 (the athletic director's email; "Projector off, he had said… Film on, to his boss.") + **ch 6, from HIS side, one interior clause: the athletic director told him no on Tuesday, Denny does not know it, and he does not tell him** | echoes **ch 8** ("You hedged." / "I did."), inverts **ch 15** (backs her call before she knows), spends **ch 27** | OWED (the ch 15 inversion) |
 | F8/RH2 | Denny Gault, loudest voice, obvious complaint author — DECLARED red herring — **ch 18 SIGNAL SET: "Denny Gault's name was not at the bottom of it" (one clause, no conclusion)** | ch 4: **Denny AUTHORED the "just asking for clarity on the evaluation timeline" thread** (ruled, sweep Q3) + **ch 6 (the DECEMBER letter is his own draft, on his phone, and Dan refuses it in public)** + 12 | cleared **ch 28** — **and the letter he refuses to sign is the JANUARY one**, the same campaign rewritten by other hands (ch 18, "Eleven Families," where his name is absent from the eleven). Two letters, not one; the December draft is his and honest, the January rewrite is not his and is the knife | OWED |
@@ -1434,6 +1434,54 @@ the first; he walks in unscheduled against the lawyer and the carrot;
 "I said I'd have played him. That's exactly why the rule says I don't
 decide." and her name; his testimony is why Missy stands up (D33.1); a
 Dan rung for someone not Aisha (the score's #3).
+
+
+### Ch 27 — The Hearing (ACCEPTED #197, 2026-09-25; three blind drafters, C won; climax one; the author's two #197 comments — the offer out west rides on the finding (applied before the merge); a low point before Dan's entrance (applied at the fold))
+
+**Monday, February 1.** Aisha. **Introduces:** the review sits in an
+open room at the reviewer's discretion (the one procedure); her printed
+copy of the record (not the drawer's chart); the good jacket (first on
+a page); she stands, and says "the patient" all morning so Trey's name
+stays out of the transcript; the fair question (D31.1) answered from the
+checklist ("so the checklist stopped him, not me"); Birmingham as the
+Gaults' own second opinion, her chart sent, the answer "theirs to say";
+the forty-one boxes and Delores's pad; the trustee (D31.4, `[TK name]`);
+Marisol's receipts — the families' letter beside the consultant's
+printed materials, "proactive risk posture" in both, "I can't prove
+who… I can show you they're his" (**B2-T07 PAID**); **the low point**
+(the author, #197): the reviewer reads Dan's own interview answer into
+the record and the room turns against her; Dan in the doorway in the
+suit he hates, past the lawyer's raised hand — "Put it on me, and leave
+them out of it" (a rung for his staff); the room's one laugh; **"I said
+I'd have played him. That's exactly why the rule says I don't decide."**
+and her whole name (D33.1; D31.3 — the *her protocol* gap closed); her
+mouth opens on *Coach, that's not necessary* (ch 1's words) and she
+shuts it — she lets it count; Missy's pull after "she was right";
+Denny's eyes shut at "not on the boy"; one man along the back wall who
+does not move (the room goes home split); the athletic director out the
+front with his phone at the recess; the back stairs — no words, the
+knuckles, a near-laugh, the jacket seen, one hold; Verna: the amended
+February agenda (pledge "re-sequenced to a later sitting," the extension
+struck), glad out loud; "Rex Boyd's money," her guess, the refused sum;
+ch 11's wound on the step ("the good ones took longer to say what"); the
+open palm. **Pays:** D33.1, D31.1, D31.2, D31.3, D31.4, D31.5 (his staff),
+B2-T07, F1 (her record), F9 (the extension), the stake of the terms
+(once), ch 26's carrot (refused), Delores's pad (25), Thursday's kiss in
+her body (26). **Carries / OWED:** Missy's pull → 28 (she stands); Denny
+→ 28; one cap off → 28's hats (one spent); the findings Wednesday → 28;
+the offer rides on the finding (STAKES; the author's #197) → 28, cleared
+so the send is possible; the open palm → 29; the ground under her
+clinic and the refused sum → 29 (D33.6); where the turn signal went → 29
+(card call 1); "Come here" → 29; Birmingham's answer → 28; Odell's forty
+days and Boyd's word out west (25:145) → 28 or dead. **Romance
+(B2-T10): stage 5 — In 5 / Out 5; the public claim; not one word between
+them (29's ask the first since "Go home, Dan").** **TARGETS**: plan →
+actual — romance 8 → 7 (panel re-read) / 8 (score); heat 5 → 5 (the
+author raised the plan from 4, note 293); laughs 1 → 3; ends flat →
+warm; talk normal → 20%; words 3800 → ~4,370; Aisha 3 → 3; Dan 3 → 3;
+wound 2 → 2; town 3 → 3; menace 3 → 3. Hands forward: 28 — Dan; signing
+day; the finding clears her (Missy stands with Birmingham because of his
+testimony); the false high; then the send.
 
 ## New canon recorded at this fold
 

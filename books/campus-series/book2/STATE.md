@@ -192,7 +192,31 @@ never aloud. Whit named (B2-D32). The athletic director's carrot (the
 author's #194 comment). Boyd unnamed; the decision left to the turn
 signal (the card). The beat map moved to D33 (climax 29).
 
-**Then ch 27** — Aisha; the hearing, Monday February 1 (climax one,
+**Ch 27 ACCEPTED (#197, 2026-09-25) and FOLDED.** Climax one. Three
+blind drafters (C, D3 won — the only draft where Dan looks at her at the
+sentence); the six reads; revision (D4) closed fifteen asks; the score
+(romance 8) and the keeper → the fix pass (D6). The author raised heat
+to 5 (note 293) and ruled the targets are direction, not precision
+(294). Two #197 comments: the offer out west rides on the finding
+(applied before the merge, 295); a low point before Dan's entrance —
+the reviewer reads his own "I'd have played him" into the record and
+the room turns against her (applied at the fold, 296). Not one word
+between the leads all chapter.
+
+**Then ch 28** — Dan; signing day, Wednesday February 3 (the false high,
+then the final disaster, B2-D33.2–3). The finding clears her — because
+Missy stands in the morning session with Birmingham (B2-T04), and she
+stands because of his testimony (show the cause). The hats come off —
+ONE cap is already spent at 27, so 28's is the whole Table. The flip
+read on air (his cost, public). Cleared, the offer out west stands (the
+author's #197 stake), so the send is possible: she SENDS the acceptance
+at the end, and the reader learns it in Dan's chapter (proposed: the
+athletic director has it by afternoon). Tick's anchor. Owed and dying:
+Odell's forty days; Boyd's word out west (25:145). Re-introduce every
+named character at first mention (the ch 27 re-read). Name the low point
+before any rescue (L111).
+
+**Was: then ch 27** — Aisha; the hearing, Monday February 1 (climax one,
 B2-D33.1). Dan walks in unscheduled against the lawyer and the carrot;
 "I said I'd have played him. That's exactly why the rule says I don't
 decide." and her name; his testimony is why Missy stands up in 28; a
