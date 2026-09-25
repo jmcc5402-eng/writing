@@ -2,6 +2,14 @@
 
 Manuscript-affecting changes, newest first. (Hard rule 6.)
 
+## 2026-09-25 — ch 27, the author's #197 comment applied (chapter PR)
+
+- One line in the opening stake (l.25–28): "The offer out west was made
+  to a doctor with a clean one. / She doubted it would outlast a
+  finding against her." Replaces "the one out west included." Two
+  words trimmed nearby for the budget (4,370). Lints and the gate
+  re-run clean. STAKES carries the row.
+
 ## 2026-09-24 — ch 27 "The Hearing" drafted: three blind candidates, C wins (chapter PR)
 
 - The card and the brief audited together by the keeper (E4): BLOCK,
