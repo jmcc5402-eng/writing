@@ -532,3 +532,4 @@ card, flag it in `../BACKLOG.md`.
 | 2026-09-25 | romance-reader-panel (ch 28 candidate A — blind, on the card-blind copy) | P1 binge (1.2 book card — no draw) | books/campus-series/book2/notes/ch28-panel-A-2026-09-25.md |
 | 2026-09-25 | romance-reader-panel (ch 28 candidate B — blind, on the card-blind copy) | P1 binge (1.2 book card — no draw) | books/campus-series/book2/notes/ch28-panel-B-2026-09-25.md |
 | 2026-09-25 | romance-reader-panel (ch 28 candidate C — blind, on the card-blind copy) | P1 binge (1.2 book card — no draw) | books/campus-series/book2/notes/ch28-panel-C-2026-09-25.md |
+| 2026-09-25 | drafting-assistant (campus 1.2 ch 28 REVISION of B (the six reads)) | D6 Let one scene run a beat past comfortable before cutting (LRU by variance-draw.py; read as: revision) | books/campus-series/book2/manuscript/ch28-candidate-B.md |
