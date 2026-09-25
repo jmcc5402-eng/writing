@@ -41,15 +41,18 @@ def deck_for(agent):
 
 
 def last_use(agent):
-    """card id → date of that agent's last draw of it (rows are chronological)."""
+    """card id → (date, row) of that agent's last draw of it (rows are
+    chronological; the row number breaks a same-day tie — ch 27,
+    2026-09-24: with every live card dealt the same day, the tie fell to
+    the card ID and D1 was dealt three times)."""
     seen = {}
-    for line in open(os.path.join(V, "LOG.md"), encoding="utf-8"):
+    for i, line in enumerate(open(os.path.join(V, "LOG.md"), encoding="utf-8")):
         m = re.match(r"^\| (\d{4}-\d{2}-\d{2}) \| ([^|]*)\| ([A-Z]\d+)\b", line)
         if not m:
             continue
         date, who, card = m.group(1), m.group(2), m.group(3)
         if agent.split("-")[0] in who:
-            seen[card] = date
+            seen[card] = (date, i)
     return seen
 
 
@@ -59,14 +62,14 @@ def draw(agent):
         return None, None, f"no deck names '{agent}' in DECKS.md"
     used = last_use(agent)
     live = [(cid, txt) for cid, txt in cards if not txt.upper().startswith("RETIRED")]
-    live.sort(key=lambda c: (used.get(c[0], "0000-00-00"), c[0]))
+    live.sort(key=lambda c: (used.get(c[0], ("0000-00-00", -1)), c[0]))
     # Three blind drafters draw on the same day: a card dealt today goes to
     # the back of the line so the three are distinct (ch 23, 2026-09-20 —
     # the tool dealt D1 twice on a same-day tie; corrected by hand once).
     today = str(datetime.date.today())
-    fresh = [c for c in live if used.get(c[0]) != today]
+    fresh = [c for c in live if used.get(c[0], ("",))[0] != today]
     cid, txt = (fresh or live)[0]
-    return cid, txt, f"deck '{heading}'; last used {used.get(cid, 'never')}"
+    return cid, txt, f"deck '{heading}'; last used {used.get(cid, ('never',))[0]}"
 
 
 def main():

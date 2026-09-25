@@ -32,7 +32,15 @@ here and JUDGED by the developmental editor's THE BILL test from ch 25
 "the cost is felt, never paid".
 
 GATE: romance actual two or more under target → exit 2. Everything
-else is reported. A chapter whose card carries no Targets line fails
+else is reported.
+
+DIRECTION, NOT PRECISION (the author, 2026-09-24, AUTHOR-NOTES 294):
+"the point of the scoring is not for it to be perfect. It's for us to
+have a plan going in… so we can plan the arc of heat over the whole
+book… as long as we agree on the directionality before the writing." A
+number one off its plan is "within one" — recorded, never a call for
+the author. Only two or more off (or a heat that climbs where the plan
+drops, or drops where it climbs) is flagged. A chapter whose card carries no Targets line fails
 here too — from ch 21 on the card lint refuses to send such a card.
 """
 from __future__ import annotations
@@ -127,7 +135,7 @@ def main() -> int:
             extra.append((k.capitalize(), tv, av if av is not None else "—", verdict))
     rows = [
         ("Romance", t_rom, a_rom, "GATE" if a_rom <= t_rom - 2 else ("ok" if a_rom >= t_rom - 1 else "under")),
-        ("Heat", t_heat, a_heat, "ok" if a_heat <= t_heat else "OVER the ceiling"),
+        ("Heat", t_heat, a_heat, "ok" if a_heat <= t_heat else ("within one" if a_heat == t_heat + 1 else "OVER the ceiling")),
         ("Laughs", t_laugh, a_laugh, "ok" if a_laugh >= t_laugh else "under"),
         ("Ends", t_end.lower(), a_end, "ok" if a_end == t_end.lower() else "differs"),
         ("Talk", t_talk.lower(), f"{a_talk} ({dlg}%)", "ok" if a_talk == t_talk.lower() else "differs"),
