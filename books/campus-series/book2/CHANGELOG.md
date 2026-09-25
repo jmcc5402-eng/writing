@@ -10,7 +10,16 @@ Manuscript-affecting changes, newest first. (Hard rule 6.)
   coach in the country plays him. I'd have played him."), asks her to
   answer it, and the room turns against her; then the door. Length
   held by trimming the readers' skim spots (the coats, the rules read
-  out, the pledge passage).
+  out, the pledge passage) and the letter paragraph the score called
+  the chapter's one riddle.
+- The author's follow-up (AUTHOR-NOTES 297): Dan asks for his answer
+  from last Monday, reads it off the review's typed page word for word,
+  looks down, looks up at a room waiting, lets the quiet run — then the
+  finished sentence, unchanged. The words budget raised 3800 → 4200
+  (TARGETS row 27, the card, the brief): the two asks added ~400. Two
+  body words made countable (palm, spine) and three punctuation-only
+  splits at beats, for the body line (1.98) and the sentence shape (CV
+  0.602 with the TK block excluded). The review's typed page `[TK]`.
 - The proxy scored: SAID in part 1, MISSED 1
   (notes/ch27-proxy-score-2026-09-25.md).
 - THREADS (B2-T07 PAID), STATE (then ch 28), the registry (the review,
