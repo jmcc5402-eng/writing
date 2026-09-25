@@ -20,6 +20,11 @@ Manuscript-affecting changes, newest first. (Hard rule 6.)
   body words made countable (palm, spine) and three punctuation-only
   splits at beats, for the body line (1.98) and the sentence shape (CV
   0.602 with the TK block excluded). The review's typed page `[TK]`.
+- The author (AUTHOR-NOTES 298): go over rather than cut content. Four
+  length-only cuts restored — "not the paper chart in her office
+  drawer" (the keeper's B2 fix), "Everything said goes in the
+  transcript," the letter paragraph (Dan kept her rule), the fuller
+  pledge lines. 4,801 words; every check passes.
 - The proxy scored: SAID in part 1, MISSED 1
   (notes/ch27-proxy-score-2026-09-25.md).
 - THREADS (B2-T07 PAID), STATE (then ch 28), the registry (the review,

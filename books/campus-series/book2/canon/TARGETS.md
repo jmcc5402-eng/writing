@@ -111,6 +111,14 @@ consequence); absent from 21 and 29; glimpsed once at 30.
   the past: ch 23 = 3 by the author.
 - **Fun** 0 is a chapter of watching a lead alone and sad; two of
   those in a row is a finding (taste 7).
+- **Words are a plan, not a ceiling to cut to (the author, 2026-09-25,
+  AUTHOR-NOTES 298).** "I'm OK going over. This is probably the most
+  important chapter so let's only cut the words if they really are not
+  consequential. I'd rather keep good content and go over if needed;
+  that also adds some variety." A chapter over its words plan is
+  recorded; a cut is made only for a line that does no work (a skim,
+  a recap, a repeat) — never to hit the number. Chapter lengths may
+  vary; the big chapters run long.
 - **The plan is direction, not precision (the author, 2026-09-24,
   AUTHOR-NOTES 294).** "The point of the scoring is not for it to be
   perfect. It's for us to have a plan going in to the chapter… so we
