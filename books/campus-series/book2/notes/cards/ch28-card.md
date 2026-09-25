@@ -4,7 +4,7 @@ Dan, Wednesday the third of February. Three blind drafters. The false high, then
 
 **Targets.**
 
-Romance 7 · Heat 3 · Aisha 2 · Dan 2 · Wound 1 · Fun 3 · Town 3 · Menace 1 · Ends up · Talk normal · Words 3400 · Pays Boyd
+Romance 7 · Heat 3 · Aisha 2 · Dan 2 · Wound 1 · Fun 3 · Town 3 · Menace 1 · Ends down · Talk normal · Words 3400 · Pays Boyd
 
 **The plot.**
 
@@ -46,7 +46,7 @@ Then her yes reaches him second-hand.
 The findings come today. Her answer was due Saturday, and she sent it
 early. Boyd's survey crew shows up mid-scene.
 
-**Your calls.**
+**Your calls — RULED at default (the author, "Default," 2026-09-25).**
 
 1. The chapter ends up, as planned, or down on her yes, which is how the ending was ruled (default: down).
 2. How Dan learns she said yes: the athletic director hears from the western chair, or Verna tells him (default: the chair).
