@@ -241,3 +241,134 @@ between the leads, as the card requires.
 - **18 (not a mystery):** Boyd's call is said plainly, once.
 - **20 (body):** the back stairs, her voice, and the yes each land in
   his body.
+
+## FIX PASS (D1)
+
+Drafting-assistant, 2026-09-25. Variance card D1 (sound-forward),
+spent on the office at five (l.741–765) and on her voice in Tick's
+(l.450–451). Edited in place, not committed. Line numbers are the
+fixed file's. The brief's AUDIT ADDENDUM was present (PASS).
+
+### The keeper
+
+- **K-B1 — APPLIED.** l.348, l.351. "I drove Trey…", "he told me she
+  was right." Denny is out of Birmingham.
+- **K-B2 — APPLIED.** l.250–252. "The portal was a window in January";
+  "Inside the window". No length.
+- **K-B3 — APPLIED.** l.288. "her marker in his teeth."
+- **K-N1 — APPLIED.** l.692. "His money had not been able to move his
+  building past the trustees on Monday." / "It had moved her." stays.
+- **K-N2 — APPLIED.** l.475–478. "The whole Liars' Table sat
+  bareheaded, / Tick at his card table and the rest in the front row…"
+  This is now a 47-word sentence, one of the two past forty on
+  purpose. It has 3 commas and 3 "and"s.
+- **K-N3 — APPLIED.** l.407–408. "Tick said the reviewer had let Denny
+  speak too. / Then he read Denny slow." It is narration, so no
+  dialogue was added.
+- **K-N4 — APPLIED.** l.553. "loaded".
+- **K-N5 — APPLIED.** l.121. "The small table at the left of the room
+  at nine."
+
+### The score
+
+- **E-TWO POINTS — APPLIED.** l.645–656. The athletic director turns
+  his phone round on the desk. The chair had forwarded her reply. Her
+  ch 25:391 words, exact: *I accept the directorship. A. Cole, MD.*
+  "Dan read it twice. / It was sent." He is reading her yes on another
+  man's phone, "and he had never asked her the question." His throat
+  closes. The athletic director takes the phone back, so it is not the
+  last image. Then the body run (l.658) is unchanged. The TK is in the
+  end block (l.796).
+- **E-1 (Fix A) — APPLIED.** l.741–765. The last paragraph runs to five
+  and past it, carried by sound. The radio goes to the feed store's
+  spot. At half past four the weight room racks its last plate and the
+  radio goes off. Doors shut. Ty says good night past the open door.
+  Then there is only the radiator, his breath and his heart. The
+  carillon strikes five, and he counts it. The class is closed, and
+  the terms have lifted with it. "He sat." The clock over his door
+  ticks round to a quarter past: "It was his hour… / and it came and
+  went in the quiet building / while he sat with his hand on the back
+  of his neck. / He did not get up." **The haircut, my call:** kept
+  close. The haircut paragraph (l.734–739) moves up to open the ending,
+  and the hand on the neck is still the last image, now at a quarter
+  past five. It ends DOWN, with no call, no visit, and no ask. New
+  items are TK'd: the building emptying and the clock (l.797–798); the
+  carillon is canon (1.2 ch 12:92), but it is noted anyway (l.799–800).
+- **E-3 (Fix A) — APPLIED.** The guess is cut from the finding (old
+  l.437–438). It now sits in the plan, l.591–595: "She was clear now. /
+  He guessed a clean record was the line the offer out west had been
+  waiting on, / though nobody had told him so. / Cleared, she could
+  take the job out west with nothing on her name. / That was what he
+  meant to be on her step about." The high runs pure from the finding
+  (l.431) to Ty (l.586).
+- **E-S1 — APPLIED.** Tick's "She stood up because of what Coach
+  Merritt said on Monday." is cut. Missy's own words (l.376–379) and
+  Dan's (l.387–391) carry the cause.
+- **E-S2 — APPLIED.** l.629–630. "She wants to start early" is cut.
+  The line now reads "He wanted a release date for her. / He needs us
+  to let her go."
+- **E-S3 — APPLIED.** l.414–420 (the hands now ache, l.420). The porch line now reads "Dan had
+  seen the missing name and let it lie," so "had not asked" is said
+  once, at the turn: "Nobody had asked him why, and Dan had not asked
+  either."
+- **E-S4 — APPLIED.** l.305–306. "Down the front row Sonny looked up
+  from his pager at Dan once, / and then back down." No line.
+- **E-S5 — APPLIED.** Tunk's tag is cut. His want now shows in his act,
+  "with his own phone already out in case it did" (l.159). Sonny's tag
+  is cut. He sets the pager face up and looks at it before he looks at
+  anybody (l.271–272). Odell's tag (old l.498) is cut, and his want
+  sits in his own relayed line ("somebody ought to say it on the
+  radio"). Missy's, the athletic director's and Ty's tags are kept.
+- **E-S6 — APPLIED.** Before the drop, Dan has no palm and no knees.
+  - l.206 "His hand still had Monday in it".
+  - l.242–243: his hands damp, "his pulse in them".
+  - l.261: "it did not slow his heart any".
+  - l.458 (the 27:530 mirror) → "The pulse jumped in his neck…". The
+    drop's "knees had gone to water" (l.664) is the one kept.
+  - l.532–533: "His legs still did not feel like his own, / and his
+    heart had not come all the way down."
+  - Palm and knees now sit only in the drop (l.637, 663, 664). Two
+    exceptions are left alone: Aisha's own palm in the protected
+    four-in-the-morning list (l.123), and Peanut's cap "on his knee"
+    (l.469), which is his body and not Dan's, inside the protected hats.
+- **E-S7 — APPLIED.**
+  - l.264: "her eyes go wet over it, as they had at her door on
+    Thursday" (ch 26:382, 432).
+  - l.546: "He had decided it off the scout-team film" (no month).
+  - l.300: Tick's "quiet a month". I also changed l.307–308, Dan's echo
+    of it, to "in a month… for weeks" so that "since January" is gone
+    from both.
+
+### DECLINED (for the author at the PR)
+
+- **The score's #2: what the struck extension leaves Dan.** It needs
+  canon: his contract through when, and who writes the next one. That
+  is the author's call and the ch 29 brief's. Not written.
+- **The first hat's cost.** Peanut's stake is PROPOSED in STAKES, not
+  locked. That is still the author's call. Not written.
+
+### Lint (orchestrator to measure — no shell here)
+
+- **TALK vs BODY:** the body words in narration went from 43 to 55 by
+  my grep with the lint's own regex. Spoken words went down by about 17
+  (the l.379 and l.619 cuts). If the 2.43 came from 43 body words, the
+  ratio should now be about 1.87. That is an estimate, not a
+  measurement. Brief budgets: chest 3 (l.460, 677, 738), throat 2
+  (l.385, 655), pulse 2 (l.243, 458), neck heat 1 (l.191).
+- **SENTENCE SHAPE:** not measured. To lift the CV I added fifteen
+  short sentences of two to eight words at beats. Some examples: "She
+  was clear." (l.436), "It was hers anyway." (l.451), "He knew what was
+  coming." (l.638), "It was sent." (l.652), "He could hear the
+  building." (l.741), "He counted it." (l.755), "He sat." (l.759) and
+  "He did not get up." (l.765). Two sentences are past forty on
+  purpose: the hats (47w, l.475) and "It was his hour…" (41w, l.761).
+  l.727 already ran to 41. One merge makes 34w (l.534–536). None of the
+  new sentences has four or more commas or more than three "and"s.
+- **prose-guard (PostToolUse) on every edit:** 80 columns clean,
+  dangling colon or dash zero, bans.py clean. It raised two sentence-
+  discipline hits. The 41w at l.761 is deliberate (the tail). The 46w
+  one is the `[TK]` end block glued together by the splitter, which is
+  a false hit.
+- **Repetition:** I cut "a quarter past five" to "a quarter past" at
+  l.760 so the run stays at two. "on the class sheet" went back to "on
+  the desk" at l.646 so it stays at three.

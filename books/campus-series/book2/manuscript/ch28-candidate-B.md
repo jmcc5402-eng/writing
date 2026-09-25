@@ -1,8 +1,8 @@
 # Chapter 28 — Signing Day
 
 POV: Dan, third person limited, past tense.
-(DRAFT, REVISED — blind candidate B, card D3, revision D6, per
-plots/brief-ch28.md and the six reads.)
+(DRAFT, REVISED — blind candidate B, card D3, revision D6, fix pass D1,
+per plots/brief-ch28.md and the six reads.)
 
 ---
 
@@ -18,8 +18,8 @@ front hallway with one hand up,
 and Dan Merritt followed the hand until his shoulders touched the trophy case.
 It was Wednesday the third of February, signing day,
 and at nine WDSS 1340 would put three hours of it on the air
-from the gym behind him.
-Most of his class had signed before Christmas.
+from the gym behind him,
+though most of his class had signed before Christmas.
 Three had held their paper for today, and it was due by the close.
 Across town at the same hour, the independent review would sit a last time
 and hand down its finding on Aisha Cole.
@@ -118,12 +118,12 @@ and a coach and his team physician caught together were both gone that day,
 and he would not put her through that for a phone call.
 
 He had been awake at four anyway, working out her morning.
-The front table at nine.
+The small table at the left of the room at nine.
 The good jacket, too thin for February.
 Her palm flat on the chart to keep it still.
 He would not have told that to anybody.
 He had hardly told it to himself until the hallway went quiet,
-and now it went through him warm and would not leave.
+and now it went warm under his skin and would not leave.
 
 
 The gym had half the county in it by nine.
@@ -155,9 +155,8 @@ The fax doesn't know it, and I'm not going to be the one to tell it."
 
 The bleachers laughed.
 
-"It ever ring, Tick?" Tunk Ferrell called down from the end of the row.
-Tunk wanted every story in town before anybody else had it,
-the fax machine's included.
+"It ever ring, Tick?" Tunk Ferrell called down from the end of the row,
+with his own phone already out in case it did.
 
 "Once," Tick said. "A man selling a boat."
 
@@ -204,7 +203,7 @@ His text that night said eight boxes and a tape gun and a marker of his own,
 so she could keep hers for herself.
 He had been pleased with himself about the marker.
 He put the phone away.
-His palm still had Monday in it,
+His hand still had Monday in it,
 her fingers closed in his on the back stairs
 and his thumb going once across her knuckles.
 The warm of it went up the inside of his wrist as if she had just let go,
@@ -240,16 +239,17 @@ Then he stood there.
 He did not sit down, and he did not go out to the hallway.
 He stood at center court with his hands behind his back
 and let the county look at him.
-His palm had gone wet in the other hand.
+His hands had gone damp where they held each other,
+and he could feel his pulse in them.
 His spine had gone straight as a post, and he left it that way.
 The cold of the floor came up through his shoes,
 and his breath would not go all the way down.
 Behind him the photographer took a picture,
 because that was the photographer's job.
 
-The portal was six days in January
+The portal was a window in January
 when a college player could change schools.
-Inside those six days the kid had said yes to another school on a Sunday
+Inside the window the kid had said yes to another school on a Sunday
 and yes to Ashford on the Wednesday,
 and that was what flipping a kid meant.
 Then the kid's father had called Dan's desk phone from two states off
@@ -258,17 +258,18 @@ Dan had told him she held kids out here and would do it again.
 He had known when he put the phone down that it might cost him a quarterback,
 and this morning the county had heard what it cost, in Tick's voice.
 He would say it again.
-He knew that, standing there, and it did nothing for his knees.
+He knew that, standing there, and it did not slow his heart any.
 Aisha would hear it by tonight,
 and she would put it on the pile with Monday.
-He could see her mouth press flat when she did, the way it had at her door
-on Thursday, and his jaw ached with it.
+He could see her eyes go wet over it, as they had at her door on Thursday,
+and his jaw ached with it.
 
 Sonny Dillard came up the bleachers at half past ten in half his gear.
 He ran the counter at the feed store by day
-and the pumper when the pager went,
-and he wanted his deliveries done and the pager quiet.
+and the pumper when the pager went.
 He picked his coat up off the end seat and sat down.
+He set the pager face up on the bench beside him
+and looked at it before he looked at anybody.
 
 "Survey crew's out on the annex ground," Sonny said.
 "Three of them and the long tape."
@@ -284,9 +285,10 @@ working toward the eleventh,
 the day the university had ordered her annex boxed and empty.
 Whoever paid those men had not told them to stop.
 In January Dan had stood in her office on that ground
-and grinned at her over a box with his marker in his teeth.
+and grinned at her over a box with her marker in his teeth.
 His hands locked on each other behind his back at the thought
-of a long tape running through that room.
+of a long tape running through that room,
+and they held on until his wrists ached.
 
 Tick went to the feed store's spot,
 and then to a caller who wanted to know if the concession stand took cards.
@@ -295,13 +297,15 @@ and did not smile.
 
 "Two more lines on Coach's sheet were due today," Tick said.
 "Two families who told him yes in the fall.
-They've been quiet since January, and they're quiet this morning.
+They've been quiet a month, and they're quiet this morning.
 Nothing on the computer, nothing on the fax.
 The office tells me not to look for it."
 
 Dan stood there again.
-Neither family had picked up a phone since January,
-and he had known for a month what that meant.
+Down the front row Sonny looked up from his pager at Dan once,
+and then back down.
+Neither family had picked up a phone in a month,
+and he had known for weeks what that meant.
 Hearing Tick say it to the county was another thing.
 His class was a quarterback and two families short now,
 in front of everybody who had ever bought a ticket,
@@ -309,7 +313,7 @@ and every man on his staff would carry that class into his next interview.
 He thought of Aisha across town in the good jacket,
 waiting on a finding that was hers and nobody else's,
 and he was glad she was nowhere near a radio.
-The knot between his shoulders eased a notch at that.
+The knot at the top of his spine eased a notch at that.
 
 
 At twenty-five to twelve Tick's phone lit again,
@@ -341,10 +345,10 @@ and she had never found a way to have both.
 His voice changed for it.
 It went slower and plainer, the way a man read a thing he had not written.
 
-"'We drove Trey to Birmingham on the twenty-third of December
+"'I drove Trey to Birmingham on the twenty-third of December
 to get a doctor there to say this one was wrong.
 He read everything she sent, and he saw my son himself,
-and he told us she was right, and he wrote it down.
+and he told me she was right, and he wrote it down.
 I've had his report in my purse since that night.
 I never showed it to anybody. I never showed my husband.'"
 
@@ -375,8 +379,7 @@ and I let him say it by himself.
 I went home Monday night and opened my purse.'"
 
 Tick let the gym have a second of it.
-"That's Missy Gault, friends.
-She stood up because of what Coach Merritt said on Monday."
+"That's Missy Gault, friends."
 
 Every head in the front row turned to Dan.
 His throat shut.
@@ -401,19 +404,20 @@ Tick listened a long time.
 "Marisol says he didn't know about that report," Tick said.
 "She says he looked at it in Missy's hand like it had hit him."
 
-Then Tick read Denny, and he read him slow.
+Tick said the reviewer had let Denny speak too.
+Then he read Denny slow.
 
 "'They brought me the families' letter to sign, and I told them no.
 I wanted my boy on a field more than I ever wanted anything.
 I didn't want him on it that bad.'"
 
 Denny's name had not been on that letter.
-On Delmar's porch in January, Dan had let the missing name lie
-and had not asked.
+On Delmar's porch in January, Dan had seen the missing name and let it lie.
 Now the whole county had the why of it, in Tick's voice.
 The loudest man on the porch had been the father who would not sign.
-It landed on Dan too,
-and his hands found each other again behind his back and held on hard.
+Nobody had asked him why, and Dan had not asked either.
+His hands found each other again behind his back
+and held on hard, and the ache of it went up into his shoulders.
 
 "They're reading the finding," Tick said,
 and he held one hand up to the gym without looking at it.
@@ -429,13 +433,13 @@ He had never waited on anything like this.
 And the reviewer called her documentation exemplary.
 Marisol spelled it for me. Exemplary."
 
+She was clear.
 *Affirmed* meant the review said she had been right, in writing, for good.
-The suspension was gone, and her record was clean.
+The suspension was gone.
+Her record was clean.
 Whatever hospital or school she walked into next,
 that record would walk in beside her with nothing on it,
 and nobody at any front desk would ever have to ask her about this county.
-Dan guessed that was the line the offer out west had been waiting on.
-Nobody had told him so.
 
 Tick had the phone back at his ear.
 "Marisol says the reviewer asked Dr. Cole if she'd like to add anything,
@@ -444,14 +448,15 @@ and she stood up and said one thing," Tick said. "Here's the doctor."
 "'For the record, the patient is on the bike and doing well,
 and that's the only finding I was waiting on.'"
 
-It came out in Tick's slow careful voice, and it was hers anyway.
+It came out in Tick's slow careful voice.
+It was hers anyway.
 Dan could hear exactly how she had said it.
 It was short and exact, with the dry turn at the end.
 She had put the patient ahead of herself, the way she always did.
 His heart turned over hard.
 He laughed out loud, one short sound, alone at center court,
 and nobody near him knew why.
-His knees went loose, and he locked them.
+The pulse jumped in his neck hard enough that he felt it against his collar.
 Heat came up into his face, and this time he let it come.
 Something in his chest that had been held since November let go.
 He wanted her in this gym so badly his hands shook with it.
@@ -468,7 +473,8 @@ Sonny pulled his off by the bill.
 Earlene took off the knit hat and held it in her lap with both hands.
 At the card table Tick reached up under the headphones,
 took off his own cap, and laid it on the mixer.
-The whole Liars' Table sat bareheaded in the front row of a high school gym
+The whole Liars' Table sat bareheaded,
+Tick at his card table and the rest in the front row of a high school gym,
 for a doctor who was across town and would not see it,
 and not one of them looked around to see who was watching.
 Dan's breath caught at Earlene's hat in her lap, and it stayed caught.
@@ -477,6 +483,7 @@ Then somebody near the top of the bleachers started to clap.
 The rest of the gym came in under it,
 and it went on long enough that Tick took his hand off the fader
 and let the county hear it.
+A shiver went over Dan's skin at the sound of it.
 Halfway up, a big man in a work coat sat with his hat on and his arms folded.
 Dan stood at center court and did not trust his face.
 He put his hands in his jacket pockets so nobody would see them shake.
@@ -494,8 +501,6 @@ and every good thing that's come to that boy since came out of that no."
 Tunk leaned down over the rail with his phone.
 "Odell says forty-six days this morning, Tick. Since the boy sat.
 He says somebody ought to say it on the radio."
-
-Odell had wanted that number on the radio since the day he cut Dan's hair.
 
 "Forty-six days, Odell," Tick said into the mic.
 "He's on a bike, and he knows his own name. There. It's on the radio."
@@ -518,15 +523,17 @@ Earlene came along the front row with the knit hat still in her hand.
 
 "I'll let the radio tell her," Dan said.
 
-"Mm." Earlene looked at him longer than he liked,
-and then she put her hat back on.
+"Mm." Earlene looked at him longer than he liked.
+A flush came up his face, and she watched it come
+before she put her hat back on.
 
 He was glad for her all the way down.
 It sat warm under his breastbone and would not go anywhere,
 and he did not want it to.
-His knees still did not feel like his own.
-He had wanted her cleared more than he had wanted the class.
-The county had sat in the bleachers and watched him lose the class
+His legs still did not feel like his own,
+and his heart had not come all the way down.
+He had wanted her cleared more than he had wanted the class,
+and the county had sat in the bleachers and watched him lose the class
 on the same morning she got her name back.
 He would not have traded it back for any quarterback alive.
 He would have paid it twice.
@@ -537,14 +544,14 @@ the one he had not read on the air.
 
 *Pruett, W. — walk-on. Keeps his spot.*
 
-He had decided it in December off the scout-team film, alone,
+He had decided it off the scout-team film, alone,
 and he had told nobody.
 Marisol had phoned the county this morning to tell it the truth about a doctor.
 She did not know yet that her own boy was staying.
 He put the card back in his jacket.
 
 For the first time since Thursday night in Verna Poteat's gravel,
-he let himself think about the RAV4 in front of nine, loaded to the roof,
+he let himself think about the RAV4 in front of nine, loaded,
 and about the boxes coming back out of it.
 He did not let himself think about who would carry them.
 His breath came easy for the first time all winter.
@@ -582,6 +589,11 @@ Dan sat with one hand on the class sheet.
 The class closed at five, and nobody else was going to sign.
 The terms would be done with it at five.
 At five he meant to drive down to Verna's and knock on the door of nine.
+She was clear now.
+He guessed a clean record was the line the offer out west had been waiting on,
+though nobody had told him so.
+Cleared, she could take the job out west with nothing on her name.
+That was what he meant to be on her step about.
 Whatever he said, he would say it to her face and not into a phone.
 He had not got as far as the words.
 His heart kicked up at the thought and would not settle,
@@ -593,8 +605,8 @@ He was going to be standing on her step by a quarter past five.
 At ten past three the athletic director came up the corridor
 with his coat still on.
 He had sat at the review's table all morning and at his own desk since,
-and Dan heard his shoes on the tile a long way off.
-The athletic director stopped in Dan's open door.
+and Dan heard his shoes on the tile a long way off
+before the athletic director stopped in his open door.
 Then he came in and shut it behind him.
 
 Dan thought it was the job.
@@ -616,7 +628,7 @@ The athletic director took a breath and let it go, and took another.
 "The chair out west called me at half past two," the athletic director said.
 "It wasn't a reference call this time.
 He wanted a release date for her.
-She wants to start early, and he needs us to let her go."
+He needs us to let her go."
 
 Dan did not say anything.
 He could not get a breath in under the words.
@@ -624,11 +636,25 @@ The athletic director looked at him, and at the shut door, and back.
 Out in the corridor somebody laughed at something,
 and it came through the door small and far off.
 Dan's palm had gone cold on the class sheet.
-He knew what was coming, and he held still and let it come.
+He knew what was coming.
+He held still and let it come.
 
 "She said yes, Dan."
 The athletic director's voice had gone quiet on it.
 "She sent it this afternoon, after the finding came down."
+
+The athletic director took his phone out of his coat.
+He turned it round and laid it on the desk in front of Dan.
+The chair had forwarded her reply.
+
+*I accept the directorship. A. Cole, MD.*
+
+Dan read it twice.
+It was sent.
+He was reading her yes on another man's phone,
+and he had never asked her the question.
+His throat closed on it.
+The athletic director took the phone back.
 
 It did not land all at once.
 It came in low, a flat cold under his ribs, and then it spread.
@@ -649,7 +675,7 @@ Now she had told the west, and the west had told his boss,
 and his boss had shut Dan's own door to tell him.
 Two days ago he had stood up in front of the county for her.
 She had not sent him one line.
-It went through him hot, and for a minute he was angry at her,
+It came up hot in his chest, and for a minute he was angry at her,
 plain and hard, the way he had not let himself be all winter.
 Then it gave way, and under it was only the wanting.
 He wanted her in that doorway instead of this man.
@@ -664,7 +690,7 @@ Rex Boyd had called out west in January
 and put in a good word for the doctor his money wanted out of her rooms.
 He was a man who cleaned up his messes before anybody saw them,
 and she had been his mess.
-His money had not been able to move her clinic.
+His money had not been able to move his building past the trustees on Monday.
 It had moved her.
 The paper under Dan's hand crumpled, and he let it.
 
@@ -712,13 +738,32 @@ It was the haircut she had laughed at in the dark of nine,
 the last time he had made her laugh.
 The ache went down from under his hand into his chest and stayed there,
 and he kept his hand where it was.
+
+He could hear the building.
 Down the corridor the radio went to the feed store's spot,
 the same one Tick had run that morning,
 and then back to a man who was glad about her.
-Dan did not move.
-The class sheet lay crumpled under his other hand with its three empty lines,
-and he sat with his hand on the back of his neck
-while the afternoon went on toward five without him.
+At half past four somebody in the weight room racked a last plate
+and shut the radio off.
+The quiet came up the corridor after it.
+Doors shut down the hall one at a time.
+Ty's voice went past the open door and said good night,
+and Dan heard himself say it back.
+Then there was only the radiator ticking under the window,
+and his own breath, and under it his heart, going slow.
+
+Across campus the carillon struck five.
+He counted it.
+The class was closed, with three lines empty.
+The terms had lifted with it.
+He had meant to be on his feet by now with his keys in his hand.
+He sat.
+He heard the clock over his door tick round to a quarter past.
+It was his hour, the one he had worked out after Ty left,
+with the sheet creasing under his fingers,
+and it came and went in the quiet building
+while he sat with his hand on the back of his neck.
+He did not get up.
 
 [TK the high school's name].
 [CHECK: why the college's show sits in the high school gym; the drafter's
@@ -749,3 +794,8 @@ not said to be the same man)].
 [TK the western chair, unnamed; his call at half past two; proposed].
 [TK the weight room's radio; Ty at Dan's door at two; proposed].
 [TK the epigraph handle NotAFootballMom; new].
+[TK the chair forwarding her reply to the athletic director].
+[TK the building emptying at half past four, Ty's good night, and the clock
+over Dan's office door; proposed].
+[TK the carillon striking five heard from the Fieldhouse; the carillon
+strikes the hours on accepted pages].
