@@ -4,7 +4,7 @@ Dan, Wednesday the third of February. Three blind drafters. The false high, then
 
 **Targets.**
 
-Romance 7 · Heat 3 · Aisha 2 · Dan 2 · Wound 1 · Fun 3 · Town 3 · Menace 1 · Ends down · Talk normal · Words 3400 · Pays Boyd
+Romance 5 · Heat 3 · Aisha 2 · Dan 2 · Wound 1 · Fun 3 · Town 3 · Menace 1 · Ends down · Talk normal · Words 3400 · Pays Dan
 
 **The plot.**
 

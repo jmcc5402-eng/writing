@@ -13,8 +13,11 @@ card's calls (AUTHOR-NOTES 299).
 
 **TARGETS (the definition of done — `canon/TARGETS.md` row 28, copied;
 CHANGED 2026-09-25 by the author's default: ends up → down):**
-Romance 7 · Heat 3 · Aisha 2 · Dan 2 · Wound 1 · Fun 3 · Town 3 ·
-Menace 1 · Ends down · Talk normal · Words 3400 · Pays Boyd.
+Romance 5 · Heat 3 · Aisha 2 · Dan 2 · Wound 1 · Fun 3 · Town 3 ·
+Menace 1 · Ends down · Talk normal · Words 3400 · Pays Dan.
+(CHANGED after the blind round by the author, AUTHOR-NOTES 300: romance
+7 → 5 — an all-day-apart chapter cannot reach 7 by design; Pays Boyd →
+Dan — Boyd never loses in this book; the page's bill is Dan's.)
 On the author's scale: the romance is apart all day — the town's joy is
 about her and he feels it FOR her; then her yes reaches him second-hand.
 Romance 7 is the want at a distance and the drop. Heat 3 is a CEILING
