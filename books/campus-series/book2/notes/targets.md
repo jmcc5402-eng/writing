@@ -11,3 +11,4 @@ Written by `studio/tools/targets-check.py --record`. The romance level gates acc
 | 25 | 6→5 | 1→1 | 1→2 | down→down | quiet→quiet | 3400→3682 | Aisha | 2026-09-24 |
 | 26 | 7→8 | 6→6 | 0→2 | button→up | normal→normal | 3000→3438 | Dan | 2026-09-24 |
 | 27 | 8→7 | 5→5 | 1→3 | flat→warm | normal→normal | 4200→4801 | Dan | 2026-09-25 |
+| 28 | 5→5 | 3→1 | 3→3 | down→down | normal→normal | 3400→6437 | Dan | 2026-09-25 |

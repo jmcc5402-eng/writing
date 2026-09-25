@@ -2,6 +2,37 @@
 
 Manuscript-affecting changes, newest first. (Hard rule 6.)
 
+## 2026-09-25 — ch 28 "Signing Day" drafted: three blind candidates, B wins (chapter PR)
+
+- The card: ends DOWN on her yes (the author's "Default," note 299; TARGETS
+  row 28 up → down); Dan learns it from the western chair through the
+  athletic director; the chair's "a donor here" (Boyd is a trustee on no
+  page — the keeper's B2).
+- The brief audited by the keeper (E6): BLOCK, seven fixes — the flipped
+  quarterback IS on the pages (ch 20, 22) and is today's cost with the two
+  families; Boyd a donor; the families quiet since January — today their
+  papers do not come; the clock and who is where; the Liars' Table rebuilt
+  from the page (Tick, Tunk, Earlene, Peanut, Sonny); the voicemail
+  deferred; Odell's count forty-six.
+- Three blind drafters (D2, D3, D4); six reads; B won
+  (notes/ch28-scoreboard-2026-09-25.md). The losers in notes/candidates/.
+  Two panels saw the matrix row while reading its definitions — recorded;
+  the re-read is pointed at the definitions by line range.
+- Revision (D6) closed fourteen asks: her Thursday reason in his head at
+  the drop ("I'm not going to be the thing this cost you. I'd rather be
+  gone than be that."); his plan for a quarter past five; the sting of
+  hearing it from his boss a second time; her one line to the review; the
+  back stairs in his palm; Missy says it was the coach.
+- The score (romance 6) and the keeper (BLOCK: "us" at Birmingham, the
+  window's length, whose marker) → the fix pass (D1): her typed yes read
+  off his boss's phone; the chapter runs to five and he does not get up;
+  the offer guess moved into his plan so the high runs pure; the want-tag
+  roll call cut to acts.
+- By the orchestrator: two joins and one split at beats, punctuation only
+  (the date sentence; the athletic director's approach; "The suspension
+  was gone. / Her record was clean."), for the sentence shape.
+  chapter-lint now skips [TK]/[CHECK] notes when it measures shape.
+
 ## 2026-09-25 — ch 27 ACCEPTED (#197) and folded (fold PR)
 
 - The author's second #197 comment (AUTHOR-NOTES 296), applied at the

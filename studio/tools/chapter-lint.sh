@@ -164,6 +164,9 @@ import re, statistics as st, sys
 t = open(sys.argv[1], encoding="utf-8").read()
 if "\n---\n" in t: t = t.split("\n---\n", 1)[1]
 t = re.sub(r"^>.*$", "", t, flags=re.M)
+# [TK …] and [CHECK …] are open questions, not prose: the end block of
+# them read as one 50-word "sentence" and moved CV and p95 (ch 27–28).
+t = re.sub(r"\[(TK|CHECK)[^\]]*\]", "", t)
 L = [len(re.findall(r"[A-Za-z'’]+", s))
      for s in re.split(r"(?<=[.!?])\s+", " ".join(t.split())) if s.strip()]
 L = [x for x in L if x]
